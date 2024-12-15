@@ -34,7 +34,8 @@ text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 texts = text_splitter.split_documents(documents)
 
 # Embeddings erstellen und Vektorstore initialisieren
-embeddings = HuggingFaceEmbeddings()
+#embeddings = HuggingFaceEmbeddings()
+embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
 vectorstore = Chroma.from_documents(texts, embeddings)
 
 # Groq LLM initialisieren
