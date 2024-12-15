@@ -29,7 +29,7 @@ loader = DirectoryLoader(
 )
 
 documents = loader.load()
-print("Länge Doks: "+ len(documents))
+print(f"Anzahl der geladenen Dokumente: {len(documents)}")
 text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 texts = text_splitter.split_documents(documents)
 
