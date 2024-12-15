@@ -7,6 +7,7 @@ from langchain.llms import Groq
 from langchain.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import CharacterTextSplitter
+from langchain_groq import ChatGroq
 
 # Groq API-Schlüssel aus secrets.toml laden
 groq_api_key = st.secrets["GROQ_API_KEY"]
