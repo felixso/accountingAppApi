@@ -1,0 +1,145 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 29
+
+Rechnungslegung in Hochinflationsländern  ( 15 )
+
+ANWENDUNGSBEREICH
+
+1   Dieser Standard ist auf Einzel- und Konzernabschlüsse von Unternehmen anzuwenden, deren funktionale Währung die eines Hochinflationslandes ist.
+
+2 In einem Hochinflationsland ist eine Berichterstattung über die Vermögens-, Finanz- und Ertragslage in der lokalen Währung ohne Anpassung nicht zweckmäßig. Der Kaufkraftverlust ist so enorm, dass der Vergleich mit Beträgen, die aus früheren Geschäftsvorfällen und anderen Ereignissen resultieren, sogar innerhalb einer Bilanzierungsperiode irreführend ist.
+
+3 Dieser Standard legt nicht fest, ab welcher Inflationsrate Hochinflation vorliegt. Die Notwendigkeit einer Anpassung des Abschlusses gemäß diesem Standard ist eine Ermessensfrage. Allerdings gibt es im wirtschaftlichen Umfeld eines Landes Anhaltspunkte, die auf Hochinflation hindeuten, nämlich u. a. folgende:
+a) 
+
+Die Bevölkerung bevorzugt es, ihr Vermögen in nicht monetären Vermögenswerten oder in einer relativ stabilen Fremdwährung zu halten. Beträge in Inlandswährung werden unverzüglich investiert, um die Kaufkraft zu erhalten.
+b) 
+
+Die Bevölkerung rechnet nicht in der Inlandswährung, sondern in einer relativ stabilen Fremdwährung. Preise können in dieser Währung angegeben werden.
+c) 
+
+Verkäufe und Käufe auf Kredit werden zu Preisen getätigt, die den für die Kreditlaufzeit erwarteten Kaufkraftverlust berücksichtigen, selbst wenn die Laufzeit nur kurz ist.
+d) 
+
+Zinssätze, Löhne und Preise sind an einen Preisindex gebunden.
+e) 
+
+Die kumulative Inflationsrate innerhalb von drei Jahren nähert sich oder überschreitet 100 %.
+
+4 Es ist wünschenswert, dass alle Unternehmen, die in der Währung eines bestimmten Hochinflationslandes bilanzieren, diesen Standard ab demselben Zeitpunkt anwenden. In jedem Fall ist er vom Beginn der Berichtsperiode an anzuwenden, in der das Unternehmen erkennt, dass in dem Land, in dessen Währung es bilanziert, Hochinflation herrscht.
+
+ANPASSUNG DES ABSCHLUSSES
+
+5 Dass sich Preise im Laufe der Zeit ändern, ist auf verschiedene spezifische oder allgemeine politische, wirtschaftliche und gesellschaftliche Kräfte zurückzuführen. Spezifische Kräfte, wie Änderungen bei Angebot und Nachfrage und technischer Fortschritt, führen unter Umständen dazu, dass einzelne Preise unabhängig voneinander erheblich steigen oder sinken. Darüber hinaus führen allgemeine Kräfte unter Umständen zu einer Änderung des allgemeinen Preisniveaus und somit der allgemeinen Kaufkraft.
+
+6 Unternehmen, die ihre Abschlüsse auf der Basis historischer Anschaffungs- und Herstellungskosten erstellen, tun dies ungeachtet der Änderungen des allgemeinen Preisniveaus oder bestimmter Preissteigerungen der angesetzten Vermögenswerte oder Schulden. Eine Ausnahme bilden die Vermögenswerte und Schulden, die das Unternehmen zum beizulegenden Zeitwert ansetzen muss oder dies freiwillig tut. So können z. B. Sachanlagen zum beizulegenden Zeitwert neu bewertet werden und biologische Vermögenswerte müssen in der Regel zum beizulegenden Zeitwert angesetzt werden. Einige Unternehmen erstellen ihre Abschlüsse jedoch nach dem Konzept der Tageswerte, das den Auswirkungen bestimmter Preisänderungen bei im Bestand befindlichen Vermögenswerten Rechnung trägt.
+
+7 In einem Hochinflationsland sind Abschlüsse unabhängig davon, ob sie auf dem Konzept der historischen Anschaffungs- und Herstellungskosten oder dem der Tageswerte basieren, nur zweckmäßig, wenn sie in der am Abschlussstichtag geltenden Maßeinheit ausgedrückt sind. Daher gilt dieser Standard für den Abschluss von Unternehmen, die in der Währung eines Hochinflationslandes bilanzieren. Die in diesem Standard geforderten Informationen in Form einer Ergänzung zu einem nicht angepassten Abschluss darzustellen, ist nicht zulässig. Auch von einer separaten Darstellung des Abschlusses vor der Anpassung wird abgeraten.
+
+8   Der Abschluss eines Unternehmens, dessen funktionale Währung die eines Hochinflationslandes ist, ist unabhängig davon, ob er auf dem Konzept der historischen Anschaffungs- und Herstellungskosten oder dem der Tageswerte basiert, in der am Abschlussstichtag geltenden Maßeinheit auszudrücken. Die in IAS 1 Darstellung des Abschlusses (in der 2007 überarbeiteten Fassung) geforderten Vergleichszahlen zur Vorperiode sowie alle anderen Informationen zu früheren Perioden sind ebenfalls in der am Abschlussstichtag geltenden Maßeinheit anzugeben. Für die Darstellung von Vergleichsbeträgen in einer anderen Darstellungswährung sind die Paragraphen 42(b) und 43 von IAS 21 Auswirkungen von Wechselkursänderungen maßgeblich.
+
+9   Der Gewinn oder Verlust aus der Nettoposition der monetären Posten ist erfolgswirksam zu erfassen und gesondert anzugeben.
+
+10 Zur Anpassung des Abschlusses gemäß diesem Standard müssen bestimmte Verfahren angewandt sowie Ermessensentscheidungen getroffen werden. Eine periodenübergreifend stetige Anwendung dieser Verfahren und Ermessensentscheidungen ist wichtiger als die Exaktheit der daraus in den angepassten Abschlüssen resultierenden Beträge.
+
+Abschlüsse auf Basis historischer Anschaffungs- und Herstellungskosten
+
+Bilanz
+
+11 Beträge in der Bilanz, die noch nicht in der am Abschlussstichtag geltenden Maßeinheit ausgedrückt sind, werden anhand eines allgemeinen Preisindex angepasst.
+
+12 Monetäre Posten werden nicht angepasst, da sie bereits in der am Abschlussstichtag geltenden Geldeinheit ausgedrückt sind. Monetäre Posten sind im Bestand befindliche Geldmittel oder Posten, für die das Unternehmen Geld zahlt oder erhält.
+
+13 Forderungen und Verbindlichkeiten, die vertraglich an Preisveränderungen gekoppelt sind, wie Indexanleihen und -kredite, werden vertragsgemäß angeglichen, um den zum Abschlussstichtag ausstehenden Betrag zu ermitteln. Diese Posten werden in der angepassten Bilanz zu diesem angeglichenen Betrag geführt.
+
+14 Alle anderen Vermögenswerte und Schulden sind nicht monetär. Manche dieser nicht monetären Posten werden zu den am Abschlussstichtag geltenden Beträgen geführt, beispielsweise zum Nettoveräußerungswert und zum beizulegenden Zeitwert, und somit nicht angepasst. Alle anderen nicht monetären Vermögenswerte und Schulden werden angepasst.
+
+15 Die meisten nicht monetären Posten werden zu ihren Anschaffungs- oder Herstellungskosten bzw. fortgeführten Anschaffungs- oder Herstellungskosten angesetzt und damit zu dem zum Erwerbszeitpunkt geltenden Betrag ausgewiesen. Die angepassten bzw. fortgeführten Anschaffungs- oder Herstellungskosten jedes Postens werden bestimmt, indem man auf die historischen Anschaffungs- oder Herstellungskosten und die kumulierten planmäßigen Abschreibungen die zwischen Anschaffungsdatum und Abschlussstichtag eingetretene Veränderung eines allgemeinen Preisindex anwendet. Sachanlagen, Vorräte an Rohstoffen und Waren, Geschäfts- oder Firmenwerte, Patente, Warenzeichen und ähnliche Vermögenswerte werden somit ab ihrem Anschaffungsdatum angepasst. Vorräte an Halb- und Fertigerzeugnissen werden ab dem Datum angepasst, an dem die Anschaffungs- und Herstellungskosten angefallen sind.
+
+16 In einigen seltenen Fällen lässt sich das Datum der Anschaffung der Sachanlagen aufgrund unvollständiger Aufzeichnungen möglicherweise nicht mehr genau feststellen oder schätzen. Unter diesen Umständen kann es bei erstmaliger Anwendung dieses Standards erforderlich sein, zur Ermittlung des Ausgangswerts für die Anpassung dieser Posten auf eine unabhängige professionelle Bewertung zurückzugreifen.
+
+17 Es ist möglich, dass für die Perioden, für die dieser Standard eine Anpassung der Sachanlagen vorschreibt, kein allgemeiner Preisindex zur Verfügung steht. In diesen Fällen kann es erforderlich sein, auf eine Schätzung zurückzugreifen, die beispielsweise auf den Bewegungen des Wechselkurses der funktionalen Währung gegenüber einer relativ stabilen Fremdwährung basiert.
+
+18 Bei einigen nicht monetären Posten wird nicht der Wert zum Zeitpunkt der Anschaffung oder des Abschlussstichtags, sondern ein anderer angesetzt. Dies gilt beispielsweise für Sachanlagen, die zu einem früheren Zeitpunkt neu bewertet wurden. In diesen Fällen wird der Buchwert ab dem Datum der Neubewertung angepasst.
+
+19 Der angepasste Wert eines nicht monetären Postens wird den einschlägigen IFRS entsprechend vermindert, wenn er den erzielbaren Betrag überschreitet. Bei Sachanlagen, Geschäfts- oder Firmenwerten, Patenten und Warenzeichen wird der angepasste Wert in solchen Fällen deshalb auf den erzielbaren Betrag und bei Vorräten auf den Nettoveräußerungswert herabgesetzt.
+
+20 Es besteht die Möglichkeit, dass ein Beteiligungsunternehmen, das nach der Equity-Methode bilanziert wird, in der Währung eines Hochinflationslandes berichtet. Die Bilanz und die Gesamtergebnisrechnung eines solchen Beteiligungsunternehmens werden gemäß diesem Standard angepasst, damit der Anteil des Eigentümers am Nettovermögen und am Gewinn oder Verlust errechnet werden kann. Werden die angepassten Abschlüsse des Beteiligungsunternehmens in einer Fremdwährung ausgewiesen, so werden sie zum Stichtagskurs umgerechnet.
+
+21 Die Auswirkungen der Inflation werden im Regelfall in den Fremdkapitalkosten erfasst. Es ist nicht sachgerecht, eine kreditfinanzierte Investition anzupassen und gleichzeitig den Teil der Fremdkapitalkosten zu aktivieren, der als Ausgleich für die Inflation im entsprechenden Zeitraum gedient hat. Dieser Teil der Fremdkapitalkosten wird in der Periode, in der diese Kosten anfallen, als Aufwand erfasst.
+
+22 Ein Unternehmen kann Vermögenswerte im Rahmen einer Vereinbarung erwerben, die eine zinsfreie Stundung der Zahlung ermöglicht. Wenn die Zurechnung eines Zinsbetrags nicht durchführbar ist, werden solche Vermögenswerte ab dem Zahlungs- und nicht ab dem Erwerbszeitpunkt angepasst.
+
+23 [gestrichen]
+
+24 Zu Beginn der ersten Periode der Anwendung dieses Standards werden die Bestandteile des Eigenkapitals, mit Ausnahme der Gewinnrücklagen sowie etwaiger Neubewertungsrücklagen, vom Zeitpunkt ihrer Zuführung in das Eigenkapital anhand eines allgemeinen Preisindex angepasst. Alle in früheren Perioden entstandenen Neubewertungsrücklagen werden eliminiert. Angepasste Gewinnrücklagen werden aus allen anderen Beträgen in der angepassten Bilanz abgeleitet.
+
+25 Am Ende der ersten Periode und in den folgenden Perioden werden sämtliche Bestandteile des Eigenkapitals jeweils vom Beginn der Periode oder vom Zeitpunkt einer gegebenenfalls späteren Zuführung an anhand eines allgemeinen Preisindex angepasst. Die Änderungen des Eigenkapitals in der Periode werden gemäß IAS 1 angegeben.
+
+Gesamtergebnisrechnung
+
+26 Nach diesem Standard sind alle Posten der Gesamtergebnisrechnung in der am Abschlussstichtag geltenden Maßeinheit auszudrücken. Dies bedeutet, dass alle Beträge anhand des allgemeinen Preisindex anzupassen sind und zwar ab dem Zeitpunkt, zu dem die jeweiligen Erträge und Aufwendungen erstmals im Abschluss erfasst wurden.
+
+Gewinn oder Verlust aus der Nettoposition der monetären Posten
+
+27 Hat ein Unternehmen in einer Periode der Inflation mehr monetäre Forderungen als Verbindlichkeiten, so verliert es an Kaufkraft, während ein Unternehmen mit mehr monetären Verbindlichkeiten als Forderungen an Kaufkraft gewinnt, sofern die Forderungen und Verbindlichkeiten nicht an einen Preisindex gekoppelt sind. Ein solcher Gewinn oder Verlust aus der Nettoposition der monetären Posten lässt sich aus der Differenz aus der Anpassung der nicht monetären Vermögenswerte, des Eigenkapitals und der Posten aus der Gesamtergebnisrechnung sowie der Angleichung der indexgebundenen Forderungen und Verbindlichkeiten ableiten. Ein solcher Gewinn oder Verlust kann geschätzt werden, indem die Änderung eines allgemeinen Preisindex auf den gewichteten Durchschnitt der in der Berichtsperiode verzeichneten Differenz zwischen monetären Forderungen und Verbindlichkeiten angewandt wird.
+
+28 Der Gewinn bzw. Verlust aus der Nettoposition der monetären Posten wird erfolgswirksam erfasst. Die nach Paragraph 13 erfolgte Angleichung der Forderungen und Verbindlichkeiten, die vertraglich an Preisänderungen gebunden sind, wird mit dem Gewinn oder Verlust aus der Nettoposition der monetären Posten saldiert. Andere Ertrags- und Aufwandsposten wie Zinserträge und Zinsaufwendungen sowie Währungsumrechnungsdifferenzen in Verbindung mit investierten oder aufgenommenen liquiden Mitteln werden auch mit der Nettoposition der monetären Posten in Beziehung gesetzt. Obwohl diese Posten gesondert angegeben werden, kann es hilfreich sein, sie in der Gesamtergebnisrechnung zusammen mit dem Gewinn oder Verlust aus der Nettoposition der monetären Posten darzustellen.
+
+Abschlüsse zu Tageswerten
+
+Bilanz
+
+29 Die zu Tageswerten angegebenen Posten werden nicht angepasst, da sie bereits in der am Abschlussstichtag geltenden Maßeinheit angegeben sind. Andere Posten in der Bilanz werden nach den Paragraphen 11 bis 25 angepasst.
+
+Gesamtergebnisrechnung
+
+30 Vor der Anpassung weist die zu Tageswerten aufgestellte Gesamtergebnisrechnung die Kosten zum Zeitpunkt der damit verbundenen Geschäftsvorfälle oder anderen Ereignisse aus. Umsatzkosten und planmäßige Abschreibungen werden zu den Tageswerten zum Zeitpunkt ihres Verbrauchs erfasst; Umsatzerlöse und andere Aufwendungen werden zu dem zum Zeitpunkt ihres Anfallens geltenden Geldbetrag erfasst. Daher sind alle Beträge anhand eines allgemeinen Preisindex in die am Abschlussstichtag geltende Maßeinheit umzurechnen.
+
+Gewinn oder Verlust aus der Nettoposition der monetären Posten
+
+31 Der Gewinn oder Verlust aus der Nettoposition der monetären Posten wird nach den Paragraphen 27 und 28 bilanziert.
+
+Steuern
+
+32 Die Anpassung des Abschlusses gemäß diesem Standard kann zu Differenzen zwischen dem in der Bilanz ausgewiesenen Buchwert der einzelnen Vermögenswerte und Schulden und deren steuerlichen Basis führen. Diese Differenzen werden nach IAS 12 Ertragsteuern bilanziert.
+
+Kapitalflussrechnung
+
+33 Nach diesem Standard sind alle Posten der Kapitalflussrechnung in der am Abschlussstichtag geltenden Maßeinheit auszudrücken.
+
+Vergleichszahlen
+
+34 Vergleichszahlen für die vorangegangene Berichtsperiode werden unabhängig davon, ob sie auf dem Konzept der historischen Anschaffungs- und Herstellungskosten oder dem der Tageswerte basieren, anhand eines allgemeinen Preisindex angepasst, damit der Vergleichsabschluss in der am Abschlussstichtag geltenden Maßeinheit dargestellt ist. Informationen zu früheren Perioden werden ebenfalls in der am Abschlussstichtag geltenden Maßeinheit ausgedrückt. Für die Darstellung von Vergleichsbeträgen in einer anderen Darstellungswährung sind die Paragraphen 42(b) und 43 von IAS 21 maßgeblich.
+
+Konzernabschlüsse
+
+35 Ein Mutterunternehmen, das in der Währung eines Hochinflationslandes berichtet, kann Tochterunternehmen haben, die ihren Abschluss ebenfalls in der Währung eines hochinflationären Landes erstellen. Der Abschluss jedes dieser Tochterunternehmen ist anhand eines allgemeinen Preisindex des Landes anzupassen, in dessen Währung das Tochterunternehmen bilanziert, bevor er vom Mutterunternehmen in den Konzernabschluss einbezogen wird. Handelt es sich bei dem Tochterunternehmen um ein ausländisches Tochterunternehmen, so wird der angepasste Abschluss zum Stichtagskurs umgerechnet. Die Abschlüsse von Tochterunternehmen, die nicht in der Währung eines Hochinflationslandes berichten, werden gemäß IAS 21 behandelt.
+
+36 Werden Abschlüsse mit unterschiedlichen Abschlussstichtagen konsolidiert, sind alle Posten – ob monetär oder nicht – an die am Stichtag des Konzernabschlusses geltende Maßeinheit anzupassen.
+
+Auswahl und Verwendung des allgemeinen Preisindex
+
+37 Zur Anpassung des Abschlusses gemäß diesem Standard muss ein allgemeiner Preisindex herangezogen werden, der die Veränderungen in der allgemeinen Kaufkraft widerspiegelt. Es ist wünschenswert, dass alle Unternehmen, die in der Währung derselben Volkswirtschaft berichten, denselben Index verwenden.
+
+BEENDIGUNG DER HOCHINFLATION IN EINER VOLKSWIRTSCHAFT
+
+38   Wenn ein bisheriges Hochinflationsland nicht mehr als solches eingestuft wird und das Unternehmen aufhört, seinen Abschluss gemäß diesem Standard zu erstellen, sind die Beträge, die in der am Ende der vorangegangenen Berichtsperiode geltenden Maßeinheit ausgedrückt sind, als Grundlage für die Buchwerte in seinem darauffolgenden Abschluss heranzuziehen.
+
+ANGABEN
+
+39   Angegeben werden muss,
+a) 
+
+dass der Abschluss und die Vergleichszahlen für frühere Perioden aufgrund von Änderungen der allgemeinen Kaufkraft der funktionalen Währung angepasst wurden und daher in der am Abschlussstichtag geltenden Maßeinheit angegeben sind,
+b) 
+
+ob der Abschluss auf dem Konzept historischer Anschaffungs- und Herstellungskosten oder dem Konzept der Tageswerte basiert und
+c) 
+
+Art sowie Höhe des Preisindex am Abschlussstichtag sowie Veränderungen des Index während der aktuellen und der vorangegangenen Periode.
+
+40 Die in diesem Standard geforderten Angaben sind notwendig, um die Grundlage für die Behandlung der Inflationsauswirkungen im Abschluss zu verdeutlichen. Ferner sind sie dazu bestimmt, weitere Informationen zu geben, die für das Verständnis dieser Grundlage und der daraus resultierenden Beträge notwendig sind.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+41 Dieser Standard ist verbindlich auf Abschlüsse für Berichtsperioden anzuwenden, die am oder nach dem 1. Januar 1990 beginnen.

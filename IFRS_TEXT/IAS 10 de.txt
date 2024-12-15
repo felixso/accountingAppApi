@@ -1,0 +1,175 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 10
+
+Ereignisse nach dem Abschlussstichtag
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses Standards ist es, Folgendes zu regeln:
+a) 
+
+wann ein Unternehmen Ereignisse nach dem Abschlussstichtag in seinem Abschluss zu berücksichtigen hat und
+b) 
+
+welche Angaben ein Unternehmen über den Zeitpunkt, zu dem der Abschluss zur Veröffentlichung freigegeben wurde, und über Ereignisse nach dem Abschlussstichtag zu machen hat.
+
+Der Standard verlangt außerdem, dass ein Unternehmen seinen Abschluss nicht auf der Grundlage der Annahme der Unternehmensfortführung aufstellt, wenn Ereignisse nach dem Abschlussstichtag anzeigen, dass die Annahme der Unternehmensfortführung unangemessen ist.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist auf die Bilanzierung und Angabe von Ereignissen nach dem Abschlussstichtag anzuwenden.
+
+DEFINITIONEN
+
+3   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Ereignisse nach dem Abschlussstichtag sind vorteilhafte oder nachteilige Ereignisse, die zwischen dem Abschlussstichtag und dem Tag eintreten, an dem der Abschluss zur Veröffentlichung freigegeben wird. Es wird dabei zwischen zwei Arten von Ereignissen unterschieden:
+a) 
+
+Ereignisse, die weitere Anhaltspunkte für Gegebenheiten liefern, die bereits am Abschlussstichtag vorgelegen haben (berücksichtigungspflichtige Ereignisse nach dem Abschlussstichtag) und
+b) 
+
+Ereignisse, die Gegebenheiten anzeigen, die nach dem Abschlussstichtag eingetreten sind (nicht zu berücksichtigende Ereignisse nach dem Abschlussstichtag).
+
+4 Verfahren für die Freigabe des Abschlusses zur Veröffentlichung können sich je nach Managementstruktur, gesetzlichen Vorschriften und den Abläufen bei den Vorarbeiten und der Erstellung des Abschlusses voneinander unterscheiden.
+
+5 In einigen Fällen ist ein Unternehmen verpflichtet, seinen Abschluss den Anteilseignern zur Genehmigung vorzulegen, nachdem der Abschluss veröffentlicht wurde. In solchen Fällen gilt der Abschluss zum Zeitpunkt der Veröffentlichung als zur Veröffentlichung freigegeben, und nicht erst, wenn die Anteilseigner den Abschluss genehmigen.
+
+Beispiel
+
+Das Management erstellt den Abschluss zum 31. Dezember 20X1 am 28. Februar 20X2 im Entwurf. Am 18. März 20X2 prüft das Geschäftsführungs- und/oder Aufsichtsorgan den Abschluss und gibt ihn zur Veröffentlichung frei. Das Unternehmen gibt sein Ergebnis und weitere ausgewählte finanzielle Informationen am 19. März 20X2 bekannt. Der Abschluss wird den Anteilseignern und anderen Personen am 1. April 20X2 zugänglich gemacht. Der Abschluss wird auf der Jahresversammlung der Anteilseigner am 15. Mai 20X2 genehmigt und dann am 17. Mai 20X2 bei einer Aufsichtsbehörde eingereicht.
+
+Der Abschluss wird am 18. März 20X2 zur Veröffentlichung freigegeben (Tag der Freigabe zur Veröffentlichung durch das Geschäftsführungs- und/oder Aufsichtsorgan.
+
+6 In einigen Fällen ist das Management des Unternehmens verpflichtet, den Abschluss einem Aufsichtsorgan (das ausschließlich aus nicht der Geschäftsführung angehörenden Personen besteht) zur Genehmigung vorzulegen. In solchen Fällen ist der Abschluss zur Veröffentlichung freigegeben, wenn das Management die Vorlage an das Aufsichtsorgan genehmigt.
+
+Beispiel
+
+Am 18. März 20X2 gibt das Management den Abschluss zur Weitergabe an das Aufsichtsorgan frei. Das Aufsichtsorgan besteht ausschließlich aus nicht der Geschäftsführung angehörenden Personen und kann Arbeitnehmervertreter und externe Interessenvertreter einschließen. Das Aufsichtsorgan genehmigt den Abschluss am 26. März 20X2. Der Abschluss wird den Anteilseignern und anderen Personen am 1. April 20X2 zugänglich gemacht. Die Anteilseigner genehmigen den Abschluss auf ihrer Jahreshauptversammlung am 15. Mai 20X2 und der Abschluss wird dann am 17. Mai 20X2 bei einer Aufsichtsbehörde eingereicht.
+
+Der Abschluss wird am 18. März 20X2 zur Veröffentlichung freigegeben (Tag der Freigabe zur Vorlage an das Aufsichtsorgan durch das Management).
+
+7 Ereignisse nach dem Abschlussstichtag schließen alle Ereignisse bis zu dem Zeitpunkt ein, an dem der Abschluss zur Veröffentlichung freigegeben wird, auch wenn diese Ereignisse nach Ergebnisbekanntgabe oder der Veröffentlichung anderer ausgewählter finanzieller Informationen eintreten.
+
+ERFASSUNG UND BEWERTUNG
+
+Berücksichtigungspflichtige Ereignisse nach dem Abschlussstichtag
+
+8   Ein Unternehmen hat die in seinem Abschluss erfassten Beträge anzupassen, damit berücksichtigungspflichtige Ereignisse nach dem Abschlussstichtag abgebildet werden.
+
+9 Im Folgenden werden Beispiele von berücksichtigungspflichtigen Ereignissen nach dem Abschlussstichtag genannt, die ein Unternehmen dazu verpflichten, die im Abschluss erfassten Beträge anzupassen, oder Sachverhalte zu erfassen, die bislang nicht erfasst waren:
+a) 
+
+die Beilegung eines gerichtlichen Verfahrens nach dem Abschlussstichtag, womit bestätigt wird, dass das Unternehmen eine gegenwärtige Verpflichtung zum Abschlussstichtag hatte. Jede zuvor angesetzte Rückstellung in Bezug auf dieses gerichtliche Verfahren wird vom Unternehmen nach IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen angepasst oder eine neue Rückstellung wird angesetzt. Das Unternehmen gibt nicht bloß eine Eventualverbindlichkeit an, weil die Beilegung zusätzliche Anhaltspunkte liefert, die nach Paragraph 16 von IAS 37 berücksichtigt werden,
+b) 
+
+das Erlangen von Informationen nach dem Abschlussstichtag darüber, dass ein Vermögenswert am Abschlussstichtag wertgemindert war oder dass der Betrag eines früher erfassten Wertminderungsaufwands für diesen Vermögenswert angepasst werden muss. Beispiel:
+i) 
+
+das nach dem Abschlussstichtag eingeleitete Insolvenzverfahren eines Kunden, das im Regelfall bestätigt, dass die Bonität des Kunden am Abschlussstichtag beeinträchtigt war, und
+ii) 
+
+der Verkauf von Vorräten nach dem Abschlussstichtag kann einen Anhaltspunkt für den Nettoveräußerungswert am Abschlussstichtag liefern,
+c) 
+
+die nach dem Abschlussstichtag erfolgte Ermittlung der Anschaffungskosten für erworbene Vermögenswerte oder der Erlöse für vor dem Abschlussstichtag verkaufte Vermögenswerte,
+d) 
+
+die nach dem Abschlussstichtag erfolgte Ermittlung der Beträge für Zahlungen aus Gewinn- oder Erfolgsbeteiligungsplänen, wenn das Unternehmen am Abschlussstichtag eine gegenwärtige rechtliche oder faktische Verpflichtung hatte, solche Zahlungen aufgrund von vor diesem Zeitpunkt liegenden Ereignissen zu leisten (siehe IAS 19 Leistungen an Arbeitnehmer),
+e) 
+
+die Entdeckung eines Betrugs oder von Fehlern, die zeigt, dass der Abschluss falsch ist.
+
+Nicht zu berücksichtigende Ereignisse nach dem Abschlussstichtag
+
+10   Ein Unternehmen darf die im Abschluss erfassten Beträge nicht anpassen, um nicht zu berücksichtigende Ereignisse nach dem Abschlussstichtag abzubilden.
+
+11 Ein Beispiel für nicht zu berücksichtigende Ereignisse nach dem Abschlussstichtag ist das Sinken des beizulegenden Zeitwerts von Finanzinvestitionen zwischen dem Abschlussstichtag und dem Tag, an dem der Abschluss zur Veröffentlichung freigegeben wird. Das Sinken des beizulegenden Zeitwerts hängt in der Regel nicht mit der Beschaffenheit der Finanzinvestitionen am Abschlussstichtag zusammen, sondern spiegelt Umstände wider, die nachträglich eingetreten sind. Daher passt ein Unternehmen die im Abschluss für Finanzinvestitionen erfassten Beträge nicht an. Gleichermaßen aktualisiert ein Unternehmen nicht die für Finanzinvestitionen angegebenen Beträge zum Abschlussstichtag, obwohl es notwendig sein kann, zusätzliche Angaben nach Paragraph 21 zu machen.
+
+Dividenden
+
+12   Wenn ein Unternehmen nach dem Abschlussstichtag Dividenden für Inhaber von Eigenkapitalinstrumenten (wie in IAS 32 Finanzinstrumente: Darstellung definiert) beschließt, darf das Unternehmen diese Dividenden zum Abschlussstichtag nicht als Schulden ansetzen.
+
+13 Wenn Dividenden nach der Berichtsperiode, aber vor der Freigabe des Abschlusses zur Veröffentlichung beschlossen werden, werden diese Dividenden am Abschlussstichtag nicht als Schulden angesetzt, da zu dem Zeitpunkt keine Verpflichtung dazu besteht. Diese Dividenden werden nach IAS 1 Darstellung des Abschlusses im Anhang angegeben.
+
+UNTERNEHMENSFORTFÜHRUNG
+
+14   Ein Unternehmen darf seinen Abschluss nicht auf der Grundlage der Annahme der Unternehmensfortführung aufstellen, wenn das Management nach dem Abschlussstichtag entweder beabsichtigt, das Unternehmen aufzulösen, den Geschäftsbetrieb einzustellen oder keine realistische Alternative mehr hat, als so zu handeln.
+
+15 Eine Verschlechterung der Vermögens-, Finanz- und Ertragslage nach dem Abschlussstichtag kann ein Hinweis darauf sein, dass es notwendig ist, zu prüfen, ob die Aufstellung des Abschlusses unter der Annahme der Unternehmensfortführung weiterhin angemessen ist. Ist die Annahme der Unternehmensfortführung nicht länger angemessen, wirkt sich dies so entscheidend aus, dass dieser Standard eine fundamentale Änderung der Grundlage der Rechnungslegung fordert und nicht nur die Anpassung der im Rahmen der ursprünglichen Grundlage der Rechnungslegung erfassten Beträge.
+
+16 IAS 1 spezifiziert die geforderten Angaben, wenn
+a) 
+
+der Abschluss nicht unter der Annahme der Unternehmensfortführung erstellt wird oder
+b) 
+
+dem Management wesentliche Unsicherheiten in Verbindung mit Ereignissen und Gegebenheiten bekannt sind, die erhebliche Zweifel an der Fortführbarkeit des Unternehmens aufwerfen. Die Ereignisse und Gegebenheiten, die Angaben erfordern, können nach dem Abschlussstichtag entstehen.
+
+ANGABEN
+
+Zeitpunkt der Freigabe zur Veröffentlichung
+
+17   Ein Unternehmen hat den Zeitpunkt anzugeben, an dem der Abschluss zur Veröffentlichung freigegeben wurde und wer diese Freigabe vorgenommen hat. Wenn die Eigentümer des Unternehmens oder andere Personen die Möglichkeit haben, den Abschluss nach der Veröffentlichung zu ändern, hat das Unternehmen dies anzugeben.
+
+18 Für die Abschlussadressaten ist es wichtig zu wissen, wann der Abschluss zur Veröffentlichung freigegeben wurde, da der Abschluss keine Ereignisse nach diesem Zeitpunkt widerspiegelt.
+
+Aktualisierung der Angaben über Gegebenheiten am Abschlussstichtag
+
+19   Wenn ein Unternehmen Informationen über Gegebenheiten, die bereits am Abschlussstichtag bestanden haben, nach dem Abschlussstichtag erhält, hat es die betreffenden Angaben auf der Grundlage der neuen Informationen zu aktualisieren.
+
+20 In einigen Fällen ist es notwendig, dass ein Unternehmen die Angaben im Abschluss aktualisiert, um die nach dem Abschlussstichtag erhaltenen Informationen widerzuspiegeln, auch wenn die Informationen nicht die Beträge betreffen, die im Abschluss erfasst sind. Ein Beispiel für die Notwendigkeit der Aktualisierung der Angaben ist ein erst nach dem Abschlussstichtag vorliegender Nachweis für das Vorliegen einer Eventualverbindlichkeit, die bereits am Abschlussstichtag bestanden hat. Zusätzlich zu der Betrachtung, ob die Eventualverbindlichkeit als Rückstellung nach IAS 37 zu erfassen oder zu ändern ist, aktualisiert ein Unternehmen seine Angaben über die Eventualverbindlichkeit auf der Grundlage dieses Nachweises.
+
+Nicht zu berücksichtigende Ereignisse nach dem Abschlussstichtag
+
+21   Sind nicht zu berücksichtigende Ereignisse nach dem Abschlussstichtag wesentlich, ist unter normalen Umständen davon auszugehen, dass ihre Nichtangabe die Entscheidungen, die die Hauptadressaten eines Abschlusses für allgemeine Zwecke, der Finanzinformationen zum berichtenden Unternehmen enthält, auf der Grundlage dieses Abschlusses treffen, beeinflussen. Demzufolge hat ein Unternehmen folgende Informationen zu jeder bedeutenden Kategorie von nicht zu berücksichtigenden Ereignissen nach dem Abschlussstichtag anzugeben:
+a) 
+
+die Art des Ereignisses und
+b) 
+
+eine Schätzung der finanziellen Auswirkungen oder eine Aussage darüber, dass eine solche Schätzung nicht vorgenommen werden kann.
+
+22 Im Folgenden werden Beispiele von nicht zu berücksichtigenden Ereignissen nach dem Abschlussstichtag genannt, die im Allgemeinen anzugeben sind:
+a) 
+
+ein umfangreicher Unternehmenszusammenschluss nach dem Abschlussstichtag (IFRS 3 Unternehmenszusammenschlüsse erfordert in solchen Fällen besondere Angaben) oder die Veräußerung eines umfangreichen Tochterunternehmens,
+b) 
+
+Bekanntgabe eines Plans für die Aufgabe von Geschäftsbereichen,
+c) 
+
+umfangreiche Käufe von Vermögenswerten, Einstufung von Vermögenswerten als zur Veräußerung gehalten nach IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche, andere Veräußerungen von Vermögenswerten oder Enteignung von umfangreichen Vermögenswerten durch die öffentliche Hand,
+d) 
+
+die Zerstörung einer bedeutenden Produktionsstätte durch einen Brand nach dem Abschlussstichtag,
+e) 
+
+Bekanntgabe oder Beginn der Durchführung einer umfangreichen Restrukturierung (siehe IAS 37),
+f) 
+
+umfangreiche Transaktionen in Bezug auf Stammaktien und potenzielle Stammaktien nach dem Abschlussstichtag (IAS 33 Ergebnis je Aktie verlangt von einem Unternehmen, eine Beschreibung solcher Transaktionen anzugeben mit Ausnahme der Transaktionen, die Ausgaben von Gratisaktien bzw. Bonusaktien, Aktiensplitts oder umgekehrte Aktiensplitts betreffen, welche alle nach IAS 33 berücksichtigt werden müssen),
+g) 
+
+außergewöhnlich große Änderungen der Preise von Vermögenswerten oder der Wechselkurse nach dem Abschlussstichtag,
+h) 
+
+Änderungen der Steuersätze oder Steuervorschriften, die nach dem Abschlussstichtag in Kraft treten oder angekündigt werden und wesentliche Auswirkungen auf tatsächliche und latente Steueransprüche und -schulden haben (siehe IAS 12 Ertragsteuern),
+i) 
+
+Eingehen wesentlicher Verpflichtungen oder Eventualverbindlichkeiten, zum Beispiel durch Zusage beträchtlicher Gewährleistungen, und
+j) 
+
+Beginn umfangreicher Rechtsstreitigkeiten, die ausschließlich aufgrund von Ereignissen entstehen, die nach dem Abschlussstichtag eingetreten sind.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+23 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen Standard für Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+23A Durch IFRS 13 Bewertung zum beizulegenden Zeitwert, veröffentlicht im Mai 2011, wurde Paragraph 11 geändert. Wendet ein Unternehmen IFRS 13 an, ist diese Änderung ebenfalls anzuwenden.
+
+23B Durch IFRS 9 Finanzinstrumente, veröffentlicht im Juli 2014, wurde Paragraph 9 geändert. Wendet ein Unternehmen IFRS 9 an, ist diese Änderung ebenfalls anzuwenden.
+
+23C Mit der im Oktober 2018 veröffentlichten Verlautbarung Definition von „wesentlich“ (Änderungen an IAS 1 und IAS 8) wurde Paragraph 21 geändert. Diese Änderung ist prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung früher an, hat es dies anzugeben. Ein Unternehmen hat diese Änderung anzuwenden, wenn es die geänderte Definition von „wesentlich“ in Paragraph 7 von IAS 1 und in den Paragraphen 5 und 6 von IAS 8 anwendet.
+
+RÜCKNAHME VON IAS 10 (ÜBERARBEITET 1999)
+
+24 Dieser Standard ersetzt IAS 10 Ereignisse nach dem Abschlussstichtag (überarbeitet 1999).

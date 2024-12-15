@@ -1,0 +1,1290 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 3
+
+Unternehmenszusammenschlüsse
+
+ZIELSETZUNG
+
+1 Die Zielsetzung dieses IFRS ist es, die Relevanz, Verlässlichkeit und Vergleichbarkeit der Informationen zu verbessern, die ein berichtendes Unternehmen über einen Unternehmenszusammenschluss und dessen Auswirkungen in seinem Abschluss liefert. Hierzu legt dieser IFRS Grundsätze und Vorschriften dazu fest, wie der Erwerber
+a) 
+
+die erworbenen identifizierbaren Vermögenswerte, die übernommenen Schulden und alle nicht beherrschenden Anteile an dem erworbenen Unternehmen in seinem Abschluss ansetzt und bewertet,
+b) 
+
+den beim Unternehmenszusammenschluss erworbenen Geschäfts- oder Firmenwert oder einen Gewinn aus einem Erwerb unter Marktwert ansetzt und bewertet und
+c) 
+
+bestimmt, welche Angaben zu machen sind, damit die Abschlussadressaten die Art und die finanziellen Auswirkungen des Unternehmenszusammenschlusses beurteilen können.
+
+ANWENDUNGSBEREICH
+
+2 Dieser IFRS ist auf Transaktionen oder andere Ereignisse anzuwenden, die die Definition eines Unternehmenszusammenschlusses erfüllen. Nicht anwendbar ist dieser IFRS auf
+a) 
+
+die Bilanzierung der Schaffung einer gemeinschaftlichen Vereinbarung im Abschluss des gemeinschaftlich geführten Unternehmens selbst.
+b) 
+
+den Erwerb eines Vermögenswerts oder einer Gruppe von Vermögenswerten, die keinen Geschäftsbetrieb bilden. In solchen Fällen hat der Erwerber die einzelnen erworbenen identifizierbaren Vermögenswerte (einschließlich solcher, die die Definition und die Ansatzkriterien für immaterielle Vermögenswerte gemäß IAS 38 Immaterielle Vermögenswerte erfüllen) und die übernommenen Schulden zu identifizieren und anzusetzen. Die Anschaffungskosten der Gruppe sind den einzelnen identifizierbaren Vermögenswerten und Schulden zum Erwerbszeitpunkt auf Grundlage ihrer beizulegenden Zeitwerte zuzuordnen. Eine solche Transaktion oder ein solches Ereignis führt nicht zu einem Geschäfts- oder Firmenwert.
+c) 
+
+einen Zusammenschluss von Unternehmen oder Geschäftsbetrieben unter gemeinsamer Beherrschung (die entsprechenden Anwendungsleitlinien sind in den Paragraphen B1–B4 enthalten).
+
+2A Die Vorschriften dieses Standards gelten nicht für den Erwerb einer Beteiligung an einem Tochterunternehmen durch eine Investmentgesellschaft im Sinne von IFRS 10 Konzernabschlüsse, sofern dieses Tochterunternehmen erfolgswirksam zum beizulegenden Zeitwert bewertet werden muss.
+
+IDENTIFIZIERUNG EINES UNTERNEHMENSZUSAMMENSCHLUSSES
+
+3   Zur Klärung der Frage, ob eine Transaktion oder ein anderes Ereignis einen Unternehmenszusammenschluss darstellt, muss ein Unternehmen die Definition aus diesem IFRS anwenden, die verlangt, dass die erworbenen Vermögenswerte und übernommenen Schulden einen Geschäftsbetrieb darstellen. Stellen die erworbenen Vermögenswerte keinen Geschäftsbetrieb dar, hat das berichtende Unternehmen die Transaktion oder das andere Ereignis als Erwerb von Vermögenswerten zu bilanzieren. Die Paragraphen B5–B12D enthalten Leitlinien zur Identifizierung eines Unternehmenszusammenschlusses und zur Definition eines Geschäftsbetriebs.
+
+DIE ERWERBSMETHODE
+
+4   Jeder Unternehmenszusammenschluss ist nach der Erwerbsmethode zu bilanzieren.
+
+5 Die Anwendung der Erwerbsmethode erfordert
+a) 
+
+die Identifizierung des Erwerbers,
+b) 
+
+die Bestimmung des Erwerbszeitpunkts,
+c) 
+
+den Ansatz und die Bewertung der erworbenen identifizierbaren Vermögenswerte, der übernommenen Schulden und aller nicht beherrschenden Anteile an dem erworbenen Unternehmen sowie
+d) 
+
+den Ansatz und die Bewertung des Geschäfts- oder Firmenwerts oder eines Gewinns aus einem Erwerb zu einem Preis unter Marktwert.
+
+Identifizierung des Erwerbers
+
+6   Bei jedem Unternehmenszusammenschluss ist eines der beteiligten Unternehmen als der Erwerber zu identifizieren.
+
+7 Für die Identifizierung des Erwerbers — d. h. des Unternehmens, das die Beherrschung über das erworbene Unternehmen erlangt — sind die Leitlinien in IFRS 10 anzuwenden. Bei Unternehmenszusammenschlüssen, bei denen sich anhand der Leitlinien in IFRS 10 nicht eindeutig bestimmen lässt, welches der zusammengeschlossenen Unternehmen der Erwerber ist, sind die in den Paragraphen B14–B18 genannten Faktoren heranzuziehen.
+
+Bestimmung des Erwerbszeitpunkts
+
+8   Der Erwerber hat den Erwerbszeitpunkt zu bestimmen, d. h. den Zeitpunkt, zu dem er die Beherrschung über das erworbene Unternehmen erlangt.
+
+9 Der Zeitpunkt, zu dem der Erwerber die Beherrschung über das erworbene Unternehmen erlangt, ist im Allgemeinen der Tag, an dem er die Gegenleistung rechtsgültig transferiert, die Vermögenswerte erhält und die Schulden des erworbenen Unternehmens übernimmt – der Tag des Abschlusses. Der Erwerber kann indes die Beherrschung zu einem Zeitpunkt erlangen, der entweder vor oder nach dem Tag des Abschlusses liegt. Der Erwerbszeitpunkt liegt beispielsweise vor dem Tag des Abschlusses, wenn in einer schriftlichen Vereinbarung vorgesehen ist, dass der Erwerber die Beherrschung über das erworbene Unternehmen zu einem Zeitpunkt vor dem Tag des Abschlusses erlangt. Ein Erwerber hat bei der Ermittlung des Erwerbszeitpunkts alle einschlägigen Tatsachen und Umstände zu berücksichtigen.
+
+Ansatz und Bewertung der erworbenen identifizierbaren Vermögenswerte, der übernommenen Schulden und aller nicht beherrschenden Anteile an dem erworbenen Unternehmen
+
+Ansatzgrundsatz
+
+10   Zum Erwerbszeitpunkt hat der Erwerber die erworbenen identifizierbaren Vermögenswerte, die übernommenen Schulden und alle nicht beherrschenden Anteile an dem erworbenen Unternehmen getrennt vom Geschäfts- oder Firmenwert anzusetzen. Der Ansatz der erworbenen identifizierbaren Vermögenswerte und der übernommenen Schulden unterliegt den in den Paragraphen 11 und 12 genannten Bedingungen.
+
+Ansatzbedingungen
+
+11 Um im Rahmen der Anwendung der Erwerbsmethode die Ansatzkriterien zu erfüllen, müssen die erworbenen identifizierbaren Vermögenswerte und die übernommenen Schulden den im Rahmenkonzept für die Finanzberichterstattung enthaltenen Definitionen von Vermögenswerten und Schulden zum Erwerbszeitpunkt entsprechen So stellen beispielsweise Kosten, die der Erwerber für die Zukunft erwartet, keine zum Erwerbszeitpunkt bestehenden Schulden dar, wenn der Erwerber nicht dazu verpflichtet ist, diese Kosten auf sich zu nehmen, um seinem Plan entsprechend eine Tätigkeit des erworbenen Unternehmens aufzugeben oder Mitarbeiter des erworbenen Unternehmens zu entlassen oder zu versetzen. Daher erfasst der Erwerber diese Kosten bei der Anwendung der Erwerbsmethode nicht. Stattdessen erfasst er diese Kosten gemäß anderen IFRS in seinen auf den Unternehmenszusammenschluss folgenden Abschlüssen.
+
+12 Der Ansatz im Rahmen der Erwerbsmethode setzt ferner voraus, dass die erworbenen identifizierbaren Vermögenswerte und übernommenen Schulden Teil dessen sind, was Erwerber und erworbenes Unternehmen (oder dessen frühere Eigentümer) in der Transaktion des Unternehmenszusammenschlusses getauscht haben, und dass diese nicht aus gesonderten Transaktionen stammen. Der Erwerber hat die Leitlinien der Paragraphen 51–53 anzuwenden, um zu bestimmen, welche erworbenen Vermögenswerte und welche übernommenen Schulden Teil des Austauschs für das erworbene Unternehmen sind und welche gegebenenfalls aus einer separaten Transaktion stammen, die entsprechend ihrer Art und gemäß den für sie anwendbaren IFRS zu bilanzieren ist.
+
+13 Wenn der Erwerber den Ansatzgrundsatz und die Ansatzbedingungen anwendet, werden möglicherweise einige Vermögenswerte und Schulden angesetzt, die das erworbene Unternehmen zuvor nicht als Vermögenswerte und Schulden in seinem Abschluss angesetzt hatte. Der Erwerber setzt beispielsweise die erworbenen identifizierbaren immateriellen Vermögenswerte, wie einen Markennamen, ein Patent oder eine Kundenbeziehung an, die das erworbene Unternehmen nicht als Vermögenswerte in seinem Abschluss angesetzt hatte, da es diese intern entwickelt und die zugehörigen Kosten als Aufwendungen erfasst hatte.
+
+14 Die Paragraphen B31–B40 enthalten Leitlinien zum Ansatz von immateriellen Vermögenswerten. In den Paragraphen 21A–28B werden die Arten von identifizierbaren Vermögenswerten und Schulden beschrieben, die Posten enthalten, für die dieser IFRS begrenzte Ausnahmen vom Ansatzgrundsatz und von den Ansatzbedingungen vorsieht.
+
+Klassifizierung oder Designation der bei einem Unternehmenszusammenschluss erworbenen identifizierbaren Vermögenswerte und übernommenen Schulden
+
+15   Zum Erwerbszeitpunkt hat der Erwerber die erworbenen identifizierbaren Vermögenswerte und übernommenen Schulden einzustufen oder zu designieren, sofern dies erforderlich ist, um anschließend andere IFRS anwenden zu können. Diese Einstufungen oder Designationen basieren auf den Vertragsbedingungen, den wirtschaftlichen Bedingungen, der Geschäftspolitik oder den Rechnungslegungsmethoden und anderen zum Erwerbszeitpunkt gültigen einschlägigen Bedingungen.
+
+16 In bestimmten Situationen sehen die IFRS unterschiedliche Formen der Rechnungslegung vor, je nachdem wie ein Unternehmen den jeweiligen Vermögenswert oder die jeweilige Schuld einstuft oder designiert. Beispiele für Einstufungen oder Designationen, welche der Erwerber auf der Grundlage der zum Erwerbszeitpunkt bestehenden einschlägigen Bedingungen vorzunehmen hat, sind u. a.:
+a) 
+
+die Einstufung bestimmter finanzieller Vermögenswerte und Verbindlichkeiten gemäß IFRS 9 Finanzinstrumente als erfolgswirksam zum beizulegenden Zeitwert bewertet oder als zu fortgeführten Anschaffungskosten bewertet oder als erfolgsneutral zum beizulegenden Zeitwert im sonstigen Ergebnis bewertet,
+b) 
+
+die Designation eines derivativen Finanzinstruments als Sicherungsinstrument gemäß IFRS 9 und
+c) 
+
+die Beurteilung, ob ein eingebettetes Derivat gemäß IFRS 9 vom Basisvertrag zu trennen ist (hierbei handelt es sich um eine „Einstufung“ im Sinne der Verwendung dieses Begriffs in diesem IFRS).
+
+17 Dieser IFRS sieht eine Ausnahme von dem Grundsatz in Paragraph 15 vor:
+a) 
+
+die Einstufung eines Leasingvertrags, in dem das erworbene Unternehmen der Leasinggeber ist, gemäß IFRS 16 Leasingverhältnisse entweder als Operating-Leasingverhältnis oder als Finanzierungsleasingverhältnis.
+b) 
+
+[gestrichen]
+
+Der Erwerber hat diese Verträge basierend auf den Vertragsbedingungen und anderen Faktoren bei Abschluss des Vertrags einzustufen (oder falls die Vertragsbedingungen auf eine Weise geändert wurden, die deren Einstufung ändern würde, zum Zeitpunkt dieser Änderung, welche der Erwerbszeitpunkt sein könnte).
+
+Bewertungsgrundsatz
+
+18   Die erworbenen identifizierbaren Vermögenswerte und übernommenen Schulden sind vom Erwerber zu ihrem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert zu bewerten.
+
+19 Bei jedem Unternehmenszusammenschluss hat der Erwerber zum Erwerbszeitpunkt die Bestandteile der nicht beherrschenden Anteile an dem erworbenen Unternehmen, die gegenwärtig Eigentumsanteile sind und ihre Inhaber im Fall der Liquidation zu einem entsprechenden Anteil am Nettovermögen des Unternehmens berechtigen, nach einer der folgenden Methoden zu bewerten:
+a) 
+
+zum beizulegenden Zeitwert oder
+b) 
+
+zum entsprechenden Anteil der gegenwärtigen Eigentumsinstrumente an den für das identifizierbare Nettovermögen des erworbenen Unternehmens angesetzten Beträgen.
+
+Alle anderen Bestandteile der nicht beherrschenden Anteile sind zu ihrem beizulegenden Zeitwert zum Erwerbszeitpunkt zu bewerten, es sei denn, die IFRS schreiben eine andere Bewertungsgrundlage vor.
+
+20 In den Paragraphen 24–31A werden die Arten von identifizierbaren Vermögenswerten und Schulden beschrieben, die Posten enthalten, für die dieser IFRS begrenzte Ausnahmen von dem Bewertungsgrundsatz vorsieht.
+
+Ausnahmen von den Ansatz- oder Bewertungsgrundsätzen
+
+21 Dieser IFRS sieht begrenzte Ausnahmen von seinen Ansatz- und Bewertungsgrundsätzen vor. Die Paragraphen 21A–31A beschreiben sowohl die besonderen Posten, für die Ausnahmen vorgesehen sind, als auch die Art dieser Ausnahmen. Bei der Bilanzierung dieser Posten gelten die Anforderungen der Paragraphen 21A–31A, was dazu führt, dass einige Posten
+a) 
+
+entweder gemäß Ansatzbedingungen angesetzt werden, die zusätzlich zu den in den Paragraphen 11 und 12 beschriebenen Ansatzbedingungen gelten, oder gemäß den Anforderungen anderer IFRS angesetzt werden, wobei sich die Ergebnisse im Vergleich zur Anwendung der Ansatzgrundsätze und -bedingungen unterscheiden,
+b) 
+
+zu einem anderen Betrag als zu ihren zum Erwerbszeitpunkt geltenden beizulegenden Zeitwerten bewertet werden.
+
+Ausnahmen vom Ansatzgrundsatz
+
+Verbindlichkeiten und Eventualverbindlichkeiten im Anwendungsbereich von IAS 37 oder IFRIC 21
+
+21A Paragraph 21B gilt für Verbindlichkeiten und Eventualverbindlichkeiten, die in den Anwendungsbereich von IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen oder von IFRIC 21 Abgaben fielen, wenn sie gesondert eingegangen und nicht bei einem Unternehmenszusammenschluss übernommen würden.
+
+21B Im Rahmenkonzept für die Finanzberichterstattung ist eine Schuld definiert als eine gegenwärtige Verpflichtung des Unternehmens, eine wirtschaftliche Ressource als Folge vergangener Ereignisse zu übertragen. Fiele eine Rückstellung oder Eventualverbindlichkeit in den Anwendungsbereich von IAS 37, hat der Erwerber zur Feststellung, ob zum Erwerbszeitpunkt eine aus vergangenen Ereignissen resultierende gegenwärtige Verpflichtung vorliegt, die Paragraphen 15–22 des IAS 37 anzuwenden. Fiele eine Abgabe in den Anwendungsbereich von IFRIC 21, hat der Erwerber zur Feststellung, ob das zur Entrichtung der Abgabe verpflichtende Ereignis bis zum Erwerbszeitpunkt eingetreten ist, IFRIC 21 anzuwenden.
+
+21C Eine gemäß Paragraph 21B festgestellte gegenwärtige Verpflichtung könnte der Definition einer Eventualverbindlichkeit in Paragraph 22(b) entsprechen. Ist dies der Fall, gilt für diese Eventualverbindlichkeit Paragraph 23.
+
+Eventualverbindlichkeiten und Eventualforderungen
+
+22 Eine Eventualverbindlichkeit wird in IAS 37 definiert als:
+a) 
+
+eine mögliche Verpflichtung, die aus Ereignissen der Vergangenheit entsteht und deren Existenz durch das Eintreten oder Nichteintreten eines oder mehrerer unsicherer künftiger Ereignisse, die nicht vollständig unter der Kontrolle des Unternehmens stehen, erst noch bestätigt wird, oder
+b) 
+
+eine gegenwärtige Verpflichtung, die auf Ereignissen der Vergangenheit beruht, jedoch nicht angesetzt wird, weil
+i) 
+
+ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen zur Erfüllung dieser Verpflichtung nicht wahrscheinlich ist oder
+ii) 
+
+die Höhe der Verpflichtung nicht hinreichend verlässlich geschätzt werden kann.
+
+23 Ein Erwerber hat eine bei einem Unternehmenszusammenschluss übernommene Eventualverbindlichkeit zum Erwerbszeitpunkt anzusetzen, wenn es sich um eine gegenwärtige Verpflichtung handelt, die aus früheren Ereignissen resultiert und für die der beizulegende Zeitwert verlässlich bestimmt werden kann. Entgegen den Paragraphen 14(b), 23, 27, 29 und 30 von IAS 37 setzt ein Erwerber eine in einem Unternehmenszusammenschluss übernommene Eventualverbindlichkeit zum Erwerbszeitpunkt deshalb selbst dann an, wenn es nicht wahrscheinlich ist, dass ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen zur Erfüllung dieser Verpflichtung erforderlich sein wird. Paragraph 56 dieses IFRS enthält Leitlinien für die Folgebilanzierung von Eventualverbindlichkeiten.
+
+23A Eine Eventualforderung wird in IAS 37 definiert als „ein möglicher Vermögenswert, der aus vergangenen Ereignissen resultiert und dessen Existenz durch das Eintreten oder Nichteintreten eines oder mehrerer unsicherer künftiger Ereignisse erst noch bestätigt wird, die nicht vollständig unter der Kontrolle des Unternehmens stehen“. Eine Eventualforderung ist vom Erwerber zum Erwerbszeitpunkt nicht anzusetzen.
+
+Ausnahmen von den Ansatz- und Bewertungsgrundsätzen
+
+Ertragsteuern
+
+24 Der Erwerber hat einen latenten Steueranspruch oder eine latente Steuerschuld aus bei einem Unternehmenszusammenschluss erworbenen Vermögenswerten und übernommenen Schulden gemäß IAS 12 Ertragsteuern anzusetzen und zu bewerten.
+
+25 Der Erwerber hat die möglichen steuerlichen Auswirkungen der temporären Differenzen und Verlustvorträge eines erworbenen Unternehmens, die zum Erwerbszeitpunkt bereits bestehen oder infolge des Erwerbs entstehen, gemäß IAS 12 zu bilanzieren.
+
+Leistungenan Arbeitnehmer
+
+26 Der Erwerber hat eine Schuld (oder gegebenenfalls einen Vermögenswert) in Verbindung mit Vereinbarungen für Leistungen an Arbeitnehmer des erworbenen Unternehmens gemäß IAS 19 Leistungen an Arbeitnehmer anzusetzen und zu bewerten.
+
+Vermögenswerte aus Entschädigungsleistungen
+
+27 Der Veräußerer kann bei einem Unternehmenszusammenschluss den Erwerber vertraglich für die Auswirkungen einer Unsicherheit oder Unwägbarkeit hinsichtlich aller oder eines Teils der spezifischen Vermögenswerte oder Schulden entschädigen. Der Veräußerer kann beispielsweise den Erwerber für Verluste, die über einen bestimmten Betrag einer Schuld aus einem besonderen Eventualfall hinausgehen, entschädigen; mit anderen Worten, der Veräußerer möchte garantieren, dass die Schuld des Erwerbers einen bestimmten Betrag nicht überschreitet. Damit erhält der Erwerber einen Vermögenswert für Entschädigungsleistungen. Der Erwerber hat den Vermögenswert für Entschädigungsleistungen zur gleichen Zeit anzusetzen und auf der gleichen Grundlage zu bewerten, wie er den entschädigten Posten ansetzt und bewertet, vorbehaltlich der Notwendigkeit einer Wertberichtigung für uneinbringliche Beträge. Wenn die Entschädigungsleistung einen Vermögenswert oder eine Schuld betrifft, der/die zum Erwerbszeitpunkt angesetzt wird und zu dessen/deren zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert bewertet wird, dann hat der Erwerber den Vermögenswert für die Entschädigungsleistung ebenso zum Erwerbszeitpunkt anzusetzen und mit dessen zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert zu bewerten. Für einen zum beizulegenden Zeitwert bewerteten Vermögenswert für Entschädigungsleistungen sind die Auswirkungen der Ungewissheit bezüglich künftiger Zahlungsströme aufgrund der Einbringlichkeit der Gegenleistungen in der Bestimmung des beizulegenden Zeitwerts mit inbegriffen und eine gesonderte Wertberichtigung ist nicht notwendig (die entsprechenden Anwendungsleitlinien sind in Paragraph B41 enthalten).
+
+28 Unter bestimmten Umständen kann sich die Entschädigungsleistung auf einen Vermögenswert oder eine Schuld beziehen, der/die eine Ausnahme von den Ansatz- oder Bewertungsgrundsätzen darstellt. Eine Entschädigungsleistung kann sich beispielsweise auf eine Eventualverbindlichkeit beziehen, die zum Erwerbszeitpunkt nicht angesetzt wird, da ihr beizulegender Zeitwert zu dem Stichtag nicht verlässlich bewertet werden kann. Alternativ kann sich eine Entschädigungsleistung auf einen Vermögenswert oder ein Schuld beziehen, der/die beispielsweise aus Leistungen an Arbeitnehmer stammt, welche auf einer anderen Grundlage als dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert bestimmt werden. Unter diesen Umständen ist der Vermögenswert für Entschädigungsleistungen vorbehaltlich der Einschätzung der Geschäftsleitung bezüglich seiner Einbringlichkeit sowie der vertraglichen Begrenzung des Entschädigungsbetrags unter Zugrundelegung der gleichen Annahmen anzusetzen wie der entschädigte Posten selbst. Paragraph 57 enthält Leitlinien für die Folgebilanzierung eines Vermögenswerts für Entschädigungsleistungen.
+
+Leasingverhältnisse, bei denen das erworbene Unternehmender Leasingnehmer ist
+
+28A Für Leasingverhältnisse nach IFRS 16, bei denen das erworbene Unternehmen der Leasingnehmer ist, hat der Erwerber Nutzungsrechte und Leasingverbindlichkeiten anzusetzen. Für folgende Leasingverhältnisse muss der Erwerber keine Nutzungsrechte und Leasingverbindlichkeiten ansetzen:
+a) 
+
+Leasingverhältnisse, deren Laufzeit (im Sinne von IFRS 16) innerhalb von 12 Monaten nach dem Erwerbszeitpunkt endet, und
+b) 
+
+Leasingverhältnisse, bei denen der zugrunde liegende Vermögenswert (im Sinne der Beschreibung in den Paragraphen B3–B8 von IFRS 16) von geringem Wert ist.
+
+28B Der Erwerber bewertet die Leasingverbindlichkeit zum Barwert der verbleibenden Leasingzahlungen (im Sinne von IFRS 16) so, als handele es sich bei der erworbenen Leasingvereinbarung um eine zum Erwerbszeitpunkt neu geschlossene Vereinbarung. Der Erwerber bewertet das Nutzungsrecht mit demselben Betrag wie die Leasingverbindlichkeit und passt diesen Betrag gegebenenfalls an, je nachdem, ob die Bedingungen der Leasingvereinbarung verglichen mit den Marktbedingungen günstig oder ungünstig sind.
+
+Ausnahmen vom Bewertungsgrundsatz
+
+Zurückerworbene Rechte
+
+29 Der Erwerber hat den Wert eines zurückerworbenen Rechts, das als ein immaterieller Vermögenswert auf der Grundlage der Restlaufzeit des zugehörigen Vertrags ausgewiesen war, unabhängig davon zu bewerten, ob Marktteilnehmer mögliche Vertragserneuerungen bei der Bewertung von dessen beizulegendem Zeitwert berücksichtigen würden. Die entsprechenden Anwendungsleitlinien sind in den Paragraphen B35 und B36 enthalten.
+
+Anteilsbasierte Vergütungen
+
+30 Der Erwerber hat eine Schuld oder ein Eigenkapitalinstrument, welche(s) sich auf anteilsbasierte Vergütungen des erworbenen Unternehmens oder den Ersatz anteilsbasierter Vergütungen des erworbenen Unternehmens durch anteilsbasierte Vergütungen des Erwerbers bezieht, zum Erwerbszeitpunkt nach der Methode in IFRS 2 Anteilsbasierte Vergütung zu bewerten. (Das Ergebnis dieser Methode wird in diesem IFRS als der „marktbasierte Wert“ der anteilsbasierten Vergütung bezeichnet.)
+
+Zur Veräußerung gehaltene Vermögenswerte
+
+31 Der Erwerber hat einen erworbenen langfristigen Vermögenswert (oder eine Veräußerungsgruppe), der (die) zum Erwerbszeitpunkt gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche als zur Veräußerung gehalten eingestuft ist, zum beizulegenden Zeitwert abzüglich Veräußerungskosten gemäß den Paragraphen 15–18 von IFRS 5 zu bewerten.
+
+Versicherungsverträge
+
+31A Der Erwerber hat eine Gruppe von im Rahmen eines Unternehmenszusammenschlusses übernommenen Verträgen im Anwendungsbereich von IFRS 17 Versicherungsverträge und alle als Vermögenswert angesetzten Abschlusskosten im Sinne der Definition in IFRS 17 zum Erwerbszeitpunkt als Verbindlichkeit oder Vermögenswert gemäß Paragraph 39 und den Paragraphen B93 bis B95F von IFRS 17 zu bewerten.
+
+Ansatz und Bewertung des Geschäfts- oder Firmenwerts oder eines Gewinns aus einem Erwerb zu einem Preis unter Marktwert
+
+32   Der Erwerber hat den Geschäfts- oder Firmenwert zum Erwerbszeitpunkt anzusetzen, der sich aus dem Betrag ergibt, um den (a) (b) übersteigt:
+a) 
+
+die Summe aus
+i) 
+
+der übertragenen Gegenleistung, die gemäß diesem IFRS im Allgemeinen zu dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert bestimmt wird, (siehe Paragraph 37)
+ii) 
+
+dem Betrag aller nicht beherrschenden Anteile an dem erworbenen Unternehmen, die gemäß diesem IFRS bewertet werden, und
+iii) 
+
+dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert des zuvor vom Erwerber gehaltenen Eigenkapitalanteils an dem erworbenen Unternehmen, wenn es sich um einen sukzessiven Unternehmenszusammenschluss handelt (siehe Paragraphen 41 und 42).
+b) 
+
+der Saldo der zum Erwerbszeitpunkt bestehenden und gemäß diesem IFRS bewerteten Beträge der erworbenen identifizierbaren Vermögenswerte und der übernommenen Schulden.
+
+33 Bei einem Unternehmenszusammenschluss, bei dem der Erwerber und das erworbene Unternehmen (oder dessen frühere Eigentümer) nur Eigenkapitalanteile tauschen, kann der zum Erwerbszeitpunkt geltende beizulegende Zeitwert der Eigenkapitalanteile des erworbenen Unternehmens eventuell verlässlicher bestimmt werden als der zum Erwerbszeitpunkt geltende beizulegende Zeitwert der Eigenkapitalanteile des Erwerbers. In einem solchen Fall hat der Erwerber den Geschäfts- oder Firmenwert zu ermitteln, indem er anstatt des zum Erwerbszeitpunkt geltenden beizulegenden Zeitwerts der übertragenen Eigenkapitalanteile den zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert der Eigenkapitalanteile des erworbenen Unternehmens verwendet. Um bei einem Unternehmenszusammenschluss, bei dem keine Gegenleistung übertragen wird, den Geschäfts- oder Firmenwert zu bestimmen, hat der Erwerber anstelle des zum Erwerbszeitpunkt geltenden beizulegenden Zeitwerts der übertragenen Gegenleistung den zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert der Anteile des Erwerbers an dem erworbenen Unternehmen zu verwenden (Paragraph 32(a)(i)). Die entsprechenden Anwendungsleitlinien sind in den Paragraphen B46–B49 enthalten.
+
+Erwerb zu einem Preis unter Marktwert
+
+34 Gelegentlich macht ein Erwerber einen Erwerb zu einem Preis unter Marktwert, wobei es sich um einen Unternehmenszusammenschluss handelt, bei dem der Betrag in Paragraph 32(b) die Summe der in Paragraph 32(a) beschriebenen Beträge übersteigt. Bleibt dieser Überschuss nach Anwendung der Vorschriften in Paragraph 36 bestehen, hat der Erwerber den resultierenden Gewinn zum Erwerbszeitpunkt erfolgswirksam zu erfassen. Der Gewinn ist dem Erwerber zuzurechnen.
+
+35 Einen Erwerb zu einem Preis unter Marktwert kann es beispielsweise bei einem Unternehmenszusammenschluss geben, bei dem es sich um einen Zwangsverkauf handelt und der Verkäufer unter Zwang handelt. Die in den Paragraphen 22–31A beschriebenen Ausnahmen besonderer Posten von den Ansatz- oder Bewertungsgrundsätzen können jedoch auch dazu führen, dass ein Gewinn aus einem Erwerb unter Marktwert angesetzt wird (oder dass sich der Betrag eines angesetzten Gewinns ändert).
+
+36 Vor dem Ansatz eines Gewinns aus einem Erwerb unter Marktwert hat der Erwerber nochmals zu beurteilen, ob er alle erworbenen Vermögenswerte und alle übernommenen Schulden richtig identifiziert hat, und alle bei dieser Prüfung zusätzlich identifizierten Vermögenswerte oder Schulden anzusetzen. Danach hat der Erwerber die Verfahren zu überprüfen, mit denen die Beträge ermittelt worden sind, die nach diesem IFRS zum Erwerbszeitpunkt für Folgendes ausgewiesen werden müssen:
+a) 
+
+identifizierbare erworbene Vermögenswerte und übernommene Schulden,
+b) 
+
+gegebenenfalls nicht beherrschende Anteile an dem übernommenen Unternehmen,
+c) 
+
+bei einem sukzessiven Unternehmenszusammenschluss die zuvor vom Erwerber gehaltenen Eigenkapitalanteile an dem erworbenen Unternehmen und
+d) 
+
+die übertragene Gegenleistung.
+
+Der Zweck dieser Überprüfung besteht darin sicherzustellen, dass bei den Bewertungen alle zum Erwerbszeitpunkt verfügbaren Informationen angemessen berücksichtigt worden sind.
+
+Übertragene Gegenleistung
+
+37 Die bei einem Unternehmenszusammenschluss übertragene Gegenleistung ist mit dem beizulegenden Zeitwert zu bewerten. Dieser berechnet sich, indem die vom Erwerber übertragenen Vermögenswerte, die Schulden, die der Erwerber von den früheren Eigentümern des erworbenen Unternehmens übernommenen hat, und die vom Erwerber ausgegebenen Eigenkapitalanteile zum Erwerbszeitpunkt mit ihren beizulegenden Zeitwerten bewertet und diese beizulegenden Zeitwerte addiert werden. (Der Teil der anteilsbasierten Vergütungsprämien des Erwerbers, die gegen Prämien, die von den Mitarbeitern des erworbenen Unternehmens gehalten werden und die in der bei einem Unternehmenszusammenschluss übertragenen Gegenleistung enthalten sind, getauscht werden, ist jedoch nach Paragraph 30 und nicht zum beizulegenden Zeitwert zu bestimmen.) Beispiele für mögliche Formen der Gegenleistung sind u. a. Zahlungsmittel, sonstige Vermögenswerte, ein Geschäftsbetrieb oder ein Tochterunternehmen des Erwerbers, bedingte Gegenleistungen, Stamm- oder Vorzugsanteile, Optionen, Optionsscheine und Anteile der Mitglieder von Gegenseitigkeitsunternehmen.
+
+38 Zu den übertragenen Gegenleistungen können Vermögenswerte oder Schulden des Erwerbers gehören, deren Buchwert von dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert abweicht (z.B. nicht-monetäre Vermögenswerte oder ein Geschäftsbetrieb des Erwerbers). Wenn dies der Fall ist, hat der Erwerber die übertragenen Vermögenswerte oder Schulden zu ihren zum Erwerbszeitpunkt geltenden beizulegenden Zeitwerten neu zu bewerten und die daraus gegebenenfalls resultierende Gewinne bzw. Verluste erfolgswirksam zu erfassen. Manchmal verbleiben die übertragenen Vermögenswerte oder Schulden nach dem Unternehmenszusammenschluss jedoch im zusammengeschlossenen Unternehmen (da z. B. die Vermögenswerte oder Schulden auf das übernommene Unternehmen und nicht auf die früheren Eigentümer übertragen wurden), sodass der Erwerber die Beherrschung darüber behält. In diesem Fall hat der Erwerber diese Vermögenswerte und Schulden mit ihrem Buchwert unmittelbar vor dem Erwerbszeitpunkt zu bewerten und darf einen Gewinn bzw. Verlust aus Vermögenswerten oder Schulden, die er vor und nach dem Unternehmenszusammenschluss beherrscht, nicht erfolgswirksam erfassen.
+
+B e d i n g t e G e g e n l e i s t u n g
+
+39 Die Gegenleistung, die der Erwerber im Tausch gegen das erworbene Unternehmen überträgt, schließt alle Vermögenswerte oder Schulden aus einer Vereinbarung über eine bedingte Gegenleistung ein (siehe Paragraph 37). Der Erwerber hat den zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert der bedingten Gegenleistung als Teil der für das erworbene Unternehmen übertragenen Gegenleistung zu bilanzieren.
+
+40 Eine Verpflichtung zur Zahlung einer bedingten Gegenleistung, die der Definition eines Finanzinstruments entspricht, ist vom Erwerber ausgehend von den Definitionen für ein Eigenkapitalinstrument und eine finanzielle Verbindlichkeit in Paragraph 11 von IAS 32 Finanzinstrumente: Darstellung als finanzielle Verbindlichkeit oder als Eigenkapital einzustufen. Der Erwerber hat ein Recht auf Rückgabe der zuvor übertragenen Gegenleistung als Vermögenswert einzustufen, falls bestimmte Bedingungen erfüllt sind. Leitlinien für die Folgebilanzierung bedingter Gegenleistungen sind in Paragraph 58 enthalten.
+
+Zusätzliche Leitlinien für die Anwendung der Erwerbsmethode auf besondere Arten von Unternehmenszusammenschlüssen
+
+Sukzessiver Unternehmenszusammenschluss
+
+41 Manchmal erlangt ein Erwerber die Beherrschung über ein erworbenes Unternehmen, an dem er unmittelbar vor dem Erwerbszeitpunkt einen Eigenkapitalanteil gehalten hat. Zum Beispiel: Am 31. Dezember 20X1 hält Unternehmen A einen nicht beherrschenden Kapitalanteil von 35 Prozent an Unternehmen B. Zu diesem Zeitpunkt erwirbt Unternehmen A einen zusätzlichen Anteil von 40 Prozent an Unternehmen B, wodurch es die Beherrschung über Unternehmen B erlangt. Dieser IFRS bezeichnet eine solche Transaktion, die manchmal auch als ein schrittweiser Erwerb bezeichnet wird, als einen sukzessiven Unternehmenszusammenschluss.
+
+42 Bei einem sukzessiven Unternehmenszusammenschluss hat der Erwerber seinen zuvor an dem erworbenen Unternehmen gehaltenen Eigenkapitalanteil zu dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert neu zu bewerten und den daraus gegebenenfalls resultierenden Gewinn bzw. Verlust entsprechend erfolgswirksam oder im sonstigen Ergebnis zu erfassen. In früheren Perioden hat der Erwerber eventuell Wertänderungen seines Eigenkapitalanteils an dem erworbenen Unternehmen im sonstigen Ergebnis ausgewiesen. Ist dies der Fall, ist der Betrag, der im sonstigen Ergebnis ausgewiesen war, auf derselben Grundlage anzusetzen, wie dies erforderlich wäre, wenn der Erwerber den zuvor gehaltenen Eigenkapitalanteil unmittelbar veräußert hätte.
+
+42A Erlangt ein Unternehmen, das an einer gemeinschaftlichen Vereinbarung (im Sinne von IFRS 11 Gemeinschaftliche Vereinbarungen) beteiligt ist, die Beherrschung über einen Geschäftsbetrieb, bei dem es sich um eine gemeinschaftliche Tätigkeit (im Sinne von IFRS 11) handelt, und hatte es unmittelbar vor dem Erwerb Rechte an den der Tätigkeit zuzurechnenden Vermögenswerten und Verpflichtungen für deren Schulden, so liegt ein sukzessiver Unternehmenszusammenschluss vor. Der Erwerber hat deshalb die Vorgaben für einen sukzessiven Unternehmenszusammenschluss einzuhalten und u. a. seinen zuvor an der gemeinschaftlichen Tätigkeit gehaltenen Anteil in der in Paragraph 42 beschriebenen Weise neu zu bewerten. Dabei hat er seinen zuvor an der gemeinschaftlichen Tätigkeit gehaltenen Anteil zur Gänze neu zu bewerten.
+
+Unternehmenszusammenschluss ohne Übertragung einer Gegenleistung
+
+43 Manchmal erlangt ein Erwerber die Beherrschung über ein erworbenes Unternehmen, ohne eine Gegenleistung zu übertragen. Auf diese Art von Zusammenschlüssen ist die Erwerbsmethode für die Bilanzierung von Unternehmenszusammenschlüssen anzuwenden. Dazu gehören die folgenden Fälle:
+a) 
+
+Das erworbene Unternehmen kauft eine ausreichende Anzahl seiner eigenen Anteile zurück, sodass ein bisheriger Anteilseigner (der Erwerber) die Beherrschung erlangt.
+b) 
+
+Vetorechte von Minderheiten, die den Erwerber zuvor daran hinderten, die Beherrschung über ein erworbenes Unternehmen, an dem er die Mehrheit der Stimmrechte hielt, zu erlangen, erlöschen.
+c) 
+
+Der Erwerber und das erworbene Unternehmen vereinbaren, ihre Geschäftsbetriebe ausschließlich durch einen Vertrag zusammenzuschließen. Der Erwerber überträgt im Austausch für die Beherrschung über das erworbene Unternehmen keine Gegenleistung und hält keine Eigenkapitalanteile an dem erworbenen Unternehmen, weder zum Erwerbszeitpunkt noch zuvor. Als Beispiele für Unternehmenszusammenschlüsse, die ausschließlich durch einen Vertrag erfolgen, gelten das Zusammenbringen von zwei Geschäftsbetrieben unter einem Vertrag über die Verbindung der ausgegebenen Anteile oder die Gründung eines Unternehmens mit zweifach notierten Aktien.
+
+44 Bei einem ausschließlich auf einem Vertrag beruhenden Unternehmenszusammenschluss hat der Erwerber den Eigentümern des erworbenen Unternehmens den Betrag des gemäß diesem IFRS angesetzten Nettovermögens des erworbenen Unternehmens zuzuordnen. Mit anderen Worten: Die Eigenkapitalanteile, die an dem erworbenen Unternehmen von anderen Vertragsparteien als dem Erwerber gehalten werden, sind in dem nach dem Zusammenschluss erstellten Abschluss des Erwerbers selbst dann nicht beherrschende Anteile, wenn dies bedeutet, dass alle Eigenkapitalanteile an dem erworbenen Unternehmen den nicht beherrschenden Anteilen zugeordnet werden.
+
+Bewertungszeitraum
+
+45   Wenn die erstmalige Bilanzierung eines Unternehmenszusammenschlusses am Ende der Berichtsperiode, in der der Zusammenschluss stattfindet, noch nicht abgeschlossen ist, hat der Erwerber für die betreffenden Posten vorläufige Beträge in seinem Abschluss anzugeben. Während des Bewertungszeitraums hat der Erwerber die vorläufigen, zum Erwerbszeitpunkt angesetzten Beträge rückwirkend anzupassen, um die neuen Informationen über Fakten und Umstände widerzuspiegeln, die zum Erwerbszeitpunkt bestanden und die die Bewertung der zu diesem Stichtag angesetzten Beträge beeinflusst hätten, wenn sie bekannt gewesen wären. Während des Bewertungszeitraums hat der Erwerber auch zusätzliche Vermögenswerte und Schulden anzusetzen, wenn er neue Informationen über Fakten und Umstände erhalten hat, die zum Erwerbszeitpunkt bestanden und die zum Ansatz dieser Vermögenswerte und Schulden zu diesem Stichtag geführt hätten, wenn sie bekannt gewesen wären. Der Bewertungszeitraum endet, sobald der Erwerber die Informationen erhält, die er über Fakten und Umstände zum Erwerbszeitpunkt gesucht hat, oder erfährt, dass keine weiteren Informationen verfügbar sind. Der Bewertungszeitraum darf jedoch ein Jahr vom Erwerbszeitpunkt an nicht überschreiten.
+
+46 Der Bewertungszeitraum ist der Zeitraum nach dem Erwerbszeitpunkt, in dem der Erwerber die bei einem Unternehmenszusammenschluss angesetzten vorläufigen Beträge anpassen kann. Der Bewertungszeitraum gibt dem Erwerber eine angemessene Zeit, sodass dieser die Informationen erhalten kann, die benötigt werden, um Folgendes zum Erwerbszeitpunkt gemäß diesem IFRS zu identifizieren und zu bewerten:
+a) 
+
+die erworbenen identifizierbaren Vermögenswerte, die übernommenen Schulden und alle nicht beherrschenden Anteile an dem erworbenen Unternehmen,
+b) 
+
+die für das erworbene Unternehmen übertragene Gegenleistung (oder der andere bei der Bestimmung des Geschäfts- oder Firmenwerts verwendete Betrag),
+c) 
+
+die bei einem sukzessiven Unternehmenszusammenschluss zuvor vom Erwerber an dem erworbenen Unternehmen gehaltenen Eigenkapitalanteile und
+d) 
+
+der resultierende Geschäfts- oder Firmenwert oder Gewinn aus einem Erwerb zu einem Preis unter Marktwert.
+
+47 Bei der Ermittlung, ob nach dem Erwerbszeitpunkt erhaltene Informationen zu einer Anpassung der bilanzierten vorläufigen Beträge führen sollten oder ob diese Informationen Ereignisse betreffen, die nach dem Erwerbszeitpunkt stattfanden, hat der Erwerber alle relevanten Faktoren zu berücksichtigen. Zu den relevanten Faktoren gehören der Tag, an dem zusätzliche Informationen empfangen werden, und die Tatsache, ob der Erwerber einen Grund für eine Änderung der vorläufigen Beträge identifizieren kann. Informationen, die kurz nach dem Erwerbszeitpunkt empfangen werden, spiegeln wahrscheinlich eher die Umstände zum Erwerbszeitpunkt wider als Informationen, die mehrere Monate später empfangen werden. Zum Beispiel: die Veräußerung eines Vermögenswerts an einen Dritten kurz nach dem Erwerbszeitpunkt zu einem Betrag, der wesentlich von dessen zu jenem Stichtag ermittelten vorläufigen beizulegenden Zeitwert abweicht, weist wahrscheinlich auf einen Fehler beim vorläufigen Betrag hin, wenn kein dazwischen liegendes Ereignis, das dessen beizulegenden Zeitwert geändert hat, identifiziert werden kann.
+
+48 Der Erwerber erfasst eine Erhöhung (Herabsetzung) des vorläufigen Betrags, der für einen identifizierbaren Vermögenswert (eine identifizierbare Schuld) angesetzt war, indem er den Geschäfts- oder Firmenwert verringert (erhöht). Aufgrund von neuen im Bewertungszeitraum erhaltenen Informationen werden manchmal die vorläufigen Beträge von mehr als einem Vermögenswert oder einer Schuld angepasst. So könnte der Erwerber beispielsweise eine Schuld übernommen haben, die in Schadenersatzleistungen aufgrund eines Unfalls in einem der Betriebe des erworbenen Unternehmens besteht, die insgesamt oder teilweise von der Haftpflichtversicherung des erworbenen Unternehmens gedeckt sind. Erhält der Erwerber während des Bewertungszeitraums neue Informationen über den beizulegenden Zeitwert dieser Schuld zum Erwerbszeitpunkt, würden sich die Anpassung des Geschäfts- oder Firmenwerts aufgrund einer Änderung des für die Schuld angesetzten vorläufigen Betrags und eine entsprechende Anpassung des Geschäfts- oder Firmenwerts aufgrund einer Änderung des vorläufigen Betrags, der für den gegen den Versicherer bestehenden Anspruch angesetzt wurde, (im Ganzen oder teilweise) gegenseitig aufheben.
+
+49 Während des Bewertungszeitraums hat der Erwerber Anpassungen der vorläufigen Beträge so zu erfassen, als wäre die Bilanzierung des Unternehmenszusammenschlusses zum Erwerbszeitpunkt abgeschlossen worden. Somit hat der Erwerber Vergleichsinformationen für frühere Perioden, die im Abschluss bei Bedarf dargestellt werden, zu überarbeiten und Änderungen bei erfassten planmäßigen Abschreibungen oder sonstigen Auswirkungen auf den Ertrag vorzunehmen, indem er die erstmalige Bilanzierung vervollständigt.
+
+50 Nach dem Bewertungszeitraum darf der Erwerber die Bilanzierung eines Unternehmenszusammenschlusses nur überarbeiten, um einen Fehler gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler zu berichtigen.
+
+Bestimmung des Umfangs eines Unternehmenszusammenschlusses
+
+51   Der Erwerber und das erworbene Unternehmen können schon vor Beginn der Verhandlungen über den Unternehmenszusammenschluss eine Beziehung oder andere Vereinbarung unterhalten haben oder sie können während der Verhandlungen eine von dem Unternehmenszusammenschluss unabhängige Vereinbarung eingehen. In beiden Fällen hat der Erwerber alle Beträge zu identifizieren, die nicht zu dem gehören, was der Erwerber und das erworbene Unternehmen (oder dessen frühere Eigentümer) bei dem Unternehmenszusammenschluss ausgetauscht haben, d. h. Beträge, die nicht Teil des Austauschs für das erworbene Unternehmen sind. Der Erwerber hat bei Anwendung der Erwerbsmethode nur die für das erworbene Unternehmen übertragene Gegenleistung und die im Austausch für das erworbene Unternehmen erworbenen Vermögenswerte und übernommenen Schulden anzusetzen. Separate Transaktionen sind gemäß den entsprechenden IFRS zu bilanzieren.
+
+52 Eine Transaktion, die vom Erwerber oder im Auftrag des Erwerbers oder in erster Linie zum Nutzen des Erwerbers oder des zusammengeschlossenen Unternehmens und nicht in erster Linie zum Nutzen des erworbenen Unternehmens (oder seiner früheren Eigentümer) vor dem Zusammenschluss eingegangen wurde, ist wahrscheinlich eine separate Transaktion. Folgende Beispiele für separate Transaktionen fallen nicht unter die Anwendung der Erwerbsmethode:
+a) 
+
+eine Transaktion, durch die vorher bestehende Beziehungen zwischen dem Erwerber und dem erworbenen Unternehmen tatsächlich abgewickelt werden,
+b) 
+
+eine Transaktion, durch die Mitarbeiter oder ehemalige Eigentümer des erworbenen Unternehmens für künftige Leistungen vergütet werden, und
+c) 
+
+eine Transaktion, durch die dem erworbenen Unternehmen oder dessen ehemaligen Eigentümern die mit dem Unternehmenszusammenschluss verbundenen Kosten des Erwerbers erstattet werden.
+
+Die entsprechenden Anwendungsleitlinien sind in den Paragraphen B50–B62 enthalten.
+
+Mit dem Unternehmenszusammenschluss verbundene Kosten
+
+53 Mit dem Unternehmenszusammenschluss verbundene Kosten sind Kosten, die dem Erwerber für die Durchführung eines Unternehmenszusammenschlusses entstehen. Diese Kosten umfassen Vermittlerprovisionen, Beratungs-, Anwalts-, Wirtschaftsprüfungs-, Bewertungs- und sonstige Fachberatungsgebühren, allgemeine Verwaltungskosten, einschließlich der Kosten für die Unterhaltung einer internen Akquisitionsabteilung, sowie Kosten für die Registrierung und Emission von Schuld- und Eigenkapitaltiteln. Der Erwerber hat die mit dem Unternehmenszusammenschluss verbundenen Kosten als Aufwand in den Perioden zu bilanzieren, in denen die Kosten anfallen und die Leistungen empfangen werden, mit einer Ausnahme: Die Kosten für die Emission von Schuld- oder Eigenkapitaltiteln sind gemäß IAS 32 und IFRS 9 zu erfassen.
+
+FOLGEBEWERTUNG UND FOLGEBILANZIERUNG
+
+54   Im Allgemeinen hat ein Erwerber die erworbenen Vermögenswerte, die übernommenen oder eingegangenen Schulden sowie die bei einem Unternehmenszusammenschluss ausgegebenen Eigenkapitalinstrumente zu einem späteren Zeitpunkt gemäß ihrer Art im Einklang mit anderen anwendbaren IFRS zu bewerten und zu bilanzieren. Dieser IFRS sieht jedoch Leitlinien für die Folgebewertung und Folgebilanzierung der folgenden erworbenen Vermögenswerte, übernommenen oder eingegangenen Schulden und der bei einem Unternehmenszusammenschluss ausgegebenen Eigenkapitalinstrumente vor:
+a) 
+
+zurückerworbene Rechte,
+b) 
+
+zum Erwerbszeitpunkt angesetzte Eventualverbindlichkeiten,
+c) 
+
+Vermögenswerte für Entschädigungsleistungen und
+d) 
+
+bedingte Gegenleistung.
+
+Die entsprechenden Anwendungsleitlinien sind in Paragraph B63 enthalten.
+
+Zurückerworbene Rechte
+
+55 Ein zurückerworbenes Recht, das als ein immaterieller Vermögenswert angesetzt war, ist über die restliche vertragliche Dauer der Vereinbarung, durch die dieses Recht zugestanden wurde, abzuschreiben. Ein Erwerber, der nachfolgend ein zurückerworbenes Recht an einen Dritten veräußert, hat den Buchwert des immateriellen Vermögenswerts einzubeziehen, wenn er den Gewinn bzw. Verlust aus der Veräußerung ermittelt.
+
+Eventualverbindlichkeiten
+
+56 Nach dem erstmaligen Ansatz und bis die Verbindlichkeit beglichen, aufgehoben oder erloschen ist, hat der Erwerber eine bei einem Unternehmenszusammenschluss angesetzte Eventualverbindlichkeit zu dem höheren der nachstehenden Werte zu bestimmen:
+a) 
+
+dem Betrag, der nach IAS 37 angesetzt werden würde, und
+b) 
+
+dem erstmalig angesetzten Betrag gegebenenfalls abzüglich der gemäß den Grundsätzen von IFRS 15 Erlöse aus Verträgen mit Kunden erfassten kumulierten Erträge.
+
+Diese Vorschrift ist nicht auf Verträge anzuwenden, die nach IFRS 9 bilanziert werden.
+
+Vermögenswerte für Entschädigungsleistungen
+
+57 Am Ende jeder nachfolgenden Berichtsperiode hat der Erwerber einen Vermögenswert für Entschädigungsleistungen, der zum Erwerbszeitpunkt auf derselben Grundlage wie die ausgeglichene Schuld oder der entschädigte Vermögenswert angesetzt war, vorbehaltlich vertraglicher Einschränkungen hinsichtlich des Betrags zu bestimmen und im Falle eines Vermögenswerts für Entschädigungsleistungen, der nachfolgend nicht mit seinem beizulegenden Zeitwert bewertet wird, erfolgt eine Beurteilung des Managements bezüglich der Einbringlichkeit des Vermögenswerts für Entschädigungsleistungen. Der Erwerber darf den Vermögenswert für Entschädigungsleistungen nur dann ausbuchen, wenn er den Vermögenswert vereinnahmt, veräußert oder anderweitig den Anspruch darauf verliert.
+
+Bedingte Gegenleistung
+
+58 Einige Änderungen des beizulegenden Zeitwerts einer bedingten Gegenleistung, die der Erwerber nach dem Erwerbszeitpunkt erfasst, können auf zusätzliche Informationen zurückzuführen sein, die der Erwerber nach diesem Stichtag über Fakten und Umstände, die zum Erwerbszeitpunkt bereits existierten, erhalten hat. Solche Änderungen gehören gemäß den Paragraphen 45–49 zu den Anpassungen innerhalb des Bewertungszeitraums. Änderungen, die sich aus Ereignissen nach dem Erwerbszeitpunkt ergeben, wie die Erreichung eines angestrebten Ertragsziels, eines bestimmten Aktienkurses oder eines Meilensteins bei einem Forschungs- und Entwicklungsprojekt sind allerdings nicht als Anpassungen innerhalb des Bewertungszeitraums anzusehen. Änderungen des beizulegenden Zeitwerts einer bedingten Gegenleistung, die keine Anpassungen innerhalb des Bewertungszeitraums sind, hat der Erwerber wie folgt zu bilanzieren:
+a) 
+
+Eine bedingte Gegenleistung, die als Eigenkapital eingestuft ist, wird nicht neu bewertet und ihre spätere Abgeltung wird im Eigenkapital bilanziert.
+b) 
+
+Eine sonstige bedingte Gegenleistung, die
+i) 
+
+in den Anwendungsbereich von IFRS 9 fällt, ist zu jedem Abschlussstichtag zum beizulegenden Zeitwert zu bewerten, und Änderungen des beizulegenden Zeitwerts sind gemäß IFRS 9 erfolgswirksam zu erfassen.
+ii) 
+
+nicht in den Anwendungsbereich von IFRS 9 fällt, ist zu jedem Abschlussstichtag zum beizulegenden Zeitwert zu bewerten, und Änderungen des beizulegenden Zeitwerts sind erfolgswirksam zu erfassen.
+
+ANGABEN
+
+59   Der Erwerber hat Angaben zu machen, die es den Abschlussadressaten ermöglichen, die Art und die finanziellen Auswirkungen von Unternehmenszusammenschlüssen zu beurteilen, die entweder
+a) 
+
+während der aktuellen Berichtsperiode oder
+b) 
+
+nach dem Abschlussstichtag, jedoch vor der Freigabe des Abschlusses zur Veröffentlichung stattgefunden haben.
+
+60 Zur Erreichung der Zielsetzung des Paragraphen 59 hat der Erwerber die in den Paragraphen B64–B66 dargelegten Angaben zu machen.
+
+61   Der Erwerber hat Angaben zu machen, die es den Abschlussadressaten ermöglichen, die finanziellen Auswirkungen der in der aktuellen Berichtsperiode erfassten Anpassungen in Bezug auf Unternehmenszusammenschlüsse, die in dieser oder einer früheren Berichtsperiode stattgefunden haben, zu beurteilen.
+
+62 Zur Erreichung der Zielsetzung des Paragraphen 61 hat der Erwerber die in Paragraph B67 dargelegten Angaben zu machen.
+
+63 Werden die in den Paragraphen 59 und 61 dargelegten Zielsetzungen durch die in diesem und anderen IFRS verlangten spezifischen Angaben nicht erfüllt, hat der Erwerber alle zur Erreichung dieser Zielsetzungen erforderlichen zusätzlichen Angaben zu machen.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+Zeitpunkt des Inkrafttretens
+
+64 Dieser IFRS ist prospektiv auf Unternehmenszusammenschlüsse anzuwenden, bei denen der Erwerbszeitpunkt mit dem Beginn des ersten am oder nach dem 1. Juli 2009 beginnenden Geschäftsjahrs zusammenfällt oder danach liegt. Eine frühere Anwendung ist zulässig. Allerdings darf die erstmalige Anwendung frühestens zu Beginn eines am oder nach dem 30. Juni 2007 beginnenden Geschäftsjahrs erfolgen. Wendet ein Unternehmen diesen IFRS vor dem 1. Juli 2009 an, hat es dies anzugeben und gleichzeitig IAS 27 (in der 2008 geänderten Fassung) anzuwenden.
+
+64A [gestrichen]
+
+64B Durch die im Mai 2010 veröffentlichten Verbesserungen an den IFRS wurden die Paragraphen 19, 30 und B56 geändert und die Paragraphen B62A und B62B eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2010 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf ein früheres Geschäftsjahr an, hat es dies anzugeben. Diese Änderungen sollten ab der erstmaligen Anwendung dieses IFRS prospektiv angewandt werden.
+
+64C Durch die im Mai 2010 veröffentlichten Verbesserungen an den IFRS wurden die Paragraphen 65A–65E eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2010 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf ein früheres Geschäftsjahr an, hat es dies anzugeben. Die Änderungen gelten für die Salden bedingter Gegenleistungen, die sich aus Unternehmenszusammenschlüssen ergeben, deren Erwerbszeitpunkt vor der Anwendung dieses IFRS (Fassung 2008) liegt.
+
+64D [gestrichen]
+
+64E Durch IFRS 10, veröffentlicht im Mai 2011, wurden die Paragraphen 7, B13 und B63(e) sowie Anhang A geändert. Wendet ein Unternehmen IFRS 10 an, sind diese Änderungen ebenfalls anzuwenden.
+
+64F Durch IFRS 13 Bewertung zum beizulegenden Zeitwert, veröffentlicht im Mai 2011, wurden die Paragraphen 20, 29, 33 und 47, die Definition des Begriffs „beizulegender Zeitwert“ in Anhang A und die Paragraphen B22, B40, B43–B46, B49 und B64 geändert. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+64G Mit der Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27), veröffentlicht im Oktober 2012, wurde Paragraph 7 geändert und Paragraph 2A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung der Verlautbarung Investmentgesellschaften (Investment Entities) ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es alle in der Verlautbarung enthaltenen Änderungen gleichzeitig anzuwenden.
+
+64H [gestrichen]
+
+64I Durch die Jährlichen Verbesserungen an den IFRS, Zyklus 2010–2012, veröffentlicht im Dezember 2013, wurden die Paragraphen 40 und 58 geändert und Paragraph 67A samt zugehöriger Überschrift eingefügt. Diese Änderung ist prospektiv auf Unternehmenszusammenschlüsse anzuwenden, bei denen der Erwerb am oder nach dem 1. Juli 2014 stattgefunden hat. Eine frühere Anwendung ist zulässig. Ein Unternehmen kann die Änderung früher anwenden, wenn auch IFRS 9 und IAS 37 (jeweils in der durch die Jährlichen Verbesserungen an den IFRS, Zyklus 2010–2012, geänderten Fassung) angewendet werden. Wendet ein Unternehmen diese Änderung früher an, hat es dies anzugeben.
+
+64J Mit den im Dezember 2013 veröffentlichten Jährlichen Verbesserungen, Zyklus 2011–2013, wurde Paragraph 2(a) geändert. Diese Änderung ist prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+64K Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurde Paragraph 56 geändert. Wendet ein Unternehmen IFRS 15 an, ist diese Änderung ebenfalls anzuwenden.
+
+64L Durch IFRS 9, veröffentlicht im Juli 2014, wurden die Paragraphen 16, 42, 53, 56, 58 und B41 geändert und die Paragraphen 64A, 64D und 64H gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+64M Durch IFRS 16, veröffentlicht im Januar 2016, wurden die Paragraphen 14, 17, B32 und B42 geändert, die Paragraphen B28–B30 und deren Überschrift gestrichen und die Paragraphen 28A–28B und deren Überschrift eingefügt. Wendet ein Unternehmen IFRS 16 an, sind diese Änderungen ebenfalls anzuwenden.
+
+64N Durch IFRS 17, veröffentlicht im Mai 2017, wurden die Paragraphen 17, 20, 21, 35 und B63 geändert und wurden nach Paragraph 31 eine Überschrift und Paragraph 31A hinzugefügt. Durch Änderungen an IFRS 17, veröffentlicht im Juni 2020, wurde Paragraph 31A geändert. Die Änderungen am Paragraphen 17 sind auf Unternehmenszusammenschlüsse anzuwenden, bei denen der Erwerb nach erstmaliger Anwendung von IFRS 17 stattfindet. Wendet ein Unternehmen IFRS 17 an, sind die anderen Änderungen ebenfalls anzuwenden.
+
+64O Durch die im Dezember 2017 veröffentlichten Jährlichen Verbesserungen an den IFRS, Zyklus 2015–2017 wurde Paragraph 42A eingefügt. Diese Änderungen sind auf Unternehmenszusammenschlüsse anzuwenden, bei denen der Erwerbszeitpunkt mit dem Beginn des ersten am oder nach dem 1. Januar 2019 beginnenden Geschäftsjahrs zusammenfällt oder danach liegt. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben.
+
+64P Mit der im Oktober 2018 veröffentlichten Verlautbarung Definition eines Geschäftsbetriebs wurden die Paragraphen B7A–B7C, B8A und B12A–B12D eingefügt, die Definition des Begriffs „Geschäftsbetrieb“ in Anhang A geändert, die Paragraphen 3, B7–B9, B11 und B12 geändert und Paragraph B10 gestrichen. Diese Änderungen sind auf Unternehmenszusammenschlüsse anzuwenden, bei denen der Erwerbszeitpunkt mit dem Beginn des ersten am oder nach dem 1. Januar 2020 beginnenden Geschäftsjahrs zusammenfällt oder danach liegt, und auf Erwerbe von Vermögenswerten, die zu oder nach Beginn dieser Periode getätigt werden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben.
+
+64Q Durch die Verlautbarung Verweise auf das Rahmenkonzept, veröffentlicht im Mai 2020, wurden die Paragraphen 11, 14, 21, 22 und 23 geändert und die Paragraphen 21A, 21B, 21C und 23A eingefügt. Diese Änderungen sind auf Unternehmenszusammenschlüsse anzuwenden, bei denen der Erwerbszeitpunkt mit dem Beginn des ersten am oder nach dem 1. Januar 2022 beginnenden Geschäftsjahrs zusammenfällt oder danach liegt. Eine frühere Anwendung ist zulässig, wenn das Unternehmen gleichzeitig alle mit der im März 2018 veröffentlichten Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards vorgenommenen Änderungen anwendet oder diese bereits vorher angewendet hat.
+
+Übergangsvorschriften
+
+65 Vermögenswerte und Schulden aus Unternehmenszusammenschlüssen, bei denen der Erwerbszeitpunkt vor der Anwendung dieses IFRS liegt, müssen bei Anwendung dieses IFRS nicht angepasst werden.
+
+65A Salden bedingter Gegenleistungen, die aus Unternehmenszusammenschlüssen resultieren, bei denen der Erwerbszeitpunkt vor dem Datum der erstmaligen Anwendung dieses IFRS (Fassung 2008) liegt, müssen bei erstmaliger Anwendung dieses IFRS nicht angepasst werden. Bei der Folgebilanzierung dieser Salden sind die Paragraphen 65B–65E anzuwenden. Die Paragraphen 65B–65E gelten nicht für die Bilanzierung von Salden bedingter Gegenleistungen aus Unternehmenszusammenschlüssen, bei denen der Erwerbszeitpunkt mit dem Zeitpunkt der erstmaligen Anwendung dieses IFRS (Fassung 2008) zusammenfällt oder danach liegt. In den Paragraphen 65B–65E bezeichnet der Begriff Unternehmenszusammenschluss ausschließlich Zusammenschlüsse, bei denen der Erwerbszeitpunkt vor der Anwendung dieses IFRS (Fassung 2008) liegt.
+
+65B Sieht eine Vereinbarung über einen Unternehmenszusammenschluss eine von künftigen Ereignissen abhängige Anpassung der Kosten des Zusammenschlusses vor, hat der Erwerber für den Fall, dass eine solche Anpassung wahrscheinlich ist und verlässlich ermittelt werden kann, den Betrag dieser Anpassung in den Kosten des Zusammenschlusses zum Erwerbszeitpunkt zu berücksichtigen.
+
+65C Eine Vereinbarung über einen Unternehmenszusammenschluss kann vorsehen, dass die Kosten des Zusammenschlusses in Abhängigkeit von einem oder mehreren künftigen Ereignissen angepasst werden dürfen. So könnte die Anpassung beispielsweise davon abhängen, ob in künftigen Perioden eine bestimmte Gewinnhöhe gehalten oder erreicht wird oder der Marktpreis der emittierten Instrumente stabil bleibt. Trotz einer gewissen Unsicherheit kann der Betrag einer solchen Anpassung normalerweise bei erstmaliger Bilanzierung des Zusammenschlusses geschätzt werden, ohne die Verlässlichkeit der Information zu beeinträchtigen. Wenn die künftigen Ereignisse nicht eintreten oder die Schätzung korrigiert werden muss, sind die Kosten des Unternehmenszusammenschlusses entsprechend anzupassen.
+
+65D Auch wenn eine Vereinbarung über einen Unternehmenszusammenschluss eine solche Anpassung vorsieht, wird sie bei erstmaliger Bilanzierung des Zusammenschlusses nicht in den Kosten des Zusammenschlusses berücksichtigt, wenn sie nicht wahrscheinlich ist oder nicht verlässlich bewertet werden kann. Wird die Anpassung später wahrscheinlich und kann verlässlich bewertet werden, ist die zusätzliche Gegenleistung als Anpassung der Kosten des Zusammenschlusses zu behandeln.
+
+65E Wenn die vom Erwerber im Austausch für die Beherrschung des erworbenen Unternehmens übertragenen Vermögenswerte, emittierten Eigenkapitalinstrumente oder eingegangenen bzw. übernommenen Schulden an Wert verlieren, kann der Erwerber unter bestimmten Umständen zu einer nachträglichen Zahlung an den Verkäufer verpflichtet sein. Dies ist beispielsweise der Fall, wenn der Erwerber den Marktpreis von Eigenkapital- oder Schuldinstrumenten garantiert, die als Teil der Kosten des Unternehmenszusammenschlusses emittiert wurden, und zur Erreichung der ursprünglich bestimmten Kosten zusätzliche Eigenkapital- oder Schuldinstrumente emittieren muss. In einem solchen Fall werden keine zusätzlichen Kosten für den Unternehmenszusammenschluss erfasst. Bei Eigenkapitalinstrumenten wird der beizulegende Zeitwert der zusätzlichen Zahlung durch eine Herabsetzung des den ursprünglich emittierten Instrumenten zugeschrieben Werts in gleicher Höhe ausgeglichen. Bei Schuldinstrumenten wird die zusätzliche Zahlung als Herabsetzung des Aufschlags bzw. Erhöhung des Abschlags auf die ursprüngliche Emission betrachtet.
+
+66 Ein Unternehmen, wie beispielsweise ein Gegenseitigkeitsunternehmen, das IFRS 3 noch nicht angewandt hat, und das einen oder mehrere Unternehmenszusammenschlüsse hatte, die mittels der Erwerbsmethode bilanziert wurden, hat die Übergangvorschriften in den Paragraphen B68 und B69 anzuwenden.
+
+Ertragsteuern
+
+67 Bei Unternehmenszusammenschlüssen, bei denen der Erwerbszeitpunkt vor der Anwendung dieses IFRS liegt, hat der Erwerber die Vorschriften in Paragraph 68 von IAS 12 (in der durch diesen IFRS geänderten Fassung) prospektiv anzuwenden. D. h. der Erwerber darf bei der Bilanzierung früherer Unternehmenszusammenschlüsse zuvor erfasste Änderungen der angesetzten latenten Steueransprüche nicht anpassen. Ab dem Zeitpunkt der Anwendung dieses IFRS hat der Erwerber jedoch Änderungen der angesetzten latenten Steueransprüche als eine Anpassung erfolgswirksam (oder außerhalb des Gewinns oder Verlusts, falls IAS 12 dies verlangt) zu erfassen.
+
+VERWEIS AUF IFRS 9
+
+67A Wendet ein Unternehmen diesen Standard, aber noch nicht IFRS 9 an, ist jeder Verweis auf IFRS 9 als Verweis auf IAS 39 zu verstehen.
+
+RÜCKNAHME VON IFRS 3 (2004)
+
+68 Dieser IFRS ersetzt IFRS 3 Unternehmenszusammenschlüsse (in der 2004 veröffentlichten Fassung).
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Erworbenes Unternehmen
+	
+
+Der Geschäftsbetrieb oder die Geschäftsbetriebe, über den bzw. die der Erwerber bei einem Unternehmenszusammenschluss die Beherrschung erlangt.
+
+Erwerber
+	
+
+Das Unternehmen, das die Beherrschung über das erworbene Unternehmen erlangt.
+
+Erwerbszeitpunkt
+	
+
+Der Zeitpunkt, zu dem der Erwerber die Beherrschung über das erworbene Unternehmen erlangt.
+
+Geschäftsbetrieb
+	
+
+Eine integrierte Gruppe von Tätigkeiten und Vermögenswerten, die mit dem Ziel geführt und geleitet werden kann, Güter oder Dienstleistungen für Kunden bereitzustellen, Kapitalerträge (wie Dividenden oder Zinsen) zu erwirtschaften oder sonstige Erträge aus gewöhnlichen Geschäftstätigkeiten zu erwirtschaften.
+
+Unternehmenszusammenschluss
+	
+
+Eine Transaktion oder ein anderes Ereignis, durch die bzw. das ein Erwerber die Beherrschung über einen Geschäftsbetrieb oder mehrere Geschäftsbetriebe erlangt. Transaktionen, die manchmal als „wahre Fusionen“ oder „Fusionen unter Gleichen“ bezeichnet werden, stellen auch Unternehmenszusammenschlüsse im Sinne dieses IFRS dar.
+
+Bedingte Gegenleistung
+	
+
+Im Allgemeinen handelt es sich dabei um eine Verpflichtung des Erwerbers, den ehemaligen Eigentümern eines erworbenen Unternehmens als Teil des Austauschs für die Beherrschung des erworbenen Unternehmens zusätzliche Vermögenswerte oder Eigenkapitalanteile zu übertragen, wenn bestimmte künftige Ereignisse eintreten oder Bedingungen erfüllt werden. Eine bedingte Gegenleistung kann dem Erwerber jedoch auch das Recht auf Rückgabe der zuvor übertragenen Gegenleistung einräumen, falls bestimmte Bedingungen erfüllt werden.
+
+Eigenkapitalanteile
+	
+
+Für die Zwecke dieses IFRS wird der Begriff Eigenkapitalanteile allgemein benutzt und steht für Eigentumsanteile von Unternehmen im Besitz der Anleger sowie für Anteile von Eigentümern, Gesellschaftern oder Teilnehmern an Gegenseitigkeitsunternehmen.
+
+Beizulegender Zeitwert
+	
+
+Der beilzulegende Zeitwert ist der Preis, der bei einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde (siehe IFRS 13).
+
+Geschäfts- oder Firmenwert
+	
+
+Ein Vermögenswert, der den künftigen wirtschaftlichen Nutzen aus anderen bei einem Unternehmenszusammenschluss erworbenen Vermögenswerten darstellt, die nicht einzeln identifiziert und separat angesetzt werden.
+
+Identifizierbar
+	
+
+Ein Vermögenswert ist identifizierbar, wenn
+a) 
+
+er separierbar ist, d. h. vom Unternehmen getrennt und verkauft, übertragen, lizenziert, vermietet oder getauscht werden kann. Dies kann einzeln oder in Verbindung mit einem Vertrag, einem identifizierbaren Vermögenswert oder einer identifizierbaren Schuld unabhängig davon erfolgen, ob das Unternehmen dies zu tun beabsichtigt, oder
+b) 
+
+er sich aus vertraglichen oder anderen gesetzlichen Rechten ergibt, unabhängig davon, ob diese Rechte vom Unternehmen oder von anderen Rechten und Verpflichtungen übertragbar oder separierbar sind.
+
+Immaterieller Vermögenswert
+	
+
+Ein identifizierbarer nicht-monetärer Vermögenswert ohne physische Substanz.
+
+Gegenseitigkeitsunternehmen
+	
+
+Ein Unternehmen, bei dem es sich nicht um ein Unternehmen im Besitz der Anleger handelt, das seinen Eigentümern, Gesellschaftern oder Teilnehmern Dividenden, niedrigere Kosten oder sonstigen wirtschaftlichen Nutzen direkt zukommen lässt. Beispiele für Gegenseitigkeitsunternehmen sind Versicherungsvereine auf Gegenseitigkeit, Genossenschaftsbanken und genossenschaftliche Unternehmen.
+
+Nicht beherrschende Anteile
+	
+
+Die Eigenkapitalanteile an einem Tochterunternehmen, die einem Mutterunternehmen weder direkt noch indirekt zugeordnet werden können.
+
+Eigentümer
+	
+
+In diesem IFRS wird der Begriff Eigentümer allgemein benutzt und steht für Inhaber von Eigenkapitalanteilen an Unternehmen im Besitz der Anleger sowie für Eigentümer oder Gesellschafter von oder Teilnehmer an Gegenseitigkeitsunternehmen.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+UNTERNEHMENSZUSAMMENSCHLÜSSE VON UNTERNEHMEN UNTER GEMEINSAMER BEHERRSCHUNG (ANWENDUNG DES PARAGRAPHEN 2(C))
+
+B1 Dieser IFRS ist nicht auf Unternehmenszusammenschlüsse von Unternehmen oder Geschäftsbetrieben unter gemeinsamer Beherrschung anwendbar. Ein Unternehmenszusammenschluss von Unternehmen oder Geschäftsbetrieben unter gemeinsamer Beherrschung ist ein Zusammenschluss, in dem letztlich alle sich zusammenschließenden Unternehmen oder Geschäftsbetriebe von derselben Partei oder denselben Parteien sowohl vor als auch nach dem Unternehmenszusammenschluss beherrscht werden, und diese Beherrschung nicht vorübergehender Natur ist.
+
+B2 Von einer Gruppe von Personen wird angenommen, dass sie ein Unternehmen beherrscht, wenn sie aufgrund vertraglicher Vereinbarungen gemeinsam die Möglichkeit hat, dessen Finanz- und Geschäftspolitik zu bestimmen, um aus dessen Geschäftstätigkeiten Nutzen zu ziehen. Daher ist ein Unternehmenszusammenschluss vom Anwendungsbereich des vorliegenden IFRS ausgenommen, wenn dieselbe Gruppe von Personen aufgrund vertraglicher Vereinbarungen die gemeinsame Möglichkeit hat, letztlich die Finanz- und Geschäftspolitik von jedem der sich zusammenschließenden Unternehmen zu bestimmen, um aus deren Geschäftstätigkeiten Nutzen zu ziehen, und wenn diese endgültige gemeinsame Befugnis nicht nur vorübergehender Natur ist.
+
+B3 Ein Unternehmen kann von einer Person oder einer Gruppe von Personen, die gemäß einer vertraglichen Vereinbarung gemeinsam handeln, beherrscht werden, und es ist möglich, dass diese Person bzw. Gruppe von Personen nicht den Rechnungslegungsvorschriften der IFRS unterliegt. Es ist daher für sich zusammenschließende Unternehmen nicht erforderlich, als eine Einheit von Unternehmen unter gemeinsamer Beherrschung betrachtet zu werden, um bei einem Unternehmenszusammenschluss in denselben Konzernabschluss einbezogen zu werden.
+
+B4 Die Höhe der nicht beherrschenden Anteile an jedem der sich zusammenschließenden Unternehmen vor und nach dem Unternehmenszusammenschluss ist für die Bestimmung, ob der Zusammenschluss Unternehmen unter gemeinsamer Beherrschung umfasst, nicht relevant. Analog ist die Tatsache, dass eines der sich zusammenschließenden Unternehmen ein nicht in den Konzernabschluss einbezogenes Tochterunternehmen ist, für die Bestimmung, ob ein Zusammenschluss Unternehmen unter gemeinsamer Beherrschung einschließt, auch nicht relevant.
+
+IDENTIFIZIERUNG EINES UNTERNEHMENSZUSAMMENSCHLUSSES (ANWENDUNG DES PARAGRAPHEN 3)
+
+B5 Dieser IFRS definiert einen Unternehmenszusammenschluss als eine Transaktion oder ein anderes Ereignis, durch die bzw. das ein Erwerber die Beherrschung über einen oder mehrere Geschäftsbetriebe erlangt. Ein Erwerber kann auf verschiedene Arten die Beherrschung über ein erworbenes Unternehmen erlangen, zum Beispiel:
+a) 
+
+durch Übertragung von Zahlungsmitteln, Zahlungsmitteläquivalenten oder sonstigen Vermögenswerten (einschließlich Nettovermögenswerten, die einen Geschäftsbetrieb darstellen),
+b) 
+
+durch Eingehen von Schulden,
+c) 
+
+durch Ausgabe von Eigenkapitalanteilen,
+d) 
+
+durch Bereitstellung von mehr als einer Art von Gegenleistung oder
+e) 
+
+ohne Übertragung einer Gegenleistung, auch einzig und allein durch einen Vertrag (siehe Paragraph 43).
+
+B6 Ein Unternehmenszusammenschluss kann auf unterschiedliche Arten aufgrund rechtlicher, steuerlicher oder anderer Motive vorgenommen werden. Darunter fällt u. a.:
+a) 
+
+ein oder mehrere Geschäftsbetriebe werden zu Tochterunternehmen des Erwerbers oder das Nettovermögen eines oder mehrerer Geschäftsbetriebe wird rechtmäßig mit dem Erwerber zusammengelegt,
+b) 
+
+ein sich zusammenschließendes Unternehmen überträgt sein Nettovermögen bzw. dessen Eigentümer übertragen ihre Eigenkapitalanteile an ein anderes sich zusammenschließendes Unternehmen bzw. dessen Eigentümer,
+c) 
+
+alle sich zusammenschließenden Unternehmen übertragen ihre Nettovermögen bzw. die Eigentümer dieser Unternehmen übertragen ihre Eigenkapitalanteile auf ein neu gegründetes Unternehmen (manchmal als „Zusammenlegungs-Transaktion“ bezeichnet) oder
+d) 
+
+eine Gruppe ehemaliger Eigentümer eines der sich zusammenschließenden Unternehmen erlangt die Beherrschung über das zusammengeschlossene Unternehmen.
+
+DEFINITION VON „GESCHÄFTSBETRIEB“ (ANWENDUNG DES PARAGRAPHEN 3)
+
+B7 Ein Geschäftsbetrieb besteht aus Inputfaktoren und darauf anzuwendenden Prozessen, die zur Erbringung von Leistungen und zur Erzeugung von Produkten beitragen können. Die drei Elemente eines Geschäftsbetriebs lassen sich wie folgt definieren (Leitlinien zu den Elementen eines Geschäftsbetriebs sind in den Paragraphen B8–B12D enthalten):
+
+a)
+	
+
+Inputfaktoren : Jede wirtschaftliche Ressource, mit der Leistungen erbracht oder erbracht werden können oder Produkte erzeugt oder erzeugt werden können, wenn ein oder mehrere Prozesse darauf angewandt werden. Beispiele hierfür sind langfristige Vermögenswerte (wie immaterielle Vermögenswerte oder Rechte auf Nutzung langfristiger Vermögenswerte), geistiges Eigentum, die Fähigkeit, Zugriff auf erforderliche Materialien oder Rechte und Mitarbeiter zu erhalten.
+
+b)
+	
+
+Verfahren : Alle Systeme, Standards, Protokolle, Konventionen oder Regeln, die bei Anwendung auf einen oder mehrere Inputfaktoren Leistungen oder Produkte (Output) generieren oder generieren können. Beispiele hierfür sind strategische Managementprozesse, betriebliche Prozesse und Ressourcenmanagementprozesse. Diese Prozesse sind in der Regel dokumentiert, doch kann eine organisierte Belegschaft mit den notwendigen Kompetenzen und Erfahrungen, die den Regeln und Konventionen folgt, dank ihrer intellektuellen Fähigkeiten die erforderlichen Prozesse bereitstellen, die zur Generierung von Leistungen oder Produkten auf Inputfaktoren angewandt werden können (Buchhaltung, Rechnungsstellung, Lohn- und Gehaltsabrechnung und andere Verwaltungssysteme zählen typischerweise nicht zu den Prozessen, die zur Erbringung von Leistungen oder Erzeugung von Produkten eingesetzt werden).
+
+c)
+	
+
+Leistungen oder Produkte : Das Ergebnis von Inputfaktoren und darauf angewandten Prozessen, mit deren Hilfe für Kunden Güter erzeugt und Leistungen erbracht werden, generiert Kapitalerträge (wie Dividenden oder Zinsen) oder sonstige Erträge aus gewöhnlicher Geschäftstätigkeit.
+
+Optionaler Test zur Ermittlung der Konzentration des beizulegenden Zeitwerts
+
+B7A Der in Paragraph B7B beschriebene optionale Test (Konzentrationstest) ermöglicht eine vereinfachte Feststellung, ob eine erworbene Gruppe von Tätigkeiten und Vermögenswerten keinen Geschäftsbetrieb darstellt. Unternehmen steht es frei, den Konzentrationstest anzuwenden oder nicht. Diese Entscheidung kann für jede Transaktion oder jedes Ereignis getrennt getroffen werden. Der Konzentrationstest bewirkt Folgendes:
+a) 
+
+Fällt der Konzentrationstest positiv aus, wird die Gruppe von Tätigkeiten und Vermögenswerten nicht als Geschäftsbetrieb eingestuft und es ist keine weitere Beurteilung erforderlich.
+b) 
+
+Fällt der Konzentrationstest negativ aus oder entscheidet sich das Unternehmen, keinen Test durchzuführen, ist eine Beurteilung gemäß den Paragraphen B8–B12D durchzuführen.
+
+B7B Das Ergebnis des Konzentrationstests ist positiv, wenn der beizulegende Zeitwert der erworbenen Bruttovermögenswerte ganz überwiegend auf einen einzigen identifizierbaren Vermögenswert oder eine Gruppe ähnlicher identifizierbarer Vermögenswerte konzentriert ist. Für den Konzentrationstest gilt:
+a) 
+
+Die erworbenen Bruttovermögenswerte umfassen keine Zahlungsmittel und Zahlungsmitteläquivalente, latente Steueransprüche sowie Geschäfts- oder Firmenwerte, die sich aus latenten Steuerschulden ergeben.
+b) 
+
+Der beizulegende Zeitwert der erworbenen Bruttovermögenswerte umfasst alle übertragenen Gegenleistungen (zuzüglich des beizulegenden Zeitwerts etwaiger nicht beherrschender Anteile und des beizulegenden Zeitwerts etwaiger zuvor gehaltener Anteile), die den beizulegenden Zeitwert der erworbenen identifizierbaren Nettovermögenswerte übersteigen. Bestimmt werden kann der beizulegende Zeitwert der erworbenen Bruttovermögenswerte in der Regel, indem der beizulegende Zeitwert der übertragenen Gegenleistung (zuzüglich des beizulegenden Zeitwerts etwaiger nicht beherrschender Anteile und des beizulegenden Zeitwerts etwaiger zuvor gehaltener Anteile) und der beizulegende Zeitwert der übernommenen Schulden (mit Ausnahme latenter Steuerschulden) addiert und dann die in Buchstabe a genannten Posten herausgerechnet werden. Liegt der beizulegende Zeitwert der erworbenen Bruttovermögenswerte allerdings über dieser Summe, ist gegebenenfalls eine präzisere Berechnung erforderlich.
+c) 
+
+Ein einzelner identifizierbarer Vermögenswert schließt alle Vermögenswerte oder Gruppen von Vermögenswerten ein, die bei einem Unternehmenszusammenschluss als ein einzelner identifizierbarer Vermögenswert angesetzt und bewertet würden.
+d) 
+
+Ist ein materieller Vermögenswert mit einem anderen materiellen Vermögenswert (oder einem Vermögenswert, der gemäß IFRS 16 Leasingverhältnisse einem Leasingverhältnis zugrunde liegt) verbunden und kann von diesem nicht getrennt und alleine verwendet werden, ohne dass erhebliche Kosten entstehen oder der Nutzen oder der beizulegende Zeitwert eines dieser Vermögenswerte (z. B. Grundstück oder Gebäude) erheblich vermindert wird, sind diese Vermögenswerte als ein einziger identifizierbarer Vermögenswert zu betrachten.
+e) 
+
+Wenn ein Unternehmen beurteilt, ob Vermögenswerte ähnlich sind, hat es die Art jedes einzelnen identifizierbaren Vermögenswerts sowie die Risiken, die mit seiner Verwaltung und der Generierung von Leistungen und Produkten mit diesem Vermögenswert einhergehen (d. h. seine Risikomerkmale), zu berücksichtigen.
+f) 
+
+Nicht als ähnliche Vermögenswerte anzusehen sind:
+i) 
+
+ein materieller und ein immaterieller Vermögenswert,
+ii) 
+
+materielle Vermögenswerte unterschiedlicher Kategorien (z. B. Lagerbestand, Produktionsanlagen und Kraftfahrzeuge), es sei denn, sie gelten nach dem unter Buchstabe d genannten Kriterium als ein einziger identifizierbarer Vermögenswert,
+iii) 
+
+identifizierbare immaterielle Vermögenswerte unterschiedlicher Kategorien (z. B. Markennamen, Lizenzen und immaterielle Vermögenswerte, die sich in Entwicklung befinden),
+iv) 
+
+ein finanzieller und ein nichtfinanzieller Vermögenswert,
+v) 
+
+finanzielle Vermögenswerte unterschiedlicher Kategorien (z. B. Forderungen und Investitionen in Eigenkapitalinstrumente) sowie
+vi) 
+
+identifizierbare Vermögenswerte, die zwar derselben Vermögenswertgruppe angehören, sich in ihren Risikomerkmalen aber signifikant unterscheiden.
+
+B7C Die Vorschriften in Paragraph B7B ändern weder die Leitlinien zu ähnlichen Vermögenswerten in IAS 38 Immaterielle Vermögenswerte noch die Bedeutung des Begriffs „Kategorie“ (bzw. „Gruppe“) in IAS 16 Sachanlagen, IAS 38 und IFRS 7 Finanzinstrumente: Angaben.
+
+Die Elemente eines Geschäftsbetriebs
+
+B8 Auch wenn Geschäftsbetriebe normalerweise Leistungen erbringen oder Produkte erzeugen, sind derartige Outputs nicht erforderlich, um eine integrierte Gruppe von Tätigkeiten und Vermögenswerten als Geschäftsbetrieb ansehen zu können. Damit eine integrierte Gruppe von Tätigkeiten und Vermögenswerten im Sinne des in der Definition von Geschäftsbetrieb festgelegten Ziels geführt und geleitet werden kann, muss sie zwei wesentliche Elemente aufweisen — Inputfaktoren und darauf anzuwendende Prozesse. Ein Geschäftsbetrieb muss nicht alle Inputfaktoren oder Prozesse umfassen, die der Verkäufer für den Geschäftsbetrieb verwendete. Um als Geschäftsbetrieb angesehen werden zu können, muss eine integrierte Gruppe von Tätigkeiten und Vermögenswerten jedoch mindestens einen Inputfaktor und einen substanziellen Prozess aufweisen, die zusammengenommen erheblich zur Fähigkeit zur Generierung von Waren und Dienstleistungen beitragen. Wie zu beurteilen ist, ob ein Prozess als substanziell angesehen werden kann, ist in den Paragraphen B12–B12D festgelegt.
+
+B8A Generiert eine erworbene Gruppe von Tätigkeiten und Vermögenswerten Leistungen oder Produkte, lassen fortgesetzte Erlöse für sich genommen noch nicht den Schluss zu, dass sowohl ein Inputfaktor als auch ein substanzieller Prozess erworben wurden.
+
+B9 Die Art der Elemente eines Geschäftsbetriebs unterscheidet sich von Branche zu Branche sowie aufgrund der Struktur der Geschäftsbereiche (Tätigkeiten) eines Unternehmens, einschließlich der Phase der Unternehmensentwicklung. Etablierte Geschäftsbetriebe weisen oft viele verschiedene Arten von Inputfaktoren, Prozessen und Leistungen oder Produkten auf, wobei neue Geschäftsbetriebe häufig wenige Inputfaktoren und Prozesse aufweisen und manchmal nur einen einzigen Output (Produkt) haben. Fast alle Geschäftsbetriebe haben auch Schulden, aber dies muss nicht so sein. Des Weiteren kann auch eine erworbene Gruppe von Tätigkeiten und Vermögenswerten, die keinen Geschäftsbetrieb darstellt, Schulden haben.
+
+B10 [gestrichen]
+
+B11 Die Ermittlung, ob eine einzelne Gruppe von Tätigkeiten und Vermögenswerten einen Geschäftsbetrieb darstellt, sollte darauf basieren, ob die integrierte Gruppe von einem Marktteilnehmer wie ein Geschäftsbetrieb geführt und geleitet werden kann. Somit ist bei der Beurteilung, ob eine bestimmte Gruppe einen Geschäftsbetrieb darstellt, nicht relevant, ob der Verkäufer die Gruppe als einen Geschäftsbetrieb geführt hat oder der Erwerber beabsichtigt, dies zu tun.
+
+Beurteilung, ob ein erworbener Prozess substanziell ist
+
+B12 In den Paragraphen B12A–B12D wird erläutert, wie zu beurteilen ist, ob ein erworbener Prozess als substanziell betrachtet werden kann, wenn mit der erworbenen Gruppe von Tätigkeiten und Vermögenswerten keine Leistungen oder Produkte generiert werden (Paragraph B12B) bzw. wenn damit Leistungen oder Produkte generiert werden (Paragraph B12C).
+
+B12A Ein Beispiel für eine erworbene Gruppe von Tätigkeiten und Vermögenswerten, mit der zum Erwerbszeitpunkt keine Leistungen oder Produkte generiert werden, ist ein Unternehmen in der Anfangsphase, das noch keine Erlöse erwirtschaftet. Wenn eine erworbene Gruppe von Tätigkeiten und Vermögenswerten zum Erwerbszeitpunkt Erlöse erwirtschaftet hat, wird davon ausgegangen, dass sie zu diesem Zeitpunkt Leistungen oder Produkte generierte, selbst wenn sie später keine Erlöse von externen Kunden mehr erwirtschaftet, z. B. weil sie vom Erwerber integriert wird.
+
+B12B Wenn eine Gruppe von Tätigkeiten und Vermögenswerten zum Erwerbszeitpunkt keine Leistungen oder Produkte generiert, gilt der erworbene Prozess (oder die erworbene Gruppe von Prozessen) nur dann als substanziell, wenn
+a) 
+
+er/sie für die Fähigkeit, einen oder mehrere erworbene Inputfaktoren weiterzuentwickeln oder in Leistungen oder Produkte umzuwandeln, von entscheidender Bedeutung ist, und
+b) 
+
+die erworbenen Inputfaktoren sowohl eine organisierte Belegschaft, die über die notwendigen Kompetenzen, das notwendige Wissen oder die notwendige Erfahrung für die Durchführung dieses Prozesses (oder einer Gruppe von Prozessen) verfügt, als auch andere Faktoren umfasst, die von der organisierten Belegschaft weiterentwickelt oder in Leistungen oder Produkte umgewandelt werden könnten. Diese anderen Inputs können Folgendes umfassen:
+i) 
+
+geistiges Eigentum, das für die Entwicklung von Gütern oder Dienstleistungen genutzt werden könnte,
+ii) 
+
+sonstige wirtschaftliche Ressourcen, die weiterentwickelt werden könnten, um Leistungen oder Produkte zu generieren, oder
+iii) 
+
+Zugriffsrechte auf Materialien oder Rechte, die für die Generierung künftiger Leistungen oder Produkte erforderlich sind.
+
+Beispiele für die unter Buchstabe b Ziffern i–iii genannten Inputfaktoren sind Technologien, prozessintegrierte Forschungs- und Entwicklungsprojekte, Immobilien und Schürfrechte.
+
+B12C Wenn eine Gruppe von Tätigkeiten und Vermögenswerten zum Erwerbszeitpunkt Produkte oder Leistungen generiert, ist ein erworbener Prozess (oder eine erworbene Gruppe von Prozessen) als substanziell zu betrachten, wenn er bei Anwendung auf einen oder mehrere erworbene Inputfaktoren
+a) 
+
+für die Fähigkeit, weiterhin Leistungen oder Produkte zu generieren, von entscheidender Bedeutung ist, und wenn die erworbenen Inputfaktoren eine organisierte Belegschaft umfassen, die über die notwendigen Kompetenzen, das notwendige Wissen oder die notwendige Erfahrung für die Durchführung dieses Prozesses (oder der Gruppe von Prozessen) verfügt, oder
+b) 
+
+in erheblichem Maße dazu beiträgt, auch weiterhin Leistungen oder Produkte generieren zu können, und:
+i) 
+
+als einzigartig oder rar angesehen wird oder
+ii) 
+
+nicht ohne erhebliche Kosten, erheblichen Aufwand oder erhebliche Verzögerungen bei der Fähigkeit zur fortgesetzten Generierung von Leistungen oder Produkten ausgetauscht werden kann.
+
+B12D Die folgenden zusätzlichen Erörterungen untermauern sowohl den Paragraphen B12B als auch den Paragraphen B12C:
+a) 
+
+Ein erworbener Vertrag ist ein Inputfaktor und kein substanzieller Prozess. Ein erworbener Vertrag, beispielsweise ein Vertrag zur Auslagerung von Immobilien- oder Vermögensverwaltungsdienstleistungen, kann allerdings den Zugriff auf eine organisierte Belegschaft beinhalten. Ein Unternehmen hat zu beurteilen, ob eine organisierte Belegschaft, auf die über einen solchen Vertrag zugegriffen wird, einen substanziellen Prozess anwendet, der von dem Unternehmen kontrolliert wird und somit erworben wurde. Bei dieser Beurteilung sind unter anderem Faktoren wie die Laufzeit des Vertrags und die Bedingungen für die Vertragsverlängerung zu berücksichtigen.
+b) 
+
+Ist die erworbene organisierte Belegschaft schwer zu ersetzen, kann dies ein Anzeichen dafür sein, dass die erworbene organisierte Belegschaft einen Prozess durchführt, der für die Fähigkeit zur Generierung von Leistungen oder Produkten von entscheidender Bedeutung ist.
+c) 
+
+Ein Prozess (oder eine Gruppe von Prozessen) ist nicht von entscheidender Bedeutung, wenn er bzw. sie beispielsweise in Bezug auf alle für die Generierung von Leistungen oder Produkten erforderlichen Prozesse eine geringe oder untergeordnete Rolle spielt/spielen.
+
+IDENTIFIZIERUNG DES ERWERBERS (ANWENDUNG DER PARAGRAPHEN 6 UND 7)
+
+B13 Zur Identifizierung des Erwerbers, d. h. des Unternehmens, das die Beherrschung über das erworbene Unternehmen erlangt, sind die Leitlinien in IFRS 10 Konzernabschlüsse anzuwenden. Wenn ein Unternehmenszusammenschluss stattgefunden hat, mithilfe der Leitlinien in IFRS 10 jedoch nicht eindeutig bestimmt werden kann, welches der sich zusammenschließenden Unternehmen der Erwerber ist, sind für diese Feststellung die in den Paragraphen B14–B18 genannten Faktoren zu berücksichtigen.
+
+B14 Bei einem Unternehmenszusammenschluss, der primär durch Übertragung von Zahlungsmitteln oder sonstigen Vermögenswerten oder durch Eingehen von Schulden getätigt wurde, ist der Erwerber in der Regel das Unternehmen, das die Zahlungsmittel oder sonstigen Vermögenswerte überträgt oder die Schulden eingeht.
+
+B15 Bei einem Unternehmenszusammenschluss, der primär durch Austausch von Eigenkapitalanteilen getätigt wurde, ist der Erwerber in der Regel das Unternehmen, das seine Eigenkapitalanteile ausgibt. Bei einigen Unternehmenszusammenschlüssen, die allgemein „umgekehrter Unternehmenserwerb“ genannt werden, ist das emittierende Unternehmen allerdings das erworbene Unternehmen. Leitlinien für die Bilanzierung eines umgekehrten Unternehmenserwerbs sind in den Paragraphen B19–B27 enthalten. Bei der Identifizierung des Erwerbers bei einem Unternehmenszusammenschluss, der durch Austausch von Eigenkapitalanteilen getätigt wurde, sind weitere einschlägige Fakten und Umstände zu berücksichtigen. Dazu gehören:
+
+a)
+	
+
+die relativen Stimmrechte an dem zusammengeschlossenen Unternehmen nach dem Unternehmenszusammenschluss — Der Erwerber ist im Allgemeinen dasjenige der sich zusammenschließenden Unternehmen, dessen Eigentümer als eine Gruppe den größten Anteil der Stimmrechte an dem zusammengeschlossenen Unternehmen behalten oder erhalten. Bei der Ermittlung, welche Gruppe von Eigentümern den größten Anteil an Stimmrechten behält oder erhält, hat ein Unternehmen das Bestehen von ungewöhnlichen oder besonderen Stimmrechtsvereinbarungen und Optionen, Optionsscheinen oder wandelbaren Wertpapieren zu berücksichtigen.
+
+b)
+	
+
+das Bestehen eines großen Stimmrechtsanteils von Minderheiten an dem zusammengeschlossenen Unternehmen, wenn kein anderer Eigentümer oder keine organisierte Gruppe von Eigentümern einen wesentlichen Stimmrechtsanteil hat — Der Erwerber ist im Allgemeinen dasjenige der sich zusammenschließenden Unternehmen, dessen alleiniger Eigentümer oder organisierte Gruppe von Eigentümern den größten Stimmrechtsanteil der Minderheiten an dem zusammengeschlossenen Unternehmen hält.
+
+c)
+	
+
+die Zusammensetzung des Leitungsgremiums des zusammengeschlossenen Unternehmens — Der Erwerber ist im Allgemeinen dasjenige der sich zusammenschließenden Unternehmen, dessen Eigentümer eine Mehrheit der Mitglieder des Leitungsgremiums des zusammengeschlossenen Unternehmens wählen, ernennen oder abberufen können.
+
+d)
+	
+
+die Zusammensetzung der Geschäftsleitung des zusammengeschlossenen Unternehmens — Der Erwerber ist im Allgemeinen dasjenige der sich zusammenschließenden Unternehmen, dessen (bisherige) Geschäftsleitung die Geschäftsleitung des zusammengeschlossenen Unternehmens dominiert.
+
+e)
+	
+
+die Bedingungen des Austausches von Eigenkapitalanteilen — Der Erwerber ist im Allgemeinen dasjenige der sich zusammenschließenden Unternehmen, das einen Aufschlag auf den vor dem Zusammenschluss geltenden beizulegenden Zeitwert der Eigenkapitalanteile des/der anderen sich zusammenschließenden Unternehmen zahlt.
+
+B16 Der Erwerber ist in der Regel dasjenige der sich zusammenschließenden Unternehmen, dessen relative Größe (zum Beispiel gemessen in Vermögenswerten, Erlösen oder Gewinnen) die des/der anderen sich zusammenschließenden Unternehmen(s) erheblich übersteigt.
+
+B17 Bei einem Unternehmenszusammenschluss, an dem mehr als zwei Unternehmen beteiligt sind, ist bei der Bestimmung des Erwerbers u. a. zu berücksichtigen, welches der sich zusammenschließenden Unternehmen den Zusammenschluss veranlasst hat und welche relative Größe die sich zusammenschließenden Unternehmen haben.
+
+B18 Ein zur Durchführung eines Unternehmenszusammenschlusses neu gegründetes Unternehmen ist nicht unbedingt der Erwerber. Wird zur Durchführung eines Unternehmenszusammenschlusses ein neues Unternehmen gegründet, um Eigenkapitalanteile auszugeben, ist eines der sich zusammenschließenden Unternehmen, das vor dem Zusammenschluss bestand, unter Anwendung der Leitlinien in den Paragraphen B13–B17 als der Erwerber zu identifizieren. Ein neues Unternehmen, das als Gegenleistung Zahlungsmittel oder sonstige Vermögenswerte überträgt oder Schulden eingeht, kann hingegen der Erwerber sein.
+
+UMGEKEHRTER UNTERNEHMENSERWERB
+
+B19 Bei einem umgekehrten Unternehmenserwerb wird das Unternehmen, das Wertpapiere ausgibt (der formal-rechtliche Erwerber) zu Bilanzierungszwecken anhand der Leitlinien in den Paragraphen B13–B18 als das erworbene Unternehmen identifiziert. Das Unternehmen, dessen Eigenkapitalanteile erworben wurden (das formal-rechtlich erworbene Unternehmen) muss zu Bilanzierungszwecken der Erwerber sein, damit diese Transaktion als ein umgekehrter Unternehmenserwerb betrachtet wird. Manchmal wird beispielsweise ein umgekehrter Unternehmenserwerb durchgeführt, wenn ein nicht börsennotiertes Unternehmen ein börsennotiertes Unternehmen werden möchte, aber seine Kapitalanteile nicht registrieren lassen möchte. Hierzu veranlasst das nicht börsennotierte Unternehmen, dass ein börsennotiertes Unternehmen seine Eigenkapitalanteile im Austausch gegen die Eigenkapitalanteile des börsennotierten Unternehmens erwirbt. In diesem Beispiel ist das börsennotierte Unternehmen der formal-rechtliche Erwerber, da es seine Kapitalanteile emittiert hat, und das nicht börsennotierte Unternehmen ist das formal-rechtlich erworbene Unternehmen, da seine Kapitalanteile erworben wurden. Die Anwendung der Leitlinien in den Paragraphen B13–B18 führen indes zur Identifizierung
+a) 
+
+des börsennotierten Unternehmens als erworbenes Unternehmen für Bilanzierungszwecke (das bilanziell erworbene Unternehmen) und
+b) 
+
+des nicht börsennotierten Unternehmens als der Erwerber für Bilanzierungszwecke (der bilanzielle Erwerber).
+
+Das bilanziell erworbene Unternehmen muss die Definition eines Geschäftsbetriebs erfüllen, damit die Transaktion als umgekehrter Unternehmenserwerb bilanziert werden kann, und alle in diesem IFRS dargelegten Ansatz- und Bewertungsgrundsätze einschließlich der Anforderung, den Geschäfts- oder Firmenwert zu erfassen, sind anzuwenden.
+
+Bestimmung der übertragenen Gegenleistung
+
+B20 Bei einem umgekehrten Unternehmenserwerb gibt der bilanzielle Erwerber in der Regel keine Gegenleistung für das erworbene Unternehmen aus. Stattdessen gibt das bilanziell erworbene Unternehmen in der Regel seine Eigenkapitalanteile an die Eigentümer des bilanziellen Erwerbers aus. Der zum Erwerbszeitpunkt geltende beizulegende Zeitwert der vom bilanziellen Erwerber übertragenen Gegenleistung für seine Anteile am bilanziell erworbenen Unternehmen basiert demzufolge auf der Anzahl der Eigenkapitalanteile, welche das formal-rechtliche Tochterunternehmen hätte ausgeben müssen, um an die Eigentümer des formal-rechtlichen Mutterunternehmens den gleichen Prozentsatz an Eigenkapitalanteilen an dem aus dem umgekehrten Unternehmenserwerb stammenden zusammengeschlossenen Unternehmen auszugeben. Der beizulegende Zeitwert der Anzahl der Eigenkapitalanteile, der auf diese Weise ermittelt wurde, kann als der beizulegende Zeitwert der im Austausch für das erworbene Unternehmen übertragenen Gegenleistung verwendet werden.
+
+Aufstellung und Darstellung von Konzernabschlüssen
+
+B21 Nach einem umgekehrten Unternehmenserwerb aufgestellte Konzernabschlüsse werden unter dem Namen des formal-rechtlichen Mutterunternehmens (des bilanziell erworbenen Unternehmens) veröffentlicht, jedoch mit einem Vermerk im Anhang, dass es sich hierbei um eine Fortführung des Abschlusses des formal-rechtlichen Tochterunternehmens (des bilanziellen Erwerbers) handelt, und mit einer Anpassung, durch die rückwirkend das formal-rechtliche Eigenkapital des bilanziellen Erwerbers bereinigt wird, um das formal-rechtliche Eigenkapital des bilanziell erworbenen Unternehmens abzubilden. Diese Anpassung ist erforderlich, um das Eigenkapital des formal-rechtlichen Mutterunternehmens (des bilanziell erworbenen Unternehmens) abzubilden. In diesem Konzernabschluss dargestellte Vergleichsinformationen werden ebenfalls rückwirkend angepasst, um das formal-rechtliche Eigenkapital des formal-rechtlichen Mutterunternehmens (des bilanziell erworbenen Unternehmens) widerzuspiegeln.
+
+B22 Da diese Konzernabschlüsse eine Fortführung der Abschlüsse des formal-rechtlichen Tochterunternehmens mit Ausnahme der Kapitalstruktur darstellen, zeigen sie
+a) 
+
+die Vermögenswerte und Schulden des formal-rechtlichen Tochterunternehmens (des bilanziellen Erwerbers), die zu ihren vor dem Zusammenschluss gültigen Buchwerten angesetzt und bewertet wurden.
+b) 
+
+die Vermögenswerte und Schulden des formal-rechtlichen Mutterunternehmens (des bilanziell erworbenen Unternehmens), die gemäß diesem IFRS angesetzt und bewertet wurden.
+c) 
+
+die Gewinnrücklagen und sonstigen Eigenkapitalsalden des formal-rechtlichen Tochterunternehmens (des bilanziellen Erwerbers) vor dem Unternehmenszusammenschluss.
+d) 
+
+den in den Konzernabschlüssen für ausgegebene Eigenkapitalanteile angesetzten Betrag, der bestimmt wird, indem die ausgegebenen Eigenkapitalanteile des formal-rechtlichen Tochterunternehmens (des bilanziellen Erwerbers), die unmittelbar vor dem Unternehmenszusammenschluss in Umlauf waren, dem beizulegenden Zeitwert des rechtlichen Mutterunternehmens (des bilanziell erworbenen Unternehmens) hinzugerechnet werden. Die Eigenkapitalstruktur (d. h. die Anzahl und Art der ausgegebenen Eigenkapitalanteile) spiegelt jedoch die Eigenkapitalstruktur des formal-rechtlichen Mutterunternehmens (des bilanziell erworbenen Unternehmens) wider und umfasst die Eigenkapitalanteile des formal-rechtlichen Mutterunternehmens, die zur Durchführung des Zusammenschlusses ausgegeben wurden. Dementsprechend wird die Eigenkapitalstruktur des formal-rechtlichen Tochterunternehmens (des bilanziellen Erwerbers) mittels des im Erwerbsvertrag festgelegten Tauschverhältnisses neu ermittelt, um die Anzahl der anlässlich des umgekehrten Unternehmenserwerbs ausgegebenen Anteile des formal-rechtlichen Mutterunternehmens (des bilanziell erworbenen Unternehmens) widerzuspiegeln.
+e) 
+
+den entsprechenden Anteil der nicht beherrschenden Anteile an den vor dem Zusammenschluss gültigen Buchwerten der Gewinnrücklagen und sonstigen Eigenkapitalanteilen des rechtlichen Tochterunternehmens (des bilanziellen Erwerbers), wie in den Paragraphen B23 und B24 beschrieben.
+
+Nicht beherrschende Anteile
+
+B23 Bei einem umgekehrten Unternehmenserwerb kann es vorkommen, dass Eigentümer des formal-rechtlich erworbenen Unternehmens (des bilanziellen Erwerbers) ihre Eigenkapitalanteile nicht gegen Eigenkapitalanteile des formal-rechtlichen Mutterunternehmens (des bilanziell erworbenen Unternehmens) umtauschen. Diese Eigentümer werden nach dem umgekehrten Unternehmenserwerb als nicht beherrschende Anteile im Konzernabschluss behandelt. Dies ist darauf zurückzuführen, dass die Eigentümer des formal-rechtlich erworbenen Unternehmens, die ihre Eigenkapitalanteile nicht gegen Eigenkapitalanteile des formal-rechtlichen Erwerbers umtauschen, nur an den Ergebnissen und dem Nettovermögen des formal-rechtlich erworbenen Unternehmens beteiligt sind und nicht an den Ergebnissen und dem Nettovermögen des zusammengeschlossenen Unternehmens. Auch wenn der formal-rechtliche Erwerber zu Bilanzierungszwecken das erworbene Unternehmen ist, sind umgekehrt die Eigentümer des formal-rechtlichen Erwerbers an den Ergebnissen und dem Nettovermögen des zusammengeschlossenen Unternehmens beteiligt.
+
+B24 Die Vermögenswerte und Schulden des formal-rechtlich erworbenen Unternehmens werden im Konzernabschluss mit ihren vor dem Zusammenschluss gültigen Buchwerten bewertet und angesetzt (siehe Paragraph B22(a)). In einem umgekehrten Unternehmenserwerb spiegeln daher die nicht beherrschenden Anteile den entsprechenden Anteil an den vor dem Zusammenschluss gültigen Buchwerten des Nettovermögens des formal-rechtlich erworbenen Unternehmens der nicht beherrschenden Anteilseigner selbst dann wider, wenn die nicht beherrschenden Anteile an anderen Erwerben mit dem beizulegenden Zeitwert zum Erwerbszeitpunkt bestimmt werden.
+
+Ergebnis je Aktie
+
+B25 Wie in Paragraph B22(d) beschrieben, hat die Eigenkapitalstruktur, die in den nach einem umgekehrten Unternehmenserwerb aufgestellten Konzernabschlüssen erscheint, die Eigenkapitalstruktur des formal-rechtlichen Erwerbers (des bilanziell erworbenen Unternehmens) widerzuspiegeln, einschließlich der Eigenkapitalanteile, die vom formal-rechtlichen Erwerber zur Durchführung des Unternehmenszusammenschlusses ausgegeben wurden.
+
+B26 Für die Ermittlung der durchschnittlich gewichteten Anzahl der während der Periode, in der der umgekehrte Unternehmenserwerb erfolgt, ausstehenden Stammaktien (der Nenner bei der Berechnung des Ergebnisses je Aktie)
+a) 
+
+ist die Anzahl der ausstehenden Stammaktien vom Beginn dieser Periode bis zum Erwerbszeitpunkt auf der Grundlage der durchschnittlich gewichteten Anzahl der in dieser Periode ausstehenden Stammaktien des formal-rechtlich erworbenen Unternehmens (des bilanziellen Erwerbers), die mit dem im Fusionsvertrag angegebenen Tauschverhältnis multipliziert werden, zu berechnen und
+b) 
+
+ist die Anzahl der ausstehenden Stammaktien vom Erwerbszeitpunkt bis zum Ende dieser Periode gleich der tatsächlichen Anzahl der ausstehenden Stammaktien des formal-rechtlichen Erwerbers (des bilanziell erworbenen Unternehmens) während dieser Periode.
+
+B27 Das unverwässerte Ergebnis je Aktie ist für jede Vergleichsperiode vor dem Erwerbszeitpunkt, die im Konzernabschluss nach einem umgekehrten Unternehmenserwerb dargestellt wird, zu berechnen, indem
+a) 
+
+der den Stammaktionären in der jeweiligen Periode zurechenbare Gewinn oder Verlust des formal-rechtlich erworbenen Unternehmens durch
+b) 
+
+die historisch durchschnittlich gewichtete Anzahl der ausstehenden Stammaktien des formal-rechtlich erworbenen Unternehmens, die mit dem im Erwerbsvertrag angegebenen Tauschverhältnis multipliziert wird, geteilt wird.
+
+ANSATZ BESONDERER ERWORBENER VERMÖGENSWERTE UND ÜBERNOMMENER SCHULDEN (ANWENDUNG DER PARAGRAPHEN 10–13)
+
+B28–B30 [gestrichen]
+
+Immaterielle Vermögenswerte
+
+B31 Der Erwerber hat die in einem Unternehmenszusammenschluss erworbenen immateriellen Vermögenswerte getrennt vom Geschäfts- oder Firmenwert anzusetzen. Ein immaterieller Vermögenswert ist identifizierbar, wenn er entweder das Separierbarkeitskriterium oder das vertragliche/gesetzliche Kriterium erfüllt.
+
+B32 Ein immaterieller Vermögenswert, der das vertragliche/gesetzliche Kriterium erfüllt, ist selbst dann identifizierbar, wenn der Vermögenswert weder übertragbar noch separierbar von dem erworbenen Unternehmen oder von anderen Rechten und Verpflichtungen ist. Zum Beispiel:
+a) 
+
+[gestrichen]
+b) 
+
+Ein erworbenes Unternehmen besitzt und betreibt ein Kernkraftwerk. Die Lizenz zum Betrieb dieses Kernkraftwerks stellt einen immateriellen Vermögenswert dar, der das vertragliche/gesetzliche Kriterium für einen vom Geschäfts- oder Firmenwert getrennten Ansatz selbst dann erfüllt, wenn der Erwerber ihn nicht getrennt von dem erworbenen Kernkraftwerk verkaufen oder übertragen kann. Ein Erwerber kann den beizulegenden Zeitwert der Betriebslizenz und den beizulegenden Zeitwert des Kernkraftwerks als einen einzigen Vermögenswert für die Zwecke der Rechnungslegung ausweisen, wenn die Nutzungsdauern dieser Vermögenswerte ähnlich sind.
+c) 
+
+Ein erworbenes Unternehmen besitzt ein Technologiepatent. Es hat dieses Patent zur exklusiven Verwendung anderen außerhalb des heimischen Marktes in Lizenz gegeben und erhält dafür einen bestimmten Prozentsatz der künftigen ausländischen Erlöse. Sowohl das Technologiepatent als auch die damit verbundene Lizenzvereinbarung erfüllen die vertraglichen/gesetzlichen Kriterien für den vom Geschäfts- oder Firmenwert getrennten Ansatz, selbst wenn das Patent und die damit verbundene Lizenzvereinbarung nicht getrennt voneinander verkauft oder getauscht werden könnten.
+
+B33 Das Separierbarkeitskriterium bedeutet, dass ein erworbener immaterieller Vermögenswert separierbar ist oder vom erworbenen Unternehmen getrennt und somit verkauft, übertragen, lizenziert, vermietet oder getauscht werden kann. Dies kann einzeln oder in Verbindung mit einem Vertrag, einem identifizierbaren Vermögenswert oder einer identifizierbaren Schuld erfolgen. Ein immaterieller Vermögenswert, den der Erwerber verkaufen, lizenzieren oder auf andere Weise gegen einen Wertgegenstand tauschen könnte, erfüllt das Separierbarkeitskriterium selbst dann, wenn der Erwerber nicht beabsichtigt, ihn zu verkaufen, zu lizenzieren oder auf andere Weise zu tauschen. Ein erworbener immaterieller Vermögenswert erfüllt das Separierbarkeitskriterium, wenn es Anhaltspunkte für eine Tauschtransaktion für diese Art von Vermögenswert oder einen ähnlichen Vermögenswert gibt, selbst wenn diese Transaktionen selten stattfinden und unabhängig davon, ob der Erwerber daran beteiligt ist. Kunden- und Abonnentenlisten werden zum Beispiel häufig lizenziert und erfüllen somit das Separierbarkeitskriterium. Selbst wenn ein erworbenes Unternehmen glaubt, dass seine Kundenlisten von anderen Kundenlisten abweichende Merkmale haben, so bedeutet in der Regel die Tatsache, dass Kundenlisten häufig lizenziert werden, dass die erworbene Kundenliste das Separierbarkeitskriterium erfüllt. Eine bei einem Unternehmenszusammenschluss erworbene Kundenliste würde jedoch dieses Separierbarkeitskriterium nicht erfüllen, wenn durch die Bestimmungen einer Geheimhaltungs- oder anderen Vereinbarung einem Unternehmen untersagt ist, Informationen über Kunden zu verkaufen, zu vermieten oder anderweitig auszutauschen.
+
+B34 Ein immaterieller Vermögenswert, der alleine vom erworbenen oder zusammengeschlossenen Unternehmen nicht separierbar ist, erfüllt das Separierbarkeitskriterium, wenn er in Verbindung mit einem Vertrag, einem identifizierbaren Vermögenswert oder einer identifizierbaren Schuld separierbar ist. Zum Beispiel:
+a) 
+
+Marktteilnehmer tauschen Verbindlichkeiten aus Einlagen und damit verbundene Einlegerbeziehungen als immaterielle Vermögenswerte in beobachtbaren Tauschgeschäften. Daher hat der Erwerber die Einlegerbeziehungen als immaterielle Vermögenswerte getrennt vom Geschäfts- oder Firmenwert anzusetzen.
+b) 
+
+Ein erworbenes Unternehmen besitzt ein eingetragenes Warenzeichen und das dokumentierte, jedoch nicht patentierte technische Fachwissen zur Herstellung des Markenproduktes. Zur Übertragung des Eigentumsrecht an einem Warenzeichen muss der Eigentümer auch alles andere übertragen, was erforderlich ist, damit der neue Eigentümer ein Produkt herstellen oder einen Service liefern kann, das/der nicht vom Ursprünglichen zu unterscheiden ist. Da das nicht patentierte technische Fachwissen vom erworbenen oder zusammengeschlossenen Unternehmen separiert und verkauft werden muss, wenn das damit verbundene Warenzeichen verkauft wird, erfüllt es das Separierbarkeitskriterium.
+
+Zurückerworbene Rechte
+
+B35 Im Rahmen eines Unternehmenszusammenschlusses kann ein Erwerber ein Recht, einen oder mehrere bilanzierte oder nicht bilanzierte Vermögenswerte des Erwerbers zu nutzen, zurückerwerben, wenn er dieses zuvor dem erworbenen Unternehmen gewährt hatte. Zu den Beispielen für solche Rechte gehört das Recht, den Handelsnamen des Erwerbers gemäß einem Franchisevertrag zu verwenden, oder das Recht, die Technologie des Erwerbers gemäß einer Technologie-Lizenzvereinbarung zu nutzen. Ein zurückerworbenes Recht ist ein identifizierbarer immaterieller Vermögenswert, den der Erwerber getrennt vom Geschäfts- oder Firmenwert ansetzt. Paragraph 29 enthält Leitlinien für die Bewertung eines zurückerworbenen Rechts und Paragraph 55 enthält Leitlinien für die Folgebilanzierung eines zurückerworbenen Rechts.
+
+B36 Wenn die Bedingungen des Vertrags, der Anlass für ein zurückerworbenes Recht ist, verglichen mit laufenden Markttransaktionen für dieselben oder ähnliche Sachverhalte vorteilhaft oder nachteilig sind, hat der Erwerber den Gewinn oder Verlust aus der Erfüllung zu erfassen. Paragraph B52 enthält Leitlinien für die Bewertung der Gewinne und Verluste aus dieser Erfüllung.
+
+Belegschaft und sonstige Sachverhalte, die nicht identifizierbar sind
+
+B37 Der Erwerber ordnet den Wert eines erworbenen immateriellen Vermögenswerts, der zum Erwerbszeitpunkt nicht identifizierbar ist, dem Geschäfts- oder Firmenwert zu. Ein Erwerber kann beispielsweise dem Bestehen einer Belegschaft — d. h. einer bestehenden Gesamtheit von Mitarbeitern, durch die der Erwerber einen erworbenen Geschäftsbetrieb vom Erwerbszeitpunkt an weiterführen kann — Wert zuweisen. Eine Belegschaft stellt nicht das intellektuelle Kapital des ausgebildeten Personals dar, also das (oft spezialisierte) Wissen und die Erfahrung, welche die Mitarbeiter eines erworbenen Unternehmens mitbringen. Da die Belegschaft kein identifizierbarer Vermögenswert ist, der getrennt vom Geschäfts- oder Firmenwert angesetzt werden kann, ist jeder ihr zuzuschreibende Wert Bestandteil des Geschäfts- oder Firmenwerts.
+
+B38 Der Erwerber bezieht auch jeden Wert, der Posten zuzuordnen ist, die zum Erwerbszeitpunkt nicht als Vermögenswerte eingestuft werden, in den Geschäfts- oder Firmenwert mit ein. Der Erwerber kann zum Beispiel potenziellen Verträgen, über die das erworbene Unternehmen zum Erwerbszeitpunkt mit prospektiven neuen Kunden verhandelt, Wert zuweisen. Da diese potenziellen Verträge zum Erwerbszeitpunkt selbst keine Vermögenswerte sind, setzt der Erwerber sie nicht getrennt vom Geschäfts- oder Firmenwert an. Den Wert dieser Verträge am Geschäfts- oder Firmenwert sollte der Erwerber nicht später aufgrund von Ereignissen nach dem Erwerbszeitpunkt neu beurteilen. Er sollte allerdings die Tatsachen und Umstände in Zusammenhang mit kurz nach dem Erwerb eingetretenen Ereignissen beurteilen, um zu ermitteln, ob ein getrennt ansetzbarer immaterieller Vermögenswert zum Erwerbszeitpunkt existierte.
+
+B39 Nach dem erstmaligen Ansatz bilanziert ein Erwerber immaterielle Vermögenswerte, die bei einem Unternehmenszusammenschluss erworben wurden gemäß den Bestimmungen des IAS 38 Immaterielle Vermögenswerte. Wie in Paragraph 3 von IAS 38 beschrieben, werden einige erworbene immaterielle Vermögenswerte nach dem erstmaligen Ansatz gemäß den Vorschriften anderer IFRS bilanziert.
+
+B40 Die Kriterien zur Identifizierbarkeit bestimmen, ob ein immaterieller Vermögenswert getrennt vom Geschäfts- oder Firmenwert angesetzt wird. Die Kriterien dienen jedoch weder als Leitlinie für die Ermittlung des beizulegenden Zeitwerts eines immateriellen Vermögenswerts noch beschränken sie die Annahmen, die bei der Ermittlung des beizulegenden Zeitwerts eines immateriellen Vermögenswerts verwendet werden. So würde der Erwerber bei der Ermittlung des beizulegenden Zeitwerts beispielsweise die Annahmen berücksichtigen, von denen die Marktteilnehmer bei der Preisfestlegung für den immateriellen Vermögenswert ausgehen würden, wie Erwartungen hinsichtlich künftiger Vertragsverlängerungen. Für Vertragsverlängerungen selbst ist es nicht erforderlich die Kriterien der Identifizierbarkeit zu erfüllen. (Siehe jedoch Paragraph 29, wo für zurückerworbene Rechte, die bei einem Unternehmenszusammenschluss angesetzt werden, eine Ausnahme vom Grundsatz der Bewertung zum beizulegenden Zeitwert festgelegt wird.) Die Paragraphen 36 und 37 von IAS 38 enthalten Leitlinien zur Ermittlung, ob immaterielle Vermögenswerte zu einer einzelnen Bilanzierungseinheit mit anderen immateriellen oder materiellen Vermögenswerten zusammengefasst werden sollten.
+
+BEWERTUNG DES BEIZULEGENDEN ZEITWERTS VON BESONDEREN IDENTIFIZIERBAREN VERMÖGENSWERTEN UND EINEM NICHT BEHERRSCHENDEN ANTEIL AN EINEM ERWORBENEN UNTERNEHMEN (ANWENDUNG DER PARAGRAPHEN 18 UND 19)
+
+Vermögenswerte mit unsicheren Zahlungsströmen (Wertberichtigungen)
+
+B41 Der Erwerber hat zum Erwerbszeitpunkt keine gesonderte Wertberichtigung für Vermögenswerte zu erfassen, die bei einem Unternehmenszusammenschluss erworben und mit ihrem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert bewertet wurden, da die Auswirkungen der Unsicherheit über künftige Zahlungsströme in der Bewertung zum beizulegenden Zeitwert enthalten sind. Da dieser IFRS beispielsweise vom Erwerber verlangt, erworbene Forderungen, einschließlich Kredite, zu ihrem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert zu bewerten, erfasst er weder gesonderte Wertberichtigungen für vertragliche Zahlungsströme, die zu dem Zeitpunkt als uneinbringlich gelten, noch eine Wertberichtigung für erwartete Kreditverluste.
+
+Vermögenswerte, die zu Operating-Leasingverhältnissen gehören, bei denen das erworbene Unternehmen der Leasinggeber ist
+
+B42 Bei der Bewertung des zum Erwerbszeitpunkt geltenden beizulegenden Zeitwerts eines Vermögenswerts, wie eines Gebäudes oder eines Patents, das zu einem Operating-Leasingverhältnis gehört, bei dem das erworbene Unternehmen der Leasinggeber ist, hat der Erwerber die Bedingungen des Leasingverhältnisses zu berücksichtigen. Der Erwerber setzt keinen separaten Vermögenswert bzw. keine separate Schuld an, wenn die Bedingungen eines Operating-Leasingverhältnisses verglichen mit den Marktbedingungen entweder vorteilhaft oder nachteilig sind.
+
+Vermögenswerte, die der Erwerber nicht zu nutzen beabsichtigt bzw. auf eine andere Weise zu nutzen beabsichtigt als Marktteilnehmer sie normalerweise nutzen würden
+
+B43 Zum Schutz seiner Wettbewerbsposition oder aus anderen Gründen kann der Erwerber beabsichtigen, einen erworbenen nichtfinanziellen Vermögenswert nicht aktiv zu nutzen oder ihn nicht seiner höchst- und bestmöglichen Nutzung entsprechend zu nutzen. Dies könnte beispielsweise bei einem erworbenen immateriellen Vermögenswert aus Forschung und Entwicklung der Fall sein, für den der Erwerber eine defensive Nutzung plant, um andere an seiner Nutzung zu hindern. Der Erwerber hat den beizulegenden Zeitwert des nichtfinanziellen Vermögenswerts jedoch unter der Annahme seiner höchst- und bestmöglichen Nutzung durch Marktteilnehmer der angemessenen Bewertungsprämisse entsprechend sowohl beim erstmaligen Ansatz als auch bei der Ermittlung des beizulegenden Zeitwerts abzüglich Kosten des Abgangs für Prüfungen auf Wertminderung im Rahmen der Folgebewertung zu ermitteln.
+
+Nicht beherrschende Anteile an einem erworbenen Unternehmen
+
+B44 Durch diesen IFRS kann ein nicht beherrschender Anteil an einem erworbenen Unternehmen mit seinem beizulegenden Zeitwert zum Erwerbszeitpunkt bewertet werden. Manchmal kann ein Erwerber den zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert eines nicht beherrschenden Anteils auf der Grundlage eines an einem aktiven Markt notierten Preises der (d. h. der nicht vom Erwerber gehaltenen) Kapitalanteile bestimmen. In anderen Fällen steht ein an einem aktiven Markt notierter Preis für die Kapitalanteile jedoch nicht zur Verfügung. In einem solchen Fall würde der Erwerber den beizulegenden Zeitwert der nicht beherrschenden Anteile anhand anderer Bewertungsverfahren ermitteln.
+
+B45 Die beizulegenden Zeitwerte der Anteile des Erwerbers an dem erworbenen Unternehmen und der nicht beherrschenden Anteile können auf einer Basis je Anteil voneinander abweichen. Der Hauptunterschied liegt wahrscheinlich darin, dass für die Beherrschung ein Aufschlag auf den beizulegenden Zeitwert je Anteil des Anteils des Erwerbers an dem erworbenen Unternehmen berücksichtigt wird oder umgekehrt für das Fehlen der Beherrschung ein Abschlag (auch als ein Minderheitsabschlag bezeichnet) auf den beizulegenden Zeitwert je Anteil des nicht beherrschenden Anteils berücksichtigt wird, falls Marktteilnehmer einen solchen Auf- oder Abschlag bei der Preisfestlegung für den nicht beherrschenden Anteil berücksichtigen würden.
+
+BEWERTUNG DES GESCHÄFTS- ODER FIRMENWERTS ODER EINES GEWINNS AUS EINEM ERWERB ZU EINEM PREIS UNTER MARKTWERT
+
+Bewertung des zum Erwerbszeitpunkt geltenden beizulegenden Zeitwerts der Anteile des Erwerbers an dem erworbenen Unternehmen unter Einsatz von Bewertungsverfahren (Anwendung des Paragraphen 33)
+
+B46 Bei einem Unternehmenszusammenschluss, der ohne Übertragung einer Gegenleistung vollzogen wurde, muss der Erwerber zur Bewertung des Geschäfts- oder Firmenwerts oder eines Gewinns aus einem Erwerb zu einem Preis unter Marktwert anstelle des zum Erwerbszeitpunkt geltenden beizulegenden Zeitwerts der übertragenen Gegenleistung den zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert seines Anteils an dem erworbenen Unternehmen nutzen (siehe Paragraphen 32–34).
+
+Besondere Berücksichtigung bei der Anwendung der Erwerbsmethode auf den Zusammenschluss von Gegenseitigkeitsunternehmen (Anwendung des Paragraphen 33)
+
+B47 Wenn sich zwei Gegenseitigkeitsunternehmen zusammenschließen, kann der beizulegende Zeitwert des Eigenkapital- oder Geschäftsanteils an dem erworbenen Unternehmen (oder der beizulegende Zeitwert des erworbenen Unternehmens) verlässlicher bestimmbar sein als der beizulegende Zeitwert der vom Erwerber übertragenen Geschäftsanteile. In einem solchen Fall hat der Erwerber nach Paragraph 33 den Geschäfts- oder Firmenwert zu ermitteln, indem er anstatt des zum Erwerbszeitpunkt geltenden beizulegenden Zeitwerts der als Gegenleistung übertragenen Eigenkapitalanteile des Erwerbers den zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert der Eigenkapitalanteile des erworbenen Unternehmens verwendet. Darüber hinaus hat ein Erwerber bei einem Zusammenschluss von Gegenseitigkeitsunternehmen das Nettovermögen des erworbenen Unternehmens als eine unmittelbare Hinzufügung zum Kapital oder Eigenkapital in seiner Kapitalflussrechnung auszuweisen und nicht als eine Hinzufügung zu Gewinnrücklagen, was der Art entspräche, wie andere Arten von Unternehmen die Erwerbsmethode anwenden.
+
+B48 Obgleich in vielerlei Hinsicht anderen Geschäftsbetrieben ähnlich, haben Gegenseitigkeitsunternehmen besondere Eigenschaften, die vor allem darauf beruhen, dass ihre Mitglieder sowohl Kunden als auch Eigentümer sind. Mitglieder von Gegenseitigkeitsunternehmen erwarten im Allgemeinen, dass sie Nutzen aus ihrer Mitgliedschaft ziehen, häufig in Form von ermäßigten Gebühren auf Güter oder Dienstleistungen oder Gewinnausschüttungen an Mitglieder. Der Anteil der Gewinnausschüttungen an Mitglieder, der jedem einzelnen Mitglied zugeteilt ist, basiert oft auf dem Anteil der Geschäfte, die ein Mitglied im Laufe des Jahres mit dem Gegenseitigkeitsunternehmen getätigt hat.
+
+B49 Die Ermittlung des beizulegenden Zeitwerts eines Gegenseitigkeitsunternehmens sollte die Annahmen umfassen, welche die Marktteilnehmer über den künftigen Nutzen für die Mitglieder machen würden, sowie alle anderen relevanten Annahmen, welche die Marktteilnehmer über das Gegenseitigkeitsunternehmen machen würden. So kann zur Ermittlung des beizulegenden Zeitwerts eines Gegenseitigkeitsunternehmens beispielsweise ein Barwert-Verfahren verwendet werden. Die als in das Modell einfließenden Parameter verwendeten Zahlungsströme sollten auf den erwarteten Zahlungsströmen des Gegenseitigkeitsunternehmens beruhen, welche wahrscheinlich auch die Reduzierungen aufgrund von Leistungen an Mitglieder, wie ermäßigte Gebühren auf Güter und Dienstleistungen widerspiegeln.
+
+BESTIMMUNG DES UMFANGS EINES UNTERNEHMENSZUSAMMENSCHLUSSES (ANWENDUNG DER PARAGRAPHEN 51 UND 52)
+
+B50 Bei der Ermittlung, ob eine Transaktion Teil eines Tausches für ein erworbenes Unternehmen ist oder ob die Transaktion getrennt vom Unternehmenszusammenschluss zu betrachten ist, hat der Erwerber die folgenden Faktoren, die weder in Verbindung miteinander exklusiv noch einzeln entscheidend sind, zu berücksichtigen:
+
+a)
+	
+
+Die Gründe für die Transaktion — Wenn man versteht, warum die sich zusammenschließenden Parteien (der Erwerber und das erworbene Unternehmen und dessen Eigentümer, Direktoren und Manager sowie deren Vertreter) eine bestimmte Transaktion eingegangen sind oder eine Vereinbarung geschlossen haben, kann dies einen Einblick dahingehend geben, ob diese Teil der übertragenen Gegenleistung und der erworbenen Vermögenswerte oder übernommenen Schulden ist. Wenn eine Transaktion beispielsweise in erster Linie zum Nutzen des Erwerbers oder des zusammengeschlossenen Unternehmens und nicht in erster Linie zum Nutzen des erworbenen Unternehmens oder dessen früheren Eigentümern vor dem Zusammenschluss erfolgt, ist es unwahrscheinlich, dass dieser Teil des gezahlten Transaktionspreises (und alle damit verbundenen Vermögenswerte oder Schulden) zum Tauschgeschäft für das erworbene Unternehmen gehört. Dementsprechend würde der Erwerber diesen Teil getrennt vom Unternehmenszusammenschluss bilanzieren.
+
+b)
+	
+
+Wer hat die Transaktion eingeleitet — Wenn man versteht, wer die Transaktion eingeleitet hat, kann dies auch einen Einblick geben, ob sie Teil des Tauschgeschäfts für das erworbene Unternehmen ist. Eine Transaktion oder ein anderes Ereignis, das beispielsweise vom Erwerber eingeleitet wurde, ist eventuell mit dem Ziel eingegangen worden, dem Erwerber oder dem zusammengeschlossenen Unternehmen künftigen wirtschaftlichen Nutzen zu bringen, wobei das erworbene Unternehmen oder dessen Eigentümer vor dem Zusammenschluss wenig oder keinen Nutzen daraus erhalten haben. Andererseits wird eine vom erworbenen Unternehmen oder dessen früheren Eigentümern eingeleitete Transaktion oder Vereinbarung wahrscheinlich weniger zugunsten des Erwerbers oder des zusammengeschlossenen Unternehmens sein sondern eher Teil der Transaktion des Unternehmenszusammenschlusses sein.
+
+c)
+	
+
+Der Zeitpunkt der Transaktion — Der Zeitpunkt der Transaktion kann auch einen Einblick geben, ob sie Teil des Tausches für das erworbene Unternehmen ist. Eine Transaktion zwischen dem Erwerber und dem erworbenen Unternehmen, die zum Beispiel während der Verhandlungen bezüglich der Bedingungen des Unternehmenszusammenschlusses stattfindet, kann mit der Absicht des Unternehmenszusammenschlusses eingegangen worden sein, um dem Erwerber und dem zusammengeschlossenen Unternehmen zukünftigen wirtschaftlichen Nutzen zu bringen. In diesem Falle ziehen das erworbene Unternehmen oder dessen Eigentümer vor dem Unternehmenszusammenschluss wenig oder keinen Nutzen aus der Transaktion mit Ausnahme der Leistungen, die sie im Rahmen des zusammengeschlossenen Unternehmens erhalten.
+
+Tatsächliche Erfüllung einer zuvor bestehenden Beziehung zwischen dem Erwerber und dem erworbenen Unternehmen bei einem Unternehmenszusammenschluss (Anwendung des Paragraphen 52(a))
+
+B51 Der Erwerber und das erworbene Unternehmen können eine Beziehung haben, die bereits bestand, bevor sie einen Unternehmenszusammenschluss beabsichtigten, hier als „zuvor bestehende Beziehung“ bezeichnet. Eine zuvor bestehende Beziehung zwischen dem Erwerber und dem erworbenen Unternehmen kann vertraglicher Natur (zum Beispiel: Verkäufer und Kunde oder Lizenzgeber und Lizenznehmer) oder nicht vertraglicher Natur (zum Beispiel: Kläger und Beklagter) sein.
+
+B52 Wenn der Unternehmenszusammenschluss tatsächlich eine zuvor bestehende Beziehung erfüllt, erfasst der Erwerber einen Gewinn bzw. Verlust, der wie folgt bestimmt wird:
+a) 
+
+für eine zuvor bestehende nicht vertragliche Beziehung (wie einen Rechtsstreit): mit dem beizulegenden Zeitwert,
+b) 
+
+für eine zuvor bestehende vertragliche Beziehung: mit dem niedrigeren der Beträge unter (i) und (ii):
+i) 
+
+der Betrag, zu dem der Vertrag aus Sicht des Erwerbers vorteilhaft oder nachteilig im Vergleich mit den Bedingungen für aktuelle Markttransaktionen derselben oder ähnlichen Sachverhalte ist. (Ein nachteiliger Vertrag ist ein Vertrag, der gemessen an den aktuellen Marktbedingungen nachteilig ist. Es handelt sich hierbei nicht unbedingt um einen belastenden Vertrag, bei dem die unvermeidbaren Kosten zur Erfüllung der vertraglichen Verpflichtungen höher sind als der erwartete wirtschaftliche Nutzen).
+ii) 
+
+der in den Erfüllungsbedingungen des Vertrags genannte Betrag, der für die andere Vertragspartei, als die, für die der Vertrag nachteilig ist, durchsetzbar ist.
+
+Wenn (ii) geringer als (i) ist, ist der Unterschied Bestandteil der Bilanzierung des Unternehmenszusammenschlusses.
+
+Der Betrag des erfassten Gewinns bzw. Verlusts kann teilweise davon abhängen, ob der Erwerber zuvor einen damit verbundenen Vermögenswert oder eine Schuld angesetzt hatte, und der ausgewiesene Gewinn oder Verlust kann daher von dem unter Anwendung der obigen Vorschriften berechneten Betrag abweichen.
+
+B53 Bei einer zuvor bestehenden Beziehung kann es sich um einen Vertrag handeln, den der Erwerber als ein zurückerworbenes Recht ausweist. Wenn der Vertrag Bedingungen enthält, die im Vergleich zu den Preisen derselben oder ähnlicher Sachverhalte bei aktuellen Markttransaktionen vorteilhaft oder nachteilig sind, erfasst der Erwerber getrennt vom Unternehmenszusammenschluss einen Gewinn bzw. Verlust für die tatsächliche Erfüllung des Vertrags, der gemäß Paragraph B52 bewertet wird.
+
+Vereinbarungen über bedingte Zahlungen an Mitarbeiter oder verkaufende Anteilseigner (Anwendung des Paragraphen 52(b))
+
+B54 Ob Vereinbarungen über bedingte Zahlungen an Mitarbeiter oder verkaufende Anteilseigner als bedingte Gegenleistung bei einem Unternehmenszusammenschluss gelten oder als separate Transaktionen angesehen werden, hängt von der Art der Vereinbarungen ab. Zur Beurteilung der Art der Vereinbarung kann es hilfreich sein, die Gründe zu verstehen, warum der Erwerbsvertrag eine Bestimmung für bedingte Zahlungen enthält, wer den Vertrag eingeleitet hat und wann die Vertragsparteien den Vertrag geschlossen haben.
+
+B55 Wenn nicht klar ist, ob eine Vereinbarung über Zahlungen an Mitarbeiter oder verkaufende Anteilseigner zum Tausch gegen das erworbene Unternehmen gehört oder eine vom Unternehmenszusammenschluss separate Transaktion ist, hat der Erwerber die folgenden Hinweise zu beachten:
+
+a)
+	
+
+Fortgesetzte Beschäftigung — Die Bedingungen der fortgesetzten Beschäftigung der verkaufenden Anteilseigner, die Mitarbeiter in Schlüsselpositionen werden, können ein Indikator für den wirtschaftlichen Gehalt einer bedingten Entgeltvereinbarung sein. Die entsprechenden Bedingungen einer fortgesetzten Beschäftigung können in einem Anstellungsvertrag, Erwerbsvertrag oder sonstigem Dokument enthalten sein. Eine bedingte Entgeltvereinbarung, in der die Zahlungen bei einer Beendigung des Beschäftigungsverhältnisses automatisch verfallen, ist als eine Vergütung für Arbeitsleistungen nach dem Zusammenschluss anzusehen. Vereinbarungen, in denen die bedingten Zahlungen nicht von einer Beendigung des Beschäftigungsverhältnisses beeinflusst sind, können darauf hinweisen, dass es sich bei den bedingten Zahlungen um eine zusätzliche Gegenleistung und nicht um eine Vergütung handelt.
+
+b)
+	
+
+Dauer der fortgesetzten Beschäftigung — Wenn die Dauer der erforderlichen Beschäftigung mit der Dauer der bedingten Zahlung übereinstimmt oder länger als diese ist, dann weist diese Tatsache darauf hin, dass die bedingten Zahlungen in der Substanz eine Vergütung darstellen.
+
+c)
+	
+
+Vergütungshöhe — Situationen, in denen die Vergütung von Mitarbeitern mit Ausnahme der bedingten Zahlungen ein angemessenes Niveau im Verhältnis zu den anderen Mitarbeitern in Schlüsselpositionen im zusammengeschlossenen Unternehmen einnimmt, können darauf hinweisen, dass die bedingten Zahlungen als zusätzliche Gegenleistung und nicht als Vergütung betrachtet werden.
+
+d)
+	
+
+Zusätzliche Zahlungen an Mitarbeiter — Wenn verkaufende Anteilseigner, die nicht zu Mitarbeitern werden, niedrigere bedingte Zahlungen auf einer Basis je Anteil erhalten als verkaufende Anteilseigner, die Mitarbeiter des zusammengeschlossenen Unternehmens werden, kann dies darauf hinweisen, dass der zusätzliche Betrag der bedingten Zahlungen an die verkaufenden Anteilseigner, die Mitarbeiter werden, als Vergütung zu betrachten ist.
+
+e)
+	
+
+Anzahl der im Besitz befindlichen Anteile — Die relative Anzahl der sich im Besitz der verkaufenden Anteilseigner, die Mitarbeiter in Schlüsselpositionen bleiben, befindlichen Anteile weisen eventuell auf den wirtschaftlichen Gehalt einer bedingten Entgeltvereinbarung hin. Wenn beispielsweise die verkaufenden Anteilseigner, die weitgehend alle Anteile an dem erworbenen Unternehmen hielten, weiterhin Mitarbeiter in Schlüsselpositionen sind, kann dies darauf hinweisen, dass die Vereinbarung ihrem wirtschaftlichem Gehalt nach eine Vereinbarung mit Gewinnbeteiligung ist, die beabsichtigt, Vergütungen für Dienstleistungen nach dem Zusammenschluss zu geben. Wenn verkaufende Anteilseigner, die weiterhin Mitarbeiter in Schlüsselpositionen bleiben, im Gegensatz nur eine kleine Anzahl von Anteilen des erworbenen Unternehmens besaßen, und alle verkaufenden Anteilseigner denselben Betrag der bedingten Gegenleistung auf einer Basis je Anteil erhalten, kann dies darauf hinweisen, dass die bedingten Zahlungen eine zusätzliche Gegenleistung darstellen. Parteien, die vor dem Erwerb Eigentumsanteile hielten und mit verkaufenden Anteilseignern, die weiterhin Mitarbeiter in Schlüsselpositionen sind, in Verbindung stehen, z. B. Familienmitglieder, sind ebenfalls zu berücksichtigen.
+
+f)
+	
+
+Verbindung zur Bewertung — Wenn die ursprüngliche Gegenleistung, die zum Erwerbszeitpunkt übertragen wird, auf dem niedrigen Wert innerhalb einer Bandbreite, die bei der Bewertung des erworbenen Unternehmens erstellt wurde, basiert und die bedingte Formel sich auf diesen Bewertungsansatz bezieht, kann dies darauf hindeuten, dass die bedingten Zahlungen eine zusätzliche Gegenleistung darstellen. Wenn die Formel für die bedingte Zahlung hingegen mit vorherigen Vereinbarungen mit Gewinnbeteiligung im Einklang ist, kann dies drauf hindeuten, dass der wirtschaftliche Gehalt der Vereinbarung darin besteht, Vergütungen zu zahlen.
+
+g)
+	
+
+Formel zur Ermittlung der Gegenleistung — Die zur Ermittlung der bedingten Zahlung verwendete Formel kann hilfreich bei der Beurteilung des wirtschaftlichen Gehalts der Vereinbarung sein. Wenn beispielsweise eine bedingte Zahlung auf der Grundlage verschiedener Ergebnisse ermittelt wird, kann dies darauf hindeuten, dass die Verpflichtung beim Unternehmenszusammenschluss eine bedingte Gegenleistung ist, und dass mit der Formel beabsichtigt wird, den beizulegenden Zeitwert des erworbenen Unternehmens festzulegen oder zu überprüfen. Eine bedingte Zahlung, die ein bestimmter Prozentsatz des Ergebnisses ist, kann hingegen darauf hindeuten, dass die Verpflichtung gegenüber Mitarbeitern eine Vereinbarung mit Gewinnbeteiligung ist, um Mitarbeiter für ihre erbrachten Arbeitsleistungen zu entlohnen.
+
+h)
+	
+
+Sonstige Vereinbarungen und Themen — Die Bedingungen anderer Vereinbarungen mit verkaufenden Anteilseignern (wie wettbewerbsbeschränkende Vereinbarungen, noch zu erfüllende Verträge, Beratungsverträge und Immobilien-Leasingverträge) sowie die Behandlung von Einkommensteuern auf bedingte Zahlungen können darauf hinweisen, dass bedingte Zahlungen etwas anderem zuzuordnen sind als der Gegenleistung für das erworbene Unternehmen. In Verbindung mit dem Erwerb kann der Erwerber beispielsweise einen Immobilien-Leasingvertrag mit einem bedeutsamen verkaufenden Anteilseigner schließen. Wenn die im Leasingvertrag angegebenen Leasingzahlungen wesentlich unter dem Marktpreis liegen, können einige oder alle bedingten Zahlungen an den Leasinggeber (den verkaufenden Anteilseigner), die aufgrund einer separaten Vereinbarung für bedingte Zahlungen vorgeschrieben sind, dem wirtschaftlichen Gehalt nach Zahlungen für die Nutzung der geleasten Immobilie sein, die der Erwerber in seinem Abschluss nach dem Zusammenschluss getrennt ansetzt. Wenn hingegen im Leasingvertrag Leasingzahlungen gemäß den Marktbedingungen für diese geleaste Immobilie spezifiziert sind, kann die Vereinbarung für bedingte Zahlungen an den verkaufenden Anteilseigner als eine bedingte Gegenleistung bei dem Unternehmenszusammenschluss betrachtet werden.
+
+Die anteilsbasierten Vergütungsprämien des Erwerbers werden gegen die von den Mitarbeitern des erworbenen Unternehmens gehaltenen Prämien ausgetauscht (Anwendung des Paragraphen 52(b))
+
+B56 Ein Erwerber kann seine anteilsbasierten Vergütungsprämien ( 44 ) (Ersatzprämien) gegen Prämien, die von Mitarbeitern des erworbenen Unternehmens gehalten werden, tauschen. Der Tausch von Anteilsoptionen oder anderen anteilsbasierten Vergütungsprämien in Verbindung mit einem Unternehmenszusammenschluss wird als Änderung der anteilsbasierten Vergütungsprämien gemäß IFRS 2 Anteilsbasierte Vergütung bilanziert. Wenn der Erwerber die Prämien des erworbenen Unternehmens ersetzt, ist entweder der gesamte marktbasierte Wert der Ersatzprämien des Erwerbers oder ein Teil davon in die Bewertung der bei dem Unternehmenszusammenschluss übertragenen Gegenleistung miteinzubeziehen. Leitlinien für die Zuordnung des marktbasierten Werts sind in den Paragraphen B57–B62 enthalten. In Fällen, in denen Prämien des erworbenen Unternehmens infolge eines Unternehmenszusammenschlusses verfallen würden und der Erwerber diese Prämien – auch wenn er nicht dazu verpflichtet ist – ersetzt, ist der gesamte marktbasierte Wert der Ersatzprämien im Abschluss nach dem Zusammenschluss allerdings als Vergütungsaufwand gemäß IFRS 2 auszuweisen. Das bedeutet, dass keiner der marktbasierten Werte dieser Prämien in die Bewertung der beim Unternehmenszusammenschluss übertragenen Gegenleistung einzubeziehen ist. Der Erwerber ist verpflichtet, die Prämien des erworbenen Unternehmens zu ersetzen, wenn das erworbene Unternehmen oder dessen Mitarbeiter die Möglichkeit haben, den Ersatz geltend zu machen. Zwecks Anwendung dieser Leitlinien ist der Erwerber beispielsweise verpflichtet, die Prämien des erworbenen Unternehmens zu ersetzen, wenn dies verlangt wird in
+a) 
+
+den Bedingungen der Erwerbsvereinbarung,
+b) 
+
+den Bedingungen der Prämien des erworbenen Unternehmens oder
+c) 
+
+den anwendbaren Gesetzen oder Verordnungen.
+
+B57 Um den Anteil einer Ersatzprämie, der Teil der für das erworbene Unternehmen übertragenen Gegenleistung ist, und den Anteil, der als Vergütung für Arbeitsleistungen nach dem Zusammenschluss verwendet wird, zu bestimmen, hat der Erwerber sowohl seine gewährten Ersatzprämien als auch die Prämien des erworbenen Unternehmens zum Erwerbszeitpunkt gemäß IFRS 2 zu bestimmen. Der Anteil des marktbasierten Werts der Ersatzprämien, der Teil der übertragenen Gegenleistung im Tausch gegen das erworbene Unternehmen ist, entspricht dem Anteil der Prämien des erworbenen Unternehmens, der den Arbeitsleistungen vor dem Zusammenschluss zuzuordnen ist.
+
+B58 Der Anteil der Ersatzprämie, der den Arbeitsleistungen vor dem Zusammenschluss zuzuordnen ist, ist der marktbasierte Wert der Prämie des erworbenen Unternehmens, multipliziert mit dem Verhältnis des Anteils des abgeleisteten Erdienungszeitraums zum höheren der beiden folgenden Werte: dem gesamten Erdienungszeitraum oder dem ursprünglichen Erdienungszeitraum der vom erworbenen Unternehmen gewährten Prämie. Der Erdienungszeitraum ist der Zeitraum, in dem alle festgelegten Ausübungsbedingungen erfüllt werden müssen. Ausübungsbedingungen sind in IFRS 2 definiert.
+
+B59 Der Anteil der nicht erdienten Ersatzprämien, der den Arbeitsleistungen nach dem Zusammenschluss zuzuordnen ist und daher im Abschluss nach dem Zusammenschluss als Vergütungsaufwand erfasst wird, entspricht dem gesamten marktbasierten Wert der Ersatzprämien abzüglich des Betrags, der den Arbeitsleistungen vor dem Zusammenschluss zuzuordnen ist. Daher ordnet der Erwerber jeden Überschuss des marktbasierten Werts der Ersatzprämie über den marktbasierten Wert der Prämie des erworbenen Unternehmens den Arbeitsleistungen nach dem Zusammenschluss zu und erfasst diesen Überschuss im Abschluss nach dem Zusammenschluss als Vergütungsaufwand. Der Erwerber hat einen Teil der Ersatzprämie den Arbeitsleistungen nach dem Zusammenschluss zuzuordnen, wenn er Arbeitsleistungen nach dem Zusammenschluss verlangt, unabhängig davon, ob die Mitarbeiter bereits alle Arbeitsleistungen erbracht hatten, die notwendig waren, damit ihre vom erworbenen Unternehmen gewährten Prämien bereits vor dem Erwerbszeitpunkt als erdient betrachtet werden konnten.
+
+B60 Der Anteil der nicht ausübbaren Ersatzprämien, die Arbeitsleistungen vor dem Zusammenschluss zuzuordnen sind, sowie der Anteil für Arbeitsleistungen nach dem Zusammenschluss hat die bestmögliche Schätzung der Anzahl der Ersatzprämien widerzuspiegeln, die voraussichtlich ausübbar werden. Wenn beispielsweise der marktbasierte Wert einer Ersatzprämie, die Arbeitsleistungen vor dem Zusammenschluss zugeordnet wird, 100 WE beträgt und der Erwerber erwartet, dass nur 95 Prozent der Prämie als erdient betrachtet werden können, werden 95 WE in die für den Unternehmenszusammenschluss übertragene Gegenleistung einbezogen. Änderungen bei der geschätzten Anzahl der zu erwartenden ausübbaren Ersatzprämien sind im Vergütungsaufwand in den Perioden auszuweisen, in denen die Änderungen auftreten oder die Ansprüche verwirken, und nicht als Anpassungen der beim Unternehmenszusammenschluss übertragenen Gegenleistung. Ähnlich ist es bei Auswirkungen anderer Ereignisse, wie Änderungen oder dem letzten Ergebnis von Prämien mit Leistungsbedingungen, die nach dem Erwerbszeitpunkt auftreten. Diese werden gemäß IFRS 2 bilanziert, indem der Vergütungsaufwand für die Periode ermittelt wird, in der das Ereignis eintritt.
+
+B61 Dieselben Vorschriften gelten für die Ermittlung der Anteile einer Ersatzprämie, die Arbeitsleistungen vor und nach dem Zusammenschluss zuzuordnen sind, unabhängig davon, ob eine Ersatzprämie als eine Schuld oder als ein Eigenkapitalinstrument gemäß den Bestimmungen von IFRS 2 eingestuft ist. Alle Änderungen des marktbasierten Werts der nach dem Erwerbszeitpunkt als Schulden eingestuften Prämien und der dazugehörigen Ertragsteuerauswirkungen werden in der/den Periode(n) im Abschluss des Erwerbers nach dem Zusammenschluss erfasst, in der/denen die Änderungen auftreten.
+
+B62 Die Ertragsteuerauswirkungen der Ersatzprämien der anteilsbasierten Vergütungen sind nach IAS 12 Ertragsteuern zu bilanzieren.
+
+Anteilsbasierte Vergütungen des erworbenen Unternehmens mit Ausgleich durch Eigenkapitalinstrumente
+
+B62A Möglicherweise hat das erworbene Unternehmen anteilsbasierte Vergütungen ausstehen, die der Erwerber nicht gegen seine anteilsbasierten Vergütungen austauscht. Sind diese anteilsbasierten Vergütungen des erworbenen Unternehmens erdient, sind sie Teil des nicht beherrschenden Anteils am erworbenen Unternehmen und werden zu ihrem marktbasierten Wert bewertet. Sind sie verfallbar, werden sie nach den Paragraphen 19 und 30 zu ihrem marktbasierten Wert bewertet, so als fiele der Erwerbszeitpunkt mit dem Zeitpunkt der Gewährung zusammen.
+
+B62B Der marktbasierte Wert verfallbarer anteilsbasierter Vergütungen wird dem nicht beherrschenden Anteil im Verhältnis des abgeleisteten Erdienungszeitraums zum gesamten Erdienungszeitraum bzw. (falls länger) zum ursprünglichen Erdienungszeitraum der anteilsbasierten Vergütung zugeordnet. Der Saldo wird den Leistungen nach dem Zusammenschluss zugeordnet.
+
+ANDERE IFRS, DIE LEITLINIEN FÜR DIE FOLGEBEWERTUNG UND DIE FOLGEBILANZIERUNG ENTHALTEN (ANWENDUNG DES PARAGRAPHEN 54)
+
+B63 Beispiele für andere IFRS, die Leitlinien für die Folgebewertung und Folgebilanzierung der bei einem Unternehmenszusammenschluss erworbenen Vermögenswerte und übernommenen oder eingegangenen Schulden enthalten, sind Folgende:
+a) 
+
+IAS 38, der Vorschriften für die Bilanzierung identifizierbarer, bei einem Unternehmenszusammenschluss erworbener immaterieller Vermögenswerte enthält. Der Erwerber bestimmt den Geschäfts- oder Firmenwert zum Erwerbszeitpunkt abzüglich aller kumulierten Wertminderungsaufwendungen. IAS 36 Wertminderung von Vermögenswerten enthält Vorschriften für die Bilanzierung von Wertminderungsaufwendungen.
+b) 
+
+[gestrichen]
+c) 
+
+IAS 12, der Vorschriften für die Folgebilanzierung latenter Steueransprüche (einschließlich nicht angesetzter latenter Steueransprüche) und latenter Steuerschulden enthält, die bei einem Unternehmenszusammenschluss erworben wurden.
+d) 
+
+IFRS 2, der Leitlinien für die Folgebewertung und die Folgebilanzierung des Anteils des von einem Erwerber ausgegebenen Ersatzes von anteilsbasierten Vergütungsprämien enthält, die den künftigen Arbeitsleistungen der Mitarbeiter zuzuordnen sind.
+e) 
+
+IFRS 10, der Leitlinien für die Bilanzierung der Änderungen der Beteiligungsquote eines Mutterunternehmens an einem Tochterunternehmen nach Übernahme der Beherrschung enthält.
+
+ANGABEN (ANWENDUNG DER PARAGRAPHEN 59 UND 61)
+
+B64 Zur Erreichung des in Paragraph 59 genannten Ziels hat der Erwerber für jeden Unternehmenszusammenschluss, der während der Berichtsperiode stattfindet, die folgenden Angaben zu machen:
+a) 
+
+Name und Beschreibung des erworbenen Unternehmens.
+b) 
+
+Erwerbszeitpunkt.
+c) 
+
+Prozentsatz der erworbenen Eigenkapitalanteile mit Stimmrecht.
+d) 
+
+Hauptgründe für den Unternehmenszusammenschluss und Beschreibung der Art und Weise, wie der Erwerber die Beherrschung über das erworbene Unternehmen erlangt hat.
+e) 
+
+Eine qualitative Beschreibung der Faktoren, die zur Erfassung des Geschäfts- oder Firmenwerts führen, wie beispielsweise die erwarteten Synergien aus gemeinschaftlichen Tätigkeiten des erworbenen Unternehmens und dem Erwerber, immateriellen Vermögenswerten, die nicht für einen gesonderten Ansatz eingestuft sind, oder sonstige Faktoren.
+f) 
+
+Der zum Erwerbszeitpunkt geltende beizulegende Zeitwert der gesamten übertragenen Gegenleistung und der zum Erwerbszeitpunkt geltende beizulegende Zeitwert jeder Hauptkategorie von Gegenleistungen wie:
+i) 
+
+Zahlungsmittel,
+ii) 
+
+sonstige materielle oder immaterielle Vermögenswerte, einschließlich eines Geschäftsbetriebs oder Tochterunternehmens des Erwerbers,
+iii) 
+
+eingegangene Schulden, zum Beispiel eine Schuld für eine bedingte Gegenleistung, und
+iv) 
+
+Eigenkapitalanteile des Erwerbers, einschließlich der Anzahl der ausgegebenen oder noch auszugebenden Instrumente oder Anteile sowie der Methode zur Ermittlung des beizulegenden Zeitwerts dieser Instrumente und Anteile.
+g) 
+
+Bei Vereinbarungen über eine bedingte Gegenleistung und Vermögenswerte für Entschädigungsleistungen:
+i) 
+
+der zum Erwerbszeitpunkt erfasste Betrag,
+ii) 
+
+eine Beschreibung der Vereinbarung und die Grundlage für die Ermittlung des Zahlungsbetrags und
+iii) 
+
+eine Schätzung der Bandbreite der Ergebnisse (nicht abgezinst) oder, falls eine solche Bandbreite nicht geschätzt werden kann, die Tatsache und die Gründe, warum keine Bandbreite geschätzt werden kann. Wenn der Höchstbetrag der Zahlung unbegrenzt ist, hat der Erwerber diese Tatsache anzugeben.
+h) 
+
+Bei erworbenen Forderungen:
+i) 
+
+der beizulegende Zeitwert der Forderungen,
+ii) 
+
+die Bruttobeträge der vertraglichen Forderungen und
+iii) 
+
+die zum Erwerbszeitpunkt bestmögliche Schätzung der vertraglichen Zahlungsströme, die voraussichtlich uneinbringlich sein werden.
+
+Die Angaben sind nach Hauptgruppen von Forderungen, wie Kredite, direkte Finanzierungs-Leasingverhältnisse und allen sonstigen Gruppen von Forderungen, zu machen.
+i) 
+
+Die zum Erwerbszeitpunkt für jede Hauptgruppe von erworbenen Vermögenswerten und übernommenen Schulden erfassten Beträge.
+j) 
+
+Für jede gemäß Paragraph 23 angesetzte Eventualverbindlichkeit die in Paragraph 85 von IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen verlangten Angaben. Falls eine Eventualverbindlichkeit nicht angesetzt wurde, da ihr beizulegender Zeitwert nicht verlässlich bestimmt werden kann, hat der Erwerber folgende Angaben zu machen:
+i) 
+
+die in Paragraph 86 von IAS 37 verlangten Angaben und
+ii) 
+
+die Gründe, warum die Verbindlichkeit nicht verlässlich bewertet werden kann.
+k) 
+
+Die Gesamtsumme des Geschäfts- oder Firmenwerts, der erwartungsgemäß für Steuerzwecke abzugsfähig ist.
+l) 
+
+Bei Transaktionen, die gemäß Paragraph 51 getrennt vom Erwerb der Vermögenswerte oder der Übernahme der Schulden bei einem Unternehmenszusammenschluss ausgewiesen werden:
+i) 
+
+eine Beschreibung jeder Transaktion,
+ii) 
+
+wie der Erwerber jede Transaktion bilanziert,
+iii) 
+
+die für jede Transaktion ausgewiesenen Beträge und die Posten im Abschluss, in denen jeder Betrag erfasst ist, und
+iv) 
+
+falls die Transaktion die tatsächliche Erfüllung einer zuvor bestehenden Beziehung ist, die für die Ermittlung des Erfüllungsbetrags verwendete Methode.
+m) 
+
+Die unter Buchstabe l geforderten Angaben zu den getrennt ausgewiesenen Transaktionen haben auch den Betrag der zugehörigen Abschlusskosten und separat dazu diejenigen Kosten, die als Aufwand erfasst wurden, sowie den oder die Posten der Gesamtergebnisrechnung, in dem oder in denen diese Aufwendungen erfasst wurden, einzubeziehen. Der Betrag der Ausgabekosten, der nicht als Aufwand erfasst wurde, sowie die Art von dessen Erfassung sind ebenso anzugeben.
+n) 
+
+Bei einem Erwerb zu einem Preis unter Marktwert (siehe Paragraphen 34–36):
+i) 
+
+der Betrag eines gemäß Paragraph 34 erfassten Gewinns sowie der Posten der Gesamtergebnisrechnung, in dem dieser Gewinn erfasst wurde, und
+ii) 
+
+eine Beschreibung der Gründe, weshalb die Transaktion zu einem Gewinn führte.
+o) 
+
+Für jeden Unternehmenszusammenschluss, bei dem der Erwerber zum Erwerbszeitpunkt weniger als 100 Prozent der Eigenkapitalanteile an dem erworbenen Unternehmen hält:
+i) 
+
+der zum Erwerbszeitpunkt angesetzte Betrag des nicht beherrschenden Anteils an dem erworbenen Unternehmen und die Bewertungsgrundlage für diesen Betrag und
+ii) 
+
+für jeden nicht beherrschenden Anteil an dem erworbenen Unternehmen, der zum beizulegenden Zeitwert bewertet wurde, das/die Bewertungverfahren und die wesentlichen Inputfaktoren, die zur Ermittlung dieses Werts verwendet wurden.
+p) 
+
+Bei einem sukzessiven Unternehmenszusammenschluss:
+i) 
+
+der zum Erwerbszeitpunkt geltende beizulegende Zeitwert des Eigenkapitalanteils an dem erworbenen Unternehmen, der unmittelbar vor dem Erwerbszeitpunkt vom Erwerber gehalten wurde, und
+ii) 
+
+jeglicher Gewinn oder Verlust, der aufgrund einer Neubewertung des Eigenkapitalanteils an dem erworbenen Unternehmen, das vor dem Unternehmenszusammenschluss vom Erwerber gehalten wurde (siehe Paragraph 42), zum beizulegenden Zeitwert erfasst wurde, und der Posten der Gesamtergebnisrechnung, in dem dieser Gewinn bzw. Verlust ausgewiesen wurde.
+q) 
+
+Die folgenden Angaben:
+i) 
+
+die Erlöse sowie die Gewinne oder Verluste des erworbenen Unternehmens seit dem Erwerbszeitpunkt, welche in der Konzerngesamtergebnisrechnung für die betreffende Periode enthalten sind, und
+ii) 
+
+die Erlöse sowie die Gewinne oder Verluste des zusammengeschlossenen Unternehmens für die aktuelle Periode, als ob der Erwerbszeitpunkt für alle Unternehmenszusammenschlüsse, die während des Geschäftsjahrs stattgefunden haben, am Anfang der Periode des laufenden Geschäftsjahrs gewesen wäre.
+
+Ist die Bereitstellung der in diesem Unterparagraphen verlangten Angaben undurchführbar, hat der Erwerber dies anzugeben und zu erklären, warum die Bereitstellung undurchführbar ist. Der Begriff „undurchführbar“ wird in diesem IFRS mit derselben Bedeutung verwendet wie in IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler.
+
+B65 Für die Unternehmenszusammenschlüsse der Periode, die einzeln betrachtet unwesentlich, zusammen betrachtet jedoch wesentlich sind, hat der Erwerber die in den Paragraphen B64(e)–(q) vorgeschriebenen Angaben zusammengefasst zu machen.
+
+B66 Liegt der Erwerbszeitpunkt bei einem Unternehmenszusammenschluss nach dem Abschlussstichtag, aber vor der Freigabe des Abschlusses zur Veröffentlichung, hat der Erwerber die in Paragraph B64 verlangten Angaben zu machen, es sei denn die erstmalige Bilanzierung des Unternehmenszusammenschlusses ist zum Zeitpunkt der Freigabe des Abschlusses zur Veröffentlichung noch nicht abgeschlossen. In diesem Fall hat der Erwerber zu beschreiben, welche Angaben nicht gemacht werden konnten, und die Gründe hierfür zu nennen.
+
+B67 Zur Erreichung des in Paragraph 61 genannten Ziels hat der Erwerber für jeden wesentlichen Unternehmenszusammenschluss oder zusammengefasst für einzeln betrachtet unwesentliche Unternehmenszusammenschlüsse, die gemeinsam wesentlich sind, folgende Angaben zu machen:
+a) 
+
+Wenn die erstmalige Bilanzierung eines Unternehmenszusammenschlusses im Hinblick auf gewisse Vermögenswerte, Schulden, nicht beherrschende Anteile oder zu berücksichtigende Posten noch nicht abgeschlossen ist (siehe Paragraph 45) und die im Abschluss für den Unternehmenszusammenschluss ausgewiesenen Beträge nur vorläufig ermittelt wurden:
+i) 
+
+die Gründe, weshalb die erstmalige Bilanzierung des Unternehmenszusammenschlusses noch nicht abgeschlossen ist,
+ii) 
+
+die Vermögenswerte, Schulden, Eigenkapitalanteile oder Gegenleistungen, für die die erstmalige Bilanzierung noch nicht abgeschlossen ist, und
+iii) 
+
+die Art und die Höhe aller Anpassungen im Bewertungszeitraum, die gemäß Paragraph 49 in der Periode erfasst wurden.
+b) 
+
+Für jede Periode nach dem Erwerbszeitpunkt bis das Unternehmen einen Vermögenswert einer bedingten Gegenleistung vereinnahmt, veräußert oder anderweitig den Anspruch darauf verliert oder bis das Unternehmen eine Schuld als bedingte Gegenleistung erfüllt oder bis diese Schuld aufgehoben oder erloschen ist:
+i) 
+
+jede Änderung bei den angesetzten Beträgen, einschließlich der Differenzen, die sich aus der Erfüllung ergeben,
+ii) 
+
+jede Änderung der Bandbreite der Ergebnisse (nicht abgezinst) sowie die Gründe für diese Änderung und
+iii) 
+
+die Bewertungsverfahren und die in das Hauptmodell einfließenden Parameter zur Bewertung der bedingten Gegenleistung.
+c) 
+
+Für bei einem Unternehmenszusammenschluss angesetzte Eventualverbindlichkeiten hat der Erwerber für jede Kategorie von Rückstellungen die in den Paragraphen 84 und 85 von IAS 37 verlangten Angaben zu machen.
+d) 
+
+Eine Überleitung des Buchwerts des Geschäfts- oder Firmenwerts zu Beginn und zum Ende der Berichtsperiode unter gesonderter Angabe
+i) 
+
+des Bruttobetrags und der kumulierten Wertminderungsaufwendungen zu Beginn der Periode,
+ii) 
+
+des zusätzlichen Geschäfts- oder Firmenwerts, der während der Periode angesetzt wird, mit Ausnahme des Geschäfts- oder Firmenwerts, der in einer Veräußerungsgruppe enthalten ist, die beim Erwerb die Kriterien zur Einstufung „als zur Veräußerung gehalten“ gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche erfüllt,
+iii) 
+
+der Anpassungen aufgrund nachträglich gemäß Paragraph 67 erfasster latenter Steueransprüche während der Periode,
+iv) 
+
+des Geschäfts- oder Firmenwerts, der in einer gemäß IFRS 5 als „zur Veräußerung gehalten“ eingestuften Veräußerungsgruppe enthalten ist, und des Geschäfts- oder Firmenwerts, der während der Periode ausgebucht wurde, ohne vorher zu einer als „zur Veräußerung gehalten“ eingestuften Veräußerungsgruppe gehört zu haben,
+v) 
+
+der Wertminderungsaufwendungen, die während der Periode gemäß IAS 36 erfasst wurden (IAS 36 verlangt zusätzlich dazu Angaben über den erzielbaren Betrag und die Wertminderung des Geschäfts- oder Firmenwerts),
+vi) 
+
+der Nettoumrechnungsdifferenzen, die während der Periode gemäß IAS 21 Auswirkungen von Wechselkursänderungen entstanden sind,
+vii) 
+
+aller anderen Veränderungen des Buchwerts während der Periode,
+viii) 
+
+des Bruttobetrags und der kumulierten Wertminderungsaufwendungen zum Ende der Berichtsperiode,
+e) 
+
+Jeden in der laufenden Periode erfassten Gewinn oder Verlust (samt Erläuterung), der
+i) 
+
+sich auf die in einem Unternehmenszusammenschluss, der in der laufenden oder einer früheren Periode stattgefunden hat, erworbenen identifizierbaren Vermögenswerte oder übernommenen Schulden bezieht, und
+ii) 
+
+von einem solchem Umfang, einer solchen Art oder einer solchen Häufigkeit ist, dass diese Angabe für das Verständnis des Abschlusses des zusammengeschlossenen Unternehmens relevant ist.
+
+ÜBERGANGSVORSCHRIFTEN FÜR UNTERNEHMENSZUSAMMENSCHLÜSSE, AN DENEN NUR GEGENSEITIGKEITSUNTERNEHMEN BETEILIGT SIND ODER DIE AUF REIN VERTRAGLICHER BASIS ERFOLGEN (ANWENDUNG DES PARAGRAPHEN 66)
+
+B68 Nach Paragraph 64 ist dieser IFRS prospektiv auf Unternehmenszusammenschlüsse anzuwenden, bei denen der Erwerbszeitpunkt mit dem Beginn des ersten am oder nach dem 1. Juli 2009 beginnenden Geschäftsjahrs zusammenfällt oder danach liegt. Eine frühere Anwendung ist zulässig. Ein Unternehmen darf diesen IFRS jedoch frühestens zu Beginn eines am oder nach dem 30. Juni 2007 beginnenden Geschäftsjahrs anwenden. Wendet ein Unternehmen diesen IFRS vor seinem Geltungsbeginn an, so ist dies anzugeben und gleichzeitig IAS 27 (in der 2008 geänderten Fassung) anzuwenden.
+
+B69 Die Vorschrift, diesen IFRS prospektiv anzuwenden, wirkt sich folgendermaßen auf einen Unternehmenszusammenschluss aus, bei dem nur Gegenseitigkeitsunternehmen beteiligt sind oder der auf rein vertraglicher Basis erfolgt, wenn der Erwerbszeitpunkt hinsichtlich dieses Unternehmenszusammenschlusses vor der Anwendung dieses IFRS liegt:
+
+a)
+	
+
+Einstufung — Ein Unternehmen hat den früheren Unternehmenszusammenschluss weiterhin gemäß den früheren auf solche Zusammenschlüsse anwendbaren Rechnungslegungsmethoden einzustufen.
+
+b)
+	
+
+Früher angesetzter Geschäfts- oder Firmenwert — Zu Beginn der ersten Berichtsperiode des Geschäftsjahrs, in dem dieser IFRS angewendet wird, ist der Buchwert des Geschäfts- oder Firmenwerts, der aus einem früheren Unternehmenszusammenschluss stammte, dessen Buchwert zu diesem Zeitpunkt gemäß den vorherigen Rechnungslegungsmethoden des Unternehmens. Bei der Ermittlung dieses Betrags hat das Unternehmen den Buchwert jeder kumulierten Abschreibung dieses Geschäfts- oder Firmenwerts mit einer entsprechenden Minderung des Geschäfts- oder Firmenwerts aufzurechnen. Es sind keine anderen Anpassungen des Buchwerts des Geschäfts- oder Firmenwerts durchzuführen.
+
+c)
+	
+
+Geschäfts- oder Firmenwert, der zuvor als ein Abzug vom Eigenkapital ausgewiesen wurde — Die vorherigen Rechnungslegungsmethoden des Unternehmens können zu einem Geschäfts- oder Firmenwert geführt haben, der als ein Abzug vom Eigenkapital ausgewiesen wurde. In diesem Fall hat das Unternehmen den Geschäfts- oder Firmenwert nicht als einen Vermögenswert zu Beginn der ersten Berichtsperiode des ersten Geschäftsjahrs auszuweisen, in dem dieser IFRS angewandt wird. Des Weiteren ist kein Teil dieses Geschäfts- oder Firmenwerts erfolgswirksam zu erfassen, wenn das Unternehmen den gesamten Geschäftsbetrieb oder einen Teil davon, zu dem dieser Geschäfts- oder Firmenwert gehört, veräußert oder wenn eine zahlungsmittelgenerierende Einheit, zu der dieser Geschäfts- oder Firmenwert gehört, wertgemindert wird.
+
+d)
+	
+
+Folgebilanzierung des Geschäfts- oder Firmenwerts — Vom Beginn der ersten Berichtsperiode des ersten Geschäftsjahrs, in der dieser IFRS angewandt wird, hat das Unternehmen die planmäßige Abschreibung des Geschäfts- oder Firmenwerts aus dem früheren Unternehmenszusammenschluss einzustellen und den Geschäfts- oder Firmenwert gemäß IAS 36 auf Wertminderung zu prüfen.
+
+e)
+	
+
+Zuvor angesetzter negativer Geschäfts- oder Firmenwert — Ein Unternehmen, das den vorherigen Unternehmenszusammenschluss unter Anwendung der Erwerbsmethode bilanzierte, kann einen passivischen Abgrenzungsposten für einen Überschuss seines Anteils an dem beizulegenden Nettozeitwert der identifizierbaren Vermögenswerte und Schulden des erworbenen Unternehmens über die Anschaffungskosten dieses Anteils (manchmal negativer Geschäfts- oder Firmenwert genannt) erfasst haben. In diesem Fall hat das Unternehmen den Buchwert dieses passivischen Abgrenzungspostens zu Beginn des ersten Geschäftsjahrs, in dem dieser IFRS angewendet wird, auszubuchen und eine entsprechende Anpassung in der Eröffnungsbilanz der Gewinnrücklagen zu dem Zeitpunkt vorzunehmen.

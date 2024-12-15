@@ -1,0 +1,99 @@
+﻿ IFRIC INTERPRETATION 1
+
+Änderungen bestehender Rückstellungen für Entsorgungs-, Wiederherstellungs- und ähnliche Verpflichtungen
+
+VERWEISE
+— 
+IFRS 16 Leasingverhältnisse
+— 
+IAS 1 Darstellung des Abschlusses (überarbeitet 2007)
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 16 Sachanlagen (überarbeitet 2003)
+— 
+IAS 23 Fremdkapitalkosten
+— 
+IAS 36 Wertminderung von Vermögenswerten (überarbeitet 2004)
+— 
+IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen
+
+HINTERGRUND
+
+1 Viele Unternehmen sind verpflichtet, Sachanlagen zu demontieren, zu entfernen oder wiederherzustellen. In dieser Interpretation werden solche Verpflichtungen als „Entsorgungs-, Wiederherstellungs- und ähnliche Verpflichtungen“ bezeichnet. Gemäß IAS 16 umfassen die Anschaffungs- oder Herstellungskosten von Sachanlagen die erstmalig geschätzten Kosten für die Demontage und das Entfernen der Sachanlage sowie die Wiederherstellung des Standorts, an dem sie sich befindet, d. h. die Verpflichtung, die ein Unternehmen entweder bei Erwerb der Sachanlage oder bei ihrer Umwidmung eingeht, d. h., wenn es die Sachanlage während eines gewissen Zeitraums zu anderen Zwecken als zur Herstellung von Vorräten nutzt. IAS 37 enthält Vorschriften zur Bewertung von Rückstellungen für Entsorgungs-, Wiederherstellungs- und ähnliche Verpflichtungen. Diese Interpretation enthält Leitlinien zur Bilanzierung der Auswirkung von Bewertungsänderungen bestehender Rückstellungen für Entsorgungs-, Wiederherstellungs- und ähnliche Verpflichtungen.
+
+ANWENDUNGSBEREICH
+
+2 Diese Interpretation gilt für Bewertungsänderungen bei einer bestehenden Rückstellung für Entsorgungs-, Wiederherstellungs- oder ähnliche Verpflichtungen, die sowohl
+a) 
+
+nach IAS 16 als Teil der Anschaffungs- oder Herstellungskosten einer Sachanlage oder nach IFRS 16 als Teil der Kosten eines Nutzungsrechts als auch
+b) 
+
+nach IAS 37 als Rückstellung angesetzt wurde.
+
+Rückstellungen für Entsorgungs-, Wiederherstellungs- oder ähnliche Verpflichtungen bestehen beispielsweise für den Abbruch einer Fabrikanlage, die Sanierung von Umweltschäden in der rohstoffgewinnenden Industrie oder die Entfernung einer Sachanlage.
+
+FRAGESTELLUNG
+
+3 Diese Interpretation betrifft die Frage, wie zu bilanzieren ist, wenn sich die Bewertung einer bestehenden Rückstellung für Entsorgungs-, Wiederherstellungs- oder ähnliche Verpflichtungen infolge eines der folgenden Ereignisse ändert:
+a) 
+
+Änderung des geschätzten Abflusses von Ressourcen mit wirtschaftlichem Nutzen (z. B. Zahlungsströme), der für die Erfüllung der Verpflichtung erforderlich ist,
+b) 
+
+Änderung des aktuellen marktbasierten Abzinsungssatzes im Sinne von Paragraph 47 von IAS 37 (dies schließt Änderungen des Zinseffekts und für die Verbindlichkeit spezifische Risiken ein) und
+c) 
+
+Erhöhung, die den Zeitablauf widerspiegelt (dies wird auch als Aufzinsung bezeichnet).
+
+BESCHLUSS
+
+4 Bewertungsänderungen einer bestehenden Rückstellung für Entsorgungs-, Wiederherstellungs- oder ähnliche Verpflichtungen, die auf Änderungen der geschätzten Fälligkeit oder Höhe des Abflusses von Ressourcen mit wirtschaftlichem Nutzen, der zur Erfüllung der Verpflichtung erforderlich ist, oder auf einer Änderung des Abzinsungssatzes beruhen, sind gemäß den nachstehenden Paragraphen 5–7 zu bilanzieren.
+
+5 Wird der dazugehörige Vermögenswert nach dem Anschaffungskostenmodell bewertet,
+a) 
+
+sind Änderungen der Rückstellung zu den Anschaffungs- oder Herstellungskosten des dazugehörigen Vermögenswerts in der laufenden Periode hinzuzufügen oder gemäß Buchstabe b davon abzuziehen,
+b) 
+
+darf der von den Anschaffungs- oder Herstellungskosten des Vermögenswerts abgezogene Betrag seinen Buchwert nicht übersteigen; wenn eine Abnahme der Rückstellung den Buchwert des Vermögenswerts übersteigt, ist dieser Überhang unmittelbar erfolgswirksam zu erfassen,
+c) 
+
+hat das Unternehmen, wenn die Änderung zu einer Erhöhung der Anschaffungs- oder Herstellungskosten eines Vermögenswerts führt, zu prüfen, ob dies ein Anhaltspunkt dafür ist, dass der neue Buchwert des Vermögenswerts nicht vollständig erzielbar sein könnte. Liegt ein solcher Anhaltspunkt vor, hat das Unternehmen den Vermögenswert auf Wertminderung zu prüfen, indem es seinen erzielbaren Betrag schätzt, und den Wertminderungsaufwand nach IAS 36 zu bilanzieren.
+
+6 Wird der dazugehörige Vermögenswert nach dem Neubewertungsmodell bewertet,
+a) 
+
+gehen die Änderungen in die für diesen Vermögenswert angesetzte Neubewertungsrücklage ein, sodass
+i) 
+
+eine Abnahme der Rückstellung (nach Buchstabe b) im sonstigen Ergebnis erfasst wird und zu einer Erhöhung der Neubewertungsrücklage im Eigenkapital führt, es sei denn, sie macht eine in der Vergangenheit erfolgswirksam als Aufwand erfasste Abwertung desselben Vermögenswerts rückgängig und wird deshalb erfolgswirksam erfasst,
+ii) 
+
+eine Erhöhung der Rückstellung erfolgswirksam erfasst wird, es sei denn, sie übersteigt den Betrag der entsprechenden Neubewertungsrücklage nicht und wird deshalb im sonstigen Ergebnis erfasst, was zu einer Minderung der Neubewertungsrücklage im Eigenkapital führt,
+b) 
+
+ist in dem Fall, dass eine Abnahme der Rückstellung den Buchwert überschreitet, der angesetzt worden wäre, wenn der Vermögenswert nach dem Anschaffungskostenmodell bilanziert worden wäre, der Überhang umgehend erfolgswirksam zu erfassen,
+c) 
+
+ist eine Änderung der Rückstellung ein Anhaltspunkt dafür, dass der Vermögenswert möglicherweise neu bewertet werden muss, um sicherzustellen, dass der Buchwert nicht wesentlich von dem abweicht, der unter Verwendung des beizulegenden Zeitwerts zum Abschlussstichtag ermittelt würde. Solche Neubewertungen sind bei der Bestimmung der Beträge, die nach Buchstabe a erfolgswirksam oder im sonstigen Ergebnis zu erfassen sind, zu berücksichtigen. Ist eine Neubewertung erforderlich, sind alle Vermögenswerte dieser Gruppe neu zu bewerten,
+d) 
+
+ist nach IAS 1 jeder Bestandteil des sonstigen Ergebnisses in der Gesamtergebnisrechnung auszuweisen. Somit ist auch jede auf einer Änderung der Rückstellung beruhende Veränderung der Neubewertungsrücklage gesondert auszuweisen.
+
+7 Der geänderte Abschreibungsbetrag wird über die gesamte Nutzungsdauer des Vermögenswerts abgeschrieben. Deshalb sind alle Änderungen der Rückstellung, die nach dem Ende der Nutzungsdauer des dazugehörigen Vermögenswerts anfallen, zum Zeitpunkt ihres Eintretens erfolgswirksam zu erfassen. Dies gilt sowohl für das Anschaffungskostenmodell als auch für das Neubewertungsmodell.
+
+8 Die periodische Aufzinsung ist zum Zeitpunkt ihres Eintretens erfolgswirksam als Finanzierungsaufwand zu erfassen. Eine Aktivierung nach IAS 23 ist nicht zulässig.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+9 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. September 2004 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diese Interpretation auf Berichtsperioden an, die vor dem 1. September 2004 beginnen, hat es dies anzugeben.
+
+9A Infolge (der 2007 überarbeiteten Fassung) von IAS 1 wurde die in allen IFRS verwendete Terminologie geändert. Außerdem wurde dadurch Paragraph 6 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen die 2007 überarbeitete Fassung von IAS 1 auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+9B Mit dem im Januar 2016 veröffentlichten IFRS 16 wurde Paragraph 2 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+ÜBERGANGSVORSCHRIFTEN
+
+10 Änderungen der Rechnungslegungsmethoden sind nach IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler vorzunehmen ( 63 ).

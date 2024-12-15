@@ -1,0 +1,190 @@
+﻿ IFRIC INTERPRETATION 2
+
+Geschäftsanteile an Genossenschaften und ähnliche Instrumente
+
+VERWEISE
+— 
+IFRS 9 Finanzinstrumente
+— 
+IFRS 13 Bewertung zum beizulegenden Zeitwert
+— 
+IAS 32 Finanzinstrumente: Angaben und Darstellung (überarbeitet 2003) ( 64 )
+
+HINTERGRUND
+
+1 Genossenschaften und ähnliche Unternehmen werden von einer Gruppe von Personen zur Verfolgung gemeinsamer wirtschaftlicher oder sozialer Interessen gegründet. In den einzelstaatlichen Gesetzen ist eine Genossenschaft meist als eine Gesellschaft definiert, welche die gegenseitige wirtschaftliche Förderung ihrer Mitglieder mittels eines gemeinschaftlichen Geschäftsbetriebs bezweckt (Prinzip der Selbsthilfe). Die Anteile der Mitglieder einer Genossenschaft werden häufig unter der Bezeichnung Geschäftsanteile, Genossenschaftsanteile o.ä. geführt und nachfolgend als „Geschäftsanteile“ bezeichnet.
+
+2 IAS 32 stellt Grundsätze für die Einstufung von Finanzinstrumenten als finanzielle Verbindlichkeiten oder Eigenkapital auf. Diese Grundsätze beziehen sich insbesondere auf die Einstufung kündbarer Instrumente, die den Inhaber zur Rückgabe an den Emittenten gegen Zahlungsmittel oder andere Finanzinstrumente berechtigen. Die Anwendung dieser Grundsätze auf die Geschäftsanteile an Genossenschaften und ähnliche Instrumente gestaltet sich schwierig. Einige Mitglieder des International Accounting Standards Board haben den Wunsch geäußert, Unterstützung zu erhalten, wie die Grundsätze von IAS 32 auf Geschäftsanteile und ähnliche Instrumente, die bestimmte Merkmale aufweisen, anzuwenden sind und unter welchen Umständen diese Merkmale einen Einfluss auf die Einstufung als Verbindlichkeit oder Eigenkapital haben.
+
+ANWENDUNGSBEREICH
+
+3 Diese Interpretation ist auf Finanzinstrumente anzuwenden, die in den Anwendungsbereich von IAS 32 fallen, einschließlich an Genossenschaftsmitglieder ausgegebener Anteile, mit denen das Eigentumsrecht der Mitglieder am Unternehmen verbrieft wird. Sie erstreckt sich nicht auf Finanzinstrumente, die in Eigenkapitalinstrumenten des Unternehmens zu erfüllen sind oder erfüllt werden können.
+
+FRAGESTELLUNG
+
+4 Viele Finanzinstrumente, darunter auch Geschäftsanteile, sind mit Merkmalen wie Stimmrechten und Ansprüchen auf Dividenden verbunden, die für eine Einstufung als Eigenkapital sprechen. Einige Finanzinstrumente berechtigen den Inhaber, eine Rücknahme gegen Zahlungsmittel oder andere finanzielle Vermögenswerte zu verlangen, können jedoch Beschränkungen hinsichtlich einer solchen Rücknahme unterliegen. Wie lässt sich anhand dieser Rücknahmebedingungen bestimmen, ob ein Finanzinstrument als Verbindlichkeit oder als Eigenkapital einzustufen ist?
+
+BESCHLUSS
+
+5 Das vertragliche Recht des Inhabers eines Finanzinstruments (worunter auch ein Geschäftsanteil an einer Genossenschaft fällt), eine Rücknahme zu verlangen, führt nicht unmittelbar zu einer Einstufung des Finanzinstruments als finanzielle Verbindlichkeit. Vielmehr hat ein Unternehmen bei der Entscheidung, ob ein Finanzinstrument als finanzielle Verbindlichkeit oder als Eigenkapital einzustufen ist, alle rechtlichen Bestimmungen und Gegebenheiten des Finanzinstruments zu berücksichtigen. Hierzu gehören auch die einschlägigen lokalen Gesetze und Vorschriften sowie die zum Zeitpunkt der Einstufung gültige Satzung des Unternehmens. Voraussichtliche künftige Änderungen dieser Gesetze, Vorschriften oder der Satzung sind dagegen nicht zu berücksichtigen.
+
+6 Geschäftsanteile, die als Eigenkapital eingestuft würden, wenn die Mitglieder nicht das Recht hätten, eine Rücknahme zu verlangen, stellen Eigenkapital dar, wenn eine der in den Paragraphen 7 und 8 genannten Bedingungen erfüllt ist oder die Geschäftsanteile alle in den Paragraphen 16A und 16B oder 16C und 16D von IAS 32 beschriebenen Merkmale aufweisen und die dort genannten Bedingungen erfüllen. Sichteinlagen, einschließlich Kontokorrentkonten, Einlagenkonten und ähnliche Verträge, die Mitglieder in ihrer Eigenschaft als Kunden schließen, sind als finanzielle Verbindlichkeiten des Unternehmens einzustufen.
+
+7 Geschäftsanteile stellen Eigenkapital dar, wenn das Unternehmen ein uneingeschränktes Recht auf Ablehnung der Rücknahme von Geschäftsanteilen besitzt.
+
+8 Lokale Gesetze, Vorschriften oder die Satzung des Unternehmens können die Rücknahme von Geschäftsanteilen mit verschiedenen Verboten belegen, wie z. B. uneingeschränkten Verboten oder Verboten, die auf Liquiditätskriterien beruhen. Ist eine Rücknahme nach lokalen Gesetzen, Vorschriften oder der Satzung des Unternehmens uneingeschränkt verboten, stellen die Geschäftsanteile Eigenkapital dar. Dagegen haben Bestimmungen in lokalen Gesetzen, Vorschriften oder der Satzung des Unternehmens, die eine Rücknahme nur dann verbieten, wenn bestimmte Bedingungen — wie beispielsweise Liquiditätsgrenzen — erfüllt (oder nicht erfüllt) sind, keine Einstufung von Geschäftsanteilen als Eigenkapital zur Folge.
+
+9 Ein uneingeschränktes Verbot kann absolut sein und alle Rücknahmen verbieten. Ein uneingeschränktes Verbot kann aber auch nur teilweise gelten und die Rücknahme von Geschäftsanteilen insoweit verbieten, als durch die Rücknahme die Anzahl der Geschäftsanteile oder die Höhe des auf die Geschäftsanteile eingezahlten Kapitals einen bestimmten Mindestbetrag unterschreitet. Geschäftsanteile, die nicht unter das Rücknahmeverbot fallen, stellen Verbindlichkeiten dar, es sei denn, das Unternehmen verfügt über das in Paragraph 7 beschriebene uneingeschränkte Recht auf Ablehnung der Rücknahme oder die Geschäftsanteile weisen alle in den Paragraphen 16A und 16B oder 16C und 16D von IAS 32 beschriebenen Merkmale auf und erfüllen die dort genannten Bedingungen. In einigen Fällen kann sich die Anzahl der Anteile oder die Höhe des eingezahlten Kapitals, die bzw. das von einem Rücknahmeverbot betroffen sind bzw. ist, von Zeit zu Zeit ändern. Eine derartige Änderung führt zu einer Umbuchung zwischen finanziellen Verbindlichkeiten und Eigenkapital.
+
+10 Beim erstmaligen Ansatz hat das Unternehmen seine Rücknahme-Verbindlichkeiten zum beizulegenden Zeitwert zu bewerten. Bei uneingeschränkt rückgabefähigen Geschäftsanteilen ist der beizulegende Zeitwert dieser finanziellen Verbindlichkeiten mindestens mit dem gemäß den Rücknahmebestimmungen in der Satzung des Unternehmens oder gemäß dem einschlägigen Gesetz zahlbaren Höchstbetrag anzusetzen, abgezinst vom frühestmöglichen Fälligkeitszeitpunkt an (siehe Beispiel 3).
+
+11 Nach Paragraph 35 von IAS 32 sind Ausschüttungen an Inhaber von Eigenkapitalinstrumenten direkt im Eigenkapital zu erfassen. Bei Finanzinstrumenten, die als finanzielle Verbindlichkeiten eingestuft werden, sind Zinsen, Dividenden und andere Erträge unbeschadet ihrer möglichen gesetzlichen Bezeichnung als Dividenden, Zinsen oder ähnlich als Aufwand zu berücksichtigen.
+
+12 Der Anhang, der integraler Bestandteil dieses Beschlusses ist, enthält Beispiele für die Anwendung des Beschlusses.
+
+ANGABEN
+
+13 Führt eine Änderung des Rücknahmeverbots zu einer Umbuchung zwischen finanziellen Verbindlichkeiten und Eigenkapital, hat das Unternehmen den Betrag, den Zeitpunkt und den Grund für die Umbuchung gesondert anzugeben.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+14 Der Zeitpunkt des Inkrafttretens und die Übergangsvorschriften dieser Interpretation entsprechen denen von IAS 32 (in der 2003 überarbeiteten Fassung). Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Wendet ein Unternehmen diese Interpretation auf Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben. Diese Interpretation ist rückwirkend anzuwenden.
+
+14A Die Änderungen an den Paragraphen 6, 9, A1 und A12 sind erstmals auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen die im Februar 2008 veröffentlichten Änderungen an IAS 32 und IAS 1 Kündbare Finanzinstrumente und bei Liquidation entstehende Verpflichtungen auf eine frühere Periode an, so sind auch die Änderungen an den Paragraphen 6, 9, A1 und A12 auf diese frühere Periode anzuwenden.
+
+15 [gestrichen]
+
+16 Mit dem im Mai 2011 veröffentlichten IFRS 13 wurde Paragraph A8 geändert. Wendet ein Unternehmen IFRS 13 an, so hat es diese Änderung anzuwenden.
+
+17 Mit der im Mai 2012 veröffentlichten Verlautbarung Jährliche Verbesserungen – Zyklus 2009–2011 wurde Paragraph 11 geändert. Diese Änderung ist rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Wendet ein Unternehmen diese Änderung an IAS 32 im Rahmen der im Mai 2012 veröffentlichten Verlautbarung Jährliche Verbesserungen – Zyklus 2009–2011 auf eine frühere Periode an, so ist auch die Änderung an Paragraph 11 auf diese frühere Periode anzuwenden.
+
+18 [gestrichen]
+
+19 Mit dem im Juli 2014 veröffentlichten IFRS 9 wurden die Paragraphen A8 und A10 geändert und die Paragraphen 15 und 18 gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+Anhang
+
+Beispiele für die Anwendung des Beschlusses
+
+Dieser Anhang ist integraler Bestandteil der Interpretation.
+
+A1 Dieser Anhang enthält sieben Beispiele für die Anwendung des IFRIC-Beschlusses. Die Beispiele stellen keine abschließende Liste dar; es sind auch andere Konstellationen denkbar. In jedem Beispiel wird davon ausgegangen, dass außer den im Beispiel genannten Gegebenheiten keine weiteren Bedingungen vorliegen, die eine Einstufung des Finanzinstruments als finanzielle Verbindlichkeit erforderlich machen würden, und dass das Finanzinstrument nicht alle der in den Paragraphen 16A und 16B oder 16C und 16D von IAS 32 beschriebenen Merkmale aufweist oder die dort genannten Bedingungen nicht erfüllt.
+
+UNEINGESCHRÄNKTES RECHT AUF ABLEHNUNG DER RÜCKNAHME (Paragraph 7)
+
+Beispiel 1
+
+Sachverhalt
+
+A2 Die Satzung des Unternehmens besagt, dass Rücknahmen nach freiem Ermessen des Unternehmens durchgeführt werden. Dieser Ermessensspielraum ist in der Satzung nicht weiter ausgeführt und wird auch keinen Beschränkungen unterworfen. In der Vergangenheit hat das Unternehmen die Rücknahme von Geschäftsanteilen nie abgelehnt, obwohl der Vorstand hierzu berechtigt ist.
+
+Einstufung
+
+A3 Das Unternehmen verfügt über das uneingeschränkte Recht, die Rücknahme abzulehnen. Folglich stellen die Geschäftsanteile Eigenkapital dar. IAS 32 stellt Grundsätze für die Einstufung auf, die auf den Vertragsbedingungen des Finanzinstruments beruhen, und merkt an, dass eine Zahlungshistorie oder beabsichtigte freiwillige Zahlungen keine Einstufung als Verbindlichkeit auslösen. In Paragraph AL26 von IAS 32 heißt es:
+
+Wenn Vorzugsanteile nicht rücknahmefähig sind, hängt die angemessene Einstufung von den anderen mit ihnen verbundenen Rechten ab. Die Einstufung erfolgt nach Maßgabe der wirtschaftlichen Substanz der vertraglichen Vereinbarungen und der Begriffsbestimmungen für finanzielle Verbindlichkeiten und Eigenkapitalinstrumente. Wenn Ausschüttungen an Inhaber kumulativer oder nichtkumulativer Vorzugsanteile im Ermessensspielraum des Emittenten liegen, gelten die Anteile als Eigenkapitalinstrumente. Nicht beeinflusst wird die Einstufung eines Vorzugsanteils als Eigenkapitalinstrument oder als finanzielle Verbindlichkeit beispielsweise durch
+a) 
+
+Ausschüttungen in der Vergangenheit,
+b) 
+
+die Absicht, künftig Ausschüttungen vorzunehmen,
+c) 
+
+eine mögliche nachteilige Auswirkung auf den Kurs der Stammanteile des Emittenten, falls keine Ausschüttungen vorgenommen werden (aufgrund von Beschränkungen hinsichtlich der Zahlung von Dividenden auf Stammanteile, wenn keine Dividenden auf Vorzugsanteile gezahlt werden),
+d) 
+
+die Höhe der Rücklagen des Emittenten,
+e) 
+
+eine Gewinn- oder Verlusterwartung des Emittenten für eine Berichtsperiode oder
+f) 
+
+die Fähigkeit oder Unfähigkeit des Emittenten, die Höhe seines Periodengewinns oder -verlusts zu beeinflussen.
+
+Beispiel 2
+
+Sachverhalt
+
+A4 Die Satzung des Unternehmens besagt, dass Rücknahmen nach freiem Ermessen des Unternehmens durchgeführt werden. Sie führt jedoch weiter aus, dass ein Antrag auf Rücknahme automatisch genehmigt wird, sofern das Unternehmen mit dieser Zahlung nicht gegen lokale Liquiditäts- oder Rücklagenvorschriften verstößt.
+
+Einstufung
+
+A5 Das Unternehmen verfügt nicht über das uneingeschränkte Recht auf Ablehnung der Rücknahme. Folglich stellen die Geschäftsanteile eine finanzielle Verbindlichkeit dar. Die vorstehend beschriebene Einschränkung bezieht sich auf die Fähigkeit des Unternehmens, eine Verbindlichkeit zu begleichen. Rücknahmen werden nur dann und so lange beschränkt, wenn bzw. wie die Liquiditäts- oder Rücklagenvorschriften nicht erfüllt sind. Folglich führen diese Einschränkungen nach den Grundsätzen von IAS 32 nicht zu einer Einstufung des Finanzinstruments als Eigenkapital. In Paragraph AL25 von IAS 32 heißt es:
+
+Vorzugsanteile können bei der Emission mit verschiedenen Rechten ausgestattet werden. Bei der Einstufung eines Vorzugsanteils als finanzielle Verbindlichkeit oder als Eigenkapitalinstrument beurteilt ein Emittent die einzelnen Rechte, die mit dem Anteil verbunden sind, um zu bestimmen, ob er die wesentlichen Merkmale einer finanziellen Verbindlichkeit aufweist. So beinhaltet ein Vorzugsanteil, der eine Rücknahme zu einem bestimmten Zeitpunkt oder auf Wunsch des Inhabers vorsieht, eine finanzielle Verbindlichkeit, da der Emittent zur Abgabe finanzieller Vermögenswerte an den Anteilsinhaber verpflichtet ist. Auch wenn ein Emittent der vertraglich vereinbarten Rücknahmeverpflichtung von Vorzugsanteilen aus Mangel an Finanzmitteln, aufgrund einer gesetzlich vorgeschriebenen Verfügungsbeschränkung oder ungenügender Gewinne oder Rücklagen u. U. nicht nachkommen kann, wird die Verpflichtung dadurch nicht hinfällig. [Kursivschreibung hinzugefügt]
+
+RÜCKNAHMEVERBOTE (Paragraphen 8 und 9)
+
+Beispiel 3
+
+Sachverhalt
+
+A6 Eine Genossenschaft hat an ihre Mitglieder zu unterschiedlichen Zeitpunkten und unterschiedlichen Beträgen die folgenden Anteile ausgegeben:
+a) 
+
+1. Januar 20X1 100 000 Anteile zu je 10 WE (1 000 000 WE),
+b) 
+
+1. Januar 20X2 100 000 Anteile zu je 20 WE (2 000 000 WE, sodass insgesamt Anteile im Wert von 3 000 000 WE ausgegeben wurden).
+
+Die Anteile sind auf Verlangen zu ihrem jeweiligen Ausgabepreis rücknahmepflichtig.
+
+A7 Die Satzung des Unternehmens besagt, dass kumulative Rücknahmen nicht mehr als 20 Prozent der größten Anzahl jemals in Umlauf gewesener Geschäftsanteile betragen dürfen. Am 31. Dezember 20X2 hatte das Unternehmen 200 000 umlaufende Anteile, was der höchsten Anzahl von Geschäftsanteilen entspricht, die je in Umlauf waren. Bisher wurden keine Anteile zurückgenommen. Am 1. Januar 20X3 ändert das Unternehmen seine Satzung und erhöht die Höchstgrenze für kumulative Rücknahmen auf 25 Prozent der größten Anzahl jemals in Umlauf gewesener Geschäftsanteile.
+
+Einstufung
+
+Vor der Satzungsänderung
+
+A8 Die Geschäftsanteile, die nicht unter das Rücknahmeverbot fallen, stellen finanzielle Verbindlichkeiten dar. Die Genossenschaft bewertet diese finanziellen Verbindlichkeiten beim erstmaligen Ansatz zum beizulegenden Zeitwert. Da diese Anteile auf Verlangen rücknahmepflichtig sind, bestimmt sie den beizulegenden Zeitwert dieser finanziellen Verbindlichkeiten nach Paragraph 47 von IFRS 13: „Der beizulegende Zeitwert einer kurzfristig abrufbaren finanziellen Verbindlichkeit (z. B. einer Sichteinlage) ist nicht geringer als der bei Fälligkeit zahlbare Betrag …“. Die Genossenschaft setzt daher als finanzielle Verbindlichkeit den höchsten Betrag an, der gemäß den Rücknahmevorschriften auf Verlangen zahlbar wäre.
+
+A9 Am 1. Januar 20X1 beträgt der gemäß den Rücknahmevorschriften zahlbare Höchstbetrag 20 000 Anteile zu je 10 WE. Dementsprechend stuft das Unternehmen 200 000 WE als finanzielle Verbindlichkeit und 800 000 WE als Eigenkapital ein. Am 1. Januar 20X2 erhöht sich jedoch der gemäß den Rücknahmevorschriften zahlbare Höchstbetrag durch die Ausgabe neuer Anteile zu je 20 WE auf 40 000 Anteile zu je 20 WE. Durch die Ausgabe zusätzlicher Anteile zu 20 WE entsteht eine neue Verbindlichkeit, die beim erstmaligen Ansatz zum beizulegenden Zeitwert bewertet wird. Die Verbindlichkeit nach Ausgabe dieser Anteile beträgt 20 Prozent aller im Umlauf befindlichen Anteile (200 000 ), bewertet mit je 20 WE, also 800 000 WE. Dies bedeutet, dass eine weitere Verbindlichkeit in Höhe von 600 000 WE angesetzt werden muss. In diesem Beispiel wird kein Gewinn oder Verlust erfasst. Folglich stuft die Genossenschaft 800 000 WE als finanzielle Verbindlichkeit und 2200000 WE als Eigenkapital ein. In diesem Beispiel wird davon ausgegangen, dass sich diese Beträge zwischen dem 1. Januar 20X1 und dem 31. Dezember 20X2 nicht ändern.
+
+Nach der Satzungsänderung
+
+A10 Infolge der Änderung ihrer Satzung kann die Genossenschaft nunmehr verpflichtet sein, bis zu 25 Prozent ihrer im Umlauf befindlichen Anteile oder bis zu 50 000 Anteile zu je 20 WE zurückzunehmen. Entsprechend stuft sie am 1. Januar 20X3 1 000 000 WE als finanzielle Verbindlichkeit ein. Dies entspricht dem Höchstbetrag, der gemäß den Rücknahmevorschriften und nach Paragraph 47 von IFRS 13 bei Fälligkeit zahlbar ist. Sie bucht daher am 1. Januar 20X3 200 000 WE vom Eigenkapital in die finanziellen Verbindlichkeiten um; 2 000 000 WE bleiben weiterhin als Eigenkapital eingestuft. In diesem Beispiel wird bei der Umbuchung kein Gewinn oder Verlust erfasst.
+
+Beispiel 4
+
+Sachverhalt
+
+A11 Das lokale Genossenschaftsgesetz oder die Satzung der Genossenschaft verbieten die Rücknahme von Geschäftsanteilen, wenn das eingezahlte Kapital aus Geschäftsanteilen dadurch unter 75 Prozent des Höchstbetrags des eingezahlten Kapitals aus Geschäftsanteilen fallen würde. Der Höchstbetrag für die betreffende Genossenschaft beträgt 1 000 000 WE. Am Abschlussstichtag lag das eingezahlte Kapital bei 900 000 WE.
+
+Einstufung
+
+A12 In diesem Fall sind 750 000 WE als Eigenkapital und 150 000 WE als finanzielle Verbindlichkeit einzustufen. Zusätzlich zu den bereits zitierten Paragraphen heißt es in Paragraph 18(b) von IAS 32:
+
+„Finanzinstrumente, die den Inhaber berechtigen, sie gegen Zahlungsmittel oder andere finanzielle Vermögenswerte an den Emittenten zurückzugeben („kündbare Instrumente“), stellen mit Ausnahme der nach den Paragraphen 16A und 16B oder 16C und 16D als Eigenkapitalinstrumente eingestuften Instrumente finanzielle Verbindlichkeiten dar. Ein Finanzinstrument ist selbst dann eine finanzielle Verbindlichkeit, wenn der Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten auf der Grundlage eines Indexes oder einer anderen veränderlichen Bezugsgröße ermittelt wird. Wenn der Inhaber über das Wahlrecht verfügt, das Finanzinstrument gegen Zahlungsmittel oder andere finanzielle Vermögenswerte an den Emittenten zurückzugeben, erfüllt das kündbare Finanzinstrument die Definition einer finanziellen Verbindlichkeit, sofern es sich nicht um ein nach den Paragraphen 16A und 16B oder 16C und 16D als Eigenkapitalinstrument eingestuftes Instrument handelt.“
+
+A13 Das in diesem Beispiel beschriebene Rücknahmeverbot unterscheidet sich von den in den Paragraphen 19 und AL25 von IAS 32 beschriebenen Beschränkungen. Jene Beschränkungen stellen eine Beeinträchtigung der Fähigkeit des Unternehmens dar, den fälligen Betrag einer finanziellen Verbindlichkeit zu begleichen, d. h. sie verhindern die Zahlung der Verbindlichkeit nur dann, wenn bestimmte Bedingungen erfüllt sind. Im Gegensatz dazu liegt in diesem Beispiel bei Erreichen eines bestimmten Betrags ein uneingeschränktes Rücknahmeverbot vor, das unabhängig von der Fähigkeit des Unternehmens, die Geschäftsanteile zurückzunehmen, (z. B. in Anbetracht seiner Barreserven, Gewinne oder ausschüttungsfähigen Rücklagen) besteht. Tatsächlich wird das Unternehmen durch das Rücknahmeverbot daran gehindert, eine finanzielle Verbindlichkeit für eine Rücknahme einzugehen, die über eine bestimmte Höhe des eingezahlten Kapitals hinausgeht. Daher stellt der Teil der Geschäftsanteile, der dem Rücknahmeverbot unterliegt, keine finanzielle Verbindlichkeit dar. Die einzelnen Geschäftsanteile können zwar, jeder für sich genommen, rücknahmepflichtig sein, jedoch ist bei einem Teil aller im Umlauf befindlichen Anteile eine Rücknahme nur bei einer Liquidation des Unternehmens möglich.
+
+Beispiel 5
+
+Sachverhalt
+
+A14 Der Sachverhalt dieses Beispiels ist der gleiche wie in Beispiel 4. Zusätzlich darf das Unternehmen am Abschlussstichtag aufgrund von Liquiditätsvorschriften des lokalen Rechtskreises nur dann Geschäftsanteile zurücknehmen, wenn sein Bestand an Zahlungsmitteln und kurzfristigen Anlagen einen bestimmten Wert überschreitet. Diese Liquiditätsvorschriften am Abschlussstichtag haben zur Folge, dass das Unternehmen für die Rücknahme von Geschäftsanteilen nicht mehr als 50 000 WE aufwenden kann.
+
+Einstufung
+
+A15 Wie im Beispiel 4 stuft das Unternehmen 750 000 WE als Eigenkapital und 150 000 WE als finanzielle Verbindlichkeit ein. Der Grund hierfür liegt darin, dass die Einstufung als Verbindlichkeit auf dem uneingeschränkten Recht des Unternehmens auf Ablehnung einer Rücknahme beruht und nicht auf bedingten Einschränkungen, die eine Rücknahme nur verhindern, wenn und solange Liquiditäts- oder andere Bedingungen nicht erfüllt sind. In diesem Fall sind die Paragraphen 19 und AL25 von IAS 32 anzuwenden.
+
+Beispiel 6
+
+Sachverhalt
+
+A16 Laut Satzung darf das Unternehmen Geschäftsanteile nur in der Höhe des Gegenwerts zurücknehmen, der in den letzten drei Jahren durch die Ausgabe zusätzlicher Geschäftsanteile an neue oder vorhandene Mitglieder erzielt wurde. Die Rücknahmeanträge von Mitgliedern müssen aus dem Erlös aus der Ausgabe von Geschäftsanteilen bestritten werden. Während der drei letzten Jahre betrug der Erlös aus der Ausgabe von Geschäftsanteilen 12 000 WE, und es wurden keine Geschäftsanteile zurückgenommen.
+
+Einstufung
+
+A17 Das Unternehmen stuft 12 000 WE der Geschäftsanteile als finanzielle Verbindlichkeit ein. Wie im Beispiel 4 erläutert, stellen Geschäftsanteile, die einem uneingeschränkten Rücknahmeverbot unterliegen, keine finanzielle Verbindlichkeit dar. Ein solches uneingeschränktes Verbot gilt für einen Betrag in Höhe des Erlöses aus der Ausgabe von Anteilen, die vor mehr als drei Jahren stattfand, weshalb dieser Betrag als Eigenkapital eingestuft wird. Der Betrag in Höhe des Erlöses aus Anteilen, die in den letzten drei Jahren ausgegeben wurden, unterliegt jedoch keinem uneingeschränkten Rücknahmeverbot. Folglich entsteht durch die Ausgabe von Geschäftsanteilen in den letzten drei Jahren solange eine finanzielle Verbindlichkeit, bis diese Anteile nicht mehr rücknahmepflichtig sind. Das Unternehmen hat also eine finanzielle Verbindlichkeit in Höhe des Erlöses aus Anteilen, die in den letzten drei Jahren ausgegeben wurden, abzüglich etwaiger in diesem Zeitraum getätigter Rücknahmen.
+
+Beispiel 7
+
+Sachverhalt
+
+A18 Das Unternehmen ist eine Genossenschaftsbank. Das lokale Gesetz, das die Tätigkeit von Genossenschaftsbanken regelt, schreibt vor, dass mindestens 50 Prozent der gesamten „offenen Verbindlichkeiten“ des Unternehmens (die laut Definition im Gesetz auch die Konten mit Geschäftsanteilen umfassen) in Form von eingezahltem Kapital der Mitglieder vorliegen muss. Diese Vorschrift hat zur Folge, dass eine Genossenschaft, bei der alle offenen Verbindlichkeiten in Form von Geschäftsanteilen vorliegen, sämtliche Anteile zurücknehmen kann. Am 31. Dezember 20X1 hat das Unternehmen offene Verbindlichkeiten von insgesamt 200 000 WE, wovon 125 000 WE auf Konten mit Geschäftsanteilen entfallen. Gemäß den Vertragsbedingungen für Konten mit Geschäftsanteilen ist der Inhaber berechtigt, eine Rücknahme seiner Anteile zu verlangen, und die Satzung des Unternehmens enthält keine Rücknahmebeschränkungen.
+
+Einstufung
+
+A19 In diesem Beispiel werden die Geschäftsanteile als finanzielle Verbindlichkeiten eingestuft. Das Rücknahmeverbot ist mit den in den Paragraphen 19 und AL25 von IAS 32 beschriebenen Beschränkungen vergleichbar. Diese Beschränkung stellt eine bedingte Beeinträchtigung der Fähigkeit des Unternehmens dar, den fälligen Betrag einer finanziellen Verbindlichkeit zu begleichen, d. h. sie verhindert die Zahlung der Verbindlichkeit nur dann, wenn bestimmte Bedingungen erfüllt sind. So könnte das Unternehmen verpflichtet sein, den gesamten Betrag der Geschäftsanteile (125 000 WE) zurückzunehmen, wenn es alle anderen Verbindlichkeiten (75 000 WE) zurückgezahlt hätte. Folglich wird das Unternehmen durch das Rücknahmeverbot nicht daran gehindert, eine finanzielle Verbindlichkeit für eine Rücknahme einzugehen, die über eine bestimmte Anzahl von Geschäftsanteilen oder einen bestimmten Betrag des eingezahlten Kapitals hinausgeht. Es bietet dem Unternehmen nur die Möglichkeit, eine Rücknahme aufzuschieben, bis die Bedingung — in diesem Fall die Rückzahlung anderer Verbindlichkeiten — erfüllt ist. Die Geschäftsanteile unterliegen in diesem Beispiel keinem uneingeschränkten Rücknahmeverbot und sind daher als finanzielle Verbindlichkeit einzustufen.
+

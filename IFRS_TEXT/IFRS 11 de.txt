@@ -1,0 +1,548 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 11
+
+Gemeinschaftliche Vereinbarungen
+
+ZIELSETZUNG
+
+1   Das Ziel dieses IFRS besteht darin, Grundsätze für die Rechnungslegung von Unternehmen festzulegen, die Anteil an gemeinschaftlich geführten Vereinbarungen (d. h. gemeinschaftlichen Vereinbarungen) haben.
+
+Erreichen der Zielsetzung
+
+2 Um das in Paragraph 1 festgelegte Ziel zu erreichen, wird in diesem IFRS der Begriff der gemeinschaftlichen Führung definiert; ferner wird einem Unternehmen, das Partei einer gemeinschaftlichen Vereinbarung ist, vorgeschrieben, die Art der gemeinschaftlichen Vereinbarung durch Beurteilung seiner Rechte und Verpflichtungen zu ermitteln und diese Rechte und Verpflichtungen entsprechend der jeweiligen Art der gemeinschaftlichen Vereinbarung zu bilanzieren.
+
+ANWENDUNGSBEREICH
+
+3   Dieser IFRS ist auf alle Unternehmen anzuwenden, die Partei einer gemeinschaftlichen Vereinbarung sind.
+
+GEMEINSCHAFTLICHE VEREINBARUNGEN
+
+4   Eine gemeinschaftliche Vereinbarung ist eine Vereinbarung, bei der zwei oder mehr Parteien die gemeinschaftliche Führung innehaben.
+
+5   Eine gemeinschaftliche Vereinbarung weist die folgenden Merkmale auf:
+a) 
+
+Die Parteien sind durch eine vertragliche Vereinbarung gebunden (siehe Paragraphen B2–B4).
+b) 
+
+In der vertraglichen Vereinbarung wird zwei oder mehr Parteien die gemeinschaftliche Führung der Vereinbarung zugewiesen (siehe Paragraphen 7–13).
+
+6   Bei einer gemeinschaftlichen Vereinbarung handelt es sich entweder um eine gemeinschaftliche Tätigkeit oder um ein Gemeinschaftsunternehmen.
+
+Gemeinschaftliche Führung
+
+7   Gemeinschaftliche Führung ist die vertraglich geregelte Teilung der Beherrschung einer Vereinbarung, die nur dann gegeben ist, wenn Entscheidungen über die maßgeblichen Tätigkeiten die einstimmige Zustimmung der sich die Beherrschung teilenden Parteien erfordern.
+
+8 Ein Unternehmen, das Partei einer Vereinbarung ist, hat zu beurteilen, ob aufgrund der vertraglichen Vereinbarung alle Parteien oder eine Gruppe von Parteien die Vereinbarung kollektiv beherrschen. Eine kollektive Beherrschung der Vereinbarung durch alle Parteien oder eine Gruppe von Parteien liegt vor, wenn sie gemeinsam handeln müssen, um die Tätigkeiten zu lenken, die die wirtschaftlichen Erfolge der Vereinbarung signifikant beeinflussen (also die maßgeblichen Tätigkeiten).
+
+9 Auch wenn festgestellt wurde, dass alle Parteien oder eine Gruppe von Parteien die Vereinbarung kollektiv beherrschen, liegt eine gemeinschaftliche Führung nur dann vor, wenn Entscheidungen über die maßgeblichen Tätigkeiten die einstimmige Zustimmung der Parteien erfordern, die die Vereinbarung kollektiv beherrschen.
+
+10 Bei einer gemeinschaftlichen Vereinbarung beherrscht keine einzelne Partei die Vereinbarung allein. Eine Partei, die an der gemeinschaftlichen Führung einer Vereinbarung beteiligt ist, kann eine der anderen Parteien oder eine Gruppe von Parteien daran hindern, die Vereinbarung zu beherrschen.
+
+11 Bei einer Vereinbarung kann es sich auch dann um eine gemeinschaftliche Vereinbarung handeln, wenn nicht alle Parteien an der gemeinschaftlichen Führung der Vereinbarung beteiligt sind. Der vorliegende IFRS unterscheidet zwischen Parteien, die die gemeinschaftliche Führung einer gemeinschaftlichen Vereinbarung innehaben (gemeinschaftlich Tätige oder Partnerunternehmen), und Parteien, die an einer gemeinschaftlichen Vereinbarung, nicht aber an ihrer gemeinschaftlichen Führung beteiligt sind.
+
+12 Ein Unternehmen muss bei der Beurteilung, ob alle Parteien oder eine Gruppe von Parteien die gemeinschaftliche Führung einer Vereinbarung innehaben, eine Ermessensentscheidung treffen. Diese Beurteilung hat ein Unternehmen unter Berücksichtigung sämtlicher Sachverhalte und Umstände vorzunehmen (siehe Paragraphen B5–B11).
+
+13 Ändern sich Sachverhalte und Umstände, hat ein Unternehmen erneut zu beurteilen, ob es noch an der gemeinschaftlichen Führung der Vereinbarung beteiligt ist.
+
+Arten gemeinschaftlicher Vereinbarungen
+
+14   Ein Unternehmen hat die Art der gemeinschaftlichen Vereinbarung, an der es beteiligt ist, zu ermitteln. Die Einstufung einer gemeinschaftlichen Vereinbarung als gemeinschaftliche Tätigkeit oder Gemeinschaftsunternehmen hängt von den Rechten und Verpflichtungen der Parteien der Vereinbarung ab.
+
+15   Eine gemeinschaftliche Tätigkeit ist eine gemeinschaftliche Vereinbarung, bei der die Parteien, die die gemeinschaftliche Führung der Vereinbarung innehaben, Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für deren Schulden haben. Diese Parteien werden als gemeinschaftlich Tätige bezeichnet.
+
+16   Ein Gemeinschaftsunternehmen ist eine gemeinschaftliche Vereinbarung, bei der die Parteien, die die gemeinschaftliche Führung der Vereinbarung innehaben, Rechte am Nettovermögen der Vereinbarung besitzen. Diese Parteien werden als Partnerunternehmen bezeichnet.
+
+17 Bei der Beurteilung, ob es sich bei einer gemeinschaftlichen Vereinbarung um eine gemeinschaftliche Tätigkeit oder ein Gemeinschaftsunternehmen handelt, trifft ein Unternehmen eine Ermessensentscheidung. Ein Unternehmen hat die Art der gemeinschaftlichen Vereinbarung, an der es beteiligt ist, durch Beurteilung seiner Rechte und Verpflichtungen aus der Vereinbarung zu ermitteln. Ein Unternehmen beurteilt seine Rechte und Verpflichtungen unter Berücksichtigung von Struktur und Rechtsform der Vereinbarung, unter Berücksichtigung der von den Parteien der Vereinbarung festgelegten Vertragsbedingungen sowie gegebenenfalls unter Berücksichtigung sonstiger relevanter Sachverhalte und Umstände (siehe Paragraphen B12–B33).
+
+18 Mitunter sind die Parteien durch einen Rahmenvertrag gebunden, in dem die allgemeinen Vertragsbedingungen für die Ausübung einer oder mehrerer Tätigkeiten festgelegt sind. Im Rahmenvertrag kann festgelegt sein, dass die Parteien verschiedene gemeinschaftliche Vereinbarungen für bestimmte Tätigkeiten, die Bestandteil des Rahmenvertrags bilden, schließen. Auch wenn sich solche gemeinschaftlichen Vereinbarungen auf denselben Rahmenvertrag beziehen, können sie unterschiedlicher Art sein, wenn die Parteien bei der Ausübung der verschiedenen im Rahmenvertrag behandelten Tätigkeiten unterschiedliche Rechte und Verpflichtungen haben. Folglich können gemeinschaftliche Tätigkeiten und Gemeinschaftsunternehmen nebeneinander bestehen, wenn die Parteien unterschiedliche Tätigkeiten ausüben, die Bestandteil desselben Rahmenvertrags sind.
+
+19 Ändern sich Sachverhalte und Umstände, hat ein Unternehmen erneut zu beurteilen, ob sich die Art der gemeinschaftlichen Vereinbarung, an der es beteiligt ist, geändert hat.
+
+ABSCHLÜSSE VON PARTEIEN EINER GEMEINSCHAFTLICHEN VEREINBARUNG
+
+Gemeinschaftliche Tätigkeiten
+
+20   Ein gemeinschaftlich Tätiger erfasst im Zusammenhang mit seinem Anteil an einer gemeinschaftlichen Tätigkeit
+a) 
+
+seine Vermögenswerte, einschließlich seines Anteils an gemeinschaftlich gehaltenen Vermögenswerten,
+b) 
+
+seine Schulden, einschließlich seines Anteils an gemeinschaftlich eingegangenen Schulden,
+c) 
+
+seine Erlöse aus dem Verkauf seines Anteils an den Erzeugnissen oder Leistungen der gemeinschaftlichen Tätigkeit,
+d) 
+
+seinen Anteil an den Erlösen aus dem Verkauf der Erzeugnisse oder Leistungen der gemeinschaftlichen Tätigkeit und
+e) 
+
+seine Aufwendungen, einschließlich seines Anteils an gemeinschaftlich entstandenen Aufwendungen.
+
+21 Ein gemeinschaftlich Tätiger hat die Vermögenswerte, Schulden, Erlöse und Aufwendungen im Zusammenhang mit seinem Anteil an einer gemeinschaftlichen Tätigkeit gemäß den für die jeweiligen Vermögenswerte, Schulden, Erlöse und Aufwendungen maßgeblichen IFRS zu bilanzieren.
+
+21A Erwirbt ein Unternehmen einen Anteil an einer gemeinschaftlichen Tätigkeit, die einen Geschäftsbetrieb im Sinne von IFRS 3 Unternehmenszusammenschlüsse darstellt, hat es, im Umfang seines Anteils gemäß Paragraph 20, sämtliche in IFRS 3 und in anderen IFRS festgelegten Grundsätze der Bilanzierung von Unternehmenszusammenschlüssen anzuwenden, die nicht mit den Leitlinien dieses IFRS im Widerspruch stehen, und die in diesen IFRS in Bezug auf Unternehmenszusammenschlüsse vorgeschriebenen Angaben zu machen. Dies gilt sowohl für den Erwerb eines ersten Anteils als auch für den Erwerb weiterer Anteile an einer gemeinschaftlichen Tätigkeit, die einen Geschäftsbetrieb darstellt. Der Erwerb eines Anteils an einer solchen gemeinschaftlichen Tätigkeit wird gemäß den Paragraphen B33A–B33D bilanziert.
+
+22 Die Bilanzierung von Geschäftsvorfällen wie die Veräußerung, die Einlage oder der Erwerb von Vermögenswerten zwischen einem Unternehmen und einer gemeinschaftlichen Tätigkeit, an der das Unternehmen als gemeinschaftlich Tätiger beteiligt ist, wird in den Paragraphen B34–B37 im Einzelnen festgelegt.
+
+23 Eine Partei, die an einer gemeinschaftlichen Tätigkeit, nicht aber an ihrer gemeinschaftlichen Führung beteiligt ist, hat ihren Anteil an der Vereinbarung ebenfalls gemäß den Paragraphen 20–22 zu bilanzieren, wenn sie Rechte an den Vermögenswerten der gemeinschaftlichen Tätigkeit besitzt und Verpflichtungen für die Schulden der gemeinschaftlichen Tätigkeit hat. Eine Partei, die an einer gemeinschaftlichen Tätigkeit, nicht aber an ihrer gemeinschaftlichen Führung beteiligt ist, und keine Rechte an den Vermögenswerten der gemeinschaftlichen Tätigkeit besitzt und keine Verpflichtungen für die Schulden der gemeinschaftlichen Tätigkeit hat, hat ihren Anteil an der gemeinschaftlichen Tätigkeit gemäß den für diesen Anteil maßgeblichen IFRS zu bilanzieren.
+
+Gemeinschaftsunternehmen
+
+24   Ein Partnerunternehmen hat seinen Anteil an einem Gemeinschaftsunternehmen als Beteiligung anzusetzen und diese Beteiligung nach der Equity-Methode gemäß IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen zu bilanzieren, es sei denn, das Unternehmen ist nach dem genannten Standard von der Anwendung der Equity-Methode befreit.
+
+25 Eine Partei, die an einem Gemeinschaftsunternehmen, nicht aber an seiner gemeinschaftlichen Führung beteiligt ist, hat ihren Anteil an der Vereinbarung gemäß IFRS 9 Finanzinstrumente bzw., falls sie maßgeblichen Einfluss auf das Gemeinschaftsunternehmen hat, gemäß IAS 28 (in der 2011 geänderten Fassung) zu bilanzieren.
+
+EINZELABSCHLÜSSE
+
+26   Ein gemeinschaftlich Tätiger oder ein Partnerunternehmen hat in seinen Einzelabschlüssen seinen Anteil an
+a) 
+
+einer gemeinschaftlichen Tätigkeit gemäß den Paragraphen 20–22 zu bilanzieren.
+b) 
+
+einem Gemeinschaftsunternehmen gemäß Paragraph 10 von IAS 27 Einzelabschlüsse zu bilanzieren.
+
+27   Eine Partei, die an einer gemeinschaftlichen Vereinbarung, nicht aber an ihrer gemeinschaftlichen Führung beteiligt ist, hat in ihren Einzelabschlüssen ihren Anteil an
+a) 
+
+einer gemeinschaftlichen Tätigkeit gemäß Paragraph 23 zu bilanzieren.
+b) 
+
+einem Gemeinschaftsunternehmen gemäß IFRS 9 bzw., falls das Unternehmen maßgeblichen Einfluss auf das Gemeinschaftsunternehmen hat, gemäß Paragraph 10 von IAS 27 (in der 2011 geänderten Fassung) zu bilanzieren.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Gemeinschaftliche Vereinbarung
+	
+
+Eine Vereinbarung, die unter der gemeinschaftlichen Führung von zwei oder mehr Parteien steht.
+
+Gemeinschaftliche Führung
+	
+
+Die vertraglich geregelte Teilung der Beherrschung einer Vereinbarung, die nur dann gegeben ist, wenn Entscheidungen über die maßgeblichen Tätigkeiten die einstimmige Zustimmung der sich die Beherrschung teilenden Parteien erfordern.
+
+Gemeinschaftliche Tätigkeit
+	
+
+Eine gemeinschaftliche Vereinbarung, bei der die Parteien, die die gemeinschaftliche Führung der Vereinbarung innehaben, Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für deren Schulden haben.
+
+Gemeinschaftlich Tätiger
+	
+
+Eine Partei einer gemeinschaftlichen Tätigkeit, die an deren gemeinschaftlicher Führung beteiligt ist.
+
+Gemeinschaftsunternehmen
+	
+
+Eine gemeinschaftliche Vereinbarung, bei der die Parteien, die die gemeinschaftliche Führung der Vereinbarung innehaben, Rechte am Nettovermögen der Vereinbarung besitzen.
+
+Partnerunternehmen
+	
+
+Eine Partei eines Gemeinschaftsunternehmens, die an dessen gemeinschaftlicher Führung beteiligt ist.
+
+Partei einer gemeinschaftlichen Vereinbarung
+	
+
+Ein an einer gemeinschaftlichen Vereinbarung beteiligtes Unternehmen, unabhängig davon, ob es an der gemeinschaftlichen Führung der Vereinbarung beteiligt ist.
+
+Eigenständiges Vehikel
+	
+
+Eine eigenständig identifizierbare Finanzstruktur, einschließlich eigenständiger Rechtseinheiten oder rechtlich anerkannter Einheiten, unabhängig davon, ob diese Einheiten eine eigene Rechtspersönlichkeit haben.
+
+Die folgenden Begriffe sind in IAS 27 (in der 2011 geänderten Fassung), IAS 28 (in der 2011 geänderten Fassung) bzw. IFRS 10 Konzernabschlüsse definiert und werden im vorliegenden IFRS in der in den genannten IFRS angegebenen Bedeutung verwendet:
+— 
+Beherrschung eines Beteiligungsunternehmens,
+— 
+Equity-Methode,
+— 
+Verfügungsgewalt,
+— 
+Schutzrechte,
+— 
+Maßgebliche Tätigkeiten,
+— 
+Einzelabschluss,
+— 
+Maßgeblicher Einfluss.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des IFRS. Er erläutert die Anwendung der Paragraphen 1–27 und hat die gleiche bindende Kraft wie die anderen Teile des IFRS.
+
+B1 Die Beispiele in diesem Anhang sind hypothetisch. Wenngleich einige Aspekte der Beispiele tatsächlichen Gegebenheiten ähneln könnten, müssen bei der Anwendung von IFRS 11 alle maßgeblichen Sachverhalte und Umstände bestimmter Gegebenheiten bewertet werden.
+
+GEMEINSCHAFTLICHE VEREINBARUNGEN
+
+Vertragliche Vereinbarung (Paragraph 5)
+
+B2 Vertragliche Vereinbarungen können auf verschiedene Weise nachgewiesen werden: Eine durchsetzbare vertragliche Vereinbarung wird häufig, aber nicht immer, schriftlich verfasst, gewöhnlich in Form eines Vertrags oder in Form dokumentierter mündlicher Abreden zwischen den Parteien. Auch durch gesetzliche Mechanismen können durchsetzbare Vereinbarungen entstehen, die entweder allein oder in Verbindung mit Verträgen zwischen den Parteien greifen.
+
+B3 Werden gemeinschaftliche Vereinbarungen über ein eigenständiges Vehikel strukturiert (siehe Paragraphen B19–B33), sind in einigen Fällen die vertragliche Vereinbarung insgesamt oder einige Aspekte der vertraglichen Vereinbarung im Gesellschaftsvertrag, der Gründungsurkunde oder der Satzung des eigenständigen Vehikels festgeschrieben.
+
+B4 In der vertraglichen Vereinbarung werden die Bedingungen festgelegt, unter denen die Parteien sich an der Tätigkeit, die Gegenstand der Vereinbarung ist, beteiligen. In der vertraglichen Vereinbarung werden im Allgemeinen folgende Angelegenheiten geregelt:
+a) 
+
+Zweck, Tätigkeit und Laufzeit der gemeinschaftlichen Vereinbarung.
+b) 
+
+Die Art und Weise, wie die Mitglieder des Geschäftsführungs- und/oder Aufsichtsorgans oder eines entsprechenden Leitungsorgans der gemeinschaftlichen Vereinbarung bestellt werden.
+c) 
+
+Der Entscheidungsprozess d. h. welche Angelegenheiten Entscheidungen der Parteien erfordern, die Stimmrechte der Parteien und die notwendige Mehrheit in diesen Angelegenheiten. Der Entscheidungsprozess, der sich in der vertraglichen Vereinbarung widerspiegelt, begründet die gemeinschaftliche Führung der Vereinbarung (siehe Paragraphen B5–B11).
+d) 
+
+Das Kapital oder andere von den Parteien verlangte Einlagen.
+e) 
+
+Die Art und Weise, wie die Parteien Vermögenswerte, Schulden, Erlöse, Aufwendungen oder Gewinne oder Verluste aus der gemeinschaftlichen Vereinbarung teilen.
+
+Gemeinschaftliche Führung (Paragraphen 7–13)
+
+B5 Bei der Beurteilung, ob ein Unternehmen an der gemeinschaftlichen Führung einer Vereinbarung beteiligt ist, hat das Unternehmen zunächst zu beurteilen, ob alle Parteien oder eine Gruppe von Parteien die Vereinbarung beherrschen. Auf der Grundlage der Definition des Begriffs „Beherrschung“ in IFRS 10 ist festzustellen, ob alle Parteien oder eine Gruppe von Parteien schwankenden Renditen aus ihrem Engagement bei der Vereinbarung ausgesetzt sind bzw. Anrechte darauf haben und ob sie die Möglichkeit haben, diese Renditen durch ihre Verfügungsgewalt über die Vereinbarung zu beeinflussen. Wenn alle Parteien oder eine Gruppe von Parteien zusammen betrachtet in der Lage sind, die Tätigkeiten, die die wirtschaftlichen Erfolge der Vereinbarung signifikant beeinflussen (d. h. die maßgeblichen Tätigkeiten), zu lenken, beherrschen die Parteien die Vereinbarung kollektiv.
+
+B6 Ist ein Unternehmen zu dem Schluss gelangt, dass alle Parteien oder eine Gruppe von Parteien die Vereinbarung kollektiv beherrschen, hat es zu beurteilen, ob es an der gemeinschaftlichen Führung einer Vereinbarung beteiligt ist. Eine gemeinschaftliche Führung liegt nur dann vor, wenn Entscheidungen über die maßgeblichen Tätigkeiten die einstimmige Zustimmung der Parteien erfordern, die die Vereinbarung kollektiv beherrschen. Die Beurteilung, ob die Vereinbarung von allen Parteien oder von einer Gruppe von Parteien gemeinsam oder nur von einer der Parteien beherrscht wird, kann eine Ermessensausübung erfordern.
+
+B7 Mitunter führt der Entscheidungsprozess, den die Parteien in ihrer vertraglichen Vereinbarung festlegen, implizit zu gemeinschaftlicher Führung. Nehmen wir zum Beispiel an, dass zwei Parteien eine Vereinbarung abschließen, bei der jede 50 % der Stimmrechte hält und dass in der vertraglichen Vereinbarung zwischen ihnen festgelegt wird, dass für Entscheidungen über die maßgeblichen Tätigkeiten mindestens 51 % der Stimmrechte erforderlich sind. In diesem Fall haben die Parteien implizit vereinbart, dass sie die gemeinschaftliche Führung der Vereinbarung innehaben, weil Entscheidungen über die maßgeblichen Tätigkeiten nur mit Zustimmung beider Parteien getroffen werden können.
+
+B8 In anderen Situationen schreibt die vertragliche Vereinbarung für Entscheidungen über die maßgeblichen Tätigkeiten einen Mindestanteil der Stimmrechte vor. Wenn dieser erforderliche Mindestanteil der Stimmrechte durch mehr als eine Kombination von Parteien, die sich einig sind, erreicht werden kann, handelt es sich bei der betreffenden Vereinbarung nicht um eine gemeinschaftliche Vereinbarung, es sei denn, in der vertraglichen Vereinbarung wurde festlegt, welche Parteien (oder Kombination von Parteien) Entscheidungen über die maßgeblichen Tätigkeiten der Vereinbarung einstimmig treffen müssen.
+
+Anwendungsbeispiele
+
+Beispiel 1
+
+Angenommen, drei Parteien gründen eine Vereinbarung: A hält 50 % der Stimmrechte in der Vereinbarung, B 30 % und C 20 %. In der vertraglichen Vereinbarung zwischen A, B und C ist festgelegt, dass für Entscheidungen über die maßgeblichen Tätigkeiten der Vereinbarung mindestens 75 % der Stimmrechte erforderlich sind. Obgleich A jede Entscheidung blockieren kann, beherrscht A die Vereinbarung nicht, weil es die Zustimmung von B benötigt. Die Bestimmungen ihrer vertraglichen Vereinbarungen, nach denen für Entscheidungen über die maßgeblichen Tätigkeiten der Vereinbarung mindestens 75 % der Stimmrechte erforderlich sind, implizieren, dass A und B die gemeinschaftliche Führung der Vereinbarung innehaben, weil Entscheidungen über die maßgeblichen Tätigkeiten der Vereinbarung nicht ohne Zustimmung von sowohl A als auch B getroffen werden können.
+
+Beispiel 2
+
+Angenommen, zu einer Vereinbarung gehören drei Parteien: A hält 50 % der Stimmrechte an der Vereinbarung und B und C halten je 25 %. In der vertraglichen Vereinbarung zwischen A, B und C ist festgelegt, dass für Entscheidungen über die maßgeblichen Tätigkeiten der Vereinbarung mindestens 75 % der Stimmrechte erforderlich sind. Obgleich A jede Entscheidung blockieren kann, beherrscht es die Vereinbarung nicht, weil es die Zustimmung von B oder C benötigt. In diesem Beispiel beherrschen A, B und C die Vereinbarung kollektiv. Es gibt jedoch mehr als eine Kombination von Parteien, die sich einigen können, um 75 % der Stimmrechte zu erreichen (d. h. entweder A und B oder A und C). Damit die vertragliche Vereinbarung in einer solchen Situation eine gemeinschaftliche Vereinbarung ist, müssten die Parteien festlegen, welche Parteienkombination Entscheidungen über die maßgeblichen Tätigkeiten der Vereinbarung einstimmig zustimmen muss.
+
+Beispiel 3
+
+Angenommen, bei einer Vereinbarung halten A und B je 35 % der Stimmrechte und die restlichen 30 % sind breit gestreut. Entscheidungen über die maßgeblichen Tätigkeiten bedürfen einer Mehrheit der Stimmrechte. A und B haben nur dann die gemeinschaftliche Führung der Vereinbarung inne, wenn in der vertraglichen Vereinbarung festgelegt ist, dass für Entscheidungen über die maßgeblichen Tätigkeiten der Vereinbarung die Zustimmung sowohl von A als auch von B erforderlich ist.
+
+B9 Das Erfordernis der einstimmigen Zustimmung bedeutet, dass eine Partei, die an der gemeinschaftlichen Führung der Vereinbarung beteiligt ist, verhindern kann, dass eine der anderen Parteien oder eine Gruppe von Parteien einseitige Entscheidungen (über die maßgeblichen Tätigkeiten) ohne ihre Zustimmung trifft. Bezieht sich das Erfordernis der einstimmigen Zustimmung nur auf Entscheidungen, die einer Partei Schutzrechte verleihen, nicht aber auf Entscheidungen über die maßgeblichen Tätigkeiten einer Vereinbarung, ist die betreffende Partei keine Partei, die an der gemeinschaftlichen Führung der Vereinbarung beteiligt ist.
+
+B10 Eine vertragliche Vereinbarung kann Klauseln über die Beilegung von Streitigkeiten, z. B. durch Schiedsverfahren, beinhalten. Derartige Klauseln lassen eventuell zu, dass Entscheidungen ohne einstimmige Zustimmung der Parteien, die an der gemeinschaftlichen Führung beteiligt sind, getroffen werden können. Das Bestehen derartiger Klauseln schließt nicht aus, dass die Vereinbarung gemeinschaftlich geführt wird und infolgedessen eine gemeinschaftliche Vereinbarung ist.
+
+Beurteilung der gemeinschaftlichen Führung
+image
+
+B11 Liegt eine Vereinbarung außerhalb des Anwendungsbereichs von IFRS 11, bilanziert ein Unternehmen seinen Anteil an der Vereinbarung gemäß den maßgeblichen IFRS, wie IFRS 10, IAS 28 (in der 2011 geänderten Fassung) oder IFRS 9.
+
+ARTEN VON GEMEINSCHAFTLICHEN VEREINBARUNGEN (PARAGRAPHEN 14–19)
+
+B12 Gemeinschaftliche Vereinbarungen werden für eine Vielzahl unterschiedlicher Zwecke geschlossen (z. B. als Möglichkeit für die Parteien, Kosten und Risiken gemeinsam zu tragen, oder als Möglichkeit, den Parteien Zugang zu neuen Technologien oder neuen Märkten zu verschaffen) und können unter Nutzung unterschiedlicher Strukturen und Rechtsformen errichtet werden.
+
+B13 Einige Vereinbarungen schreiben nicht vor, dass die Tätigkeit, die Gegenstand der Vereinbarung bildet, in einem eigenständigen Vehikel ausgeübt werden soll. Andere Vereinbarungen beinhalten jedoch die Gründung eines eigenständigen Vehikels.
+
+B14 Die in diesem IFRS vorgeschriebene Einstufung gemeinschaftlicher Vereinbarungen hängt von den Rechten und Verpflichtungen ab, die den Parteien im Rahmen der gewöhnlichen Geschäftstätigkeit aus der Vereinbarung erwachsen. In diesem IFRS werden gemeinschaftliche Vereinbarungen entweder als gemeinschaftliche Tätigkeiten oder als Gemeinschaftsunternehmen eingestuft. Wenn ein Unternehmen Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für deren Schulden hat, ist die Vereinbarung eine gemeinschaftliche Tätigkeit. Wenn ein Unternehmen Rechte am Nettovermögen der Vereinbarung hat, ist die Vereinbarung ein Gemeinschaftsunternehmen. In den Paragraphen B16–B33 wird dargelegt, wie ein Unternehmen beurteilt, ob es Anteil an einer gemeinschaftlichen Tätigkeit oder an einem Gemeinschaftsunternehmen hat.
+
+Einstufung einer gemeinschaftlichen Vereinbarung
+
+B15 Wie in Paragraph B14 dargelegt, verlangt die Einstufung einer gemeinschaftlichen Vereinbarung von den Parteien eine Beurteilung der Rechte und Verpflichtungen, die ihnen aus der Vereinbarung erwachsen. Bei dieser Beurteilung hat ein Unternehmen Folgendes zu berücksichtigen:
+a) 
+
+die Struktur der gemeinschaftlichen Vereinbarung (siehe Paragraphen B16–B21),
+b) 
+
+wenn die gemeinschaftliche Vereinbarung über ein eigenständiges Vehikel strukturiert wird:
+i) 
+
+die Rechtsform des eigenständigen Vehikels (siehe Paragraphen B22–B24),
+ii) 
+
+die Bestimmungen der vertraglichen Vereinbarung (siehe Paragraphen B25–B28) und
+iii) 
+
+gegebenenfalls sonstige relevante Sachverhalte und Umstände (siehe Paragraphen B29–B33).
+
+Struktur der gemeinschaftlichen Vereinbarung
+
+Gemeinschaftliche Vereinbarungen, die nicht über ein eigenständiges Vehikel strukturiert werden
+
+B16 Eine gemeinschaftliche Vereinbarung, die nicht über ein eigenständiges Vehikel strukturiert wird, stellt eine gemeinschaftliche Tätigkeit dar. In derartigen Fällen werden in der vertraglichen Vereinbarung die Rechte der Parteien an den Vermögenswerten der Vereinbarung und ihre Verpflichtungen für die Schulden der Vereinbarung sowie die Rechte der Parteien an den entsprechenden Erlösen und ihre Verpflichtungen für die entsprechenden Aufwendungen festgelegt.
+
+B17 Die vertragliche Vereinbarung beschreibt häufig die Art der Tätigkeiten, die Gegenstand der Vereinbarung sind, sowie die Art und Weise, wie die Parteien die gemeinsame Durchführung dieser Tätigkeiten planen. Die Parteien einer gemeinschaftlichen Vereinbarung könnten zum Beispiel vereinbaren, ein Produkt gemeinsam herzustellen, wobei jede Partei für eine bestimmte Aufgabe verantwortlich ist und jede von ihnen eigene Vermögenswerte nutzt und eigene Schulden eingeht. In der vertraglichen Vereinbarung könnte auch festgelegt werden, wie die gemeinsamen Erlöse und Aufwendungen der Parteien unter diesen aufgeteilt werden sollen. In einem solchen Fall setzt jeder gemeinschaftlich Tätige in seinem Abschluss die auf die bestimmte Aufgabe entfallenden Vermögenswerte und Schulden an und erfasst seinen Anteil an den Erlösen und Aufwendungen entsprechend der vertraglichen Vereinbarung.
+
+B18 In anderen Fällen könnten die Parteien einer gemeinschaftlichen Vereinbarung übereinkommen, einen Vermögenswert zu teilen und gemeinsam zu betreiben. In einem solchen Fall regelt die vertragliche Vereinbarung die Rechte der Parteien an dem gemeinschaftlich betriebenen Vermögenswert und legt fest, wie die produzierten Erzeugnisse bzw. Leistungen oder die Erlöse aus dem Vermögenswert sowie die Betriebskosten zwischen den Parteien aufgeteilt werden. Jeder gemeinschaftlich Tätige bilanziert seinen Anteil an dem gemeinschaftlichen Vermögenswert sowie seinen vereinbarten Anteil an eventuellen Schulden und erfasst seinen Anteil an den produzierten Erzeugnissen bzw. Leistungen, den Erlösen und den Aufwendungen gemäß der vertraglichen Vereinbarung.
+
+Gemeinschaftliche Vereinbarungen, die über ein eigenständiges Vehikel strukturiert werden.
+
+B19 Bei einer gemeinschaftlichen Vereinbarung, bei der die der Vereinbarung zuzurechnenden Vermögenswerte und Schulden in einem eigenständigen Vehikel gehalten werden, kann es sich entweder um ein Gemeinschaftsunternehmen oder um eine gemeinschaftliche Tätigkeit handeln.
+
+B20 Ob eine Partei ein gemeinschaftlich Tätiger oder ein Partnerunternehmen ist, hängt von den Rechten der Partei an den Vermögenswerten und ihren Verpflichtungen für die Schulden der Vereinbarung, die in dem eigenständigen Vehikel gehalten werden, ab.
+
+B21 Wie in Paragraph B15 dargelegt, müssen die Parteien für den Fall, dass sie eine gemeinschaftliche Vereinbarung über ein eigenständiges Vehikel strukturiert haben, beurteilen, ob sie aufgrund der Rechtsform des eigenständigen Vehikels, aufgrund der Bestimmungen der vertraglichen Vereinbarung und gegebenenfalls aufgrund anderer relevanter Sachverhalte und Umstände Folgendes erhalten:
+a) 
+
+Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für deren Schulden (d. h. bei der Vereinbarung handelt es sich um eine gemeinschaftliche Tätigkeit) oder
+b) 
+
+Rechte am Nettovermögen der Vereinbarung (d. h. bei der Vereinbarung handelt es sich um ein Gemeinschaftsunternehmen).
+
+Einstufung einer gemeinschaftlichen Vereinbarung: Beurteilung der aus der Vereinbarung erwachsenden Rechte und Verpflichtungen der Parteien
+image
+
+Rechtsform des eigenständigen Vehikels
+
+B22 Bei der Beurteilung der Art einer gemeinschaftlichen Vereinbarung ist die Rechtsform des eigenständigen Vehikels maßgeblich. Die Rechtsform erleichtert die anfängliche Beurteilung der Rechte der Parteien an den Vermögenswerten und ihren Verpflichtungen für die Schulden, die im eigenständigen Vehikel gehalten werden, z. B. die Beurteilung der Frage, ob die Parteien Anteile an den im eigenständigen Vehikel gehaltenen Vermögenswerten haben und ob sie für die Schulden des eigenständigen Vehikels haften.
+
+B23 Die Parteien können die gemeinschaftliche Vereinbarung zum Beispiel über ein eigenständiges Vehikel strukturieren, dessen Rechtsform dazu führt, dass das Vehikel als eigenständig betrachtet wird (d. h. die Vermögenswerte und Schulden, die im eigenständigen Vehikel gehalten werden, sind die Vermögenswerte und Schulden des eigenständigen Vehikels und nicht die Vermögenswerte und Schulden der Parteien). In einem solchen Fall weist die Beurteilung der Rechte und Verpflichtungen, die aufgrund der Rechtsform des eigenständigen Vehikels auf die Parteien übertragen werden, darauf hin, dass es sich bei der Vereinbarung um ein Gemeinschaftsunternehmen handelt. Allerdings kann die Beurteilung der von den Parteien in ihrer vertraglichen Vereinbarung vereinbarten Bestimmungen (siehe Paragraphen B25–B28) und sonstige relevante Sachverhalte und Umstände (siehe Paragraphen B29–B33) gegenüber der Beurteilung der Rechte und Verpflichtungen, die aufgrund der Rechtsform des eigenständigen Vehikels auf die Parteien übertragen werden, Vorrang haben.
+
+B24 Die Beurteilung der aufgrund der Rechtsform des eigenständigen Vehikels auf die Parteien übertragenen Rechte und Verpflichtungen reicht nur dann für die Schlussfolgerung aus, dass es sich bei der Vereinbarung um eine gemeinschaftliche Tätigkeit handelt, wenn die Parteien die gemeinschaftliche Vereinbarung über ein eigenständiges Vehikel strukturiert haben, dessen Rechtsform keine Trennung zwischen den Parteien und dem eigenständigen Vehikel bewirkt (d. h. bei den im eigenständigen Vehikel gehaltenen Vermögenswerten und Schulden handelt es sich um die Vermögenswerte und Schulden der Parteien).
+
+Beurteilung der Bestimmungen der vertraglichen Vereinbarung
+
+B25 In vielen Fällen stehen die von den Parteien in ihren vertraglichen Vereinbarungen vereinbarten Rechte und Verpflichtungen im Einklang mit den aufgrund der Rechtsform des eigenständigen Vehikels, über das die Vereinbarung strukturiert ist, auf die Parteien übertragenen Rechten und Verpflichtungen oder sie stehen nicht im Widerspruch dazu.
+
+B26 In anderen Fällen nutzen die Parteien die vertragliche Vereinbarung, um die aufgrund der Rechtsform des eigenständigen Vehikels, über das die Vereinbarung strukturiert ist, auf die Parteien übertragenen Rechte und Verpflichtungen rückgängig zu machen oder zu ändern.
+
+Anwendungsbeispiel
+
+Beispiel 4
+
+Angenommen, zwei Parteien strukturieren eine gemeinschaftliche Vereinbarung über ein körperschaftlich organisiertes Unternehmen. Jede Partei hält einen Eigentumsanteil von 50 % an dem Unternehmen. Die Gründung der Kapitalgesellschaft erlaubt die Trennung des Unternehmens von seinen Eigentümern, sodass die im Unternehmen gehaltenen Vermögenswerte und Schulden die Vermögenswerte und Schulden des körperschaftlich organisierten Unternehmens sind. In einem solchen Fall weist die Beurteilung der aufgrund der Rechtsform des eigenständigen Vehikels auf die Parteien übertragenen Rechte und Verpflichtungen darauf hin, dass die Parteien Rechte am Nettovermögen der Vereinbarung haben.
+
+Die Parteien ändern die Merkmale der Kapitalgesellschaft jedoch durch ihre vertragliche Vereinbarung in der Weise, dass jede einen Anteil an den Vermögenswerten des körperschaftlich organisierten Unternehmens hält und jede für einen bestimmten Anteil der Schulden des körperschaftlich organisierten Unternehmens haftet. Derartige vertragliche Änderungen an den Merkmalen einer Kapitalgesellschaft können dazu führen, dass eine Vereinbarung eine gemeinschaftliche Tätigkeit ist.
+
+B27 Die folgende Tabelle enthält eine Gegenüberstellung üblicher Bestimmungen in vertraglichen Vereinbarungen zwischen Parteien einer gemeinschaftlichen Tätigkeit und üblicher Bestimmungen in vertraglichen Vereinbarungen zwischen Parteien eines Gemeinschaftsunternehmens. Die in der folgenden Tabelle aufgeführten Beispiele für Vertragsbestimmungen sind nicht erschöpfend.
+
+
+
+Beurteilung der Bestimmungen der vertraglichen Vereinbarung
+
+ 
+	
+
+Gemeinschaftliche Tätigkeit
+	
+
+Gemeinschaftsunternehmen
+
+Bestimmungen der vertraglichen Vereinbarung
+	
+
+Durch die vertragliche Vereinbarung werden auf die Parteien der gemeinschaftlichen Vereinbarung Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für deren Schulden übertragen.
+	
+
+Durch die vertragliche Vereinbarung werden auf die Parteien der gemeinschaftlichen Vereinbarung Rechte am Nettovermögen der Vereinbarung übertragen (d. h. es ist das eigenständige Vehikel, das Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für deren Schulden hat, nicht die Parteien.)
+
+Rechte an Vermögenswerten
+	
+
+In der vertraglichen Vereinbarung ist festgelegt, dass die Parteien der gemeinschaftlichen Vereinbarung alle Ansprüche (d. h. Eigentumsrechte oder andere Rechte) an den der Vereinbarung zuzurechnenden Vermögenswerten in einem bestimmten Verhältnis teilen (z. B. im Verhältnis zum Eigentumsanteil der Parteien an der Vereinbarung oder im Verhältnis zu der durch die Vereinbarung ausgeübten Tätigkeiten, die den Parteien einzeln zuzuordnen sind).
+	
+
+In der vertraglichen Vereinbarung ist festgelegt, dass die in die Vereinbarung eingebrachten oder später von der gemeinschaftlichen Vereinbarung erworbenen Vermögenswerte die Vermögenswerte der Vereinbarung sind. Die Parteien haben keine Ansprüche (d. h. weder Eigentumsrechte noch andere Rechte) an den Vermögenswerten der Vereinbarung.
+
+Verpflichtungen für Schulden
+	
+
+In der vertraglichen Vereinbarung ist festgelegt, dass die Parteien der gemeinschaftlichen Vereinbarung alle Schulden, Verpflichtungen, Kosten und Aufwendungen in einem bestimmten Verhältnis teilen (z. B. im Verhältnis zum Eigentumsanteil der Parteien an der Vereinbarung oder im Verhältnis zu den durch die Vereinbarung ausgeübten Tätigkeiten, die den Parteien einzeln zuzuordnen sind).
+	
+
+In der vertraglichen Vereinbarung wird festgelegt, dass die gemeinschaftliche Vereinbarung für die Schulden und Verpflichtungen der Vereinbarung haftet.
+
+ 
+	
+
+ 
+	
+
+In der vertraglichen Vereinbarung ist festgelegt, dass die Parteien der gemeinschaftlichen Vereinbarung nur im Umfang ihrer jeweiligen Beteiligung an der Vereinbarung und in Höhe ihrer jeweiligen Verpflichtung, noch nicht eingezahltes oder zusätzliches Kapital in sie einzubringen, der Vereinbarung gegenüber haften.
+
+In der vertraglichen Vereinbarung ist festgelegt, dass die Parteien der gemeinschaftlichen Vereinbarung für Ansprüche Dritter haften.
+	
+
+In der vertraglichen Vereinbarung ist festgelegt, dass die Gläubiger der gemeinschaftlichen Vereinbarung in Bezug auf die Schulden oder Verpflichtungen der Vereinbarung keine Rückgriffsrechte auf die Parteien haben.
+
+Erlöse, Aufwendungen, Gewinn oder Verlust
+	
+
+In der vertraglichen Vereinbarung wird die Zuweisung von Erlösen und Aufwendungen auf der Grundlage der relativen Leistungen der einzelnen Parteien der gemeinschaftlichen Vereinbarung festgelegt. Zum Beispiel könnte in der vertraglichen Vereinbarung festgelegt werden, dass Erlöse und Aufwendungen auf Basis der Kapazitäten zugewiesen werden, die die einzelnen Parteien in einem gemeinsam betriebenen Werk nutzen und die von ihrem Eigentumsanteil an der gemeinschaftlichen Vereinbarung abweichen könnte. In anderen Fällen haben die Parteien vielleicht vereinbart, den der Vereinbarung zuzurechnenden Gewinn oder Verlust in einem festgelegten Verhältnis, wie z. B. dem jeweiligen Eigentumsanteil der Parteien an der Vereinbarung, zu teilen. Dies würde nicht ausschließen, dass die Vereinbarung eine gemeinschaftliche Tätigkeit ist, sofern die Parteien Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für ihre Schulden haben.
+	
+
+In der vertraglichen Vereinbarung wird der Anteil der einzelnen Parteien am Gewinn oder Verlust aus den Tätigkeiten der Vereinbarung festgelegt.
+
+Garantien
+	
+
+Von den Parteien gemeinschaftlicher Vereinbarungen wird oft verlangt, Dritten gegenüber Garantien zu leisten, die z. B. eine Dienstleistung von der gemeinschaftlichen Vereinbarung empfangen oder ihr Finanzmittel zur Verfügung stellen. Die Leistung derartiger Garantien oder die Zusage der Parteien, diese zu leisten, ist für sich genommen kein ausschlaggebender Faktor dafür, dass die gemeinschaftliche Vereinbarung eine gemeinschaftliche Tätigkeit darstellt. Der ausschlaggebende Faktor dafür, ob es sich bei der gemeinschaftlichen Vereinbarung um eine gemeinschaftliche Tätigkeit oder um ein Gemeinschaftsunternehmen handelt, ist die Frage, ob die Parteien Verpflichtungen für die der Vereinbarung zuzurechnenden Schulden haben (wobei die Parteien für einige dieser Schulden eine Garantie geleistet haben können).
+
+B28 Ist in der vertraglichen Vereinbarung festgelegt, dass die Parteien Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für ihre Schulden haben, sind sie Parteien einer gemeinschaftlichen Tätigkeit und brauchen für die Zwecke der Einstufung der gemeinschaftlichen Vereinbarung keine sonstigen Sachverhalte und Umstände (Paragraphen B29–B33) zu berücksichtigen.
+
+Beurteilung sonstiger Sachverhalte und Umstände
+
+B29 Ist in der vertraglichen Vereinbarung nicht festgelegt, dass die Parteien Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für ihre Schulden haben, müssen die Parteien bei der Beurteilung, ob es sich bei der Vereinbarung um eine gemeinschaftliche Tätigkeit oder ein Gemeinschaftsunternehmen handelt, sonstige Sachverhalte und Umstände berücksichtigen.
+
+B30 Eine gemeinschaftliche Vereinbarung kann über ein eigenständiges Vehikel strukturiert werden, dessen Rechtsform eine Trennung zwischen den Parteien und dem eigenständigen Vehikel bewirkt. Auch wenn die zwischen den Parteien vereinbarten Vertragsbestimmungen keine Festlegung der Rechte der Parteien an den Vermögenswerten und ihrer Verpflichtungen für die Schulden enthalten, kann die Berücksichtigung sonstiger Sachverhalte und Umstände dazu führen, dass eine solche Vereinbarung als gemeinschaftliche Tätigkeit eingestuft wird. Dies ist der Fall, wenn die Parteien aufgrund sonstiger Sachverhalte und Umstände Rechte an den der Vereinbarung zuzurechnenden Vermögenswerten und Verpflichtungen für ihre Schulden haben.
+
+B31 Sind die Tätigkeiten einer Vereinbarung hauptsächlich darauf ausgerichtet, den Parteien Erzeugnisse bzw. Leistungen zur Verfügung zu stellen, weist dies darauf hin, dass die Parteien Rechte an so gut wie dem gesamten wirtschaftlichen Nutzen der Vermögenswerte der Vereinbarung haben. Die Parteien einer solchen Vereinbarung sichern sich ihren in der Vereinbarung vorgesehenen Zugriff auf die produzierten Erzeugnisse und Leistungen häufig dadurch, dass sie die Vereinbarung daran hindern, Erzeugnisse und Leistungen an Dritte zu verkaufen.
+
+B32 Eine derart gestaltete Vereinbarung wirkt sich dahin gehend aus, dass die von der Vereinbarung eingegangenen Schulden im Wesentlichen durch die Zahlungsströme beglichen werden, die der Vereinbarung aus den Ankäufen der produzierten Erzeugnisse und Leistungen seitens der Parteien zufließen. Wenn die Parteien im Wesentlichen die einzige Quelle für Zahlungsströme sind, die zum Fortbestehen der Tätigkeiten der Vereinbarung beitragen, weist dies darauf hin, dass die Parteien eine Verpflichtung für die der Vereinbarung zuzurechnenden Schulden haben.
+
+Anwendungsbeispiel
+
+Beispiel 5
+
+Angenommen, zwei Parteien strukturieren eine gemeinschaftliche Vereinbarung als körperschaftlich organisiertes Unternehmen (Unternehmen C), an dem jede Partei einen Eigentumsanteil von 50 % besitzt. Der Zweck der Vereinbarung besteht in der Herstellung von Materialien, welche die Parteien für ihre eigenen, individuellen Herstellungsprozesse benötigen. Nach Maßgabe der Vereinbarung betreiben die Parteien die Produktionsstätte, in der die Materialien hergestellt werden, nach den Mengen- und Qualitätsvorgaben der Parteien.
+
+Die Rechtsform von Unternehmen C (körperschaftlich organisiertes Unternehmen), über das die Tätigkeiten durchgeführt werden, weist zunächst darauf hin, dass es sich bei den in Unternehmen C gehaltenen Vermögenswerten und Schulden um die Vermögenswerte und Schulden von Unternehmen C handelt. In der vertraglichen Vereinbarung zwischen den Parteien ist nicht festgelegt, dass die Parteien Rechte an den Vermögenswerten oder Verpflichtungen für die Schulden von Unternehmen C haben. Folglich weisen die Rechtsform von Unternehmen C und die Bestimmungen der vertraglichen Vereinbarung darauf hin, dass es sich bei der Vereinbarung um ein Gemeinschaftsunternehmen handelt.
+
+Die Parteien berücksichtigen jedoch auch folgende Aspekte der Vereinbarung:
+— 
+Die Parteien haben vereinbart, alle von Unternehmen C produzierten Erzeugnisse jeweils zur Hälfte abzunehmen. Unternehmen C kann die produzierten Erzeugnisse nur mit Zustimmung beider Parteien der Vereinbarung an Dritte verkaufen. Da der Zweck der Vereinbarung darin besteht, die Parteien mit den von ihnen benötigten Erzeugnissen zu versorgen, ist davon auszugehen, dass derartige Verkäufe an Dritte selten vorkommen und keinen wesentlichen Umfang haben werden.
+— 
+Der Preis der an die Parteien verkauften Erzeugnisse wird von beiden Parteien in einer Höhe festgelegt, die darauf ausgelegt ist, die Unternehmen C entstandenen Produktions- und Verwaltungskosten zu decken. Auf der Grundlage dieses Betriebsmodells soll die Vereinbarung kostendeckend arbeiten.
+
+Bei der oben beschriebenen Gegebenheit sind folgende Sachverhalte und Umstände maßgeblich:
+— 
+Die Verpflichtung der Parteien, alle von Unternehmen C produzierten Erzeugnisse abzunehmen, zeigt, dass Unternehmen C hinsichtlich der Generierung von Zahlungsströmen ausschließlich von den Parteien abhängig ist und die Parteien daher verpflichtet sind, finanzielle Mittel zur Begleichung der Schulden von Unternehmen C zur Verfügung zu stellen.
+— 
+Die Tatsache, dass die Parteien Rechte an allen von Unternehmen C produzierten Erzeugnissen haben, bedeutet, dass sie den gesamten wirtschaftlichen Nutzen der Vermögenswerte von Unternehmen C verbrauchen und daher Rechte daran haben.
+
+Diese Sachverhalte und Umstände weisen darauf hin, dass es sich bei der Vereinbarung um eine gemeinschaftliche Tätigkeit handelt. Die Schlussfolgerung hinsichtlich der Einstufung der gemeinschaftlichen Vereinbarung unter den beschriebenen Umständen würde sich nicht ändern, wenn die Parteien ihren Anteil an den produzierten Erzeugnissen nicht in einem anschließenden Fertigungsschritt selbst verwenden, sondern ihn an Dritte verkaufen würden.
+
+Würden die Parteien die Bestimmungen der vertraglichen Vereinbarung dahin gehend ändern, dass die Vereinbarung in der Lage wäre, ihre Erzeugnisse an Dritte zu verkaufen, würde dies dazu führen, dass Unternehmen C das Nachfrage-, Lager- und Kreditrisiko übernimmt. In diesem Szenario würde eine solche Veränderung bei den Sachverhalten und Umständen eine Neubeurteilung der Einstufung der gemeinschaftlichen Vereinbarung erfordern. Diese Sachverhalte und Umstände weisen darauf hin, dass es sich bei der Vereinbarung um ein Gemeinschaftsunternehmen handelt.
+
+B33 Im folgenden Ablaufdiagramm wird der Beurteilungsverlauf dargestellt, dem ein Unternehmen bei der Einstufung einer über ein eigenständiges Vehikel strukturierten gemeinschaftlichen Vereinbarung folgt.
+
+Einstufung einer über ein eigenständiges Vehikel strukturierten gemeinschaftlichen Vereinbarung
+image
+
+ABSCHLÜSSE VON PARTEIEN EINER GEMEINSCHAFTLICHEN VEREINBARUNG (PARAGRAPHEN 21A–22)
+
+Bilanzierung des Erwerbs von Anteilen an gemeinschaftlichen Tätigkeiten
+
+B33A Erwirbt ein Unternehmen einen Anteil an einer gemeinschaftlichen Tätigkeit, die einen Geschäftsbetrieb im Sinne von IFRS 3 darstellt, hat es, im Umfang seines Anteils gemäß Paragraph 20, sämtliche in IFRS 3 und in anderen IFRS festgelegten Grundsätze der Bilanzierung von Unternehmenszusammenschlüssen anzuwenden, die nicht mit den Leitlinien des vorliegenden IFRS im Widerspruch stehen, und die in den vorstehend genannten IFRS in Bezug auf Unternehmenszusammenschlüsse vorgeschriebenen Angaben zu machen. Die Grundsätze der Bilanzierung von Unternehmenszusammenschlüssen, die nicht mit den Leitlinien des vorliegenden IFRS im Widerspruch stehen, sind unter anderem folgende:
+a) 
+
+Die identifizierbaren Vermögenswerte und Schulden werden zum beizulegenden Zeitwert bewertet, es sei denn, es handelt sich um Posten, für die in IFR 3 und anderen IFRS Ausnahmen vorgesehen sind.
+b) 
+
+Die mit dem Erwerb verbundenen Kosten werden in den Perioden, in denen die Kosten anfallen und die Dienstleistungen empfangen werden, als Aufwand erfasst, wobei die Ausnahme gilt, dass die Kosten für die Emission von Schuld- oder Eigenkapitaltiteln gemäß IAS 32 Finanzinstrumente: Darstellung und IFRS 9 erfasst werden ( 60 ).
+c) 
+
+Latente Steueransprüche und latente Steuerschulden, die beim erstmaligen Ansatz von Vermögenswerten oder Schulden entstehen — ausgenommen latente Steuerschulden, die beim erstmaligen Ansatz des Geschäfts- oder Firmenwerts entstehen — werden erfasst, wie es in IFRS 3 und IAS 12 Ertragsteuern für Unternehmenszusammenschlüsse vorgeschrieben ist.
+d) 
+
+Der Betrag, um den die übertragene Gegenleistung den Saldo der zum Erwerbszeitpunkt bestehenden Beträge der erworbenen identifizierbaren Vermögenswerte und übernommenen Schulden übersteigt, wird, sofern vorhanden, als Geschäfts- oder Firmenwert bilanziert.
+e) 
+
+Zahlungsmittelgenerierende Einheiten mit zugeordnetem Geschäfts- oder Firmenwert werden, wie in IAS 36 Wertminderung von Vermögenswerten für bei Unternehmenszusammenschlüssen erworbene Geschäfts- oder Firmenwerte vorgeschrieben, mindestens jährlich und wann immer es einen Anhaltspunkt dafür gibt, dass die Einheit wertgemindert sein könnte, auf Wertminderung geprüft.
+
+B33B Die Paragraphen 21A und B33A gelten nur dann auch für die Bildung einer gemeinschaftlichen Tätigkeit, wenn eine der Parteien, die an der gemeinschaftlichen Tätigkeit beteiligt sind, zur Bildung der gemeinschaftlichen Tätigkeit einen bestehenden Geschäftsbetrieb im Sinne von IFRS 3 einbringt. Diese Paragraphen gelten dagegen nicht für die Bildung einer gemeinschaftlichen Tätigkeit, wenn sämtliche an ihr beteiligten Parteien zu ihrer Bildung lediglich Vermögenswerte oder Gruppen von Vermögenswerten einbringen, die keinen Geschäftsbetrieb darstellen.
+
+B33C Ein gemeinschaftlich Tätiger kann seinen Anteil an einer gemeinschaftlichen Tätigkeit, die einen Geschäftsbetrieb im Sinne von IFRS 3 darstellt, erhöhen, indem er weitere Anteile an der gemeinschaftlichen Tätigkeit erwirbt. In diesem Fall werden die zuvor von ihm gehaltenen Anteile an der gemeinschaftlichen Tätigkeit nicht neu bewertet, wenn der gemeinschaftlich Tätige weiterhin an der gemeinschaftlichen Führung beteiligt ist.
+
+B33CA Eine Partei, die an einer gemeinschaftlichen Tätigkeit, nicht aber an deren gemeinschaftlicher Führung beteiligt ist, könnte die Beteiligung an der gemeinschaftlichen Führung der gemeinschaftlichen Tätigkeit, die einen Geschäftsbetrieb im Sinne von IFRS 3 darstellt, erlangen. In einem solchen Fall werden die zuvor gehaltenen Anteile an der gemeinschaftlichen Tätigkeit nicht neu bewertet.
+
+B33D Die Paragraphen 21A und B33A–B33C gelten nicht für den Erwerb eines Anteils an einer gemeinschaftlichen Tätigkeit, wenn alle an der gemeinschaftlichen Führung beteiligten Parteien, einschließlich des Unternehmens, das den Anteil an der gemeinschaftlichen Tätigkeit erwirbt, sowohl vor als auch nach dem Erwerb von derselben obersten Partei bzw. denselben obersten Parteien beherrscht werden und diese Beherrschung nicht vorübergehender Natur ist.
+
+Bilanzierung des Verkaufs von Vermögenswerten an eine gemeinschaftliche Tätigkeit und der Einlage von Vermögenswerten in eine gemeinschaftliche Tätigkeit
+
+B34 Schließt ein Unternehmen mit einer gemeinschaftlichen Tätigkeit, in der es gemeinschaftlich Tätiger ist, eine Transaktion wie einen Verkauf oder eine Einlage von Vermögenswerten ab, dann führt es die Transaktion mit den anderen Parteien der gemeinschaftlichen Tätigkeit durch und hat daher aus einer solchen Transaktion entstehende Gewinne und Verluste nur im Umfang der Anteile der anderen Parteien an der gemeinschaftlichen Tätigkeit anzusetzen.
+
+B35 Ergibt eine solche Transaktion einen Anhaltspunkt für eine Verringerung des Nettoveräußerungswerts der an die gemeinschaftliche Tätigkeit zu verkaufenden oder in sie einzubringenden Vermögenswerte oder auf eine Wertminderung dieser Vermögenswerte, hat der gemeinschaftlich Tätige diese Verluste in voller Höhe anzusetzen.
+
+Bilanzierung des Kaufs von Vermögenswerten von einer gemeinschaftlichen Tätigkeit
+
+B36 Schließt ein Unternehmen mit einer gemeinschaftlichen Tätigkeit, in der es gemeinschaftlich Tätiger ist, eine Transaktion wie den Kauf von Vermögenswerten ab, setzt es seinen Anteil an den Gewinnen und Verlusten erst an, wenn es die betreffenden Vermögenswerte an einen Dritten weiterverkauft hat.
+
+B37 Ergibt eine solche Transaktion einen Anhaltspunkt für eine Verringerung des Nettoveräußerungswerts der zu erwerbenden Vermögenswerte oder für eine Wertminderung der betreffenden Vermögenswerte, hat der gemeinschaftlich Tätige seinen Anteil an diesen Verlusten anzusetzen.
+
+Anhang C
+
+Zeitpunkt des Inkrafttretens, Übergangsvorschriften und Rücknahme anderer IFRS
+
+Dieser Anhang ist integraler Bestandteil des IFRS und besitzt die gleiche Verbindlichkeit wie dessen andere Bestandteile.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+C1 Dieser IFRS ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen IFRS früher an, hat es dies anzugeben und gleichzeitig IFRS 10, IFRS 12 Angaben zu Anteilen an anderen Unternehmen, IAS 27 (in der 2011 geänderten Fassung) und IAS 28 (in der 2011 geänderten Fassung) anzuwenden.
+
+C1A Durch Konzernabschlüsse, gemeinschaftliche Vereinbarungen und Angaben zu Anteilen an anderen Unternehmen: Übergangsleitlinien (Änderungen an IFRS 10, IFRS 11 und IFRS 12), veröffentlicht im Juni 2012, wurden die Paragraphen C2–C5, C7–C10 und C12 geändert und die Paragraphen C1B und C13A–C13B eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Wendet ein Unternehmen IFRS 11 auf eine frühere Berichtsperiode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+C1AA Durch Bilanzierung von Erwerben von Anteilen an gemeinschaftlichen Tätigkeiten (Änderungen an IFRS 11), veröffentlicht im Mai 2014, wurden die Überschrift nach Paragraph B33 geändert und die Paragraphen 21A, B33A–B33D sowie C14A und deren Überschriften eingefügt. Diese Änderungen sind prospektiv auf am oder nach dem 1. Januar 2016 beginnende Geschäftsjahre anzuwenden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+C1AB Durch die Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2015–2017, veröffentlicht im Dezember 2017, wurde Paragraph B33CA eingefügt. Diese Änderungen sind auf Geschäftsvorfälle anzuwenden, bei denen ein Unternehmen bei oder nach Beginn des ersten am oder nach dem 1. Januar 2019 beginnenden Geschäftsjahrs die Beteiligung an der gemeinschaftlichen Führung erlangt. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen zu einem früheren Zeitpunkt an, hat es dies anzugeben.
+
+Übergangsvorschriften
+
+C1B Unbeschadet der Vorschriften des Paragraphen 28 von IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler muss ein Unternehmen bei der erstmaligen Anwendung dieses IFRS lediglich die quantitativen Informationen im Sinne von Paragraph 28(f) von IAS 8 für das Geschäftsjahr angeben, das der erstmaligen Anwendung von IFRS 11 unmittelbar vorausgeht („das unmittelbar vorausgehende Geschäftsjahr“). Ein Unternehmen kann diese Informationen für die laufende Periode oder frühere Vergleichsperioden ebenfalls vorlegen, muss dies aber nicht tun.
+
+Gemeinschaftsunternehmen – Übergang von der Quotenkonsolidierung auf die Equity-Methode
+
+C2 Bei der Umstellung von der Quotenkonsolidierung auf die Equity-Methode hat ein Unternehmen seine Beteiligung an dem Gemeinschaftsunternehmen zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs anzusetzen. Diese anfängliche Beteiligung entspricht der Summe der Buchwerte der Vermögenswerte und Schulden, für die das Unternehmen zuvor die Quotenkonsolidierung angewendet hatte, einschließlich eines etwaigen Geschäfts- oder Firmenwerts aus dem Erwerb. Gehörte der Geschäfts- oder Firmenwert zuvor zu einer größeren zahlungsmittelgenerierenden Einheit oder Gruppe von zahlungsmittelgenerierenden Einheiten, hat das Unternehmen den Geschäfts- oder Firmenwert dem Gemeinschaftsunternehmen auf Basis der relativen Buchwerte des Gemeinschaftsunternehmens und der zahlungsmittelgenerierenden Einheit oder Gruppe von zahlungsmittelgenerierenden Einheiten, zu der der Geschäfts- oder Firmenwert vorher gehörte, zuzuordnen.
+
+C3 Der gemäß Paragraph C2 ermittelte Eröffnungsbilanzwert der Beteiligung wird beim erstmaligen Ansatz als Ersatz für die Anschaffungs- oder Herstellungskosten der Beteiligung betrachtet. Ein Unternehmen hat die Paragraphen 40–43 von IAS 28 (in der 2011 geänderten Fassung) auf den Eröffnungsbilanzwert der Beteiligung anzuwenden, um zu prüfen, ob die Beteiligung wertgemindert ist, und einen etwaigen Wertminderungsaufwand als Anpassung der Gewinnrücklagen zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs anzusetzen. Die Ausnahmeregelung für den erstmaligen Ansatz nach den Paragraphen 15 und 24 von IAS 12 Ertragssteuern gilt nicht in Fällen, in denen das Unternehmen eine Beteiligung an einem Gemeinschaftsunternehmen infolge der Anwendung der Übergangsvorschriften für zuvor quotenkonsolidierte Gemeinschaftsunternehmen ansetzt.
+
+C4 Führt die Zusammenfassung aller zuvor quotenkonsolidierten Vermögenswerte und Schulden zu einem negativen Reinvermögen, hat das Unternehmen zu beurteilen, ob es in Bezug auf das negative Reinvermögen rechtliche oder faktische Verpflichtungen hat; wenn ja, hat das Unternehmen die entsprechende Schuld anzusetzen. Gelangt das Unternehmen zu dem Schluss, dass es in Bezug auf das negative Reinvermögen keine rechtlichen oder faktischen Verpflichtungen hat, setzt es die entsprechende Schuld nicht an, muss aber die Gewinnrücklagen zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs anpassen. Das Unternehmen hat diesen Sachverhalt sowie die Höhe des kumulierten, nicht erfassten Verlustanteils seiner Gemeinschaftsunternehmen zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs und zum Zeitpunkt der erstmaligen Anwendung dieses IFRS anzugeben.
+
+C5 Ein Unternehmen hat zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs eine Aufschlüsselung der Vermögenswerte und Schulden anzugeben, die in dem in einer Zeile dargestellten Beteiligungssaldo zusammengefasst sind. Diese Angabe ist als Zusammenfassung für alle Gemeinschaftsunternehmen zu erstellen, bei denen das Unternehmen die in Paragraph C2–C6 genannten Übergangsvorschriften anwendet.
+
+C6 Nach dem erstmaligen Ansatz hat ein Unternehmen seine Beteiligung am Gemeinschaftsunternehmen nach der Equity-Methode gemäß IAS 28 (in der 2011 geänderten Fassung) zu bilanzieren.
+
+Gemeinschaftliche Tätigkeiten – Übergang von der Equity-Methode auf die Bilanzierung von Vermögenswerten und Schulden
+
+C7 Bei der Umstellung von der Equity-Methode auf die Bilanzierung seines Anteils an den Vermögenswerten und Schulden einer gemeinschaftlichen Tätigkeit hat ein Unternehmen die Beteiligung, die zuvor nach der Equity-Methode bilanziert wurde, sowie alle anderen Posten, die gemäß Paragraph 38 von IAS 28 (in der 2011 geänderten Fassung) Bestandteil der Nettoinvestition des Unternehmens in die Vereinbarung bildeten, zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs auszubuchen und seinen Anteil an jedem einzelnen Vermögenswert und jeder einzelnen Schuld der gemeinschaftlichen Tätigkeit, einschließlich eines etwaigen Geschäfts- und Firmenwert, der im Buchwert der Beteiligung enthalten war, anzusetzen.
+
+C8 Ein Unternehmen hat seinen Anteil an den Vermögenswerten und Schulden der gemeinschaftlichen Tätigkeit unter Zugrundelegung seiner Rechte und Verpflichtungen nach einem festgelegten Verhältnis gemäß der vertraglichen Vereinbarung zu ermitteln. Ein Unternehmen ermittelt die anfänglichen Buchwerte der Vermögenswerte und Schulden durch Aufgliederung des Buchwerts seiner Beteiligung zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs auf der Grundlage der bei der Bilanzierung nach der Equity- Methode verwendeten Informationen.
+
+C9 Entsteht zwischen einer zuvor nach der Equity-Methode bilanzierten Beteiligung einschließlich sonstiger Posten, die gemäß Paragraph 38 von IAS 28 (in der 2011 geänderten Fassung) Bestandteil der Nettoinvestition des Unternehmens in die Vereinbarung waren, und dem angesetzten Nettobetrag der Vermögenswerte und Schulden, einschließlich eines etwaigen Geschäfts- und Firmenwerts eine Differenz, wird wie folgt verfahren:
+a) 
+
+Ist der angesetzte Nettobetrag der Vermögenswerte und Schulden, einschließlich eines etwaigen Geschäfts- oder Firmenwerts, höher als die ausgebuchte Beteiligung (und sonstige Posten, die Bestandteil der Nettoinvestition des Unternehmens waren), wird diese Differenz mit einem etwaigen mit der Beteiligung verbundenen Geschäfts- und Firmenwert und der etwaige Restbetrag mit den Gewinnrücklagen zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs verrechnet.
+b) 
+
+Ist der angesetzte Nettobetrag der Vermögenswerte und Schulden, einschließlich eines etwaigen Geschäfts- oder Firmenwerts, niedriger als die ausgebuchte Beteiligung (und sonstige Posten, die Bestandteil der Nettobeteiligung des Unternehmens waren), wird diese Differenz mit den Gewinnrücklagen zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs verrechnet.
+
+C10 Ein Unternehmen, das von der Equity-Methode auf die Bilanzierung von Vermögenswerten und Schulden umstellt, hat eine Überleitungsrechnung von der ausgebuchten Beteiligung auf die angesetzten Vermögenswerte und Schulden einschließlich des mit den Gewinnrücklagen verrechneten Restbetrags zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs vorzulegen.
+
+C11 Die in den Paragraphen 15 und 24 von IAS 12 vorgesehene Ausnahmeregelung für den erstmaligen Ansatz gilt nicht, wenn das Unternehmen Vermögenswerte und Schulden aus seinem Anteil an einer gemeinschaftlichen Tätigkeit ansetzt.
+
+Übergangsvorschriften für den Einzelabschluss eines Unternehmens
+
+C12 Ein Unternehmen, das seinen Anteil an einer gemeinschaftlichen Tätigkeit zuvor gemäß Paragraph 10 von IAS 27 in seinem Einzelabschluss als zu Anschaffungskosten geführte Beteiligung oder gemäß IFRS 9 bilanziert hatte, hat wie folgt vorzugehen:
+a) 
+
+Ausbuchung der Beteiligung und Ansetzen der Vermögenswerte und Schulden bezüglich seines Anteils an der gemeinschaftlichen Tätigkeit mit den gemäß Paragraph C7–C9 ermittelten Beträgen.
+b) 
+
+Vorlage einer Überleitungsrechnung von der ausgebuchten Beteiligung auf die angesetzten Vermögenswerte und Schulden einschließlich eines etwaigen mit den Gewinnrücklagen verrechneten Restbetrags zu Beginn des unmittelbar vorausgehenden Geschäftsjahrs.
+
+C13 Die Ausnahmeregelung für den erstmaligen Ansatz nach den Paragraphen 15 und 24 von IAS 12 gilt nicht, wenn das Unternehmen in Verbindung mit seinem Anteil an einer gemeinschaftlichen Tätigkeit in seinem Einzelabschluss Vermögenswerte und Schulden ansetzt, die sich aus der Anwendung der in Paragraph C12 genannten Übergangsvorschriften für gemeinschaftliche Tätigkeiten ergeben.
+
+Verweise auf „das unmittelbar vorausgehende Geschäftsjahr“
+
+C13A Unbeschadet der Verweise auf das „das unmittelbar vorausgehende Geschäftsjahr“ in den Paragraphen C2–C12 kann ein Unternehmen auch angepasste Vergleichsinformationen für frühere dargestellte Perioden vorlegen, muss dies aber nicht tun. Sollte es sich dafür entscheiden, sind alle Verweise auf „das unmittelbar vorausgehende Geschäftsjahr“ in den Paragraphen C2–C12 als „die früheste dargestellte angepasste Vergleichsperiode“ zu verstehen.
+
+C13B Legt ein Unternehmen für frühere Perioden keine angepassten Vergleichsinformationen vor, hat es die nicht angepassten Informationen klar zu kennzeichnen, darauf hinzuweisen, dass sie auf einer anderen Grundlage erstellt wurden, und diese Grundlage zu erläutern.
+
+Verweise auf IFRS 9
+
+C14 Wendet ein Unternehmen diesen IFRS, aber noch nicht IFRS 9 an, sind Verweise auf IFRS 9 als Verweise auf IAS 39 Finanzinstrumente: Ansatz und Bewertung zu verstehen.
+
+Bilanzierung des Erwerbs von Anteilen an gemeinschaftlichen Tätigkeiten
+
+C14A Mit der im Mai 2014 veröffentlichten Verlautbarung Bilanzierung von Erwerben von Anteilen an gemeinschaftlichen Tätigkeiten (Änderungen an IFRS 11) wurden die Überschrift nach Paragraph B33 geändert und die Paragraphen 21A, B33A–B33D sowie C1AA und deren Überschriften eingefügt. Bei Erwerben von Anteilen an einer gemeinschaftlichen Tätigkeit, die einen Geschäftsbetrieb im Sinne von IFRS 3 darstellt, sind diese Änderungen für diejenigen Erwerbe prospektiv anzuwenden, die ab Beginn der ersten Berichtsperiode erfolgen, in der das Unternehmen diese Änderungen anwendet. Folglich sind die für in früheren Berichtsperioden erworbene Anteile an einer gemeinschaftlichen Tätigkeit erfassten Beträge nicht anzupassen.
+
+RÜCKNAHME ANDERER IFRS
+
+C15 Dieser IFRS ersetzt folgende IFRS:
+a) 
+
+IAS 31 Anteile an Gemeinschaftsunternehmen und
+b) 
+
+SIC-13 Gemeinschaftlich geführte Unternehmen – Nicht monetäre Einlagen durch Partnerunternehmen.

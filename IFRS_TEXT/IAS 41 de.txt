@@ -1,0 +1,437 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 41
+
+Landwirtschaft
+
+ZIELSETZUNG
+
+Zielsetzung dieses Standards ist die Regelung der Bilanzierung, der Darstellung im Abschluss und der Angabepflichten für landwirtschaftliche Tätigkeit.
+
+ANWENDUNGSBEREICH
+
+1   Dieser Standard ist für die Rechnungslegung über folgende Punkte anzuwenden, wenn sie mit einer landwirtschaftlichen Tätigkeit im Zusammenhang stehen:
+a) 
+
+biologische Vermögenswerte, mit Ausnahme von fruchttragenden Pflanzen,
+b) 
+
+landwirtschaftliche Erzeugnisse zum Zeitpunkt der Ernte und
+c) 
+
+Zuwendungen der öffentlichen Hand, die in den Paragraphen 34 und 35 behandelt werden.
+
+2 Dieser Standard ist nicht anzuwenden auf
+a) 
+
+Grundstücke, die mit landwirtschaftlicher Tätigkeit im Zusammenhang stehen (siehe IAS 16, Sachanlagen und IAS 40, Als Finanzinvestition gehaltene Immobilien);
+b) 
+
+fruchttragende Pflanzen, die mit landwirtschaftlicher Tätigkeit im Zusammenhang stehen (siehe IAS 16). Auf die Erzeugnisse dieser fruchttragenden Pflanzen ist der Standard jedoch anzuwenden;
+c) 
+
+Zuwendungen der öffentlichen Hand, die mit fruchttragenden Pflanzen im Zusammenhang stehen (siehe IAS 20, Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand);
+d) 
+
+immaterielle Vermögenswerte, die mit landwirtschaftlicher Tätigkeit im Zusammenhang stehen (siehe IAS 38, Immaterielle Vermögenswerte);
+e) 
+
+Nutzungsrechte aus einem Grundstücksleasing, das mit einer landwirtschaftlichen Tätigkeit in Verbindung steht, (siehe IFRS 16 Leasingverhältnisse).
+
+3 Dieser Standard ist auf landwirtschaftliche Erzeugnisse, welche die geernteten Erzeugnisse der biologischen Vermögenswerte des Unternehmens darstellen, zum Zeitpunkt der Ernte anzuwenden. Danach ist IAS 2 Vorräte oder ein anderer anwendbarer Standard anzuwenden. Dementsprechend behandelt dieser Standard nicht die Verarbeitung landwirtschaftlicher Erzeugnisse nach der Ernte, beispielsweise die Verarbeitung von Trauben zu Wein durch einen Winzer, der die Trauben selbst angebaut hat. Obwohl diese Verarbeitung eine logische und natürliche Ausdehnung landwirtschaftlicher Tätigkeit sein kann, und die stattfindenden Vorgänge eine gewisse Ähnlichkeit zur biologischen Transformation aufweisen können, fällt eine solche Verarbeitung nicht in die in diesem Standard zugrunde gelegte Definition der landwirtschaftlichen Tätigkeit.
+
+4 Die folgende Tabelle enthält Beispiele für biologischen Vermögenswerte, landwirtschaftliche Erzeugnissen und Produkte, die das Ergebnis der Verarbeitung nach der Ernte darstellen:
+
+
+
+Biologische Vermögenswerte
+	
+
+Landwirtschaftliche Erzeugnisse
+	
+
+Produkte aus Weiterverarbeitung nach der Ernte
+
+Schafe
+	
+
+Wolle
+	
+
+Garne, Teppiche
+
+Bäume einer Waldflur
+	
+
+Gefällte Bäume
+	
+
+Bauholz, Nutzholz
+
+Milchvieh
+	
+
+Milch
+	
+
+Käse
+
+Schweine
+	
+
+Schlachtkörper
+	
+
+Würste, geräucherte Schinken
+
+Baumwollpflanzen
+	
+
+Geerntete Baumwolle
+	
+
+Fäden, Kleidung
+
+Zuckerrohr
+	
+
+Geerntetes Zuckerrohr
+	
+
+Zucker
+
+Tabakpflanzen
+	
+
+Gepflückte Blätter
+	
+
+Getrockneter Tabak
+
+Teesträucher
+	
+
+Gepflückte Blätter
+	
+
+Tee
+
+Weinstöcke
+	
+
+Gepflückte Trauben
+	
+
+Wein
+
+Obstbäume
+	
+
+Gepflücktes Obst
+	
+
+Verarbeitetes Obst
+
+Ölpalmen
+	
+
+Gepflückte Früchte
+	
+
+Palmöl
+
+Kautschukbäume
+	
+
+Geernteter Latex
+	
+
+Gummiwaren
+
+Einige Pflanzen, zum Beispiel Teesträucher, Weinstöcke, Ölpalmen und Kautschukbäume, erfüllen in der Regel die Definition einer fruchttragenden Pflanze und fallen in den Anwendungsbereich von IAS 16. Die Erzeugnisse, die auf fruchttragenden Pflanzen wachsen, zum Beispiel Teeblätter, Weintrauben, Palmölfrüchte und Latex, fallen jedoch in den Anwendungsbereich von IAS 41.
+
+DEFINITIONEN
+
+Definitionen, die mit der Landwirtschaft im Zusammenhang stehen
+
+5   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Landwirtschaftliche Tätigkeit liegt vor, wenn ein Unternehmen die biologische Transformation oder Ernte biologischer Vermögenswerte betreibt, um diese abzusetzen oder in landwirtschaftliche Erzeugnisse oder in zusätzliche biologische Vermögenswerte umzuwandeln.
+Ein landwirtschaftliches Erzeugnis ist das geerntete Erzeugnis der biologischen Vermögenswerte des Unternehmens.
+Eine fruchttragende Pflanze ist eine lebende Pflanze, die
+a) 
+
+zur Herstellung oder Gewinnung landwirtschaftlicher Erzeugnisse verwendet wird,
+b) 
+
+den Erwartungen zufolge mehr als eine Periode Frucht tragen wird und
+c) 
+
+mit Ausnahme des Verkaufs nach Ende der Nutzbarkeit nur mit sehr geringer Wahrscheinlichkeit als landwirtschaftliches Erzeugnis verkauft wird.
+Ein biologischer Vermögenswert ist ein lebendes Tier oder eine lebende Pflanze.
+Die biologische Transformation umfasst den Prozess des Wachstums, des Rückgangs, der Fruchtbringung und der Vermehrung, welcher qualitative oder quantitative Änderungen eines biologischen Vermögenswerts verursacht.
+Verkaufskosten sind die zusätzlichen Kosten, die dem Verkauf eines Vermögenswerts einzeln zugeordnet werden können, mit Ausnahme der Finanzierungskosten und der Ertragsteuern.
+Eine Gruppe biologischer Vermögenswerte ist die Zusammenfassung ähnlicher lebender Tiere oder Pflanzen.
+Ernte ist die Abtrennung des Erzeugnisses von dem biologischen Vermögenswert oder das Ende der Lebensprozesse eines biologischen Vermögenswerts.
+
+5A Keine fruchttragenden Pflanzen sind
+a) 
+
+Pflanzen, die kultiviert werden, um als landwirtschaftliches Erzeugnis geerntet zu werden (zum Beispiel Bäume, die als Nutzholz angebaut werden),
+b) 
+
+Pflanzen, die kultiviert werden, um landwirtschaftliche Erzeugnisse zu gewinnen, wenn mehr als nur eine sehr geringe Wahrscheinlichkeit besteht, dass das Unternehmen auch die Pflanze selbst als landwirtschaftliches Erzeugnis ernten und verkaufen wird (zum Beispiel Bäume, die sowohl um der Früchte als auch um des Nutzholzes willen kultiviert werden); Verkäufe nach Ende der Nutzbarkeit sind hiervon ausgenommen und
+c) 
+
+einjährige Kulturen (zum Beispiel Mais und Weizen).
+
+5B Wenn fruchttragende Pflanzen nicht mehr zur Gewinnung landwirtschaftlicher Erzeugnisse genutzt werden, können sie gefällt/abgeschnitten und verkauft werden, zum Beispiel als Brennholz. Solche Verkäufe nach Ende der Nutzbarkeit sind mit der Definition einer fruchttragenden Pflanze vereinbar.
+
+5C Die Erzeugnisse, die auf fruchttragenden Pflanzen wachsen, sind biologische Vermögenswerte.
+
+6 Die landwirtschaftliche Tätigkeit deckt eine breite Spanne von Tätigkeiten ab, zum Beispiel Viehzucht, Forstwirtschaft, jährliche oder kontinuierliche Ernte, Kultivierung von Obstgärten und Plantagen, Blumenzucht und Aquakultur (einschließlich Fischzucht). Innerhalb dieser Vielfalt bestehen bestimmte gemeinsame Merkmale:
+a) 
+
+Fähigkeit zur Änderung. Lebende Tiere und Pflanzen sind zur biologischen Transformation fähig;
+b) 
+
+Management der Änderung. Das Management fördert die biologische Transformation durch Verbesserung oder zumindest Stabilisierung der Bedingungen, die für den Ablauf des Prozesses notwendig sind (beispielsweise Nahrungssituation, Feuchtigkeit, Temperatur, Fruchtbarkeit und Helligkeit). Ein solches Management unterscheidet die landwirtschaftliche Tätigkeit von anderen Tätigkeiten. Beispielsweise ist die Nutzung unbewirtschafteter Ressourcen (wie Hochseefischerei und Entwaldung) keine landwirtschaftliche Tätigkeit; und
+c) 
+
+Beurteilung von Änderungen. Die durch biologische Transformation oder Ernte herbeigeführte Änderung der Qualität (beispielsweise genetische Eigenschaften, Dichte, Reife, Fettabdeckung, Proteingehalt und Faserstärke) oder Quantität (beispielsweise Nachkommenschaft, Gewicht, Kubikmeter, Faserlänge oder –dicke und die Anzahl der Knospen) wird als routinemäßige Managementfunktion d beurteilt und überwacht.
+
+7 Biologische Transformation führt zu folgenden Arten von Ergebnissen:
+a) 
+
+Änderungen des Vermögenswerts durch (i) Wachstum (eine Zunahme der Quantität oder Verbesserung der Qualität eines Tieres oder einer Pflanze), (ii) Rückgang (eine Abnahme der Quantität oder Verschlechterung der Qualität eines Tieres oder einer Pflanze), oder (iii) Vermehrung (Erzeugung zusätzlicher lebender Tiere oder Pflanzen) oder
+b) 
+
+Produktion landwirtschaftlicher Erzeugnisse wie Latex, Teeblätter, Wolle und Milch.
+
+Allgemeine Definitionen
+
+8   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Der Buchwert ist der Betrag, mit dem ein Vermögenswert in der Bilanz angesetzt wird.
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+Zuwendungen der öffentlichen Hand sind in IAS 20 definiert.
+
+9 [gestrichen]
+
+ANSATZ UND BEWERTUNG
+
+10   Ein Unternehmen hat biologische Vermögenswerte und landwirtschaftliche Erzeugnisse nur dann anzusetzen, wenn
+a) 
+
+das Unternehmen aufgrund von Ereignissen der Vergangenheit Verfügungsmacht über den Vermögenswert hat,
+b) 
+
+es wahrscheinlich ist, dass dem Unternehmen ein mit dem Vermögenswert verbundener künftiger wirtschaftlicher Nutzen zufließen wird, und
+c) 
+
+der beizulegende Zeitwert oder die Anschaffungs- oder Herstellungskosten des Vermögenswerts verlässlich ermittelt werden können.
+
+11 Bei landwirtschaftlichen Tätigkeiten kann die Verfügungsmacht beispielsweise durch das rechtliche Eigentum an einem Rind und durch das Brandzeichen oder eine andere Markierung, die bei Erwerb, Geburt oder Entwöhnung des Kalbes von der Mutterkuh angebracht wurde, nachgewiesen werden. Der künftige Nutzen wird gewöhnlich durch die Bewertung der wesentlichen körperlichen Eigenschaften ermittelt.
+
+12   Ein biologischer Vermögenswert ist beim erstmaligen Ansatz und an jedem Abschlussstichtag zu seinem beizulegenden Zeitwert abzüglich der Verkaufskosten zu bewerten; davon ausgenommen ist der in Paragraph 30 beschriebene Fall, in dem der beizulegende Zeitwert nicht verlässlich bewertet werden kann.
+
+13   Landwirtschaftliche Erzeugnisse, die von den biologischen Vermögenswerten des Unternehmens geerntet werden, sind zum Zeitpunkt der Ernte mit dem beizulegenden Zeitwert abzüglich der Verkaufskosten zu bewerten. Für die Anwendung von IAS 2 Vorräte oder eines anderen anwendbaren Standards stellt eine solche Bewertung die Anschaffungs- oder Herstellungskosten zu diesem Zeitpunkt dar.
+
+14 [gestrichen]
+
+15 Die Bewertung eines biologischen Vermögenswerts oder eines landwirtschaftlichen Erzeugnisses zum beizulegenden Zeitwert kann vereinfacht werden durch die Gruppierung biologischer Vermögenswerte oder landwirtschaftlicher Erzeugnisse nach wesentlichen Eigenschaften, beispielsweise nach Alter oder Qualität. Als Grundlage für die Preisbildung wählt ein Unternehmen die Eigenschaften aus, die den auf dem Markt herangezogenen entsprechen.
+
+16 Unternehmen schließen oft Verträge ab, um ihre biologischen Vermögenswerte oder landwirtschaftlichen Erzeugnisse zu einem späteren Zeitpunkt zu verkaufen. Die Vertragspreise sind nicht notwendigerweise für die Ermittlung des beizulegenden Zeitwerts relevant, da der beizulegende Zeitwert die aktuellen Marktbedingungen widerspiegelt, unter denen am Markt teilnehmende Käufer und Verkäufer eine Geschäftsbeziehung eingehen würden. Demnach ist der beizulegende Zeitwert eines biologischen Vermögenswerts oder eines landwirtschaftlichen Erzeugnisses aufgrund der Existenz eines Vertrags nicht anzupassen. In einigen Fällen kann der Vertrag über den Verkauf eines biologischen Vermögenswerts oder landwirtschaftlichen Erzeugnisses ein belastender Vertrag sein, wie in IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen definiert. Auf belastende Verträge ist IAS 37 anzuwenden.
+
+17–21 [gestrichen]
+
+22 Ein Unternehmen berücksichtigt nicht die Zahlungsströme für die Finanzierung der Vermögenswerte oder für die Wiederherstellung biologischer Vermögenswerte nach der Ernte (beispielsweise die Kosten für die Wiederanpflanzung von Bäumen einer Waldflur nach der Abholzung).
+
+23 [gestrichen]
+
+24 Die Anschaffungs- oder Herstellungskosten können mitunter dem beizulegenden Zeitwert näherungsweise entsprechen, insbesondere wenn
+a) 
+
+seit der erstmaligen Kostenverursachung kaum biologische Transformation stattgefunden hat (beispielsweise unmittelbar vor dem Abschlussstichtag gepflanzte Sämlinge oder neu erworbener Viehbestand) oder
+b) 
+
+der Einfluss der biologischen Transformation auf den Preis voraussichtlich nicht wesentlich ist (beispielsweise das Anfangswachstum in einem 30-jährigen Produktionszyklus eines Kiefernbestandes).
+
+25 Biologische Vermögenswerte sind oft körperlich mit dem Grundstück verbunden (beispielsweise Bäume in einer Waldflur). Möglicherweise besteht kein eigenständiger Markt für biologische Vermögenswerte, die mit dem Grundstück verbunden sind, jedoch ein aktiver Markt für die kombinierten Vermögenswerte, d. h. biologische Vermögenswerte, unbestellte Grundstücke und Bodenverbesserungen als ein Bündel. Ein Unternehmen kann die Informationen über die kombinierten Vermögenswerte zur Ermittlung des beizulegenden Zeitwerts der biologischen Vermögenswerte nutzen. Beispielsweise kann zur Bestimmung des beizulegenden Zeitwerts der biologischen Vermögenswerte der beizulegende Zeitwert des unbestellten Grundstücks und der Bodenverbesserungen von dem beizulegenden Zeitwert der kombinierten Vermögenswerte abgezogen werden.
+
+Gewinne und Verluste
+
+26   Ein Gewinn oder Verlust, der beim erstmaligen Ansatz eines biologischen Vermögenswerts zum beizulegenden Zeitwert abzüglich Verkaufskosten und durch eine Änderung des beizulegenden Zeitwerts abzüglich der Verkaufskosten eines biologischen Vermögenswerts entsteht, ist in der Periode, in der er angefallen ist, erfolgswirksam zu erfassen.
+
+27 Ein Verlust kann beim erstmaligen Ansatz eines biologischen Vermögenswerts entstehen, weil bei der Ermittlung des beizulegenden Zeitwerts abzüglich der Verkaufskosten eines biologischen Vermögenswerts die Verkaufskosten abgezogen werden. Ein Gewinn kann beim erstmaligen Ansatz eines biologischen Vermögenswerts entstehen, wenn beispielsweise ein Kalb geboren wird.
+
+28   Ein Gewinn oder Verlust, der beim erstmaligen Ansatz von landwirtschaftlichen Erzeugnissen zum beizulegenden Zeitwert abzüglich der Verkaufskosten entsteht, ist in der Periode, in der er angefallen ist, erfolgswirksam zu erfassen.
+
+29 Ein Gewinn oder Verlust kann beim erstmaligen Ansatz von landwirtschaftlichen Erzeugnissen als Folge der Ernte entstehen.
+
+Fehlende Möglichkeit, den beizulegenden Zeitwert verlässlich zu ermitteln
+
+30   Es wird angenommen, dass der beizulegende Zeitwert für einen biologischen Vermögenswert verlässlich ermittelt werden kann. Diese Annahme kann jedoch lediglich beim erstmaligen Ansatz eines biologischen Vermögenswerts widerlegt werden, für den keine Marktpreisnotierungen verfügbar sind und für den alternative Ermittlungen des beizulegenden Zeitwerts als eindeutig nicht verlässlich gelten. In einem solchen Fall ist dieser biologische Vermögenswert mit seinen Anschaffungs- oder Herstellungskosten abzüglich aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen zu bewerten. Sobald der beizulegende Zeitwert eines solchen biologischen Vermögenswerts verlässlich ermittelbar wird, hat ein Unternehmen ihn zum beizulegenden Zeitwert abzüglich der Verkaufskosten zu bewerten. Der beizulegende Zeitwert gilt als verlässlich ermittelbar, sobald ein langfristiger biologischer Vermögenswert gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche die Kriterien für eine Einstufung als zur Veräußerung gehalten erfüllt (oder in eine als zur Veräußerung gehalten eingestufte Veräußerungsgruppe aufgenommen wird).
+
+31 Die Annahme in Paragraph 30 kann lediglich beim erstmaligen Ansatz widerlegt werden. Ein Unternehmen, das bislang einen biologischen Vermögenswert zum beizulegenden Zeitwert abzüglich der Verkaufskosten bewertet hat, fährt mit der Bewertung des biologischen Vermögenswerts zum beizulegenden Zeitwert abzüglich der Verkaufskosten bis zum Abgang fort.
+
+32 In jedem Fall bewertet ein Unternehmen landwirtschaftliche Erzeugnisse zum Zeitpunkt der Ernte zum beizulegenden Zeitwert abzüglich der Verkaufskosten. Dieser Standard folgt der Auffassung, dass der beizulegende Zeitwert der landwirtschaftlichen Erzeugnisse zum Zeitpunkt der Ernte immer verlässlich ermittelt werden kann.
+
+33 Bei der Ermittlung der Anschaffungs- oder Herstellungskosten, der kumulierten planmäßigen Abschreibungen und der kumulierten Wertminderungsaufwendungen berücksichtigt ein Unternehmen IAS 2, IAS 16 und IAS 36 Wertminderung von Vermögenswerten.
+
+ZUWENDUNGEN DER ÖFFENTLICHEN HAND
+
+34   Eine unbedingte Zuwendung der öffentlichen Hand, die mit einem biologischen Vermögenswert im Zusammenhang steht, der zum beizulegenden Zeitwert abzüglich der Verkaufskosten bewertet wird, ist nur dann erfolgswirksam zu erfassen, wenn die Zuwendung der öffentlichen Hand einforderbar wird.
+
+35   Wenn eine Zuwendung der öffentlichen Hand (einschließlich einer Zuwendung der öffentlichen Hand für die Nichtausübung einer bestimmten landwirtschaftlichen Tätigkeit), die mit einem biologischen Vermögenswert im Zusammenhang steht, der zum beizulegenden Zeitwert abzüglich der Verkaufskosten bewertet wird, bedingt ist, hat ein Unternehmen die Zuwendung der öffentlichen Hand nur dann erfolgswirksam zu erfassen, wenn die mit der Zuwendung der öffentlichen Hand verbundenen Bedingungen eingetreten sind.
+
+36 Die Bedingungen für Zuwendungen der öffentlichen Hand sind vielfältig. Beispielsweise kann eine Zuwendung der öffentlichen Hand an die Bedingung geknüpft sein, dass ein Unternehmen eine bestimmte Fläche fünf Jahre bewirtschaftet und die Rückzahlung aller Zuwendungen der öffentlichen Hand vorsehen, wenn das Unternehmen die Fläche weniger als fünf Jahre bewirtschaftet. In diesem Fall wird die Zuwendung der öffentlichen Hand erst nach Ablauf der fünf Jahre erfolgswirksam erfasst. Wenn die Bedingungen der Zuwendung der öffentlichen Hand es jedoch erlauben, einen Teil der Zuwendung aufgrund des Zeitablaufs zu behalten, erfasst das Unternehmen diesen Teil der Zuwendung der öffentlichen Hand zeitproportional im Gewinn oder Verlust.
+
+37 Wenn eine Zuwendung der öffentlichen Hand mit einem biologischen Vermögenswert im Zusammenhang steht, der zu seinen Anschaffungs- oder Herstellungskosten abzüglich aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen bewertet wird (siehe Paragraph 30), ist IAS 20 anzuwenden.
+
+38 Dieser Standard schreibt eine andere Behandlung als IAS 20 vor, wenn eine Zuwendung der öffentlichen Hand mit einem biologischen Vermögenswert im Zusammenhang steht, der zum beizulegenden Zeitwert abzüglich der Verkaufskosten bewertet wird, oder wenn eine Zuwendung der öffentlichen Hand die Nichtausübung einer bestimmten landwirtschaftlichen Tätigkeit verlangt. IAS 20 wird lediglich auf eine Zuwendung der öffentlichen Hand angewendet, die mit einem biologischen Vermögenswert im Zusammenhang steht, der zu seinen Anschaffungs- oder Herstellungskosten abzüglich aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen bewertet wird.
+
+ANGABEN
+
+39 [gestrichen]
+
+Allgemeines
+
+40   Ein Unternehmen hat den Gesamtbetrag des Gewinns oder Verlusts anzugeben, der während der laufenden Periode beim erstmaligen Ansatz biologischer Vermögenswerte und landwirtschaftlicher Erzeugnisse und durch die Änderung des beizulegenden Zeitwerts abzüglich der Verkaufskosten der biologischen Vermögenswerte entsteht.
+
+41   Ein Unternehmen hat jede Gruppe von biologischen Vermögenswerten zu beschreiben.
+
+42 Die nach Paragraph 41 geforderten Angaben können in Form verbaler oder wertmäßiger Beschreibungen erfolgen.
+
+43 Einem Unternehmen wird empfohlen, eine wertmäßige Beschreibung jeder Gruppe von biologischen Vermögenswerten zur Verfügung zu stellen, erforderlichenfalls unterschieden nach verbrauchbaren und produzierenden biologischen Vermögenswerten oder nach reifen und unreifen biologischen Vermögenswerten. Beispielsweise kann ein Unternehmen den Buchwert von verbrauchbaren biologischen Vermögenswerten und von produzierenden biologischen Vermögenswerten nach Gruppen angeben. Ein Unternehmen kann diese Buchwerte weiter nach reifen und unreifen Vermögenswerten unterteilen. Diese Unterscheidungen stellen Informationen zur Verfügung, die hilfreich sein können, um den zeitlichen Anfall künftiger Zahlungsströme abschätzen zu können. Ein Unternehmen gibt die Grundlage für solche Unterscheidungen an.
+
+44 Verbrauchbare biologische Vermögenswerte sind solche, die als landwirtschaftliche Erzeugnisse geerntet oder als biologische Vermögenswerte verkauft werden sollen. Beispiele für verbrauchbare biologische Vermögenswerte sind der Viehbestand für die Fleischproduktion, der Viehbestand für den Verkauf, Fische in Farmen, Getreide wie Mais und Weizen, die Erzeugnisse, die auf fruchttragenden Pflanzen wachsen, sowie Bäume, die als Nutzholz wachsen. Produzierende biologische Vermögenswerte unterscheiden sich von verbrauchbaren biologischen Vermögenswerten; zum Beispiel Viehbestand, der für die Milchproduktion gehalten wird, oder Obstbäume, deren Früchte geerntet werden. Produzierende biologische Vermögenswerte sind keine landwirtschaftlichen Erzeugnisse, sondern dienen der Gewinnung landwirtschaftlicher Erzeugnisse.
+
+45 Biologische Vermögenswerte können entweder als reife oder als unreife biologische Vermögenswerte eingestuft werden. Reife biologische Vermögenswerte sind solche, die den Erntegrad erlangt haben (für verbrauchbare biologische Vermögenswerte) oder gewöhnliche Ernten tragen können (für produzierende biologische Vermögenswerte).
+
+46   Wenn nicht an anderer Stelle innerhalb von Informationen, die mit dem Abschluss veröffentlicht werden, angegeben, hat ein Unternehmen Folgendes zu beschreiben:
+a) 
+
+die Art seiner Tätigkeiten, die mit jeder Gruppe von biologischen Vermögenswerten verbunden sind und
+b) 
+
+nichtfinanzielle Messgrößen oder Schätzungen für die körperlichen Mengen
+i) 
+
+jeder Gruppe von biologischen Vermögenswerten des Unternehmens zum Periodenende und
+ii) 
+
+der Produktion landwirtschaftlicher Erzeugnisse während der Periode.
+
+47–48  [gestrichen]
+
+49   Ein Unternehmen hat Folgendes anzugeben:
+a) 
+
+die Existenz und die Buchwerte biologischer Vermögenswerte, mit denen ein beschränktes Eigentumsrecht verbunden ist, und die Buchwerte biologischer Vermögenswerte, die als Sicherheit für Verbindlichkeiten begeben sind,
+b) 
+
+den Betrag von Verpflichtungen für die Entwicklung oder den Erwerb von biologischen Vermögenswerten und
+c) 
+
+Finanzrisikomanagementstrategien, die mit der landwirtschaftlichen Tätigkeit im Zusammenhang stehen.
+
+50   Ein Unternehmen hat eine Überleitungsrechnung der Änderungen des Buchwerts der biologischen Vermögenswerte zwischen dem Beginn und dem Ende der Berichtsperiode anzugeben. Die Überleitungsrechnung hat Folgendes zu enthalten:
+a) 
+
+den Gewinn oder Verlust aufgrund von Änderungen der beizulegenden Zeitwerte abzüglich der Verkaufskosten,
+b) 
+
+Erhöhungen infolge von Käufen,
+c) 
+
+Verringerungen, die Verkäufen und biologischen Vermögenswerten, die gemäß IFRS 5 als zur Veräußerung gehalten eingestuft werden (oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehören), zuzurechnen sind,
+d) 
+
+Verringerungen infolge der Ernte,
+e) 
+
+Erhöhungen, die aus Unternehmenszusammenschlüssen resultieren,
+f) 
+
+Nettoumrechnungsdifferenzen aus der Umrechnung von Abschlüssen in eine andere Darstellungswährung und aus der Umrechnung eines ausländischen Geschäftsbetriebs in die Darstellungswährung des berichtenden Unternehmens und
+g) 
+
+sonstige Änderungen.
+
+51 Der beizulegende Zeitwert abzüglich der Verkaufskosten eines biologischen Vermögenswerts kann sich infolge von körperlichen Änderungen und infolge von Preisänderungen auf dem Markt ändern. Eine gesonderte Angabe von körperlichen Änderungen und von Preisänderungen ist nützlich, um die Ertragskraft der Berichtsperiode und die Zukunftsaussichten zu beurteilen, insbesondere wenn ein Produktionszyklus länger als ein Jahr dauert. In solchen Fällen wird einem Unternehmen empfohlen, den erfolgswirksam berücksichtigten Betrag der Änderung des beizulegenden Zeitwerts abzüglich der Verkaufskosten aufgrund von körperlichen Änderungen und aufgrund von Preisänderungen je Gruppe oder auf andere Weise anzugeben. Diese Informationen sind grundsätzlich weniger nützlich, wenn der Produktionszyklus weniger als ein Jahr dauert (beispielsweise bei der Hühnerzucht oder dem Getreideanbau).
+
+52 Biologische Transformation führt zu vielen Arten der körperlichen Änderung — Wachstum, Rückgang, Fruchtbringung und Vermehrung –, welche sämtlich beobachtbar und bewertbar sind. Jede dieser körperlichen Änderungen hat einen unmittelbaren Bezug zu künftigen wirtschaftlichen Nutzen. Eine Änderung des beizulegenden Zeitwerts eines biologischen Vermögenswerts aufgrund der Ernte ist ebenfalls eine körperliche Änderung.
+
+53 Landwirtschaftliche Tätigkeit ist häufig klimatischen, krankheitsbedingten und anderen natürlichen Risiken ausgesetzt. Tritt ein Ereignis ein, durch das ein wesentlicher Ertrags- bzw. Aufwandsposten entsteht, sind die Art und der Betrag dieses Postens gemäß IAS 1 Darstellung des Abschlusses anzugeben. Beispiele für solche Ereignisse sind das Ausbrechen einer Viruserkrankung, eine Überschwemmung, starke Dürre oder Frost sowie eine Insektenplage.
+
+Zusätzliche Angaben für biologische Vermögenswerte, wenn der beizulegende Zeitwert nicht verlässlich ermittelt werden kann
+
+54   Wenn ein Unternehmen biologische Vermögenswerte am Periodenende zu ihren Anschaffungs- oder Herstellungskosten abzüglich aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen (siehe Paragraph 30) bewertet, hat ein Unternehmen für solche biologischen Vermögenswerte Folgendes anzugeben:
+a) 
+
+eine Beschreibung der biologischen Vermögenswerte,
+b) 
+
+eine Erklärung, warum der beizulegende Zeitwert nicht verlässlich ermittelt werden kann,
+c) 
+
+sofern möglich eine Schätzungsbandbreite, innerhalb welcher der beizulegende Zeitwert höchstwahrscheinlich liegt,
+d) 
+
+die verwendete Abschreibungsmethode,
+e) 
+
+die verwendeten Nutzungsdauern oder Abschreibungssätze und
+f) 
+
+den Bruttobuchwert und die kumulierten planmäßigen Abschreibungen (zusammengefasst mit den kumulierten Wertminderungsaufwendungen) zu Beginn und zum Ende der Periode.
+
+55   Wenn ein Unternehmen während der Berichtsperiode biologische Vermögenswerte zu ihren Anschaffungs- oder Herstellungskosten abzüglich aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen (siehe Paragraph 30) bewertet, hat ein Unternehmen jeden bei Abgang solcher biologischen Vermögenswerte erfassten Gewinn oder Verlust anzugeben; in der in Paragraph 50 verlangten Überleitungsrechnung sind die Beträge, die mit solchen biologischen Vermögenswerten im Zusammenhang stehen, gesondert anzugeben. Die Überleitungsrechnung muss zusätzlich die folgenden erfolgswirksam erfassten Beträge, die mit diesen biologischen Vermögenswerten im Zusammenhang stehen, enthalten:
+a) 
+
+Wertminderungsaufwendungen,
+b) 
+
+Wertaufholungen aufgrund früherer Wertminderungsaufwendungen und
+c) 
+
+planmäßige Abschreibungen.
+
+56   Wenn der beizulegende Zeitwert der biologischen Vermögenswerte, die bislang zu den Anschaffungs- oder Herstellungskosten abzüglich aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen bewertet wurden, während der Berichtsperiode verlässlich ermittelbar wird, hat ein Unternehmen für diese biologischen Vermögenswerte Folgendes anzugeben:
+a) 
+
+eine Beschreibung der biologischen Vermögenswerte,
+b) 
+
+eine Begründung, warum der beizulegende Zeitwert verlässlich ermittelbar wurde, und
+c) 
+
+die Auswirkung der Änderung.
+
+Zuwendungen der öffentlichen Hand
+
+57   Ein Unternehmen hat folgende mit der in diesem Standard abgedeckten landwirtschaftlichen Tätigkeit in Verbindung stehenden Punkte anzugeben:
+a) 
+
+die Art und das Ausmaß der im Abschluss erfassten öffentlichen Zuwendungen der öffentlichen Hand,
+b) 
+
+unerfüllte Bedingungen und andere Erfolgsunsicherheiten im Zusammenhang mit Zuwendungen der öffentlichen Hand und
+c) 
+
+wesentliche zu erwartende Verringerungen des Umfangs der Zuwendungen der öffentlichen Hand.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+58 Dieser Standard ist verbindlich auf Jahresabschlüsse für Berichtsperioden anzuwenden, die am oder nach dem 1. Januar 2003 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen Standard auf Berichtsperioden an, die vor dem 1. Januar 2003 beginnen, hat es dies anzugeben.
+
+59 Dieser Standard enthält keine besonderen Übergangsvorschriften. Die erstmalige Anwendung dieses Standards wird gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler behandelt.
+
+60 Durch die Verbesserungen der IFRS, veröffentlicht im Mai 2008, wurden die Paragraphen 5, 6, 17, 20 und 21 geändert und Paragraph 14 gestrichen. Ein Unternehmen hat diese Änderung prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+61 Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Paragraphen 8, 15, 16, 25 und 30 geändert sowie die Paragraphen 9, 17–21, 23, 47 und 48 gestrichen. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+62 Mit der im Juni 2014 veröffentlichten Verlautbarung Landwirtschaft: Fruchttragende Pflanzen (Änderungen an IAS 16 und IAS 41) wurden die Paragraphen 1–5, 8, 24 und 44 geändert sowie die Paragraphen 5A–5C und 63 eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben. Diese Änderungen sind rückwirkend gemäß IAS 8 anzuwenden.
+
+63 In der Berichtsperiode, in der die Verlautbarung Landwirtschaft: Fruchttragende Pflanzen (Änderungen an IAS 16 und IAS 41) erstmals angewendet wird, braucht das Unternehmen die gemäß IAS 8 Paragraph 28(f) für die laufende Periode vorgeschriebenen quantitativen Angaben nicht zu machen. Es hat jedoch die gemäß IAS 8 Paragraph 28(f) vorgeschriebenen quantitativen Angaben für jede frühere dargestellte Periode zu machen.
+
+64 Durch IFRS 16, veröffentlicht im Januar 2016, wurde Paragraph 2 geändert. Wendet ein Unternehmen IFRS 16 hat, hat es diese Änderung ebenfalls anzuwenden.
+
+65 Durch die Jährlichen Verbesserungen an den IFRS-Standards 2018–2020, veröffentlicht im Mai 2020, wurde Paragraph 22 geändert. Diese Änderung ist auf Bewertungen zum beizulegenden Zeitwert anzuwenden, die zu oder nach Beginn des ersten Geschäftsjahrs vorgenommen werden, das am oder nach dem 1. Januar 2022 beginnt. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderung auf eine frühere Periode an, hat es dies anzugeben.

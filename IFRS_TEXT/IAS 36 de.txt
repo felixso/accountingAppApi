@@ -1,0 +1,1201 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 36
+
+Wertminderung von Vermögenswerten
+
+ZIELSETZUNG
+
+1 Die Zielsetzung dieses Standards ist es, die Verfahren vorzuschreiben, die ein Unternehmen anwendet, um sicherzustellen, dass seine Vermögenswerte nicht mit einem höheren Wert als ihrem erzielbaren Betrag bewertet werden. Ein Vermögenswert wird mit einem höheren Wert als seinem erzielbaren Betrag bewertet, wenn sein Buchwert den Betrag übersteigt, der durch die Nutzung oder den Verkauf des Vermögenswerts erzielt werden könnte. Wenn dies der Fall ist, wird der Vermögenswert als wertgemindert bezeichnet und der Standard verlangt, dass das Unternehmen einen Wertminderungsaufwand erfasst. Der Standard konkretisiert ebenso, wann ein Unternehmen einen Wertminderungsaufwand aufzuholen hat, und schreibt Angaben vor.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist bei der Bilanzierung von Wertminderungen aller Vermögenswerten anzuwenden; davon ausgenommen sind:
+a) 
+
+Vorräte (siehe IAS 2 Vorräte),
+b) 
+
+Vertragsvermögenswerte und Vermögenswerte aus Kosten, die im Zusammenhang mit der Anbahnung oder Erfüllung eines Vertrags entstehen und gemäß IFRS 15 Erlöse aus Verträgen mit Kunden erfasst werden,
+c) 
+
+latente Steueransprüche (siehe IAS 12 Ertragsteuern),
+d) 
+
+Vermögenswerte, die aus Leistungen an Arbeitnehmer resultieren (siehe IAS 19 Leistungen an Arbeitnehmer),
+e) 
+
+finanzielle Vermögenswerte, die in den Anwendungsbereich von IFRS 9 Finanzinstrumente fallen,
+f) 
+
+als Finanzinvestition gehaltene Immobilien, die zum beizulegenden Zeitwert bewertet werden (siehe IAS 40 Als Finanzinvestition gehaltene Immobilien),
+g) 
+
+mit landwirtschaftlicher Tätigkeit im Zusammenhang stehende biologische Vermögenswerte im Anwendungsbereich von IAS 41 Landwirtschaft, die zum beizulegenden Zeitwert abzüglich Verkaufskosten bewertet werden,
+h) 
+
+Verträge im Anwendungsbereich von IFRS 17 Versicherungsverträge, die Vermögenswerte sind, und alle als Vermögenswert angesetzten Abschlusskosten im Sinne der Definition in IFRS 17 und
+i) 
+
+langfristige Vermögenswerte (oder Veräußerungsgruppen), die gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche als zur Veräußerung gehalten eingestuft werden.
+
+3 Dieser Standard gilt nicht für Wertminderungen von Vorräten, Vermögenswerten aus Fertigungsaufträgen, latenten Steueransprüchen, in Verbindung mit Leistungen an Arbeitnehmer entstehenden Vermögenswerten oder Vermögenswerten, die als zur Veräußerung gehalten eingestuft werden (oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehören), da die auf diese Vermögenswerte anwendbaren bestehenden IAS/IFRS Vorschriften für den Ansatz und die Bewertung dieser Vermögenswerte enthalten.
+
+4 Dieser Standard ist auf finanzielle Vermögenswerte anzuwenden, die wie folgt eingestuft sind:
+a) 
+
+Tochterunternehmen, wie in IFRS 10 Konzernabschlüsse definiert,
+b) 
+
+assoziierte Unternehmen, wie in IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen definiert, und
+c) 
+
+Gemeinschaftsunternehmen, wie in IFRS 11 Gemeinschaftliche Vereinbarungen definiert.
+
+Bei Wertminderungen anderer finanzieller Vermögenswerte ist IFRS 9 heranzuziehen.
+
+5 Dieser Standard ist nicht auf finanzielle Vermögenswerte, die in den Anwendungsbereich von IFRS 9 fallen, auf als Finanzinvestition gehaltene Immobilien, die zum beizulegenden Zeitwert innerhalb des Anwendungsbereichs von IAS 40 bewertet werden, oder auf biologische Vermögenswerte, die mit landwirtschaftlicher Tätigkeit in Zusammenhang stehen und die innerhalb des Anwendungsbereichs von IAS 41 zum beizulegenden Zeitwert abzüglich Verkaufskosten bewertet werden, anzuwenden. Dieser Standard ist jedoch auf Vermögenswerte anzuwenden, die zum Neubewertungsbetrag (d. h. dem beizulegenden Zeitwert zum Zeitpunkt der Neubewertung abzüglich späterer, kumulierter planmäßiger Abschreibungen und abzüglich späteren, kumulierten Wertminderungsaufwands) nach anderen Standards, wie den Neubewertungsmodellen gemäß IAS 16 Sachanlagen und IAS 38 Immaterielle Vermögenswerte angesetzt werden. Die einzige Differenz zwischen dem beizulegenden Zeitwert eines Vermögenswerts und dessen beizulegendem Zeitwert abzüglich Veräußerungskosten besteht in den zusätzlichen Kosten, die dem Abgang des Vermögenswerts einzeln zugeordnet werden können.
+a) 
+i) 
+
+Wenn die Veräußerungskosten unbedeutend sind, ist der erzielbare Betrag des neu bewerteten Vermögenswerts notwendigerweise fast identisch mit oder größer als dessen Neubewertungsbetrag. Nach Anwendung der Vorschriften für eine Neubewertung ist es in diesem Fall unwahrscheinlich, dass der neu bewertete Vermögenswert wertgemindert ist, und eine Schätzung des erzielbaren Betrags ist nicht notwendig.
+ii) 
+
+[gestrichen]
+b) 
+
+[gestrichen]
+c) 
+
+Wenn die Veräußerungskosten nicht unbedeutend sind, ist der beizulegende Zeitwert abzüglich Veräußerungskosten des neu bewerteten Vermögenswerts notwendigerweise geringer als sein beizulegender Zeitwert. Deshalb wird der neu bewertete Vermögenswert wertgemindert sein, wenn sein Nutzungswert geringer ist als sein Neubewertungsbetrag. Nach Anwendung der Vorschriften für eine Neubewertung wendet ein Unternehmen in diesem Fall diesen Standard an, um zu ermitteln, ob der Vermögenswert wertgemindert sein könnte.
+
+DEFINITIONEN
+
+6   Die folgenden Begriffe werden im vorliegenden Standard mit der angegebenen Bedeutung verwendet:
+Der Buchwert ist der Betrag, mit dem ein Vermögenswert nach Abzug aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen angesetzt wird.
+Eine zahlungsmittelgenerierende Einheit ist die kleinste identifizierbare Gruppe von Vermögenswerten, die Mittelzuflüsse erzeugt, die weitgehend unabhängig von den Mittelzuflüssen anderer Vermögenswerte oder anderer Gruppen von Vermögenswerten sind.
+Gemeinschaftliche Vermögenswerte sind Vermögenswerte, außer dem Geschäfts- oder Firmenwert, die zu den künftigen Zahlungsströmen sowohl der zu prüfenden zahlungsmittelgenerierenden Einheit als auch anderer zahlungsmittelgenerierender Einheiten beitragen.
+Die Veräußerungskosten sind zusätzliche Kosten, die dem Abgang eines Vermögenswerts oder einer zahlungsmittelgenerierenden Einheit einzeln zugeordnet werden können, mit Ausnahme der Finanzierungskosten und des Ertragsteueraufwands.
+Der Abschreibungsbetrag umfasst die Anschaffungs- oder Herstellungskosten eines Vermögenswerts oder einen Ersatzbetrag abzüglich des Restwerts des Vermögenswerts.
+Die planmäßige Abschreibung ist die systematische Verteilung des Abschreibungsbetrags eines Vermögenswerts über dessen Nutzungsdauer.  ( 23 )
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+Ein Wertminderungsaufwand ist der Betrag, um den der Buchwert eines Vermögenswerts oder einer zahlungsmittelgenerierenden Einheit seinen/ihren erzielbaren Betrag übersteigt.
+Der erzielbare Betrag eines Vermögenswerts oder einer zahlungsmittelgenerierenden Einheit ist der höhere der beiden Beträge aus beizulegendem Zeitwert abzüglich Veräußerungskosten und Nutzungswert.
+Die Nutzungsdauer ist
+a) 
+
+die voraussichtliche Nutzungszeit des Vermögenswerts im Unternehmen oder
+b) 
+
+die voraussichtlich durch den Vermögenswert im Unternehmen zu erzielende Anzahl an Produktionseinheiten oder ähnlichen Maßgrößen.
+Der Nutzungswert ist der Barwert der künftigen Zahlungsströme, der voraussichtlich aus einem Vermögenswert oder einer zahlungsmittelgenerierenden Einheit abgeleitet werden kann.
+
+IDENTIFIZIERUNG EINES VERMÖGENSWERTS, DER WERTGEMINDERT SEIN KÖNNTE
+
+7 Die Paragraphen 8–17 konkretisieren, wann der erzielbare Betrag zu bestimmen ist. In diesen Vorschriften wird der Begriff „ein Vermögenswert“ verwendet, sie sind aber ebenso auf einen einzelnen Vermögenswert wie auf eine zahlungsmittelgenerierende Einheit anzuwenden. Der übrige Teil dieses Standards ist folgendermaßen aufgebaut:
+a) 
+
+Die Paragraphen 18–57 enthalten die Vorschriften für die Ermittlung des erzielbaren Betrags. Auch in diesen Vorschriften wird der Begriff „ein Vermögenswert“ verwendet, sie sind aber ebenso auf einen einzelnen Vermögenswert wie auf eine zahlungsmittelgenerierende Einheit anzuwenden.
+b) 
+
+Die Paragraphen 58–108 enthalten die Vorschriften für die Erfassung und die Bewertung von Wertminderungsaufwendungen. Die Erfassung und die Bewertung von Wertminderungsaufwendungen für einzelne Vermögenswerte, außer dem Geschäfts- oder Firmenwert, werden in den Paragraphen 58–64 behandelt. Die Paragraphen 65–108 behandeln die Erfassung und Bewertung von Wertminderungsaufwendungen für zahlungsmittelgenerierende Einheiten und den Geschäfts- oder Firmenwert.
+c) 
+
+Die Paragraphen 109–116 enthalten die Vorschriften für die Aufholung eines in früheren Perioden für einen Vermögenswert oder eine zahlungsmittelgenerierende Einheit erfassten Wertminderungsaufwands. Auch in diesen Vorschriften wird der Begriff „ein Vermögenswert“ verwendet, sie sind aber ebenso auf einen einzelnen Vermögenswert wie auf eine zahlungsmittelgenerierende Einheit anzuwenden. Zusätzliche Vorschriften sind für einen einzelnen Vermögenswert in den Paragraphen 117–121, für eine zahlungsmittelgenerierende Einheit in den Paragraphen 122 und 123 und für den Geschäfts- oder Firmenwert in den Paragraphen 124 und 125 festgelegt.
+d) 
+
+Die Paragraphen 126–133 konkretisieren die Informationen, die über Wertminderungsaufwendungen und Wertaufholungen für Vermögenswerte und zahlungsmittelgenerierende Einheiten anzugeben sind. Die Paragraphen 134–137 konkretisieren zusätzliche Angabepflichten für zahlungsmittelgenerierende Einheiten, denen ein Geschäfts- oder Firmenwert bzw. immaterielle Vermögenswerte mit unbegrenzter Nutzungsdauer zwecks Überprüfung auf Wertminderung zugeordnet wurden.
+
+8 Ein Vermögenswert ist wertgemindert, wenn sein Buchwert seinen erzielbaren Betrag übersteigt. Die Paragraphen 12–14 beschreiben einige Anhaltspunkte dafür, dass eine Wertminderung eingetreten sein könnte. Wenn einer dieser Anhaltspunkte vorliegt, ist ein Unternehmen verpflichtet, eine formelle Schätzung des erzielbaren Betrags vorzunehmen. Wenn kein Anhaltspunkt für eine Wertminderung vorliegt, braucht ein Unternehmen nach diesem Standard mit Ausnahme der in Paragraph 10 beschriebenen Fälle keine formale Schätzung des erzielbaren Betrags vorzunehmen.
+
+9   Ein Unternehmen hat an jedem Abschlussstichtag zu beurteilen, ob ein Anhaltspunkt dafür vorliegt, dass ein Vermögenswert wertgemindert sein könnte. Wenn ein solcher Anhaltspunkt vorliegt, hat das Unternehmen den erzielbaren Betrag des Vermögenswerts zu schätzen.
+
+10   Unabhängig davon, ob ein Anhaltspunkt für eine Wertminderung vorliegt, hat ein Unternehmen auch
+a) 
+
+einen immateriellen Vermögenswert mit einer unbestimmten Nutzungsdauer oder einen noch nicht nutzungsbereiten immateriellen Vermögenswert jährlich auf Wertminderung zu überprüfen, indem es seinen Buchwert mit seinem erzielbaren Betrag vergleicht. Diese Überprüfung auf Wertminderung kann zu jedem Zeitpunkt innerhalb des Geschäftsjahrs durchgeführt werden, vorausgesetzt, sie wird jedes Jahr zum gleichen Zeitpunkt durchgeführt. Verschiedene immaterielle Vermögenswerte können zu unterschiedlichen Zeiten auf Wertminderung überprüft werden. Wenn ein solcher immaterieller Vermögenswert jedoch erstmals im aktuellen Geschäftsjahr angesetzt wurde, muss dieser immaterielle Vermögenswert vor Ende des aktuellen Geschäftsjahrs auf Wertminderung überprüft werden;
+b) 
+
+den bei einem Unternehmenszusammenschluss erworbenen Geschäfts- oder Firmenwert jährlich auf Wertminderung gemäß den Paragraphen 80–99 zu überprüfen.
+
+11 Die Fähigkeit eines immateriellen Vermögenswerts, einen für die Erzielung seines Buchwerts ausreichenden künftigen wirtschaftlichen Nutzen zu erzeugen, unterliegt in der Zeit, bis der Vermögenswert zur Nutzung zur Verfügung steht, für gewöhnlich größerer Ungewissheit, als nachdem er nutzungsbereit ist. Daher verlangt dieser Standard von einem Unternehmen, den Buchwert eines noch nicht zur Nutzung verfügbaren immateriellen Vermögenswerts mindestens jährlich auf Wertminderung zu überprüfen.
+
+12   Bei der Beurteilung der Frage, ob ein Anhaltspunkt dafür vorliegt, dass ein Vermögenswert wertgemindert sein könnte, hat ein Unternehmen mindestens die folgenden Anhaltspunkte zu berücksichtigen:
+Externe Informationsquellen
+a) 
+
+Es bestehen beobachtbare Anhaltspunkte dafür, dass der Wert des Vermögenswerts während der Periode deutlich stärker gesunken ist als dies durch den Zeitablauf oder die gewöhnliche Nutzung zu erwarten wäre.
+b) 
+
+Während der Periode sind signifikante Veränderungen mit nachteiligen Folgen für das Unternehmen im technischen, marktbezogenen, wirtschaftlichen oder rechtlichen Umfeld, in welchem das Unternehmen tätig ist, oder in Bezug auf den Markt, für den der Vermögenswert bestimmt ist, eingetreten oder werden in näherer Zukunft eintreten.
+c) 
+
+Die Marktzinssätze oder andere Marktrenditen haben sich während der Periode erhöht und solche Erhöhungen werden sich wahrscheinlich auf den Abzinsungssatz, der für die Berechnung des Nutzungswerts herangezogen wird, auswirken und den erzielbaren Betrag des Vermögenswerts wesentlich vermindern.
+d) 
+
+Der Buchwert des Nettovermögens des Unternehmens ist größer als seine Marktkapitalisierung.
+Interne Informationsquellen
+e) 
+
+Es liegen Anhaltspunkte für eine Überalterung oder einen physischen Schaden eines Vermögenswerts vor.
+f) 
+
+Während der Periode sind signifikante Veränderungen mit nachteiligen Folgen für das Unternehmen in dem Umfang oder der Weise, in dem bzw. der der Vermögenswert genutzt wird oder voraussichtlich genutzt werden wird, eingetreten oder werden für die nähere Zukunft erwartet. Diese Veränderungen umfassen die Stilllegung des Vermögenswerts, Planungen für die Einstellung oder Restrukturierung des Bereichs, zu dem ein Vermögenswert gehört, Planungen für den Abgang eines Vermögenswerts vor dem ursprünglich erwarteten Zeitpunkt und die Neueinschätzung der Nutzungsdauer eines Vermögenswerts als begrenzt anstatt unbegrenzt. ( 24 )
+g) 
+
+Das interne Berichtswesen liefert Anhaltspunkte dafür, dass die wirtschaftliche Ertragskraft eines Vermögenswerts schlechter ist oder sein wird als erwartet.
+Dividende von einem Tochterunternehmen, Gemeinschaftsunternehmen oder assoziierten Unternehmen
+h) 
+
+Für eine Beteiligung an einem Tochterunternehmen, Gemeinschaftsunternehmen oder assoziierten Unternehmen erfasst der Investor eine Dividende aus der Beteiligung, und es liegen Anhaltspunkte dafür vor, dass
+i) 
+
+der Buchwert der Beteiligung im Einzelabschluss höher ist als die Buchwerte der Netto-Vermögenswerte des Beteiligungsunternehmens im Konzernabschluss, einschließlich des damit verbunden Geschäfts- oder Firmenwerts, oder
+ii) 
+
+die Dividende höher ist als das Gesamtergebnis des Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens in der Periode, in der die Dividende beschlossen wird.
+
+13 Die Liste in Paragraph 12 ist nicht abschließend. Ein Unternehmen kann weitere Anhaltspunkte, dass ein Vermögenswert wertgemindert sein könnte, identifizieren, und diese würden das Unternehmen ebenso verpflichten, den erzielbaren Betrag des Vermögenswerts zu bestimmen, oder im Falle eines Geschäfts- oder Firmenwerts eine Überprüfung auf Wertminderung gemäß den Paragraphen 80–99 vorzunehmen.
+
+14 Anhaltspunkte aus dem internen Berichtswesen, die darauf hindeuten, dass ein Vermögenswert wertgemindert sein könnte, schließen folgende Faktoren ein:
+a) 
+
+Zahlungsströme für den Erwerb des Vermögenswerts, oder nachfolgende Mittelerfordernisse für den Betrieb oder die Unterhaltung des Vermögenswerts, die signifikant höher sind als ursprünglich geplant,
+b) 
+
+tatsächliche Netto-Zahlungsströme oder betriebliche Gewinne oder Verluste, die aus der Nutzung des Vermögenswerts resultieren, die signifikant schlechter sind als ursprünglich geplant,
+c) 
+
+ein wesentlicher Rückgang der geplanten Netto-Zahlungsströme oder des betrieblichen Ergebnisses oder eine signifikante Erhöhung der geplanten Verluste, die aus der Nutzung des Vermögenswerts resultieren, oder
+d) 
+
+betriebliche Verluste oder Nettomittelabflüsse in Bezug auf den Vermögenswert, wenn die gegenwärtigen Beträge für die aktuelle Periode mit den veranschlagten Beträgen für die Zukunft zusammengefasst werden.
+
+15 Wie in Paragraph 10 angegeben, verlangt dieser Standard, dass ein immaterieller Vermögenswert mit unbegrenzter Nutzungsdauer oder einer, der noch nicht zur Nutzung verfügbar ist, und ein Geschäfts- oder Firmenwert mindestens jährlich auf Wertminderung zu überprüfen sind. Außer in den Fällen, in denen die Vorschriften in Paragraph 10 anzuwenden sind, ist bei der Feststellung, ob der erzielbare Betrag eines Vermögenswerts zu schätzen ist, das Konzept der Wesentlichkeit heranzuziehen. Wenn frühere Berechnungen beispielsweise zeigen, dass der erzielbare Betrag eines Vermögenswerts erheblich über dessen Buchwert liegt, braucht das Unternehmen den erzielbaren Betrag des Vermögenswerts nicht erneut zu schätzen, soweit sich keine Ereignisse ereignet haben, die diese Differenz beseitigt haben könnten. Ebenso kann eine frühere Analyse zeigen, dass der erzielbare Betrag eines Vermögenswerts auf einen (oder mehrere) der in Paragraph 12 aufgelisteten Anhaltspunkte nicht sensibel reagiert.
+
+16 Zur Veranschaulichung von Paragraph 15 ist ein Unternehmen, wenn die Marktzinssätze oder andere Marktrenditen während der Periode gestiegen sind, in den folgenden Fällen nicht verpflichtet, eine formale Schätzung des erzielbaren Betrags eines Vermögenswerts vorzunehmen:
+a) 
+
+wenn der Abzinsungssatz, der bei der Berechnung des Nutzungswerts des Vermögenswerts verwendet wird, wahrscheinlich nicht von der Erhöhung dieser Marktsätze beeinflusst wird. Eine Erhöhung der kurzfristigen Zinssätze muss sich beispielsweise nicht wesentlich auf den Abzinsungssatz auswirken, der für einen Vermögenswert verwendet wird, der noch eine lange Restnutzungsdauer hat;
+b) 
+
+wenn der Abzinsungssatz, der bei der Berechnung des Nutzungswerts des Vermögenswerts verwendet wird, wahrscheinlich von der Erhöhung dieser Marktsätze betroffen ist, aber eine frühere Sensitivitätsanalyse des erzielbaren Betrags zeigt, dass
+i) 
+
+es unwahrscheinlich ist, dass es zu einer wesentlichen Verringerung des erzielbaren Betrags kommen wird, weil die künftigen Zahlungsströme wahrscheinlich ebenso steigen werden (in einigen Fällen kann ein Unternehmen beispielsweise in der Lage sein zu zeigen, dass es seine Erlöse anpasst, um jegliche Erhöhungen der Marktzinssätze zu kompensieren), oder
+ii) 
+
+es unwahrscheinlich ist, dass die Abnahme des erzielbaren Betrags einen wesentlichen Wertminderungsaufwand zur Folge hat.
+
+17 Wenn ein Anhaltspunkt dafür vorliegt, dass ein Vermögenswert wertgemindert sein könnte, kann dies darauf hindeuten, dass die Restnutzungsdauer, die Abschreibungsmethode oder der Restwert des Vermögenswerts überprüft und entsprechend dem auf den Vermögenswert anwendbaren Standard angepasst werden muss, auch wenn kein Wertminderungsaufwand für den Vermögenswert erfasst wird.
+
+ERMITTLUNG DES ERZIELBAREN BETRAGS
+
+18 Dieser Standard definiert den erzielbaren Betrag als den höheren der beiden Beträge aus beizulegendem Zeitwert abzüglich Veräußerungskosten und Nutzungswert eines Vermögenswerts oder einer zahlungsmittelgenerierenden Einheit. Die Paragraphen 19–57 enthalten die Vorschriften für die Ermittlung des erzielbaren Betrags. In diesen Vorschriften wird der Begriff „ein Vermögenswert“ verwendet, sie sind aber ebenso auf einen einzelnen Vermögenswert wie auf eine zahlungsmittelgenerierende Einheit anzuwenden.
+
+19 Es ist nicht immer erforderlich, sowohl den beizulegenden Zeitwert abzüglich Veräußerungskosten als auch den Nutzungswert eines Vermögenswerts zu bestimmen. Wenn einer dieser Werte den Buchwert des Vermögenswerts übersteigt, ist der Vermögenswert nicht wertgemindert und es ist nicht erforderlich, den anderen Wert zu schätzen.
+
+20 Es kann möglich sein, den beizulegenden Zeitwert abzüglich Veräußerungskosten auch dann zu ermitteln, wenn es keinen an einem aktiven Markt notierten Preis für einen identischen Vermögenswert gibt. In einigen Fällen wird es indes nicht möglich sein, den beizulegenden Zeitwert abzüglich Veräußerungskosten zu ermitteln, weil es keine Grundlage für eine verlässliche Schätzung des Preises gibt, der in einem geordneten Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf des Vermögenswerts unter aktuellen Marktbedingungen eingenommen würde. In diesem Fall kann das Unternehmen den Nutzungswert des Vermögenswerts als seinen erzielbaren Betrag verwenden.
+
+21 Liegt kein Grund zu der Annahme vor, dass der Nutzungswert eines Vermögenswerts seinen beizulegenden Zeitwert abzüglich Veräußerungskosten wesentlich übersteigt, kann der beizulegende Zeitwert abzüglich der Veräußerungskosten als erzielbarer Betrag des Vermögenswerts angesehen werden. Dies ist häufig bei Vermögenswerten der Fall, die zu Veräußerungszwecken gehalten werden. Das liegt daran, dass der Nutzungswert eines Vermögenswerts, der zu Veräußerungszwecken gehalten wird, hauptsächlich aus den Nettoveräußerungserlösen besteht, da die künftigen Zahlungsströme aus der fortgesetzten Nutzung des Vermögenswerts bis zu seinem Abgang wahrscheinlich unbedeutend sein werden.
+
+22 Der erzielbare Betrag ist für einen einzelnen Vermögenswert zu bestimmen, es sei denn, ein Vermögenswert erzeugt keine Mittelzuflüsse, die weitgehend unabhängig von denen anderer Vermögenswerte oder anderer Gruppen von Vermögenswerten sind. Wenn dies der Fall ist, ist der erzielbare Betrag für die zahlungsmittelgenerierende Einheit zu bestimmen, zu der der Vermögenswert gehört (siehe Paragraphen 65–103), es sei denn, dass entweder
+a) 
+
+der beizulegende Zeitwert abzüglich Veräußerungskosten des Vermögenswerts höher ist als sein Buchwert oder
+b) 
+
+der Nutzungswert des Vermögenswerts Schätzungen zufolge nahezu dem beizulegenden Zeitwert abzüglich Veräußerungskosten entspricht, und der beizulegende Zeitwert abzüglich Veräußerungskosten ermittelt werden kann.
+
+23 In einigen Fällen können Schätzungen, Durchschnittswerte und rechnerisch abgekürzte Verfahren angemessene Annäherungen an die in diesem Standard dargestellten ausführlichen Berechnungen zur Bestimmung des beizulegenden Zeitwerts abzüglich Veräußerungskosten oder des Nutzungswerts liefern.
+
+Ermittlung des erzielbaren Betrags eines immateriellen Vermögenswerts mit unbegrenzter Nutzungsdauer
+
+24 Paragraph 10 verlangt, dass ein immaterieller Vermögenswert mit unbegrenzter Nutzungsdauer jährlich auf Wertminderung zu überprüfen ist, wobei sein Buchwert mit seinem erzielbaren Betrag verglichen wird, unabhängig davon, ob es einen Anhaltspunkt für eine Wertminderung gibt. Die jüngsten ausführlichen Berechnungen des erzielbaren Betrags eines solchen Vermögenswerts, der in einer vorhergehenden Periode ermittelt wurde, können jedoch für die Überprüfung auf Wertminderung dieses Vermögenswerts in der aktuellen Periode verwendet werden, vorausgesetzt, dass alle nachstehenden Kriterien erfüllt sind:
+a) 
+
+wenn der immaterielle Vermögenswert keine Mittelzuflüsse aus der fortgesetzten Nutzung erzeugt, die von denen anderer Vermögenswerte oder Gruppen von Vermögenswerten weitgehend unabhängig sind, und daher als Teil der zahlungsmittelgenerierenden Einheit, zu der er gehört, auf Wertminderung überprüft wird, haben sich die diese Einheit bildenden Vermögenswerte und Schulden seit der letzten Berechnung des erzielbaren Betrags nicht wesentlich geändert,
+b) 
+
+die letzte Berechnung des erzielbaren Betrags ergab einen Betrag, der den Buchwert des Vermögenswerts wesentlich überstieg, und
+c) 
+
+auf der Grundlage einer Analyse der seit der letzten Berechnung des erzielbaren Betrags eingetretenen Ereignisse und geänderten Umstände ist die Wahrscheinlichkeit, dass bei einer aktuellen Ermittlung der erzielbare Betrag niedriger als der Buchwert des Vermögenswerts sein würde, sehr gering.
+
+Beizulegender Zeitwert abzüglich Veräußerungskosten
+
+25–27 [gestrichen]
+
+28 Sofern die Veräußerungskosten nicht als Schulden angesetzt wurden, werden sie bei der Ermittlung des beizulegenden Zeitwerts abzüglich Veräußerungskosten abgezogen. Beispiele für derartige Kosten sind Gerichts- und Anwaltskosten, Börsenumsatzsteuern und ähnliche Transaktionssteuern, die Kosten für die Beseitigung des Vermögenswerts und die einzeln zuordenbaren zusätzlichen Kosten, um den Vermögenswert in den entsprechenden Zustand für seinen Verkauf zu versetzen. Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses (wie in IAS 19 definiert) und Kosten, die mit der Verringerung oder Reorganisation eines Geschäftsfelds nach dem Verkauf eines Vermögenswerts verbunden sind, sind indes keine einzeln zuordenbaren zusätzlichen Kosten für die Veräußerung des Vermögenswerts.
+
+29 Mitunter erfordert die Veräußerung eines Vermögenswerts, dass der Käufer eine Schuld übernimmt, und für den Vermögenswert und die Schuld ist nur ein einziger beizulegender Zeitwert abzüglich Veräußerungskosten vorhanden. Paragraph 78 erläutert, wie in solchen Fällen zu verfahren ist.
+
+Nutzungswert
+
+30   In der Berechnung des Nutzungswerts eines Vermögenswerts müssen sich die folgenden Elemente widerspiegeln:
+a) 
+
+eine Schätzung der künftigen Zahlungsströme, die das Unternehmen durch den Vermögenswert zu erzielen erwartet,
+b) 
+
+Erwartungen im Hinblick auf eventuelle wertmäßige oder zeitliche Veränderungen dieser künftigen Zahlungsströme,
+c) 
+
+der Zinseffekt, der durch den aktuellen risikolosen Marktzinssatz dargestellt wird,
+d) 
+
+der Preis für die mit dem Vermögenswert verbundene Unsicherheit und
+e) 
+
+andere Faktoren, wie Illiquidität, die Marktteilnehmer bei der Preisfindung für die künftigen Zahlungsströme, die das Unternehmen durch den Vermögenswert zu erzielen erwartet, widerspiegeln würden.
+
+31 Die Schätzung des Nutzungswerts eines Vermögenswerts umfasst die folgenden Schritte:
+a) 
+
+die Schätzung der künftigen Zahlungsströme aus der fortgesetzten Nutzung des Vermögenswerts und aus seiner letztlichen Veräußerung und
+b) 
+
+die Anwendung eines angemessenen Abzinsungssatzes für diese künftigen Zahlungsströme.
+
+32 Die in Paragraph 30(b), (d) und (e) aufgeführten Elemente können entweder als Anpassungen der künftigen Zahlungsströme oder als Anpassung des Abzinsungssatzes widergespiegelt werden. Welchen Ansatz ein Unternehmen auch anwendet, um Erwartungen hinsichtlich eventueller wertmäßiger oder zeitlicher Änderungen der künftigen Zahlungsströme widerzuspiegeln, muss das Ergebnis letztlich den erwarteten Barwert der künftigen Zahlungsströme, d. h. den gewichteten Durchschnitt aller möglichen Ergebnisse widerspiegeln. Anhang A enthält zusätzliche Leitlinien für die Anwendung der Barwert-Verfahren, um den Nutzungswert eines Vermögenswerts zu bewerten.
+
+Grundlage für die Schätzungen der künftigen Zahlungsströme
+
+33   Bei der Ermittlung des Nutzungswerts hat ein Unternehmen
+a) 
+
+die Zahlungsstrom-Prognosen auf angemessene und vertretbare Annahmen zu gründen, die die bestmögliche vom Management vorgenommene Einschätzung der ökonomischen Rahmenbedingungen repräsentieren, die für die Restnutzungsdauer eines Vermögenswerts bestehen werden. Größeres Gewicht ist dabei auf externe Anhaltspunkte zu legen.
+b) 
+
+die Zahlungsstrom-Prognosen auf die jüngsten vom Management genehmigten Finanzplänen/Vorhersagen zu gründen, die jedoch alle geschätzten künftigen Mittelzuflüsse bzw. Mittelabflüsse, die aus künftigen Restrukturierungsmaßnahmen oder aus der Verbesserung bzw. Erhöhung der Ertragskraft des Vermögenswerts erwartet werden, auszuschließen haben. Auf diesen Finanzplänen/Vorhersagen basierende Prognosen haben sich auf einen Zeitraum von maximal fünf Jahren zu erstrecken, es sei denn, dass ein längerer Zeitraum gerechtfertigt werden kann.
+c) 
+
+die Zahlungsstrom-Prognosen jenseits des Zeitraums zu schätzen, auf den sich die jüngsten Finanzpläne/Vorhersagen beziehen, unter Anwendung einer gleichbleibenden oder rückläufigen Wachstumsrate für die Folgejahre durch eine Extrapolation der Prognosen, die auf den Finanzplänen/Vorhersagen beruhen, es sei denn, dass eine steigende Rate gerechtfertigt werden kann. Diese Wachstumsrate darf die langfristige Durchschnittswachstumsrate für die Produkte, die Branchen oder das Land bzw. die Länder, in dem/denen das Unternehmen tätig ist, oder für den Markt, in welchem der Vermögenswert genutzt wird, nicht überschreiten, es sei denn, dass eine höhere Rate gerechtfertigt werden kann.
+
+34 Das Management beurteilt die Angemessenheit der Annahmen, auf denen seine aktuellen Zahlungsstrom-Prognosen beruhen, indem es die Gründe für Differenzen zwischen den vorherigen Zahlungsstrom-Prognosen und den tatsächlichen Zahlungsströmen überprüft. Das Management hat sicherzustellen, dass die Annahmen, auf denen die tatsächlichen Zahlungsstrom-Prognosen beruhen, mit den tatsächlichen Ergebnissen der Vergangenheit übereinstimmen, vorausgesetzt, dass die Auswirkungen von Ereignissen und Umständen, die eingetreten sind, nachdem die tatsächlichen Zahlungsströme generiert waren, dies als angemessen erscheinen lassen.
+
+35 Detaillierte, eindeutige und verlässliche Finanzpläne/Vorhersagen für künftige Zahlungsströme für Perioden von mehr als fünf Jahren sind in der Regel nicht verfügbar. Aus diesem Grund beruhen die Schätzungen des Managements über die künftigen Zahlungsströme auf den jüngsten Finanzplänen/Vorhersagen für einen Zeitraum von maximal fünf Jahren. Das Management kann auch auf Finanzplänen/Vorhersagen basierende Zahlungsstrom-Prognosen verwenden, die sich für einen Zeitraum von mehr als fünf Jahren erstrecken, wenn es sich sicher ist, dass diese Prognosen verlässlich sind und es basierend auf Erfahrungen der Vergangenheit seine Fähigkeit nachweisen kann, die Zahlungsströme über den entsprechenden längeren Zeitraum genau vorherzusagen.
+
+36 Zahlungsstrom-Prognosen bis zum Ende der Nutzungsdauer eines Vermögenswerts werden durch Extrapolation der Zahlungsstrom-Prognosen auf der Basis der Finanzpläne/Vorhersagen unter Verwendung einer Wachstumsrate für die Folgejahre vorgenommen. Diese Rate ist gleichbleibend oder fallend, es sei denn, dass eine Steigerung der Rate objektiven Informationen über den Verlauf des Lebenszyklus eines Produkts oder einer Branche entspricht. Falls angemessen, ist die Wachstumsrate null oder negativ.
+
+37 Soweit die Bedingungen günstig sind, werden Wettbewerber wahrscheinlich in den Markt eintreten und das Wachstum beschränken. Deshalb ist es für ein Unternehmen schwierig, die durchschnittliche historische Wachstumsrate für die Produkte, die Branchen, das Land oder die Länder, in dem/denen das Unternehmen tätig ist, oder für den Markt, in dem der Vermögenswert genutzt wird, über einen längeren Zeitraum (beispielsweise zwanzig Jahre) zu überschreiten.
+
+38 Bei der Verwendung der Informationen aus den Finanzplänen/Vorhersagen berücksichtigt ein Unternehmen, ob die Informationen auf angemessenen und vertretbaren Annahmen beruhen und die bestmögliche Einschätzung des Managements hinsichtlich der ökonomischen Rahmenbedingungen, die während der Restnutzungsdauer eines Vermögenswerts bestehen werden, darstellen.
+
+Zusammensetzung der Schätzungen der künftigen Zahlungsströme
+
+39   In die Schätzungen der künftigen Zahlungsströme sind die folgenden Elemente einzubeziehen:
+a) 
+
+Prognosen der Mittelzuflüsse aus der fortgesetzten Nutzung des Vermögenswerts,
+b) 
+
+Prognosen der Mittelabflüsse, die notwendigerweise entstehen, um Mittelzuflüsse aus der fortgesetzten Nutzung eines Vermögenswerts zu erzielen (einschließlich der Mittelabflüsse zur Vorbereitung des Vermögenswerts für seine Nutzung) und die dem Vermögenswert einzeln oder auf einer angemessenen und stetigen Basis zugeordnet werden können, und
+c) 
+
+Netto-Zahlungsströme, die ggf. für den Abgang des Vermögenswerts am Ende seiner Nutzungsdauer eingehen (oder gezahlt werden).
+
+40 Schätzungen der künftigen Zahlungsströme und des Abzinsungssatzes spiegeln stetige Annahmen über die auf die allgemeine Inflation zurückzuführenden Preissteigerungen wider. Wenn der Abzinsungssatz die Wirkung von Preissteigerungen, die auf die allgemeine Inflation zurückzuführen sind, einbezieht, werden die künftigen Zahlungsströme in nominalen Beträgen geschätzt. Wenn der Abzinsungssatz die Wirkung von Preissteigerungen, die auf die allgemeine Inflation zurückzuführen sind, nicht einbezieht, werden die künftigen Zahlungsströme in realen Beträgen geschätzt (schließen aber künftige spezifische Preissteigerungen oder -senkungen ein).
+
+41 Die Prognosen der Mittelabflüsse schließen sowohl jene für die tägliche Wartung des Vermögenswerts als auch künftige Gemeinkosten ein, die der Nutzung des Vermögenswerts einzeln zugeordnet oder auf einer angemessenen und stetigen Basis zugeordnet werden können.
+
+42 Wenn der Buchwert eines Vermögenswerts noch nicht alle Mittelabflüsse enthält, die anfallen werden, bevor dieser nutzungs- oder verkaufsbereit ist, enthält die Schätzung der künftigen Mittelabflüsse eine Schätzung aller weiteren künftigen Mittelabflüsse, die voraussichtlich anfallen werden, bevor der Vermögenswert nutzungs- oder verkaufsbereit ist. Dies ist beispielsweise der Fall für ein im Bau befindliches Gebäude oder bei einem noch nicht abgeschlossenen Entwicklungsprojekt.
+
+43 Um Doppelzählungen zu vermeiden, beziehen die Schätzungen der künftigen Zahlungsströme die folgenden Faktoren nicht mit ein:
+a) 
+
+Mittelzuflüsse von Vermögenswerten, die Mittelzuflüsse erzeugen, die weitgehend unabhängig von den Mittelzuflüssen des zu überprüfenden Vermögenswerts sind (beispielsweise finanzielle Vermögenswerte wie Forderungen), und
+b) 
+
+Mittelabflüsse, die sich auf als Schulden angesetzte Verpflichtungen beziehen (beispielsweise Verbindlichkeiten, Pensionen oder Rückstellungen).
+
+44   Künftige Zahlungsströme sind für einen Vermögenswert in seinem gegenwärtigen Zustand zu schätzen. Schätzungen der künftigen Zahlungsströme dürfen nicht die geschätzten künftigen Mittelzu- und -abflüsse umfassen, deren Entstehung erwartet wird aufgrund
+a) 
+
+einer künftigen Restrukturierung, zu der ein Unternehmen noch nicht verpflichtet ist, oder
+b) 
+
+einer Verbesserung oder Erhöhung der Ertragskraft des Vermögenswerts.
+
+45 Da die künftigen Zahlungsströme ausgehend vom gegenwärtigen Zustand eines Vermögenswerts geschätzt werden, spiegelt der Nutzungswert nicht die folgenden Faktoren wider:
+a) 
+
+künftige Mittelabflüsse oder die zugehörigen Kosteneinsparungen (beispielsweise durch die Verminderung des Personalaufwands) oder der erwartete Nutzen aus einer künftigen Restrukturierung, zu der ein Unternehmen noch nicht verpflichtet ist, oder
+b) 
+
+künftige Mittelabflüsse, die die Ertragskraft des Vermögenswerts verbessern oder erhöhen werden, oder die zugehörigen Mittelzuflüsse, die aus solchen Mittelabflüssen erwartet werden.
+
+46 Eine Restrukturierung ist ein Programm, das vom Management geplant und kontrolliert wird und entweder das von dem Unternehmen abgedeckte Geschäftsfeld oder die Art, in der dieses Geschäft durchgeführt wird, wesentlich verändert. IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen konkretisiert, wann sich ein Unternehmen zu einer Restrukturierung verpflichtet hat.
+
+47 Wenn ein Unternehmen zu einer Restrukturierung verpflichtet ist, sind wahrscheinlich einige Vermögenswerte von der Restrukturierung betroffen. Sobald das Unternehmen zur Restrukturierung verpflichtet ist,
+a) 
+
+spiegeln seine zwecks Bestimmung des Nutzungswerts erfolgenden Schätzungen der künftigen Mittelzu- und -abflüsse die Kosteneinsparungen und den sonstigen Nutzen aus der Restrukturierung wider (auf Basis der jüngsten vom Management gebilligten Finanzpläne/Vorhersagen) und
+b) 
+
+werden seine Schätzungen künftiger Mittelabflüsse für die Restrukturierung in einer Restrukturierungsrückstellung gemäß IAS 37 erfasst.
+
+Das erläuternde Beispiel 5 veranschaulicht die Auswirkung einer künftigen Restrukturierung auf die Berechnung des Nutzungswerts.
+
+48 Bis ein Unternehmen Mittelabflüsse tätigt, die die Ertragskraft des Vermögenswerts verbessern oder erhöhen, enthalten die Schätzungen der künftigen Zahlungsströme keine geschätzten künftigen Mittelzuflüsse, die infolge der Erhöhung des mit dem Mittelabfluss verbundenen wirtschaftlichen Nutzens erwartet werden (siehe erläuterndes Beispiel 6).
+
+49 Schätzungen der künftigen Zahlungsströme umfassen auch künftige Mittelabflüsse, die erforderlich sind, um den wirtschaftlichen Nutzen des Vermögenswerts auf dem gegenwärtigen Niveau zu halten. Wenn eine zahlungsmittelgenerierende Einheit aus Vermögenswerten mit verschiedenen geschätzten Nutzungsdauern besteht, die alle für den laufenden Betrieb der Einheit notwendig sind, wird bei der Schätzung der mit der Einheit verbundenen künftigen Zahlungsströme der Ersatz von Vermögenswerten mit kürzerer Nutzungsdauer als Teil der täglichen Wartung der Einheit betrachtet. Ebenso wird, wenn ein einzelner Vermögenswert aus Bestandteilen mit unterschiedlichen Nutzungsdauern besteht, der Ersatz der Bestandteile mit kürzerer Nutzungsdauer als Teil der täglichen Wartung des Vermögenswerts betrachtet, wenn die vom Vermögenswert generierten künftigen Zahlungsströme geschätzt werden.
+
+50   In den Schätzungen der künftigen Zahlungsströme sind folgende Elemente nicht enthalten:
+a) 
+
+Mittelzu- oder -abflüsse aus Finanzierungstätigkeiten oder
+b) 
+
+Ertragsteuereinnahmen oder -zahlungen.
+
+51 Geschätzte künftige Zahlungsströme spiegeln Annahmen wider, die der Art und Weise der Bestimmung des Abzinsungssatzes entsprechen. Andernfalls würden die Auswirkungen einiger Annahmen doppelt berücksichtigt oder außer Acht gelassen werden. Da der Zinseffekt bei der Abzinsung der künftigen Zahlungsströme berücksichtigt wird, schließen diese Zahlungsströme Mittelzu- oder -abflüsse aus Finanzierungstätigkeit aus. Da der Abzinsungssatz auf einer Vor-Steuer-Basis bestimmt wird, werden auch die künftigen Zahlungsströme auf einer Vor-Steuer-Basis geschätzt.
+
+52   Die Schätzung der Netto-Zahlungsströme, die für den Abgang eines Vermögenswerts am Ende seiner Nutzungsdauer eingehen (oder gezahlt werden), muss dem Betrag entsprechen, den ein Unternehmen aus dem Verkauf des Vermögenswerts unter marktüblichen Bedingungen zwischen sachverständigen, vertragswilligen und voneinander unabhängigen Geschäftspartnern nach Abzug der geschätzten Veräußerungskosten erzielen könnte.
+
+53 Die Schätzung der Netto-Zahlungsströme, die für den Abgang eines Vermögenswerts am Ende seiner Nutzungsdauer eingehen (oder gezahlt werden), ist in einer ähnlichen Weise wie beim beizulegenden Zeitwert abzüglich Veräußerungskosten eines Vermögenswerts zu bestimmen, außer dass bei der Schätzung dieser Netto-Zahlungsströme
+a) 
+
+ein Unternehmen die Preise verwendet, die zum Zeitpunkt der Schätzung für ähnliche Vermögenswerte gelten, die das Ende ihrer Nutzungsdauer erreicht haben und die unter Bedingungen betrieben wurden, die mit den Bedingungen vergleichbar sind, unter denen der Vermögenswert genutzt werden soll,
+b) 
+
+das Unternehmen diese Preise im Hinblick auf die Auswirkungen künftiger Preiserhöhungen aufgrund der allgemeinen Inflation und spezieller künftiger Preissteigerungen/-senkungen anpasst. Wenn die Schätzungen der künftigen Zahlungsströme aus der fortgesetzten Nutzung des Vermögenswerts und des Abzinsungssatzes die Wirkung der allgemeinen Inflation indes nicht einbeziehen, dann berücksichtigt das Unternehmen diese Wirkung auch nicht bei der Schätzung der Netto-Zahlungsströme des Abgangs.
+
+53A Der beizulegende Zeitwert weicht vom Nutzungswert ab. Der beizulegende Zeitwert spiegelt die Annahmen wider, die Marktteilnehmer bei der Preisbildung für den Vermögenswert anwenden würden. Der Nutzungswert dagegen spiegelt die Auswirkungen von Faktoren wider, die nur für das Unternehmen zutreffen können und für Unternehmen im Allgemeinen nicht unbedingt anwendbar sind. Beispielsweise werden die folgenden Faktoren, soweit sie Marktteilnehmern im Allgemeinen nicht ohne Weiteres zur Verfügung stehen würden, nicht im beizulegenden Zeitwert abgebildet:
+a) 
+
+der zusätzliche Wert, der sich aus der Zusammenfassung von Vermögenswerten (beispielsweise aus der Schaffung eines Portfolios von als Finanzinvestitionen gehaltenen Immobilien an verschiedenen Standorten) ergibt,
+b) 
+
+Synergien zwischen dem zu bewertenden und anderen Vermögenswerten,
+c) 
+
+Rechtsansprüche oder rechtliche Einschränkungen, die ausschließlich für den gegenwärtigen Eigentümer des Vermögenswerts bestehen, und
+d) 
+
+Steuervorteile oder Steuerbelastungen, die ausschließlich für den gegenwärtigen Eigentümer des Vermögenswerts bestehen.
+
+Künftige Zahlungsströme in Fremdwährung
+
+54 Künftige Zahlungsströme werden in der Währung geschätzt, in der sie generiert werden, und werden mit einem für diese Währung angemessenen Abzinsungssatz abgezinst. Ein Unternehmen rechnet den Barwert mithilfe des am Tag der Berechnung des Nutzungswerts geltenden Devisenkassakurses um.
+
+Abzinsungssatz
+
+55   Bei dem Abzinsungssatz/den Abzinsungssätzen muss es sich um einen Zinssatz/Zinssätze vor Steuern handeln, der/die die gegenwärtigen Marktbewertungen folgender Faktoren widerspiegelt/widerspiegeln:
+a) 
+
+des Zinseffekts und
+b) 
+
+der speziellen Risiken eines Vermögenswerts, für die die geschätzten künftigen Zahlungsströme nicht angepasst wurden.
+
+56 Ein Zinssatz, der die gegenwärtigen Marktbewertungen des Zinseffekts und der speziellen Risiken eines Vermögenswerts widerspiegelt, ist die Rendite, die Investoren verlangen würden, wenn sie eine Finanzinvestition zu wählen hätten, die Zahlungsströme über Beträge, Zeiträume und Risikoprofile erzeugen würde, die vergleichbar mit denen wären, die das Unternehmen von dem Vermögenswert zu erzielen erwartet. Dieser Zinssatz ist auf Basis des Zinssatzes zu schätzen, der bei gegenwärtigen Markttransaktionen für ähnliche Vermögenswerte verwendet wird, oder auf Basis der durchschnittlich gewichteten Kapitalkosten eines börsennotierten Unternehmens, das einen einzelnen Vermögenswert (oder einen Bestand an Vermögenswerten) hält, der mit dem zu überprüfenden Vermögenswert im Hinblick auf das Nutzungspotenzial und die Risiken vergleichbar ist. Der Abzinsungssatz/die Abzinsungssätze, der/die zur Berechnung des Nutzungswerts eines Vermögenswerts verwendet wird/werden, darf/dürfen jedoch keine Risiken widerspiegeln, für die die geschätzten künftigen Zahlungsströme bereits angepasst wurden. Andernfalls würden die Auswirkungen einiger Annahmen doppelt berücksichtigt.
+
+57 Wenn ein vermögenswertspezifischer Zinssatz nicht direkt über den Markt erhältlich ist, verwendet ein Unternehmen Ersatzfaktoren zur Schätzung des Abzinsungssatzes. Anhang A enthält zusätzliche Leitlinien zur Schätzung von Abzinsungssätzen unter diesen Umständen.
+
+ERFASSUNG UND BEWERTUNG EINES WERTMINDERUNGSAUFWANDS
+
+58 Die Paragraphen 59–64 enthalten die Vorschriften für die Erfassung und Bewertung eines Wertminderungsaufwands für einen einzelnen Vermögenswert mit Ausnahme eines Geschäfts- oder Firmenwerts. Die Erfassung und Bewertung des Wertminderungsaufwands einer zahlungsmittelgenerierenden Einheit und eines Geschäfts- oder Firmenwerts werden in den Paragraphen 65–108 behandelt.
+
+59   Nur dann, wenn der erzielbare Betrag eines Vermögenswerts geringer als sein Buchwert ist, ist der Buchwert des Vermögenswerts auf seinen erzielbaren Betrag zu verringern. Diese Verringerung stellt einen Wertminderungsaufwand dar.
+
+60   Ein Wertminderungsaufwand ist sofort erfolgswirksam zu erfassen, es sei denn, dass der Vermögenswert zum Neubewertungsbetrag nach einem anderen Standard (beispielsweise nach dem Neubewertungsmodell in IAS 16) bilanziert wird. Jeder Wertminderungsaufwand eines neu bewerteten Vermögenswerts ist als eine Abwertung aufgrund einer Neubewertung gemäß diesem anderen Standard zu behandeln.
+
+61 Ein Wertminderungsaufwand eines nicht neu bewerteten Vermögenswerts wird erfolgswirksam erfasst. Ein Wertminderungsaufwand eines neu bewerteten Vermögenswerts wird dahingegen im sonstigen Ergebnis erfasst, soweit der Wertminderungsaufwand nicht den in der Neubewertungsrücklage für denselben Vermögenswert ausgewiesenen Betrag übersteigt. Ein solcher Wertminderungsaufwand eines neu bewerteten Vermögenswerts führt zu einer Minderung der entsprechenden Neubewertungsrücklage.
+
+62   Wenn der geschätzte Betrag des Wertminderungsaufwands größer ist als der Buchwert des zugehörigen Vermögenswerts, hat ein Unternehmen nur dann eine Schuld anzusetzen, wenn dies von einem anderen Standard verlangt wird.
+
+63   Nach der Erfassung eines Wertminderungsaufwands ist die planmäßige Abschreibung eines Vermögenswerts in künftigen Perioden anzupassen, um den berichtigten Buchwert des Vermögenswerts, abzüglich eines etwaigen Restwerts systematisch über seine Restnutzungsdauer zu verteilen.
+
+64 Wenn ein Wertminderungsaufwand erfasst worden ist, werden alle damit in Beziehung stehenden latenten Steueransprüche oder -schulden nach IAS 12 bestimmt, indem der berichtigte Buchwert des Vermögenswerts mit seiner steuerlichen Basis verglichen wird (siehe erläuterndes Beispiel 3).
+
+ZAHLUNGSMITTELGENERIERENDE EINHEITEN UND GESCHÄFTS- ODER FIRMENWERT
+
+65 Die Paragraphen 66–108 und Anhang C enthalten die Vorschriften für die Identifizierung der zahlungsmittelgenerierenden Einheit, zu der ein Vermögenswert gehört, sowie für die Bestimmung des Buchwerts und die Erfassung der Wertminderungsaufwendungen für zahlungsmittelgenerierende Einheiten und Geschäfts- oder Firmenwerte.
+
+Identifizierung der zahlungsmittelgenerierenden Einheit, zu der ein Vermögenswert gehört
+
+66   Wenn ein Anhaltspunkt dafür vorliegt, dass ein Vermögenswert wertgemindert sein könnte, ist der erzielbare Betrag für den einzelnen Vermögenswert zu schätzen. Falls es nicht möglich ist, den erzielbaren Betrag für den einzelnen Vermögenswert zu schätzen, hat ein Unternehmen den erzielbaren Betrag der zahlungsmittelgenerierenden Einheit zu bestimmen, zu der der Vermögenswert gehört (die zahlungsmittelgenerierende Einheit des Vermögenswerts).
+
+67 Der erzielbare Betrag eines einzelnen Vermögenswerts kann nicht bestimmt werden, wenn
+a) 
+
+der Nutzungswert des Vermögenswerts Schätzungen zufolge nicht nahezu seinem beizulegenden Zeitwert abzüglich Veräußerungskosten entspricht (wenn beispielsweise die künftigen Zahlungsströme aus der fortgesetzten Nutzung des Vermögenswerts nicht als unbedeutend eingeschätzt werden können) und
+b) 
+
+der Vermögenswert keine Mittelzuflüsse erzeugt, die weitgehend unabhängig von denen anderer Vermögenswerte sind.
+
+In derartigen Fällen kann ein Nutzungswert und demzufolge ein erzielbarer Betrag nur für die zahlungsmittelgenerierende Einheit des Vermögenswerts bestimmt werden.
+
+Beispiel
+
+Ein Bergbauunternehmen besitzt eine private Eisenbahn zur Unterstützung seiner Bergbautätigkeit. Die private Eisenbahn könnte nur zum Schrottwert verkauft werden und sie erzeugt keine Mittelzuflüsse, die weitgehend unabhängig von den Mittelzuflüssen der anderen Vermögenswerte des Bergwerks sind.
+
+Es ist nicht möglich, den erzielbaren Betrag der privaten Eisenbahn zu schätzen, weil ihr Nutzungswert nicht bestimmt werden kann und wahrscheinlich von dem Schrottwert abweicht. Deshalb schätzt das Unternehmen den erzielbaren Betrag der zahlungsmittelgenerierenden Einheit, zu der die private Eisenbahn gehört, d. h. des Bergwerks als Ganzes.
+
+68 Wie in Paragraph 6 definiert, ist die zahlungsmittelgenerierende Einheit eines Vermögenswerts die kleinste Gruppe von Vermögenswerten, die den Vermögenswert enthält und Mittelzuflüsse erzeugt, die weitgehend unabhängig von den Mittelzuflüssen anderer Vermögenswerte oder anderer Gruppen von Vermögenswerten sind. Die Identifizierung der zahlungsmittelgenerierenden Einheit eines Vermögenswerts erfordert eine Ermessensentscheidung. Wenn der erzielbare Betrag nicht für einen einzelnen Vermögenswert bestimmt werden kann, identifiziert ein Unternehmen die kleinste Zusammenfassung von Vermögenswerten, die weitgehend unabhängige Mittelzuflüsse erzeugt.
+
+Beispiel
+
+Eine Busgesellschaft bietet Beförderungsleistungen im Rahmen eines Vertrags mit einer Gemeinde an, der auf fünf verschiedenen Strecken jeweils einen Mindestservice verlangt. Die auf jeder Strecke eingesetzten Vermögenswerte und die Zahlungsströme von jeder Strecke können gesondert identifiziert werden. Auf einer der Stecken wird ein erheblicher Verlust erwirtschaftet.
+
+Da das Unternehmen nicht die Möglichkeit hat, eine der Busrouten einzuschränken, sind die niedrigste Einheit identifizierbarer Mittelzuflüsse, die weitgehend von den Mittelzuflüssen anderer Vermögenswerte oder anderer Gruppen von Vermögenswerten unabhängig sind, die von den fünf Routen gemeinsam erzeugten Mittelzuflüsse. Die zahlungsmittelgenerierende Einheit für jede der Strecken ist die Busgesellschaft als Ganzes.
+
+69 Mittelzuflüsse sind die Zuflüsse von Zahlungsmitteln und Zahlungsmitteläquivalenten, die von Parteien außerhalb des Unternehmens zufließen. Bei der Identifizierung, ob die Mittelzuflüsse von einem Vermögenswert (oder einer Gruppe von Vermögenswerten) weitgehend von den Mittelzuflüssen anderer Vermögenswerte (oder anderer Gruppen von Vermögenswerten) unabhängig sind, berücksichtigt ein Unternehmen verschiedene Faktoren einschließlich der Frage, wie das Management die Unternehmenstätigkeiten steuert (z. B. nach Produktlinien, Geschäftsfeldern, einzelnen Standorten, Bezirken oder regionalen Gebieten), oder wie das Management Entscheidungen über die Fortsetzung oder den Abgang der Vermögenswerte bzw. die Einstellung von Unternehmenstätigkeiten trifft. Das erläuternde Beispiel 1 enthält Beispiele für die Identifizierung einer zahlungsmittelgenerierenden Einheit.
+
+70   Wenn ein aktiver Markt für die von einem Vermögenswert oder einer Gruppe von Vermögenswerten produzierten Erzeugnisse oder erstellten Dienstleistungen besteht, ist dieser Vermögenswert oder diese Gruppe von Vermögenswerten als eine zahlungsmittelgenerierende Einheit zu identifizieren, auch wenn die produzierten Erzeugnisse oder erstellten Dienstleistungen ganz oder teilweise intern genutzt werden. Wenn die von einem Vermögenswert oder einer zahlungsmittelgenerierenden Einheit erzeugten Mittelzuflüsse von der Berechnung interner Verrechnungspreise betroffen sind, so hat ein Unternehmen die bestmögliche Schätzung des Managements über den künftigen Preis/die künftigen Preise, der/die bei Transaktionen zu marktüblichen Bedingungen erzielt werden könnte/könnten, zu verwenden bei der Schätzung
+a) 
+
+der künftigen Mittelzuflüsse, die die zur Bestimmung des Nutzungswerts des Vermögenswerts oder der zahlungsmittelgenerierenden Einheit verwendet werden, und
+b) 
+
+der künftigen Mittelabflüsse, die zur Bestimmung des Nutzungswerts aller anderen von der Berechnung interner Verrechnungspreise betroffenen Vermögenswerte oder zahlungsmittelgenerierenden Einheiten verwendet werden.
+
+71 Auch wenn ein Teil oder die gesamten produzierten Erzeugnisse und erstellten Dienstleistungen, die von einem Vermögenswert oder einer Gruppe von Vermögenswerten erzeugt werden, von anderen Einheiten des Unternehmens genutzt werden (beispielsweise Produkte für eine Zwischenstufe im Produktionsprozess), bildet dieser Vermögenswert oder diese Gruppe von Vermögenswerten eine gesonderte zahlungsmittelgenerierende Einheit, wenn das Unternehmen diese produzierten Erzeugnisse und erstellten Dienstleistungen auf einem aktiven Markt verkaufen könnte. Das liegt daran, dass der Vermögenswert oder die Gruppe von Vermögenswerten Mittelzuflüsse erzeugen kann, die weitgehend von den Mittelzuflüssen von anderen Vermögenswerten oder anderen Gruppen von Vermögenswerten unabhängig wären. Bei der Verwendung von Informationen, die auf Finanzplänen/Vorhersagen basieren, die sich auf eine solche zahlungsmittelgenerierende Einheit oder auf einen anderen Vermögenswert bzw. eine andere zahlungsmittelgenerierende Einheit, die von der internen Verrechnungspreisermittlung betroffen ist, beziehen, passt ein Unternehmen diese Informationen an, wenn die internen Verrechnungspreise nicht die bestmögliche Schätzung des Managements über die künftigen Preise, die bei Transaktionen zu marktüblichen Bedingungen erzielt werden könnten, widerspiegeln.
+
+72   Zahlungsmittelgenerierende Einheiten sind von Periode zu Periode für dieselben Vermögenswerte oder Arten von Vermögenswerten stetig zu identifizieren, es sei denn, dass eine Änderung gerechtfertigt ist.
+
+73 Wenn ein Unternehmen bestimmt, dass ein Vermögenswert zu einer anderen zahlungsmittelgenerierenden Einheit als in den vorangegangenen Perioden gehört oder dass die Arten von Vermögenswerten, die zu der zahlungsmittelgenerierenden Einheit des Vermögenswerts zusammengefasst werden, sich geändert haben, verlangt Paragraph 130 Angaben über die zahlungsmittelgenerierende Einheit, wenn ein Wertminderungsaufwand für die zahlungsmittelgenerierende Einheit erfasst oder aufgeholt wird.
+
+Erzielbarer Betrag und Buchwert einer zahlungsmittelgenerierenden Einheit
+
+74 Der erzielbare Betrag einer zahlungsmittelgenerierenden Einheit ist der höhere der beiden Beträge aus beizulegendem Zeitwert abzüglich Veräußerungskosten und Nutzungswert einer zahlungsmittelgenerierenden Einheit. Für den Zweck der Bestimmung des erzielbaren Betrags einer zahlungsmittelgenerierenden Einheit ist jeder Verweis in den Paragraphen 19–57 auf „einen Vermögenswert“ als Verweis auf „eine zahlungsmittelgenerierende Einheit“ zu verstehen.
+
+75   Der Buchwert einer zahlungsmittelgenerierenden Einheit ist in Übereinstimmung mit der Art, in der der erzielbare Betrag einer zahlungsmittelgenerierenden Einheit bestimmt wird, zu ermitteln.
+
+76 Der Buchwert einer zahlungsmittelgenerierenden Einheit
+a) 
+
+enthält den Buchwert nur solcher Vermögenswerte, die der zahlungsmittelgenerierenden Einheit einzeln zugeordnet oder auf einer angemessenen und stetigen Basis zugeordnet werden können und die künftige Mittelzuflüsse erzeugen werden, die bei der Bestimmung des Nutzungswerts der zahlungsmittelgenerierenden Einheit verwendet wurden, und
+b) 
+
+enthält nicht den Buchwert einer angesetzten Schuld, es sei denn, dass der erzielbare Betrag der zahlungsmittelgenerierenden Einheit nicht ohne die Berücksichtigung dieser Schuld bestimmt werden kann.
+
+Das liegt daran, dass der beizulegende Zeitwert abzüglich Veräußerungskosten und der Nutzungswert einer zahlungsmittelgenerierenden Einheit unter Ausschluss der Zahlungsströme bestimmt werden, die sich auf die Vermögenswerte beziehen, die nicht Teil der zahlungsmittelgenerierenden Einheit sind und unter Ausschluss der bereits angesetzten Schulden (siehe Paragraphen 28 und 43).
+
+77 Soweit Vermögenswerte für die Beurteilung der Erzielbarkeit zusammengefasst werden, ist es wichtig, in die zahlungsmittelgenerierende Einheit alle Vermögenswerte einzubeziehen, die den entsprechenden Strom von Mittelzuflüssen erzeugen oder zu dessen Erzeugung verwendet werden. Andernfalls könnte die zahlungsmittelgenerierende Einheit als voll erzielbar erscheinen, obwohl tatsächlich ein Wertminderungsaufwand eingetreten ist. In einigen Fällen können gewisse Vermögenswerte einer zahlungsmittelgenerierenden Einheit nicht auf einer angemessenen und stetigen Basis zugeordnet werden, obwohl sie zu den geschätzten künftigen Zahlungsströmen einer zahlungsmittelgenerierenden Einheit beitragen. Dies kann beim Geschäfts- oder Firmenwert oder bei gemeinschaftlichen Vermögenswerten, wie den Vermögenswerten der Hauptverwaltung der Fall sein. In den Paragraphen 80–103 wird erläutert, wie mit diesen Vermögenswerten bei der Überprüfung einer zahlungsmittelgenerierenden Einheit auf Wertminderung zu verfahren ist.
+
+78 Es kann notwendig sein, gewisse angesetzte Schulden zu berücksichtigen, um den erzielbaren Betrag einer zahlungsmittelgenerierenden Einheit zu bestimmen. Dies könnte auftreten, wenn der Verkauf einer zahlungsmittelgenerierenden Einheit den Käufer verpflichtet, die Schuld zu übernehmen. In diesem Fall entspricht der beizulegende Zeitwert abzüglich Veräußerungskosten (oder die geschätzten Zahlungsströme aus dem endgültigen Abgang) einer zahlungsmittelgenerierenden Einheit dem Preis für den gemeinsamen Verkauf der Vermögenswerte der zahlungsmittelgenerierenden Einheit und der Schuld, abzüglich der Veräußerungskosten. Um einen aussagekräftigen Vergleich zwischen dem Buchwert einer zahlungsmittelgenerierenden Einheit und ihrem erzielbaren Betrag anzustellen, wird der Buchwert der Schuld bei der Bestimmung beider Werte, also sowohl des Nutzungswerts als auch des Buchwerts der zahlungsmittelgenerierenden Einheit, abgezogen.
+
+Beispiel
+
+Eine Gesellschaft betreibt ein Bergwerk in einem Staat, in dem der Eigentümer gesetzlich verpflichtet ist, den Bereich der Förderung nach Beendigung der Abbautätigkeiten wiederherzustellen. Die Kosten der Wiederherstellung schließen die Wiederherstellung der Oberfläche mit ein, welche entfernt werden musste, bevor die Abbautätigkeiten beginnen konnten. Eine Rückstellung für die Kosten der Wiederherstellung der Oberfläche wurde zu dem Zeitpunkt der Entfernung der Oberfläche angesetzt. Der zurückgestellte Betrag wurde als Teil der Anschaffungskosten des Bergwerks erfasst und über die Nutzungsdauer des Bergwerks planmäßig abgeschrieben. Der Buchwert der Rückstellung für die Kosten der Wiederherstellung beträgt 500 WE ( 25 ), dies entspricht dem Barwert der Kosten der Wiederherstellung.
+
+Das Unternehmen überprüft das Bergwerk auf Wertminderung. Die zahlungsmittelgenerierende Einheit des Bergwerks ist das Bergwerk als Ganzes. Das Unternehmen hat verschiedene Kaufangebote für das Bergwerk zu einem Preis von 800 WE erhalten. Dieser Preis berücksichtigt die Tatsache, dass der Käufer die Verpflichtung zur Wiederherstellung der Oberfläche übernehmen wird. Die Veräußerungskosten für das Bergwerk sind unbedeutend. Der Nutzungswert des Bergwerks beträgt annähernd 1200 WE, ohne die Kosten der Wiederherstellung. Der Buchwert des Bergwerks beträgt 1000 WE.
+
+Der beizulegende Zeitwert abzüglich Veräußerungskosten beträgt für die zahlungsmittelgenerierende Einheit 800 WE. Dieser Wert berücksichtigt die Kosten der Wiederherstellung, die bereits zurückgestellt worden sind. Infolgedessen wird der Nutzungswert der zahlungsmittelgenerierenden Einheit nach der Berücksichtigung der Kosten der Wiederherstellung bestimmt und auf 700 WE geschätzt (1200 WE minus 500 WE). Der Buchwert der zahlungsmittelgenerierenden Einheit beträgt 500 WE, dies entspricht dem Buchwert des Bergwerks (1000 WE), nach Abzug des Buchwerts der Rückstellung für die Kosten der Wiederherstellung (500 WE). Der erzielbare Betrag der zahlungsmittelgenerierenden Einheit ist also höher als ihr Buchwert.
+
+79 Aus praktischen Gründen wird der erzielbare Betrag einer zahlungsmittelgenerierenden Einheit mitunter nach Berücksichtigung von Vermögenswerten bestimmt, die nicht Teil der zahlungsmittelgenerierenden Einheit sind (beispielsweise Forderungen oder andere finanzielle Vermögenswerte), oder bereits angesetzter Schulden (beispielsweise Verbindlichkeiten, Pensionen und andere Rückstellungen). In diesen Fällen wird der Buchwert der zahlungsmittelgenerierenden Einheit um den Buchwert solcher Vermögenswerte erhöht und um den Buchwert solcher Schulden vermindert.
+
+Geschäfts- oder Firmenwert
+
+Zuordnung von Geschäfts- oder Firmenwert zu zahlungsmittelgenerierenden Einheiten
+
+80   Zum Zweck der Überprüfung auf Wertminderung muss ein Geschäfts- oder Firmenwert, der bei einem Unternehmenszusammenschluss erworben wurde, vom Übernahmetag an jeder der zahlungsmittelgenerierenden Einheiten bzw. Gruppen von zahlungsmittelgenerierenden Einheiten des erwerbenden Unternehmens, die aus den Synergien des Zusammenschlusses voraussichtlich Nutzen ziehen werden, zugeordnet werden, unabhängig davon, ob andere Vermögenswerte oder Schulden des erworbenen Unternehmens diesen Einheiten oder Gruppen von Einheiten zugewiesen werden. Jede Einheit oder Gruppe von Einheiten, der der Geschäfts- oder Firmenwert so zugeordnet worden ist,
+a) 
+
+hat die niedrigste Ebene innerhalb des Unternehmens darzustellen, auf der der Geschäfts- oder Firmenwert für interne Managementzwecke überwacht wird, und
+b) 
+
+darf nicht größer sein als ein Geschäftssegment vor Zusammenfassung, wie es in Paragraph 5 von IFRS 8 Geschäftssegmente definiert ist.
+
+81 Der bei einem Unternehmenszusammenschluss angesetzte Geschäfts- oder Firmenwert ist ein Vermögenswert, der den künftigen wirtschaftlichen Nutzen anderer bei dem Unternehmenszusammenschluss erworbener Vermögenswerte darstellt, die nicht einzeln identifiziert und getrennt angesetzt werden können. Der Geschäfts- oder Firmenwert erzeugt keine Zahlungsströme, die unabhängig von anderen Vermögenswerten oder Gruppen von Vermögenswerten sind, und trägt oft zu den Zahlungsströmen mehrerer zahlungsmittelgenerierender Einheiten bei. Mitunter kann ein Geschäfts- oder Firmenwert nicht ohne Willkür einzelnen zahlungsmittelgenerierenden Einheiten, sondern nur Gruppen von zahlungsmittelgenerierenden Einheiten zugeordnet werden. Daraus folgt, dass die niedrigste Ebene innerhalb des Unternehmens, auf der der Geschäfts- oder Firmenwert für interne Managementzwecke überwacht wird, zuweilen mehrere zahlungsmittelgenerierende Einheiten, auf die sich der Geschäfts- oder Firmenwert zwar bezieht, denen er jedoch nicht zugeordnet werden kann, umfasst. Die in den Paragraphen 83–99 und Anhang C aufgeführten Verweise auf zahlungsmittelgenerierende Einheiten, denen ein Geschäfts- oder Firmenwert zugeordnet ist, sind ebenso als Verweise auf Gruppen von zahlungsmittelgenerierenden Einheiten, denen ein Geschäfts- oder Firmenwert zugeordnet ist, zu verstehen.
+
+82 Die Anwendung der Vorschriften in Paragraph 80 führt dazu, dass der Geschäfts- oder Firmenwert auf einer Ebene auf Wertminderung überprüft wird, die die Art und Weise der Führung der Geschäftstätigkeit des Unternehmens widerspiegelt, mit der der Geschäfts- oder Firmenwert natürlich verbunden wäre. Die Entwicklung zusätzlicher Berichtssysteme ist daher in der Regel nicht erforderlich.
+
+83 Eine zahlungsmittelgenerierende Einheit, der ein Geschäfts- oder Firmenwert zwecks Überprüfung auf Wertminderung zugeordnet ist, fällt eventuell nicht mit der Ebene zusammen, der der Geschäfts- oder Firmenwert gemäß IAS 21 Auswirkungen von Wechselkursänderungen für die Bewertung von Währungsgewinnen/-verlusten zugeordnet ist. Wenn ein Unternehmen nach IAS 21 beispielsweise verpflichtet ist, den Geschäfts- oder Firmenwert für die Bewertung von Fremdwährungsgewinnen und -verlusten einer relativ niedrigen Ebene zuzuordnen, wird damit nicht verlangt, dass die Überprüfung auf Wertminderung des Geschäfts- oder Firmenwerts auf derselben Ebene zu erfolgen hat, es sei denn, der Geschäfts- oder Firmenwert wird auch auf dieser Ebene für interne Managementzwecke überwacht.
+
+84   Wenn die erstmalige Zuordnung eines bei einem Unternehmenszusammenschluss erworbenen Geschäfts- oder Firmenwerts nicht vor Ende des Geschäftsjahrs, in dem der Unternehmenszusammenschluss stattfand, erfolgen kann, muss die erstmalige Zuordnung vor dem Ende des ersten Geschäftsjahrs, das nach dem Erwerbszeitpunkt beginnt, erfolgt sein.
+
+85 Wenn die erstmalige Bilanzierung für einen Unternehmenszusammenschluss am Ende der Periode, in der der Zusammenschluss stattfand, nur vorläufig erfolgen kann, hat der Erwerber gemäß IFRS 3 Unternehmenszusammenschlüsse
+a) 
+
+mit jenen vorläufigen Werten den Zusammenschluss zu bilanzieren und
+b) 
+
+etwaige Anpassungen dieser vorläufigen Werte infolge der Fertigstellung der erstmaligen Bilanzierung innerhalb des Bewertungszeitraums, der zwölf Monate nach dem Erwerbszeitpunkt nicht überschreiten darf, zu erfassen.
+
+Unter diesen Umständen könnte es auch nicht möglich sein, die erstmalige Zuordnung des bei dem Zusammenschluss angesetzten Geschäfts- oder Firmenwerts vor dem Ende der Berichtsperiode, in der der Zusammenschluss stattfand, fertigzustellen. Wenn dies der Fall ist, gibt das Unternehmen die in Paragraph 133 geforderten Informationen an.
+
+86   Wenn ein Geschäfts- oder Firmenwert einer zahlungsmittelgenerierenden Einheit zugeordnet wurde, und das Unternehmen einen Geschäftsbereich innerhalb dieser Einheit veräußert, so ist der mit diesem veräußerten Geschäftsbereich verbundene Geschäfts- oder Firmenwert
+a) 
+
+bei der Feststellung des Gewinns oder Verlusts aus der Veräußerung in den Buchwert des Geschäftsbereiches einzubeziehen und
+b) 
+
+auf der Grundlage des relativen Werts des veräußerten Geschäftsbereichs und des zurückbehaltenen Teils der zahlungsmittelgenerierenden Einheit zu bewerten, es sei denn, das Unternehmen kann nachweisen, dass eine andere Methode den mit dem veräußerten Geschäftsbereich verbundenen Geschäfts- oder Firmenwert besser widerspiegelt.
+
+Beispiel
+
+Ein Unternehmen verkauft für 100 WE einen Geschäftsbereich, der Teil einer zahlungsmittelgenerierenden Einheit war, der ein Geschäfts- oder Firmenwert zugeordnet worden ist. Der der Einheit zugeordnete Geschäfts- oder Firmenwert kann nicht identifiziert oder mit einer Gruppe von Vermögenswerten auf einer niedrigeren Ebene als dieser Einheit verbunden werden, es sei denn willkürlich. Der erzielbare Betrag des zurückbehaltenen Teils der zahlungsmittelgenerierenden Einheit beträgt 300 WE.
+
+Da der der zahlungsmittelgenerierenden Einheit zugeordnete Geschäfts- oder Firmenwert nicht ohne Willkür identifiziert oder mit einer Gruppe von Vermögenswerten auf einer niedrigeren Ebene als dieser Einheit verbunden werden kann, wird der mit diesem veräußerten Geschäftsbereich verbundene Geschäfts- oder Firmenwert auf der Grundlage des relativen Werts des veräußerten Geschäftsbereichs und des zurückbehaltenen Teils der Einheit bewertet. 25 Prozent des der zahlungsmittelgenerierenden Einheit zugeordneten Geschäfts- oder Firmenwerts sind deshalb im Buchwert des verkauften Geschäftsbereichs enthalten.
+
+87   Wenn ein Unternehmen seine Berichtsstruktur in einer Weise reorganisiert, die die Zusammensetzung einer oder mehrerer zahlungsmittelgenerierender Einheiten, denen ein Geschäfts- oder Firmenwert zugeordnet ist, ändert, muss der Geschäfts- oder Firmenwert den betroffenen Einheiten neu zugeordnet werden. Diese Neuzuordnung hat unter Anwendung eines Ansatzes relativer Werte zu erfolgen, der dem ähnlich ist, der verwendet wird, wenn ein Unternehmen einen Geschäftsbereich innerhalb einer zahlungsmittelgenerierenden Einheit veräußert, es sei denn, das Unternehmen kann nachweisen, dass eine andere Methode den mit den reorganisierten Einheiten verbundenen Geschäfts- oder Firmenwert besser widerspiegelt.
+
+Beispiel
+
+Der Geschäfts- oder Firmenwert wurde bisher der zahlungsmittelgenerierenden Einheit A zugeordnet. Der A zugeordnete Geschäfts- oder Firmenwert kann nicht identifiziert oder mit einer Gruppe von Vermögenswerten auf einer niedrigeren Ebene als A verbunden werden, es sei denn willkürlich. A soll aufgeteilt und in drei andere zahlungsmittelgenerierende Einheiten, B, C und D, integriert werden.
+
+Da der zu A zugeordnete Geschäfts- oder Firmenwert nicht ohne Willkür identifiziert oder mit einer Gruppe von Vermögenswerten auf einer niedrigeren Ebene als A verbunden werden kann, wird er auf der Grundlage des relativen Werts der drei Teile von A, bevor diese Teile in B, C und D integriert werden, den Einheiten B, C und D neu zugeordnet.
+
+Überprüfung von zahlungsmittelgenerierenden Einheiten mit einem Geschäfts- oder Firmenwert auf Wertminderung
+
+88   Wenn sich der Geschäfts- oder Firmenwert, wie in Paragraph 81 beschrieben, auf eine zahlungsmittelgenerierende Einheit bezieht, dieser jedoch nicht zugeordnet ist, so ist die Einheit auf Wertminderung zu überprüfen, wann immer es einen Anhaltspunkt dafür gibt, dass die Einheit wertgemindert sein könnte, indem der Buchwert der Einheit ohne den Geschäfts- oder Firmenwert mit ihrem erzielbaren Betrag verglichen wird. Jeglicher Wertminderungsaufwand ist gemäß Paragraph 104 zu erfassen.
+
+89 Wenn eine zahlungsmittelgenerierende Einheit, wie in Paragraph 88 beschrieben, in ihrem Buchwert einen immateriellen Vermögenswert mit unbegrenzter Nutzungsdauer oder einen noch nicht nutzungsbereiten Vermögenswert enthält, und dieser Vermögenswert nur als Teil der zahlungsmittelgenerierenden Einheit auf Wertminderung überprüft werden kann, so verlangt Paragraph 10, dass diese Einheit auch jährlich auf Wertminderung geprüft wird.
+
+90   Eine zahlungsmittelgenerierende Einheit, der ein Geschäfts- oder Firmenwert zugeordnet worden ist, ist jährlich und, wann immer es einen Anhaltspunkt dafür gibt, dass die Einheit wertgemindert sein könnte, auf Wertminderung zu überprüfen, indem der Buchwert der Einheit, einschließlich des Geschäfts- oder Firmenwerts, mit dem erzielbaren Betrag der Einheit verglichen wird. Wenn der erzielbare Betrag der Einheit höher ist als ihr Buchwert, so sind die Einheit und der ihr zugeordnete Geschäfts- oder Firmenwert als nicht wertgemindert anzusehen. Wenn der Buchwert der Einheit höher ist als ihr erzielbarer Betrag, so hat das Unternehmen den Wertminderungsaufwand gemäß Paragraph 104 zu erfassen.
+
+91–95 [gestrichen]
+
+Zeitpunkt der Überprüfungen auf Wertminderung
+
+96   Die jährliche Überprüfung auf Wertminderung für zahlungsmittelgenerierende Einheiten mit zugeordnetem Geschäfts- oder Firmenwert kann im Laufe des Geschäftsjahrs jederzeit durchgeführt werden, vorausgesetzt, dass die Prüfung jedes Jahr zur selben Zeit stattfindet. Verschiedene zahlungsmittelgenerierende Einheiten können zu unterschiedlichen Zeiten auf Wertminderung überprüft werden. Wenn jedoch einige oder alle Geschäfts- oder Firmenwerte, die einer zahlungsmittelgenerierenden Einheit zugeordnet sind, bei einem Unternehmenszusammenschluss im Laufe des aktuellen Geschäftsjahrs erworben wurden, so ist diese Einheit vor Ablauf des aktuellen jährlichen Geschäftsjahrs auf Wertminderung zu überprüfen.
+
+97   Wenn die Vermögenswerte, aus denen die zahlungsmittelgenerierende Einheit besteht, der ein Geschäfts- oder Firmenwert zugeordnet worden ist, zur selben Zeit auf Wertminderung überprüft werden wie die Einheit, die den Geschäfts- oder Firmenwert enthält, so sind sie vor der den Geschäfts- oder Firmenwert enthaltenen Einheit auf Wertminderung zu überprüfen. Ähnlich ist es, wenn die zahlungsmittelgenerierenden Einheiten, aus denen eine Gruppe von zahlungsmittelgenerierenden Einheiten besteht, der ein Geschäfts- oder Firmenwert zugeordnet worden ist, zur selben Zeit auf Wertminderung geprüft werden wie die Gruppe von Einheiten, die den Geschäfts- oder Firmenwert enthält; in diesem Fall sind die einzelnen Einheiten vor der den Geschäfts- oder Firmenwert enthaltenen Gruppe von Einheiten auf Wertminderung zu überprüfen.
+
+98 Zum Zeitpunkt der Überprüfung einer zahlungsmittelgenerierenden Einheit, der ein Geschäfts- oder Firmenwert zugeordnet worden ist, auf Wertminderung könnte es einen Anhaltspunkt auf eine Wertminderung bei einem Vermögenswert innerhalb der Einheit, die den Geschäfts- oder Firmenwert enthält, geben. Unter diesen Umständen überprüft das Unternehmen zuerst den Vermögenswert auf Wertminderung und erfasst jeglichen Wertminderungsaufwand für diesen Vermögenswert, ehe es die den Geschäfts- oder Firmenwert enthaltende zahlungsmittelgenerierende Einheit auf Wertminderung überprüft. Entsprechend könnte es einen Anhaltspunkt für eine Wertminderung bei einer zahlungsmittelgenerierenden Einheit innerhalb einer Gruppe von Einheiten, die den Geschäfts- oder Firmenwert enthält, geben. Unter diesen Umständen überprüft das Unternehmen zuerst die zahlungsmittelgenerierende Einheit auf Wertminderung und erfasst jeglichen Wertminderungsaufwand für diese Einheit, ehe es die Gruppe von Einheiten, der der Geschäfts- oder Firmenwert zugeordnet ist, auf Wertminderung überprüft.
+
+99   Die jüngste ausführliche, in einer vorhergehenden Periode durchgeführte Berechnung des erzielbaren Betrags einer zahlungsmittelgenerierenden Einheit, der ein Geschäfts- oder Firmenwert zugeordnet worden ist, kann für die Überprüfung dieser Einheit auf Wertminderung in der aktuellen Periode verwendet werden, vorausgesetzt, dass alle folgenden Kriterien erfüllt sind:
+a) 
+
+die Vermögenswerte und Schulden, die diese Einheit bilden, haben sich seit der jüngsten Berechnung des erzielbaren Betrags nicht wesentlich geändert,
+b) 
+
+die jüngste Berechnung des erzielbaren Betrags ergab einen Betrag, der den Buchwert der Einheit wesentlich überstieg, und
+c) 
+
+auf der Grundlage einer Analyse der seit der jüngsten Berechnung des erzielbaren Betrags eingetretenen Ereignisse und geänderten Umstände ist die Wahrscheinlichkeit, dass bei einer aktuellen Ermittlung der erzielbare Betrag niedriger als der aktuelle Buchwert der Einheit sein würde, sehr gering.
+
+Gemeinschaftliche Vermögenswerte
+
+100 Gemeinschaftliche Vermögenswerte umfassen Vermögenswerte des Konzerns oder einzelner Unternehmensbereiche, wie das Gebäude der Hauptverwaltung oder eines Geschäftsbereichs, EDV-Ausrüstung oder ein Forschungszentrum. Die Struktur eines Unternehmens bestimmt, ob ein Vermögenswert die Definition dieses Standards für gemeinschaftliche Vermögenswerte einer bestimmten zahlungsmittelgenerierenden Einheit erfüllt. Die charakteristischen Merkmale von gemeinschaftlichen Vermögenswerten sind, dass sie keine Mittelzuflüsse erzeugen, die unabhängig von anderen Vermögenswerten oder Gruppen von Vermögenswerten sind, und dass ihr Buchwert der zu prüfenden zahlungsmittelgenerierenden Einheit nicht vollständig zugeordnet werden kann.
+
+101 Da gemeinschaftliche Vermögenswerte keine gesonderten Mittelzuflüsse erzeugen, kann der erzielbare Betrag eines einzelnen gemeinschaftlichen Vermögenswerts nicht bestimmt werden, sofern das Management nicht den Verkauf des Vermögenswerts beschlossen hat. Wenn daher ein Anhaltspunkt dafür vorliegt, dass ein gemeinschaftlicher Vermögenswert wertgemindert sein könnte, wird der erzielbare Betrag für die zahlungsmittelgenerierende Einheit oder die Gruppe von zahlungsmittelgenerierenden Einheiten bestimmt, zu der der gemeinschaftliche Vermögenswert gehört, der dann mit dem Buchwert dieser zahlungsmittelgenerierenden Einheit oder Gruppe von zahlungsmittelgenerierenden Einheiten verglichen wird. Jeglicher Wertminderungsaufwand ist gemäß Paragraph 104 zu erfassen.
+
+102   Bei der Überprüfung einer zahlungsmittelgenerierenden Einheit auf Wertminderung hat ein Unternehmen alle gemeinschaftlichen Vermögenswerte zu bestimmen, die zu der zu überprüfenden zahlungsmittelgenerierenden Einheit in Beziehung stehen. Wenn ein Teil des Buchwerts eines gemeinschaftlichen Vermögenswerts
+a) 
+
+dieser Einheit auf einer angemessenen und stetigen Basis zugeordnet werden kann, hat das Unternehmen den Buchwert der Einheit, einschließlich des Teils des Buchwerts des gemeinschaftlichen Vermögenswerts, der der Einheit zugeordnet ist, mit deren erzielbaren Betrag zu vergleichen. Jeglicher Wertminderungsaufwand ist gemäß Paragraph 104 zu erfassen.
+b) 
+
+dieser Einheit nicht auf einer angemessenen und stetigen Basis zugeordnet werden kann, hat das Unternehmen
+i) 
+
+den Buchwert der Einheit ohne den gemeinschaftlichen Vermögenswert mit deren erzielbaren Betrag zu vergleichen und jeglichen Wertminderungsaufwand gemäß Paragraph 104 zu erfassen,
+ii) 
+
+die kleinste Gruppe von zahlungsmittelgenerierenden Einheiten zu bestimmen, die die zu überprüfende zahlungsmittelgenerierende Einheit enthält und der ein Teil des Buchwerts des gemeinschaftlichen Vermögenswerts auf einer angemessenen und stetigen Basis zugeordnet werden kann, und
+iii) 
+
+den Buchwert dieser Gruppe von zahlungsmittelgenerierenden Einheiten, einschließlich des Teils des Buchwerts des gemeinschaftlichen Vermögenswerts, der dieser Gruppe von Einheiten zugeordnet ist, mit dem erzielbaren Betrag der Gruppe von Einheiten zu vergleichen. Jeglicher Wertminderungsaufwand ist gemäß Paragraph 104 zu erfassen.
+
+103 Das erläuternde Beispiel 8 veranschaulicht die Anwendung dieser Vorschriften auf gemeinschaftliche Vermögenswerte.
+
+Wertminderungsaufwand für eine zahlungsmittelgenerierende Einheit
+
+104   Ein Wertminderungsaufwand ist nur dann für eine zahlungsmittelgenerierende Einheit (die kleinste Gruppe von zahlungsmittelgenerierenden Einheiten, der ein Geschäfts- oder Firmenwert bzw. ein gemeinschaftlicher Vermögenswert zugeordnet worden ist) zu erfassen, wenn der erzielbare Betrag der Einheit (Gruppe von Einheiten) geringer ist als der Buchwert der Einheit (Gruppe von Einheiten). Der Wertminderungsaufwand ist folgendermaßen zu verteilen, um den Buchwert der Vermögenswerte der Einheit (Gruppe von Einheiten) in der folgenden Reihenfolge zu vermindern:
+a) 
+
+zuerst den Buchwert jeglichen Geschäfts- oder Firmenwerts, der der zahlungsmittelgenerierenden Einheit (Gruppe von Einheiten) zugeordnet ist, und
+b) 
+
+dann anteilig die anderen Vermögenswerte der Einheit (Gruppe von Einheiten) auf Basis des Buchwerts jedes einzelnen Vermögenswerts der Einheit (Gruppe von Einheiten).
+
+Diese Verminderungen der Buchwerte sind als Wertminderungsaufwendungen für einzelne Vermögenswerte zu behandeln und gemäß Paragraph 60 zu erfassen.
+
+105   Bei der Zuordnung eines Wertminderungsaufwands gemäß Paragraph 104 darf ein Unternehmen den Buchwert eines Vermögenswerts nicht unter den höchsten der folgenden Werte vermindern:
+a) 
+
+seinen beizulegenden Zeitwert abzüglich Veräußerungskosten (sofern ermittelbar),
+b) 
+
+seinen Nutzungswert (sofern bestimmbar) und
+c) 
+
+null.
+
+Der Betrag des Wertminderungsaufwands, der andernfalls dem Vermögenswert zugeordnet worden wäre, ist anteilig den anderen Vermögenswerten der Einheit (Gruppe von Einheiten) zuzuordnen.
+
+106 Ist es nicht durchführbar, den für jeden einzelnen Vermögenswert der zahlungsmittelgenerierenden Einheit erzielbaren Betrag zu schätzen, verlangt dieser Standard eine willkürliche Zuordnung des Wertminderungsaufwands auf die Vermögenswerte der Einheit, mit Ausnahme des Geschäfts- oder Firmenwerts, da alle Vermögenswerte der zahlungsmittelgenerierenden Einheit miteinander verknüpft sind.
+
+107 Wenn der erzielbare Betrag eines einzelnen Vermögenswerts nicht bestimmt werden kann (siehe Paragraph 67),
+a) 
+
+wird ein Wertminderungsaufwand für den Vermögenswert erfasst, wenn dessen Buchwert größer ist als der höhere der beiden Beträge aus beizulegendem Zeitwert abzüglich Veräußerungskosten und dem Ergebnis der in den Paragraphen 104 und 105 beschriebenen Zuordnungsverfahren, und
+b) 
+
+wird kein Wertminderungsaufwand für den Vermögenswert erfasst, wenn die damit verbundene zahlungsmittelgenerierende Einheit nicht wertgemindert ist. Dies gilt auch dann, wenn der beizulegende Zeitwert abzüglich Veräußerungskosten des Vermögenswerts unter dessen Buchwert liegt.
+
+Beispiel
+
+Eine Maschine wurde beschädigt, funktioniert aber noch, wenn auch nicht so gut wie vor der Beschädigung. Der beizulegende Zeitwert abzüglich Veräußerungskosten der Maschine ist geringer als deren Buchwert. Die Maschine erzeugt keine unabhängigen Mittelzuflüsse. Die kleinste identifizierbare Gruppe von Vermögenswerten, die die Maschine umfasst und die Mittelzuflüsse erzeugt, die weitgehend unabhängig von den Mittelzuflüssen anderer Vermögenswerte sind, ist die Produktionslinie, zu der die Maschine gehört. Der erzielbare Betrag der Produktionslinie zeigt, dass die Produktionslinie als Ganzes nicht wertgemindert ist.
+
+Annahme 1: Die vom Management genehmigten Pläne/Vorhersagen enthalten keine Verpflichtung des Managements, die Maschine zu ersetzen.
+
+Der erzielbare Betrag der Maschine allein kann nicht geschätzt werden, da der Nutzungswert der Maschine
+a) 
+
+von deren beizulegendem Zeitwert abzüglich Veräußerungskosten abweichen kann, und
+b) 
+
+nur für die zahlungsmittelgenerierende Einheit, zu der die Maschine gehört (die Produktionslinie), bestimmt werden kann.
+
+Die Produktionslinie ist nicht wertgemindert. Deshalb wird kein Wertminderungsaufwand für die Maschine erfasst. Dennoch kann es notwendig sein, dass das Unternehmen den Abschreibungszeitraum oder die Abschreibungsmethode für die Maschine neu festsetzt. Vielleicht ist ein kürzerer Abschreibungszeitraum oder eine schnellere Abschreibungsmethode erforderlich, um die erwartete Restnutzungsdauer der Maschine oder den Verlauf, nach dem der wirtschaftliche Nutzen von dem Unternehmen voraussichtlich verbraucht wird, widerzuspiegeln.
+
+Annahme 2: Die vom Management gebilligten Pläne/Vorhersagen enthalten eine Verpflichtung des Managements, die Maschine zu ersetzen und sie in naher Zukunft zu verkaufen. Die Zahlungsströme aus der fortgesetzten Nutzung der Maschine bis zu ihrem Verkauf werden als unbedeutend eingeschätzt.
+
+Der Nutzungswert der Maschine entspricht Schätzungen zufolge nahezu dem beizulegenden Zeitwert abzüglich Veräußerungskosten. Der erzielbare Betrag der Maschine kann demzufolge bestimmt werden, und die zahlungsmittelgenerierende Einheit, zu der die Maschine gehört (d. h. die Produktionslinie), wird nicht berücksichtigt. Da der beizulegende Zeitwert abzüglich Veräußerungskosten der Maschine geringer ist als deren Buchwert, wird ein Wertminderungsaufwand für die Maschine erfasst.
+
+108   Nach Anwendung der Vorschriften der Paragraphen 104 und 105 ist eine Schuld für jeden verbleibenden Restbetrag eines Wertminderungsaufwands einer zahlungsmittelgenerierenden Einheit nur dann anzusetzen, wenn dies von einem anderen IFRS verlangt wird.
+
+WERTAUFHOLUNG
+
+109 Die Paragraphen 110–116 enthalten die Vorschriften für die Aufholung eines in früheren Perioden für einen Vermögenswert oder eine zahlungsmittelgenerierende Einheit erfassten Wertminderungsaufwands. In diesen Vorschriften wird der Begriff „ein Vermögenswert“ verwendet, sie sind aber ebenso auf einen einzelnen Vermögenswert wie auf eine zahlungsmittelgenerierende Einheit anzuwenden. Zusätzliche Vorschriften sind für einen einzelnen Vermögenswert in den Paragraphen 117–121, für eine zahlungsmittelgenerierende Einheit in den Paragraphen 122 und 123 und für den Geschäfts- oder Firmenwert in den Paragraphen 124 und 125 festgelegt.
+
+110   Ein Unternehmen hat an jedem Abschlussstichtag zu prüfen, ob ein Anhaltspunkt dafür vorliegt, dass ein Wertminderungsaufwand, der für einen Vermögenswert mit Ausnahme eines Geschäfts- oder Firmenwerts in früheren Perioden erfasst worden ist, nicht länger besteht oder sich vermindert haben könnte. Wenn ein solcher Anhaltspunkt vorliegt, hat das Unternehmen den erzielbaren Betrag dieses Vermögenswerts zu schätzen.
+
+111   Bei der Beurteilung, ob ein Anhaltspunkt dafür vorliegt, dass ein Wertminderungsaufwand, der für einen Vermögenswert mit Ausnahme eines Geschäfts- oder Firmenwerts in früheren Perioden erfasst wurde, nicht länger besteht oder sich verringert haben könnte, hat ein Unternehmen mindestens die folgenden Anhaltspunkte zu berücksichtigen:
+Externe Informationsquellen
+a) 
+
+Es bestehen beobachtbare Anhaltspunkte dafür, dass der Wert des Vermögenswerts während der Periode signifikant gestiegen ist.
+b) 
+
+Während der Periode sind signifikante Veränderungen mit günstigen Folgen für das Unternehmen im technischen, marktbezogenen, wirtschaftlichen oder rechtlichen Umfeld, in welchem das Unternehmen tätig ist oder in Bezug auf den Markt, für den der Vermögenswert bestimmt ist, eingetreten, oder werden in näherer Zukunft eintreten.
+c) 
+
+Die Marktzinssätze oder andere Marktrenditen sind während der Periode gesunken, und diese Rückgänge werden sich wahrscheinlich auf den Abzinsungssatz, der für die Berechnung des Nutzungswerts herangezogen wird, auswirken und den erzielbaren Betrag des Vermögenswerts wesentlich erhöhen.
+Interne Informationsquellen
+d) 
+
+Während der Periode sind signifikante Veränderungen mit günstigen Folgen für das Unternehmen in dem Umfang oder der Weise, in dem bzw. der der Vermögenswert genutzt wird oder voraussichtlich genutzt werden wird, eingetreten oder werden für die nähere Zukunft erwartet. Diese Veränderungen umfassen Kosten, die während der Periode entstanden sind, um die Ertragskraft eines Vermögenswerts zu verbessern bzw. zu erhöhen oder den Betrieb zu restrukturieren, zu dem der Vermögenswert gehört.
+e) 
+
+Das interne Berichtswesen liefert Anhaltspunkte dafür, dass die wirtschaftliche Ertragskraft eines Vermögenswerts besser ist oder sein wird als erwartet.
+
+112 Die Anhaltspunkte für eine mögliche Verringerung eines Wertminderungsaufwands in Paragraph 111 spiegeln weitgehend die Anhaltspunkte für einen möglichen Wertminderungsaufwand nach Paragraph 12 wider.
+
+113 Wenn ein Anhaltspunkt dafür vorliegt, dass ein erfasster Wertminderungsaufwand für einen Vermögenswert mit Ausnahme eines Geschäfts- oder Firmenwerts nicht mehr länger besteht oder sich verringert hat, kann dies darauf hindeuten, dass die Restnutzungsdauer, die Abschreibungsmethode oder der Restwert überprüft und gemäß dem auf den Vermögenswert anzuwendenden IFRS angepasst werden muss, auch wenn kein Wertminderungsaufwand für den Vermögenswert aufgeholt wird.
+
+114   Ein in früheren Perioden für einen Vermögenswert mit Ausnahme eines Geschäfts- oder Firmenwerts erfasster Wertminderungsaufwand ist nur dann aufzuholen, wenn sich seit der Erfassung des letzten Wertminderungsaufwands eine Änderung in den Schätzungen ergeben hat, die bei der Bestimmung des erzielbaren Betrags herangezogen wurden. Wenn dies der Fall ist, ist der Buchwert des Vermögenswerts auf seinen erzielbaren Betrag zu erhöhen, es sei denn, Paragraph 117 sieht etwas Anderes vor. Diese Erhöhung ist eine Wertaufholung.
+
+115 Eine Wertaufholung spiegelt eine Erhöhung des geschätzten Leistungspotenzials eines Vermögenswerts entweder durch Nutzung oder Verkauf seit dem Zeitpunkt wider, an dem ein Unternehmen zuletzt einen Wertminderungsaufwand für diesen Vermögenswert erfasst hat. Paragraph 130 verlangt von einem Unternehmen, die Änderung von Schätzungen zu identifizieren, die einen Anstieg des geschätzten Leistungspotenzials begründen. Beispiele für Änderungen von Schätzungen umfassen:
+a) 
+
+eine Änderung der Grundlage des erzielbaren Betrags (d. h., ob der erzielbare Betrag auf dem beizulegenden Zeitwert abzüglich Veräußerungskosten oder auf dem Nutzungswert basiert),
+b) 
+
+falls der erzielbare Betrag auf dem Nutzungswert basierte, eine Änderung des Betrags oder des zeitlichen Anfalls der geschätzten künftigen Zahlungsströme oder des Abzinsungssatzes, oder
+c) 
+
+falls der erzielbare Betrag auf dem beizulegenden Zeitwert abzüglich Veräußerungskosten basierte, eine Änderung der Schätzung der Bestandteile des beizulegenden Zeitwerts abzüglich Veräußerungskosten.
+
+116 Der Nutzungswert eines Vermögenswerts kann den Buchwert des Vermögenswerts aus dem einfachen Grund übersteigen, dass sich der Barwert der künftigen Mittelzuflüsse erhöht, wenn diese zeitlich näherkommen. Das Leistungspotenzial des Vermögenswerts hat sich indes nicht erhöht. Ein Wertminderungsaufwand wird daher nicht nur wegen des Zeitablaufs (manchmal als Abwicklung der Diskontierung oder Aufzinsung bezeichnet) aufgeholt, auch wenn der erzielbare Betrag des Vermögenswerts dessen Buchwert übersteigt.
+
+Wertaufholung für einen einzelnen Vermögenswert
+
+117   Der infolge einer Wertaufholung erhöhte Buchwert eines Vermögenswerts mit Ausnahme eines Geschäfts- oder Firmenwerts darf nicht den Buchwert übersteigen, der (abzüglich planmäßiger Abschreibungen) bestimmt worden wäre, wenn in den früheren Jahren kein Wertminderungsaufwand erfasst worden wäre.
+
+118 Jede Erhöhung des Buchwerts eines Vermögenswerts, mit Ausnahme eines Geschäfts- oder Firmenwerts, über den Buchwert hinaus, der (abzüglich planmäßiger Abschreibungen) bestimmt worden wäre, wenn in den früheren Jahren kein Wertminderungsaufwand erfasst worden wäre, ist eine Neubewertung. Bei der Bilanzierung einer solchen Neubewertung wendet ein Unternehmen den auf den Vermögenswert anwendbaren IFRS an.
+
+119   Eine Wertaufholung eines Vermögenswerts, mit Ausnahme eines Geschäfts- oder Firmenwerts, ist sofort erfolgswirksam zu erfassen, es sei denn, dass der Vermögenswert zum Neubewertungsbetrag nach einem anderen IFRS (beispielsweise nach dem Modell der Neubewertung in IAS 16) bilanziert wird. Jede Wertaufholung eines neu bewerteten Vermögenswerts ist als Wertsteigerung aufgrund einer Neubewertung gemäß diesem anderen IFRS zu behandeln.
+
+120 Eine Wertaufholung eines neu bewerteten Vermögenswerts wird im sonstigen Ergebnis mit einer entsprechenden Erhöhung der Neubewertungsrücklage für diesen Vermögenswert erfasst. Bis zu dem Betrag jedoch, zu dem ein Wertminderungsaufwand für denselben neu bewerteten Vermögenswert vorher erfolgswirksam erfasst wurde, wird eine Wertaufholung ebenso erfolgswirksam erfasst.
+
+121   Nachdem eine Wertaufholung erfasst worden ist, ist die planmäßige Abschreibung des Vermögenswerts in künftigen Perioden anzupassen, um den berichtigten Buchwert des Vermögenswerts abzüglich eines etwaigen Restbuchwerts systematisch auf seine Restnutzungsdauer zu verteilen.
+
+Wertaufholung für eine zahlungsmittelgenerierende Einheit
+
+122   Eine Wertaufholung für eine zahlungsmittelgenerierende Einheit ist den Vermögenswerten der Einheit, bis auf den Geschäfts- oder Firmenwert, anteilig auf Basis des Buchwerts dieser Vermögenswerte zuzuordnen. Diese Erhöhungen der Buchwerte sind als Wertaufholungen für einzelne Vermögenswerte zu behandeln und gemäß Paragraph 119 zu erfassen.
+
+123   Bei der Zuordnung einer Wertaufholung für eine zahlungsmittelgenerierende Einheit gemäß Paragraph 122 ist der Buchwert eines Vermögenswerts nicht über den niedrigeren der folgenden Werte zu erhöhen:
+a) 
+
+seinen erzielbaren Betrag (sofern bestimmbar) und
+b) 
+
+den Buchwert, der (abzüglich planmäßiger Abschreibungen) bestimmt worden wäre, wenn in früheren Perioden kein Wertminderungsaufwand für den Vermögenswert erfasst worden wäre.
+
+Der Betrag der Wertaufholung, der andernfalls dem Vermögenswert zugeordnet worden wäre, ist anteilig den anderen Vermögenswerten der Einheit, mit Ausnahme des Geschäfts- oder Firmenwerts, zuzuordnen.
+
+Wertaufholung für einen Geschäfts- oder Firmenwert
+
+124   Ein für einen Geschäfts- oder Firmenwert erfasster Wertminderungsaufwand darf nicht in einer nachfolgenden Periode aufgeholt werden.
+
+125 IAS 38 Immaterielle Vermögenswerte verbietet den Ansatz eines selbst geschaffenen Geschäfts- oder Firmenwerts. Bei jeder Erhöhung des erzielbaren Betrags des Geschäfts- oder Firmenwerts, die in Perioden nach der Erfassung des Wertminderungsaufwands für diesen Geschäfts- oder Firmenwert stattfindet, wird es sich wahrscheinlich eher um einen selbst geschaffenen Geschäfts- oder Firmenwert als um eine für den erworbenen Geschäfts- oder Firmenwert erfasste Wertaufholung handeln.
+
+ANGABEN
+
+126   Ein Unternehmen hat für jede Gruppe von Vermögenswerten die folgenden Angaben zu machen:
+a) 
+
+die Höhe der während der Periode erfolgswirksam erfassten Wertminderungsaufwendungen und der/die Posten der Gesamtergebnisrechnung, in dem/denen diese Wertminderungsaufwendungen enthalten sind,
+b) 
+
+die Höhe der während der Periode erfolgswirksam erfassten Wertaufholungen und der/die Posten der Gesamtergebnisrechnung, in dem/denen solche Wertaufholungen enthalten sind,
+c) 
+
+die Höhe der Wertminderungsaufwendungen bei neu bewerteten Vermögenswerten, die während der Periode im sonstigen Ergebnis erfasst wurden,
+d) 
+
+die Höhe der Wertaufholungen bei neu bewerteten Vermögenswerten, die während der Periode im sonstigen Ergebnis erfasst wurden.
+
+127 Eine Gruppe von Vermögenswerten ist eine Zusammenfassung von Vermögenswerten, die hinsichtlich ihrer Art und Verwendung innerhalb der Geschäftstätigkeit eines Unternehmens ähnlich sind.
+
+128 Die in Paragraph 126 verlangten Informationen können gemeinsam mit anderen Informationen für diese Gruppe von Vermögenswerten angegeben werden. Diese Informationen könnten beispielsweise in eine Überleitungsrechnung des Buchwerts der Sachanlagen am Anfang und am Ende der Periode, wie in IAS 16 gefordert, einbezogen werden.
+
+129   Ein Unternehmen, das gemäß IFRS 8 Segmentinformationen darstellt, hat für jedes berichtspflichtige Segment folgende Angaben zu machen:
+a) 
+
+die Höhe der Wertminderungsaufwendungen, die während der Periode erfolgswirksam und im sonstigen Ergebnis erfasst wurden,
+b) 
+
+die Höhe der Wertaufholungen, die während der Periode erfolgswirksam und im sonstigen Ergebnis erfasst wurden.
+
+130   Ein Unternehmen hat für einen einzelnen Vermögenswert (einschließlich Geschäfts- oder Firmenwert) oder eine zahlungsmittelgenerierende Einheit, für den bzw. die während der Periode ein Wertminderungsaufwand erfasst oder aufgeholt wurde, Folgendes anzugeben:
+a) 
+
+die Ereignisse und Umstände, die zu der Erfassung oder Wertaufholung geführt haben,
+b) 
+
+die Höhe des erfassten oder aufgeholten Wertminderungsaufwands,
+c) 
+
+für einen einzelnen Vermögenswert:
+i) 
+
+die Art des Vermögenswerts und
+ii) 
+
+falls das Unternehmen gemäß IFRS 8 Segmentinformationen darstellt, das berichtspflichtige Segment, zu dem der Vermögenswert gehört,
+d) 
+
+für eine zahlungsmittelgenerierende Einheit:
+i) 
+
+eine Beschreibung der zahlungsmittelgenerierenden Einheit (beispielsweise, ob es sich dabei um eine Produktlinie, ein Werk, eine Geschäftstätigkeit, einen geografischen Bereich oder ein berichtspflichtiges Segment, wie in IFRS 8 definiert, handelt),
+ii) 
+
+die Höhe des erfassten oder aufgeholten Wertminderungsaufwands für jede Gruppe von Vermögenswerten und, falls das Unternehmen gemäß IFRS 8 Segmentinformationen darstellt, für jedes berichtspflichtige Segment, und
+iii) 
+
+wenn sich die Zusammenfassung von Vermögenswerten für die Identifizierung der zahlungsmittelgenerierenden Einheit seit der vorhergehenden Schätzung des etwaig erzielbaren Betrags der zahlungsmittelgenerierenden Einheit geändert hat, eine Beschreibung der gegenwärtigen und der früheren Art der Zusammenfassung der Vermögenswerte sowie der Gründe für die Änderung der Art, wie die zahlungsmittelgenerierende Einheit identifiziert wird,
+e) 
+
+den für den Vermögenswert (die zahlungsmittelgenerierende Einheit) erzielbaren Betrag und ob der für den Vermögenswert (die zahlungsmittelgenerierende Einheit) erzielbare Betrag dessen (deren) beizulegendem Zeitwert abzüglich Veräußerungskosten oder dessen (deren) Nutzungswert entspricht,
+f) 
+
+wenn der erzielbare Betrag dem beizulegenden Zeitwert abzüglich Veräußerungskosten entspricht, hat das Unternehmen Folgendes anzugeben:
+i) 
+
+die Stufe der Bewertungshierarchie (siehe IFRS 13), auf der die Bewertung des Vermögenswerts (der zahlungsmittelgenerierenden Einheit) zum beizulegenden Zeitwert insgesamt eingeordnet wird (wobei unberücksichtigt bleibt, ob die „Veräußerungskosten“ beobachtbar sind),
+ii) 
+
+bei Bewertungen zum beizulegenden Zeitwert, die auf Stufe 2 und 3 der Bewertungshierarchie eingeordnet sind, eine Beschreibung der zur Bewertung zum beizulegenden Zeitwert abzüglich Veräußerungskosten eingesetzten Bewertungstechnik/Bewertungstechniken. Wurde die Bewertungstechnik geändert, hat das Unternehmen dies ebenfalls anzugeben und die Änderung zu begründen, und
+iii) 
+
+bei Bewertungen zum beizulegenden Zeitwert, die auf Stufe 2 und 3 der Bewertungshierarchie eingeordnet sind, jede wesentliche Annahme, auf die das Management die Bestimmung des beizulegenden Zeitwerts abzüglich Veräußerungskosten gestützt hat. Wesentliche Annahmen sind solche, auf die der für den Vermögenswert (die zahlungsmittelgenerierende Einheit) erzielbare Betrag am empfindlichsten reagiert. Wird der beizulegende Zeitwert abzüglich Veräußerungskosten im Rahmen einer Barwertermittlung bestimmt, hat das Unternehmen auch den/die bei der laufenden und der vorherigen Bewertung verwendeten Abzinsungssatz/Abzinsungssätze anzugeben,
+g) 
+
+wenn der erzielbare Betrag der Nutzungswert ist, den Abzinsungssatz/die Abzinsungssätze, der/die bei der gegenwärtigen und der vorhergehenden Schätzung (sofern vorhanden) des Nutzungswerts benutzt wurde/wurden.
+
+131   Ein Unternehmen hat für die Summe der Wertminderungsaufwendungen und die Summe der Wertaufholungen, die während der Periode erfasst wurden und für die keine Angaben gemäß Paragraph 130 gemacht wurden, die folgenden Informationen anzugeben:
+a) 
+
+die wichtigsten Gruppen von Vermögenswerten, die von Wertminderungsaufwendungen betroffen sind, sowie die wichtigsten Gruppen von Vermögenswerten, die von Wertaufholungen betroffen sind,
+b) 
+
+die wichtigsten Ereignisse und Umstände, die zur Erfassung dieser Wertminderungsaufwendungen und Wertaufholungen geführt haben.
+
+132 Einem Unternehmen wird empfohlen, die während der Periode verwendeten Annahmen zur Bestimmung des erzielbaren Betrags der Vermögenswerte (der zahlungsmittelgenerierenden Einheiten) anzugeben. Paragraph 134 verlangt indes von einem Unternehmen, Angaben über die Schätzungen zu machen, die für die Ermittlung des erzielbaren Betrags einer zahlungsmittelgenerierenden Einheit verwendet wurden, wenn ein Geschäfts- oder Firmenwert oder ein immaterieller Vermögenswert mit unbegrenzter Nutzungsdauer in dem Buchwert der Einheit enthalten ist.
+
+133   Wenn gemäß Paragraph 84 ein Teil eines Geschäfts- oder Firmenwerts, der während der Periode bei einem Unternehmenszusammenschluss erworben wurde, zum Abschlussstichtag keiner zahlungsmittelgenerierenden Einheit (Gruppe von Einheiten) zugeordnet worden ist, müssen der Betrag des nicht zugeordneten Geschäfts- oder Firmenwerts sowie die Gründe, warum dieser Betrag nicht zugeordnet worden ist, angegeben werden.
+
+Schätzungen, die zur Ermittlung der erzielbaren Beträge der zahlungsmittelgenerierenden Einheiten, die einen Geschäfts- oder Firmenwert oder immaterielle Vermögenswerte mit unbegrenzter Nutzungsdauer enthalten, verwendet werden
+
+134   Ein Unternehmen hat für jede zahlungsmittelgenerierende Einheit (Gruppe von Einheiten), für die der Buchwert des Geschäfts- oder Firmenwerts oder der immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer, die dieser Einheit (Gruppe von Einheiten) zugeordnet sind, signifikant ist im Vergleich zum Unternehmens-Gesamtbuchwert des Geschäfts- oder Firmenwerts oder der immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer, die unter (a) bis (f) verlangten Angaben zu machen:
+a) 
+
+der Buchwert des der Einheit (Gruppe von Einheiten) zugeordneten Geschäfts- oder Firmenwerts,
+b) 
+
+der Buchwert der der Einheit (Gruppe von Einheiten) zugeordneten immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer,
+c) 
+
+die Grundlage, auf der der erzielbare Betrag der Einheit (Gruppe von Einheiten) bestimmt worden ist (d. h. der Nutzungswert oder der beizulegende Zeitwert abzüglich Veräußerungskosten),
+d) 
+
+wenn der erzielbare Betrag der Einheit (Gruppe von Einheiten) auf dem Nutzungswert basiert:
+i) 
+
+jede wesentliche Annahme, auf der das Management seine Zahlungsstrom-Prognosen für den durch die jüngsten Finanzpläne/Vorhersagen abgedeckten Zeitraum aufgebaut hat. Die wesentlichen Annahmen sind diejenigen, auf die der erzielbare Betrag der Einheit (Gruppe von Einheiten) am sensibelsten reagiert,
+ii) 
+
+eine Beschreibung des Managementansatzes zur Bestimmung des jeder wesentlichen Annahme zugewiesenen Werts/der jeder wesentlichen Annahme zugewiesenen Werte, ob diese Werte Erfahrungen der Vergangenheit widerspiegeln, oder ob sie ggf. mit externen Informationsquellen übereinstimmen, und wenn nicht, auf welche Art und aus welchem Grund sie sich von Erfahrungen der Vergangenheit oder externen Informationsquellen unterscheiden,
+iii) 
+
+der Zeitraum, für den das Management die Zahlungsströme basierend auf vom Management genehmigten Finanzplänen/Vorhersagen geplant hat, und wenn für eine zahlungsmittelgenerierende Einheit (Gruppe von Einheiten) ein Zeitraum von mehr als fünf Jahren verwendet wird, eine Erklärung über den Grund, der diesen längeren Zeitraum rechtfertigt,
+iv) 
+
+die Wachstumsrate, die zur Extrapolation der Zahlungsstrom-Prognosen jenseits des Zeitraums verwendet wird, auf den sich die jüngsten Finanzpläne/Vorhersagen beziehen, und die Rechtfertigung für die Anwendung einer jeglichen Wachstumsrate, die die langfristige durchschnittliche Wachstumsrate für die Produkte, Industriezweige oder das Land bzw. die Länder, in welchem/n das Unternehmen tätig ist oder für den Markt, für den die Einheit (Gruppe von Einheiten) bestimmt ist, übersteigt,
+v) 
+
+der auf die Zahlungsstrom-Prognosen angewendete Abzinsungssatz/die auf die Zahlungsstrom-Prognosen angewendeten Abzinsungssätze,
+e) 
+
+wenn der erzielbare Betrag der Einheit (Gruppe von Einheiten) auf dem beizulegenden Zeitwert abzüglich Veräußerungskosten basiert, das/die für die Ermittlung des beizulegenden Zeitwerts abzüglich Veräußerungskosten verwendete Bewertungsverfahren/verwendeten Bewertungsverfahren. Ein Unternehmen braucht die in IFRS 13 vorgeschriebenen Angaben nicht vorzulegen. Wenn der beizulegende Zeitwert abzüglich Veräußerungskosten nicht anhand einer Marktpreisnotierung für eine identische Einheit (Gruppe von Einheiten) ermittelt wird, hat ein Unternehmen folgende Angaben zu machen:
+i) 
+
+jede wesentliche Annahme, die das Management bei der Bestimmung des beizulegenden Zeitwerts abzüglich Veräußerungskosten zugrunde legt. Die wesentlichen Annahmen sind diejenigen, auf die der erzielbare Betrag der Einheit (Gruppe von Einheiten) am sensibelsten reagiert;
+ii) 
+
+eine Beschreibung des Managementansatzes zur Bestimmung der (des) jeder wesentlichen Annahme zugewiesenen Werte(s), ob diese Werte Erfahrungen der Vergangenheit widerspiegeln, oder ob sie ggf. mit externen Informationsquellen übereinstimmen, und wenn nicht, auf welche Art und aus welchem Grund sie sich von Erfahrungen der Vergangenheit oder externen Informationsquellen unterscheiden;
+(iiA) 
+
+die Stufe der Bewertungshierarchie (siehe IFRS 13), auf der die Bewertung zum beizulegenden Zeitwert insgesamt eingeordnet wird (wobei unberücksichtigt bleibt, ob die Veräußerungskosten beobachtbar sind);
+(iiB) 
+
+wurde das Bewertungsverfahren geändert, die Änderung und der Grund bzw. die Gründe für die Änderung.
+
+Wird der beizulegende Zeitwert abzüglich Veräußerungskosten unter Zugrundelegung diskontierter Zahlungsstrom-Prognosen ermittelt, hat ein Unternehmen die folgenden Angaben zu machen:
+iii) 
+
+der Zeitraum, für den das Management Zahlungsströme prognostiziert hat,
+iv) 
+
+die Wachstumsrate, die zur Extrapolation der Zahlungsstrom-Prognosen verwendet wurde,
+v) 
+
+der auf die Zahlungsstrom-Prognosen angewendete Abzinsungssatz/die auf die Zahlungsstrom-Prognosen angewendeten Abzinsungssätze,
+f) 
+
+wenn eine angemessenerweise für möglich gehaltene Änderung einer wesentlichen Annahme, auf der das Management seine Bestimmung des erzielbaren Betrags der Einheit (Gruppe von Einheiten) aufgebaut hat, zur Folge hätte, dass der Buchwert der Einheit (Gruppe von Einheiten) deren erzielbaren Betrag übersteigen würde:
+i) 
+
+der Betrag, um den der erzielbare Betrag der Einheit (Gruppe von Einheiten) deren Buchwert übersteigt,
+ii) 
+
+der der wesentlichen Annahme zugewiesene Wert,
+iii) 
+
+der Betrag, um den der der wesentlichen Annahme zugewiesene Wert geändert werden müsste – nach Berücksichtigung aller nachfolgenden Auswirkungen dieser Änderung auf die anderen Variablen, die in die Ermittlung des erzielbaren Betrages einfließen – damit der erzielbare Betrag der Einheit (Gruppe von Einheiten) gleich deren Buchwert ist.
+
+135   Wenn ein Teil oder der gesamte Buchwert eines Geschäfts- oder Firmenwerts oder der immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer mehreren zahlungsmittelgenerierenden Einheiten (Gruppen von Einheiten) zugeordnet ist, und der auf diese Weise jeder einzelnen Einheit (Gruppe von Einheiten) zugeordnete Betrag im Vergleich zum Unternehmens-Gesamtbuchwert des Geschäfts- oder Firmenwerts oder der immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer nicht signifikant, ist diese Tatsache zusammen mit der Summe der Buchwerte des Geschäfts- oder Firmenwerts oder der immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer, die diesen Einheiten (Gruppen von Einheiten) zugeordnet sind, anzugeben. Wenn darüber hinaus die erzielbaren Beträge irgendeiner dieser Einheiten (Gruppen von Einheiten) auf denselben wesentlichen Annahmen beruhen und die Summe der Buchwerte des Geschäfts- oder Firmenwerts oder der immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer, die diesen Einheiten zugeordnet sind, im Vergleich zum Unternehmens-Gesamtbuchwert des Geschäfts- oder Firmenwerts oder der immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer des Unternehmens signifikant ist, so hat ein Unternehmen dies anzugeben und dabei folgende Angaben zu machen:
+a) 
+
+die Summe der Buchwerte des diesen Einheiten (Gruppen von Einheiten) zugeordneten Geschäfts- oder Firmenwerts,
+b) 
+
+die Summe der Buchwerte der diesen Einheiten (Gruppen von Einheiten) zugeordneten immateriellen Vermögenswerte mit unbegrenzter Nutzungsdauer,
+c) 
+
+eine Beschreibung der wesentlichen Annahme/Annahmen,
+d) 
+
+eine Beschreibung des Managementansatzes zur Bestimmung des/der der/den wesentlichen Annahme/Annahmen zugewiesenen Werts/Werte, ob diese Werte Erfahrungen der Vergangenheit widerspiegeln, oder ob sie ggf. mit externen Informationsquellen übereinstimmen, und wenn nicht, auf welche Art und aus welchem Grund sie sich von Erfahrungen der Vergangenheit oder externen Informationsquellen unterscheiden,
+e) 
+
+wenn eine angemessenerweise für möglich gehaltene Änderung der wesentlichen Annahme/Annahmen zur Folge hätte, dass die Summe der Buchwerte der Einheiten (Gruppen von Einheiten) die Summe von deren erzielbaren Beträgen übersteigen würde:
+i) 
+
+der Betrag, um den die Summe der erzielbaren Beträge der Einheiten (Gruppen von Einheiten) die Summe von deren Buchwerten übersteigt,
+ii) 
+
+der/die der wesentlichen Annahme/den wesentlichen Annahmen zugewiesene Wert/zugewiesenen Werte,
+iii) 
+
+der Betrag, um den der der wesentlichen Annahme zugewiesene Wert/die den wesentlichen Annahmen zugewiesenen Werte geändert werden müsste/müssten – nach Berücksichtigung aller nachfolgenden Auswirkungen dieser Änderung auf die anderen Variablen, die in die Ermittlung des erzielbaren Betrags einfließen – damit die Summe der erzielbaren Beträge der Einheiten (Gruppen von Einheiten) gleich der Summe von deren Buchwerten ist.
+
+136 Die jüngste ausführliche Berechnung des erzielbaren Betrags einer zahlungsmittelgenerierenden Einheit (Gruppe von Einheiten), der in einer vorhergehenden Periode ermittelt wurde, kann gemäß Paragraph 24 oder 99 vorgetragen werden und für die Überprüfung dieser Einheit (Gruppe von Einheiten) auf Wertminderung in der aktuellen Periode verwendet werden, vorausgesetzt, dass bestimmte Kriterien erfüllt sind. Ist dies der Fall, beziehen sich die Informationen für diese Einheit (Gruppe von Einheiten), die in den in den Paragraphen 134 und 135 verlangten Angaben enthalten sind, auf die vorgetragene Berechnung des erzielbaren Betrags.
+
+137 Das erläuternde Beispiel 9 veranschaulicht die in den Paragraphen 134 und 135 verlangten Angaben.
+
+ÜBERGANGSVORSCHRIFTEN UND ZEITPUNKT DES INKRAFTTRETENS
+
+138 [gestrichen]
+
+139 Ein Unternehmen hat diesen Standard anzuwenden:
+a) 
+
+auf einen Geschäfts- oder Firmenwert und immaterielle Vermögenswerte, die bei Unternehmenszusammenschlüssen, für die das Datum des Vertragsabschlusses am oder nach dem 31. März 2004 liegt, erworben worden sind, und
+b) 
+
+prospektiv auf alle anderen Vermögenswerte ab Beginn des ersten Geschäftsjahrs, das am oder nach dem 31. März 2004 beginnt.
+
+140 Unternehmen, auf die Paragraph 139 anwendbar ist, wird empfohlen, diesen Standard vor dem in Paragraph 139 angegebenen Zeitpunkt des Inkrafttretens anzuwenden. Wendet ein Unternehmen diesen Standard vor dem Zeitpunkt des Inkrafttretens an, hat es jedoch gleichzeitig IFRS 3 und IAS 38 (in der 2004 überarbeiteten Fassung) anzuwenden.
+
+140A Durch IAS 1 Darstellung des Abschlusses (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 61, 120, 126 und 129 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese frühere Periode auch diese Änderungen anzuwenden.
+
+140B Durch IFRS 3 (in der 2008 überarbeiteten Fassung) wurden die Paragraphen 65, 81, 85 und 139 geändert, die Paragraphen 91–95 und 138 gestrichen und Anhang C eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IFRS 3 (überarbeitet 2008) auf eine frühere Periode an, so hat es auf diese frühere Periode auch diese Änderungen anzuwenden.
+
+140C Durch die Verbesserungen an den IFRS, veröffentlicht im Mai 2008, wurde Paragraph 134(e) geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung früher an, hat es dies anzugeben.
+
+140D Durch Anschaffungskosten von Anteilen an Tochterunternehmen, gemeinschaftlich geführten Unternehmen oder assoziierten Unternehmen (Änderungen an IFRS 1 Erstmalige Anwendung der International Financial Reporting Standards und IAS 27), veröffentlicht im Mai 2008, wurde Paragraph 12(h) eingefügt. Diese Änderung ist prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die damit verbundenen Änderungen in den Paragraphen 4 und 38A von IAS 27 auf eine frühere Periode an, so ist gleichzeitig die Änderung des Paragraphen 12(h) anzuwenden.
+
+140E Durch die Verbesserungen an den IFRS, veröffentlicht im April 2009, wurde Paragraph 80(b) geändert. Diese Änderung ist prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2010 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung früher an, hat es dies anzugeben.
+
+140F [gestrichen]
+
+140G [gestrichen]
+
+140H Durch IFRS 10 und IFRS 11, veröffentlicht im Mai 2011, wurden Paragraph 4, die Überschrift über Paragraph 12(h) und Paragraph 12(h) geändert. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+140I Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Paragraphen 5, 6, 12, 20, 22, 28, 78, 105, 111, 130 und 134 geändert, die Paragraphen 25–27 gestrichen und Paragraph 53A eingefügt. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+140J Im Mai 2013 wurden die Paragraphen 130 und 134 sowie die Überschrift des Paragraphen 138 geändert. Diese Änderungen sind rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Diese Änderungen dürfen nur in Berichtsperioden (einschließlich Vergleichsperioden) angewandt werden, in denen auch IFRS 13 angewandt wird.
+
+140K [gestrichen]
+
+140L Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurde Paragraph 2 geändert. Wendet ein Unternehmen IFRS 15 an, ist die betreffende Änderung ebenfalls anzuwenden.
+
+140M Durch IFRS 9 in der im Juli 2014 veröffentlichten Fassung, wurden die Paragraphen 2, 4 und 5 geändert und die Paragraphen 140F, 140G und 140K gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+140N Durch IFRS 17, veröffentlicht im Mai 2017, wurde Paragraph 2 geändert. Mit der im Juni 2020 veröffentlichten Verlautbarung Änderungen an IFRS 17, wurde Paragraph 2 geändert. Wendet ein Unternehmen IFRS 17 an, sind diese Änderungen ebenfalls anzuwenden.
+
+RÜCKNAHME VON IAS 36 (VERÖFFENTLICHT 1998)
+
+141 Dieser Standard ersetzt IAS 36 Wertminderung von Vermögenswerten (veröffentlicht 1998).
+
+Anhang A
+
+DIE ANWENDUNG VON BARWERT-VERFAHREN ZUR ERMITTLUNG DES NUTZUNGSWERTS
+
+Dieser Anhang ist integraler Bestandteil des Standards. Er enthält zusätzliche Leitlinien für die Anwendung von Barwert-Verfahren zur Ermittlung des Nutzungswerts. Der in den Leitlinien verwendete Begriff „Vermögenswert“ bezieht sich ebenso auf eine Gruppe von Vermögenswerten, die eine zahlungsmittelgenerierende Einheit bilden.
+
+Die Bestandteile einer Barwert-Ermittlung
+
+A1 Die folgenden Elemente erfassen gemeinsam die wirtschaftlichen Unterschiede zwischen Vermögenswerten
+a) 
+
+eine Schätzung der künftigen Zahlungsströme bzw. in komplexeren Fällen von Serien künftiger Zahlungsströme, die das Unternehmen durch die Vermögenswerte zu erzielen erwartet,
+b) 
+
+Erwartungen im Hinblick auf eventuelle wertmäßige oder zeitliche Veränderungen dieser Zahlungsströme,
+c) 
+
+der Zinseffekt, der durch den aktuellen risikolosen Marktzinssatz dargestellt wird,
+d) 
+
+der Preis für die mit dem Vermögenswert verbundene Unsicherheit und
+e) 
+
+andere, manchmal nicht identifizierbare Faktoren (wie Illiquidität), die Marktteilnehmer bei der Preisfindung für die künftigen Zahlungsströme, die das Unternehmen durch die Vermögenswerte zu erzielen erwartet, widerspiegeln würden.
+
+A2 Dieser Anhang stellt zwei Ansätze zur Berechnung des Barwerts gegenüber, jeder von ihnen kann den Umständen entsprechend für die Schätzung des Nutzungswerts eines Vermögenswerts verwendet werden. Beim „traditionellen“ Ansatz sind die Anpassungen für die in Paragraph A1 beschriebenen Faktoren (b)–(e) im Abzinsungssatz enthalten. Beim „erwarteter Zahlungsstrom“-Ansatz führen die Faktoren (b), (d) und (e) als Anpassungen zu den risikobereinigten erwarteten Zahlungsströmen. Welchen Ansatz ein Unternehmen auch anwendet, um Erwartungen hinsichtlich eventueller wertmäßiger oder zeitlicher Änderungen der künftigen Zahlungsströme widerzuspiegeln, letztlich muss der erwartete Barwert der künftigen Zahlungsströme, d. h. der gewichtete Durchschnitt aller möglichen Ergebnisse widergespiegelt werden.
+
+Allgemeine Grundsätze
+
+A3 Die Verfahren, die zur Schätzung künftiger Zahlungsströme und Zinssätze verwendet werden, variieren von einer Situation zur anderen, je nach den Umständen, die den betreffenden Vermögenswert umgeben. Die folgenden allgemeinen Grundsätze regeln jedoch jede Anwendung von Barwert-Verfahren bei der Bewertung von Vermögenswerten:
+a) 
+
+Zinssätze, die zur Abzinsung von Zahlungsströmen verwendet werden, haben die Annahmen widerzuspiegeln, die mit denen der geschätzten Zahlungsströme übereinstimmen. Andernfalls würden die Auswirkungen einiger Annahmen doppelt berücksichtigt oder außer Acht gelassen. Ein Abzinsungssatz von 12 Prozent könnte beispielsweise auf vertragliche Zahlungsströme einer Darlehensforderung angewandt werden. Dieser Satz spiegelt die Erwartungen über künftigen Zahlungsverzug bzw. -ausfall bei Darlehen mit besonderen Merkmalen wider. Derselbe Zinssatz von 12 Prozent ist nicht zur Abzinsung erwarteter Zahlungsströme zu verwenden, da solche Zahlungsströme bereits die Annahmen über künftigen Zahlungsverzug bzw. -ausfall widerspiegeln.
+b) 
+
+Geschätzte Zahlungsströme und Abzinsungssätze müssen sowohl frei von verzerrenden Einflüssen als auch von Faktoren sein, die nicht mit dem betreffenden Vermögenswert in Verbindung stehen. Ein verzerrender Einfluss wird beispielsweise in die Bewertung eingebracht, wenn geschätzte Netto-Zahlungsströme absichtlich zu niedrig dargestellt werden, um die offensichtliche künftige Rentabilität eines Vermögenswerts zu verbessern.
+c) 
+
+Geschätzte Zahlungsströme oder Abzinsungssätze müssen die Bandbreite möglicher Ergebnisse widerspiegeln anstelle eines einzigen Betrags, bei dem es sich um den wahrscheinlichsten Betrag oder um den Mindest- oder Höchstbetrag handelt.
+
+Traditioneller Ansatz und „erwarteter Zahlungsstrom“-Ansatz zur Darstellung des Barwerts
+
+Traditioneller Ansatz
+
+A4 Bei Anwendungen der Bilanzierung eines Barwerts wird traditionell ein einziger Satz geschätzter Zahlungsströme und ein einziger Abzinsungssatz verwendet, der oft als der „dem Risiko entsprechende Zinssatz“ beschrieben wird. In der Tat beruht der traditionelle Ansatz auf der Annahme, dass eine einzige Abzinsungssatz-Regel alle Erwartungen über die künftigen Zahlungsströme und den angemessenen Risikozuschlag enthalten kann. Daher legt der traditionelle Ansatz größten Wert auf die Auswahl des Abzinsungssatzes.
+
+A5 Unter gewissen Umständen, wenn beispielsweise vergleichbare Vermögenswerte auf dem Markt beobachtet werden können, ist es relativ einfach, den traditionellen Ansatz anzuwenden. Für Vermögenswerte mit vertraglichen Zahlungsströmen stimmt dies mit der Art und Weise überein, in der die Marktteilnehmer die Vermögenswerte beschreiben, wie bei „einer 12-prozentigen Anleihe“.
+
+A6 Der traditionelle Ansatz kann jedoch bestimmte komplexe Bewertungsprobleme nicht angemessen behandeln, wie beispielsweise die Bewertung nichtfinanzieller Vermögenswerte, für die es keinen Markt oder keine Vergleichsbasis gibt. Eine angemessene Suche nach dem „dem Risiko entsprechenden Zinssatz“ erfordert eine Analyse von zumindest zweierlei — einem Vermögenswert, der auf dem Markt existiert und einen beobachteten Zinssatz hat und dem zu bewertenden Vermögenswert. Der entsprechende Abzinsungssatz für die zu bewertenden Zahlungsströme muss aus dem in diesem anderen Vermögenswert erkennbaren Zinssatz hergeleitet werden. Um diese Herleitung durchführen zu können, müssen die Merkmale der Zahlungsströme des anderen Vermögenswerts ähnlich derer des zu bewertenden Vermögenswerts sein. Daher muss für die Bewertung folgendermaßen vorgegangen werden:
+a) 
+
+Identifizierung des Satzes von Zahlungsströmen, die abgezinst werden,
+b) 
+
+Identifizierung eines anderen Vermögenswerts auf dem Markt, der ähnliche Zahlungsstrom-Merkmale zu haben scheint,
+c) 
+
+Vergleich der Zahlungsstrom-Sätze in beiden Fällen um sicherzustellen, dass sie ähnlich sind (zum Beispiel: Sind beide Sätze vertragliche Zahlungsströme, oder ist der eine ein vertraglicher und der andere ein geschätzter Zahlungsstrom?),
+d) 
+
+Beurteilung, ob es in dem einen Fall ein Element gibt, das es in dem anderen nicht gibt (zum Beispiel: Ist einer weniger liquide als der andere?), und
+e) 
+
+Beurteilung, ob beide Zahlungsstrom-Sätze sich bei sich ändernden wirtschaftlichen Bedingungen voraussichtlich ähnlich verhalten (d. h. variieren).
+
+„Erwarteter Zahlungsstrom“-Ansatz
+
+A7 In gewissen Situationen ist der „erwarteter Zahlungsstrom“-Ansatz ein effektiveres Bewertungsinstrument als der traditionelle Ansatz. Bei der Erarbeitung einer Bewertung verwendet der „erwarteter Zahlungsstrom“-Ansatz alle Erwartungen über mögliche Zahlungsströme anstelle des einzigen Zahlungsstroms, der am wahrscheinlichsten ist. Beispielsweise könnte ein Zahlungsstrom 100 WE, 200 WE oder 300 WE sein mit Wahrscheinlichkeiten von 10 Prozent bzw. 60 Prozent oder 30 Prozent. Der erwartete Zahlungsstrom beträgt 220 WE. Der „erwarteter Zahlungsstrom“-Ansatz unterscheidet sich somit vom traditionellen Ansatz dadurch, dass er sich auf die direkte Analyse der betreffenden Zahlungsströme und auf präzisere Darstellungen der bei der Bewertung verwendeten Annahmen konzentriert.
+
+A8 Der „erwarteter Zahlungsstrom“-Ansatz erlaubt auch die Anwendung des Barwert-Verfahrens, wenn der zeitliche Anfall der Zahlungsströme ungewiss ist. So könnte z. B. in einem, in zwei oder in drei Jahren mit 10-, 60- bzw. 30-prozentiger Wahrscheinlichkeit ein Zahlungsstrom von 1000 WE vereinnahmt werden. Das nachstehende Beispiel zeigt die Berechnung des erwarteten Barwerts in diesem Fall.
+
+
+
+Barwert von 1000 WE in 1 Jahr zu 5 %
+	
+
+952,38 WE
+	
+
+ 
+
+Wahrscheinlichkeit
+	
+
+10,00 %
+	
+
+95,24 WE
+
+Barwert von 1000 WE in 2 Jahren zu 5,25 %
+	
+
+902,73 WE
+	
+
+ 
+
+Wahrscheinlichkeit
+	
+
+60,00 %
+	
+
+541,64 WE
+
+Barwert von 1000 WE in 3 Jahren zu 5,50 %
+	
+
+851,61 WE
+	
+
+ 
+
+Wahrscheinlichkeit
+	
+
+30,00 %
+	
+
+255,48 WE
+
+Erwarteter Barwert
+	
+
+ 
+	
+
+892,36 WE
+
+A9 Der erwartete Barwert von 892,36 WE unterscheidet sich von der traditionellen Auffassung einer bestmöglichen Schätzung von 902,73 WE (die 60 Prozent Wahrscheinlichkeit). Eine auf dieses Beispiel angewendete traditionelle Barwertberechnung erfordert eine Entscheidung darüber, welche möglichen Zeitpunkte der Zahlungsströme anzusetzen sind, und würde demzufolge die Wahrscheinlichkeiten anderer Zeitpunkte nicht widerspiegeln. Das beruht darauf, dass bei einer traditionellen Berechnung des Barwerts der Abzinsungssatz keine Ungewissheiten über die Zeitpunkte widerspiegeln kann.
+
+A10 Die Verwendung von Wahrscheinlichkeiten ist ein wesentliches Element des „erwarteter Zahlungsstrom“-Ansatzes. Mitunter wird die Frage aufgeworfen, ob die Zuweisung von Wahrscheinlichkeiten zu stark subjektiven Schätzungen eine höhere Präzision vermuten lässt, als sie tatsächlich existiert. Die richtige Anwendung des traditionellen Ansatzes (wie in Paragraph A6 beschrieben) erfordert hingegen dieselben Schätzungen und dieselbe Subjektivität ohne die rechnerische Transparenz des „erwarteten Zahlungsstrom“-Ansatzes zu liefern.
+
+A11 Viele in der gegenwärtigen Praxis entwickelte Schätzungen beinhalten bereits informell die Elemente der erwarteten Zahlungsströme. Außerdem werden Rechnungsleger oft mit der Notwendigkeit konfrontiert, einen Vermögenswert unter Verwendung begrenzter Informationen über die Wahrscheinlichkeiten möglicher Zahlungsströme zu bewerten. Ein Rechnungsleger könnte beispielsweise mit den folgenden Situationen konfrontiert werden:
+a) 
+
+Der geschätzte Betrag liegt zwischen 50 WE und 250 WE, aber kein Betrag, der in diesem Bereich liegt, kommt eher in Frage als ein anderer Betrag. Auf der Grundlage dieser begrenzten Information beläuft sich der geschätzte erwartete Zahlungsstrom auf 150 WE [(50 + 250)/2].
+b) 
+
+Der geschätzte Betrag liegt zwischen 50 WE und 250 WE und der wahrscheinlichste Betrag ist 100 WE. Die mit jedem Betrag verbundenen Wahrscheinlichkeiten sind unbekannt. Auf der Grundlage dieser begrenzten Information beläuft sich der geschätzte erwartete Zahlungsstrom auf 133,33 WE [(50 + 100 +250)/3].
+c) 
+
+Der geschätzte Betrag beträgt 50 WE (10 Prozent Wahrscheinlichkeit), 250 WE (30 Prozent Wahrscheinlichkeit) oder 100 WE (60 Prozent Wahrscheinlichkeit). Auf der Grundlage dieser begrenzten Information beläuft sich der geschätzte erwartete Zahlungsstrom auf 140 WE [(50 x 0,10) + (250 x 0,30) + (100 x 0,60)].
+
+In jedem Fall liefert der geschätzte erwartete Zahlungsstrom voraussichtlich eine bessere Schätzung des Nutzungswerts als der Mindestbetrag, der wahrscheinlichste Betrag oder der Höchstbetrag für sich alleine genommen.
+
+A12 Die Anwendung eines „erwarteter Cashflow“-Ansatzes ist von Kosten-Nutzen-Sachzwängen abhängig. In manchen Fällen kann ein Unternehmen Zugriff auf zahlreiche Daten haben und somit viele Zahlungsstrom-Szenarien entwickeln. In anderen Fällen kann es sein, dass ein Unternehmen nicht mehr als die allgemeinen Darstellungen über die Schwankung der Zahlungsströme entwickeln kann, ohne dass erhebliche Kosten anfallen. Das Unternehmen muss die Kosten für den Erhalt zusätzlicher Informationen gegen die zusätzliche Verlässlichkeit, die diese Informationen für die Bewertung bringen werden, abwägen.
+
+A13 Zuweilen wird geltend gemacht, das „erwarteter Cashflow“-Verfahren sei ungeeignet für die Bewertung eines einzelnen Postens oder eines Postens mit einer begrenzten Anzahl möglicher Ergebnisse. Als Beispiel wird ein Vermögenswert mit zwei möglichen Ergebnissen angeführt: eine 90-prozentige Wahrscheinlichkeit, dass der Zahlungsstrom 10 WE und eine 10-prozentige Wahrscheinlichkeit, dass der Zahlungsstrom 1000 WE betragen wird. Sie stellen fest, dass der erwartete Zahlungsstrom in diesem Beispiel 109 WE beträgt und kritisieren dieses Ergebnis, weil es keinen der Beträge darstellt, die letztlich bezahlt werden könnten.
+
+A14 Ansichten wie die gerade dargelegte spiegeln die zugrunde liegende Uneinigkeit hinsichtlich der Bewertungsziele wider. Wenn die Kumulierung der einzugehenden Kosten die Zielsetzung ist, könnten die erwarteten Zahlungsströme keine repräsentativ glaubwürdige Schätzung der erwarteten Kosten erzeugen. Dieser Standard befasst sich indes mit der Ermittlung des erzielbaren Betrags eines Vermögenswerts. Der erzielbare Betrag des Vermögenswerts aus diesem Beispiel ist voraussichtlich nicht 10 WE, selbst wenn dies der wahrscheinlichste Zahlungsstrom ist. Der Grund hierfür ist, dass eine Bewertung von 10 WE nicht die Ungewissheit des Zahlungsstroms bei der Bewertung des Vermögenswerts beinhaltet. Stattdessen wird der ungewisse Zahlungsstrom dargestellt, als wäre er ein gewisser Zahlungsstrom. Kein rational handelndes Unternehmen würde einen Vermögenswert mit diesen Merkmalen für 10 WE verkaufen.
+
+Abzinsungssatz
+
+A15 Welchen Ansatz ein Unternehmen auch für die Ermittlung des Nutzungswerts eines Vermögenswerts wählt, die Zinssätze, die zur Abzinsung der Zahlungsströme verwendet werden, dürfen nicht die Risiken widerspiegeln, aufgrund derer die geschätzten Zahlungsströme angepasst worden sind. Andernfalls würden die Auswirkungen einiger Annahmen doppelt berücksichtigt.
+
+A16 Wenn ein vermögenswertspezifischer Zinssatz nicht direkt über den Markt erhältlich ist, verwendet ein Unternehmen Ersatzfaktoren zur Schätzung des Abzinsungssatzes. Ziel ist es, so weit wie möglich die Marktbeurteilung folgender Faktoren zu schätzen:
+a) 
+
+des Zinseffekts für die Perioden bis zum Ende der Nutzungsdauer des Vermögenswerts und
+b) 
+
+der in Paragraph A1 beschriebenen Faktoren (b), (d) und (e), soweit diese Faktoren nicht zu Anpassungen bei den geschätzten Zahlungsströmen geführt haben.
+
+A17 Als Ausgangspunkt kann ein Unternehmen bei der Erstellung einer solchen Schätzung die folgenden Zinssätze berücksichtigen:
+a) 
+
+die durchschnittlich gewichteten Kapitalkosten des Unternehmens, die mithilfe von Verfahren wie dem Capital Asset Pricing Model bestimmt werden können,
+b) 
+
+den Zinssatz für Neukredite des Unternehmens und
+c) 
+
+andere marktübliche Fremdkapitalzinssätze.
+
+A18 Diese Zinssätze müssen jedoch angepasst werden,
+a) 
+
+um die Art und Weise widerzuspiegeln, auf die der Markt die spezifischen Risiken, die mit den geschätzten Zahlungsströmen verbunden sind, bewerten würde, und
+b) 
+
+um Risiken auszuschließen, die für die geschätzten Zahlungsströme der Vermögenswerte nicht relevant sind, oder aufgrund derer bereits eine Anpassung der geschätzten Zahlungsströme vorgenommen wurde.
+
+Berücksichtigt werden Risiken wie das Länderrisiko, das Währungsrisiko und das Preisrisiko.
+
+A19 Der Abzinsungssatz ist unabhängig von der Kapitalstruktur des Unternehmens und von der Art und Weise, wie das Unternehmen den Kauf des Vermögenswerts finanziert, weil die künftig erwarteten Zahlungsströme aus dem Vermögenswert nicht von der Art und Weise abhängen, wie das Unternehmen den Kauf des Vermögenswerts finanziert hat.
+
+A20 Paragraph 55 verlangt, dass der verwendete Abzinsungssatz ein Vor-Steuer-Zinssatz ist. Wenn daher die Grundlage für die Schätzung des Abzinsungssatzes eine Betrachtung nach Steuern ist, ist diese Grundlage anzupassen, um einen Zinssatz vor Steuern widerzuspiegeln.
+
+A21 Ein Unternehmen verwendet normalerweise einen einzigen Abzinsungssatz zur Schätzung des Nutzungswerts eines Vermögenswerts. Ein Unternehmen verwendet indes unterschiedliche Abzinsungssätze für die verschiedenen künftigen Perioden, wenn der Nutzungswert sensibel auf die unterschiedlichen Risiken in den verschiedenen Perioden oder auf die Laufzeitstruktur der Zinssätze reagiert.
+
+Anhang C
+
+ÜBERPRÜFUNG VON ZAHLUNGSMITTELGENERIERENDEN EINHEITEN MIT EINEM GESCHÄFTS- ODER FIRMENWERT UND NICHT BEHERRSCHENDEN ANTEILEN AUF WERTMINDERUNG
+
+Dieser Anhang ist integraler Bestandteil des Standards.
+
+C1 Gemäß IFRS 3 (in der 2008 überarbeiteten Fassung) bewertet und erfasst der Erwerber den Geschäfts- oder Firmenwert zum Erwerbszeitpunkt als den Unterschiedsbetrag zwischen (a) und (b) wie folgt:
+a) 
+
+die Summe aus:
+i) 
+
+der übertragenen Gegenleistung, die gemäß IFRS 3 im Allgemeinen zu dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert bestimmt wird,
+ii) 
+
+dem Betrag aller nicht beherrschenden Anteile an dem erworbenen Unternehmen, die gemäß IFRS 3 bewertet werden, und
+iii) 
+
+dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert des zuvor vom Erwerber gehaltenen Eigenkapitalanteils an dem erworbenen Unternehmen, wenn es sich um einen sukzessiven Unternehmenszusammenschluss handelt.
+b) 
+
+der Saldo der zum Erwerbszeitpunkt bestehenden und gemäß IFRS 3 bewerteten Beträge der erworbenen identifizierbaren Vermögenswerte und der übernommenen Schulden.
+
+Zuordnung eines Geschäfts- oder Firmenwerts
+
+C2 Paragraph 80 dieses Standards schreibt vor, dass ein Geschäfts- oder Firmenwert, der bei einem Unternehmenszusammenschluss erworben wurde, den zahlungsmittelgenerierenden Einheiten bzw. den Gruppen von zahlungsmittelgenerierenden Einheiten des Erwerbers, für die aus den Synergien des Zusammenschlusses ein Nutzen erwartet wird, zuzuordnen ist, unabhängig davon, ob andere Vermögenswerte oder Schulden des erworbenen Unternehmens diesen Einheiten oder Gruppen von Einheiten zugewiesen werden. Es ist möglich, dass einige der aus einem Unternehmenszusammenschluss entstandenen Synergien einer zahlungsmittelgenerierenden Einheit zugeordnet werden, an der der nicht beherrschende Anteil nicht beteiligt ist.
+
+Überprüfung auf Wertminderung
+
+C3 Eine Überprüfung auf Wertminderung schließt den Vergleich des erzielbaren Betrags einer zahlungsmittelgenerierenden Einheit mit dem Buchwert der zahlungsmittelgenerierenden Einheit ein.
+
+C4 Wenn ein Unternehmen nicht beherrschende Anteile als seinen proportionalen Anteil an den identifizierbaren Netto-Vermögenswerten eines Tochterunternehmens zum Erwerbszeitpunkt und nicht mit dem beizulegenden Zeitwert bestimmt, wird der den nicht beherrschenden Anteilen zuzurechnende Geschäfts- oder Firmenwert in den erzielbaren Betrag der dazugehörigen zahlungsmittelgenerierenden Einheit einbezogen, aber nicht im Konzernabschluss des Mutterunternehmens angesetzt. Folglich wird ein hochgerechneter Bruttobetrag des Buchwerts des der Einheit zugeordneten Geschäfts- oder Firmenwerts ermittelt, um den dem nicht beherrschenden Anteil zuzurechnenden Geschäfts- oder Firmenwert einzubeziehen. Dieser hochgerechnete Buchwert wird dann mit dem erzielbaren Betrag der Einheit verglichen, um zu bestimmen, ob die zahlungsmittelgenerierende Einheit wertgemindert ist.
+
+Zuordnung eines Wertminderungsaufwands
+
+C5 Nach Paragraph 104 muss ein identifizierter Wertminderungsaufwand zuerst zugeordnet werden, um den Buchwert des der Einheit zugewiesenen Geschäfts- oder Firmenwerts zu vermindern, und dann den anderen Vermögenswerten der Einheit anteilig auf der Basis des Buchwerts eines jeden Vermögenswerts der Einheit zugewiesen werden.
+
+C6 Wenn ein Tochterunternehmen oder ein Teil eines Tochterunternehmens mit einem nicht beherrschenden Anteil selbst eine zahlungsmittelgenerierende Einheit ist, wird der Wertminderungsaufwand zwischen dem Mutterunternehmen und dem nicht beherrschenden Anteil auf derselben Basis wie der Gewinn oder Verlust aufgeteilt.
+
+C7 Wenn ein Tochterunternehmen oder ein Teil eines Tochterunternehmens mit einem nicht beherrschenden Anteil zu einer größeren zahlungsmittelgenerierenden Einheit gehört, werden die Wertminderungsaufwendungen des Geschäfts- oder Firmenwerts den Teilen der zahlungsmittelgenerierenden Einheit, die einen nicht beherrschenden Anteil haben und den Teilen, die keinen haben, zugeordnet. Die Wertminderungsaufwendungen sind den Teilen der zahlungsmittelgenerierenden Einheit auf folgender Grundlage zuzuordnen:
+a) 
+
+in dem Umfang, in dem sich die Wertminderung auf den in der zahlungsmittelgenerierenden Einheit enthaltenen Geschäfts- oder Firmenwert bezieht, auf der Grundlage der relativen Buchwerte des Geschäfts- oder Firmenwerts der Teile vor der Wertminderung, und
+b) 
+
+in dem Umfang, in dem sich die Wertminderung auf die in der zahlungsmittelgenerierenden Einheit enthaltenen identifizierbaren Vermögenswerte bezieht, auf der Grundlage der relativen Buchwerte der identifizierbaren Netto-Vermögenswerte der Teile vor der Wertminderung. Diese Wertminderungen werden den Vermögenswerten der Teile jeder Einheit anteilig zugeordnet, basierend auf dem Buchwert jedes Vermögenswerts des jeweiligen Teils.
+
+In den Teilen, die einen nicht beherrschenden Anteil haben, wird der Wertminderungsaufwand zwischen dem Mutterunternehmen und dem nicht beherrschenden Anteil gleichermaßen, wie es beim Gewinn oder Verlust der Fall ist, aufgeteilt.
+
+C8 Wenn sich ein einem nicht beherrschenden Anteil zugeordneter Wertminderungsaufwand auf den Geschäfts- oder Firmenwert bezieht, der nicht im Konzernabschluss des Mutterunternehmens angesetzt ist (siehe Paragraph C4), wird diese Wertminderung nicht als ein Wertminderungsaufwand des Geschäfts- oder Firmenwerts erfasst. In diesen Fällen wird nur der Wertminderungsaufwand, der sich auf den dem Mutterunternehmen zugeordneten Geschäfts- oder Firmenwert bezieht, als ein Wertminderungsaufwand des Geschäfts- oder Firmenwerts erfasst.
+
+C9 Das erläuternde Beispiel 7 veranschaulicht die Überprüfung auf Wertminderung einer zahlungsmittelgenerierenden Einheit mit einem Geschäfts- oder Firmenwert, die kein hundertprozentiges Tochterunternehmen ist.

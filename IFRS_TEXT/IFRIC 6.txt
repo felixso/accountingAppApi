@@ -1,0 +1,49 @@
+﻿ IFRIC INTERPRETATION 6
+
+Verbindlichkeiten, die sich aus einer Teilnahme an einem spezifischen Markt ergeben — Elektro- und Elektronik-Altgeräte
+
+VERWEISE
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen
+
+HINTERGRUND
+
+1 Nach Paragraph 17 von IAS 37 ist ein verpflichtendes Ereignis ein Ereignis der Vergangenheit, das zu einer gegenwärtigen Verpflichtung führt, zu deren Erfüllung ein Unternehmen keine realistische Alternative hat.
+
+2 Nach Paragraph 19 von IAS 37 werden Rückstellungen nur für „diejenigen aus Ereignissen der Vergangenheit entstandenen Verpflichtungen angesetzt, die unabhängig von den künftigen Handlungen eines Unternehmens (z. B. der künftigen Geschäftstätigkeit) bestehen“.
+
+3 Die Richtlinie der Europäischen Union über Elektro- und Elektronik-Altgeräte, welche die Sammlung, Behandlung, Verwertung und umweltgerechte Beseitigung von Altgeräten regelt, hat Fragen bezüglich des Ansatzzeitpunktes der durch die Entsorgung von Elektro- und Elektronik-Altgeräten entstehenden Verbindlichkeit aufgeworfen. Die Richtlinie unterscheidet zwischen „neuen“ und „historischen“ Altgeräten sowie zwischen Altgeräten aus Privathaushalten und Altgeräten aus anderer Verwendung. Neue Altgeräte betreffen Produkte, die nach dem 13. August 2005 verkauft wurden. Alle vor diesem Termin verkauften Haushaltsgeräte gelten als historische Altgeräte im Sinne der Richtlinie.
+
+4 Die Richtlinie besagt, dass die Kosten für die Entsorgung historischer Haushaltsgeräte von den Herstellern des betreffenden Gerätetyps zu tragen sind, die sich in einem Zeitraum am Markt befinden, der in den anwendbaren Rechtsvorschriften eines jeden Mitgliedstaats festzulegen ist (Erfassungszeitraum). Die Richtlinie besagt weiter, dass jeder Mitgliedstaat einen Mechanismus einzurichten hat, mittels dessen die Hersteller einen anteiligen Kostenbeitrag, „z. B. im Verhältnis zu ihrem jeweiligen Marktanteil für den betreffenden Gerätetyp“, leisten.
+
+5 Verschiedene in der Interpretation verwendete Begriffe, wie „Marktanteil“ und „Erfassungszeitraum“, können in den anwendbaren Rechtsvorschriften der einzelnen Mitgliedstaaten sehr unterschiedlich definiert sein. Beispielsweise kann die Dauer des Erfassungszeitraums ein Jahr oder nur einen Monat betragen. Auch können die Bewertung des Marktanteils und die Formel für die Berechnung der Verpflichtung in den verschiedenen einzelstaatlichen Rechtsvorschriften unterschiedlich ausfallen. Diese Beispiele betreffen allerdings diese lediglich die Bewertung der Verbindlichkeit, die nicht in den Anwendungsbereich dieser Interpretation fällt.
+
+ANWENDUNGSBEREICH
+
+6 Diese Interpretation enthält Leitlinien für den Ansatz von Verbindlichkeiten im Abschluss von Herstellern, die sich aus der Entsorgung gemäß der EU-Richtlinie über Elektro- und Elektronik-Altgeräte hinsichtlich des Verkaufs historischer Haushaltsgeräte ergeben.
+
+7 Diese Interpretation behandelt weder neue Altgeräte noch historische Altgeräte, die nicht aus Privathaushalten stammen. Die Verbindlichkeit für eine derartige Entsorgung ist in IAS 37 hinreichend geregelt. Sollten jedoch in den einzelstaatlichen Rechtsvorschriften neue Altgeräte aus Privathaushalten auf die gleiche Art und Weise wie historische Altgeräte aus Privathaushalten behandelt werden, gelten die Grundsätze der Interpretation gemäß der in den Paragraphen 10–12 von IAS 8 vorgesehenen Hierarchie. Die Hierarchie von IAS 8 gilt auch für andere Vorschriften, die Verpflichtungen auf eine Art und Weise vorschreiben, die dem in der EU-Richtlinie genannten Kostenzuweisungsverfahren ähnelt.
+
+FRAGESTELLUNG
+
+8 Das IFRIC wurde im Zusammenhang mit der Entsorgung von Elektro- und Elektronik-Altgeräten gebeten festzulegen, was das verpflichtende Ereignis gemäß Paragraph 14(a) von IAS 37 für den Ansatz einer Rückstellung für die Entsorgungskosten darstellt:
+— 
+die Herstellung oder der Verkauf des historischen Haushaltsgeräts?
+— 
+die Teilnahme am Markt während des Erfassungszeitraums?
+— 
+der Kostenanfall bei der Durchführung der Entsorgungstätigkeiten?
+
+BESCHLUSS
+
+9 Es ist die Teilnahme am Markt während des Erfassungszeitraums, die als verpflichtendes Ereignis gemäß Paragraph 14(a) von IAS 37 anzusehen ist. Folglich entsteht die Verbindlichkeit für die Kosten der Entsorgung historischer Haushaltsgeräte nicht bei der Herstellung oder beim Verkauf der Produkte. Da die Verpflichtung bei historischen Haushaltsgeräten an die Marktteilnahme während des Erfassungszeitraums und nicht an die Herstellung oder den Verkauf der zu entsorgenden Geräte geknüpft ist, besteht keine Verpflichtung, solange während des Erfassungszeitraums kein Marktanteil vorhanden ist. Das zeitliche Eintreten des verpflichtenden Ereignisses kann auch unabhängig von dem Zeitraum sein, innerhalb dessen die Entsorgungstätigkeiten durchgeführt werden und die entsprechenden Kosten entstehen.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+10 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Dezember 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diese Interpretation auf Berichtsperioden an, die vor dem 1. Dezember 2005 beginnen, hat es dies anzugeben.
+
+ÜBERGANGSVORSCHRIFTEN
+
+11 Änderungen der Rechnungslegungsmethoden sind gemäß IAS 8 zu bilanzieren.

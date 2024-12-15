@@ -1,0 +1,114 @@
+﻿ IFRIC INTERPRETATION 5
+
+Rechte auf Anteile an Fonds für Entsorgung, Rekultivierung und Umweltsanierung
+
+VERWEISE
+— 
+IFRS 9 Finanzinstrumente
+— 
+IFRS 10 Konzernabschlüsse
+— 
+IFRS 11 Gemeinschaftliche Vereinbarungen
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen
+— 
+IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen
+
+HINTERGRUND
+
+1 Fonds für Entsorgung, Rekultivierung und Umweltsanierung, nachstehend als „Entsorgungsfonds“ oder „Fonds“ bezeichnet, dienen zur Trennung von Vermögenswerten, die für die Finanzierung eines Teils oder aller Kosten bestimmt sind, die bei der Entsorgung von Anlagen (z. B. eines Kernkraftwerks) oder gewisser Sachanlagen (z. B. von Kraftfahrzeugen) oder bei der Umweltsanierung (z. B. Bereinigung von Gewässerverschmutzung oder Rekultivierung von Bergbaugeländen), zusammen als „Entsorgung“ bezeichnet, anfallen.
+
+2 Beiträge zu diesen Fonds können auf freiwilliger Basis erfolgen oder durch eine Verordnung bzw. gesetzlich vorgeschrieben sein. Die Fonds können eine der folgenden Strukturen aufweisen:
+a) 
+
+von einem einzelnen Teilnehmer eingerichtete Fonds zur Finanzierung seiner eigenen Entsorgungsverpflichtungen, sei es für einen bestimmten oder für mehrere, geografisch verteilte Orte,
+b) 
+
+von mehreren Teilnehmern eingerichtete Fonds zur Finanzierung ihrer individuellen oder gemeinsamen Entsorgungsverpflichtungen, wobei die Teilnehmer einen Anspruch auf Erstattung der Entsorgungsaufwendungen bis zur Höhe ihrer Beiträge und der angefallenen Erträge aus diesen Beiträgen abzüglich ihres Anteils an den Verwaltungskosten des Fonds haben; die Teilnehmer unterliegen eventuell der Pflicht, zusätzliche Beiträge zu leisten, beispielsweise im Fall der Insolvenz eines Teilnehmers,
+c) 
+
+von mehreren Teilnehmern eingerichtete Fonds zur Finanzierung ihrer individuellen oder gemeinsamen Entsorgungsverpflichtungen, wobei sich die Höhe des Beitrags jedes Teilnehmers nach seiner derzeitigen Tätigkeit und die Höhe seines Anspruchs nach seiner vergangenen Tätigkeit bestimmt; in diesen Fällen besteht eine potenzielle Inkongruenz bezüglich der Höhe der von einem Teilnehmer geleisteten Beiträge (auf Grundlage der derzeitigen Tätigkeit) und des aus dem Fonds realisierbaren Werts (auf Grundlage der vergangenen Tätigkeit).
+
+3 Im Allgemeinen haben diese Fonds folgende Merkmale:
+a) 
+
+der Fonds wird von unabhängigen Treuhändern gesondert verwaltet,
+b) 
+
+Unternehmen (Teilnehmer) leisten Beiträge an den Fonds, die in verschiedene Vermögenswerte, die sowohl Anlagen in Schuld- als auch in Beteiligungstitel umfassen können, investiert werden und die den Teilnehmern für die Begleichung ihres Entsorgungsaufwands zur Verfügung stehen; die Treuhänder bestimmen, wie die Beiträge nach Maßgabe der in der Satzung des Fonds dargelegten Beschränkungen sowie der anzuwendenden Gesetze oder sonstigen Vorschriften investiert werden,
+c) 
+
+die Begleichung des Entsorgungsaufwands obliegt den Teilnehmern; die Teilnehmer können jedoch eine Erstattung des Entsorgungsaufwands aus dem Fonds erhalten, die höchstens dem Anteil des Teilnehmers an den Vermögenswerten des Fonds entspricht und den tatsächlichen Entsorgungsaufwand nicht übersteigen kann,
+d) 
+
+der Zugriff der Teilnehmer auf den Teil der Vermögenswerte, der über die zur Begleichung des erstattungsfähigen Entsorgungsaufwands hinaus im Fonds verbleibt, kann begrenzt oder ganz verwehrt sein.
+
+ANWENDUNGSBEREICH
+
+4 Diese Interpretation ist in Abschlüssen eines Teilnehmers für die Bilanzierung von Anteilen an Entsorgungsfonds anzuwenden, welche die beiden folgenden Merkmale aufweisen:
+a) 
+
+die Vermögenswerte werden gesondert verwaltet (sie werden entweder in einer eigenständigen rechtlichen Einheit oder innerhalb einer anderen Einheit als getrennte Vermögenswerte gehalten) und
+b) 
+
+die Zugriffsrechte der Teilnehmer auf die Vermögenswerte sind begrenzt.
+
+5 Ein über den Erstattungsanspruch hinaus gehender Residualanspruch, wie beispielsweise ein vertragliches Recht auf Ausschüttung nach Durchführung aller Entsorgungen oder bei Auflösung des Fonds, kann als unter IFRS 9 fallendes Eigenkapitalinstrument eingestuft werden und fällt nicht in den Anwendungsbereich dieser Interpretation.
+
+FRAGESTELLUNGEN
+
+6 Diese Interpretation betrifft die folgenden Fragen:
+a) 
+
+Wie hat ein Teilnehmer seinen Anteil an einem Fonds zu bilanzieren?
+b) 
+
+Wie hat ein Teilnehmer seine Verpflichtung zu bilanzieren, wenn er zusätzliche Beiträge zu leisten hat, beispielsweise im Falle der Insolvenz eines anderen Teilnehmers?
+
+BESCHLUSS
+
+Bilanzierung eines Anteils an einem Fonds
+
+7 Der Teilnehmer hat seine Verpflichtung, den Entsorgungsaufwand zu begleichen, als Rückstellung und seinen Anteil an dem Fonds getrennt anzusetzen, es sei denn, der Teilnehmer haftet in dem Fall, dass der Fonds nicht zahlt, nicht für die Begleichung des Entsorgungsaufwands.
+
+8 Der Teilnehmer hat zu bestimmen, ob er nach IFRS 10, IFRS 11 und IAS 28 den Fonds beherrscht, an der gemeinschaftlichen Führung des Fonds beteiligt ist oder einen maßgeblichen Einfluss auf den Fonds hat. Wenn dies der Fall ist, hat der Teilnehmer seinen Anteil an dem Fonds gemäß diesen Standards zu bilanzieren.
+
+9 Wenn der Teilnehmer den Fonds nicht beherrscht, nicht an seiner gemeinschaftlichen Führung beteiligt ist und keinen maßgeblichen Einfluss auf ihn hat, so hat er den Erstattungsanspruch aus dem Fonds gemäß IAS 37 als Erstattung anzusetzen. Diese Erstattung ist zu dem niedrigeren Betrag aus
+a) 
+
+dem Betrag der angesetzten Entsorgungsverpflichtung und
+b) 
+
+dem Anteil des Teilnehmers am beizulegenden Zeitwert der den Teilnehmern zustehenden Nettovermögenswerte des Fonds zu bewerten.
+
+Änderungen des Buchwerts des Erstattungsanspruchs sind in der Berichtsperiode, in der sie anfallen, erfolgswirksam zu erfassen, nicht aber Beiträge an den Fonds und Zahlungen aus dem Fonds.
+
+Bilanzierung von Verpflichtungen zur Leistung zusätzlicher Beiträge
+
+10 Ist ein Teilnehmer verpflichtet, bei Bedarf zusätzliche Beiträge zu leisten, beispielsweise im Fall der Insolvenz eines anderen Teilnehmers oder falls der Wert der vom Fonds gehaltenen Anlagevermögenswerte so weit fällt, dass diese nicht mehr ausreichen, um die Erstattungsverpflichtungen des Fonds zu erfüllen, so ist diese Verpflichtung als unter IAS 37 fallende Eventualverbindlichkeit einzustufen. Der Teilnehmer hat nur dann eine Rückstellung anzusetzen, wenn die Leistung zusätzlicher Beiträge wahrscheinlich ist.
+
+Angaben
+
+11 Ein Teilnehmer hat die Art seines Fondsanteils sowie alle den Zugriff auf die Vermögenswerte des Fonds betreffenden Beschränkungen anzugeben.
+
+12 Besteht für einen Teilnehmer die Verpflichtung, bei Bedarf zusätzliche Beiträge zu leisten, und hat er für diese Verpflichtung keine Rückstellung angesetzt (siehe Paragraph 10), so hat er die in Paragraph 86 von IAS 37 verlangten Angaben zu machen.
+
+13 Bilanziert ein Teilnehmer seinen Fondsanteil nach Paragraph 9, so hat er die in Paragraph 85(c) von IAS 37 verlangten Angaben zu machen.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+14 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2006 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diese Interpretation auf Berichtsperioden an, die vor dem 1. Januar 2006 beginnen, hat es dies anzugeben.
+
+14A [gestrichen]
+
+14B Mit den im Mai 2011 veröffentlichten IFRS 10 und IFRS 11 wurden die Paragraphen 8 und 9 geändert. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+14C [gestrichen]
+
+14D Mit dem im Juli 2014 veröffentlichten IFRS 9 wurde Paragraph 5 geändert und wurden die Paragraphen 14A und 14C gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+ÜBERGANGSVORSCHRIFTEN
+
+15 Änderungen der Rechnungslegungsmethoden sind gemäß IAS 8 zu bilanzieren.

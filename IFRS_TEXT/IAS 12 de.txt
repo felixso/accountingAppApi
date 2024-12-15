@@ -1,0 +1,1082 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 12
+
+Ertragsteuern
+
+ZIELSETZUNG
+
+Zielsetzung dieses Standards ist die Regelung der Bilanzierung von Ertragsteuern. Die grundsätzliche Fragestellung bei der Bilanzierung von Ertragsteuern ist die Behandlung gegenwärtiger und künftiger steuerlicher Konsequenzen aus
+a) 
+
+der künftigen Realisierung (Erfüllung) des Buchwerts von Vermögenswerten (Schulden), welche in der Bilanz eines Unternehmens angesetzt sind, und
+b) 
+
+Geschäftsvorfällen und anderen Ereignissen der aktuellen Berichtsperiode, die im Abschluss eines Unternehmens erfasst sind.
+
+Es ist dem Ansatz eines Vermögenswerts oder einer Schuld inhärent, dass das berichtende Unternehmen erwartet, den Buchwert dieses Vermögenswerts zu realisieren bzw. diese Schuld zum Buchwert zu erfüllen. Falls es wahrscheinlich ist, dass die Realisierung oder die Erfüllung dieses Buchwerts zu zukünftigen höheren (niedrigeren) Steuerzahlungen führen würde, als dies der Fall wäre, wenn eine solche Realisierung oder eine solche Erfüllung keine steuerlichen Konsequenzen hätte, dann verlangt dieser Standard von einem Unternehmen, von bestimmten begrenzten Ausnahmen abgesehen, den Ansatz einer latenten Steuerschuld (eines latenten Steueranspruchs).
+
+Dieser Standard verlangt von einem Unternehmen, dass es die steuerlichen Konsequenzen von Geschäftsvorfällen und anderen Ereignissen grundsätzlich auf die gleiche Weise bilanziert wie die Geschäftsvorfälle und anderen Ereignisse selbst. Für Geschäftsvorfälle und andere Ereignisse, die erfolgswirksam erfasst werden, werden alle damit verbundenen steuerlichen Auswirkungen ebenfalls erfolgswirksam erfasst. Für Geschäftsvorfälle und andere Ereignisse, die außerhalb des Gewinns oder Verlusts (entweder im sonstigen Ergebnis oder direkt im Eigenkapital) erfasst werden, werden alle damit verbundenen steuerlichen Auswirkungen ebenfalls nicht erfolgswirksam (entweder im sonstigen Ergebnis oder direkt im Eigenkapital) erfasst. Gleichermaßen beeinflusst der Ansatz latenter Steueransprüche und latenter Steuerschulden aus einem Unternehmenszusammenschluss den Betrag des aus diesem Unternehmenszusammenschluss entstandenen Geschäfts- oder Firmenwerts oder den Betrag des aus dem Erwerb zu einem Preis unter dem Marktwert erfassten Gewinns.
+
+Dieser Standard befasst sich ebenfalls mit dem Ansatz latenter Steueransprüche aus bislang ungenutzten steuerlichen Verlusten oder noch nicht genutzten Steuergutschriften, der Darstellung von Ertragsteuern im Abschluss und den Angabepflichten in Bezug auf Informationen zu den Ertragsteuern.
+
+ANWENDUNGSBEREICH
+
+1   Dieser Standard ist bei der Bilanzierung von Ertragsteuern anzuwenden.
+
+2 Für die Zwecke dieses Standards umfassen Ertragsteuern alle in- und ausländischen Steuern auf Grundlage des zu versteuernden Gewinns. Zu den Ertragsteuern gehören auch Steuern wie Quellensteuern, welche von einem Tochterunternehmen, einem assoziierten Unternehmen oder einer gemeinschaftlichen Vereinbarung aufgrund von Ausschüttungen an das berichtende Unternehmen geschuldet werden.
+
+3 [gestrichen]
+
+4 Dieser Standard befasst sich nicht mit den Methoden der Bilanzierung von Zuwendungen der öffentlichen Hand (siehe IAS 20 Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand) oder von investitionsabhängigen Steuergutschriften. Dieser Standard befasst sich jedoch mit der Bilanzierung temporärer Differenzen, die aus solchen öffentlichen Zuwendungen oder investitionsabhängigen Steuergutschriften resultieren können.
+
+▼M1
+
+4A Dieser Standard gilt für Ertragsteuern, die sich aus geltenden oder angekündigten Steuervorschriften zur Umsetzung der von der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) veröffentlichten Säule-2-Mustervorschriften ergeben, worunter auch Steuervorschriften fallen, mit denen die in diesen Regeln beschriebenen anerkannten nationalen Ergänzungssteuern implementiert werden. Diese Steuervorschriften und die sich daraus ergebenden Ertragsteuern werden im Folgenden als „Säule-2-Gesetze“ bzw. „Säule-2-Ertragsteuern“ bezeichnet. Abweichend von den Anforderungen dieses Standards darf ein Unternehmen latente Steueransprüche und latente Steuerschulden im Zusammenhang mit Säule-2-Ertragsteuern weder ansetzen noch angeben.
+
+▼B
+
+DEFINITIONEN
+
+5   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Das bilanzielle Ergebnis vor Steuern ist der Gewinn oder Verlust einer Periode vor Abzug des Steueraufwands.
+Der zu versteuernde Gewinn (der steuerliche Verlust) ist der nach den steuerlichen Vorschriften ermittelte Gewinn oder Verlust der Periode, aufgrund dessen die Ertragsteuern zahlbar (erstattungsfähig) sind.
+Der Steueraufwand (Steuerertrag) ist die Summe des Betrags aus tatsächlichen Steuern und latenten Steuern, die in die Ermittlung des Gewinns oder Verlusts der Periode eingeht.
+Die tatsächlichen Ertragsteuern sind der Betrag der geschuldeten (erstattungsfähigen) Ertragsteuern, der aus dem zu versteuernden Gewinn (steuerlichen Verlust) der Periode resultiert.
+Die latenten Steuerschulden sind die Beträge an Ertragsteuern, die in zukünftigen Perioden resultierend aus zu versteuernden temporären Differenzen zahlbar sind.
+Die latenten Steueransprüche sind die Beträge an Ertragsteuern, die in zukünftigen Perioden erstattungsfähig sind und aus
+a) 
+
+abzugsfähigen temporären Differenzen,
+b) 
+
+dem Vortrag noch nicht genutzter steuerlicher Verluste und
+c) 
+
+dem Vortrag noch nicht genutzter Steuergutschriften resultieren.
+Temporäre Differenzen sind Unterschiedsbeträge zwischen dem Buchwert eines Vermögenswerts oder einer Schuld in der Bilanz und seiner bzw. ihrer steuerlichen Basis. Temporäre Differenzen können entweder
+a) 
+
+zu versteuernde temporäre Differenzen sein, die temporäre Differenzen darstellen, die zu steuerpflichtigen Beträgen bei der Ermittlung des zu versteuernden Gewinns (steuerlichen Verlustes) zukünftiger Perioden führen, wenn der Buchwert des Vermögenswerts realisiert oder die Schuld erfüllt wird, oder
+b) 
+
+abzugsfähige temporäre Differenzen sein, die temporäre Differenzen darstellen, die zu Beträgen führen, die bei der Ermittlung des zu versteuernden Gewinns (steuerlichen Verlustes) zukünftiger Perioden abzugsfähig sind, wenn der Buchwert des Vermögenswerts realisiert oder die Schuld erfüllt wird.
+
+Die steuerliche Basis eines Vermögenswerts oder einer Schuld ist der diesem Vermögenswert oder dieser Schuld für steuerliche Zwecke beizulegende Betrag.
+
+6 Der Steueraufwand (Steuerertrag) umfasst den tatsächlichen Steueraufwand (tatsächlichen Steuerertrag) und den latenten Steueraufwand (latenten Steuerertrag).
+
+Steuerliche Basis
+
+7 Die steuerliche Basis eines Vermögenswerts ist der Betrag, der für steuerliche Zwecke von allen zu versteuernden wirtschaftlichen Vorteilen abgezogen werden kann, die einem Unternehmen bei Realisierung des Buchwerts des Vermögenswerts zufließen werden. Sind diese wirtschaftlichen Vorteile nicht zu versteuern, dann ist die steuerliche Basis des Vermögenswerts gleich seinem Buchwert.
+
+Beispiele
+1. 
+
+Eine Maschine kostet 100. In der aktuellen Berichtsperiode und in früheren Perioden wurde für steuerliche Zwecke bereits eine Abschreibung von 30 abgezogen, und die verbleibenden Anschaffungskosten sind in zukünftigen Perioden entweder als Abschreibung oder durch einen Abzug bei der Veräußerung steuerlich abzugsfähig. Die sich aus der Nutzung der Maschine ergebenden Umsatzerlöse sind zu versteuern, ebenso ist jeder Veräußerungsgewinn aus dem Verkauf der Maschine zu versteuern bzw. jeder Veräußerungsverlust für steuerliche Zwecke abzugsfähig. Die steuerliche Basis der Maschine beträgt 70.
+2. 
+
+Forderungen aus Zinsen haben einen Buchwert von 100. Die damit verbundenen Zinserlöse werden bei Zufluss besteuert. Die steuerliche Basis der Zinsforderungen beträgt null.
+3. 
+
+Forderungen aus Lieferungen und Leistungen haben einen Buchwert von 100. Die damit verbundenen Umsatzerlöse wurden bereits in den zu versteuernden Gewinn (den steuerlichen Verlust) einbezogen. Die steuerliche Basis der Forderungen aus Lieferungen und Leistungen beträgt 100.
+4. 
+
+Dividendenforderungen gegen ein Tochterunternehmen haben einen Buchwert von 100. Die Dividenden sind nicht zu versteuern. Dem Grunde nach ist der gesamte Buchwert des Vermögenswerts von dem zufließenden wirtschaftlichen Nutzen abzugsfähig. Folglich beträgt die steuerliche Basis der Dividendenforderungen 100 ( 6 ).
+5. 
+
+Eine Darlehensforderung hat einen Buchwert von 100. Die Rückzahlung des Darlehens zieht keine steuerlichen Konsequenzen nach sich. Die steuerliche Basis des Darlehens beträgt 100.
+
+8 Die steuerliche Basis einer Schuld ist deren Buchwert abzüglich aller Beträge, die für steuerliche Zwecke hinsichtlich dieser Schuld in zukünftigen Perioden abzugsfähig sind. Im Falle von im Voraus gezahlten Umsatzerlösen ist die steuerliche Basis der sich ergebenden Schuld ihr Buchwert abzüglich aller Beträge aus diesen Umsatzerlösen, die in Folgeperioden nicht besteuert werden.
+
+Beispiele
+1. 
+
+Kurzfristige Schulden schließen Aufwandsabgrenzungen (sonstige Verbindlichkeiten) mit einem Buchwert von 100 ein. Der damit verbundene Aufwand wird für steuerliche Zwecke bei Zahlung erfasst. Die steuerliche Basis der sonstigen Verbindlichkeiten ist null.
+2. 
+
+Kurzfristige Schulden schließen vorausbezahlte Zinserlöse mit einem Buchwert von 100 ein. Der damit verbundene Zinserlös wurde bei Zufluss besteuert. Die steuerliche Basis der vorausbezahlten Zinsen ist null.
+3. 
+
+Kurzfristige Schulden schließen Aufwandsabgrenzungen (sonstige Verbindlichkeiten) mit einem Buchwert von 100 ein. Der damit verbundene Aufwand wurde für steuerliche Zwecke bereits abgezogen. Die steuerliche Basis der sonstigen Verbindlichkeiten ist 100.
+4. 
+
+Kurzfristige Schulden schließen passivierte Geldbußen und -strafen mit einem Buchwert von 100 ein. Geldbußen und -strafen sind steuerlich nicht abzugsfähig. Die steuerliche Basis der passivierten Geldbußen und -strafen beträgt 100 ( 7 ).
+5. 
+
+Eine Darlehensverbindlichkeit hat einen Buchwert von 100. Die Rückzahlung des Darlehens zieht keine steuerlichen Konsequenzen nach sich. Die steuerliche Basis des Darlehens beträgt 100.
+
+9 Einige Sachverhalte haben zwar eine steuerliche Basis, sie sind jedoch in der Bilanz nicht als Vermögenswerte oder Schulden angesetzt. Beispielsweise werden Forschungskosten bei der Bestimmung des bilanziellen Ergebnisses vor Steuern in der Periode, in welcher sie anfallen, als Aufwand angesetzt, während ihr Abzug bei der Ermittlung des zu versteuernden Gewinns (steuerlichen Verlusts) möglicherweise erst in einer späteren Periode zulässig ist. Der Unterschiedsbetrag zwischen der steuerlichen Basis der Forschungskosten, der von den Steuerbehörden als ein in zukünftigen Perioden abzugsfähiger Betrag anerkannt wird, und dem Buchwert von null ist eine abzugsfähige temporäre Differenz, die einen latenten Steueranspruch zur Folge hat.
+
+10 Ist die steuerliche Basis eines Vermögenswerts oder einer Schuld nicht unmittelbar erkennbar, ist es hilfreich, das Grundprinzip, auf dem dieser Standard aufgebaut ist, heranzuziehen: Ein Unternehmen hat, mit wenigen festgelegten Ausnahmen, eine latente Steuerschuld (einen latenten Steueranspruch) dann anzusetzen, wenn die Realisierung oder die Erfüllung des Buchwerts des Vermögenswerts oder der Schuld zu zukünftigen höheren (niedrigeren) Steuerzahlungen führen würde, als dies der Fall wäre, wenn eine solche Realisierung oder Erfüllung keine steuerlichen Konsequenzen hätte. Beispiel C nach Paragraph 51A stellt Umstände dar, in denen es hilfreich sein kann, dieses Grundprinzip heranzuziehen, beispielsweise, wenn die steuerliche Basis eines Vermögenswerts oder einer Schuld von der erwarteten Art der Realisierung oder Erfüllung abhängt.
+
+11 In einem Konzernabschluss werden temporäre Differenzen durch den Vergleich der Buchwerte von Vermögenswerten und Schulden im Konzernabschluss mit der zutreffenden steuerlichen Basis ermittelt. Die steuerliche Basis wird durch Bezugnahme auf eine Steuererklärung für den Konzern in den Ländern ermittelt, in denen eine solche Steuererklärung abgegeben wird. In anderen Ländern wird die steuerliche Basis durch Bezugnahme auf die Steuererklärungen der einzelnen Unternehmen des Konzerns ermittelt.
+
+ANSATZ TATSÄCHLICHER STEUERSCHULDEN UND TATSÄCHLICHER STEUERANSPRÜCHE
+
+12   Die tatsächlichen Ertragsteuern für die laufende und frühere Perioden sind in dem Umfang, in dem sie noch nicht bezahlt sind, als Schuld anzusetzen. Falls der auf die laufende und frühere Perioden entfallende und bereits bezahlte Betrag den für diese Perioden geschuldeten Betrag übersteigt, so ist der Unterschiedsbetrag als Vermögenswert anzusetzen.
+
+13   Der in der Erstattung tatsächlicher Ertragsteuern einer früheren Periode bestehende Vorteil eines steuerlichen Verlustrücktrags ist als Vermögenswert anzusetzen.
+
+14 Wenn ein steuerlicher Verlust zu einem Verlustrücktrag und zur Erstattung tatsächlicher Ertragsteuern einer früheren Periode genutzt wird, so setzt ein Unternehmen den Erstattungsanspruch als einen Vermögenswert in der Periode an, in der der steuerliche Verlust entsteht, da es wahrscheinlich ist, dass der Nutzen aus dem Erstattungsanspruch dem Unternehmen zufließen wird und verlässlich ermittelt werden kann.
+
+ANSATZ LATENTER STEUERSCHULDEN UND LATENTER STEUERANSPRÜCHE
+
+ZU VERSTEUERNDE TEMPORÄRE DIFFERENZEN
+
+15   Für alle zu versteuernden temporären Differenzen ist eine latente Steuerschuld anzusetzen, es sei denn, die latente Steuerschuld erwächst aus
+a) 
+
+dem erstmaligen Ansatz des Geschäfts- oder Firmenwerts oder
+b) 
+
+dem erstmaligen Ansatz eines Vermögenswerts oder einer Schuld bei einem Geschäftsvorfall, der
+i) 
+
+kein Unternehmenszusammenschluss ist,
+ii) 
+
+zum Zeitpunkt des Geschäftsvorfalls weder das bilanzielle Ergebnis vor Steuern noch den zu versteuernden Gewinn (den steuerlichen Verlust) beeinflusst und
+iii) 
+
+zum Zeitpunkt des Geschäftsvorfalls keine zu versteuernden und abzugsfähigen temporären Differenzen in gleicher Höhe bewirkt.
+
+Bei zu versteuernden temporären Differenzen in Verbindung mit Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen sowie Anteilen an gemeinschaftlichen Vereinbarungen ist jedoch eine latente Steuerschuld gemäß Paragraph 39 anzusetzen.
+
+16 Definitionsgemäß wird bei dem Ansatz eines Vermögenswerts angenommen, dass sein Buchwert durch einen wirtschaftlichen Nutzen, der dem Unternehmen in zukünftigen Perioden zufließt, realisiert wird. Wenn der Buchwert des Vermögenswerts seine steuerliche Basis übersteigt, wird der Betrag des zu versteuernden wirtschaftlichen Nutzens den steuerlich abzugsfähigen Betrag übersteigen. Dieser Unterschiedsbetrag ist eine zu versteuernde temporäre Differenz, und die Zahlungsverpflichtung für die auf ihn in zukünftigen Perioden entstehenden Ertragsteuern ist eine latente Steuerschuld. Wenn das Unternehmen den Buchwert des Vermögenswerts realisiert, löst sich die zu versteuernde temporäre Differenz auf, und das Unternehmen erzielt einen zu versteuernden Gewinn. Dadurch ist es wahrscheinlich, dass das Unternehmen durch den Abfluss eines wirtschaftlichen Nutzens in Form von Steuerzahlungen belastet wird. Daher sind gemäß diesem Standard alle latenten Steuerschulden anzusetzen, ausgenommen bei Vorliegen gewisser Sachverhalte, die in den Paragraphen 15 und 39 beschrieben werden.
+
+Beispiel
+
+Ein Vermögenswert mit Anschaffungskosten von 150 hat einen Buchwert von 100. Die kumulierte Abschreibung für Steuerzwecke beträgt 90, und der Steuersatz ist 25 %.
+
+Die steuerliche Basis des Vermögenswerts beträgt 60 (Anschaffungskosten von 150 abzüglich der kumulierten steuerlichen Abschreibung von 90). Um den Buchwert von 100 zu realisieren, muss das Unternehmen ein zu versteuerndes Ergebnis von 100 erzielen, es kann aber lediglich eine steuerliche Abschreibung von 60 erfassen. Als Folge wird das Unternehmen bei Realisierung des Buchwerts des Vermögenswerts Ertragsteuern von 10 (25 % von 40) bezahlen. Der Unterschiedsbetrag zwischen dem Buchwert von 100 und der steuerlichen Basis von 60 ist eine zu versteuernde temporäre Differenz von 40. Daher setzt das Unternehmen eine latente Steuerschuld von 10 (25 % von 40) an, die die Ertragsteuern darstellt, die es bei Realisierung des Buchwerts des Vermögenswerts zu bezahlen hat.
+
+17 Einige temporäre Differenzen können entstehen, wenn Ertrag oder Aufwand in einer Periode in das bilanzielle Ergebnis vor Steuern einbezogen werden, aber in einer anderen Periode in den zu versteuernden Gewinn einfließen. Solche temporären Differenzen werden oft als zeitliche Ergebnisunterschiede bezeichnet. Im Folgenden sind Beispiele von temporären Differenzen dieser Art aufgeführt. Es handelt sich dabei um zu versteuernde temporäre Differenzen, welche folglich zu latenten Steuerschulden führen:
+a) 
+
+Zinserlöse werden im bilanziellen Ergebnis vor Steuern auf Grundlage einer zeitlichen Abgrenzung erfasst, sie können jedoch gemäß einigen Steuergesetzgebungen zum Zeitpunkt des Zuflusses der Zahlung als zu versteuernder Gewinn behandelt werden. Die steuerliche Basis aller derartigen in der Bilanz angesetzten Forderungen ist null, weil die Umsatzerlöse den zu versteuernden Gewinn erst mit Erhalt der Zahlung beeinflussen.
+b) 
+
+Die zur Ermittlung des zu versteuernden Gewinns (steuerlichen Verlusts) verwendete Abschreibung kann sich von der zur Ermittlung des bilanziellen Ergebnisses vor Steuern verwendeten unterscheiden. Die temporäre Differenz ist der Unterschiedsbetrag zwischen dem Buchwert des Vermögenswerts und seiner steuerlichen Basis, der sich aus den ursprünglichen Anschaffungs- oder Herstellungskosten des Vermögenswerts abzüglich aller von den Steuerbehörden zur Ermittlung des zu versteuernden Gewinns der laufenden und für frühere Perioden zugelassenen Abschreibungen auf diesen Vermögenswert berechnet. Eine zu versteuernde temporäre Differenz entsteht und erzeugt eine latente Steuerschuld, wenn die steuerliche Abschreibungsrate über der berichteten planmäßigen Abschreibung liegt (falls die steuerliche Abschreibung langsamer ist als die berichtete planmäßige, entsteht eine abzugsfähige temporäre Differenz, die zu einem latenten Steueranspruch führt).
+c) 
+
+Entwicklungskosten können bei der Ermittlung des bilanziellen Ergebnisses vor Steuern zunächst aktiviert und in späteren Perioden abgeschrieben werden; bei der Ermittlung des zu versteuernden Gewinns werden sie jedoch in der Periode abgezogen, in der sie anfallen. Solche Entwicklungskosten haben eine steuerliche Basis von null, da sie bereits vom zu versteuernden Gewinn abgezogen wurden. Die temporäre Differenz ist der Unterschiedsbetrag zwischen dem Buchwert der Entwicklungskosten und ihrer steuerlichen Basis von null.
+
+18 Temporäre Differenzen entstehen ebenfalls, wenn
+a) 
+
+die bei einem Unternehmenszusammenschluss erworbenen identifizierbaren Vermögenswerte und die übernommenen Schulden gemäß IFRS 3 Unternehmenszusammenschlüsse mit ihren beizulegenden Zeitwerten angesetzt werden, jedoch keine entsprechende Bewertungsanpassung für Steuerzwecke erfolgt (siehe Paragraph 19),
+b) 
+
+Vermögenswerte neu bewertet werden und für Steuerzwecke keine entsprechende Bewertungsanpassung durchgeführt wird (siehe Paragraph 20),
+c) 
+
+ein Geschäfts- oder Firmenwert bei einem Unternehmenszusammenschluss entsteht (siehe Paragraph 21),
+d) 
+
+die steuerliche Basis eines Vermögenswerts oder einer Schuld beim erstmaligen Ansatz von dessen bzw. deren anfänglichem Buchwert abweicht, beispielsweise, wenn ein Unternehmen steuerfreie Zuwendungen der öffentlichen Hand für bestimmte Vermögenswerte erhält (siehe Paragraphen 22 und 33), oder
+e) 
+
+der Buchwert von Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen oder Anteilen an gemeinschaftlichen Vereinbarungen sich verändert hat, sodass er sich von der steuerlichen Basis der Beteiligung oder des Anteils unterscheidet (siehe Paragraphen 38–45).
+
+Unternehmenszusammenschlüsse
+
+19 Die bei einem Unternehmenszusammenschluss erworbenen identifizierbaren Vermögenswerte und die übernommenen Schulden werden mit begrenzten Ausnahmen mit ihren beizulegenden Zeitwerten zum Erwerbszeitpunkt angesetzt. Temporäre Differenzen entstehen, wenn die steuerliche Basis der erworbenen identifizierbaren Vermögenswerte oder übernommenen identifizierbaren Schulden vom Unternehmenszusammenschluss nicht oder anders beeinflusst wird. Wenn beispielsweise der Buchwert eines Vermögenswerts auf seinen beizulegenden Zeitwert erhöht wird, die steuerliche Basis des Vermögenswerts jedoch weiterhin dem Betrag der Anschaffungs- oder Herstellungskosten des früheren Eigentümers entspricht, führt dies zu einer zu versteuernden temporären Differenz, aus der eine latente Steuerschuld resultiert. Die sich ergebende latente Steuerschuld beeinflusst den Geschäfts- oder Firmenwert (siehe Paragraph 66).
+
+Vermögenswerte, die zum beizulegenden Zeitwert bilanziert werden
+
+20 IFRS gestatten oder verlangen, dass bestimmte Vermögenswerte zum beizulegenden Zeitwert bilanziert oder neubewertet werden (siehe zum Beispiel IAS 16 Sachanlagen, IAS 38 Immaterielle Vermögenswerte, IAS 40 Als Finanzinvestition gehaltene Immobilien, IFRS 9 Finanzinstrumente und IFRS 16 Leasingverhältnisse). In manchen Rechtskreisen beeinflusst die Neubewertung oder eine andere Anpassung eines Vermögenswerts auf den beizulegenden Zeitwert den zu versteuernden Gewinn (den steuerlichen Verlust) der laufenden Berichtsperiode. Als Folge davon wird die steuerliche Basis des Vermögenswerts angepasst, und es entstehen keine temporären Differenzen. In anderen Steuerrechtsordnungen beeinflusst die Neubewertung oder Anpassung eines Vermögenswerts nicht den zu versteuernden Gewinn der Periode der Neubewertung oder der Anpassung, und demzufolge wird die steuerliche Basis des Vermögenswerts nicht angepasst. Trotzdem führt die künftige Realisierung des Buchwerts zu einem zu versteuernden Zufluss an wirtschaftlichem Nutzen für das Unternehmen und der Betrag, der für Steuerzwecke abzugsfähig ist, wird von dem des wirtschaftlichen Nutzens abweichen. Der Unterschiedsbetrag zwischen dem Buchwert eines neubewerteten Vermögenswerts und seiner steuerlichen Basis ist eine temporäre Differenz und führt zu einer latenten Steuerschuld oder einem latenten Steueranspruch. Dies trifft auch zu, wenn
+a) 
+
+das Unternehmen keine Veräußerung des Vermögenswerts beabsichtigt. In solchen Fällen wird der neubewertete Buchwert des Vermögenswerts durch seine Nutzung realisiert, und dies erzeugt ein zu versteuerndes Ergebnis, das die in den Folgeperioden steuerlich zulässigen Abschreibungen übersteigt, oder
+b) 
+
+die Steuer auf Kapitalerträge aufgeschoben wird, wenn die Erlöse aus dem Verkauf des Vermögenswerts in ähnliche Vermögenswerte wieder investiert werden. In solchen Fällen wird die Steuerzahlung endgültig bei Verkauf oder Nutzung der ähnlichen Vermögenswerte fällig.
+
+Geschäfts- oder Firmenwert
+
+21 Der bei einem Unternehmenszusammenschluss entstehende Geschäfts- oder Firmenwert wird mit dem Betrag bewertet, um den (a) (b) übersteigt:
+a) 
+
+die Summe aus
+i) 
+
+der übertragenen Gegenleistung, die gemäß IFRS 3 im Allgemeinen zu dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert bestimmt wird,
+ii) 
+
+dem Betrag aller nicht beherrschenden Anteile an dem erworbenen Unternehmen, die gemäß IFRS 3 angesetzt werden, und
+iii) 
+
+dem zum Erwerbszeitpunkt geltenden beizulegenden Zeitwert des zuvor vom Erwerber gehaltenen Eigenkapitalanteils an dem erworbenen Unternehmen, wenn es sich um einen sukzessiven Unternehmenszusammenschluss handelt;
+b) 
+
+der Saldo der zum Erwerbszeitpunkt bestehenden und gemäß IFRS 3 bewerteten Beträge der erworbenen identifizierbaren Vermögenswerte und der übernommenen Schulden.
+
+Viele Steuerbehörden gestatten bei der Ermittlung des zu versteuernden Gewinns keine Verminderungen des Buchwerts des Geschäfts- oder Firmenwerts als abzugsfähigen betrieblichen Aufwand. Außerdem sind die Anschaffungskosten des Geschäfts- oder Firmenwerts nach solchen Rechtsordnungen häufig nicht abzugsfähig, wenn ein Tochterunternehmen sein zugrunde liegendes Geschäft veräußert. Bei dieser Rechtslage hat der Geschäfts- oder Firmenwert eine steuerliche Basis von null. Jeglicher Unterschiedsbetrag zwischen dem Buchwert des Geschäfts- oder Firmenwerts und seiner steuerlichen Basis von null ist eine zu versteuernde temporäre Differenz. Dieser Standard erlaubt jedoch nicht den Ansatz der entstehenden latenten Steuerschuld, weil der Geschäfts- oder Firmenwert als ein Restwert bewertet wird und der Ansatz der latenten Steuerschuld wiederum eine Erhöhung des Buchwerts des Geschäfts- oder Firmenwerts zur Folge hätte.
+
+21A Nachträgliche Verringerungen einer latenten Steuerschuld, die nicht angesetzt ist, da sie aus einem erstmaligen Ansatz eines Geschäfts- oder Firmenwerts hervorging, werden angesehen, als wären sie aus dem erstmaligen Ansatz des Geschäfts- oder Firmenwerts entstanden und daher gemäß Paragraph 15(a) nicht angesetzt. Wenn beispielsweise ein Unternehmen einen bei einem Unternehmenszusammenschluss erworbenen Geschäfts- oder Firmenwert, der eine steuerliche Basis von null hat, mit 100 WE ansetzt, untersagt Paragraph 15(a) dem Unternehmen, die daraus entstehende latente Steuerschuld anzusetzen. Wenn das Unternehmen nachträglich einen Wertminderungsaufwand von 20 WE für diesen Geschäfts- oder Firmenwert ansetzt, so wird der Betrag der zu versteuernden temporären Differenz in Bezug auf den Geschäfts- oder Firmenwert von 100 WE auf 80 WE vermindert mit einer sich daraus ergebenden Wertminderung der nicht angesetzten latenten Steuerschuld. Diese Wertminderung der nicht angesetzten latenten Steuerschuld wird angesehen, als wäre sie aus dem erstmaligen Ansatz des Geschäfts- oder Firmenwerts entstanden, und ist daher gemäß Paragraph 15(a) vom Ansatz ausgenommen.
+
+21B Latente Steuerschulden für zu versteuernde temporäre Differenzen werden jedoch in Bezug auf den Geschäfts- oder Firmenwert in dem Maße angesetzt, in dem sie nicht aus dem erstmaligen Ansatz des Geschäfts- oder Firmenwerts hervorgehen. Wenn ein bei einem Unternehmenszusammenschluss erworbener Geschäfts- oder Firmenwert beispielsweise mit 100 WE angesetzt wird und mit einem Satz von 20 Prozent pro Jahr steuerlich abzugsfähig ist, beginnend im Erwerbsjahr, so beläuft sich die steuerliche Basis des Geschäfts- oder Firmenwerts bei erstmaligem Ansatz auf 100 WE und am Ende des Erwerbsjahrs auf 80 WE. Wenn der Buchwert des Geschäfts- oder Firmenwerts am Ende des Erwerbsjahrs unverändert bei 100 WE liegt, entsteht am Ende dieses Jahrs eine zu versteuernde temporäre Differenz von 20 WE. Da diese zu versteuernde temporäre Differenz sich nicht auf den erstmaligen Ansatz des Geschäfts- oder Firmenwerts bezieht, wird die daraus entstehende latente Steuerschuld angesetzt.
+
+Erstmaliger Ansatz eines Vermögenswerts oder einer Schuld
+
+22 Beim erstmaligen Ansatz eines Vermögenswerts oder einer Schuld kann eine temporäre Differenz entstehen, beispielsweise, wenn der Betrag der Anschaffungs- oder Herstellungskosten eines Vermögenswerts teilweise oder insgesamt steuerlich nicht abzugsfähig ist. Die Bilanzierungsmethode für eine derartige temporäre Differenz hängt von der Art des Geschäftsvorfalls ab, welcher dem erstmaligen Ansatz des Vermögenswerts oder der Schuld zugrunde lag:
+a) 
+
+Bei einem Unternehmenszusammenschluss setzt ein Unternehmen alle latenten Steuerschulden oder latenten Steueransprüche an, und dies beeinflusst die Höhe des Geschäfts- oder Firmenwerts oder den Gewinn aus einem Erwerb zu einem Preis unter dem Marktwert (siehe Paragraph 19).
+b) 
+
+Falls der Geschäftsvorfall entweder das bilanzielle Ergebnis vor Steuern oder das zu versteuernde Ergebnis beeinflusst oder zu versteuernde und abzugsfähige temporäre Differenzen in gleicher Höhe bewirkt, setzt ein Unternehmen alle latenten Steuerschulden oder latenten Steueransprüche an und erfasst den sich ergebenden latenten Steueraufwand oder Steuerertrag (siehe Paragraph 59).
+c) 
+
+Falls es sich bei dem Geschäftsvorfall nicht um einen Unternehmenszusammenschluss handelt und der Geschäftsvorfall weder das bilanzielle Ergebnis vor Steuern noch das zu versteuernde Ergebnis beeinflusst und keine zu versteuernden und abzugsfähigen temporären Differenzen in gleicher Höhe bewirkt, würde ein Unternehmen, falls keine Befreiung gemäß den Paragraphen 15 und 24 möglich ist, die sich ergebenden latenten Steuerschulden oder latenten Steueransprüche ansetzen und den Buchwert des Vermögenswerts oder der Schuld in Höhe des gleichen Betrags anpassen. Ein Abschluss würde jedoch durch solche Anpassungen unklarer. Aus diesem Grund gestattet dieser Standard es einem Unternehmen nicht, die sich ergebende latente Steuerschuld oder den sich ergebenden latenten Steueranspruch anzusetzen, und zwar weder beim erstmaligen Ansatz noch in den Folgeperioden (siehe nachstehendes Beispiel). Auch spätere Änderungen bei den nicht angesetzten latenten Steuerschulden oder -ansprüchen, die sich aus der planmäßigen Abschreibung des Vermögenswerts ergeben, werden vom Unternehmen nicht berücksichtigt.
+
+Beispiel zur Veranschaulichung des Paragraphen 22(c)
+
+Ein Unternehmen beabsichtigt, einen Vermögenswert mit Anschaffungskosten von 1 000 während seiner Nutzungsdauer von fünf Jahren zu verwenden und ihn dann zu einem Restwert von null zu veräußern. Der Steuersatz beträgt 40 %. Die planmäßige Abschreibung des Vermögenswerts ist steuerlich nicht abzugsfähig. Jeder Kapitalertrag bei einem Verkauf wäre steuerfrei, und jeder Verlust wäre nicht abzugsfähig.
+
+Bei der Realisierung des Buchwerts des Vermögenswerts erzielt das Unternehmen ein zu versteuerndes Ergebnis von 1 000 und bezahlt Steuern von 400. Das Unternehmen setzt die sich ergebende latente Steuerschuld von 400 nicht an, da sie aus dem erstmaligen Ansatz des Vermögenswerts stammt.
+
+In der Folgeperiode beträgt der Buchwert des Vermögenswerts 800. Bei der Erzielung eines zu versteuernden Ergebnisses von 800 bezahlt das Unternehmen Steuern in Höhe von 320. Das Unternehmen setzt die latente Steuerschuld von 320 nicht an, da sie aus dem erstmaligen Ansatz des Vermögenswerts stammt.
+
+22A Es ist möglich, dass ein Geschäftsvorfall, bei dem es sich nicht um einen Unternehmenszusammenschluss handelt, zum erstmaligen Ansatz eines Vermögenswerts und einer Schuld führt und zum Zeitpunkt des Geschäftsvorfalls weder das bilanzielle Ergebnis vor Steuern noch das zu versteuernde Ergebnis beeinflusst. Beispielsweise setzt ein Leasingnehmer am Bereitstellungsdatum in der Regel eine Leasingverbindlichkeit und den entsprechenden Betrag als Teil der Kosten eines Nutzungsrechts an. Je nach anwendbarem Steuerrecht können bei einem solchen Geschäftsvorfall beim erstmaligen Ansatz des Vermögenswerts und der Schuld zu versteuernde und abzugsfähige temporäre Differenzen in gleicher Höhe entstehen. Die in den Paragraphen 15 und 24 vorgesehene Befreiung gilt nicht für solche temporären Differenzen, und ein Unternehmen hat daraus resultierende latente Steuerschulden und latente Steueransprüche anzusetzen.
+
+23 Gemäß IAS 32 Finanzinstrumente: Darstellung stuft der Emittent zusammengesetzter Finanzinstrumente (beispielsweise einer Wandelschuldverschreibung) die Schuldkomponente des Instruments als eine Schuld und die Eigenkapitalkomponente als Eigenkapital ein. In manchen Rechtskreisen ist beim erstmaligen Ansatz die steuerliche Basis der Schuldkomponente gleich dem anfänglichen Betrag der Summe aus Schuld- und Eigenkapitalkomponente. Die entstehende zu versteuernde temporäre Differenz ergibt sich daraus, dass der erstmalige Ansatz der Eigenkapitalkomponente getrennt von demjenigen der Schuldkomponente erfolgt. Daher ist die in Paragraph 15(b) dargestellte Ausnahme nicht anwendbar. Demzufolge setzt ein Unternehmen die sich ergebende latente Steuerschuld an. Gemäß Paragraph 61A wird die latente Steuerschuld unmittelbar dem Buchwert der Eigenkapitalkomponente belastet. Gemäß Paragraph 58 werden nachfolgende Änderungen der latenten Steuerschuld erfolgswirksam als latenter Steueraufwand (Steuerertrag) angesetzt.
+
+Abzugsfähige temporäre Differenzen
+
+24   Ein latenter Steueranspruch ist für alle abzugsfähigen temporären Differenzen in dem Umfang anzusetzen, in dem es wahrscheinlich ist, dass ein zu versteuernder Gewinn verfügbar sein wird, gegen das die abzugsfähige temporäre Differenz verwendet werden kann, es sei denn, der latente Steueranspruch stammt aus dem erstmaligen Ansatz eines Vermögenswerts oder einer Schuld zu einem Geschäftsvorfall, der
+a) 
+
+kein Unternehmenszusammenschluss ist,
+b) 
+
+zum Zeitpunkt des Geschäftsvorfalls weder das bilanzielle Ergebnis vor Steuern noch das zu versteuernde Ergebnis (den steuerlichen Verlust) beeinflusst und
+c) 
+
+zum Zeitpunkt des Geschäftsvorfalls keine zu versteuernden und abzugsfähigen temporären Differenzen in gleicher Höhe bewirkt.
+
+Für abzugsfähige temporäre Differenzen in Verbindung mit Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen sowie Anteilen an gemeinschaftlichen Vereinbarungen ist ein latenter Steueranspruch jedoch gemäß Paragraph 44 anzusetzen.
+
+25 Definitionsgemäß wird beim Ansatz einer Schuld angenommen, dass deren Buchwert in künftigen Perioden durch einen Abfluss von Unternehmensressourcen mit wirtschaftlichem Nutzen erfüllt wird. Beim Abfluss der Ressourcen vom Unternehmen können alle Beträge oder ein Teil davon bei der Ermittlung des zu versteuernden Gewinns einer Periode, die zeitlich auf die Periode der Passivierung der Schuld folgt, abzugsfähig sein. In solchen Fällen besteht eine temporäre Differenz zwischen dem Buchwert der Schuld und ihrer steuerlichen Basis. Dementsprechend entsteht ein latenter Steueranspruch im Hinblick auf die in künftigen Perioden erstattungsfähigen Ertragsteuern, wenn dieser Teil der Schuld bei der Ermittlung des zu versteuernden Gewinns abzugsfähig ist. Ist analog der Buchwert eines Vermögenswerts geringer als seine steuerliche Basis, entsteht aus dem Unterschiedsbetrag ein latenter Steueranspruch in Bezug auf die in künftigen Perioden erstattungsfähigen Ertragsteuern.
+
+Beispiel
+
+Ein Unternehmen setzt eine Schuld von 100 für kumulierte Gewährleistungskosten hinsichtlich eines Produkts an. Die Gewährleistungskosten für dieses Produkt sind für steuerliche Zwecke erst zu dem Zeitpunkt abzugsfähig, an dem das Unternehmen Gewährleistungsverpflichtungen zahlt. Der Steuersatz beträgt 25 %.
+
+Die steuerliche Basis der Schuld ist null (Buchwert von 100 abzüglich des Betrags, der im Hinblick auf die Schulden in zukünftigen Perioden steuerlich abzugsfähig ist). Mit der Erfüllung der Schuld zu ihrem Buchwert verringert das Unternehmen seinen künftigen zu versteuernden Gewinn um einen Betrag von 100 und verringert folglich seine zukünftigen Steuerzahlungen um 25 (25 % von 100). Der Unterschiedsbetrag zwischen dem Buchwert von 100 und der steuerlichen Basis von null ist eine abzugsfähige temporäre Differenz von 100. Daher setzt das Unternehmen einen latenten Steueranspruch von 25 (25 % von 100) an, vorausgesetzt, es ist wahrscheinlich, dass das Unternehmen in zukünftigen Perioden einen ausreichenden zu versteuerndes Gewinn erwirtschaftet, um aus der Verringerung der Steuerzahlungen einen Vorteil zu ziehen.
+
+26 Im Folgenden sind Beispiele von abzugsfähigen temporären Differenzen aufgeführt, die latente Steueransprüche zur Folge haben:
+a) 
+
+Kosten der betrieblichen Altersversorgung können bei der Ermittlung des bilanziellen Ergebnisses vor Steuern entsprechend der Leistungserbringung durch den Arbeitnehmer abgezogen werden. Der Abzug zur Ermittlung des zu versteuernden Gewinns ist hingegen erst zulässig, wenn die Beiträge vom Unternehmen in einen Pensionsfonds eingezahlt werden oder wenn betriebliche Altersversorgungsleistungen vom Unternehmen bezahlt werden. Es besteht eine temporäre Differenz zwischen dem Buchwert der Schuld und ihrer steuerlichen Basis, wobei die steuerliche Basis der Schuld im Regelfall null ist. Eine derartige abzugsfähige temporäre Differenz hat einen latenten Steueranspruch zur Folge, da die Verminderung des zu versteuernden Gewinns durch die Bezahlung von Beiträgen oder Versorgungsleistungen für das Unternehmen einen Zufluss an wirtschaftlichem Nutzen bedeutet.
+b) 
+
+Forschungskosten werden in der Periode, in der sie anfallen, als Aufwand bei der Ermittlung des bilanziellen Ergebnisses vor Steuern angesetzt, der Abzug bei der Ermittlung des zu versteuernden Gewinns (steuerlichen Verlustes) ist möglicherweise erst in einer späteren Periode zulässig. Der Unterschiedsbetrag zwischen der steuerlichen Basis der Forschungskosten als dem Betrag, dessen Abzug in zukünftigen Perioden von den Steuerbehörden erlaubt wird, und dem Buchwert von null ist eine abzugsfähige temporäre Differenz, die einen latenten Steueranspruch zur Folge hat.
+c) 
+
+Die bei einem Unternehmenszusammenschluss erworbenen identifizierbaren Vermögenswerte und übernommenen Schulden werden mit begrenzten Ausnahmen mit ihren beizulegenden Zeitwerten zum Erwerbszeitpunkt angesetzt. Wird eine übernommene Schuld zum Erwerbszeitpunkt angesetzt, die damit verbundenen Kosten bei der Ermittlung des zu versteuernden Gewinns aber erst in einer späteren Periode in Abzug gebracht, entsteht eine abzugsfähige temporäre Differenz, die einen latenten Steueranspruch zur Folge hat. Ein latenter Steueranspruch entsteht ebenfalls, wenn der beizulegende Zeitwert eines erworbenen identifizierbaren Vermögenswerts geringer als seine steuerliche Basis ist. In beiden Fällen beeinflusst der sich ergebende latente Steueranspruch den Geschäfts- oder Firmenwert (siehe Paragraph 66).
+d) 
+
+Bestimmte Vermögenswerte können zum beizulegenden Zeitwert bilanziert oder neubewertet werden, ohne dass eine entsprechende Bewertungsanpassung für steuerliche Zwecke durchgeführt wird (siehe Paragraph 20). Es entsteht eine abzugsfähige temporäre Differenz, wenn die steuerliche Basis des Vermögenswerts seinen Buchwert übersteigt.
+
+Beispiel zur Veranschaulichung des Paragraphen 26(d)
+
+Identifizierung einer abzugsfähigen temporären Differenz am Ende von Jahr 2:
+Unternehmen A kauft zu Beginn von Jahr 1 für 1000 WE einen Schuldtitel mit einem Nominalwert von 1000 WE, zahlbar bei Fälligkeit in 5 Jahren mit einem Zinssatz von 2 %, zahlbar am Ende jeden Jahrs. Der Effektivzinssatz beträgt 2 %. Der Schuldtitel wird zum beizulegenden Zeitwert bewertet.
+Am Ende von Jahr 2 hat sich der beizulegende Zeitwert des Schuldtitels aufgrund eines Anstiegs der Zinssätze auf 5 % auf 918 WE verringert. Wenn Unternehmen A den Schuldtitel weiter hält, wird es wahrscheinlich alle vertraglich festgelegten Zahlungsströme vereinnahmen.
+Etwaige Gewinne (Verluste) aus dem Schuldtitel sind erst zu versteuern (abzugsfähig), wenn sie realisiert werden. Gewinne (Verluste) aus der Veräußerung oder bei Fälligkeit des Schuldtitels werden für steuerliche Zwecke als Differenz zwischen dem vereinnahmten Betrag und den ursprünglichen Kosten des Schuldtitels berechnet.
+Die steuerliche Basis des Schuldtitels sind somit seine ursprünglichen Kosten.
+Die Differenz zwischen dem Buchwert des Schuldtitels in der Bilanz des Unternehmens A in Höhe von 918 WE und seiner steuerlichen Basis in Höhe von 1000 WE ergibt am Ende des Jahrs 2 eine abzugsfähige temporäre Differenz von 82 WE (siehe Paragraphen 20 und 26(d)), und zwar unabhängig davon, ob das Unternehmen A erwartet, den Buchwert des Schuldtitels durch Veräußerung oder durch Nutzung (d. h. Halten und Vereinnahmen der vertraglich festgelegten Zahlungsströme) oder durch eine Kombination aus beiden, zu realisieren.
+Dies ist darauf zurückzuführen, dass abzugsfähige temporäre Differenzen Unterschiedsbeträge zwischen dem Buchwert eines Vermögenswerts oder einer Schuld in der Bilanz und seiner/ihrer steuerlichen Basis sind, die zu Beträgen führen, die bei der Ermittlung des zu versteuernden Gewinns (steuerlichen Verlusts) zukünftiger Perioden abzugsfähig sind, wenn der Buchwert des Vermögenswerts realisiert oder eine Schuld erfüllt wird (siehe Paragraph 5). Unternehmen A kann bei der Ermittlung des zu versteuernden Gewinns (steuerlichen Verlustes) bei Veräußerung oder bei Fälligkeit einen Abzug in Höhe der steuerlichen Basis des Vermögenswerts von 1000 WE geltend machen.
+
+27 Die Auflösung abzugsfähiger temporärer Differenzen führt zu Abzügen bei der Ermittlung des zu versteuernden Gewinns zukünftiger Perioden. Der wirtschaftliche Nutzen in der Form verminderter Steuerzahlungen fließt dem Unternehmen allerdings nur dann zu, wenn es ausreichende zu versteuernde Gewinne erzielt, gegen die die Abzüge saldiert werden können. Daher setzt ein Unternehmen latente Steueransprüche nur an, wenn es wahrscheinlich ist, dass zu versteuernde Gewinne zur Verfügung stehen, gegen welche die abzugsfähigen temporären Differenzen verwendet werden können.
+
+27A Bei der Beurteilung, ob zu versteuernde Gewinne zur Verfügung stehen, gegen welche die abzugsfähigen temporären Differenzen verwendet werden können, berücksichtigt das Unternehmen etwaige im Steuerrecht bestehende Beschränkungen hinsichtlich der Quellen zu versteuernder Gewinne, gegen die es bei der Auflösung der abzugsfähigen temporären Differenz Abzüge vornehmen kann. Enthält das Steuerrecht keine solchen Beschränkungen, prüft das Unternehmen jede abzugsfähige temporäre Differenz in Kombination mit allen anderen abzugsfähigen temporären Differenzen. Beschränkt das Steuerrecht dagegen die Möglichkeit zur Verwendung von Verlusten zum Abzug von Einkünften einer bestimmten Art, so wird die abzugsfähige temporäre Differenz nur in Kombination mit anderen abzugsfähigen temporären Differenzen der entsprechenden Art beurteilt.
+
+28 Es ist wahrscheinlich, dass der zu versteuernde Gewinn, gegen den eine abzugsfähige temporäre Differenz verwendet werden kann, zur Verfügung stehen wird, wenn ausreichende zu versteuernde temporäre Differenzen in Bezug auf dieselbe Steuerbehörde und dasselbe Steuersubjekt vorhanden sind, deren Auflösung erwartet wird
+a) 
+
+in derselben Periode wie die erwartete Auflösung der abzugsfähigen temporären Differenz oder
+b) 
+
+in Perioden, in die steuerliche Verluste aus dem latenten Steueranspruch zurückgetragen oder vorgetragen werden können.
+
+In solchen Fällen wird der latente Steueranspruch in der Periode, in der die abzugsfähigen temporären Differenzen entstehen, angesetzt.
+
+29 Liegen keine ausreichenden zu versteuernden temporären Differenzen in Bezug auf dieselbe Steuerbehörde und dasselbe Steuersubjekt vor, wird der latente Steueranspruch in dem Umfang angesetzt, in dem
+a) 
+
+es wahrscheinlich ist, dass dem Unternehmen ausreichende zu versteuernde Gewinne in Bezug auf dieselbe Steuerbehörde und dasselbe Steuersubjekt in der Periode der Auflösung der abzugsfähigen temporären Differenz (oder in den Perioden, in die ein steuerlicher Verlust infolge eines latenten Steueranspruches zurückgetragen oder vorgetragen werden kann) zur Verfügung stehen werden. Bei der Einschätzung, ob ein ausreichender zu versteuernder Gewinn in künftigen Perioden zur Verfügung stehen wird,
+i) 
+
+vergleicht ein Unternehmen die abzugsfähigen temporären Differenzen mit künftigen zu versteuernden Gewinnen ohne steuerliche Abzugsmöglichkeiten aufgrund der Auflösung der abzugsfähigen temporären Differenzen. Dieser Vergleich zeigt, inwieweit die künftigen zu versteuernden Gewinne des Unternehmens für einen Abzug der Beträge aus der Auflösung der abzugsfähigen temporären Differenzen ausreichen; und
+ii) 
+
+lässt ein Unternehmen zu versteuernde Beträge außer Acht, die sich aus dem in künftigen Perioden erwarteten Entstehen von abzugsfähigen temporären Differenzen ergeben, weil der latente Steueranspruch aus diesen abzugsfähigen temporären Differenzen seinerseits einen künftigen zu versteuernden Gewinn voraussetzt, um genutzt zu werden; oder
+b) 
+
+sich dem Unternehmen Steuergestaltungsmöglichkeiten zur Erzeugung eines zu versteuernden Gewinns in geeigneten Perioden bieten.
+
+29A Bei der Schätzung der voraussichtlichen künftigen zu versteuernden Gewinne kann die Realisierung eines Teils der Vermögenswerte eines Unternehmens mit einem über dem Buchwert liegenden Betrag angenommen werden, wenn ausreichende Nachweise dafür vorliegen, dass das Unternehmen einen solchen Betrag erzielen wird. Wird zum Beispiel ein Vermögenswert zum beizulegenden Zeitwert bewertet, prüft das Unternehmen, ob ausreichende Nachweise dafür vorliegen, dass es den Vermögenswert wahrscheinlich mit einem über dem Buchwert liegenden Betrag realisieren kann. Dies kann beispielsweise der Fall sein, wenn ein Unternehmen erwartet, einen festverzinslichen Schuldtitel zu halten und die vertraglich festgelegten Zahlungsströme zu vereinnahmen.
+
+30 Steuergestaltungsmöglichkeiten sind Möglichkeiten, die das Unternehmen ergreifen kann, um in einer bestimmten Periode ein zu versteuerndes Ergebnis zu erzeugen oder zu erhöhen, bevor ein steuerlicher Verlustvortrag oder eine vorgetragene Steuergutschrift verfällt. Beispielsweise kann nach manchen Steuergesetzgebungen der zu versteuernde Gewinn wie folgt erzeugt oder erhöht werden:
+a) 
+
+durch Wahl der Besteuerung von Zinserträgen entweder auf der Grundlage des Zuflussprinzips oder der Abgrenzung als ausstehende Forderung,
+b) 
+
+durch ein Hinausschieben von bestimmten zulässigen Abzügen vom zu versteuernden Gewinn,
+c) 
+
+durch Verkauf und möglicherweise Leaseback von Vermögenswerten, die einen Wertzuwachs erfahren haben, für die aber die steuerliche Basis noch nicht angepasst wurde, um diesen Wertzuwachs zu erfassen, und
+d) 
+
+durch Verkauf eines Vermögenswerts, der ein steuerfreies Ergebnis erzeugt (wie, nach manchen Steuergesetzgebungen möglich, einer Staatsobligation), damit ein anderer Vermögenswert gekauft werden kann, der zu versteuerndes Ergebnis erzeugt.
+
+Wenn durch die Nutzung von Steuergestaltungsmöglichkeiten ein zu versteuernder Gewinn von einer späteren Periode in eine frühere Periode vorgezogen wird, hängt die Verwertung eines steuerlichen Verlustvortrags oder einer vorgetragenen Steuergutschrift noch vom Vorhandensein künftiger zu versteuernder Gewinne ab, welche aus anderen Quellen als aus künftig noch entstehenden temporären Differenzen stammen.
+
+31 Weist ein Unternehmen in der näheren Vergangenheit eine Folge von Verlusten auf, so hat es die Anwendungsleitlinien in den Paragraphen 35 und 36 zu beachten.
+
+32 [gestrichen]
+
+Geschäfts- oder Firmenwert
+
+32A Wenn der Buchwert eines bei einem Unternehmenszusammenschluss entstehenden Geschäfts- oder Firmenwerts geringer als seine steuerliche Basis ist, entsteht aus dem Unterschiedsbetrag ein latenter Steueranspruch. Der latente Steueranspruch, der aus dem erstmaligen Ansatz des Geschäfts- oder Firmenwerts hervorgeht, ist im Rahmen der Bilanzierung eines Unternehmenszusammenschlusses in dem Umfang anzusetzen, in dem es wahrscheinlich ist, dass ein zu versteuernder Gewinn bestehen wird, gegen den die abzugsfähigen temporären Differenzen verwendet werden können.
+
+Erstmaliger Ansatz eines Vermögenswerts oder einer Schuld
+
+33 Ein Fall eines latenten Steueranspruchs aus dem erstmaligen Ansatz eines Vermögenswerts liegt vor, wenn eine nicht zu versteuernde Zuwendung der öffentlichen Hand hinsichtlich eines Vermögenswerts bei der Bestimmung des Buchwerts des Vermögenswerts in Abzug gebracht wird, jedoch für steuerliche Zwecke nicht von dem abschreibungsfähigen Betrag (anders gesagt: der steuerlichen Basis) des Vermögenswerts abgezogen wird. Der Buchwert des Vermögenswerts ist geringer als seine steuerliche Basis, und dies führt zu einer abzugsfähigen temporären Differenz. Zuwendungen der öffentlichen Hand dürfen ebenfalls als passivischer Abgrenzungsposten angesetzt werden. In diesem Fall ergibt der Unterschiedsbetrag zwischen dem passivischen Abgrenzungsposten und seiner steuerlichen Basis von null eine abzugsfähige temporäre Differenz. Unabhängig von der vom Unternehmen gewählten Darstellungsmethode darf das Unternehmen den sich ergebenden latenten Steueranspruch aufgrund der in Paragraph 22 aufgeführten Begründung nicht ansetzen.
+
+Noch nicht genutzte steuerliche Verluste und noch nicht genutzte Steuergutschriften
+
+34   Ein latenter Steueranspruch für den Vortrag noch nicht genutzter steuerlicher Verluste und noch nicht genutzter Steuergutschriften ist in dem Umfang anzusetzen, in dem es wahrscheinlich ist, dass ein künftiger zu versteuernder Gewinn zur Verfügung stehen wird, gegen den die noch nicht genutzten steuerlichen Verluste und noch nicht genutzten Steuergutschriften verwendet werden können.
+
+35 Die Kriterien für den Ansatz latenter Steueransprüche aus Vorträgen noch nicht genutzter steuerlicher Verluste und Steuergutschriften sind die gleichen wie die Kriterien für den Ansatz latenter Steueransprüche aus abzugsfähigen temporären Differenzen. Allerdings spricht das Vorhandensein noch nicht genutzter steuerlicher Verluste deutlich dafür, dass ein künftiger zu versteuernder Gewinn möglicherweise nicht zur Verfügung stehen wird. Weist ein Unternehmen in der näheren Vergangenheit eine Reihe von Verlusten auf, kann es daher latente Steueransprüche aus ungenutzten steuerlichen Verlusten oder ungenutzten Steuergutschriften nur in dem Umfang ansetzen, in dem es über ausreichende zu versteuernde temporäre Differenzen verfügt oder soweit überzeugende Nachweise dafür vorliegen, dass ein ausreichender zu versteuernder Gewinn zur Verfügung stehen wird, gegen den die ungenutzten steuerlichen Verluste oder ungenutzten Steuergutschriften vom Unternehmen verwendet werden können. In solchen Fällen sind gemäß Paragraph 82 der Betrag des latenten Steueranspruches und die Art der Nachweise, die den Ansatz rechtfertigen, anzugeben.
+
+36 Bei der Beurteilung der Wahrscheinlichkeit, ob ein zu versteuernder Gewinn zur Verfügung stehen wird, gegen den noch nicht genutzte steuerliche Verluste oder noch nicht genutzte Steuergutschriften verwendet werden können, sind von einem Unternehmen die folgenden Kriterien zu beachten:
+a) 
+
+ob das Unternehmen ausreichende zu versteuernde temporäre Differenzen in Bezug auf dieselbe Steuerbehörde und dasselbe Steuersubjekt hat, woraus zu versteuernde Beträge erwachsen, gegen die die noch nicht genutzten steuerlichen Verluste oder noch nicht genutzten Steuergutschriften vor ihrem Verfall verwendet werden können,
+b) 
+
+ob es wahrscheinlich ist, dass das Unternehmen zu versteuernde Gewinne erzielen wird, bevor die noch nicht genutzten steuerlichen Verluste oder noch nicht genutzten Steuergutschriften verfallen,
+c) 
+
+ob die noch nicht genutzten steuerlichen Verluste aus identifizierbaren Ursachen stammen, welche aller Wahrscheinlichkeit nach nicht wieder auftreten, und
+d) 
+
+ob dem Unternehmen Steuergestaltungsmöglichkeiten (siehe Paragraph 30) zur Verfügung stehen, die einen zu versteuernden Gewinn in der Periode erzeugen, in der die noch nicht genutzten steuerlichen Verluste oder noch nicht genutzten Steuergutschriften verwendet werden können.
+
+Der latente Steueranspruch wird in dem Umfang nicht angesetzt, in dem es unwahrscheinlich erscheint, dass der zu versteuernde Gewinn zur Verfügung stehen wird, gegen den die noch nicht genutzten steuerlichen Verluste oder noch nicht genutzten Steuergutschriften verwendet werden können.
+
+Erneute Beurteilung von nicht angesetzten latenten Steueransprüchen
+
+37 Ein Unternehmen hat zu jedem Abschlussstichtag nicht angesetzte latente Steueransprüche erneut zu beurteilen. Das Unternehmen setzt einen bislang nicht angesetzten latenten Steueranspruch in dem Umfang an, in dem es wahrscheinlich geworden ist, dass ein künftiger zu versteuernder Gewinn die Realisierung des latenten Steueranspruchs gestatten wird. Beispielsweise kann eine Verbesserung des Geschäftsumfelds es wahrscheinlicher erscheinen lassen, dass das Unternehmen in der Lage sein wird, in der Zukunft einen ausreichenden zu versteuernden Gewinn für den latenten Steueranspruch zu erzeugen, um die in Paragraph 24 oder 34 beschriebenen Ansatzkriterien zu erfüllen. Ein anderes Beispiel liegt vor, wenn ein Unternehmen latente Steueransprüche zum Zeitpunkt eines Unternehmenszusammenschlusses oder nachfolgend erneut beurteilt (siehe Paragraphen 67 und 68).
+
+Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen sowie Anteile an gemeinschaftlichen Vereinbarungen
+
+38 Temporäre Differenzen entstehen, wenn der Buchwert von Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen oder Anteilen an gemeinschaftlichen Vereinbarungen (d. h. der Anteil des Mutterunternehmens oder des Investors am Nettovermögen des Tochterunternehmens, der Zweigniederlassung, des assoziierten Unternehmens oder des Unternehmens, an dem Beteiligungen gehalten werden, einschließlich des Buchwerts eines Geschäfts- oder Firmenwerts) sich gegenüber der steuerlichen Basis der Beteiligung oder des Anteils (welcher häufig gleich den Anschaffungskosten ist) unterschiedlich entwickelt. Solche Unterschiede können aus einer Reihe unterschiedlicher Umstände entstehen, beispielsweise
+a) 
+
+dem Vorhandensein nicht ausgeschütteter Gewinne von Tochterunternehmen, Zweigniederlassungen, assoziierten Unternehmen und gemeinschaftlichen Vereinbarungen,
+b) 
+
+Änderungen der Wechselkurse, wenn ein Mutterunternehmen und sein Tochterunternehmen ihren jeweiligen Sitz in unterschiedlichen Ländern haben, und
+c) 
+
+einer Verminderung des Buchwerts der Beteiligung an einem assoziierten Unternehmen auf seinen erzielbaren Betrag.
+
+Im Konzernabschluss kann sich die temporäre Differenz von der temporären Differenz für diese Beteiligung im Einzelabschluss des Mutterunternehmens unterscheiden, falls das Mutterunternehmen die Beteiligung in seinem Einzelabschluss zu den Anschaffungskosten oder dem Neubewertungsbetrag bilanziert.
+
+39   Ein Unternehmen hat eine latente Steuerschuld für alle zu versteuernden temporären Differenzen in Verbindung mit Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen und Anteilen an gemeinschaftlichen Vereinbarungen anzusetzen, ausgenommen in dem Umfang, in dem die beiden folgenden Bedingungen erfüllt sind:
+a) 
+
+das Mutterunternehmen, der Investor, das Partnerunternehmen oder der gemeinschaftlich Tätige ist in der Lage, den zeitlichen Verlauf der Auflösung der temporären Differenz zu steuern, und
+b) 
+
+es ist wahrscheinlich, dass sich die temporäre Differenz in absehbarer Zeit nicht auflösen wird.
+
+40 Da ein Mutterunternehmen die Dividendenpolitik seines Tochterunternehmens beherrscht, ist es in der Lage, den Zeitpunkt der Auflösung der temporären Differenzen in Verbindung mit dieser Beteiligung zu steuern (einschließlich der temporären Differenzen, die nicht nur aus thesaurierten Gewinnen, sondern auch aus Unterschiedsbeträgen infolge von Währungsumrechnung resultieren). Außerdem wäre es häufig in der Praxis nicht möglich, den Betrag der Ertragsteuern zu bestimmen, der bei Auflösung der temporären Differenz zahlbar wäre. Daher hat das Mutterunternehmen eine latente Steuerschuld nicht anzusetzen, wenn es bestimmt hat, dass diese Gewinne in absehbarer Zeit nicht ausgeschüttet werden. Die gleichen Überlegungen gelten für Beteiligungen an Zweigniederlassungen.
+
+41 Ein Unternehmen bewertet die nicht monetären Vermögenswerte und Schulden in seiner funktionalen Währung (siehe IAS 21 Auswirkungen von Wechselkursänderungen). Wird der zu versteuernde Gewinn oder der steuerliche Verlust (und somit die steuerliche Basis seiner nicht monetären Vermögenswerte und Schulden) in der Fremdwährung ausgedrückt, so haben Änderungen der Wechselkurse temporäre Differenzen zur Folge, woraus sich eine latente Steuerschuld oder (unter Beachtung des Paragraphen 24) ein latenter Steueranspruch ergibt. Die sich ergebende latente Steuer wird erfolgswirksam erfasst (siehe Paragraph 58).
+
+42 Ein Investor, der eine Beteiligung an einem assoziierten Unternehmen hält, beherrscht dieses Unternehmen nicht und ist im Regelfall nicht in einer Position, dessen Dividendenpolitik zu bestimmen. Daher setzt ein Investor eine latente Steuerschuld aus einer zu versteuernden temporären Differenz in Verbindung mit seiner Beteiligung am assoziierten Unternehmen an, falls nicht in einem Vertrag bestimmt ist, dass die Gewinne des assoziierten Unternehmens in absehbarer Zeit nicht ausgeschüttet werden. In einigen Fällen ist ein Investor möglicherweise nicht in der Lage, den Betrag der Steuern zu ermitteln, die bei der Realisierung der Anschaffungskosten seiner Beteiligung an einem assoziierten Unternehmen fällig wären. Er kann jedoch in solchen Fällen ermitteln, dass diese einem Mindestbetrag entsprechen oder ihn übersteigen. In solchen Fällen wird die latente Steuerschuld mit diesem Betrag bewertet.
+
+43 Die zwischen den Parteien einer gemeinschaftlichen Vereinbarung getroffene Vereinbarung befasst sich im Regelfall mit der Gewinnaufteilung und der Festsetzung, ob Entscheidungen in diesen Angelegenheiten die einstimmige Zustimmung aller Parteien oder einer Gruppe der Parteien erfordern. Wenn das Partnerunternehmen oder der gemeinschaftlich Tätige den Zeitpunkt der Ausschüttung seines Anteils an den Gewinnen der gemeinschaftlichen Vereinbarung steuern kann und wenn es wahrscheinlich ist, dass sein Gewinnanteil in absehbarer Zeit nicht ausgeschüttet wird, wird eine latente Steuerschuld nicht angesetzt.
+
+44   Ein Unternehmen hat einen latenten Steueranspruch für alle abzugsfähigen temporären Differenzen aus Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen sowie Anteilen an gemeinschaftlichen Vereinbarungen ausschließlich in dem Umfang anzusetzen, in dem es wahrscheinlich ist,
+a) 
+
+dass sich die temporäre Differenz in absehbarer Zeit auflösen wird und
+b) 
+
+dass der zu versteuernde Gewinn zur Verfügung stehen wird, gegen den die temporäre Differenz verwendet werden kann.
+
+45 Bei der Entscheidung, ob ein latenter Steueranspruch für abzugsfähige temporäre Differenzen in Verbindung mit seinen Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen sowie seinen Anteilen an gemeinschaftlichen Vereinbarungen anzusetzen ist, hat ein Unternehmen die in den Paragraphen 28 bis 31 beschriebenen Anwendungsleitlinien zu beachten.
+
+BEWERTUNG
+
+46   Tatsächliche Ertragsteuerschulden (Ertragsteueransprüche) für die laufende Berichtsperiode und für frühere Perioden sind mit dem Betrag zu bewerten, in dessen Höhe eine Zahlung an die Steuerbehörden (eine Erstattung von den Steuerbehörden) erwartet wird, und zwar auf der Grundlage von Steuersätzen (und Steuervorschriften), die am Abschlussstichtag gelten oder angekündigt sind.
+
+47   Latente Steueransprüche und latente Steuerschulden sind anhand der Steuersätze zu bewerten, deren Gültigkeit für die Periode, in der ein Vermögenswert realisiert wird oder eine Schuld erfüllt wird, erwartet wird. Dabei werden die Steuersätze (und Steuervorschriften) verwendet, die am Abschlussstichtag gelten oder angekündigt sind.
+
+48 Tatsächliche und latente Steueransprüche und Steuerschulden sind im Regelfall anhand der Steuersätze (und Steuervorschriften) zu bewerten, die Gültigkeit haben. In manchen Steuergesetzgebungen hat die Ankündigung von Steuersätzen (und Steuervorschriften) durch die Regierung jedoch die Wirkung einer tatsächlichen Inkraftsetzung. Die Inkraftsetzung kann erst mehrere Monate nach der Ankündigung erfolgen. Unter diesen Umständen sind Steueransprüche und Steuerschulden auf der Grundlage des angekündigten Steuersatzes (und der angekündigten Steuervorschriften) zu bewerten.
+
+49 Sind unterschiedliche Steuersätze auf unterschiedliche Höhen des zu versteuernden Ergebnisses anzuwenden, sind latente Steueransprüche und latente Steuerschulden mit den Durchschnittssätzen zu bewerten, deren Anwendung auf den zu versteuernden Gewinn (den steuerlichen Verlust) in den Perioden erwartet wird, in denen sich die temporären Differenzen den Erwartungen zufolge auflösen werden.
+
+50 [gestrichen]
+
+51   Bei der Bewertung latenter Steuerschulden und latenter Steueransprüche sind die steuerlichen Konsequenzen zu berücksichtigen, die daraus resultieren, in welcher Art und Weise ein Unternehmen zum Abschlussstichtag erwartet, den Buchwert seiner Vermögenswerte zu realisieren oder seiner Schulden zu erfüllen.
+
+51A Nach manchen Steuergesetzgebungen kann die Art und Weise, in der ein Unternehmen den Buchwert eines Vermögenswerts realisiert oder den Buchwert einer Schuld erfüllt, entweder einen oder beide der folgenden Parameter beeinflussen:
+a) 
+
+den anzuwendenden Steuersatz, wenn das Unternehmen den Buchwert des Vermögenswerts realisiert oder den Buchwert der Schuld erfüllt, und
+b) 
+
+die steuerliche Basis des Vermögenswerts (der Schuld).
+
+In solchen Fällen bewertet ein Unternehmen latente Steuerschulden und latente Steueransprüche unter Anwendung des Steuersatzes und der steuerlichen Basis, die der erwarteten Art und Weise der Realisierung oder der Erfüllung entsprechen.
+
+Beispiel A
+
+Eine Sachanlage hat einen Buchwert von 100 und eine steuerliche Basis von 60. Ein Steuersatz von 20 % wäre bei einem Verkauf der Sachanlage anwendbar, und ein Steuersatz von 30 % wäre bei anderen Erträgen anwendbar.
+
+Das Unternehmen setzt eine latente Steuerschuld von 8 (20 % von 40) an, falls es erwartet, die Sachanlage ohne weitere Nutzung zu verkaufen, und eine latente Steuerschuld von 12 (30 % von 40), falls es erwartet, die Sachanlage zu behalten und durch ihre Nutzung ihren Buchwert zu realisieren.
+
+Beispiel B
+
+Eine Sachanlage mit Anschaffungskosten von 100 und einem Buchwert von 80 wird mit 150 neu bewertet. Für steuerliche Zwecke erfolgt keine entsprechende Bewertungsanpassung. Die kumulierte planmäßige Abschreibung für Steuerzwecke beträgt 30, und der Steuersatz ist 30 %. Falls die Sachanlage für mehr als die Anschaffungskosten verkauft wird, wird die kumulierte Abschreibung von 30 in das zu versteuernde Ergebnis einbezogen, die Verkaufserlöse, welche die Anschaffungskosten übersteigen, sind aber nicht zu versteuern.
+
+Die steuerliche Basis der Sachanlage ist 70, und es liegt eine zu versteuernde temporäre Differenz von 80 vor. Falls das Unternehmen erwartet, den Buchwert durch die Nutzung der Sachanlage zu realisieren, muss es ein zu versteuerndes Ergebnis von 150 erzeugen, kann aber lediglich Abschreibungen von 70 in Abzug bringen. Auf dieser Grundlage besteht eine latente Steuerschuld von 24 (30 % von 80). Erwartet das Unternehmen die Realisierung des Buchwerts durch den sofortigen Verkauf der Sachanlage für 150, wird die latente Steuerschuld wie folgt berechnet:
+
+
+
+ 
+	
+
+Zu versteuernde temporäre Differenz
+	
+
+Steuersatz
+	
+
+Latente Steuerschuld
+
+Kumulierte steuerliche Abschreibung
+	
+
+30
+	
+
+30 %
+	
+
+9
+
+Die Anschaffungskosten übersteigender Erlös
+	
+
+50
+	
+
+null
+	
+
+—
+
+Summe
+	
+
+80
+	
+
+ 
+	
+
+9
+
+(Hinweis: Gemäß Paragraph 61A wird die zusätzliche latente Steuer, die aus der Neubewertung erwächst, im sonstigen Ergebnis erfasst.)
+
+Beispiel C
+
+Der Sachverhalt entspricht Beispiel B, mit folgender Ausnahme: Falls die Sachanlage für mehr als die Anschaffungskosten verkauft wird, wird die kumulierte steuerliche Abschreibung in das zu versteuernde Ergebnis aufgenommen (besteuert zu 30 %) und der Verkaufserlös wird mit 40 % besteuert (nach Abzug von inflationsbereinigten Anschaffungskosten von 110).
+
+Falls das Unternehmen erwartet, den Buchwert durch die Nutzung der Sachanlage zu realisieren, muss es ein zu versteuerndes Ergebnis von 150 erzeugen, kann aber lediglich Abschreibungen von 70 in Abzug bringen. Auf dieser Grundlage beträgt die steuerliche Basis 70, es besteht eine zu versteuernde temporäre Differenz von 80, und - wie in Beispiel B - eine latente Steuerschuld von 24 (30 % von 80).
+
+Falls das Unternehmen erwartet, den Buchwert durch den sofortigen Verkauf der Sachanlage für 150 zu realisieren, kann es die indizierten Anschaffungskosten von 110 in Abzug bringen. Der Reinerlös von 40 wird mit 40 % besteuert. Zusätzlich wird die kumulierte Abschreibung von 30 in das zu versteuernde Ergebnis mit aufgenommen und mit 30 % besteuert. Auf dieser Grundlage beträgt die steuerliche Basis 80 (110 abzüglich 30), es besteht eine zu versteuernde temporäre Differenz von 70 und eine latente Steuerschuld von 25 (40 % von 40 und 30 % von 30). Ist die steuerliche Basis in diesem Beispiel nicht unmittelbar erkennbar, kann es hilfreich sein, das in Paragraph 10 beschriebene Grundprinzip heranzuziehen.
+
+(Hinweis: Gemäß Paragraph 61A wird die zusätzliche latente Steuer, die aus der Neubewertung erwächst, im sonstigen Ergebnis erfasst.)
+
+51B Ergibt sich aus einem nach dem Neubewertungsmodell in IAS 16 bewerteten nicht planmäßig abzuschreibenden Vermögenswert eine latente Steuerschuld oder ein latenter Steueranspruch, ist bei der Bewertung der latenten Steuerschuld oder des latenten Steueranspruchs den steuerlichen Konsequenzen Rechnung zu tragen, die sich aus der Realisierung des Buchwerts dieses Vermögenswerts durch seinen Verkauf ergäben, unabhängig davon, nach welcher Methode der Buchwert ermittelt worden ist. Sieht das Steuerrecht für den zu versteuernden Betrag aus dem Verkauf eines Vermögenswerts einen anderen Steuersatz vor als für den zu versteuernden Betrag aus der Nutzung eines Vermögenswerts, so ist bei der Bewertung der mit einem nicht planmäßig abzuschreibenden Vermögenswert im Zusammenhang stehenden latenten Steuerschuld oder des entsprechenden latenten Steueranspruchs deshalb erstgenannter Steuersatz anzuwenden.
+
+51C Ergibt sich aus einer nach dem Zeitwertmodell in IAS 40 bewerteten, als Finanzinvestition gehaltenen Immobilie eine latente Steuerschuld oder ein latenter Steueranspruch, besteht die widerlegbare Vermutung, dass der Buchwert der als Finanzinvestition gehaltenen Immobilie durch Verkauf realisiert wird. Sofern diese Vermutung nicht widerlegt ist, ist bei der Bewertung der latenten Steuerschuld oder des latenten Steueranspruchs daher den steuerlichen Konsequenzen einer vollständigen Realisierung des Buchwerts der Immobilie durch Verkauf Rechnung zu tragen. Diese Vermutung ist widerlegt, wenn die als Finanzinvestition gehaltene Immobilie abschreibungsfähig ist und im Rahmen eines Geschäftsmodells gehalten wird, das darauf abzielt, den gesamten wirtschaftlichen Nutzen dieser Immobilie im Laufe der Zeit im Wesentlichen zu verbrauchen statt sie zu verkaufen. Wird die Vermutung widerlegt, gelten die Vorschriften der Paragraphen 51 und 51A.
+
+Beispiel zur Veranschaulichung des Paragraphen 51C
+
+Eine als Finanzinvestition gehaltene Immobilie mit Anschaffungskosten von 100 und einem beizulegenden Zeitwert von 150 wird nach dem Zeitwertmodell in IAS 40 bewertet. Sie umfasst ein Grundstück mit Anschaffungskosten von 40 und einem beizulegenden Zeitwert von 60 sowie ein Gebäude mit Anschaffungskosten von 60 und einem beizulegenden Zeitwert von 90. Die Nutzungsdauer des Grundstücks ist unbegrenzt.
+
+Die kumulierte Abschreibung des Gebäudes zu Steuerzwecken beträgt 30. Nicht realisierte Änderungen des beizulegenden Zeitwerts der als Finanzinvestition gehaltenen Immobilie wirken sich nicht auf den zu versteuernden Gewinn aus. Wird die als Finanzinvestition gehaltene Immobilie für mehr als die Anschaffungskosten verkauft, wird die Wertaufholung der kumulierten steuerlichen Abschreibung von 30 in den zu versteuernden Gewinn aufgenommen und mit einem regulären Satz von 30 % versteuert. Für Verkaufserlöse, die über die Anschaffungskosten hinausgehen, sieht das Steuerrecht Steuersätze von 25 % (Vermögenswerte, die weniger als zwei Jahre gehalten werden) und 20 % (Vermögenswerte, die zwei Jahre oder länger gehalten werden) vor.
+
+Da die als Finanzinvestition gehaltene Immobilie nach dem Zeitwertmodell in IAS 40 bewertet wird, besteht die widerlegbare Vermutung, dass das Unternehmen den Buchwert dieser Immobilie vollständig durch Verkauf realisieren wird. Wird diese Vermutung nicht widerlegt, spiegelt die latente Steuer auch dann die steuerlichen Konsequenzen der vollständigen Realisierung des Buchwerts der Immobilie durch Verkauf wider, wenn das Unternehmen vor dem Verkauf mit Mieteinnahmen aus dieser Immobilie rechnet.
+
+Bei Verkauf ist die steuerliche Basis des Grundstücks 40 und liegt eine zu versteuernde temporäre Differenz von 20 (60 – 40) vor. Bei Verkauf ist die steuerliche Basis des Gebäudes 30 (60 – 30) und es liegt eine zu versteuernde temporäre Differenz von 60 (90 – 30) vor. Damit beträgt die zu versteuernde temporäre Differenz für die als Finanzinvestition gehaltene Immobilie insgesamt 80 (20 + 60).
+
+Gemäß Paragraph 47 ist der Steuersatz der für die Periode, in der die als Finanzinvestition gehaltene Immobilie realisiert wird, erwartete Satz. Falls das Unternehmen erwartet, die Immobilie nach einer Haltezeit von mehr als zwei Jahren zu veräußern, errechnet sich die daraus resultierende latente Steuerschuld deshalb wie folgt:
+
+
+
+ 
+	
+
+Zu versteuernde temporäre Differenz
+	
+
+Steuersatz
+	
+
+Latente Steuerschuld
+
+Kumulierte steuerliche Abschreibung
+	
+
+30
+	
+
+30 %
+	
+
+9
+
+Die Anschaffungskosten übersteigender Erlös
+	
+
+50
+	
+
+20 %
+	
+
+10
+
+Summe
+	
+
+80
+	
+
+ 
+	
+
+19
+
+Falls das Unternehmen erwartet, die Immobilie nach einer Haltezeit von weniger als zwei Jahren zu veräußern, würde in der obigen Berechnung auf die über die Anschaffungskosten hinausgehenden Erlöse anstelle des Satzes von 20 % ein Satz von 25 % angewandt.
+
+Wird das Gebäude stattdessen im Rahmen eines Geschäftsmodells gehalten, das darauf abzielt, den gesamten wirtschaftlichen Nutzen des Gebäudes im Laufe der Zeit im Wesentlichen zu verbrauchen, statt es zu verkaufen, wäre diese Vermutung für das Gebäude widerlegt. Das Grundstück dagegen ist nicht abschreibungsfähig. Für das Grundstück wäre die Vermutung der Realisierung durch Verkauf deshalb nicht widerlegt. Dementsprechend würde die latente Steuerschuld die steuerlichen Konsequenzen einer Realisierung des Buchwerts des Gebäudes durch Nutzung und des Buchwerts des Grundstücks durch Verkauf widerspiegeln.
+
+Bei Nutzung ist die steuerliche Basis des Gebäudes 30 (60 – 30) und liegt eine zu versteuernde temporäre Differenz von 60 (90 – 30) vor, woraus sich eine latente Steuerschuld von 18 (30 % von 60) ergibt.
+
+Bei Verkauf ist die steuerliche Basis des Grundstücks 40 und liegt eine zu versteuernde temporäre Differenz von 20 (60 – 40) vor, woraus sich eine latente Steuerschuld von 4 (20 % von 20) ergibt.
+
+Wird die Vermutung der Realisierung durch Verkauf für das Gebäude widerlegt, beträgt die latente Steuerschuld für die als Finanzinvestition gehaltene Immobilie folglich 22 (18 + 4).
+
+51D Die widerlegbare Vermutung nach Paragraph 51C gilt auch dann, wenn sich aus der Bewertung einer als Finanzinvestition gehaltenen Immobilie bei einem Unternehmenszusammenschluss eine latente Steuerschuld oder ein latenter Steueranspruch ergibt und das Unternehmen diese als Finanzinvestition gehaltene Immobilie in der Folge nach dem Modell des beizulegenden Zeitwerts bewertet.
+
+51E Von den Paragraphen 51B–51D unberührt bleibt die Pflicht, bei Ansatz und Bewertung latenter Steueransprüche nach den Grundsätzen der Paragraphen 24–33 (abzugsfähige temporäre Differenzen) und 34–36 (noch nicht genutzte steuerliche Verluste und noch nicht genutzte Steuergutschriften) dieses Standards zu verfahren.
+
+52 [verschoben und in 51A umnummeriert]
+
+52A In manchen Rechtskreisen sind Ertragsteuern einem erhöhten oder verminderten Steuersatz unterworfen, falls das Nettoergebnis oder die Gewinnrücklagen teilweise oder vollständig als Dividenden an die Anteilseigner des Unternehmens ausgezahlt werden. In einigen anderen Rechtskreisen werden Ertragsteuern erstattet oder sind nachzuzahlen, falls das Nettoergebnis oder die Gewinnrücklagen teilweise oder vollständig als Dividenden an die Anteilseigner des Unternehmens ausgezahlt werden. Unter diesen Umständen sind die tatsächlichen und latenten Steueransprüche bzw. Steuerschulden mit dem Steuersatz, der auf nicht ausgeschüttete Gewinne anzuwenden ist, zu bewerten.
+
+52B [gestrichen]
+
+Beispiel zur Veranschaulichung der Paragraphen 52A und 57A
+
+Das folgende Beispiel behandelt die Bewertung von tatsächlichen und latenten Steueransprüchen und -schulden eines Unternehmens in einem Land, in dem die Ertragsteuern auf nicht ausgeschüttete Gewinne (50 %) höher sind und ein Betrag erstattet wird, wenn die Gewinne ausgeschüttet werden. Der Steuersatz auf ausgeschüttete Gewinne beträgt 35 %. Am Abschlussstichtag, 31. Dezember 20X1, hat das Unternehmen keine Verbindlichkeiten für Dividenden, die zur Auszahlung nach dem Abschlussstichtag vorgeschlagen oder beschlossen wurden, zu passivieren. Daraus resultiert, dass im Jahr 20X1 keine Dividenden berücksichtigt wurden. Das zu versteuernde Ergebnis für das Jahr 20X1 beträgt 100 000 . Die zu versteuernde temporäre Differenz für das Jahr 20X1 beträgt 40 000.
+
+Das Unternehmen setzt eine tatsächliche Steuerschuld und einen tatsächlichen Steueraufwand von 50 000 an. Es wird kein Vermögenswert für den potenziell für künftige Dividendenzahlungen zu erstattenden Betrag angesetzt. Das Unternehmen setzt auch eine latente Steuerschuld und einen latenten Steueraufwand von 20 000 (50 % von 40 000) an, die die Ertragsteuern darstellen, die das Unternehmen bezahlen wird, wenn es den Buchwert der Vermögenswerte realisiert oder den Buchwert der Schulden erfüllt, und zwar auf der Grundlage des Steuersatzes für nicht ausgeschüttete Gewinne.
+
+Am 15. März 20X2 setzt das Unternehmen Dividenden aus früheren Betriebsergebnissen in Höhe von 10 000 als Verbindlichkeiten an.
+
+Das Unternehmen setzt am 15. März 20X2 die Erstattung von Ertragsteuern in Höhe von 1500 (15 % der als Verbindlichkeit angesetzten Dividendenzahlung) als einen tatsächlichen Steueranspruch und als eine Minderung des Ertragsteueraufwands für das Jahr 20X2 an.
+
+53   Latente Steueransprüche und latente Steuerschulden sind nicht abzuzinsen
+
+54 Die verlässliche Ermittlung latenter Steueransprüche und latenter Steuerschulden auf der Grundlage einer Abzinsung erfordert eine detaillierte Aufstellung des zeitlichen Verlaufs der Auflösung jeder temporären Differenz. In vielen Fällen ist eine solche Aufstellung nicht durchführbar oder aufgrund ihrer Komplexität nicht vertretbar. Demzufolge ist die Verpflichtung zu einer Abzinsung latenter Steueransprüche und latenter Steuerschulden nicht sachgerecht. Ein Wahlrecht zur Abzinsung würde zu latenten Steueransprüchen und latenten Steuerschulden führen, die zwischen den Unternehmen nicht vergleichbar wären. Daher ist gemäß diesem Standard die Abzinsung latenter Steueransprüche und latenter Steuerschulden weder erforderlich noch gestattet.
+
+55 Die Bestimmung temporärer Differenzen erfolgt aufgrund des Buchwerts eines Vermögenswerts oder einer Schuld. Dies trifft auch dann zu, wenn der Buchwert seinerseits auf Grundlage einer Abzinsung ermittelt wurde, beispielsweise im Falle von Pensionsverpflichtungen (siehe IAS 19 Leistungen an Arbeitnehmer).
+
+56   Der Buchwert eines latenten Steueranspruchs ist zu jedem Abschlussstichtag zu überprüfen. Ein Unternehmen hat den Buchwert eines latenten Steueranspruchs in dem Umfang zu mindern, in dem es nicht mehr wahrscheinlich ist, dass ein ausreichender zu versteuernder Gewinn zur Verfügung stehen wird, um den latenten Steueranspruch entweder teilweise oder insgesamt zu nutzen. Alle derartigen Minderungen sind in dem Umfang wieder aufzuholen, in dem es wahrscheinlich wird, dass ein ausreichender zu versteuernder Gewinn zur Verfügung stehen wird.
+
+ANSATZ TATSÄCHLICHER UND LATENTER STEUERN
+
+57 Die Bilanzierung der Auswirkungen tatsächlicher und latenter Steuern eines Geschäftsvorfalls oder eines anderen Ereignisses hat mit der Bilanzierung des Geschäftsvorfalls oder des Ereignisses selbst konsistent zu sein. Dieses Prinzip wird in den Paragraphen 58 bis 68C festgelegt.
+
+57A Ein Unternehmen hat ertragsteuerliche Konsequenzen von Dividendenzahlungen (im Sinne von IFRS 9) dann zu erfassen, wenn es die Verpflichtung zur Dividendenausschüttung ansetzt. Ertragsteuerliche Konsequenzen von Dividendenzahlungen sind mehr mit Geschäften oder Ereignissen der Vergangenheit verbunden, die ausschüttungsfähige Gewinne generiert haben, als mit der Ausschüttung an die Eigentümer. Aus diesem Grund sind ertragsteuerliche Konsequenzen von Dividendenzahlungen – je nachdem, wie das Unternehmen diese vergangenen Geschäfte oder Ereignisse ursprünglich erfasst hat – im Periodenergebnis, im sonstigen Ergebnis oder im Eigenkapital zu erfassen.
+
+Erfolgswirksam erfasste Posten
+
+58   Tatsächliche und latente Steuern sind als Ertrag oder Aufwand zu erfassen und in den Gewinn oder Verlust der Periode einzubeziehen, ausgenommen in dem Umfang, in dem die Steuer herrührt aus
+a) 
+
+einem Geschäftsvorfall oder Ereignis, der bzw. das in derselben oder einer anderen Periode außerhalb des Gewinns oder Verlusts entweder im sonstigen Ergebnis oder direkt im Eigenkapital angesetzt wird (siehe Paragraphen 61A–65), oder
+b) 
+
+einem Unternehmenszusammenschluss (mit Ausnahme des Erwerbs eines Tochterunternehmens durch eine Investmentgesellschaft im Sinne von IFRS 10 Konzernabschlüsse, wenn das Tochterunternehmen erfolgswirksam zum beizulegenden Zeitwert bewertet werden muss) (siehe Paragraphen 66–68).
+
+59 Die meisten latenten Steuerschulden und latenten Steueransprüche entstehen dort, wo Ertrag oder Aufwand in das bilanzielle Ergebnis vor Steuern einer Periode einbezogen werden, jedoch im zu versteuernden Gewinn (steuerlichen Verlust) einer anderen Periode erfasst werden. Die sich daraus ergebende latente Steuer wird erfolgswirksam erfasst. Beispiele dafür sind:
+a) 
+
+Zinsen, Nutzungsentgelte oder Dividenden werden rückwirkend geleistet und gemäß IFRS 15 Erlöse aus Verträgen mit Kunden, IAS 39 Finanzinstrumente: Ansatz und Bewertung oder IFRS 9 Finanzinstrumente in das bilanzielle Ergebnis vor Steuern einbezogen, die Berücksichtigung im zu versteuernden Gewinn (steuerlichen Verlust) erfolgt dagegen auf Grundlage des Zahlungsmittelflusses;
+b) 
+
+Kosten für immaterielle Vermögenswerte werden gemäß IAS 38 aktiviert und erfolgswirksam planmäßig abgeschrieben, der Abzug für steuerliche Zwecke erfolgt aber, wenn sie anfallen.
+
+60 Der Buchwert latenter Steueransprüche und latenter Steuerschulden kann sich verändern, auch wenn der Betrag der damit verbundenen temporären Differenzen nicht geändert wird. Dies kann beispielsweise aus Folgendem resultieren:
+a) 
+
+einer Änderung der Steuersätze oder Steuervorschriften,
+b) 
+
+einer erneuten Beurteilung der Realisierbarkeit latenter Steueransprüche oder
+c) 
+
+einer Änderung der erwarteten Art und Weise der Realisierung eines Vermögenswerts.
+
+Die sich ergebende latente Steuer ist erfolgswirksam zu erfassen, ausgenommen in dem Umfang, in dem sie sich auf Posten bezieht, welche früher außerhalb des Gewinns oder Verlusts erfasst wurden (siehe Paragraph 63).
+
+Posten, die außerhalb des Gewinns oder Verlusts erfasst werden
+
+61  [gestrichen]
+
+61A   Tatsächliche Ertragsteuern und latente Steuern sind außerhalb des Gewinns oder Verlusts zu erfassen, wenn sich die Steuer auf Posten bezieht, die in derselben oder einer anderen Periode außerhalb des Gewinns oder Verlusts erfasst werden. Dementsprechend sind tatsächliche Ertragsteuern und latente Steuern in Zusammenhang mit Posten, die in derselben oder einer anderen Periode
+a) 
+
+im sonstigen Ergebnis erfasst werden, im sonstigen Ergebnis zu erfassen (siehe Paragraph 62).
+b) 
+
+direkt im Eigenkapital erfasst werden, direkt im Eigenkapital zu erfassen (siehe Paragraph 62A).
+
+62 Die International Financial Reporting Standards verlangen oder erlauben die Erfassung bestimmter Posten im sonstigen Ergebnis. Beispiele solcher Posten sind:
+a) 
+
+eine Änderung im Buchwert infolge einer Neubewertung von Sachanlagen (siehe IAS 16) und
+b) 
+
+[gestrichen]
+c) 
+
+Währungsdifferenzen infolge einer Umrechnung des Abschlusses eines ausländischen Geschäftsbetriebs (siehe IAS 21).
+d) 
+
+[gestrichen]
+
+62A Die International Financial Reporting Standards verlangen oder erlauben die unmittelbare Gutschrift oder Belastung bestimmter Posten im Eigenkapital. Beispiele solcher Posten sind:
+a) 
+
+eine Anpassung des Anfangssaldos der Gewinnrücklagen infolge einer Änderung der Rechnungslegungsmethoden, die rückwirkend angewandt wird, oder infolge einer Fehlerkorrektur (siehe IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler) und
+b) 
+
+beim erstmaligen Ansatz der Eigenkapitalkomponente eines zusammengesetzten Finanzinstruments entstehende Beträge (siehe Paragraph 23).
+
+63 In außergewöhnlichen Umständen kann es schwierig sein, den Betrag der tatsächlichen und latenten Steuer zu ermitteln, der sich auf Posten bezieht, die außerhalb des Gewinns oder Verlusts (entweder im sonstigen Ergebnis oder direkt im Eigenkapital) erfasst werden. Dies kann beispielsweise der Fall sein, wenn
+a) 
+
+die Ertragsteuersätze abgestuft sind und es unmöglich ist, den Steuersatz zu ermitteln, zu dem ein bestimmter Bestandteil des zu versteuernden Gewinns (steuerlichen Verlusts) besteuert wurde,
+b) 
+
+eine Änderung des Steuersatzes oder anderer Steuervorschriften einen latenten Steueranspruch oder eine latente Steuerschuld beeinflusst, der bzw. die vollständig oder teilweise mit einem Posten in Zusammenhang steht, der vorher außerhalb des Gewinns oder Verlusts erfasst wurde, oder
+c) 
+
+ein Unternehmen entscheidet, dass ein latenter Steueranspruch anzusetzen ist oder nicht mehr in voller Höhe anzusetzen ist und der latente Steueranspruch sich (insgesamt oder teilweise) auf einen Posten bezieht, der vorher außerhalb des Gewinns oder Verlusts erfasst wurde.
+
+In solchen Fällen wird die tatsächliche und latente Steuer in Bezug auf Posten, die außerhalb des Gewinns oder Verlusts erfasst werden, auf Basis einer angemessenen anteiligen Verteilung der tatsächlichen und latenten Steuer des Unternehmens in der betreffenden Steuergesetzgebung errechnet, oder es wird ein anderes Verfahren gewählt, welches unter den vorliegenden Umständen eine sachgerechtere Verteilung ermöglicht.
+
+64 IAS 16 legt nicht fest, ob ein Unternehmen in jeder Periode einen Betrag aus der Neubewertungsrücklage in die Gewinnrücklagen zu übertragen hat, der dem Unterschiedsbetrag zwischen der planmäßigen Abschreibung eines neubewerteten Vermögenswerts und der planmäßigen Abschreibung auf Basis der Anschaffungs- oder Herstellungskosten dieses Vermögenswerts entspricht. Falls ein Unternehmen eine solche Übertragung durchführt, ist der zu übertragende Betrag nach Abzug aller damit verbundenen latenten Steuern zu ermitteln. Entsprechende Überlegungen finden Anwendung auf Übertragungen bei der Veräußerung von Sachanlagen.
+
+65 Wird ein Vermögenswert für steuerliche Zwecke neubewertet und bezieht sich diese Neubewertung auf eine bilanzielle Neubewertung einer früheren Periode oder auf eine, die den Erwartungen zufolge in einer künftigen Periode durchgeführt werden soll, werden die steuerlichen Auswirkungen sowohl der Neubewertung des Vermögenswerts als auch der Anpassung der steuerlichen Basis im sonstigen Ergebnis in den Perioden erfasst, in denen sie sich ereignen. Ist die Neubewertung für steuerliche Zwecke jedoch nicht mit einer bilanziellen Neubewertung einer früheren oder einer für zukünftige Perioden erwarteten bilanziellen Neubewertung verbunden, werden die steuerlichen Auswirkungen der Anpassung der steuerlichen Basis erfolgswirksam erfasst.
+
+65A Wenn ein Unternehmen Dividenden an seine Anteilseigner zahlt, ist es unter Umständen verpflichtet, einen Teil der Dividenden im Namen der Anteilseigner an die Steuerbehörden zu zahlen. In vielen Ländern wird diese Steuer als Quellensteuer bezeichnet. Ein solcher Betrag, der an die Steuerbehörden zu zahlen ist oder gezahlt wurde, ist direkt mit dem Eigenkapital als Teil der Dividenden zu verrechnen.
+
+Latente Steuern als Folge eines Unternehmenszusammenschlusses
+
+66 Wie in den Paragraphen 19 und 26(c) erläutert, können temporäre Differenzen bei einem Unternehmenszusammenschluss entstehen. Gemäß IFRS 3 setzt ein Unternehmen alle sich ergebenden latenten Steueransprüche (in dem Umfang, in dem sie die Ansatzkriterien des Paragraphen 24 erfüllen) oder latenten Steuerschulden als identifizierbare Vermögenswerte und Schulden zum Erwerbszeitpunkt an. Folglich beeinflussen jene latenten Steueransprüche und latenten Steuerschulden den Betrag des Geschäfts- oder Firmenwerts oder den Gewinn, der aus einem Erwerb zu einem Preis unter Marktwert erfasst wurde. Gemäß Paragraph 15(a) setzt ein Unternehmen jedoch keine latenten Steuerschulden an, die aus dem erstmaligen Ansatz eines Geschäfts- oder Firmenwerts entstanden sind.
+
+67 Infolge eines Unternehmenszusammenschlusses könnte sich die Wahrscheinlichkeit, dass ein Erwerber einen latenten Steueranspruch aus der Zeit vor dem Zusammenschluss realisiert, ändern. Ein Erwerber kann es für wahrscheinlich halten, dass er seinen eigenen latenten Steueranspruch, der vor dem Unternehmenszusammenschluss nicht angesetzt war, realisieren wird. Beispielsweise kann ein Erwerber in der Lage sein, den Vorteil seiner noch nicht genutzten steuerlichen Verluste gegen den zukünftigen zu versteuernden Gewinn des erworbenen Unternehmens zu verwenden. Infolge eines Unternehmenszusammenschlusses könnte es alternativ nicht mehr wahrscheinlich sein, dass mit zukünftig zu versteuerndem Gewinn der latente Steueranspruch realisiert werden kann. In solchen Fällen erfasst der Erwerber eine Änderung des latenten Steueranspruchs in der Periode des Unternehmenszusammenschlusses, schließt diese Änderung jedoch nicht als Teil der Bilanzierung des Unternehmenszusammenschlusses ein. Deshalb berücksichtigt der Erwerber ihn bei der Bewertung des Geschäfts- oder Firmenwerts oder des Gewinns aus einem Erwerb zu einem Preis unter dem Marktwert, der bei einem Unternehmenszusammenschluss erfasst wird, nicht.
+
+68 Der potenzielle Nutzen eines ertragsteuerlichen Verlustvortrags oder anderer latenter Steueransprüche des erworbenen Unternehmens könnte die Kriterien für einen gesonderten Ansatz zum Zeitpunkt des erstmaligen Ansatzes eines Unternehmenszusammenschlusses nicht erfüllen, aber könnte nachträglich realisiert werden.
+
+Ein Unternehmen hat erworbene latente Steuervorteile, die es nach dem Unternehmenszusammenschluss realisiert, wie folgt zu erfassen:
+a) 
+
+Erworbene latente Steuervorteile, die innerhalb des Bewertungszeitraums erfasst werden und sich aus neuen Informationen über Fakten und Umstände ergeben, die zum Erwerbszeitpunkt bestanden, sind zur Verringerung des Buchwerts eines Geschäfts- oder Firmenwerts, der in Zusammenhang mit diesem Erwerb steht, anzuwenden. Wenn der Buchwert dieses Geschäfts- oder Firmenwerts gleich null ist, sind alle verbleibenden latenten Steuervorteile im Ergebnis zu erfassen.
+b) 
+
+Alle anderen realisierten erworbenen latenten Steuervorteile sind im Ergebnis zu erfassen (oder nicht im Ergebnis, sofern es dieser Standards verlangt).
+
+Tatsächliche und latente Steuern aus anteilsbasierten Vergütungen
+
+68A In manchen Rechtskreisen kann ein Unternehmen im Zusammenhang mit Vergütungen, die in Anteilen, Anteilsoptionen oder anderen Eigenkapitalinstrumenten des Unternehmens abgegolten werden, einen Steuerabzug (d. h. einen Betrag, der bei der Ermittlung des zu versteuernden Gewinns abzugsfähig ist) in Anspruch nehmen. Die Höhe dieses Steuerabzugs kann sich vom kumulativen Vergütungsaufwand unterscheiden und in einer späteren Bilanzierungsperiode anfallen. Beispielsweise kann ein Unternehmen in einigen Rechtskreisen den Verbrauch der als Gegenleistung für gewährte Anteilsoptionen erhaltenen Arbeitsleistungen gemäß IFRS 2 Anteilsbasierte Vergütung als Aufwand erfassen, jedoch erst bei Ausübung der Anteilsoptionen einen Steuerabzug geltend machen, dessen Höhe nach dem Anteilspreis des Unternehmens am Tag der Ausübung bewertet wird.
+
+68B Wie bei den in den Paragraphen 9 und 26(b) erörterten Forschungskosten ist der Unterschiedsbetrag zwischen der steuerlichen Basis der bisher erhaltenen Arbeitsleistungen (als Betrag, dessen Abzug in den zukünftigen Perioden von den Steuerbehörden gestattet wird) und dem Buchwert von null eine abzugsfähige temporäre Differenz, die einen latenten Steueranspruch zur Folge hat. Ist der Betrag, dessen Abzug in zukünftigen Perioden von den Steuerbehörden erlaubt ist, am Ende der Berichtsperiode nicht bekannt, ist er anhand der zu diesem Zeitpunkt verfügbaren Informationen zu schätzen. Wenn beispielsweise die Höhe des Betrags, der von den Steuerbehörden als in künftigen Perioden abzugsfähig anerkannt wird, vom Anteilspreis des Unternehmens zu einem künftigen Zeitpunkt abhängig ist, muss zur Ermittlung der abzugsfähigen temporären Differenz der Anteilspreis des Unternehmens am Ende der Berichtsperiode herangezogen werden.
+
+68C Wie in Paragraph 68A aufgeführt, kann sich der steuerlich absetzbare Betrag (oder der gemäß Paragraph 68B berechnete voraussichtliche künftige Steuerabzug) von dem dazugehörigen kumulativen Vergütungsaufwand unterscheiden. Paragraph 58 des Standards verlangt, dass tatsächliche und latente Steuern als Ertrag oder Aufwand zu erfassen und in den Gewinn oder Verlust der Periode einzubeziehen sind, ausgenommen in dem Umfang, in dem die Steuer (a) aus einem Geschäftsvorfall oder einem Ereignis herrührt, der bzw. das in derselben oder einer anderen Periode außerhalb des Gewinns oder Verlusts erfasst wird, oder (b) aus einem Unternehmenszusammenschluss (mit Ausnahme des Erwerbs eines Tochterunternehmens durch eine Investmentgesellschaft, wenn das Tochterunternehmen erfolgswirksam zum beizulegenden Zeitwert bewertet werden muss). Wenn der steuerlich absetzbare Betrag (oder der geschätzte künftige Steuerabzug) den Betrag des dazugehörigen kumulativen Vergütungsaufwands übersteigt, weist dies darauf hin, dass sich der Steuerabzug nicht nur auf den Vergütungsaufwand, sondern auch auf einen Eigenkapitalposten bezieht. In dieser Situation ist der Überschuss der verbundenen tatsächlichen und latenten Steuern direkt im Eigenkapital zu erfassen.
+
+DARSTELLUNG
+
+Steueransprüche und Steuerschulden
+
+69 [gestrichen]
+
+70 [gestrichen]
+
+Saldierung
+
+71   Ein Unternehmen hat tatsächliche Steueransprüche und tatsächliche Steuerschulden nur dann zu saldieren, wenn es
+a) 
+
+ein einklagbares Recht hat, die erfassten Beträge miteinander zu verrechnen, und
+b) 
+
+beabsichtigt, entweder den Ausgleich auf Nettobasis herbeizuführen oder gleichzeitig mit der Realisierung des betreffenden Vermögenswerts die dazugehörige Schuld abzulösen.
+
+72 Obwohl tatsächliche Steueransprüche und Steuerschulden voneinander getrennt angesetzt und bewertet werden, erfolgt eine Saldierung in der Bilanz dann, wenn die Kriterien analog erfüllt sind, die für Finanzinstrumente in IAS 32 angegeben sind. Ein Unternehmen wird im Regelfall ein einklagbares Recht zur Aufrechnung eines tatsächlichen Steueranspruchs gegen eine tatsächliche Steuerschuld haben, wenn diese in Verbindung mit Ertragsteuern stehen, die von derselben Steuerbehörde erhoben werden, und die Steuerbehörde dem Unternehmen gestattet, eine einzige Nettozahlung zu leisten oder zu empfangen.
+
+73 In einem Konzernabschluss wird ein tatsächlicher Steueranspruch eines Konzernunternehmens nur dann gegen eine tatsächliche Steuerschuld eines anderen Konzernunternehmens saldiert, wenn die betreffenden Unternehmen ein einklagbares Recht haben, nur eine einzige Nettozahlung zu leisten oder zu empfangen, und die Unternehmen beabsichtigen, auch lediglich eine Nettozahlung zu leisten oder zu empfangen bzw. gleichzeitig den Anspruch zu realisieren und die Schuld abzulösen.
+
+74   Ein Unternehmen hat latente Steueransprüche und latente Steuerschulden nur dann zu saldieren, wenn
+a) 
+
+das Unternehmen ein einklagbares Recht zur Aufrechnung tatsächlicher Steueransprüche gegen tatsächliche Steuerschulden hat und
+b) 
+
+die latenten Steueransprüche und die latenten Steuerschulden sich auf Ertragsteuern beziehen, die von derselben Steuerbehörde erhoben werden für
+i) 
+
+entweder dasselbe Steuersubjekt oder
+ii) 
+
+unterschiedliche Steuersubjekte, die beabsichtigen, in jeder künftigen Periode, in der die Ablösung oder Realisierung erheblicher Beträge an latenten Steuerschulden bzw. Steueransprüchen zu erwarten ist, entweder den Ausgleich der tatsächlichen Steuerschulden und Steueransprüche auf Nettobasis herbeizuführen oder gleichzeitig mit der Realisierung der Ansprüche die Schulden abzulösen.
+
+75 Um das Erfordernis einer detaillierten Aufstellung des zeitlichen Verlaufs der Auflösung jeder einzelnen temporären Differenz zu vermeiden, verlangt dieser Standard von einem Unternehmen die Saldierung eines latenten Steueranspruchs gegen eine latente Steuerschuld desselben Steuersubjektes nur dann, wenn diese sich auf Ertragsteuern beziehen, die von derselben Steuerbehörde erhoben werden, und das Unternehmen ein einklagbares Recht auf Aufrechnung tatsächlicher Steueransprüche gegen tatsächliche Steuerschulden hat.
+
+76 In seltenen Fällen kann ein Unternehmen ein einklagbares Recht auf Aufrechnung haben und beabsichtigen, nur für einige Perioden einen Ausgleich auf Nettobasis durchzuführen, aber nicht für andere. In solchen seltenen Fällen kann eine detaillierte Aufstellung erforderlich sein, damit verlässlich ermittelt werden kann, ob die latente Steuerschuld eines Steuersubjekts zu erhöhten Steuerzahlungen in derselben Periode führen wird, in der ein latenter Steueranspruch eines anderen Steuersubjekts zu verminderten Zahlungen dieses zweiten Steuersubjekts führen wird.
+
+Steueraufwand
+
+Dem Gewinn oder Verlust aus gewöhnlicher Tätigkeit zuzurechnender Steueraufwand (Steuerertrag)
+
+77   Der dem Gewinn oder Verlust aus gewöhnlicher Tätigkeit zuzurechnende Steueraufwand (Steuerertrag) ist in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis als Ergebnisbestandteil darzustellen.
+
+77A  [gestrichen]
+
+Währungsdifferenzen aus latenten Auslandssteuerschulden oder -ansprüchen
+
+78 IAS 21 verlangt die Erfassung bestimmter Währungsdifferenzen als Aufwand oder Ertrag, legt aber nicht fest, wo solche Unterschiedsbeträge in der Gesamtergebnisrechnung auszuweisen sind. Sind entsprechend Währungsdifferenzen aus latenten Auslandssteuerschulden oder latenten Auslandssteueransprüchen in der Gesamtergebnisrechnung erfasst, können demzufolge solche Unterschiedsbeträge auch als latenter Steueraufwand (Steuerertrag) ausgewiesen werden, falls anzunehmen ist, dass dieser Ausweis für die Informationsinteressen der Abschlussadressaten am geeignetsten ist.
+
+ANGABEN
+
+79   Die Hauptbestandteile des Steueraufwands (Steuerertrags) sind getrennt anzugeben.
+
+80 Zu den Bestandteilen des Steueraufwands (Steuerertrags) kann Folgendes gehören:
+a) 
+
+tatsächlicher Steueraufwand (Steuerertrag),
+b) 
+
+alle in der Periode erfassten Anpassungen für periodenfremde tatsächliche Ertragsteuern,
+c) 
+
+der Betrag des latenten Steueraufwands (Steuerertrags), der auf das Entstehen bzw. die Auflösung temporärer Differenzen zurückzuführen ist,
+d) 
+
+der Betrag des latenten Steueraufwands (Steuerertrags), der auf Änderungen der Steuersätze oder der Einführung neuer Steuern beruht,
+e) 
+
+der Betrag der Minderung des tatsächlichen Ertragsteueraufwands aufgrund der Nutzung bisher nicht berücksichtigter steuerlicher Verluste, aufgrund von Steuergutschriften oder infolge einer bisher nicht berücksichtigten temporären Differenz einer früheren Periode,
+f) 
+
+der Betrag der Minderung des latenten Steueraufwands aufgrund bisher nicht berücksichtigter steuerlicher Verluste, aufgrund von Steuergutschriften oder infolge einer bisher nicht berücksichtigten temporären Differenz einer früheren Periode,
+g) 
+
+der latente Steueraufwand infolge einer Abwertung oder Aufholung einer früheren Abwertung eines latenten Steueranspruchs gemäß Paragraph 56 und
+h) 
+
+der Betrag des Ertragsteueraufwands (Ertragsteuerertrags), der aus Änderungen der Rechnungslegungsmethoden und Fehlern resultiert, die nach IAS 8 erfolgswirksam erfasst wurden, weil sie nicht rückwirkend berücksichtigt werden können.
+
+81   Weiterhin ist ebenfalls getrennt anzugeben:
+a) 
+
+die Summe des Betrags tatsächlicher und latenter Steuern resultierend aus Posten, die direkt dem Eigenkapital belastet oder gutgeschrieben werden (siehe Paragraph 62A),
+ab) 
+
+der mit jedem Bestandteil des sonstigen Ergebnisses in Zusammenhang stehende Ertragsteuerbetrag (siehe Paragraph 62 und IAS 1 (in der 2007 überarbeiteten Fassung)),
+b) 
+
+[gestrichen]
+c) 
+
+eine Erläuterung der Beziehung zwischen dem Steueraufwand (Steuerertrag) und dem bilanziellen Ergebnis vor Steuern in einer der beiden oder in beiden folgenden Formen:
+i) 
+
+eine Überleitungsrechnung zwischen dem Steueraufwand (Steuerertrag) und dem Produkt aus dem bilanziellen Ergebnis vor Steuern und dem anzuwendenden Steuersatz/den anzuwendenden Steuersätzen, wobei auch die Basis anzugeben ist, auf der der anzuwendende Steuersatz berechnet wurde/die anzuwendenden Steuersätze berechnet wurden, oder
+ii) 
+
+eine Überleitungsrechnung zwischen dem durchschnittlichen effektiven Steuersatz und dem anzuwendenden Steuersatz, wobei auch die Grundlage anzugeben ist, auf der der anzuwendende Steuersatz berechnet wurde,
+d) 
+
+eine Erläuterung zu Änderungen des anzuwendenden Steuersatzes/der anzuwendenden Steuersätze im Vergleich zu der vorherigen Bilanzierungsperiode,
+e) 
+
+der Betrag (und, falls erforderlich, das Datum des Verfalls) der abzugsfähigen temporären Differenzen, der noch nicht genutzten steuerlichen Verluste und der noch nicht genutzten Steuergutschriften, für welche in der Bilanz kein latenter Steueranspruch angesetzt wurde,
+f) 
+
+die Summe des Betrags temporärer Differenzen im Zusammenhang mit Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen sowie Anteilen an gemeinschaftlichen Vereinbarungen, für die keine latenten Steuerschulden angesetzt worden sind (siehe Paragraph 39),
+g) 
+
+bezüglich jeder Art temporärer Differenzen und jeder Art noch nicht genutzter steuerlicher Verluste und noch nicht genutzter Steuergutschriften:
+i) 
+
+der Betrag der latenten Steueransprüche und latenten Steuerschulden, die in der Bilanz für jede dargestellte Periode angesetzt wurden,
+ii) 
+
+der Betrag des erfolgswirksam erfassten latenten Steuerertrags oder Steueraufwands, falls dies nicht bereits aus den Änderungen der in der Bilanz angesetzten Beträge hervorgeht,
+h) 
+
+der Steueraufwand hinsichtlich aufgegebener Geschäftsbereiche für
+i) 
+
+den auf die Aufgabe entfallenden Gewinn oder Verlust und
+ii) 
+
+den Gewinn oder Verlust, soweit er aus der gewöhnlichen Tätigkeit des aufgegebenen Geschäftsbereiches für die Periode resultiert, zusammen mit den Vergleichszahlen für jede dargestellte frühere Periode,
+i) 
+
+der Betrag der ertragsteuerlichen Konsequenzen von Dividendenzahlungen an die Anteilseigner des Unternehmens, die vorgeschlagen oder beschlossen wurden, bevor der Abschluss zur Veröffentlichung genehmigt wurde, die aber nicht als Verbindlichkeit im Abschluss angesetzt wurden,
+j) 
+
+wenn ein Unternehmenszusammenschluss, bei dem das Unternehmen der Erwerber ist, eine Änderung des Betrags verursacht, der für die latenten Steueransprüche vor dem Erwerb angesetzt wurde (siehe Paragraph 67), der Betrag dieser Änderung und
+k) 
+
+wenn die bei einem Unternehmenszusammenschluss erworbenen latenten Steuervorteile nicht zum Erwerbszeitpunkt erfasst wurden, sondern erst danach (siehe Paragraph 68), eine Beschreibung des Ereignisses oder der Änderung des Umstands, welche begründen, dass die latenten Steuervorteile erfasst werden.
+
+82   Ein Unternehmen hat den Betrag eines latenten Steueranspruchs und die Art der Nachweise für seinen Ansatz anzugeben, wenn
+a) 
+
+die Realisierung des latenten Steueranspruchs von künftigen zu versteuernden Gewinnen abhängt, die höher als die Ergebniseffekte aus der Auflösung bestehender zu versteuernder temporärer Differenzen sind, und
+b) 
+
+das Unternehmen in der laufenden Periode oder der Vorperiode in demselben Steuerrechtskreis, auf den sich der latente Steueranspruch bezieht, Verluste erlitten hat.
+
+82A   Unter den Umständen, wie sie in Paragraph 52A beschrieben sind, hat ein Unternehmen die Art der potenziellen ertragsteuerlichen Konsequenzen, die sich durch die Zahlung von Dividenden an die Anteilseigner ergeben, anzugeben. Zusätzlich hat das Unternehmen die Beträge der potenziellen ertragsteuerlichen Konsequenzen, die praktisch bestimmbar sind, anzugeben und es hat anzugeben, ob irgendwelche nicht praktisch bestimmbaren potenziellen ertragsteuerlichen Konsequenzen vorhanden sind.
+
+83 [gestrichen]
+
+84 Die nach Paragraph 81(c) verlangten Angaben ermöglichen es Abschlussadressaten, zu verstehen, ob die Beziehung zwischen dem Steueraufwand (Steuerertrag) und dem bilanziellen Ergebnis vor Steuern ungewöhnlich ist, und die maßgeblichen Faktoren zu verstehen, die diese Beziehung in der Zukunft beeinflussen könnten. Die Beziehung zwischen dem Steueraufwand (Steuerertrag) und dem bilanziellen Ergebnis vor Steuern kann durch steuerfreie Umsatzerlöse, bei der Ermittlung des zu versteuernden Gewinns (steuerlichen Verlusts) nicht abzugsfähigen Aufwand sowie durch die Auswirkungen steuerlicher Verluste und ausländischer Steuersätze beeinflusst werden.
+
+85 Bei der Erklärung der Beziehung zwischen dem Steueraufwand (Steuerertrag) und dem bilanziellen Ergebnis vor Steuern ist ein Steuersatz anzuwenden, der für die Informationsinteressen der Abschlussadressaten am geeignetsten ist. Häufig ist der geeignetste Steuersatz der inländische Steuersatz des Landes, in dem das Unternehmen seinen Sitz hat. Dieser ergibt sich aus der Addition der auf nationaler Ebene erhobenen Steuersätze mit den auf lokaler Ebene erhobenen Steuersätzen, die auf der Grundlage eines im Wesentlichen vergleichbaren Niveaus des zu versteuernden Gewinns (steuerlichen Verlusts) berechnet werden. Für ein Unternehmen, das in verschiedenen Steuerrechtskreisen tätig ist, kann es sinnvoller sein, anhand der für die einzelnen Steuerrechtskreise gültigen inländischen Steuersätze verschiedene Überleitungsrechnungen zu erstellen und diese zusammenzufassen. Das folgende Beispiel zeigt, wie sich die Auswahl des anzuwendenden Steuersatzes auf die Darstellung der Überleitungsrechnung auswirkt.
+
+Beispiel zur Veranschaulichung von Paragraph 85
+
+Im Jahr 19X2 erzielt ein Unternehmen in seinem eigenen Steuerrechtskreis (Land A) ein bilanzielles Ergebnis vor Steuern von 1500 (19X1: 2000) und in Land B von 1500 (19X1: 500). Der Steuersatz beträgt 30 % in Land A und 20 % in Land B. In Land A sind Aufwendungen von 100 (19X1: 200) steuerlich nicht abzugsfähig.
+
+Nachstehend ein Beispiel einer Überleitungsrechnung für einen inländischen Steuersatz.
+
+
+
+ 
+	
+
+19X1
+	
+
+19X2
+
+Bilanzielles Ergebnis vor Steuern
+	
+
+2500
+	
+
+3000
+
+Steuer zum inländischen Steuersatz von 30 %
+	
+
+750
+	
+
+900
+
+Steuerauswirkung von steuerlich nicht abzugsfähigen Aufwendungen
+	
+
+60
+	
+
+30
+
+Auswirkung der niedrigeren Steuersätze in Land B
+	
+
+(50)
+	
+
+(150)
+
+Steueraufwand
+	
+
+760
+	
+
+780
+
+Es folgt ein Beispiel einer Überleitungsrechnung, in der getrennte Überleitungsrechnungen für jeden einzelnen nationalen Steuerrechtskreis zusammengefasst wurden. Nach dieser Methode erscheint die Auswirkung der Unterschiedsbeträge zwischen dem eigenen inländischen Steuersatz des berichtenden Unternehmens und dem inländischen Steuersatz in anderen Steuerrechtskreisen nicht als ein getrennter Posten in der Überleitungsrechnung. Ein Unternehmen hat möglicherweise die Auswirkungen maßgeblicher Änderungen in den Steuersätzen oder die strukturelle Zusammensetzung von in unterschiedlichen Steuerrechtskreisen erzielten Gewinnen zu erörtern, um die Änderungen im anzuwendenden Steuersatz/den anzuwendenden Steuersätzen wie gemäß Paragraph 81(d) verlangt, zu erklären.
+
+
+
+Bilanzielles Ergebnis vor Steuern
+	
+
+2500
+	
+
+3000
+
+Steuer zum inländischen Steuersatz anzuwenden auf Gewinne in dem betreffenden Land
+	
+
+700
+	
+
+750
+
+Steuerauswirkung von steuerlich nicht abzugsfähigen Aufwendungen
+	
+
+60
+	
+
+30
+
+Steueraufwand
+	
+
+760
+	
+
+780
+
+86 Der durchschnittliche effektive Steuersatz ist der Steueraufwand (Steuerertrag), geteilt durch das bilanzielle Ergebnis vor Steuern.
+
+87 Es ist häufig nicht praktikabel, den Betrag der nicht angesetzten latenten Steuerschulden aus Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen sowie Anteilen an gemeinschaftlichen Vereinbarungen zu berechnen (siehe Paragraph 39). Daher verlangt dieser Standard von einem Unternehmen die Angabe der Summe des Betrags der zugrunde liegenden temporären Differenzen, aber er verlangt keine Angabe der latenten Steuerschulden. Wo dies praktikabel ist, wird dem Unternehmen dennoch empfohlen, die Beträge der nicht angesetzten latenten Steuerschulden anzugeben, da diese Angaben für die Adressaten des Abschlusses nützlich sein könnten.
+
+87A Nach Paragraph 82A hat ein Unternehmen die Art der potenziellen ertragsteuerlichen Konsequenzen, die aus der Zahlung von Dividenden an die Anteilseigner resultieren würden, anzugeben. Ein Unternehmen gibt die wichtigen Bestandteile des ertragsteuerlichen Systems und die Faktoren an, die den Betrag der potenziellen ertragsteuerlichen Konsequenzen von Dividenden beeinflussen.
+
+87B Mitunter wird es nicht durchführbar sein, den gesamten Betrag der potenziellen ertragsteuerlichen Konsequenzen, die aus der Zahlung von Dividenden an die Anteilseigner resultieren würden, zu berechnen. Dies könnte zum Beispiel der Fall sein, wenn ein Unternehmen eine große Anzahl von ausländischen Tochtergesellschaften hat. Auch unter diesen Umständen kann es jedoch möglich sein, einen Teilbetrag leicht zu ermitteln Zum Beispiel könnten in einem Konzern ein Mutterunternehmen und einige der Tochterunternehmen Ertragsteuern zu einem höheren Satz auf nicht ausgeschüttete Gewinne gezahlt haben und wissen, welcher Betrag zurückerstattet würde, wenn die Dividenden später an die Anteilseigner aus den konsolidierten Gewinnrücklagen gezahlt werden. In diesem Fall ist der erstattungsfähige Betrag anzugeben. Gegebenenfalls muss das Unternehmen auch angeben, dass weitere potenzielle ertragsteuerliche Konsequenzen praktisch nicht bestimmbar sind. Im Abschluss des Mutterunternehmens sind Angaben über die potenziellen ertragsteuerlichen Konsequenzen zu machen, soweit vorhanden, die sich auf die Gewinnrücklagen des Mutterunternehmens beziehen.
+
+87C Ein Unternehmen, das die Angaben nach Paragraph 82A machen muss, könnte darüber hinaus auch verpflichtet sein, Angaben zu den temporären Differenzen, die aus Beteiligungen an Tochterunternehmen, Zweigniederlassungen und assoziierten Unternehmen oder Anteilen an gemeinschaftlichen Vereinbarungen stammen, zu machen. In diesem Fall beachtet das Unternehmen dies bei der Ermittlung der Angaben, die nach Paragraph 82A zu machen sind. Ein Unternehmen kann zum Beispiel verpflichtet sein, die Summe des Betrags temporärer Differenzen im Zusammenhang mit Beteiligungen an Tochterunternehmen, für die keine latenten Steuerschulden angesetzt worden sind (siehe auch Paragraph 81(f)), anzugeben. Wenn es nicht praktikabel ist, den Betrag der nicht angesetzten latenten Steuerschulden zu berechnen (siehe Paragraph 87), könnte es sein, dass sich potenzielle ertragsteuerliche Konsequenzen, die sich aus Dividenden in Bezug auf diese Tochterunternehmen ergeben, praktisch nicht ermitteln lassen.
+
+88 Ein Unternehmen gibt alle steuerbezogenen Eventualverbindlichkeiten und Eventualforderungen — gemäß IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen — an. Eventualverbindlichkeiten und Eventualforderungen können beispielsweise aus ungelösten Streitigkeiten mit den Steuerbehörden stammen. Ähnlich hierzu gibt ein Unternehmen, wenn Änderungen der Steuersätze oder Steuervorschriften nach dem Abschlussstichtag in Kraft treten oder angekündigt werden, alle wesentlichen Auswirkungen dieser Änderungen auf seine tatsächlichen und latenten Steueransprüche bzw. -schulden an (siehe IAS 10 Ereignisse nach dem Abschlussstichtag).
+
+▼M1
+
+Internationale Steuerreform — Säule-2-Mustervorschriften
+
+88A Hat ein Unternehmen die Ausnahme von Ansatz und Angabe latenter Steueransprüche und latenter Steuerschulden im Zusammenhang mit Säule-2-Ertragsteuern angewendet (siehe Paragraph 4A), so hat es dies anzugeben.
+
+88B Ein Unternehmen hat den tatsächlichen Steueraufwand (-ertrag) im Zusammenhang mit Säule-2-Ertragsteuern gesondert anzugeben.
+
+88C In Perioden, in denen Säule-2-Gesetze gelten oder angekündigt, aber noch nicht in Kraft sind, hat ein Unternehmen vorhandene oder angemessen abschätzbare Informationen anzugeben, anhand deren sich die Abschlussadressaten ein Bild davon machen können, welche Belastung dem Unternehmen durch diese Gesetze aus Säule-2-Ertragsteuern entsteht.
+
+88D Um das in Paragraph 88C genannte Angabeziel zu erreichen, hat ein Unternehmen am Ende der Berichtsperiode qualitative und quantitative Angaben zu seiner Belastung durch Säule-2-Ertragsteuern zu machen. Diese Angaben müssen nicht alle spezifischen Anforderungen der Säule-2-Gesetze erfüllen und können als indikative Bandbreite geliefert werden. Sind keine Informationen vorhanden oder sind diese nicht angemessen abschätzbar, hat ein Unternehmen stattdessen eine diesbezügliche Erklärung abzugeben und Angaben über seine Fortschritte bei der Beurteilung seiner Belastung zu machen.
+
+
+
+Beispiele zur Veranschaulichung der Paragraphen 88C–88D
+
+Beispiele für Angaben, die ein Unternehmen machen könnte, um die in den Paragraphen 88C-88D genannte Zielsetzung zu erreichen und die dort genannten Anforderungen zu erfüllen, sind
+
+a)  qualitative Angaben beispielsweise darüber, inwieweit das Unternehmen von Säule-2-Gesetzen betroffen ist und über die wesentlichen Rechtskreise, in denen es zu einer Belastung durch Säule-2-Ertragsteuern kommen könnte, und
+
+b)  quantitative Angaben, wie beispielsweise
+
+i)  die indikative Angabe des Anteils der Unternehmensgewinne, der Säule-2-Ertragsteuern unterliegen könnte, und des für diese Gewinne geltenden durchschnittlichen effektiven Steuersatzes oder
+
+ii)  die indikative Angabe, wie sich der durchschnittliche effektive Steuersatz des Unternehmens geändert hätte, wären die Säule-2-Gesetze in Kraft gewesen.
+
+▼B
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+89 Dieser Standard ist verbindlich auf Abschlüsse für Berichtsperioden anzuwenden, die am oder nach dem 1. Januar 1998 beginnen, es sei denn, in Paragraph 91 ist etwas anderes festgelegt. Wenn ein Unternehmen diesen Standard auf Berichtsperioden anwendet, die vor dem 1. Januar 1998 beginnen, hat das Unternehmen anzugeben, dass es diesen Standard anstelle von IAS 12 Bilanzierung von Ertragsteuern, genehmigt 1979, angewendet hat.
+
+90 Dieser Standard ersetzt den 1979 genehmigten IAS 12 Bilanzierung von Ertragsteuern.
+
+91 Die Paragraphen 52A, 52B, 65A, 81(i), 82A, 87A, 87B, 87C und die Streichung der Paragraphen 3 und 50 sind verbindlich auf Jahresabschlüsse eines am oder nach dem 1. Januar 2001 beginnenden Geschäftsjahrs ( 8 ) anzuwenden. Eine frühere Anwendung wird empfohlen. Wenn die frühere Anwendung den Abschluss beeinflusst, so ist dies anzugeben.
+
+92 Durch IAS 1 (in der 2007 überarbeiteten Fassung) wurde die in allen IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 23, 52, 58, 60, 62, 63, 65, 68C, 77 und 81 geändert, Paragraph 61 gestrichen und die Paragraphen 61A, 62A und 77A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+93 Paragraph 68 ist vom Zeitpunkt des Inkrafttretens von IFRS 3 (in der 2008 überarbeiteten Fassung) prospektiv auf den Ansatz latenter Steueransprüche, die bei einem Unternehmenszusammenschluss erworben wurden, anzuwenden.
+
+94 Daher dürfen Unternehmen die Bilanzierung früherer Unternehmenszusammenschlüsse nicht anpassen, wenn Steuervorteile die Kriterien für eine gesonderte Erfassung zum Erwerbszeitpunkt nicht erfüllten und nach dem Erwerbszeitpunkt erfasst werden, es sei denn die Steuervorteile werden innerhalb des Bewertungszeitraums erfasst und stammen von neuen Informationen über Fakten und Umstände, die zum Erwerbszeitpunkt bestanden. Sonstige angesetzte Steuervorteile sind erfolgswirksam zu erfassen (oder außerhalb des Gewinns oder Verlusts, sofern es dieser Standards verlangt).
+
+95 Durch IFRS 3 (in der 2008 überarbeiteten Fassung) wurden die Paragraphen 21 und 67 geändert und die Paragraphen 32A und 81(j) und (k) eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IFRS 3 (überarbeitet 2008) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+96 [gestrichen]
+
+97 [gestrichen]
+
+98 Durch Latente Steuern: Realisierung zugrunde liegender Vermögenswerte, veröffentlicht im Dezember 2010, wurde Paragraph 52 in Paragraph 51A umbenannt, wurden Paragraph 10 und die Beispiele im Anschluss an Paragraph 51A geändert und die Paragraphen 51B und 51C samt nachfolgendem Beispiel sowie die Paragraphen 51D, 51E und 99 eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2012 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+98A Durch IFRS 11 Gemeinschaftliche Vereinbarungen, veröffentlicht im Mai 2011, wurden die Paragraphen 2, 15, 18(e), 24, 38, 39, 43–45, 81(f), 87 und 87C geändert. Wendet ein Unternehmen IFRS 11 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+98B Durch Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurde Paragraph 77 geändert und Paragraph 77A gestrichen. Wendet ein Unternehmen IAS 1 (in der im Juni 2011 geänderten Fassung) an, hat es diese Änderungen ebenfalls anzuwenden.
+
+98C Durch die im Oktober 2012 veröffentlichte Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27) wurden die Paragraphen 58 und 68C geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es alle in der Verlautbarung Investmentgesellschaften enthaltenen Änderungen gleichzeitig anzuwenden.
+
+98D [gestrichen]
+
+98E Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurde Paragraph 59 geändert. Wendet ein Unternehmen IFRS 15 an, hat es diese Änderung ebenfalls anzuwenden.
+
+98F Durch IFRS 9, veröffentlicht im Juli 2014, wurde Paragraph 20 geändert und wurden die Paragraphen 96, 97 und 98D gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+98G Durch IFRS 16, veröffentlicht im Januar 2016, wurde Paragraph 20 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+98H Durch Ansatz latenter Steueransprüche für nicht realisierte Verluste (Änderungen an IAS 12), veröffentlicht im Januar 2016, wurden Paragraph 29 geändert und die Paragraphen 27A, 29A sowie das Beispiel nach Paragraph 26 eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2017 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben. Diese Änderungen sind gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend anzuwenden. Bei der erstmaligen Anwendung der Änderung kann die Veränderung des Eigenkapitalanfangssaldos der frühesten Vergleichsperiode jedoch im Anfangssaldo der Gewinnrücklagen (oder ggf. unter einer anderen Eigenkapitalkomponente) angesetzt werden, ohne dass der Wechsel dem Anfangssaldo der Gewinnrücklagen und sonstigen Eigenkapitalkomponenten zugeordnet wird. Macht ein Unternehmen von dieser Möglichkeit Gebrauch, hat es dies anzugeben.
+
+98I Durch die im Dezember 2017 veröffentlichten Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2015–2017, wurde Paragraph 57A eingefügt und Paragraph 52B gestrichen. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2019 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen zu einem früheren Zeitpunkt an, hat es dies anzugeben. Bei der erstmaligen Anwendung dieser Änderungen hat das Unternehmen diese auf ertragsteuerliche Konsequenzen von Dividendenzahlungen anzuwenden, die bei oder nach Beginn der frühesten Vergleichsperiode erfasst wurden.
+
+98J Mit der im Mai 2021 veröffentlichten Verlautbarung Latente Steuern, die sich auf Vermögenswerte und Schulden beziehen, die aus einem einzigen Geschäftsvorfall entstehen wurden die Paragraphen 15, 22 und 24 geändert und Paragraph 22A hinzugefügt. Diese Änderungen sind gemäß den Paragraphen 98K–98L auf jährliche Berichtsperioden anzuwenden, die am oder nach dem 1. Januar 2023 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+98K Die Verlautbarung Latente Steuern, die sich auf Vermögenswerte und Schulden beziehen, die aus einem einzigen Geschäftsvorfall entstehen ist auf Geschäftsvorfälle anzuwenden, die bei oder nach Beginn der frühesten dargestellten Vergleichsperiode eintreten.
+
+98L Ein Unternehmen, das die Verlautbarung Latente Steuern, die sich auf Vermögenswerte und Schulden beziehen, die aus einem einzigen Geschäftsvorfall entstehen anwendet, hat außerdem zu Beginn der frühesten dargestellten Vergleichsperiode
+a) 
+
+einen latenten Steueranspruch in dem Umfang anzusetzen, in dem es wahrscheinlich ist, dass ein zu versteuernder Gewinn bestehen wird, gegen den die abzugsfähige temporäre Differenz verwendet werden kann, und eine latente Steuerschuld anzusetzen für alle abzugsfähigen und zu versteuernden temporären Differenzen im Zusammenhang mit
+i) 
+
+Nutzungsrechten und Leasingverbindlichkeiten sowie
+ii) 
+
+Entsorgungs-, Wiederherstellungs- und ähnlichen Verpflichtungen und den entsprechenden Beträgen, die als Teil der Anschaffungskosten des zugehörigen Vermögenswerts erfasst werden, und
+b) 
+
+die kumulierte Auswirkung der erstmaligen Anwendung der Änderungen als Berichtigung des Eröffnungsbilanzwerts der Gewinnrücklagen (oder – soweit sachgerecht – einer anderen Eigenkapitalkomponente) zu diesem Zeitpunkt anzusetzen.
+
+▼M1
+
+98M Durch Internationale Steuerreform — Säule-2-Mustervorschriften, veröffentlicht im Mai 2023, wurden die Paragraphen 4A und 88A–88D eingefügt. Ein Unternehmen hat
+a) 
+
+die Paragraphen 4A und 88A unmittelbar nach Veröffentlichung dieser Änderungen und rückwirkend gemäß IAS 8 anzuwenden und
+b) 
+
+die Paragraphen 88B–88D auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2023 beginnen. Die in diesen Paragraphen verlangten Angaben müssen nicht für Zwischenberichtsperioden gemacht werden, die am oder vor dem 31. Dezember 2023 enden.
+
+▼B
+
+RÜCKNAHME VON SIC-21
+
+99 Die in Latente Steuern: Realisierung zugrunde liegender Vermögenswerte vom Dezember 2010 vorgenommenen Änderungen ersetzen die SIC-Interpretation 21 Ertragsteuern — Realisierung von neubewerteten, nicht planmäßig abzuschreibenden Vermögenswerten.

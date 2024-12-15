@@ -1,0 +1,1390 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 1
+
+Darstellung des Abschlusses
+
+ZIELSETZUNG
+
+1 Dieser Standard schreibt die Grundlagen für die Darstellung eines Abschlusses für allgemeine Zwecke vor, um die Vergleichbarkeit sowohl mit den Abschlüssen des eigenen Unternehmens aus vorangegangenen Perioden als auch mit den Abschlüssen anderer Unternehmen zu gewährleisten. Er enthält grundlegende Vorschriften für die Darstellung von Abschlüssen, Anwendungsleitlinien für deren Struktur und Mindestanforderungen an deren Inhalt.
+
+ANWENDUNGSBEREICH
+
+2   Ein Unternehmen hat diesen Standard anzuwenden, wenn es Abschlüsse für allgemeine Zwecke gemäß den International Financial Reporting Standards (IFRS) aufstellt und vorlegt.
+
+3 Die Erfassungs-, Bewertungs- und Angabevorschriften für bestimmte Geschäftsvorfälle und sonstige Ereignisse werden in anderen IFRS behandelt.
+
+4 Dieser Standard gilt nicht für die Struktur und den Inhalt verkürzter Zwischenabschlüsse, die gemäß IAS 34 Zwischenberichterstattung aufgestellt werden. Die Paragraphen 15–35 sind hingegen auf solche Zwischenabschlüsse anzuwenden. Dieser Standard gilt gleichermaßen für alle Unternehmen, unabhängig davon, ob sie einen Konzernabschluss gemäß IFRS 10 Konzernabschlüsse, oder einen Einzelabschluss gemäß IAS 27 Einzelabschlüsse vorlegen.
+
+5 Die in diesem Standard verwendete Terminologie ist für gewinnorientierte Unternehmen einschließlich Unternehmen des öffentlichen Sektors geeignet. Nicht gewinnorientierte Unternehmen des privaten oder öffentlichen Sektors, die diesen Standard anwenden, müssen gegebenenfalls Bezeichnungen für einzelne Posten im Abschluss und für den Abschluss selbst anpassen.
+
+6 In gleicher Weise haben Unternehmen, die kein Eigenkapital gemäß IAS 32 Finanzinstrumente: Darstellung haben (z. B. bestimmte offene Investmentfonds), sowie Unternehmen, deren Kapital kein Eigenkapital darstellt (z. B. bestimmte Genossenschaften) die Darstellung der Anteile der Mitglieder bzw. Anteilseigner im Abschluss entsprechend anzupassen.
+
+DEFINITIONEN
+
+7   Folgende Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Der Begriff Rechnungslegungsmethoden wird in Paragraph 5 des IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler definiert und im vorliegenden Standard mit derselben Bedeutung verwendet.
+Ein Abschluss für allgemeine Zwecke (auch als „Abschluss“ bezeichnet) soll den Bedürfnissen von Adressaten gerecht werden, die nicht in der Lage sind, einem Unternehmen die Veröffentlichung von Berichten vorzuschreiben, die auf ihre spezifischen Informationsbedürfnisse zugeschnitten sind.
+Undurchführbar: Die Anwendung einer Vorschrift gilt dann als undurchführbar, wenn sie trotz aller angemessenen Anstrengungen des Unternehmens nicht angewandt werden kann.
+International Financial Reporting Standards (IFRS) sind die vom International Accounting Standards Board (IASB) herausgegebenen Standards und Interpretationen. Sie umfassen
+a) 
+
+International Financial Reporting Standards,
+b) 
+
+International Accounting Standards,
+c) 
+
+IFRIC-Interpretationen und
+d) 
+
+SIC-Interpretationen. ( 1 )
+Wesentlich:
+Informationen sind wesentlich, wenn angemessenerweise erwartet werden kann, dass ihre Auslassung, fehlerhafte Darstellung oder Verschleierung die von den Hauptadressaten eines Abschlusses für allgemeine Zwecke, der Finanzinformationen zum berichtenden Unternehmen enthält, getroffenen Entscheidungen beeinflusst.
+Wesentlichkeit hängt von der Art oder dem Umfang der Informationen oder von beidem ab. Ein Unternehmen beurteilt, ob eine Information für sich allein genommen oder in Verbindung mit anderen Informationen vor dem Hintergrund seines gesamten Abschlusses wesentlich ist.
+Eine Information ist verschleiert, wenn sie so kommuniziert wird, dass sie für die Hauptadressaten des Abschlusses eine ähnliche Wirkung hat wie ihre Auslassung oder fehlerhafte Darstellung. Es folgen einige Beispiele für Situationen, die zu einer verschleierten Darstellung von Informationen führen können:
+a) 
+
+Die Information über einen wesentlichen Posten, einen wesentlichen Geschäftsvorfall oder ein wesentliches sonstiges Ereignis ist im Abschluss enthalten, aber vage oder unklar formuliert.
+b) 
+
+Die Information über einen wesentlichen Posten, einen wesentlichen Geschäftsvorfall oder ein wesentliches sonstiges Ereignis ist über den gesamten Abschluss verstreut dargestellt.
+c) 
+
+Nicht ähnliche Posten, Geschäftsvorfälle oder sonstige Ereignisse sind in unangemessener Weise aggregiert dargestellt.
+d) 
+
+Ähnliche Posten, Geschäftsvorfälle oder sonstige Ereignisse sind in unangemessener Weise getrennt dargestellt.
+e) 
+
+Die Verständlichkeit des Abschlusses wird dadurch eingeschränkt, dass wesentliche Informationen in unwesentlichen Informationen versteckt dargestellt werden, sodass die Hauptadressaten nicht erkennen können, welche Informationen wesentlich sind.
+Um beurteilen zu können, ob angemessenerweise erwartet werden kann, dass eine in seinem Abschluss für allgemeine Zwecke enthaltene Information die von den Hauptadressaten getroffenen Entscheidungen beeinflusst, muss ein Unternehmen die Eigenschaften dieser Adressaten und gleichzeitig die eigene Unternehmenssituation berücksichtigen.
+Viele bestehende und potenzielle Investoren, Kreditgeber und andere Gläubiger können von den berichtenden Unternehmen nicht verlangen, dass diese ihnen die Informationen direkt zur Verfügung stellen und stützen sich daher in Bezug auf zahlreiche Finanzinformationen auf deren Abschlüsse für allgemeine Zwecke. Sie sind daher die Hauptadressaten der Abschlüsse für allgemeine Zwecke. Die Abschlüsse richten sich an Adressaten, die eine angemessene Kenntnis geschäftlicher und wirtschaftlicher Tätigkeiten besitzen und die Informationen sorgfältig lesen und prüfen. Auch fachkundige und sorgfältige Adressaten müssen zuweilen die Hilfe eines Beraters in Anspruch nehmen, um Informationen über komplexe wirtschaftliche Phänomene zu verstehen.
+Der Anhang enthält zusätzliche Angaben zur Bilanz, zur Darstellung/zu den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis, zur Eigenkapitalveränderungsrechnung und zur Kapitalflussrechnung. Anhangangaben enthalten verbale Beschreibungen oder Aufgliederungen der in diesen Abschlussbestandteilen enthaltenen Posten sowie Informationen über nicht ansatzpflichtige Posten.
+Das sonstige Ergebnis umfasst Ertrags- und Aufwandsposten (einschließlich Umgliederungsbeträgen), die nach anderen IFRS nicht erfolgswirksam erfasst werden dürfen oder müssen.
+Das sonstige Ergebnis setzt sich aus folgenden Bestandteilen zusammen:
+a) 
+
+Veränderungen der Neubewertungsrücklage (siehe IAS 16 Sachanlagen und IAS 38 Immaterielle Vermögenswerte),
+b) 
+
+Neubewertungen von leistungsorientierten Plänen (siehe IAS 19 Leistungen an Arbeitnehmer),
+c) 
+
+Gewinne und Verluste aus der Umrechnung des Abschlusses eines ausländischen Geschäftsbetriebs (siehe IAS 21 Auswirkungen von Wechselkursänderungen),
+d) 
+
+Gewinne und Verluste aus Finanzinvestitionen in Eigenkapitalinstrumente, die gemäß Paragraph 5.7.5 von IFRS 9 Finanzinstrumente als zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet designiert wurden,
+da) 
+
+Gewinne und Verluste aus finanziellen Vermögenswerten, die gemäß Paragraph 4.1.2A von IFRS 9 zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet werden,
+e) 
+
+der effektive Teil der Gewinne und Verluste aus Sicherungsinstrumenten bei einer Absicherung von Zahlungsströmen und Gewinne und Verluste aus Sicherungsinstrumenten zur Absicherung von Finanzinvestitionen in Eigenkapitalinstrumente, die gemäß Paragraph 5.7.5 von IFRS 9 zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet werden (siehe Kapitel 6 von IFRS 9),
+f) 
+
+bei bestimmten Verbindlichkeiten, die als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert wurden, der Betrag der Änderung des beizulegenden Zeitwerts, der auf Änderungen beim Ausfallrisiko der Verbindlichkeit zurückzuführen ist (siehe Paragraph 5.7.7 von IFRS 9),
+g) 
+
+Wertänderungen des Zeitwerts von Optionen bei Trennung eines Optionskontrakts in inneren Wert und Zeitwert, wobei nur die Änderungen des inneren Werts als Sicherungsinstrument designiert sind (siehe Kapitel 6 von IFRS 9),
+h) 
+
+Wertänderungen des Terminelements von Termingeschäften bei Trennung eines Termingeschäfts in Terminelement und Kassaelement, wobei nur die Änderungen des Kassaelements als Sicherungsinstrument designiert sind, sowie Wertänderungen des Währungsbasis-Spreads eines Finanzinstruments, wenn dies aus der Designation dieses Finanzinstruments als Sicherungsinstrument ausgenommen ist (siehe Kapitel 6 von IFRS 9),
+i) 
+
+versicherungstechnische Finanzerträge und -aufwendungen aus gezeichneten Verträgen im Anwendungsbereich von IFRS 17 Versicherungsverträge, die von einer erfolgswirksamen Erfassung ausgeschlossen werden, wenn die Gesamtsumme der versicherungstechnischen Finanzerträge oder -aufwendungen aufgegliedert wird, um einen Betrag erfolgswirksam zu erfassen, der durch eine systematische Aufteilung unter Anwendung von Paragraph 88(b) des IFRS 17 bestimmt wird, oder mit dem Betrag bestimmt wird, mit dem Bewertungsinkonsistenzen mit den Finanzerträgen oder -aufwendungen aus den zugrunde liegenden Referenzwerten unter Anwendung von Paragraph 89(b) des IFRS 17 eliminiert werden, und
+j) 
+
+versicherungstechnische Finanzerträge und -aufwendungen aus gehaltenen Rückversicherungsverträgen, die von einer erfolgswirksamen Erfassung ausgeschlossen werden, wenn die Gesamtsumme der versicherungstechnischen Finanzerträge oder -aufwendungen aus der Rückversicherung aufgegliedert wird, um einen Betrag erfolgswirksam zu erfassen, der durch eine systematische Aufteilung unter Anwendung von Paragraph 88(b) des IFRS 17 bestimmt wird.
+Eigentümer sind die Inhaber von Instrumenten, die als Eigenkapital eingestuft werden.
+Gewinn oder Verlust ist die Summe der Erträge abzüglich Aufwendungen, ohne Berücksichtigung der Bestandteile des sonstigen Ergebnisses.
+Umgliederungsbeträge sind Beträge, die in der aktuellen oder einer früheren Periode als sonstiges Ergebnis erfasst wurden und in der aktuellen Periode erfolgswirksam umgegliedert werden.
+Das Gesamtergebnis ist die Veränderung des Eigenkapitals in einer Periode infolge von Geschäftsvorfällen und sonstigen Ereignissen, mit Ausnahme von Veränderungen, die sich aus Geschäftsvorfällen mit Eigentümern ergeben, die in ihrer Eigenschaft als Eigentümer handeln.
+
+Das Gesamtergebnis umfasst alle Bestandteile des „Gewinns oder Verlusts“ und des „sonstigen Ergebnisses“.
+
+8 In diesem Standard werden die Begriffe „sonstiges Ergebnis“, „Gewinn oder Verlust“ und „Gesamtergebnis“ verwendet; es steht einem Unternehmen jedoch frei, hierfür andere Bezeichnungen zu verwenden, solange deren Bedeutung klar verständlich ist. Beispielsweise könnte der Gewinn oder Verlust mit dem Begriff „Überschuss“ bzw. „Fehlbetrag“ bezeichnet werden.
+
+8A Die folgenden Begriffe werden in IAS 32 Finanzinstrumente: Darstellung erläutert und im vorliegenden Standard in der in IAS 32 genannten Bedeutung verwendet:
+a) 
+
+als Eigenkapitalinstrument eingestuftes kündbares Finanzinstrument (Erläuterung siehe IAS 32 Paragraphen 16A und 16B),
+b) 
+
+als Eigenkapitalinstrument eingestuftes Instrument, das das Unternehmen dazu verpflichtet, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen (Erläuterung siehe IAS 32 Paragraphen 16C und 16D).
+
+ABSCHLUSS
+
+Zweck des Abschlusses
+
+9 Ein Abschluss ist eine strukturierte Abbildung der Vermögens-, Finanz- und Ertragslage eines Unternehmens. Die Zielsetzung eines Abschlusses ist es, Informationen über die Vermögens-, Finanz- und Ertragslage und die Zahlungsströme eines Unternehmens bereitzustellen, die für ein breites Spektrum von Adressaten nützlich sind, um wirtschaftliche Entscheidungen zu treffen. Ein Abschluss legt ebenfalls Rechenschaft über die Ergebnisse der Verwaltung des dem Management anvertrauten Vermögens ab. Um diese Zielsetzung zu erfüllen, enthält ein Abschluss Informationen über
+a) 
+
+Vermögenswerte,
+b) 
+
+Schulden,
+c) 
+
+Eigenkapital,
+d) 
+
+Erträge und Aufwendungen, einschließlich Gewinne und Verluste,
+e) 
+
+Kapitalzuführungen von Eigentümern und Ausschüttungen an Eigentümer, die jeweils in ihrer Eigenschaft als Eigentümer handeln, und
+f) 
+
+Zahlungsströme eines Unternehmens.
+
+Diese Informationen helfen den Adressaten zusammen mit den anderen Informationen im Anhang, die künftigen Zahlungsströme des Unternehmens sowie insbesondere deren Zeitpunkt und Sicherheit des Entstehens vorauszusagen.
+
+Vollständiger Abschluss
+
+10  Ein vollständiger Abschluss besteht aus
+a) 
+
+einer Bilanz zum Abschlussstichtag,
+b) 
+
+einer Darstellung von Gewinn oder Verlust und sonstigem Ergebnis („Gesamtergebnisrechnung“) für die Periode,
+c) 
+
+einer Eigenkapitalveränderungsrechnung für die Periode,
+d) 
+
+einer Kapitalflussrechnung für die Periode,
+e) 
+
+dem Anhang, einschließlich wesentlicher Angaben zu den Rechnungslegungsmethoden und sonstiger Erläuterungen,
+ea) 
+
+Vergleichsinformationen für die vorangegangene Periode gemäß den Paragraphen 38 und 38A und
+f) 
+
+einer Bilanz zu Beginn der vorangegangenen Periode, wenn ein Unternehmen eine Rechnungslegungsmethode rückwirkend anwendet oder Posten im Abschluss rückwirkend anpasst oder gemäß den Paragraphen 40A–40D umgliedert.
+
+Ein Unternehmen kann für diese Bestandteile andere Bezeichnungen als die in diesem Standard vorgesehenen Begriffe verwenden. So kann ein Unternehmen beispielsweise die Bezeichnung „Gesamtergebnisrechnung“ anstelle von „Darstellung von Gewinn oder Verlust und sonstigem Ergebnis“ verwenden.
+
+10A   Ein Unternehmen kann seinen Gewinn/Verlust und sein sonstiges Ergebnis in einer einzigen fortlaufenden Darstellung ausweisen, in der Gewinn oder Verlust und das sonstige Ergebnis in getrennten Teilen ausgewiesen werden. Diese fortlaufende Darstellung enthält an erster Stelle den Teil „Gewinn und Verlust“, unmittelbar gefolgt von dem Teil „sonstiges Ergebnis“. Ein Unternehmen kann den Teil „Gewinn oder Verlust“ auch in einer gesonderten Gewinn- und Verlustrechnung darstellen. Ist dies der Fall, muss diese der Gesamtergebnisrechnung unmittelbar vorangehen; letztere wiederum muss mit dem Gewinn oder Verlust beginnen.
+
+11   Ein Unternehmen hat alle Bestandteile des Abschlusses in einem vollständigen Abschluss gleichwertig darzustellen.
+
+12 [gestrichen]
+
+13 Viele Unternehmen veröffentlichen neben dem Abschluss einen durch das Management erstellten Bericht über die Unternehmenslage, der die wesentlichen Merkmale der Vermögens-, Finanz- und Ertragslage des Unternehmens sowie die wichtigsten Unsicherheiten, denen sich das Unternehmen gegenübersieht, beschreibt und erläutert. Ein solcher Bericht könnte einen Überblick geben über
+a) 
+
+die Hauptfaktoren und Einflüsse, welche die Ertragslage bestimmen, einschließlich Veränderungen des Umfelds, in dem das Unternehmen tätig ist, die Reaktionen des Unternehmens auf diese Veränderungen und deren Auswirkungen sowie die Investitionspolitik des Unternehmens, durch die die Ertragslage erhalten und verbessert werden soll, einschließlich der Dividendenpolitik,
+b) 
+
+die Finanzierungsquellen des Unternehmens und das vom Unternehmen angestrebte Verhältnis von Fremd- zu Eigenkapital und
+c) 
+
+die gemäß den IFRS nicht in der Bilanz ausgewiesenen Ressourcen.
+
+14 Viele Unternehmen veröffentlichen außerhalb ihres Abschlusses auch Berichte und Aufstellungen, wie Umweltberichte und Wertschöpfungsrechnungen, insbesondere in Branchen, in denen Umweltfaktoren von Bedeutung sind, und in Fällen, in denen Arbeitnehmer als eine bedeutende Adressatengruppe betrachtet werden. Die Berichte und Aufstellungen, die außerhalb des Abschlusses veröffentlicht werden, fallen nicht in den Anwendungsbereich der IFRS.
+
+Allgemeine Merkmale
+
+Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bilds und Übereinstimmung mit den IFRS
+
+15   Abschlüsse haben die Vermögens-, Finanz- und Ertragslage sowie die Zahlungsströme eines Unternehmens den tatsächlichen Verhältnissen entsprechend darzustellen. Eine den tatsächlichen Verhältnissen entsprechende Darstellung erfordert, dass die Auswirkungen der Geschäftsvorfälle sowie der sonstigen Ereignisse und Bedingungen gemäß den im Rahmenkonzept für die Finanzberichterstattung (Rahmenkonzept) enthaltenen Definitionen und Erfassungskriterien für Vermögenswerte, Schulden, Erträge und Aufwendungen glaubwürdig dargestellt werden. Die Anwendung der IFRS, gegebenenfalls um zusätzliche Angaben ergänzt, führt annahmegemäß zu Abschlüssen, die ein den tatsächlichen Verhältnissen entsprechendes Bild vermitteln.
+
+16   Ein Unternehmen, dessen Abschluss mit den IFRS in Einklang steht, hat dies in einer ausdrücklichen und uneingeschränkten Erklärung der Übereinstimmung im Anhang anzugeben. Ein Unternehmen darf einen Abschluss nur dann als mit den IFRS übereinstimmend bezeichnen, wenn er sämtliche Vorschriften der IFRS erfüllt.
+
+17 Unter nahezu allen Umständen wird ein den tatsächlichen Verhältnissen entsprechendes Bild durch Übereinstimmung mit den anzuwendenden IFRS erreicht. Um ein den tatsächlichen Verhältnissen entsprechendes Bild zu vermitteln, hat ein Unternehmen außerdem Folgendes zu leisten:
+a) 
+
+Auswahl und Anwendung der Rechnungslegungsmethoden gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler. In IAS 8 ist eine Hierarchie der maßgeblichen Leitlinien aufgeführt, die das Management beim Fehlen eines spezifischen IFRS für einen Posten berücksichtigt,
+b) 
+
+Darstellung von Informationen, einschließlich der Rechnungslegungsmethoden, auf eine Weise, die zu relevanten, verlässlichen, vergleichbaren und verständlichen Informationen führt,
+c) 
+
+Bereitstellung zusätzlicher Angaben, wenn die Einhaltung der IFRS-Vorschriften allein nicht ausreicht, um die Auswirkungen einzelner Geschäftsvorfälle sowie sonstiger Ereignisse und Bedingungen auf die Vermögens-, Finanz- und Ertragslage des Unternehmens verstehen zu können.
+
+18   Die Anwendung ungeeigneter Rechnungslegungsmethoden kann weder durch die Angabe der angewandten Methoden noch durch Anhangangaben oder zusätzliche Erläuterungen behoben werden.
+
+19   In den äußerst seltenen Fällen, in denen das Management zu dem Ergebnis gelangt, dass die Einhaltung einer in einem IFRS enthaltenen Vorschrift so irreführend wäre, dass sie zu einem Konflikt mit dem im Rahmenkonzept dargestellten Zweck des Abschlusses führen würde, hat ein Unternehmen unter Beachtung der Vorgaben des Paragraphen 20 von dieser Vorschrift abzuweichen, sofern die geltenden rechtlichen Rahmenbedingungen eine solche Abweichung erfordern oder ansonsten nicht untersagen.
+
+20   Weicht ein Unternehmen von einer in einem IFRS enthaltenen Vorschrift gemäß Paragraph 19 ab, hat es Folgendes anzugeben:
+a) 
+
+dass das Management zu dem Ergebnis gekommen ist, dass der Abschluss die Vermögens-, Finanz- und Ertragslage sowie die Zahlungsströme des Unternehmens den tatsächlichen Verhältnissen entsprechend darstellt,
+b) 
+
+dass es die anzuwendenden IFRS befolgt hat, aber von einer bestimmten Vorschrift abgewichen ist, um ein den tatsächlichen Verhältnissen entsprechendes Bild zu vermitteln,
+c) 
+
+die Bezeichnung des IFRS, von dem das Unternehmen abgewichen ist, die Art der Abweichung einschließlich der Bilanzierungsweise, die der IFRS erfordern würde, den Grund, warum diese Bilanzierungsweise unter den gegebenen Umständen so irreführend wäre, dass sie zu einem Konflikt mit der im Rahmenkonzept dargestellten Zielsetzung des Abschlusses führen würde, und die Bilanzierungsweise, die angewandt wurde, und
+d) 
+
+für jede dargestellte Periode die finanziellen Auswirkungen der Abweichung auf jeden Abschlussposten, der bei Einhaltung der Vorschrift ausgewiesen worden wäre.
+
+21   Ist ein Unternehmen in einer früheren Periode von einer in einem IFRS enthaltenen Vorschrift abgewichen und wirkt sich eine solche Abweichung auf Beträge im Abschluss der aktuellen Periode aus, sind die in den Paragraphen 20(c) und (d) vorgeschriebenen Angaben zu machen.
+
+22 Paragraph 21 gilt beispielsweise dann, wenn ein Unternehmen in einer früheren Periode bei der Bewertung von Vermögenswerten oder Schulden von einer in einem IFRS enthaltenen Vorschrift abgewichen ist, und zwar so, dass sich aufgrund der Abweichung die Bewertung der Vermögenswerte und der Schulden ändert, die im Abschluss des Unternehmens für die aktuelle Periode ausgewiesen sind.
+
+23   In den äußerst seltenen Fällen, in denen das Management zu dem Ergebnis gelangt, dass die Einhaltung einer in einem IFRS enthaltenen Vorschrift so irreführend wäre, dass sie zu einem Konflikt mit dem im Rahmenkonzept dargestellten Zweck des Abschlusses führen würde, die geltenden rechtlichen Rahmenbedingungen aber ein Abweichen von der Vorschrift verbieten, hat das Unternehmen die für irreführend erachteten Aspekte bestmöglich zu verringern, indem es Folgendes angibt:
+a) 
+
+die Bezeichnung des betreffenden IFRS, die Art der Vorschrift und den Grund, warum die Einhaltung der Vorschrift unter den gegebenen Umständen so irreführend ist, dass sie nach Ansicht des Managements zu einem Konflikt mit dem im Rahmenkonzept dargestellten Zweck des Abschlusses führt, und
+b) 
+
+für jede dargestellte Periode die Anpassungen, die nach Ansicht des Managements bei jedem Posten im Abschluss zur Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes erforderlich wären.
+
+24 Zwischen einer einzelnen Information und der Zielsetzung des Abschlusses besteht dann ein Konflikt im Sinne der Paragraphen 19–23, wenn diese Information die Geschäftsvorfälle, sonstigen Ereignisse und Bedingungen nicht so glaubwürdig darstellt, wie sie es entweder vorgibt oder es angemessenerweise erwartet werden kann, und sie folglich die wirtschaftlichen Entscheidungen der Abschlussadressaten beeinflussen dürfte. Bei der Prüfung, ob die Einhaltung einer bestimmten Vorschrift in einem IFRS so irreführend wäre, dass sie zu einem Konflikt mit dem im Rahmenkonzept dargestellten Zweck des Abschlusses führen würde, berücksichtigt das Management,
+a) 
+
+warum der Zweck des Abschlusses unter den gegebenen Umständen nicht erreicht wird und
+b) 
+
+wie sich die besonderen Umstände des Unternehmens von denen anderer Unternehmen, die die Vorschrift einhalten, unterscheiden. Wenn andere Unternehmen unter ähnlichen Umständen die Vorschrift einhalten, gilt die widerlegbare Vermutung, dass die Einhaltung der Vorschrift durch das Unternehmen nicht so irreführend wäre, dass sie zu einem Konflikt mit dem im Rahmenkonzept dargestellten Zweck des Abschlusses führen würde.
+
+Unternehmensfortführung
+
+25   Bei der Aufstellung eines Abschlusses hat das Management die Fähigkeit des Unternehmens, den Geschäftsbetrieb fortzuführen, einzuschätzen. Ein Abschluss ist solange auf der Grundlage der Annahme der Unternehmensfortführung aufzustellen, bis das Management entweder beabsichtigt, das Unternehmen aufzulösen oder das Geschäft einzustellen oder bis das Management keine realistische Alternative mehr hat, als so zu handeln. Wenn dem Management bei seiner Einschätzung wesentliche Unsicherheiten bekannt sind, die sich auf Ereignisse oder Bedingungen beziehen und die erhebliche Zweifel an der Fähigkeit des Unternehmens zur Fortführung seines Geschäftsbetriebs aufwerfen, sind diese Unsicherheiten anzugeben. Wird der Abschluss nicht auf der Grundlage der Annahme der Unternehmensfortführung aufgestellt, ist diese Tatsache zusammen mit den Grundlagen, auf denen der Abschluss basiert, und dem Grund, warum von einer Fortführung des Unternehmens nicht ausgegangen wird, anzugeben.
+
+26 Bei der Einschätzung, ob die Annahme der Unternehmensfortführung angemessen ist, zieht das Management sämtliche verfügbaren Informationen über die Zukunft in Betracht, die mindestens zwölf Monate nach dem Abschlussstichtag umfasst, aber nicht auf diesen Zeitraum beschränkt ist. Der Umfang der Berücksichtigung ist von den Gegebenheiten jedes einzelnen Sachverhalts abhängig. Verfügte ein Unternehmen in der Vergangenheit über einen rentablen Geschäftsbetrieb und hat es schnellen Zugriff auf Finanzquellen, kann es ohne eine detaillierte Analyse die Schlussfolgerung ziehen, dass die Annahme der Unternehmensfortführung als Grundlage der Rechnungslegung angemessen ist. In anderen Fällen wird das Management zahlreiche Faktoren im Zusammenhang mit der derzeitigen und künftigen Rentabilität, Schuldentilgungsplänen und potenziellen Refinanzierungsquellen berücksichtigen müssen, um festzustellen, dass die Annahme der Unternehmensfortführung angemessen ist.
+
+Konzept der Periodenabgrenzung
+
+27   Ein Unternehmen hat seinen Abschluss, mit Ausnahme der Kapitalflussrechnung, nach dem Konzept der Periodenabgrenzung aufzustellen.
+
+28 Wird der Abschluss nach dem Konzept der Periodenabgrenzung erstellt, sind Posten dann als Vermögenswerte, Schulden, Eigenkapital, Erträge und Aufwendungen (die Bestandteile des Abschlusses) zu erfassen, wenn sie die im Rahmenkonzept für die betreffenden Elemente enthaltenen Definitionen und Erfassungskriterien erfüllen.
+
+Wesentlichkeit und Zusammenfassung von Posten
+
+29   Ein Unternehmen hat jede wesentliche Gruppe ähnlicher Posten gesondert darzustellen. Posten einer nicht ähnlichen Art oder Funktion werden gesondert dargestellt, sofern sie nicht unwesentlich sind.
+
+30 Abschlüsse resultieren aus der Verarbeitung einer großen Anzahl von Geschäftsvorfällen oder sonstigen Ereignissen, die strukturiert werden, indem sie gemäß ihrer Art oder ihrer Funktion zu Gruppen zusammengefasst werden. In der abschließenden Phase des Zusammenfassungs- und Gliederungsprozesses werden die zusammengefassten und gegliederten Daten dargestellt, die als Posten im Abschluss ausgewiesen werden. Ist ein Posten für sich allein betrachtet nicht wesentlich, wird er mit anderen Posten entweder in einem bestimmten Abschlussbestandteil oder in den Anhangangaben zusammengefasst. Ein Posten, der nicht wesentlich genug ist, um eine gesonderte Darstellung in den genannten Abschlussbestandteilen zu rechtfertigen, kann dennoch eine gesonderte Darstellung in den Anhangangaben rechtfertigen.
+
+30A Bei der Anwendung dieses Standards und anderer IFRS entscheidet das Unternehmen unter Berücksichtigung aller maßgeblichen Sachverhalte und Umstände, wie es die Informationen in den Abschlussbestandteilen einschließlich der Anhangangaben zusammenfasst. Ein Unternehmen darf die Verständlichkeit seiner Abschlussbestandteile nicht erschweren, indem es wesentliche Informationen dadurch verschleiert, dass es sie zusammen mit unwesentlichen Informationen aufführt oder dass es wesentliche Posten unterschiedlicher Art oder Funktion zusammenfasst.
+
+31 Einige IFRS nennen die Informationen, die in den Abschlussbestandteilen einschließlich der Anhangangaben enthalten sein müssen. Ein Unternehmen braucht einer bestimmten Angabepflicht eines IFRS nicht nachzukommen, wenn die anzugebende Information nicht wesentlich ist. Dies gilt selbst dann, wenn der IFRS bestimmte Anforderungen oder Mindestanforderungen vorgibt. Ein Unternehmen hat außerdem die Bereitstellung zusätzlicher Angaben in Betracht zu ziehen, wenn die Einhaltung der IFRS-Vorschriften allein nicht ausreicht, um die Auswirkungen einzelner Geschäftsvorfälle sowie sonstiger Ereignisse und Bedingungen auf die Vermögens-, Finanz- und Ertragslage des Unternehmens verstehen zu können.
+
+Saldierung von Posten
+
+32   Ein Unternehmen darf Vermögenswerte und Schulden sowie Erträge und Aufwendungen nicht miteinander saldieren, sofern nicht die Saldierung von einem IFRS vorgeschrieben oder gestattet wird.
+
+33 Ein Unternehmen hat Vermögenswerte und Schulden sowie Erträge und Aufwendungen gesondert auszuweisen. Saldierungen in der Gesamtergebnisrechnung, in der Bilanz oder in der gesonderten Gewinn- und Verlustrechnung (sofern aufgestellt) vermindern die Fähigkeit der Adressaten, Geschäftsvorfälle, sonstige Ereignisse oder Bedingungen zu verstehen und die künftigen Zahlungsströme des Unternehmens zu schätzen, es sei denn, die Saldierung spiegelt den wirtschaftlichen Gehalt eines Geschäftsvorfalls oder eines sonstigen Ereignisses wider. Die Bewertung von Vermögenswerten nach Abzug von Wertberichtigungen – beispielsweise Abschläge für veraltete Bestände und Wertberichtigungen von zweifelhaften Forderungen – ist keine Saldierung.
+
+34 Gemäß IFRS 15 Erlöse aus Verträgen mit Kunden hat ein Unternehmen die Erlöse aus Verträgen mit Kunden in einer Höhe zu erfassen, die der Gegenleistung entspricht, die das Unternehmen im Austausch für die Übertragung der zugesagten Güter oder Dienstleistungen erwartet. So muss der erfasste Umsatzbetrag die vom Unternehmen gewährten Preisnachlässe und Mengenrabatte berücksichtigen. Ein Unternehmen wickelt im Verlauf seiner gewöhnlichen Geschäftstätigkeit auch Geschäftsvorfälle ab, die selbst zu keinen Umsatzerlösen führen, die aber zusammen mit den Hauptumsatzaktivitäten anfallen. Die Ergebnisse solcher Geschäftsvorfälle sind durch die Saldierung aller Erträge mit den dazugehörigen Aufwendungen, die durch denselben Geschäftsvorfall entstehen, darzustellen, wenn diese Darstellung den wirtschaftlichen Gehalt des Geschäftsvorfalls oder des sonstigen Ereignisses widerspiegelt. Es folgen einige Beispiele:
+a) 
+
+ein Unternehmen stellt Gewinne und Verluste aus der Veräußerung langfristiger Vermögenswerte einschließlich Finanzinvestitionen und betrieblicher Vermögenswerte dar, indem es vom Betrag der Veräußerungsgegenleistung den Buchwert der Vermögenswerte und die damit in Zusammenhang stehenden Veräußerungskosten abzieht, und
+b) 
+
+ein Unternehmen darf Ausgaben in Verbindung mit einer Rückstellung, die gemäß IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen angesetzt wird und die gemäß einer vertraglichen Vereinbarung mit einem Dritten (z. B. Lieferantengewährleistung) erstattet werden, mit der entsprechenden Rückerstattung saldieren.
+
+35 Außerdem stellt ein Unternehmen Gewinne und Verluste saldiert dar, die aus einer Gruppe von ähnlichen Geschäftsvorfällen entstehen, beispielsweise Gewinne und Verluste aus der Währungsumrechnung oder solche, die aus Finanzinstrumenten entstehen, die zu Handelszwecken gehalten werden. Ein Unternehmen hat solche Gewinne und Verluste jedoch, sofern sie wesentlich sind, gesondert auszuweisen.
+
+Häufigkeit der Berichterstattung
+
+36   Ein Unternehmen hat mindestens jährlich einen vollständigen Abschluss (einschließlich Vergleichsinformationen) aufzustellen. Wenn sich der Abschlussstichtag ändert und der Abschluss für einen Zeitraum aufgestellt wird, der länger oder kürzer als ein Jahr ist, hat ein Unternehmen zusätzlich zur Periode, auf die sich der Abschluss bezieht, Folgendes anzugeben:
+a) 
+
+den Grund für die Verwendung einer längeren bzw. kürzeren Berichtsperiode und
+b) 
+
+die Tatsache, dass Beträge des Abschlusses nicht vollständig vergleichbar sind.
+
+37 Normalerweise stellt ein Unternehmen einen Abschluss gleichbleibend für einen Zeitraum von einem Jahr auf. Allerdings bevorzugen einige Unternehmen aus praktischen Gründen, über eine Periode von 52 Wochen zu berichten. Dieser Standard schließt diese Vorgehensweise nicht aus.
+
+Vergleichsinformationen
+
+Mindestvergleichsinformationen
+
+38   Sofern die IFRS nicht etwas anderes erlauben oder verlangen, hat ein Unternehmen für alle im Abschluss der aktuellen Periode enthaltenen quantitativen Informationen Vergleichsinformationen hinsichtlich der vorangegangenen Periode darzustellen. Vergleichsinformationen sind in die verbalen und beschreibenden Informationen einzubeziehen, wenn sie für das Verständnis des Abschlusses der aktuellen Berichtsperiode von Bedeutung sind.
+
+38A   Ein Unternehmen hat mindestens zwei Bilanzen, zwei Gesamtergebnisrechnungen, zwei gesonderte Gewinn- und Verlustrechnungen (falls erstellt), zwei Kapitalflussrechnungen und zwei Eigenkapitalveränderungsrechnungen und die zugehörigen Anhangangaben vorzulegen.
+
+38B In manchen Fällen sind verbale Informationen, die in den Abschlüssen der vorangegangenen Periode/der vorangegangenen Perioden gemacht wurden, auch für die aktuelle Berichtsperiode von Bedeutung. Beispielsweise gibt ein Unternehmen in der aktuellen Berichtsperiode die Einzelheiten eines Rechtsstreits an, dessen Ausgang am Ende der vorangegangenen Berichtsperiode unsicher war und der noch entschieden werden muss. Die Adressaten können Nutzen aus der Angabe der Information ziehen, dass am Ende der vorangegangenen Berichtsperiode eine Unsicherheit bestand, und aus der Angabe von Informationen über die Schritte, die während der Periode unternommen worden sind, um diese Unsicherheit zu beseitigen.
+
+Zusätzliche Vergleichsinformationen
+
+38C Ein Unternehmen kann zusätzlich zu den nach den IFRS vorgeschriebenen Mindestvergleichsabschlussbestandteilen Vergleichsinformationen vorlegen, sofern diese Informationen gemäß den IFRS erstellt werden. Diese Vergleichsinformationen können aus einem oder mehreren der in Paragraph 10 aufgeführten Abschlussbestandteile bestehen, brauchen aber keinen vollständigen Abschluss zu umfassen. In diesem Fall hat das Unternehmen die zugehörigen Anhangangaben für diese zusätzlichen Abschlussbestandteile vorzulegen.
+
+38D Ein Unternehmen kann z. B. eine dritte Darstellung von Gewinn oder Verlust und sonstigem Ergebnis vorlegen (dadurch würden die aktuelle Periode, die vorangegangene Periode und eine zusätzliche Vergleichsperiode dargestellt). Das Unternehmen ist jedoch nicht verpflichtet, eine dritte Bilanz, eine dritte Kapitalflussrechnung oder eine dritte Eigenkapitalveränderungsrechnung (d. h. einen zusätzlichen Abschluss zu Vergleichszwecken) vorzulegen. Demgegenüber ist das Unternehmen verpflichtet, im Anhang zum Abschluss die Vergleichsinformationen für diese zusätzliche Darstellung von Gewinn oder Verlust und sonstigem Ergebnis darzustellen.
+
+39–40 [gestrichen]
+
+Änderung der Rechnungslegungsmethode, rückwirkende Berichtigung oder Umgliederung
+
+40A   Ein Unternehmen hat zusätzlich zu den Mindestvergleichsabschlussbestandteilen gemäß Paragraph 38A eine dritte Bilanz zum Beginn der vorangegangenen Periode vorzulegen, wenn
+a) 
+
+es eine Rechnungslegungsmethode rückwirkend anwendet, eine rückwirkende Berichtigung von Abschlussposten vornimmt oder Abschlussposten umgliedert und
+b) 
+
+die rückwirkende Anwendung, die rückwirkende Berichtigung oder die Umgliederung eine wesentliche Auswirkung auf die Informationen in der Bilanz zu Beginn der vorangegangenen Periode hat.
+
+40B In den in Paragraph 40A genannten Fällen hat ein Unternehmen drei Bilanzen zu folgenden Terminen vorzulegen:
+a) 
+
+zum Ende der aktuellen Periode,
+b) 
+
+zum Ende der vorangegangenen Periode und
+c) 
+
+zu Beginn der vorangegangenen Periode.
+
+40C Ist ein Unternehmen verpflichtet, gemäß Paragraph 40A eine zusätzliche Bilanz vorzulegen, muss es die in den Paragraphen 41–44 und IAS 8 vorgeschriebenen Angaben machen. Allerdings sind die zugehörigen Anhangangaben zur Eröffnungsbilanz zu Beginn der vorangegangenen Periode nicht erforderlich.
+
+40D Der Stichtag dieser Eröffnungsbilanz ist der Beginn der vorangegangenen Periode, unabhängig davon, ob der Abschluss eines Unternehmens Vergleichsinformationen für frühere Perioden umfasst (so wie in Paragraph 38C gestattet).
+
+41   Ändert ein Unternehmen die Darstellung oder Gliederung von Posten im Abschluss, hat es, außer wenn undurchführbar, auch die Vergleichsbeträge umzugliedern. Gliedert ein Unternehmen die Vergleichsbeträge um, muss es folgende Angaben machen (einschließlich zum Beginn der vorangegangenen Periode):
+a) 
+
+Art der Umgliederung,
+b) 
+
+Betrag jedes umgegliederten Postens bzw. jeder umgegliederten Postengruppe und
+c) 
+
+Grund für die Umgliederung.
+
+42   Ist die Umgliederung der Vergleichsbeträge undurchführbar, sind folgende Angaben erforderlich:
+a) 
+
+der Grund für die unterlassene Umgliederung und
+b) 
+
+die Art der Anpassungen, die bei einer Umgliederung erfolgt wären.
+
+43 Die Verbesserung der Vergleichbarkeit der Angaben zwischen den einzelnen Perioden hilft den Adressaten bei wirtschaftlichen Entscheidungen; insbesondere können für Prognosezwecke Trends in den Finanzinformationen beurteilt werden. Unter bestimmten Umständen ist es undurchführbar, die Vergleichsbeträge für eine bestimmte vorangegangene Periode umzugliedern und so eine Vergleichbarkeit mit der aktuellen Periode zu erreichen. Beispielsweise ist es möglich, dass ein Unternehmen Daten in der vorangegangenen Periode/den vorangegangenen Perioden auf eine Art erhoben hat, die eine Umgliederung nicht zulässt, und eine Wiederherstellung der Informationen undurchführbar ist.
+
+44 IAS 8 führt aus, welche Anpassungen der Vergleichsinformationen bei der Änderung einer Rechnungslegungsmethode oder der Berichtigung eines Fehlers erforderlich sind.
+
+Darstellungsstetigkeit
+
+45   Ein Unternehmen hat die Darstellung und den Ausweis von Posten im Abschluss von einer Periode zur nächsten beizubehalten, es sei denn,
+a) 
+
+aufgrund einer wesentlichen Änderung des Tätigkeitsfelds des Unternehmens oder einer Überprüfung der Darstellung seines Abschlusses zeigt sich, dass eine Änderung der Darstellung oder der Gliederung unter Berücksichtigung der in IAS 8 enthaltenen Kriterien zur Auswahl bzw. zur Anwendung der Rechnungslegungsmethoden zu einer besser geeigneten Darstellungsform führt, oder
+b) 
+
+ein IFRS schreibt eine geänderte Darstellung vor.
+
+46 Ein bedeutender Erwerb, eine bedeutende Veräußerung oder eine Überprüfung der Darstellungsform des Abschlusses könnte beispielsweise nahelegen, dass der Abschluss auf eine andere Art und Weise darzustellen ist. Ein Unternehmen ändert die Darstellungsform nur dann, wenn aufgrund der Änderungen Informationen gegeben werden, die zuverlässig und für die Adressaten relevanter sind, und die geänderte Darstellungsform wahrscheinlich Bestand haben wird, damit die Vergleichbarkeit nicht beeinträchtigt wird. Wird die Darstellungsform in einer solchen Weise geändert, gliedert ein Unternehmen seine Vergleichsinformationen gemäß Paragraph 41 und 42 um.
+
+STRUKTUR UND INHALT
+
+Einführung
+
+47 Dieser Standard verlangt bestimmte Angaben in der Bilanz, der Gesamtergebnisrechnung, der gesonderten Gewinn- und Verlustrechnung (sofern aufgestellt) und in der Eigenkapitalveränderungsrechnung und schreibt die Angabe weiterer Posten wahlweise in dem entsprechenden Abschlussbestandteil oder im Anhang vor. IAS 7 Kapitalflussrechnung legt die Vorschriften an die Darstellung der Informationen zu Zahlungsströmen dar.
+
+48 In diesem Standard wird der Begriff „Angabe“ teilweise im weiteren Sinne als Posten verwendet, die im Abschluss aufzuführen sind. Angaben sind auch nach anderen IFRS vorgeschrieben. Sofern in diesem Standard oder in einem anderen IFRS nicht anders angegeben, sind solche Angaben im Abschluss zu machen.
+
+Bezeichnung des Abschlusses
+
+49   Ein Unternehmen hat einen Abschluss eindeutig als solchen zu bezeichnen und von anderen Informationen, die im gleichen Dokument veröffentlicht werden, zu unterscheiden.
+
+50 IFRS werden nur auf den Abschluss angewandt und nicht unbedingt auf andere Informationen, die in einem Geschäftsbericht, in gesetzlich vorgeschriebenen Unterlagen oder in einem anderen Dokument dargestellt werden. Daher ist es wichtig, dass Adressaten in der Lage sind, die auf der Grundlage der IFRS erstellten Informationen von anderen Informationen zu unterscheiden, die für Adressaten nützlich sein können, aber nicht Gegenstand der Standards sind.
+
+51   Ein Unternehmen hat jeden Bestandteil des Abschlusses und die Anhangangaben eindeutig zu bezeichnen. Zusätzlich sind die folgenden Informationen deutlich sichtbar darzustellen und zu wiederholen, falls es für das Verständnis der dargestellten Informationen notwendig ist:
+a) 
+
+der Name des berichtenden Unternehmens oder andere Mittel der Identifizierung sowie etwaige Änderungen dieser Angaben gegenüber dem vorangegangenen Abschlussstichtag,
+b) 
+
+ob es sich um den Abschluss eines einzelnen Unternehmens oder eines Konzerns handelt,
+c) 
+
+der Abschlussstichtag oder die Periode, auf die sich der Abschluss oder die Anhangangaben beziehen,
+d) 
+
+die Darstellungswährung laut Definition in IAS 21 und
+e) 
+
+wie weit bei der Darstellung von Beträgen im Abschluss gerundet wurde.
+
+52 Ein Unternehmen erfüllt die Vorschriften in Paragraph 51, indem es die Seiten, Aufstellungen, Anhangangaben, Spalten u. ä. mit entsprechenden Überschriften versieht. Die Wahl der besten Darstellungsform solcher Informationen erfordert eine Ermessensausübung. Veröffentlicht ein Unternehmen den Abschluss beispielsweise in elektronischer Form, werden möglicherweise keine getrennten Seiten verwendet; in diesem Fall sind die oben aufgeführten Angaben dergestalt zu machen, dass das Verständnis der im Abschluss enthaltenen Informationen gewährleistet ist.
+
+53 Zum besseren Verständnis des Abschlusses stellt ein Unternehmen Informationen häufig in Tausend- oder Millioneneinheiten der Darstellungswährung dar. Dies ist akzeptabel, solange das Unternehmen angibt, wie weit gerundet wurde, und es keine wesentlichen Informationen auslässt.
+
+Bilanz
+
+Informationen, die in der Bilanz darzustellen sind
+
+54   In der Bilanz sind zumindest folgende Posten darzustellen:
+a) 
+
+Sachanlagen,
+b) 
+
+als Finanzinvestitionen gehaltene Immobilien,
+c) 
+
+immaterielle Vermögenswerte,
+d) 
+
+finanzielle Vermögenswerte (ohne die Beträge, die unter (e), (h) und (i) ausgewiesen werden),
+da) 
+
+Portfolios von Verträgen im Anwendungsbereich von IFRS 17, die Vermögenswerte sind, aufgegliedert wie in Paragraph 78 von IFRS 17 verlangt,
+e) 
+
+nach der Equity-Methode bilanzierte Beteiligungen,
+f) 
+
+biologische Vermögenswerte im Anwendungsbereich von IAS 41 Landwirtschaft,
+g) 
+
+Vorräte,
+h) 
+
+Forderungen aus Lieferungen und Leistungen und sonstige Forderungen,
+i) 
+
+Zahlungsmittel und Zahlungsmitteläquivalente,
+j) 
+
+die Summe der Vermögenswerte, die gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche als zur Veräußerung gehalten eingestuft sind, und der Vermögenswerte, die zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehören,
+k) 
+
+Verbindlichkeiten aus Lieferungen und Leistungen und sonstige Verbindlichkeiten,
+l) 
+
+Rückstellungen,
+m) 
+
+finanzielle Verbindlichkeiten (ohne die Beträge, die unter (k) und (l) ausgewiesen werden),
+ma) 
+
+Portfolios von Verträgen im Anwendungsbereich von IFRS 17, die Verbindlichkeiten sind, aufgegliedert wie in Paragraph 78 von IFRS 17 verlangt,
+n) 
+
+Steuerschulden und -erstattungsansprüche gemäß IAS 12 Ertragsteuern,
+o) 
+
+latente Steueransprüche und -schulden gemäß IAS 12,
+p) 
+
+die Schulden, die den Veräußerungsgruppen zugeordnet sind, die gemäß IFRS 5 als zur Veräußerung gehalten eingestuft sind,
+q) 
+
+nicht beherrschende Anteile, die im Eigenkapital dargestellt werden, und
+r) 
+
+gezeichnetes Kapital und Rücklagen, die den Eigentümern der Muttergesellschaft zuzuordnen sind.
+
+55   Ein Unternehmen hat in der Bilanz zusätzliche Posten (gegebenenfalls durch Einzeldarstellung der unter Paragraph 54 aufgeführten Posten), Überschriften und Zwischensummen darzustellen, wenn eine solche Darstellung für das Verständnis der Vermögens- und Finanzlage des Unternehmens relevant ist.
+
+55A Zwischensummen, die ein Unternehmen gemäß Paragraph 55 darstellt,
+a) 
+
+müssen aus Posten mit gemäß den IFRS angesetzten und bewerteten Beträgen bestehen,
+b) 
+
+müssen in einer Weise dargestellt und bezeichnet sein, die klar erkennen lässt, welche Posten in der Zwischensumme zusammengefasst sind,
+c) 
+
+müssen gemäß Paragraph 45 von Periode zu Periode stetig dargestellt werden und
+d) 
+
+dürfen nicht stärker hervorgehoben werden als die gemäß den IFRS in der Bilanz darzustellenden Zwischensummen und Summen.
+
+56   Wenn ein Unternehmen lang- und kurzfristige Vermögenswerte bzw. lang- und kurzfristige Schulden in der Bilanz getrennt ausweist, dürfen latente Steueransprüche (-schulden) nicht als kurzfristige Vermögenswerte (Schulden) ausgewiesen werden.
+
+57 Dieser Standard schreibt nicht die Reihenfolge oder die Gliederung vor, in der ein Unternehmen die Posten darstellt. Paragraph 54 enthält lediglich eine Liste von Posten, die ihrem Wesen oder ihrer Funktion nach so unterschiedlich sind, dass sie einen getrennten Ausweis in der Bilanz erforderlich machen. Ferner gilt:
+a) 
+
+Posten werden hinzugefügt, wenn der Umfang, die Art oder die Funktion eines Postens oder eine Zusammenfassung ähnlicher Posten so sind, dass eine gesonderte Darstellung für das Verständnis der Vermögens- und Finanzlage des Unternehmens relevant ist und
+b) 
+
+die verwendeten Bezeichnungen, die Reihenfolge der Posten oder die Zusammenfassung ähnlicher Posten können der Art des Unternehmens und seinen Geschäftsvorfällen entsprechend geändert werden, um Informationen bereitzustellen, die für das Verständnis der Vermögens- und Finanzlage des Unternehmens relevant sind. Beispielsweise kann ein Finanzinstitut die oben stehenden Beschreibungen anpassen, um Informationen bereitzustellen, die für die Geschäftstätigkeit eines Finanzinstituts relevant sind.
+
+58 Die Entscheidung des Unternehmens, ob zusätzliche Posten gesondert ausgewiesen werden, basiert auf einer Einschätzung
+a) 
+
+der Art und der Liquidität von Vermögenswerten,
+b) 
+
+der Funktion der Vermögenswerte innerhalb des Unternehmens und
+c) 
+
+der Beträge, der Art und des Fälligkeitszeitpunkts von Schulden.
+
+59 Die Anwendung unterschiedlicher Bewertungsgrundlagen für verschiedene Gruppen von Vermögenswerten lässt vermuten, dass sie sich in ihrer Art oder Funktion unterscheiden und deshalb als gesonderte Posten auszuweisen sind. Beispielsweise können bestimmte Gruppen von Sachanlagen gemäß IAS 16 zu Anschaffungs- oder Herstellungskosten oder zu neubewerteten Beträgen bilanziert werden.
+
+Unterscheidung von Kurz- und Langfristigkeit
+
+▼M3
+
+60   Ein Unternehmen hat kurz- und langfristige Vermögenswerte und kurz- und langfristige Schulden in seiner Bilanz gesondert gemäß den Paragraphen 66-76B auszuweisen, es sei denn, ein liquiditätsbasierter Ausweis liefert verlässliche und relevantere Informationen. Ist Letzteres der Fall, hat das Unternehmen alle Vermögenswerte und Schulden nach ihrer Liquidität auszuweisen.
+
+▼B
+
+61   Unabhängig davon, welche Methode der Darstellung gewählt wird, hat ein Unternehmen für jeden Vermögens- und Schuldposten, der Beträge zusammenfasst, von denen erwartet wird, dass sie
+a) 
+
+spätestens zwölf Monate nach dem Abschlussstichtag bzw.
+b) 
+
+nach mehr als zwölf Monaten nach dem Abschlussstichtag realisiert oder erfüllt werden den Betrag anzugeben, von dem erwartet wird, dass er nach mehr als zwölf Monaten realisiert oder erfüllt wird.
+
+62 Bietet ein Unternehmen Güter oder Dienstleistungen innerhalb eines eindeutig identifizierbaren Geschäftszyklus an, so vermittelt eine getrennte Untergliederung von kurzfristigen und langfristigen Vermögenswerten und Schulden in der Bilanz nützliche Informationen, indem Nettovermögenswerte, die sich fortlaufend als kurzfristiges Nettobetriebskapital umschlagen, von denen unterschieden werden, die langfristigen Tätigkeiten des Unternehmens dienen. Zugleich werden Vermögenswerte, deren Realisierung innerhalb des laufenden Geschäftszyklus erwartet wird, und Schulden, deren Erfüllung in derselben Periode fällig wird, herausgestellt.
+
+63 Bei bestimmten Unternehmen, wie beispielsweise Finanzinstituten, bietet die Darstellung der Vermögens- und Schuldposten aufsteigend oder absteigend nach Liquidität Informationen, die zuverlässig und gegenüber der Darstellung nach Fristigkeiten relevanter sind, da das Unternehmen keine Waren oder Dienstleistungen innerhalb eines eindeutig identifizierbaren Geschäftszyklus anbietet.
+
+64 Bei der Anwendung von Paragraph 60 darf das Unternehmen einige Vermögenswerte und Schulden nach Liquidität anordnen und andere wiederum nach Fristigkeiten darstellen, wenn hierdurch zuverlässige und relevantere Informationen zu erzielen sind. Eine gemischte Aufstellung ist möglicherweise dann angezeigt, wenn das Unternehmen in unterschiedlichen Geschäftsfeldern tätig ist.
+
+65 Informationen über die erwarteten Realisierungszeitpunkte von Vermögenswerten und Schulden sind nützlich, um die Liquidität und Zahlungsfähigkeit eines Unternehmens zu beurteilen. IFRS 7 Finanzinstrumente: Angaben verlangt die Angabe der Fälligkeitstermine sowohl von finanziellen Vermögenswerten als auch von finanziellen Verbindlichkeiten. Finanzielle Vermögenswerte enthalten Forderungen aus Lieferungen und Leistungen sowie sonstige Forderungen, und finanzielle Verbindlichkeiten enthalten Verbindlichkeiten aus Lieferungen und Leistungen sowie sonstige Verbindlichkeiten. Informationen über den erwarteten Zeitpunkt der Realisierung von nicht monetären Vermögenswerten, wie z. B. Vorräten, und der Erfüllung von nicht monetären Schulden, wie z. B. Rückstellungen, sind ebenfalls nützlich, und zwar unabhängig davon, ob die Vermögenswerte und Schulden als langfristig oder kurzfristig eingestuft sind oder nicht. Beispielsweise gibt ein Unternehmen den Buchwert der Vorräte an, deren Realisierung nach mehr als zwölf Monaten nach dem Abschlussstichtag erwartet wird.
+
+Kurzfristige Vermögenswerte
+
+66   Ein Unternehmen hat einen Vermögenswert in folgenden Fällen als kurzfristig einzustufen:
+a) 
+
+die Realisierung des Vermögenswerts wird innerhalb des normalen Geschäftszyklus erwartet, oder der Vermögenswert wird zum Verkauf oder Verbrauch innerhalb dieses Zeitraums gehalten,
+b) 
+
+der Vermögenswert wird primär für Handelszwecke gehalten,
+c) 
+
+die Realisierung des Vermögenswerts wird innerhalb von zwölf Monaten nach dem Abschlussstichtag erwartet oder
+d) 
+
+es handelt sich um Zahlungsmittel oder Zahlungsmitteläquivalente (gemäß der Definition in IAS 7), es sei denn, der Tausch oder die Nutzung des Vermögenswerts zur Erfüllung einer Verpflichtung sind für einen Zeitraum von mindestens zwölf Monaten nach dem Abschlussstichtag eingeschränkt.
+
+Alle anderen Vermögenswerte sind als langfristig einzustufen.
+
+67 Dieser Standard verwendet den Begriff „langfristig“, um damit materielle, immaterielle und finanzielle Vermögenswerte mit langfristigem Charakter zu erfassen. Er untersagt nicht die Verwendung anderer Bezeichnungen, solange deren Bedeutung klar verständlich ist.
+
+68 Der Geschäftszyklus eines Unternehmens ist der Zeitraum zwischen dem Erwerb von Vermögenswerten, die in einen Prozess eingehen, und deren Realisierung in Zahlungsmittel oder Zahlungsmitteläquivalente. Ist der normale Geschäftszyklus des Unternehmens nicht eindeutig identifizierbar, wird von einem Zeitraum von zwölf Monaten ausgegangen. Kurzfristige Vermögenswerte umfassen Vorräte und Forderungen aus Lieferungen und Leistungen, die als Teil des normalen Geschäftszyklus verkauft, verbraucht und realisiert werden, selbst wenn deren Realisierung nicht innerhalb von zwölf Monaten nach dem Abschlussstichtag erwartet wird. Zu kurzfristigen Vermögenswerten gehören ferner Vermögenswerte, die vorwiegend zu Handelszwecken gehalten werden (als Beispiel hierfür seien einige finanzielle Vermögenswerte angeführt, die die Definition von „zu Handelszwecken gehalten“ gemäß IFRS 9 erfüllen) sowie der kurzfristige Teil langfristiger finanzieller Vermögenswerte.
+
+Kurzfristige Schulden
+
+▼M3
+
+69   Ein Unternehmen hat eine Schuld in folgenden Fällen als kurzfristig einzustufen:
+a) 
+
+die Erfüllung der Schuld wird innerhalb des gewöhnlichen Geschäftszyklus erwartet,
+b) 
+
+die Schuld wird primär zu Handelszwecken gehalten,
+c) 
+
+die Schuld ist innerhalb von zwölf Monaten nach dem Abschlussstichtag zu erfüllen oder
+d) 
+
+das Unternehmen hat am Abschlussstichtag nicht das Recht, die Erfüllung der Schuld um mindestens zwölf Monate nach dem Abschlussstichtag zu verschieben.
+
+Alle anderen Schulden sind als langfristig einzustufen.
+
+▼M3
+
+Gewöhnlicher Geschäftszyklus (Paragraph 69 Buchstabe a)
+
+▼B
+
+70 Einige kurzfristige Schulden, wie Verbindlichkeiten aus Lieferungen und Leistungen sowie Rückstellungen für personalbezogene Aufwendungen und andere betriebliche Aufwendungen, bilden einen Teil des kurzfristigen Betriebskapitals, das im normalen Geschäftszyklus des Unternehmens gebraucht wird. Solche betrieblichen Posten werden selbst dann als kurzfristige Schulden eingestuft, wenn sie später als zwölf Monate nach dem Abschlussstichtag fällig werden. Zur Unterteilung der Vermögenswerte und der Schulden des Unternehmens wird derselbe Geschäftszyklus herangezogen. Ist der normale Geschäftszyklus des Unternehmens nicht eindeutig identifizierbar, wird von einem Zeitraum von zwölf Monaten ausgegangen.
+
+▼M3
+
+Primär zu Handelszwecken gehalten (Paragraph 69 Buchstabe b) oder innerhalb von zwölf Monaten nach dem Abschlussstichtag zu erfüllen (Paragraph 69 Buchstabe c)
+
+▼M3
+
+71 Andere kurzfristige Schulden werden zwar nicht als Teil des gewöhnlichen Geschäftszyklus erfüllt, sie sind aber innerhalb von zwölf Monaten nach dem Abschlussstichtag zu erfüllen oder sie werden vorwiegend zu Handelszwecken gehalten. Hierzu gehören beispielsweise finanzielle Verbindlichkeiten, die die Definition von „zu Handelszwecken gehalten“ gemäß IFRS 9 erfüllen, Kontokorrentkredite, der kurzfristige Teil langfristiger finanzieller Verbindlichkeiten, Dividendenverbindlichkeiten, Ertragsteuern und sonstige nicht handelbare Verbindlichkeiten. Finanzielle Verbindlichkeiten, die die langfristige Finanzierung sichern (und somit nicht zum im gewöhnlichen Geschäftszyklus verwendeten Betriebskapital gehören) und die nicht innerhalb von zwölf Monaten nach dem Abschlussstichtag zu erfüllen sind, gelten vorbehaltlich der Paragraphen 72A-75 als langfristige finanzielle Verbindlichkeiten.
+
+▼B
+
+72 Ein Unternehmen hat seine finanziellen Verbindlichkeiten als kurzfristig einzustufen, wenn deren Erfüllung innerhalb von zwölf Monaten nach dem Abschlussstichtag fällig wird, selbst wenn
+a) 
+
+die ursprüngliche Laufzeit einen Zeitraum von mehr als zwölf Monaten umfasst und
+b) 
+
+eine Vereinbarung zur langfristigen Refinanzierung bzw. Umschuldung der Zahlungsverpflichtungen nach dem Abschlussstichtag, jedoch vor der Genehmigung zur Veröffentlichung des Abschlusses abgeschlossen wird.
+
+▼M3
+
+Recht auf Verschiebung der Erfüllung um mindestens zwölf Monate (Paragraph 69 Buchstabe d)
+
+72A Das Recht eines Unternehmens, die Erfüllung einer Schuld um mindestens zwölf Monate nach dem Abschlussstichtag zu verschieben, muss Substanz haben und zum Abschlussstichtag bestehen (siehe Paragraphen 72B-75).
+
+72B Das Recht eines Unternehmens, die Erfüllung einer Schuld aus einer Kreditvereinbarung um mindestens zwölf Monate nach dem Abschlussstichtag zu verschieben, kann an die Voraussetzung geknüpft sein, dass das Unternehmen in dieser Kreditvereinbarung festgelegte Bedingungen (im Folgenden „Nebenbedingungen“) erfüllt. Für die Zwecke der Anwendung von Paragraph 69 Buchstabe d
+a) 
+
+haben solche Nebenbedingungen einen Einfluss darauf, ob dieses Recht — wie in den Paragraphen 74-75 dargestellt — am Abschlussstichtag besteht, wenn das Unternehmen die Nebenbedingung am oder vor dem Abschlussstichtag erfüllen muss. Eine solche Nebenbedingung hat selbst dann einen Einfluss darauf, ob das Recht am Abschlussstichtag besteht, wenn die Einhaltung der Nebenbedingung erst nach dem Abschlussstichtag beurteilt wird (z. B. eine Nebenbedingung, die die Vermögens- und Finanzlage des Unternehmens am Abschlussstichtag betrifft, deren Einhaltung aber erst nach dem Abschlussstichtag beurteilt wird);
+b) 
+
+haben solche Nebenbedingungen keinen Einfluss darauf, ob dieses Recht am Abschlussstichtag besteht, wenn das Unternehmen die Nebenbedingung erst nach dem Abschlussstichtag erfüllen muss (z. B. eine Nebenbedingung, die die Vermögens- und Finanzlage des Unternehmens sechs Monate nach dem Abschlussstichtag betrifft).
+
+▼M3
+
+73 Hat ein Unternehmen am Abschlussstichtag das Recht, eine Verpflichtung im Rahmen einer bestehenden Kreditvereinbarung für mindestens zwölf Monate nach dem Abschlussstichtag zu verlängern, so stuft es die Verpflichtung selbst dann als langfristig ein, wenn sie ansonsten innerhalb eines kürzeren Zeitraums fällig wäre. Verfügt das Unternehmen nicht über ein solches Recht, so berücksichtigt es die Möglichkeit einer Refinanzierung nicht und stuft die betreffende Verpflichtung als kurzfristig ein.
+
+74 Wird eine Nebenbedingung einer langfristigen Kreditvereinbarung von einem Unternehmen am oder vor dem Abschlussstichtag verletzt, sodass die Schuld jederzeit auf Nachfrage fällig werden kann, so hat es die Schuld selbst dann als kurzfristig einzustufen, wenn der Kreditgeber nach dem Abschlussstichtag und vor der Freigabe des Abschlusses zur Veröffentlichung nicht mehr auf Zahlung aufgrund der Verletzung besteht. Die Schuld wird deshalb als kurzfristig eingestuft, weil das Unternehmen am Abschlussstichtag nicht das Recht hat, ihre Erfüllung um mindestens zwölf Monate nach dem Abschlussstichtag zu verschieben.
+
+▼B
+
+75 Ein Unternehmen stuft die Schuld hingegen als langfristig ein, falls der Kreditgeber bis zum Abschlussstichtag eine Nachfrist von mindestens zwölf Monaten nach dem Abschlussstichtag bewilligt, in der das Unternehmen die Verletzung beheben und der Kreditgeber keine sofortige Zahlung verlangen kann.
+
+▼M3
+
+75A Keinen Einfluss auf die Einstufung einer Schuld hat die Wahrscheinlichkeit, mit der das Unternehmen von seinem Recht Gebrauch machen wird, die Erfüllung der Schuld um mindestens zwölf Monate nach dem Abschlussstichtag zu verschieben. Erfüllt eine Schuld die in Paragraph 69 für eine Einstufung als langfristig genannten Kriterien, ist sie selbst dann als langfristig einzustufen, wenn das Management die Absicht hat oder erwartet, dass das Unternehmen die Schuld innerhalb von zwölf Monaten nach dem Abschlussstichtag erfüllt, oder wenn das Unternehmen die Schuld zwischen dem Abschlussstichtag und dem Tag der Freigabe des Abschlusses zur Veröffentlichung erfüllt. Allerdings muss das Unternehmen in den zuvor genannten Fällen unter Umständen Informationen zum Erfüllungszeitpunkt angeben, damit die Abschlussadressaten die Auswirkungen der Schuld auf die Vermögens- und Finanzlage des Unternehmens nachvollziehen können (siehe Paragraphen 17 Buchstabe c und 76 Buchstabe d).
+
+▼M3
+
+76 Wenn zwischen dem Abschlussstichtag und dem Tag der Freigabe des Abschlusses zur Veröffentlichung die folgenden Ereignisse eintreten, sind diese als nicht berücksichtigungspflichtige Ereignisse gemäß IAS 10 Ereignisse nach dem Abschlussstichtag anzugeben:
+a) 
+
+Langfristige Refinanzierung einer als kurzfristig eingestuften Schuld (siehe Paragraph 72),
+b) 
+
+Abstellung einer Verletzung einer als kurzfristig eingestuften langfristigen Kreditvereinbarung (siehe Paragraph 74),
+c) 
+
+Gewährung einer Nachfrist durch den Kreditgeber zur Abstellung der Verletzung einer als kurzfristig eingestuften langfristigen Kreditvereinbarung (siehe Paragraph 75) und
+d) 
+
+Erfüllung einer als langfristig eingestuften Schuld (siehe Paragraph 75A).
+
+▼M3
+
+76ZA   Bei der Anwendung der Paragraphen 69-75 könnte ein Unternehmen Schulden aus Kreditvereinbarungen als langfristig einstufen, wenn das Recht des Unternehmens, die Erfüllung dieser Schulden zu verschieben, an die Voraussetzung geknüpft ist, dass es innerhalb von zwölf Monaten nach dem Abschlussstichtag Nebenbedingungen erfüllt (siehe Paragraph 72B Buchstabe b). In solchen Fällen hat ein Unternehmen Angaben im Anhang zu machen, die es den Abschlussadressaten ermöglichen, das Risiko zu verstehen, dass die Schulden innerhalb von zwölf Monaten nach dem Abschlussstichtag rückzahlbar werden könnten, und u. a. Folgendes umfassen:
+a) 
+
+Angaben zu den Nebenbedingungen (einschließlich ihrer Art und des Zeitpunkts, zu dem sie vom Unternehmen erfüllt werden müssen) und den Buchwert der zugehörigen Schulden,
+b) 
+
+gegebenenfalls Tatsachen und Umstände, die darauf hindeuten, dass das Unternehmen Schwierigkeiten mit der Erfüllung der Nebenbedingungen haben könnte – z. B. dass das Unternehmen während oder nach dem Berichtszeitraum Maßnahmen getroffen hat, um eine potenzielle Verletzung zu vermeiden oder abzumildern. Zu solchen Tatsachen und Umständen könnte auch gehören, dass das Unternehmen die Nebenbedingungen nicht erfüllt hätte, wenn deren Einhaltung anhand der Umstände des Unternehmens am Abschlussstichtag beurteilt würde.
+
+Erfüllung (Paragraph 69 Buchstaben a, c und d)
+
+76A   Für die Zwecke der Einstufung einer Schuld als kurz- oder langfristig bezeichnet „Erfüllung“ eine Übertragung an die Gegenpartei, die die Tilgung der Schuld zur Folge hat. Eine solche Übertragung könnte bestehen aus:
+a) 
+
+Zahlungsmitteln oder anderen wirtschaftlichen Ressourcen wie Gütern oder Dienstleistungen, oder
+b) 
+
+Eigenkapitalanteilen des Unternehmens, sofern nicht Paragraph 76B gilt.
+
+76B   Kann eine Schuld nach Wahl der Gegenpartei durch die Übertragung von eigenen Eigenkapitalinstrumenten des Unternehmens erfüllt werden, bleibt die Einstufung der Schuld als kurz- oder langfristig hiervon unberührt, wenn das Unternehmen die Option in Anwendung von IAS 32 Finanzinstrumente: Darstellung als Eigenkapitalinstrument einstuft und sie getrennt von der Schuld als Eigenkapitalkomponente eines zusammengesetzten Finanzinstruments erfasst.
+
+▼B
+
+Informationen, die entweder in der Bilanz oder im Anhang darzustellen sind
+
+77   Ein Unternehmen hat weitere Unterposten entweder in der Bilanz oder in den Anhangangaben in einer für die Geschäftstätigkeit des Unternehmens geeigneten Weise anzugeben.
+
+78 Der durch Untergliederungen gegebene Detaillierungsgrad hängt von den Vorschriften der IFRS und von Größe, Art und Funktion der einbezogenen Beträge ab. Zur Ermittlung der Grundlage von Untergliederungen zieht ein Unternehmen auch die in Paragraph 58 enthaltenen Entscheidungskriterien heran. Die Angabepflichten variieren für jeden Posten, beispielsweise:
+a) 
+
+Sachanlagen werden gemäß IAS 16 in Gruppen aufgegliedert,
+b) 
+
+Forderungen werden in Forderungen aus Lieferungen und Leistungen, Forderungen gegen nahestehende Unternehmen und Personen sowie in Vorauszahlungen und sonstige Beträge gegliedert,
+c) 
+
+Vorräte werden gemäß IAS 2 Vorräte in Gruppen wie etwa Handelswaren, Roh-, Hilfs- und Betriebsstoffe, unfertige Erzeugnisse und Fertigerzeugnisse gegliedert,
+d) 
+
+Rückstellungen werden in Rückstellungen für Leistungen an Arbeitnehmer und sonstige Rückstellungen gegliedert und
+e) 
+
+Eigenkapital und Rücklagen werden in verschiedene Gruppen, wie beispielsweise eingezahltes Kapital, Agio und Rücklagen gegliedert.
+
+79   Ein Unternehmen hat entweder in der Bilanz oder in der Eigenkapitalveränderungsrechnung oder im Anhang Folgendes anzugeben:
+a) 
+
+für jede Klasse von Anteilen
+i) 
+
+die Zahl der genehmigten Anteile,
+ii) 
+
+die Zahl der ausgegebenen und voll eingezahlten Anteile und die Anzahl der ausgegebenen und nicht voll eingezahlten Anteile,
+iii) 
+
+den Nennwert der Anteile oder die Aussage, dass die Anteile keinen Nennwert haben,
+iv) 
+
+eine Überleitungsrechnung der Zahl der im Umlauf befindlichen Anteile am Anfang und am Abschlussstichtag,
+v) 
+
+die Rechte, Vorzugsrechte und Beschränkungen für die jeweilige Kategorie von Anteilen einschließlich Beschränkungen bei der Ausschüttung von Dividenden und der Rückzahlung des Kapitals,
+vi) 
+
+Anteile an dem Unternehmen, die von dem Unternehmen selbst, seinen Tochterunternehmen oder assoziierten Unternehmen gehalten werden, und
+vii) 
+
+Anteile, die für die Ausgabe aufgrund von Optionen und Verkaufsverträgen zurückgehalten werden, unter Angabe der Modalitäten und Beträge, und
+b) 
+
+eine Beschreibung von Art und Zweck jeder Rücklage innerhalb des Eigenkapitals.
+
+80   Ein Unternehmen ohne gezeichnetes Kapital, wie etwa eine Personengesellschaft oder ein Treuhandfonds, hat Informationen anzugeben, die dem in Paragraph 79(a) verlangten gleichwertig sind und Bewegungen während der Periode in jeder Eigenkapitalkategorie sowie die Rechte, Vorzugsrechte und Beschränkungen jeder Eigenkapitalkategorie zeigen.
+
+80A   Hat ein Unternehmen
+a) 
+
+ein als Eigenkapitalinstrument eingestuftes kündbares Finanzinstrument oder
+b) 
+
+ein als Eigenkapitalinstrument eingestuftes Instrument, das das Unternehmen dazu verpflichtet, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen,
+
+zwischen finanziellen Verbindlichkeiten und Eigenkapital umgegliedert, so hat es den in jeder Kategorie (d. h. bei den finanziellen Verbindlichkeiten oder dem Eigenkapital) ein bzw. ausgegliederten Betrag sowie den Zeitpunkt und die Gründe für die Umgliederung anzugeben.
+
+Darstellung von Gewinn oder Verlust und sonstigem Ergebnis
+
+81A   Die Darstellung von Gewinn oder Verlust und sonstigem Ergebnis (Gesamtergebnisrechnung) muss neben den Teilen „Gewinn oder Verlust“ und „sonstiges Ergebnis“ Folgendes ausweisen:
+a) 
+
+den Gewinn oder Verlust,
+b) 
+
+das sonstige Ergebnis insgesamt,
+c) 
+
+das Gesamtergebnis für die Periode, d. h. die Summe aus Gewinn oder Verlust und sonstigem Ergebnis.
+
+Stellt ein Unternehmen eine gesonderte Gewinn- und Verlustrechnung auf, so sieht es in der Gesamtergebnisrechnung von dem Teil „Gewinn oder Verlust“ ab.
+
+81B   Ein Unternehmen hat zusätzlich zu den Teilen „Gewinn oder Verlust“ sowie „sonstiges Ergebnis“ die folgenden Posten als Ergebniszuordnung für den Gewinn oder Verlust und das sonstige Ergebnis der Periode auszuweisen:
+a) 
+
+den Gewinn oder Verlust der Periode, der
+i) 
+
+nicht beherrschenden Anteilen und
+ii) 
+
+den Eigentümern des Mutterunternehmens zuzuordnen ist.
+b) 
+
+das Gesamtergebnis für die Periode, das
+i) 
+
+nicht beherrschenden Anteilen und
+ii) 
+
+den Eigentümern des Mutterunternehmens zuzuordnen ist.
+
+Weist ein Unternehmen den Gewinn oder Verlust in einer gesonderten Gewinn- und Verlustrechnung aus, muss diese die unter (a) verlangten Angaben enthalten.
+
+Informationen, die im Teil „Gewinn oder Verlust“ oder in der gesonderten Gewinn- und Verlustrechnung auszuweisen sind
+
+81  [gestrichen]
+
+82   Zusätzlich zu den in anderen IFRS vorgeschriebenen Posten sind im Teil „Gewinn oder Verlust“ oder in der gesonderten Gewinn- und Verlustrechnung für die betreffende Periode die folgenden Posten auszuweisen:
+a) 
+
+Umsatzerlöse, wobei getrennt ausgewiesen werden
+i) 
+
+die nach der Effektivzinsmethode berechneten Zinserträge und
+ii) 
+
+versicherungstechnische Erträge (siehe IFRS 17),
+aa) 
+
+Gewinne und Verluste aus der Ausbuchung von finanziellen Vermögenswerten, die zu fortgeführten Anschaffungskosten bewertet werden,
+ab) 
+
+versicherungstechnische Aufwendungen aus ausgestellten Verträgen im Anwendungsbereich von IFRS 17 (siehe IFRS 17),
+ac) 
+
+Erträge oder Aufwendungen aus gehaltenen Rückversicherungsverträgen (siehe IFRS 17),
+b) 
+
+Finanzierungsaufwendungen,
+ba) 
+
+Wertminderungsaufwendungen (einschließlich Rückbuchungen von Wertminderungsaufwendungen oder -erträgen), die gemäß Abschnitt 5.5 von IFRS 9 bestimmt werden,
+bb) 
+
+versicherungstechnische Finanzerträge oder -aufwendungen aus ausgestellten Verträgen im Anwendungsbereich von IFRS 17 (siehe IFRS 17),
+bc) 
+
+Finanzerträge oder -aufwendungen aus gehaltenen Rückversicherungsverträgen (siehe IFRS 17),
+c) 
+
+Gewinn- oder Verlustanteil von assoziierten Unternehmen und Gemeinschaftsunternehmen, die nach der Equity-Methode bilanziert werden,
+ca) 
+
+wenn ein finanzieller Vermögenswert aus der Gruppe der Bewertung zu fortgeführten Anschaffungskosten in die Gruppe der erfolgswirksamen Bewertung zum beizulegenden Zeitwert umgegliedert wird, sämtliche Gewinne oder Verluste, die sich aus einer Differenz zwischen den bisherigen fortgeführten Anschaffungskosten des finanziellen Vermögenswerts und seinem beizulegenden Zeitwert zum Zeitpunkt der Umgliederung (wie in IFRS 9 definiert) ergeben,
+cb) 
+
+wenn ein finanzieller Vermögenswert aus der Kategorie der erfolgsneutralen Bewertung zum beizulegenden Zeitwert im sonstigen Ergebnis in die Kategorie der erfolgswirksamen Bewertung zum beizulegenden Zeitwert umgegliedert wird, sämtliche kumulierten Gewinne oder Verluste, die zuvor im sonstigen Ergebnis erfasst wurden und erfolgswirksam umgegliedert werden,
+d) 
+
+Steueraufwendungen,
+e) 
+
+[gestrichen]
+ea) 
+
+ein gesonderter Betrag für die Summe aufgegebener Geschäftsbereiche (siehe IFRS 5).
+(f)–(i) 
+
+[gestrichen]
+
+Informationen, die im Teil „sonstiges Ergebnis“ auszuweisen sind
+
+82A   Im Teil „sonstiges Ergebnis“ sind für die Beträge der Periode nachfolgende Posten auszuweisen:
+a) 
+
+Posten des sonstigen Ergebnisses (mit Ausnahme der Beträge nach Paragraph b), nach Art des Betrags eingestuft und getrennt nach den Posten, die gemäß anderen IFRS
+i) 
+
+nicht zu einem späteren Zeitpunkt erfolgswirksam umgegliedert werden, und
+ii) 
+
+zu einem späteren Zeitpunkt erfolgswirksam umgegliedert werden, sofern bestimmte Bedingungen erfüllt sind.
+b) 
+
+Anteil von assoziierten Unternehmen und Gemeinschaftsunternehmen, die nach der Equity-Methode bilanziert werden, am sonstigen Ergebnis, getrennt nach den Posten, die gemäß anderen IFRS
+i) 
+
+nicht zu einem späteren Zeitpunkt erfolgswirksam umgegliedert werden, und
+ii) 
+
+zu einem späteren Zeitpunkt erfolgswirksam umgegliedert werden, sofern bestimmte Bedingungen erfüllt sind.
+
+83–84  [gestrichen]
+
+85   Ein Unternehmen hat in der/den Darstellung/en von Gewinn oder Verlust und sonstigem Ergebnis zusätzliche Posten (gegebenenfalls durch Einzelausweis der unter Paragraph 82 aufgeführten Posten), Überschriften und Zwischensummen einzufügen, wenn ein solcher Ausweis für das Verständnis der Ertragslage des Unternehmens relevant ist.
+
+85A Zwischensummen, die ein Unternehmen gemäß Paragraph 85 ausweist,
+a) 
+
+müssen aus Posten mit gemäß den IFRS angesetzten und bewerteten Beträgen bestehen,
+b) 
+
+müssen in einer Weise ausgewiesen und bezeichnet sein, die klar erkennen lässt, welche Posten in der Zwischensumme zusammengefasst sind,
+c) 
+
+müssen gemäß Paragraph 45 von Periode zu Periode stetig ausgewiesen werden und
+d) 
+
+dürfen nicht stärker hervorgehoben werden als die gemäß den IFRS in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis auszuweisenden Zwischensummen und Summen.
+
+85B Ein Unternehmen hat die Posten in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis so darzustellen, dass eine Abstimmung zwischen den gemäß Paragraph 85 dargestellten Zwischensummen und den Zwischensummen oder Summen, die die IFRS für solche Abschlussbestandteile vorschreiben, möglich ist.
+
+86 Da sich die Auswirkungen der verschiedenen Tätigkeiten, Geschäftsvorfälle und sonstigen Ereignisse hinsichtlich ihrer Häufigkeit, ihres Gewinn- oder Verlustpotenzials sowie ihrer Vorhersagbarkeit unterscheiden, hilft die Darstellung der Erfolgsbestandteile beim Verständnis der erreichten Erfolgslage des Unternehmens sowie bei der Vorhersage der künftigen Erfolgslage. Ein Unternehmen nimmt in die Darstellung/die Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis zusätzliche Posten auf und ändert die Bezeichnung und Gliederung einzelner Posten, wenn dies zur Erläuterung der Erfolgsbestandteile notwendig ist. Dabei müssen Faktoren wie Wesentlichkeit, Art und Funktion der Ertrags- und Aufwandsposten berücksichtigt werden. Beispielsweise kann ein Finanzinstitut die oben beschriebenen Darstellungen anpassen, um Informationen bereitzustellen, die für die Geschäftstätigkeit eines Finanzinstituts relevant sind. Ertrags- und Aufwandsposten werden nur saldiert, wenn die Bedingungen des Paragraphen 32 erfüllt sind.
+
+87   Ein Unternehmen darf weder in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis noch im Anhang Ertrags- oder Aufwandsposten als außerordentliche Posten darstellen.
+
+Gewinn oder Verlust der Periode
+
+88   Ein Unternehmen hat alle Ertrags- und Aufwandsposten der Periode erfolgswirksam zu erfassen, es sei denn, etwas anderes ist durch einen IFRS gestattet oder vorgeschrieben.
+
+89 Einige IFRS nennen Umstände, aufgrund derer bestimmte Posten nicht in den Gewinn oder Verlust der aktuellen Periode eingehen. IAS 8 behandelt zwei solcher Fälle: die Berichtigung von Fehlern und die Auswirkungen von Änderungen der Rechnungslegungsmethoden. Andere IFRS verlangen oder gestatten, dass Bestandteile des sonstigen Ergebnisses, die im Sinne des Rahmenkonzepts als Erträge oder Aufwendungen zu definieren sind, bei der Ermittlung des Gewinns oder Verlusts unberücksichtigt bleiben (siehe Paragraph 7).
+
+Sonstiges Ergebnis in der Periode
+
+90   Ein Unternehmen hat entweder in der Darstellung von Gewinn oder Verlust und sonstigem Ergebnis oder im Anhang den Betrag der Ertragsteuern anzugeben, der auf die einzelnen Posten des sonstigen Ergebnisses, einschließlich der Umgliederungsbeträge, entfällt.
+
+91 Ein Unternehmen kann die Posten des sonstigen Ergebnisses wie folgt darstellen:
+a) 
+
+nach Berücksichtigung aller damit verbundenen steuerlichen Auswirkungen oder
+b) 
+
+vor Berücksichtigung der mit diesen Posten verbundenen steuerlichen Auswirkungen, wobei die Summe der Ertragsteuern auf diese Posten als zusammengefasster Betrag ausgewiesen wird.
+
+Wählt ein Unternehmen Alternative (b), hat es die Steuer auf die Posten aufzuteilen, die anschließend erfolgswirksam in den Teil „Gewinn oder Verlust“ umgegliedert werden könnten, und die Posten, die anschließend nicht in den Teil „Gewinn oder Verlust“ umgegliedert werden.
+
+92   Ein Unternehmen hat Umgliederungsbeträge anzugeben, die sich auf Bestandteile des sonstigen Ergebnisses beziehen.
+
+93 In anderen IFRS ist festgelegt, ob und wann Beträge, die vorher im sonstigen Ergebnis erfasst wurden, erfolgswirksam umgegliedert werden. Solche Umgliederungen werden in diesem Standard als „Umgliederungsbeträge“ bezeichnet. Ein Umgliederungsbetrag wird mit dem zugehörigen Bestandteil des sonstigen Ergebnisses in der Periode berücksichtigt, in welcher der Betrag erfolgswirksam umgegliedert wird. Diese Beträge wurden in der aktuellen oder einer früheren Periode möglicherweise als nicht realisierte Gewinne im sonstigen Ergebnis ausgewiesen. Um eine doppelte Erfassung im Gesamtergebnis zu vermeiden, sind solche nicht realisierten Gewinne vom sonstigen Ergebnis in der Periode abzuziehen, in der die realisierten Gewinne erfolgswirksam umgegliedert werden.
+
+94 Ein Unternehmen kann Umgliederungsbeträge in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis oder im Anhang darstellen. Bei einer Darstellung der Umgliederungsbeträge im Anhang sind die Posten des sonstigen Ergebnisses nach Berücksichtigung zugehöriger Umgliederungsbeträge anzugeben.
+
+95 Umgliederungsbeträge entstehen beispielsweise beim Verkauf eines ausländischen Geschäftsbetriebs (siehe IAS 21) oder wenn abgesicherte erwartete Zahlungsströme sich auf den Gewinn oder Verlust auswirken (siehe Paragraph 6.5.11(d) von IFRS 9 in Zusammenhang mit der Absicherung von Zahlungsströmen).
+
+96 Umgliederungsbeträge fallen bei Veränderungen der Neubewertungsrücklage, die gemäß IAS 16 oder IAS 38 erfasst werden, oder bei Neubewertungen leistungsorientierter Pläne, die gemäß IAS 19 erfasst werden, nicht an. Diese Bestandteile werden im sonstigen Ergebnis erfasst und in späteren Perioden nicht erfolgswirksam umgegliedert. Veränderungen der Neubewertungsrücklage können in späteren Perioden bei Nutzung des Vermögenswerts oder bei seiner Ausbuchung in die Gewinnrücklagen umgegliedert werden (siehe IAS 16 und IAS 38). Gemäß IFRS 9 entstehen keine Umgliederungsbeträge, wenn eine Absicherung von Zahlungsströmen oder die Bilanzierung des Zeitwerts einer Option (oder des Terminelements eines Termingeschäfts oder des Währungsbasis-Spreads eines Finanzinstruments) zu Beträgen führt, die aus der Rücklage für die Absicherung von Zahlungsströmen bzw. einer gesonderten Eigenkapitalkomponente ausgebucht und direkt in die erstmaligen Anschaffungskosten oder in den sonstigen Buchwert eines Vermögenswerts oder einer Verbindlichkeit einbezogen werden. Diese Beträge werden direkt den Vermögenswerten oder Verbindlichkeiten zugeordnet.
+
+Informationen, die in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis oder im Anhang auszuweisen sind
+
+97   Wenn Ertrags- oder Aufwandsposten wesentlich sind, hat ein Unternehmen Art und Betrag dieser Posten gesondert anzugeben.
+
+98 Umstände, die zu einer gesonderten Angabe von Ertrags- und Aufwandsposten führen, können sein:
+a) 
+
+außerplanmäßige Abschreibung der Vorräte auf den Nettoveräußerungswert oder der Sachanlagen auf den erzielbaren Betrag sowie die Wertaufholung solcher außerplanmäßigen Abschreibungen,
+b) 
+
+eine Umstrukturierung der Tätigkeiten eines Unternehmens und die Auflösung von Rückstellungen für Umstrukturierungsaufwand,
+c) 
+
+Veräußerung von Posten der Sachanlagen,
+d) 
+
+Veräußerung von Finanzanlagen,
+e) 
+
+aufgegebene Geschäftsbereiche,
+f) 
+
+Beendigung von Rechtsstreitigkeiten und
+g) 
+
+sonstige Auflösungen von Rückstellungen.
+
+99   Ein Unternehmen hat den im Gewinn oder Verlust erfassten Aufwand aufzugliedern und dabei Gliederungskriterien anzuwenden, die entweder auf der Art der Aufwendungen oder auf deren Funktion innerhalb des Unternehmens beruhen je nachdem, welche Darstellungsform verlässliche und relevantere Informationen ermöglicht.
+
+100 Unternehmen wird empfohlen, die in Paragraph 99 vorgeschriebene Aufgliederung in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis auszuweisen.
+
+101 Aufwendungen werden unterteilt, um die Erfolgsbestandteile, die sich bezüglich Häufigkeit, Gewinn- oder Verlustpotenzial und Vorhersagbarkeit unterscheiden können, hervorzuheben. Diese Informationen können auf zwei verschiedene Arten dargestellt werden.
+
+102 Die erste Art der Aufgliederung wird als „Gesamtkostenverfahren“ bezeichnet. Aufwendungen, die Bestandteile des Gewinns oder Verlusts sind, werden nach ihrer Art zusammengefasst (beispielsweise Abschreibungen, Materialeinkauf, Transportkosten, Leistungen an Arbeitnehmer, Werbekosten) und nicht nach ihrer Zugehörigkeit auf die einzelnen Funktionsbereiche des Unternehmens verteilt. Diese Methode ist einfach anzuwenden, da die betrieblichen Aufwendungen den einzelnen Funktionsbereichen nicht zugeordnet werden müssen. Es folgt ein Beispiel für eine Gliederung nach dem Gesamtkostenverfahren:
+
+
+
+Umsatzerlöse
+	
+
+ 
+	
+
+X
+
+Sonstige Erträge
+	
+
+ 
+	
+
+X
+
+Veränderung des Bestands an Fertigerzeugnissen und unfertigen Erzeugnissen
+	
+
+X
+	
+
+ 
+
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe
+	
+
+X
+	
+
+ 
+
+Aufwendungen für Leistungen an Arbeitnehmer
+	
+
+X
+	
+
+ 
+
+Aufwand für planmäßige Abschreibungen
+	
+
+X
+	
+
+ 
+
+Andere Aufwendungen
+	
+
+X
+	
+
+ 
+
+Gesamtaufwand
+	
+
+ 
+	
+
+(X)
+
+Gewinn vor Steuern
+	
+
+ 
+	
+
+X
+
+103 Die zweite Art der Aufgliederung wird als „Umsatzkostenverfahren“ bezeichnet und unterteilt die Aufwendungen nach ihrer funktionalen Zugehörigkeit als Teile der Umsatzkosten, beispielsweise der Aufwendungen für Vertriebs- oder Verwaltungstätigkeiten. Das Unternehmen hat diesem Verfahren zufolge zumindest die Umsatzkosten gesondert von anderen Aufwendungen auszuweisen. Diese Methode bietet den Adressaten oft relevantere Informationen als die Aufteilung nach Aufwandsarten, aber die Zuordnung von Aufwendungen zu Funktionen kann willkürlich sein und beruht auf erheblichen Ermessensentscheidungen. Es folgt ein Beispiel für eine Gliederung nach dem Umsatzkostenverfahren:
+
+
+
+Umsatzerlöse
+	
+
+X
+
+Umsatzkosten
+	
+
+(X)
+
+Bruttogewinn
+	
+
+X
+
+Sonstige Erträge
+	
+
+X
+
+Vertriebskosten
+	
+
+(X)
+
+Verwaltungsaufwendungen
+	
+
+(X)
+
+Andere Aufwendungen
+	
+
+(X)
+
+Gewinn vor Steuern
+	
+
+X
+
+104   Ein Unternehmen, welches das Umsatzkostenverfahren anwendet, hat zusätzliche Informationen über die Art der Aufwendungen, einschließlich des Aufwands für planmäßige Abschreibungen sowie Leistungen an Arbeitnehmer, anzugeben.
+
+105 Die Wahl zwischen dem Umsatzkosten- und dem Gesamtkostenverfahren hängt von historischen und branchenbezogenen Faktoren und von der Art des Unternehmens ab. Beide Verfahren geben Hinweise auf die Kosten, die sich direkt oder indirekt mit der Höhe des Umsatzes oder der Produktion des Unternehmens verändern können. Da jede der beiden Darstellungsformen für unterschiedliche Unternehmenstypen vorteilhaft ist, verpflichtet dieser Standard das Management zur Wahl der Darstellungsform, die zuverlässig und relevanter ist. Da Informationen über die Art von Aufwendungen für die Prognose künftiger Zahlungsströme nützlich sind, werden bei Anwendung des Umsatzkostenverfahrens zusätzliche Angaben verlangt. In Paragraph 104 hat der Begriff „Leistungen an Arbeitnehmer“ dieselbe Bedeutung wie in IAS 19.
+
+Eigenkapitalveränderungsrechnung
+
+Informationen, die in der Eigenkapitalveränderungsrechnung darzustellen sind
+
+106   Ein Unternehmen hat gemäß Paragraph 10 eine Eigenkapitalveränderungsrechnung zu erstellen. Diese muss Folgendes enthalten:
+a) 
+
+das Gesamtergebnis für die Periode, wobei die Beträge, die den Eigentümern des Mutterunternehmens und den nicht beherrschenden Anteilen insgesamt zuzuordnen sind, getrennt auszuweisen sind,
+b) 
+
+für jede Eigenkapitalkomponente die Auswirkungen einer rückwirkenden Anwendung oder rückwirkenden Berichtigung, die gemäß IAS 8 erfasst wurde, und
+c) 
+
+[gestrichen]
+d) 
+
+für jede Eigenkapitalkomponente eine Überleitung vom Buchwert zu Beginn der Periode zum Buchwert am Ende der Periode, wobei (zumindest) die Veränderungen gesondert auszuweisen sind, die zurückzuführen sind auf
+i) 
+
+Gewinn oder Verlust,
+ii) 
+
+sonstiges Ergebnis und
+iii) 
+
+Geschäftsvorfälle mit Eigentümern, die in ihrer Eigenschaft als Eigentümer handeln, wobei Kapitalzuführungen von Eigentümern und Ausschüttungen an Eigentümer sowie Veränderungen bei Eigentumsanteilen an Tochterunternehmen, die keinen Verlust der Beherrschung nach sich ziehen, gesondert auszuweisen sind.
+
+Informationen, die entweder in der Eigenkapitalveränderungsrechnung oder im Anhang darzustellen sind
+
+106A   Ein Unternehmen hat entweder in der Eigenkapitalveränderungsrechnung oder im Anhang für jede Eigenkapitalkomponente eine nach Posten gegliederte Aufgliederung des sonstigen Ergebnisses darzustellen (siehe Paragraph 106 (d) (ii)).
+
+107   Ein Unternehmen hat entweder in der Eigenkapitalveränderungsrechnung oder im Anhang die Höhe der Dividenden, die während der Berichtsperiode als Ausschüttungen an die Eigentümer erfasst werden, sowie den betreffenden Dividendenbetrag je Anteil anzugeben.
+
+108 Zu den in Paragraph 106 genannten Eigenkapitalbestandteilen gehören beispielsweise jede Kategorie des eingebrachten Kapitals, der kumulierte Saldo jeder Kategorie des sonstigen Ergebnisses und die Gewinnrücklagen.
+
+109 Veränderungen des Eigenkapitals eines Unternehmens zwischen dem Beginn und dem Ende der Berichtsperiode spiegeln die Zu- oder Abnahme seines Nettovermögens während der Periode wider. Mit Ausnahme von Änderungen, die sich aus Transaktionen mit Eigentümern, die in ihrer Eigenschaft als Eigentümer handeln (z. B. Kapitaleinlagen, Rückerwerb von Eigenkapitalinstrumenten des Unternehmens und Dividenden), sowie den unmittelbar damit zusammenhängenden Transaktionskosten ergeben, stellt die Gesamtveränderung des Eigenkapitals während der betreffenden Periode den Gesamtertrag bzw. -aufwand einschließlich der Gewinne und Verluste dar, die während der betreffenden Periode durch die Aktivitäten des Unternehmens entstehen.
+
+110 Nach IAS 8 sind zur Berücksichtigung von Änderungen der Rechnungslegungsmethoden, soweit durchführbar, rückwirkende Anpassungen erforderlich, sofern die Übergangsvorschriften in einem anderen IFRS keine andere Erfassung vorschreiben. Ebenso sind nach IAS 8, soweit durchführbar, rückwirkende Berichtigungen von Fehlern erforderlich. Rückwirkende Anpassungen und rückwirkende Berichtigungen stellen keine Eigenkapitalveränderungen dar, sondern sind Anpassungen des Anfangssaldos der Gewinnrücklagen, sofern nicht ein IFRS eine rückwirkende Anpassung eines anderen Eigenkapitalbestandteils verlangt. Paragraph 106(b) schreibt die Angabe der Gesamtanpassung für jeden Eigenkapitalposten, die sich aus Änderungen der Rechnungslegungsmethoden und — getrennt davon — aus der Fehlerberichtigung ergibt, in der Eigenkapitalveränderungsrechnung vor. Diese Anpassungen sind für jede Vorperiode sowie für den Periodenanfang anzugeben.
+
+Kapitalflussrechnung
+
+111 Die Kapitalflussrechnung bietet den Adressaten eine Grundlage für die Beurteilung der Fähigkeit des Unternehmens, Zahlungsmittel und Zahlungsmitteläquivalente zu erwirtschaften, sowie des Bedarfs des Unternehmens, diese Zahlungsströme zu verwenden. IAS 7 legt die Vorschriften für die Darstellung und Angabe von Informationen zu Zahlungsströmen fest.
+
+Anhangangaben
+
+Struktur
+
+112   Der Anhang hat
+a) 
+
+Informationen über die Grundlagen der Aufstellung des Abschlusses und die spezifischen Rechnungslegungsmethoden, die gemäß den Paragraphen 117–124 angewandt worden sind, darzulegen,
+b) 
+
+die nach IFRS erforderlichen Informationen zu geben, die nicht in den anderen Abschlussbestandteilen ausgewiesen sind, und
+c) 
+
+Informationen zu vermitteln, die nicht in anderen Abschlussbestandteilen ausgewiesen werden, für das Verständnis derselben jedoch relevant sind.
+
+113   Ein Unternehmen hat die Anhangangaben, soweit durchführbar, systematisch darzustellen. Bei der Festlegung der Darstellungssystematik hat das Unternehmen zu berücksichtigen, wie sich diese auf die Verständlichkeit und Vergleichbarkeit seiner Abschlüsse auswirkt. Jeder Posten in der Bilanz, der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis, der Eigenkapitalveränderungsrechnung und der Kapitalflussrechnung muss mit einem Querverweis auf sämtliche zugehörigen Informationen im Anhang versehen sein.
+
+114 Eine systematische Ordnung oder Gliederung der Anhangangaben bedeutet beispielsweise,
+a) 
+
+dass Tätigkeitsbereiche hervorgehoben werden, die nach Einschätzung des Unternehmens für das Verständnis seiner Vermögens-, Finanz- und Ertragslage besonders relevant sind, indem beispielsweise Informationen zu bestimmten betrieblichen Tätigkeiten zusammengefasst werden,
+b) 
+
+dass Informationen über Posten, die in ähnlicher Weise bewertet werden, beispielsweise über zum beizulegenden Zeitwert bewertete Vermögenswerte, zusammengefasst werden, oder
+c) 
+
+dass die Posten in der Reihenfolge ausgewiesen werden, in der sie in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis und der Bilanz aufgeführt sind, nämlich
+i) 
+
+Erklärung der Übereinstimmung mit den IFRS (siehe Paragraph 16),
+ii) 
+
+wesentliche Angaben zu den Rechnungslegungsmethoden (siehe Paragraph 117),
+iii) 
+
+ergänzende Informationen zu den in der Bilanz, der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis, der Eigenkapitalveränderungsrechnung und der Kapitalflussrechnung dargestellten Posten in der Reihenfolge, in der jeder Abschlussbestandteil und jeder Posten dargestellt wird, und
+iv) 
+
+sonstige Angaben, einschließlich
+(1) 
+
+Eventualverbindlichkeiten (siehe IAS 37) und nicht angesetzte vertragliche Verpflichtungen und
+(2) 
+
+nichtfinanzielle Angaben, z. B. die Ziele und Methoden des Finanzrisikomanagements des Unternehmens (siehe IFRS 7).
+
+115 [gestrichen]
+
+116 Ein Unternehmen kann Informationen über die Grundlagen der Aufstellung des Abschlusses und die spezifischen Rechnungslegungsmethoden als gesonderten Teil des Abschlusses darstellen.
+
+Angaben zu den Rechnungslegungsmethoden
+
+117   Ein Unternehmen hat wesentliche Angaben zu seinen Rechnungslegungsmethoden zu machen (siehe Paragraph 7). Angaben zu Rechnungslegungsmethoden sind wesentlich, wenn bei gemeinsamer Betrachtung mit anderen im Abschluss eines Unternehmens enthaltenen Informationen vernünftigerweise erwartet werden kann, dass sie die Entscheidungen beeinflussen, die die Hauptadressaten eines Abschlusses für allgemeine Zwecke auf der Grundlage des jeweiligen Abschlusses treffen.
+
+117A Angaben zu Rechnungslegungsmethoden, die sich auf unwesentliche Geschäftsvorfälle, sonstige Ereignisse oder Bedingungen beziehen, sind ebenfalls unwesentlich und müssen nicht gemacht werden. Angaben zu Rechnungslegungsmethoden können jedoch aufgrund der Art der zugehörigen Geschäftsvorfälle, sonstigen Ereignisse oder Bedingungen wesentlich sein, selbst wenn die entsprechenden Beträge unwesentlich sind. Allerdings sind nicht alle Angaben zu Rechnungslegungsmethoden, die sich auf wesentliche Geschäftsvorfälle, sonstige Ereignisse oder Bedingungen beziehen, an sich wesentlich.
+
+117B Angaben zu Rechnungslegungsmethoden sind dann als wesentlich zu betrachten, wenn die Adressaten des Abschlusses eines Unternehmens sie benötigen, um andere wesentliche Informationen im Abschluss zu verstehen. So dürfte ein Unternehmen Angaben zu Rechnungslegungsmethoden für seinen Abschluss als wesentlich betrachten, wenn sich die jeweiligen Angaben auf wesentliche Geschäftsvorfälle, sonstige Ereignisse oder Bedingungen beziehen und
+a) 
+
+das Unternehmen seine Rechnungslegungsmethoden während der Berichtsperiode geändert hat und diese Änderung zu einer wesentlichen Änderung der Angaben im Abschluss geführt hat,
+b) 
+
+das Unternehmen die Rechnungslegungsmethode aus den nach den IFRS zulässigen Optionen ausgewählt hat – ein solcher Fall könnte eintreten, wenn sich das Unternehmen dafür entscheidet, als Finanzinvestition gehaltene Immobilien nicht zum beizulegenden Zeitwert, sondern zu den historischen Anschaffungskosten zu bewerten,
+c) 
+
+die Rechnungslegungsmethode in Ermangelung eines speziell auf den betreffenden Fall anwendbaren IFRS gemäß IAS 8 entwickelt wurde,
+d) 
+
+sich die Rechnungslegungsmethode auf einen Bereich bezieht, für den sich das Unternehmen bei der Anwendung einer Rechnungslegungsmethode in erheblichem Umfang auf eine Ermessensausübung bzw. Annahmen stützen muss, und das Unternehmen die jeweiligen Ermessensentscheidungen oder Annahmen gemäß den Paragraphen 122 und 125 angibt oder
+e) 
+
+die vorgeschriebene Bilanzierung für diese komplex ist, und die Adressaten des Abschlusses die betreffenden wesentlichen Geschäftsvorfälle, sonstigen Ereignisse oder Bedingungen andernfalls nicht verstehen würden – ein solcher Fall könnte eintreten, wenn ein Unternehmen auf eine Kategorie wesentlicher Geschäftsvorfälle mehr als einen IFRS anwendet.
+
+117C Angaben zu Rechnungslegungsmethoden, die sich vorrangig darauf beziehen, wie ein Unternehmen die Vorschriften der IFRS auf seine eigene Situation angewendet hat, vermitteln unternehmensspezifische Informationen, die für die Abschlussadressaten nützlicher sind als standardisierte Angaben oder Angaben, die lediglich die Vorschriften der IFRS reproduzieren oder zusammenfassen.
+
+117D Liefert ein Unternehmen unwesentliche Angaben zu seinen Rechnungslegungsmethoden, so dürfen diese wesentliche Angaben zu den Rechnungslegungsmethoden nicht verschleiern.
+
+117E Gelangt ein Unternehmen zu dem Schluss, dass Angaben zu Rechnungslegungsmethoden unwesentlich sind, lässt dies die damit zusammenhängenden Angabepflichten anderer IFRS unberührt.
+
+118 [gestrichen]
+
+119 [gestrichen]
+
+120 [gestrichen]
+
+121 [gestrichen]
+
+122   Ein Unternehmen muss zusammen mit den wesentlichen Angaben zu den Rechnungslegungsmethoden oder sonstigen Erläuterungen Angaben dazu machen, welche Ermessensentscheidungen – außer solchen, bei denen Schätzungen einfließen (siehe Paragraph 125) – das Management bei der Anwendung der Rechnungslegungsmethoden getroffen hat und welche Ermessensentscheidungen die Beträge im Abschluss am stärksten beeinflussen.
+
+123 Die Anwendung der Rechnungslegungsmethoden unterliegt verschiedenen Ermessensausübungen des Managements – abgesehen von solchen, bei denen Schätzungen einfließen –, die die Beträge im Abschluss erheblich beeinflussen können. Das Management übt beispielsweise seinen Ermessensspielraum aus, wenn es festlegt,
+a) 
+
+[gestrichen]
+b) 
+
+wann alle wesentlichen mit dem rechtlichen Eigentum verbundenen Risiken und Chancen der finanziellen Vermögenswerte und — bei Leasinggebern — des Leasingvermögens auf andere Unternehmen übertragen werden,
+c) 
+
+ob es sich bei bestimmten Warenverkaufsgeschäften im Wesentlichen um Finanzierungsvereinbarungen handelt, durch die folglich keine Umsatzerlöse erzielt werden, und
+d) 
+
+ob die Vertragsbedingungen eines finanziellen Vermögenswerts zu festgelegten Zeitpunkten zu Zahlungsströmen führen, die ausschließlich Tilgungs- und Zinszahlungen auf den ausstehenden Kapitalbetrag darstellen.
+
+124 Einige gemäß Paragraph 122 erforderlichen Angaben werden von anderen IFRS vorgeschrieben. So hat ein Unternehmen zum Beispiel nach IFRS 12 Angaben zu Anteilen an anderen Unternehmen anzugeben, welche Ermessensentscheidungen es bei der Beurteilung getroffen hat, ob es ein anderes Unternehmen beherrscht. Nach IAS 40 Als Finanzinvestition gehaltene Immobilien sind die vom Unternehmen entwickelten Kriterien anzugeben, nach denen zwischen als Finanzinvestition gehaltenen, vom Eigentümer selbst genutzten Immobilien und Immobilien, die zum Verkauf im Rahmen der gewöhnlichen Geschäftstätigkeit gehalten werden, unterschieden wird, sofern eine Zuordnung Schwierigkeiten bereitet.
+
+Quellen von Schätzungsunsicherheiten
+
+125   Ein Unternehmen hat im Anhang die wichtigsten zukunftsbezogenen Annahmen anzugeben und Angaben über sonstige am Abschlussstichtag wesentliche Quellen von Schätzungsunsicherheiten zu machen, durch die ein beträchtliches Risiko entstehen kann, dass innerhalb des nächsten Geschäftsjahrs eine wesentliche Anpassung der Buchwerte der ausgewiesenen Vermögenswerte und Schulden erforderlich wird. Bezüglich solcher Vermögenswerte und Schulden sind im Anhang
+a) 
+
+ihre Art und
+b) 
+
+ihre Buchwerte am Abschlussstichtag anzugeben.
+
+126 Zur Bestimmung der Buchwerte bestimmter Vermögenswerte und Schulden ist eine Schätzung der Auswirkungen ungewisser künftiger Ereignisse auf solche Vermögenswerte und Schulden am Abschlussstichtag erforderlich. Fehlen beispielsweise kürzlich festgestellte Marktpreise, sind zukunftsbezogene Schätzungen erforderlich, um den erzielbaren Betrag bestimmter Gruppen von Sachanlagen, die Folgen technischer Veralterung für Bestände, Rückstellungen, die von dem künftigen Ausgang von Gerichtsverfahren abhängen, sowie langfristige Verpflichtungen gegenüber Arbeitnehmern, wie beispielsweise Pensionszusagen, zu bewerten. Diese Schätzungen beziehen Annahmen über Faktoren wie Risikoanpassungen von Zahlungsströmen oder der Abzinsungssätze, künftige Gehaltsentwicklungen und künftige, andere Kosten beeinflussende Preisänderungen mit ein.
+
+127 Die Annahmen sowie die sonstigen Quellen von Schätzungsunsicherheiten, die gemäß Paragraph 125 angegeben werden, beziehen sich auf Schätzungen, die eine besonders schwierige, subjektive oder komplizierte Ermessensentscheidung des Managements erfordern. Je höher die Anzahl der Variablen bzw. der Annahmen, die sich auf die mögliche künftige Beseitigung bestehender Unsicherheiten auswirken, desto subjektiver und schwieriger wird die Ermessensausübung, sodass die Wahrscheinlichkeit einer nachträglichen, wesentlichen Anpassung der angesetzten Buchwerte der betreffenden Vermögenswerte und Schulden in der Regel im gleichen Maße steigt.
+
+128 Die in Paragraph 125 vorgeschriebenen Angaben sind nicht für Vermögenswerte und Schulden erforderlich, bei denen ein beträchtliches Risiko besteht, dass sich ihre Buchwerte innerhalb des nächsten Geschäftsjahrs wesentlich verändern, wenn diese am Abschlussstichtag zum beizulegenden Zeitwert auf der Basis eines an einem aktiven Markt notierten Preises für einen identischen Vermögenswert oder eine identische Schuld bewertet werden. Zwar besteht die Möglichkeit einer wesentlichen Änderung der beizulegenden Zeitwerte innerhalb des nächsten Geschäftsjahrs, doch sind diese Änderungen nicht auf Annahmen oder sonstige Quellen einer Schätzungsunsicherheit am Abschlussstichtag zurückzuführen.
+
+129 Ein Unternehmen macht die in Paragraph 125 vorgeschriebenen Angaben auf eine Weise, die es den Adressaten erleichtert, die Ermessensausübung des Managements bezüglich der Zukunft und anderer wesentlicher Quellen von Schätzungsunsicherheiten zu verstehen. Die Art und der Umfang der gemachten Angaben hängen von der Art der Annahmen sowie anderen Umständen ab. Es folgen einige Beispiele für die Art der erforderlichen Angaben:
+a) 
+
+die Art der Annahme bzw. der sonstigen Schätzungsunsicherheit,
+b) 
+
+die Sensitivität der Buchwerte hinsichtlich der Methoden, der Annahmen und der Schätzungen, die der Berechnung der Buchwerte zugrunde liegen unter Angabe der Gründe für die Sensitivität,
+c) 
+
+die erwartete Beseitigung einer Unsicherheit sowie die Bandbreite der angemessenerweise für möglich gehaltenen Gewinne oder Verluste innerhalb des nächsten Geschäftsjahrs bezüglich der Buchwerte der betreffenden Vermögenswerte und Schulden, und
+d) 
+
+eine Erläuterung der Anpassungen früherer Annahmen bezüglich solcher Vermögenswerte und Schulden, sofern die Unsicherheit weiter bestehen bleibt.
+
+130 Dieser Standard schreibt einem Unternehmen nicht die Angabe von Budgets oder Prognosen im Rahmen des Paragraphen 125 vor.
+
+131 Manchmal ist die Angabe des Umfangs der möglichen Auswirkungen einer Annahme bzw. einer anderen Quelle von Schätzungsunsicherheiten am Abschlussstichtag undurchführbar. In solchen Fällen hat das Unternehmen anzugeben, dass es aufgrund bestehender Kenntnisse im Rahmen des Möglichen liegt, dass innerhalb des nächsten Geschäftsjahrs von der Annahme abweichende Ergebnisse eine wesentliche Anpassung des Buchwerts der betreffenden Vermögenswerte bzw. Schulden erforderlich machen könnten. In allen Fällen hat das Unternehmen die Art und den Buchwert der von der Annahme betroffenen einzelnen Vermögenswerte und Schulden (bzw. Gruppen von Vermögenswerten oder Schulden) anzugeben.
+
+132 Die in Paragraph 122 vorgeschriebenen Angaben zu Ermessensentscheidungen des Managements bei der Anwendung der Rechnungslegungsmethoden des Unternehmens gelten nicht für die Angabe der Quellen von Schätzungsunsicherheiten gemäß Paragraph 125.
+
+133 Andere IFRS verlangen die Angabe einiger Annahmen, die ansonsten gemäß Paragraph 125 erforderlich wären. Nach IAS 37 sind beispielsweise unter bestimmten Voraussetzungen die wesentlichen Annahmen bezüglich künftiger Ereignisse anzugeben, die die Rückstellungsarten beeinflussen könnten. Nach IFRS 13 Bewertung zum beizulegenden Zeitwert sind die wesentlichen Annahmen (einschließlich des Bewertungsverfahrens/der Bewertungsverfahren und der Eingangsparameter) anzugeben, die das Unternehmen in die Ermittlung des beizulegenden Zeitwerts von Vermögenswerten und Schulden einfließen lässt, die zum beizulegenden Zeitwert bilanziert werden.
+
+Kapital
+
+134   Ein Unternehmen hat Angaben zu machen, die den Abschlussadressaten eine Beurteilung seiner Ziele, Methoden und Prozesse des Kapitalmanagements ermöglichen.
+
+135 Zur Einhaltung des Paragraphen 134 hat das Unternehmen die folgenden Angaben zu machen:
+a) 
+
+qualitative Angaben zu seinen Zielen, Methoden und Prozessen beim Kapitalmanagement, einschließlich
+i) 
+
+einer Beschreibung dessen, was als Kapital gemanagt wird,
+ii) 
+
+für den Fall, dass ein Unternehmen externen Kapitalanforderungen unterliegt — der Art dieser Anforderungen und der Art und Weise, wie sie in das Kapitalmanagement einbezogen werden, und
+iii) 
+
+Angaben darüber, wie es seine Ziele für das Kapitalmanagement erfüllt,
+b) 
+
+zusammenfassende quantitative Angaben darüber, was als Kapital gemanagt wird. Einige Unternehmen betrachten bestimmte finanzielle Verbindlichkeiten (wie einige Formen nachrangiger Verbindlichkeiten) als Teil des Kapitals. Für andere Unternehmen hingegen fallen bestimmte Eigenkapitalbestandteile (wie solche, die aus der Absicherung von Zahlungsströmen resultieren) nicht unter das Kapital,
+c) 
+
+jede Veränderung, die gegenüber der vorangegangenen Periode bei (a) und (b) eingetreten ist,
+d) 
+
+Angaben darüber, ob es in der Periode alle etwaigen externen Kapitalanforderungen erfüllt hat, denen es unterliegt,
+e) 
+
+für den Fall, dass das Unternehmen solche externen Kapitalanforderungen nicht erfüllt hat, die Konsequenzen dieser Nichterfüllung.
+
+Das Unternehmen stützt die vorstehend genannten Angaben auf die Informationen, die den Mitgliedern des Managements in Schlüsselpositionen intern vorgelegt werden.
+
+136 Ein Unternehmen kann sein Kapital auf unterschiedliche Weise managen und einer Reihe unterschiedlicher Kapitalanforderungen unterliegen. So kann ein Konglomerat im Versicherungs- und Bankgeschäft tätige Unternehmen umfassen, wobei diese Unternehmen ihrer Tätigkeit in verschiedenen Rechtskreisen nachgehen können. Würden zusammengefasste Angaben zu Kapitalanforderungen und zur Art und Weise des Kapitalmanagements keine sachdienlichen Informationen ergeben oder den Abschlussadressaten ein verzerrtes Bild der Kapitalressourcen eines Unternehmens vermitteln, so hat das Unternehmen zu jeder Kapitalanforderung, der es unterliegt, gesonderte Angaben zu machen.
+
+Als Eigenkapital eingestufte kündbare Finanzinstrumente
+
+136A   Zu kündbaren Finanzinstrumenten, die als Eigenkapitalinstrumente eingestuft sind, hat ein Unternehmen folgende Angaben zu machen (sofern diese nicht bereits an anderer Stelle zu finden sind):
+a) 
+
+zusammengefasste quantitative Daten zu dem als Eigenkapital eingestuften Betrag,
+b) 
+
+Ziele, Methoden und Verfahren, mit deren Hilfe das Unternehmen seiner Verpflichtung nachkommen will, die Instrumente zurückzukaufen oder zunehmen, wenn die Inhaber dies verlangen, einschließlich aller Änderungen gegenüber der vorangegangenen Periode,
+c) 
+
+der bei Rücknahme oder Rückkauf dieser Klasse von Finanzinstrumenten erwartete Mittelabfluss und
+d) 
+
+Informationen darüber, wie der bei Rücknahme oder Rückkauf erwartete Mittelabfluss ermittelt wurde.
+
+Weitere Angaben
+
+137   Das Unternehmen hat im Anhang Folgendes anzugeben:
+a) 
+
+die Dividendenzahlungen des Unternehmens, die vorgeschlagen oder beschlossen wurden, bevor der Abschluss zur Veröffentlichung freigegeben wurde, die aber nicht als Ausschüttungen an die Eigentümer während der Periode im Abschluss erfasst wurden, sowie den Betrag je Anteil und
+b) 
+
+den Betrag der kumulierten noch nicht erfassten Vorzugsdividenden.
+
+138   Ein Unternehmen hat Folgendes anzugeben, wenn diese Angaben nicht schon an anderer Stelle in Informationen enthalten sind, die zusammen mit dem Abschluss veröffentlicht werden:
+a) 
+
+den Sitz und die Rechtsform des Unternehmens, das Land, in dem es als juristische Person registriert ist, und die Adresse des eingetragenen Sitzes (oder des Hauptgeschäftssitzes, wenn dieser vom eingetragenen Sitz abweicht),
+b) 
+
+eine Beschreibung der Art der Geschäftstätigkeit des Unternehmens und seiner Haupttätigkeiten,
+c) 
+
+den Namen des Mutterunternehmens und des obersten Mutterunternehmens des Konzerns und
+d) 
+
+wenn seine Lebensdauer begrenzt ist, die Angabe der Lebensdauer.
+
+ÜBERGANGSVORSCHRIFTEN UND ZEITPUNKT DES INKRAFTTRETENS
+
+139 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen Standard auf eine frühere Periode an, hat es dies anzugeben.
+
+139A Durch IFRS 27 (in der 2008 geänderten Fassung) wurde Paragraph 106 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IAS 27 (geändert 2008) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderung anzuwenden. Diese Änderung ist rückwirkend anzuwenden.
+
+139B Durch Kündbare Finanzinstrumente und bei Liquidation entstehende Verpflichtungen (im Februar 2008 veröffentlichte Änderungen an IAS 32 und IAS 1) wurden der Paragraph 138 geändert und die Paragraphen 8A, 80A und 136A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, so muss es dies angeben und gleichzeitig die entsprechenden Änderungen an IAS 32, IAS 39, IFRS 7 und IFRIC 2 Geschäftsanteile an Genossenschaften und ähnliche Instrumente anwenden.
+
+139C Die Paragraphen 68 und 71 wurden im Rahmen der Verbesserungen der IFRS vom Mai 2008 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+▼M3
+
+139D [gestrichen]
+
+▼B
+
+139E [gestrichen]
+
+139F Im Rahmen der Verbesserungen der IFRS vom Mai 2010 wurden die Paragraphen 106 und 107 geändert und Paragraph 106A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2011 beginnen. Eine frühere Anwendung ist zulässig.
+
+139G [gestrichen]
+
+139H Durch IFRS 10 und IFRS 12, veröffentlicht im Mai 2011, wurden die Paragraphen 4, 119, 123 und 124 geändert. Ein Unternehmen hat diese Änderungen anzuwenden, wenn es IFRS 10 und IFRS 12 anwendet.
+
+139I Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Paragraphen 128 und 133 geändert. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+139J Mit Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurden die Paragraphen 7, 10, 82, 85–87, 90, 91, 94, 100 und 115 geändert, die Paragraphen 10A, 81A, 81B und 82A eingefügt und die Paragraphen 12, 81, 83 und 84 gestrichen. Unternehmen haben diese Änderungen auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2012 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+139K Durch IAS 19 Leistungen an Arbeitnehmer (in der im Juni 2011 geänderten Fassung) wurde die Definition für „sonstiges Ergebnis“ in Paragraph 7 und Paragraph 96 geändert. Ein Unternehmen hat diese Änderungen anzuwenden, wenn es IAS 19 (in der im Juni 2011 geänderten Fassung) anwendet.
+
+139L Mit den im Mai 2012 veröffentlichten Jährlichen Verbesserungen, Zyklus 2009–2011 wurden die Paragraphen 10, 38 und 41 geändert, die Paragraphen 39–40 gestrichen sowie die Paragraphen 38A–38D und 40A–40D eingefügt. Diese Änderung ist rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+139M [gestrichen]
+
+139N Mit dem im Mai 2014 veröffentlichten IFRS 15 Erlöse aus Verträgen mit Kunden wurde Paragraph 34 geändert. Wendet ein Unternehmen IFRS 15 an, hat es diese Änderung ebenfalls anzuwenden.
+
+139O Durch IFRS 9 (in der im Juli 2014 veröffentlichten Fassung) wurden die Paragraphen 7, 68, 71, 82, 93, 95, 96, 106 und 123 geändert und die Paragraphen 139E, 139G und 139M gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+139P Mit der im Dezember 2014 veröffentlichten Verlautbarung Angabeninitiative (Änderungen an IAS 1) wurden die Paragraphen 10, 31, 54–55, 82A, 85, 113–114, 117, 119 und 122 geändert, die Paragraphen 30A, 55A und 85A–85B eingefügt und die Paragraphen 115 und 120 gestrichen. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Die Unternehmen sind nicht verpflichtet, in Bezug auf diese Änderungen die in den Paragraphen 28–30 von IAS 8 geforderten Angaben zu machen.
+
+139Q Durch IFRS 16 Leasingverhältnisse, veröffentlicht im Januar 2016, wurde Paragraph 123 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+139R Durch IFRS 17, veröffentlicht im Mai 2017, wurden die Paragraphen 7, 54 und 82 geändert. Mit der im Juni 2020 veröffentlichten Verlautbarung Änderungen an IFRS 17, wurde Paragraph 54 geändert. Wendet ein Unternehmen IFRS 17 an, sind diese Änderungen ebenfalls anzuwenden.
+
+139S Durch die 2018 veröffentlichte Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards wurden die Paragraphen 7, 15, 19–20, 23–24, 28 und 89 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig, wenn das Unternehmen gleichzeitig alle anderen mit der Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards einhergehenden Änderungen anwendet. Die Änderungen an IAS 1 sind gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend anzuwenden. Sollte das Unternehmen jedoch feststellen, dass eine rückwirkende Anwendung nicht durchführbar oder mit unangemessenem Kosten- oder Zeitaufwand verbunden wäre, hat es die Änderungen an IAS 1 mit Verweis auf die Paragraphen 23–28, 50–53 und 54F von IAS 8 anzuwenden.
+
+139T Mit der im Oktober 2018 veröffentlichten Verlautbarung Definition von „wesentlich“ (Änderungen an IAS 1 und IAS 8) wurden Paragraph 7 von IAS 1 und Paragraph 5 von IAS 8 geändert und Paragraph 6 von IAS 8 gestrichen. Diese Änderungen sind prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+▼M3
+
+139U Durch Einstufung von Schulden als kurz- oder langfristig, veröffentlicht im Januar 2020, wurden die Paragraphen 69, 73, 74 und 76 geändert und die Paragraphen 72A, 75A, 76A und 76B eingefügt. Diese Änderungen sind rückwirkend gemäß IAS 8 erstmals in der Berichtsperiode eines am oder nach dem 1. Januar 2024 beginnenden Geschäftsjahrs anzuwenden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode nach Veröffentlichung von Langfristige Schulden mit Nebenbedingungen (siehe Paragraph 139W) an, so hat es auf diese Periode auch Langfristige Schulden mit Nebenbedingungen anzuwenden. Wendet ein Unternehmen Einstufung von Schulden als kurz- oder langfristig auf eine frühere Periode an, so hat es dies anzugeben.
+
+▼B
+
+139V Mit der im Februar 2021 veröffentlichten Verlautbarung Angabe von Bilanzierungs- und Bewertungsmethoden wurden die Paragraphen 7, 10, 114, 117 und 122 geändert, die Paragraphen 117A–117E angefügt und die Paragraphen 118, 119 und 121 gestrichen. Außerdem wurde mit der genannten Verlautbarung das IFRS-Leitliniendokument 2 Fällen von Wesentlichkeitsentscheidungen geändert. Die Änderungen an IAS 1 sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2023 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+▼M3
+
+139W Durch Langfristige Schulden mit Nebenbedingungen, veröffentlicht im Oktober 2022, wurden die Paragraphen 60, 71, 72A, 74 und 139U geändert und die Paragraphen 72B und 76ZA eingefügt. Ein Unternehmen hat
+a) 
+
+die Änderung an Paragraph 139U unmittelbar bei Veröffentlichung von Langfristige Schulden mit Nebenbedingungen anzuwenden;
+b) 
+
+alle anderen Änderungen rückwirkend gemäß IAS 8 auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2024 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, so hat es auf diese Periode auch Einstufung von Schulden als kurz- oder langfristig anzuwenden. Wendet ein Unternehmen Langfristige Schulden mit Nebenbedingungen auf eine frühere Periode an, hat es dies anzugeben.
+
+▼B
+
+RÜCKNAHME VON IAS 1 (ÜBERARBEITET 2003)
+
+140 Der vorliegende Standard ersetzt IAS 1 Darstellung des Abschlusses (überarbeitet 2003) in der 2005 geänderten Fassung.

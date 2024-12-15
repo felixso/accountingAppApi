@@ -1,0 +1,339 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 34
+
+Zwischenberichterstattung
+
+ZIELSETZUNG
+
+Die Zielsetzung dieses Standards ist, den Mindestinhalt eines Zwischenberichts sowie die Grundsätze für die Erfassung und Bewertung in einem vollständigen oder verkürzten Abschluss für eine Zwischenberichtsperiode vorzuschreiben. Eine rechtzeitige und verlässliche Zwischenberichterstattung erlaubt Investoren, Gläubigern und anderen Adressaten, die Fähigkeit eines Unternehmens, Periodenüberschüsse und Mittelzuflüsse zu erzeugen, sowie seine Vermögenslage und Liquidität besser zu beurteilen.
+
+ANWENDUNGSBEREICH
+
+1 Dieser Standard schreibt weder vor, welche Unternehmen Zwischenberichte zu veröffentlichen haben, noch wie häufig oder innerhalb welchen Zeitraums nach dem Ablauf einer Zwischenberichtsperiode dies zu erfolgen hat. Jedoch verlangen Regierungen, Aufsichtsbehörden, Börsen und sich mit der Rechnungslegung befassende Berufsverbände oft von Unternehmen, deren Schuld- oder Eigenkapitaltitel öffentlich gehandelt werden, die Veröffentlichung von Zwischenberichten. Dieser Standard ist anzuwenden, wenn ein Unternehmen pflichtgemäß oder freiwillig einen Zwischenbericht gemäß den International Financial Reporting Standards (IFRS) veröffentlicht. Das International Accounting Standards Committee ( 21 ) empfiehlt Unternehmen, deren Wertpapiere öffentlich gehandelt werden, Zwischenberichte bereitzustellen, die hinsichtlich Erfassung, Bewertung und Angaben den Grundsätzen dieses Standards entsprechen. Unternehmen, deren Wertpapiere öffentlich gehandelt werden, wird insbesondere empfohlen,
+a) 
+
+Zwischenberichte wenigstens zum Ende der ersten Hälfte des Geschäftsjahrs bereitzustellen und
+b) 
+
+ihre Zwischenberichte innerhalb von 60 Tagen nach Abschluss der Zwischenberichtsperiode verfügbar zu machen.
+
+2 Jeder Finanzbericht, ob Abschluss eines Geschäftsjahrs oder Zwischenbericht, ist hinsichtlich seiner Konformität mit den IFRS gesondert zu beurteilen. Die Tatsache, dass ein Unternehmen während eines bestimmten Geschäftsjahrs keine Zwischenberichterstattung vorgenommen hat oder Zwischenberichte erstellt hat, die nicht diesem Standard entsprechen, darf das Unternehmen nicht davon abhalten, den IFRS entsprechende Abschlüsse eines Geschäftsjahrs zu erstellen, wenn ansonsten auch so verfahren wird.
+
+3 Wenn der Zwischenbericht eines Unternehmens als mit den IFRS übereinstimmend bezeichnet wird, hat er allen Vorschriften dieses Standards zu entsprechen. Paragraph 19 schreibt dafür bestimmte Angaben vor.
+
+DEFINITIONEN
+
+4   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Eine Zwischenberichtsperiode ist eine Finanzberichtsperiode, die kürzer als ein gesamtes Geschäftsjahr ist.
+Ein Zwischenbericht ist ein Finanzbericht, der einen vollständigen Abschluss (wie in IAS 1 Darstellung des Abschlusses (in der 2007 überarbeiteten Fassung) beschrieben) oder einen verkürzten Abschluss (wie in diesem Standard beschrieben) für eine Zwischenberichtsperiode enthält.
+
+INHALT EINES ZWISCHENBERICHTS
+
+5 IAS 1 definiert für einen vollständigen Abschluss folgende Bestandteile:
+a) 
+
+eine Bilanz zum Abschlussstichtag,
+b) 
+
+eine Darstellung von Gewinn oder Verlust und sonstigem Ergebnis („Gesamtergebnisrechnung“) für die Periode,
+c) 
+
+eine Eigenkapitalveränderungsrechnung für die Periode,
+d) 
+
+eine Kapitalflussrechnung für die Periode,
+e) 
+
+den Anhang einschließlich wesentlicher Angaben zu Rechnungslegungsmethoden und sonstiger Erläuterungen,
+ea) 
+
+Vergleichsinformationen für die vorangegangene Periode gemäß den Paragraphen 38 und 38A von IAS 1 und
+f) 
+
+eine Bilanz zu Beginn der vorangegangenen Periode, wenn ein Unternehmen eine Rechnungslegungsmethode rückwirkend anwendet oder Posten im Abschluss rückwirkend anpasst oder gemäß den Paragraphen 40A–40D von IAS 1 umgliedert.
+
+Ein Unternehmen kann für diese Bestandteile andere Bezeichnungen als die in diesem Standard vorgesehenen Begriffe verwenden. So kann ein Unternehmen beispielsweise die Bezeichnung „Gesamtergebnisrechnung“ anstelle von „Darstellung von Gewinn oder Verlust und sonstigem Ergebnis“ verwenden.
+
+6 Im Interesse rechtzeitiger Informationen, aus Kostengesichtspunkten und um eine Wiederholung bereits berichteter Informationen zu vermeiden, kann ein Unternehmen dazu verpflichtet sein oder sich freiwillig dafür entscheiden, an Zwischenberichtsterminen weniger Informationen bereitzustellen als in seinen Abschlüssen eines Geschäftsjahrs. Gemäß diesem Standard muss ein Zwischenbericht mindestens einen verkürzten Abschluss und ausgewählte erläuternde Anhangangaben enthalten. Der Zwischenbericht soll eine Aktualisierung des letzten Abschlusses eines Geschäftsjahrs darstellen. Dementsprechend konzentriert er sich auf neue Tätigkeiten, Ereignisse und Umstände und wiederholt nicht bereits berichtete Informationen.
+
+7 Die Vorschriften in diesem Standard sollen den Unternehmen nicht verbieten bzw. sie nicht davon abhalten, anstelle eines verkürzten Abschlusses und ausgewählter erläuternder Anhangangaben einen vollständigen Abschluss (wie in IAS 1 beschrieben) als Zwischenbericht zu veröffentlichen. Dieser Standard verbietet nicht und hält Unternehmen auch nicht davon ab, mehr als das Minimum der von diesem Standard vorgeschriebenen Posten oder ausgewählten erläuternden Anhangangaben in verkürzte Zwischenberichte aufzunehmen. Die in diesem Standard enthaltenen Anwendungsleitlinien für Erfassung und Bewertung gelten auch für vollständige Abschlüsse einer Zwischenberichtsperiode; solche Abschlüsse würden sowohl alle von diesem Standard verlangten Angaben (insbesondere die ausgewählten Anhangangaben in Paragraph 16A) als auch die von anderen IFRS geforderten Angaben umfassen.
+
+Mindestbestandteile eines Zwischenberichts
+
+8   Ein Zwischenbericht hat mindestens die folgenden Bestandteile zu enthalten:
+a) 
+
+eine verkürzte Bilanz,
+b) 
+
+eine verkürzte Darstellung oder verkürzte Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis,
+c) 
+
+eine verkürzte Eigenkapitalveränderungsrechnung,
+d) 
+
+eine verkürzte Kapitalflussrechnung und
+e) 
+
+ausgewählte erläuternde Anhangangaben.
+
+8A   Stellt ein Unternehmen die Ergebnisbestandteile gemäß Paragraph 10A von IAS 1 (in der 2011 geänderten Fassung) in einer gesonderten Gewinn- und Verlustrechnung dar, so hat es die verkürzten Zwischenberichtsdaten dort auszuweisen.
+
+Form und Inhalt von Zwischenabschlüssen
+
+9   Wenn ein Unternehmen einen vollständigen Abschluss in seinem Zwischenbericht veröffentlicht, haben Form und Inhalt der Bestandteile des Abschlusses die Vorschriften von IAS 1 an vollständige Abschlüsse zu erfüllen.
+
+10   Wenn ein Unternehmen einen verkürzten Abschluss in seinem Zwischenbericht veröffentlicht, hat dieser verkürzte Abschluss mindestens jede der Überschriften und Zwischensummen zu enthalten, die in seinem letzten Abschluss eines Geschäftsjahrs enthalten waren, sowie die von diesem Standard vorgeschriebenen ausgewählten erläuternden Anhangangaben. Zusätzliche Posten oder Anhangangaben sind einzubeziehen, wenn ihr Weglassen den Zwischenbericht irreführend erscheinen lassen würde.
+
+11   Ein Unternehmen hat in dem Abschlussbestandteil, der die einzelnen Gewinn- oder Verlustposten für eine Zwischenberichtsperiode darstellt, das unverwässerte und das verwässerte Ergebnis je Aktie für diese Periode darzustellen, wenn das Unternehmen IAS 33 Ergebnis je Aktie unterliegt. ( 22 )
+
+11A   Stellt ein Unternehmen die Ergebnisbestandteile gemäß Paragraph 10A von IAS 1 (in der 2011 geänderten Fassung) in einer gesonderten Gewinn- und Verlustrechnung dar, so hat es das unverwässerte und das verwässerte Ergebnis je Aktie dort auszuweisen.
+
+12 IAS 1 (in der 2007 überarbeiteten Fassung) enthält Anwendungsleitlinien zur Struktur des Abschlusses. Die Anwendungsleitlinien für IAS 1 geben Beispiele dafür, auf welche Weise die Darstellung der Bilanz, der Gesamtergebnisrechnung und der Eigenkapitalveränderungsrechnung erfolgen kann.
+
+14 Ein Zwischenbericht wird auf konsolidierter Basis aufgestellt, wenn der letzte Abschluss eines Geschäftsjahrs des Unternehmens ein Konzernabschluss war. Der Einzelabschluss des Mutterunternehmens stimmt mit dem Konzernabschluss in dem letzten Geschäftsbericht nicht überein oder ist damit nicht vergleichbar. Wenn der Geschäftsbericht eines Unternehmens zusätzlich zum Konzernabschluss den Einzelabschluss des Mutterunternehmens enthält, verlangt oder verbietet dieser Standard nicht die Einbeziehung des Einzelabschlusses des Mutterunternehmens in den Zwischenbericht des Unternehmens.
+
+Erhebliche Ereignisse und Geschäftsvorfälle
+
+15 Ein Unternehmen hat in seinen Zwischenbericht Informationen über Ereignisse und Geschäftsvorfälle aufzunehmen, die für das Verständnis der Veränderungen, die seit Ende des letzten Geschäftsjahrs bei der Vermögens-, Finanz- und Ertragslage des Unternehmens eingetreten sind, erheblich sind. Mit den Informationen über diese Ereignisse und Geschäftsvorfälle hat ein Unternehmen die im letzten Geschäftsbericht enthaltenen einschlägigen Informationen zu aktualisieren.
+
+15A Ein Adressat des Zwischenberichts eines Unternehmens wird auch Zugang zum letzten Geschäftsbericht dieses Unternehmens haben. Der Anhang eines Zwischenberichts muss deshalb keine Informationen enthalten, bei denen es sich nur um relativ unerhebliche Aktualisierungen der im Anhang des letzten Geschäftsberichtes enthaltenen Informationen handelt.
+
+15B Nachstehend eine Aufstellung von Ereignissen und Geschäftsvorfällen, die bei Erheblichkeit angegeben werden müssten. Diese Aufzählung ist nicht abschließend:
+a) 
+
+Abwertung von Vorräten auf den Nettoveräußerungswert und Wertaufholung solcher Abschreibungen,
+b) 
+
+Erfassung eines Aufwands aus der Wertminderung von finanziellen Vermögenswerten, Sachanlagen, immateriellen Vermögenswerten, Vermögenswerten aus Verträgen mit Kunden oder anderen Vermögenswerten sowie Aufholung solcher Wertminderungsaufwendungen,
+c) 
+
+Auflösung etwaiger Rückstellungen für Restrukturierungsmaßnahmen,
+d) 
+
+Anschaffungen und Veräußerungen von Sachanlagen,
+e) 
+
+Verpflichtungen zum Kauf von Sachanlagen,
+f) 
+
+Beendigung von Rechtsstreitigkeiten,
+g) 
+
+Korrekturen von Fehlern aus früheren Perioden,
+h) 
+
+Veränderungen des Geschäftsumfelds oder der wirtschaftlichen Rahmenbedingungen, die sich auf den beizulegenden Zeitwert der finanziellen Vermögenswerte und finanziellen Verbindlichkeiten des Unternehmens auswirken, unabhängig davon, ob diese Vermögenswerte oder Verbindlichkeiten zum beizulegenden Zeitwert oder zu fortgeführten Anschaffungskosten angesetzt werden,
+i) 
+
+jeder Kreditausfall oder Bruch einer Kreditvereinbarung, der nicht am bzw. bis zum Abschlussstichtag beseitigt wurde,
+j) 
+
+Geschäftsvorfälle mit nahestehenden Unternehmen und Personen,
+k) 
+
+Umgliederungen zwischen den verschiedenen Stufen der Fair-Value-Hierarchie, die zur Bestimmung des beizulegenden Zeitwerts von Finanzinstrumenten zugrunde gelegt wird,
+l) 
+
+Änderungen bei der Einstufung finanzieller Vermögenswerte, die auf eine geänderte Zweckbestimmung oder Nutzung dieser Vermögenswerte zurückzuführen sind, und
+m) 
+
+Änderungen bei Eventualverbindlichkeiten oder Eventualforderungen.
+
+15C Für viele der in Paragraph 15B genannten Posten enthalten die einzelnen IFRS Anwendungsleitlinien zu den entsprechenden Angabepflichten. Ist ein Ereignis oder Geschäftsvorfall für das Verständnis der Veränderungen, die seit dem letzten Geschäftsjahr bei der Vermögens-, Finanz- oder Ertragslage eines Unternehmens eingetreten sind, erheblich, sollten die im Abschluss des letzten Geschäftsjahrs dazu enthaltenen Angaben im Zwischenbericht des Unternehmens erläutert und aktualisiert werden.
+
+16 [gestrichen]
+
+Weitere Angaben
+
+16A   Zusätzlich zur Angabe erheblicher Ereignisse und Geschäftsvorfälle gemäß den Paragraphen 15–15C hat ein Unternehmen die nachstehenden Informationen in die Anhangangaben seines Zwischenabschlusses aufzunehmen oder an anderer Stelle des Zwischenberichts offenzulegen. Die folgenden Angaben sind entweder im Zwischenabschluss selbst zu machen oder, mittels Querverweisen im Zwischenabschluss, in anderen Erklärungen, wie beispielsweise einem Lagebericht oder einem Bericht über die Risiken, die für die Abschlussadressaten zu denselben Bedingungen und zu demselben Zeitpunkt wie der Zwischenabschluss verfügbar sind. Sind die durch Querverweise aufgenommenen Angaben für die Abschlussadressaten nicht zu denselben Bedingungen und zu demselben Zeitpunkt verfügbar, gilt der Zwischenabschluss als unvollständig. Diese Angaben sind normalerweise auf einen Zeitraum zu beziehen, der vom Geschäftsjahresbeginn bis zum Zwischenberichtstermin währt:
+a) 
+
+eine Erklärung, dass im Zwischenabschluss dieselben Rechnungslegungsmethoden und Berechnungsmethoden angewandt werden wie im letzten Abschluss eines Geschäftsjahrs oder, wenn diese Methoden geändert worden sind, eine Beschreibung der Art und Auswirkung der Änderung.
+b) 
+
+erläuternde Bemerkungen über die Saisoneinflüsse oder die Konjunktureinflüsse auf die Geschäftstätigkeit innerhalb der Zwischenberichtsperiode.
+c) 
+
+Art und Umfang von Sachverhalten, die Vermögenswerte, Schulden, Eigenkapital, Periodenergebnis oder Zahlungsströme beeinflussen und die aufgrund ihrer Art, ihres Ausmaßes oder ihrer Häufigkeit ungewöhnlich sind.
+d) 
+
+Art und Umfang von Änderungen bei Schätzungen von Beträgen, die in früheren Zwischenberichtsperioden des aktuellen Geschäftsjahrs dargestellt wurden, oder Änderungen bei Schätzungen von Beträgen, die in früheren Geschäftsjahren dargestellt wurden.
+e) 
+
+Emissionen, Rückkäufe und Rückzahlungen von Schuldverschreibungen oder Eigenkapitaltiteln.
+f) 
+
+gezahlte Dividenden (zusammengefasst oder je Anteil), gesondert für Stammanteile und sonstige Anteile.
+g) 
+
+die folgenden Segmentinformationen (die Angabe von Segmentinformationen in einem Zwischenbericht eines Unternehmens wird nur verlangt, wenn IFRS 8 Geschäftssegmente das Unternehmen zur Angabe der Segmentinformationen in seinem Abschluss eines Geschäftsjahrs verpflichtet):
+i) 
+
+Umsatzerlöse von externen Kunden, wenn sie in den Messwert des Segmentgewinns oder -verlusts mit einbezogen sind, der vom Hauptentscheidungsträger überprüft wird oder diesem ansonsten regelmäßig übermittelt wird.
+ii) 
+
+Umsatzerlöse, die zwischen den Segmenten erwirtschaftet werden, wenn sie in den Messwert des Segmentgewinns oder-verlusts mit einbezogen sind, der vom Hauptentscheidungsträger überprüft wird oder diesem ansonsten regelmäßig übermittelt wird.
+iii) 
+
+den Messwert des Segmentgewinns oder -verlusts.
+iv) 
+
+einen Messwert der gesamten Vermögenswerte und der gesamten Schulden für ein bestimmtes berichtspflichtiges Segment, wenn diese Beträge dem Hauptentscheidungsträger regelmäßig übermittelt werden und deren Höhe sich im Vergleich zu den Angaben im letzten Abschluss eines Geschäftsjahrs für dieses berichtspflichtige Segment wesentlich verändert hat.
+v) 
+
+eine Beschreibung der Unterschiede im Vergleich zum letzten Abschluss eines Geschäftsjahrs, die sich in der Segmentierungsgrundlage oder in der Bemessungsgrundlage des Segmentgewinns oder -verlusts ergeben haben.
+vi) 
+
+eine Überleitungsrechnung für den Gesamtbetrag der Messwerte des Gewinns oder Verlusts der berichtspflichtigen Segmente zum Gewinn oder Verlust des Unternehmens vor Steueraufwand (Steuerertrag) und Aufgabe von Geschäftsbereichen. Weist ein Unternehmen indes berichtspflichtigen Segmenten Posten wie Steueraufwand (Steuerertrag) zu, kann das Unternehmen seine Überleitungsrechnung für den Gesamtbetrag der Messwerte des Gewinns oder Verlusts der Segmente zum Gewinn oder Verlust des Unternehmens unter Einbeziehung dieser Posten erstellen. Wesentliche Überleitungsposten sind in dieser Überleitungsrechnung gesondert zu identifizieren und zu beschreiben.
+h) 
+
+nach der Zwischenberichtsperiode eingetretene Ereignisse, die im Abschluss der Zwischenberichtsperiode nicht berücksichtigt wurden.
+i) 
+
+die Auswirkung von Änderungen in der Zusammensetzung eines Unternehmens während der Zwischenberichtsperiode, einschließlich Unternehmenszusammenschlüsse, der Erlangung oder des Verlusts der Beherrschung über Tochterunternehmen und langfristige Finanzinvestitionen, Restrukturierungsmaßnahmen sowie der Aufgabe von Geschäftsbereichen. Im Fall von Unternehmenszusammenschlüssen hat das Unternehmen die in IFRS 3 Unternehmenszusammenschlüsse verlangten Angaben zu machen.
+j) 
+
+bei Finanzinstrumenten die in den Paragraphen 91–93(h), 94–96, 98 und 99 von IFRS 13 Bewertung zum beizulegenden Zeitwert und in den Paragraphen 25, 26 und 28–30 von IFRS 7 Finanzinstrumente: Angaben vorgeschriebenen Angaben zum beizulegenden Zeitwert.
+k) 
+
+für Unternehmen, die Investmentgesellschaften im Sinne von IFRS 10 Konzernabschlüsse werden oder es nicht mehr sind, die in Paragraph 9B von IFRS 12 Angaben zu Anteilen an anderen Unternehmen verlangten Angaben.
+l) 
+
+die gemäß den Anforderungen der Paragraphen 114–115 von IFRS 15 Erlöse aus Verträgen mit Kunden aufgeschlüsselten Erlöse aus Verträgen mit Kunden.
+
+17–18 [gestrichen]
+
+Angabe der Übereinstimmung mit den IFRS
+
+19   Wenn der Zwischenbericht eines Unternehmens den Vorschriften dieses Standards entspricht, ist dies anzugeben. Ein Zwischenbericht darf nur dann als mit den IFRS übereinstimmend bezeichnet werden, wenn er allen Vorschriften der IFRS entspricht.
+
+Perioden, für die Zwischenabschlüsse aufzustellen sind
+
+20   Zwischenberichte haben (verkürzte oder vollständige) Zwischenabschlüsse für Perioden wie folgt zu enthalten:
+a) 
+
+eine Bilanz zum Ende der aktuellen Zwischenberichtsperiode und eine vergleichende Bilanz zum Ende des unmittelbar vorangegangenen Geschäftsjahrs.
+b) 
+
+Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis für die aktuelle Zwischenberichtsperiode sowie vom Beginn des aktuellen Geschäftsjahrs bis zum Zwischenberichtstermin kumuliert, mit vergleichenden Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis für die vergleichbaren Zwischenberichtsperioden (zur aktuellen und zu der vom Beginn des Geschäftsjahrs bis zum kumulierten Zwischenberichtstermin fortgeführten Zwischenberichtsperiode) des unmittelbar vorangegangenen Geschäftsjahrs. Gemäß IAS 1 (in der 2011 geänderten Fassung) kann ein Zwischenbericht für jede Berichtsperiode eine Darstellung/Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis enthalten.
+c) 
+
+eine Eigenkapitalveränderungsrechnung vom Beginn des aktuellen Geschäftsjahrs bis zum Zwischenberichtstermin kumuliert, mit einer vergleichenden Aufstellung für die vergleichbare Berichtsperiode vom Beginn des Geschäftsjahrs an bis zum Zwischenberichtstermin des unmittelbar vorangegangenen Geschäftsjahrs.
+d) 
+
+eine vom Beginn des aktuellen Geschäftsjahrs bis zum Zwischenberichtstermin erstellte Kapitalflussrechnung, mit einer vergleichenden Aufstellung für die vergleichbare Berichtsperiode vom Beginn des Geschäftsjahrs an bis zum Zwischenberichtstermin des unmittelbar vorangegangenen Geschäftsjahrs.
+
+21 Für ein Unternehmen, dessen Geschäfte stark saisonabhängig sind, können Finanzinformationen über die zwölf Monate vor dem Zwischenberichtsstichtag sowie Vergleichsinformationen für die vorangegangene zwölfmonatige Berichtsperiode nützlich sein. Dementsprechend wird Unternehmen, deren Geschäfte stark saisonabhängig sind, empfohlen, solche Informationen zusätzlich zu den in dem vorangegangenen Paragraphen verlangten Informationen zu geben.
+
+22 Teil A der zu diesem Standard gehörenden erläuternden Beispiele veranschaulicht die darzustellenden Berichtsperioden von einem Unternehmen, das halbjährlich berichtet, sowie von einem Unternehmen, das vierteljährlich berichtet.
+
+Wesentlichkeit
+
+23   Bei der Entscheidung darüber, wie ein Posten zum Zweck der Zwischenberichterstattung zu erfassen, zu bewerten, einzustufen oder anzugeben ist, ist die Wesentlichkeit im Verhältnis zu den Finanzdaten der Zwischenberichtsperiode einzuschätzen. Bei der Einschätzung der Wesentlichkeit ist zu beachten, dass Bewertungen in der Zwischenberichtsperiode unter Umständen in einem größeren Umfang auf Schätzungen aufbauen als die Bewertungen von jährlichen Finanzdaten.
+
+24 IAS 1 Darstellung des Abschlusses enthält eine Definition für wesentliche Informationen und verlangt die getrennte Angabe wesentlicher Posten, darunter (beispielsweise) aufgegebene Geschäftsbereiche, und IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler verlangt die Angabe von Änderungen von rechnungslegungsbezogenen Schätzungen, von Fehlern und Änderungen der Rechnungslegungsmethoden. Beide Standards enthalten keine quantifizierten Leitlinien hinsichtlich der Wesentlichkeit.
+
+25 Während die Einschätzung der Wesentlichkeit immer Ermessensentscheidungen erfordert, stützt dieser Standard aus Gründen der Verständlichkeit der Zwischenberichtszahlen die Entscheidung über Erfassung und Angabe von Daten auf die Daten für die Zwischenberichtsperiode selbst. So werden beispielsweise ungewöhnliche Posten, Änderungen der Rechnungslegungsmethoden oder der rechnungslegungsbezogenen Schätzungen sowie Fehler auf der Grundlage der Wesentlichkeit im Verhältnis zu den Daten der Zwischenberichtsperiode erfasst und angegeben, um irreführende Schlussfolgerungen zu vermeiden, die aus der Nichtangabe resultieren könnten. Das übergeordnete Ziel ist sicherzustellen, dass ein Zwischenbericht alle Informationen enthält, die für ein Verständnis der Vermögens-, Finanz- und Ertragslage eines Unternehmens während der Zwischenberichtsperiode wesentlich sind.
+
+ANGABEN IN JÄHRLICHEN ABSCHLÜSSEN
+
+26   Wenn eine Schätzung eines in einer Zwischenberichtsperiode berichteten Betrags während der abschließenden Zwischenberichtsperiode eines Geschäftsjahrs erheblich geändert wird, aber kein gesonderter Finanzbericht für diese abschließende Zwischenberichtsperiode veröffentlicht wird, sind die Art und der Betrag dieser Änderung der Schätzung im Anhang des jährlichen Abschlusses eines Geschäftsjahrs für dieses Geschäftsjahr anzugeben.
+
+27 IAS 8 verlangt die Angabe der Art und (falls durchführbar) des Betrags einer Änderung der Schätzung, die entweder eine wesentliche Auswirkung auf die Berichtsperiode hat oder von der angenommen wird, dass sie eine wesentliche Auswirkung auf folgende Berichtsperioden haben wird. Paragraph 16A(d) dieses Standards verlangt entsprechende Angaben in einem Zwischenbericht. Beispiele umfassen Änderungen der Schätzung in der abschließenden Zwischenberichtsperiode, die sich auf Abwertungen von Vorräten, Restrukturierungsmaßnahmen oder Wertminderungsaufwand beziehen, die in einer früheren Zwischenberichtsperiode des Geschäftsjahrs berichtet wurden. Die vom vorangegangenen Paragraphen verlangten Angaben stimmen mit den Vorschriften von IAS 8 überein und sollen eng im Anwendungsbereich sein — sie beziehen sich nur auf die Änderung einer Schätzung. Ein Unternehmen ist nicht dazu verpflichtet, zusätzliche Finanzinformationen der Zwischenberichtsperiode in seinen Abschluss eines Geschäftsjahrs einzubeziehen.
+
+ERFASSUNG UND BEWERTUNG
+
+Dieselben Rechnungslegungsmethoden wie im jährlichen Abschluss
+
+28   Ein Unternehmen hat in seinen Zwischenabschlüssen dieselben Rechnungslegungsmethoden anzuwenden, die es in seinen jährlichen Abschlüssen eines Geschäftsjahrs anwendet, mit Ausnahme von Änderungen der Rechnungslegungsmethoden, die nach dem Stichtag des letzten Abschlusses eines Geschäftsjahrs vorgenommen wurden und die in dem nächsten Abschluss eines Geschäftsjahrs wiederzugeben sind. Die Häufigkeit der Berichterstattung eines Unternehmens (jährlich, halb- oder vierteljährlich) darf die Höhe des Jahresergebnisses jedoch nicht beeinflussen. Um diese Zielsetzung zu erreichen, sind Bewertungen in Zwischenberichten unterjährig auf einer vom Geschäftsjahresbeginn bis zum Zwischenberichtstermin kumulierten Grundlage vorzunehmen.
+
+29 Durch die Vorschrift, dass ein Unternehmen dieselben Rechnungslegungsmethoden in seinen Zwischenabschlüssen wie in seinen Abschlüssen eines Geschäftsjahrs anzuwenden hat, könnte der Eindruck entstehen, dass Bewertungen in der Zwischenberichtsperiode so vorgenommen werden, als ob jede Zwischenberichtsperiode als unabhängige Berichterstattungsperiode alleine zu betrachten wäre. Bei der Vorschrift, dass die Häufigkeit der Berichterstattung eines Unternehmens nicht die Bewertung seiner Jahresergebnisse beeinflussen darf, erkennt Paragraph 28 jedoch an, dass eine Zwischenberichtsperiode Teil eines umfassenderen Geschäftsjahrs ist. Unterjährige Bewertungen vom Beginn des Geschäftsjahrs bis zum Zwischenberichtstermin können die Änderungen von Schätzungen von Beträgen einschließen, die in früheren Zwischenberichtsperioden des aktuellen Geschäftsjahrs berichtet wurden. Dennoch sind die Grundsätze zur Erfassung von Vermögenswerten, Schulden, Erträgen und Aufwendungen für die Zwischenberichtsperioden dieselben wie in den Jahresabschlüssen.
+
+30 Zur Veranschaulichung:
+a) 
+
+Die Grundsätze zur Erfassung und Bewertung von Aufwendungen aus Abwertungen von Vorräten, Restrukturierungsmaßnahmen oder Wertminderungen in einer Zwischenberichtsperiode sind dieselben wie die, die ein Unternehmen befolgen würde, wenn es nur einen Abschluss eines Geschäftsjahrs aufstellen würde. Wenn jedoch solche Sachverhalte in einer Zwischenberichtsperiode erfasst und bewertet werden und in einer der folgenden Zwischenberichtsperioden des Geschäftsjahrs Schätzungen geändert werden, wird die ursprüngliche Schätzung in der folgenden Zwischenberichtsperiode entweder durch eine Abgrenzung von zusätzlichen Aufwendungen oder durch die Wertaufholung des bereits erfassten Betrags geändert.
+b) 
+
+Ausgaben, die am Ende einer Zwischenberichtsperiode nicht die Definition eines Vermögenswerts erfüllen, werden in der Bilanz nicht abgegrenzt, um entweder zukünftige Informationen darüber abzuwarten, ob die Definition eines Vermögenswerts erfüllt wurde, oder um die Erträge über die Zwischenberichtsperioden innerhalb eines Geschäftsjahrs zu glätten.
+c) 
+
+Ertragsteueraufwand wird in jeder Zwischenberichtsperiode auf der Grundlage der bestmöglichen Schätzung des gewichteten durchschnittlichen jährlichen Ertragsteuersatzes erfasst, der für das gesamte Geschäftsjahr erwartet wird. Beträge, die für den Ertragsteueraufwand in einer Zwischenberichtsperiode abgegrenzt wurden, werden gegebenenfalls in einer nachfolgenden Zwischenberichtsperiode des Geschäftsjahrs angepasst, wenn sich die Schätzung des jährlichen Ertragsteuersatzes ändert.
+
+31 Gemäß dem Rahmenkonzept für die Finanzberichterstattung (Rahmenkonzept) ist unter „Erfassung“ der Einbezug eines Sachverhalts in der Bilanz oder in der Gewinn- und Verlustrechnung, der die Definition eines Abschlusspostens und die Kriterien für die Erfassung erfüllt, zu verstehen. Die Definitionen von Vermögenswerten, Schulden, Erträgen und Aufwendungen sind für die Erfassung sowohl am Abschlussstichtag als auch am Zwischenberichtsstichtag von grundlegender Bedeutung.
+
+32 Für Vermögenswerte werden dieselben Kriterien hinsichtlich der Beurteilung des künftigen wirtschaftlichen Nutzens an Zwischenberichtsterminen und am Ende des Geschäftsjahrs eines Unternehmens angewandt. Ausgaben, die aufgrund ihrer Art am Ende des Geschäftsjahrs nicht die Bedingungen für einen Vermögenswert erfüllen würden, würden diese Bedingungen auch an Zwischenberichtsterminen nicht erfüllen. Gleichfalls hat eine Schuld an einem Zwischenberichtsstichtag ebenso wie am Abschlussstichtag eine zu diesem Zeitpunkt bestehende Verpflichtung darzustellen.
+
+33 Ein essenzielles Merkmal von Erträgen und Aufwendungen ist, dass die entsprechenden Zugänge und Abgänge von Vermögenswerten und Schulden schon stattgefunden haben. Wenn diese Zugänge oder Abgänge stattgefunden haben, werden die zugehörigen Erträge und Aufwendungen erfasst; in allen anderen Fällen werden sie nicht erfasst. Das Rahmenkonzept gestattet jedoch nicht die Erfassung von Sachverhalten in der Bilanz, die nicht die Definition von Vermögenswerten oder Schulden erfüllen.
+
+34 Bei der Bewertung der in seinen Abschlüssen dargestellten Vermögenswerten, Schulden, Erträgen, Aufwendungen und Zahlungsströmen ist es einem Unternehmen, das nur jährlich berichtet, möglich, Informationen zu berücksichtigen, die im Laufe des gesamten Geschäftsjahrs verfügbar werden. Tatsächlich beruhen seine Bewertungen auf einer vom Geschäftsjahresbeginn an bis zum Berichtstermin kumulierten Grundlage.
+
+35 Ein Unternehmen, das halbjährlich berichtet, verwendet Informationen, die in der Jahresmitte oder kurz danach verfügbar sind, um die Bewertungen in seinem Abschluss für die erste sechsmonatige Berichtsperiode durchzuführen, und Informationen, die am Jahresende oder kurz danach verfügbar sind, für die zwölfmonatige Berichtsperiode. Die Bewertungen für die zwölf Monate werden mögliche Änderungen von Schätzungen von Beträgen widerspiegeln, die für die erste sechsmonatige Berichtsperiode angegeben wurden. Die im Zwischenbericht für die erste sechsmonatige Berichtsperiode berichteten Beträge werden nicht rückwirkend angepasst. Die Paragraphen 16A(d) und 26 schreiben jedoch vor, dass Art und Betrag jeder erheblichen Änderung von Schätzungen angegeben wird.
+
+36 Ein Unternehmen, das häufiger als halbjährlich berichtet, bewertet Erträge und Aufwendungen auf einer von Geschäftsjahresbeginn an bis zum Zwischenberichtstermin kumulierten Grundlage für jede Zwischenberichtsperiode, indem es Informationen verwendet, die verfügbar sind, wenn der jeweilige Abschluss aufgestellt wird. Erträge und Aufwendungen, die in der aktuellen Zwischenberichtsperiode dargestellt werden, spiegeln alle Änderungen von Schätzungen von Beträgen wider, die in früheren Zwischenberichtsperioden des Geschäftsjahrs dargestellt wurden. Die in früheren Zwischenberichtsperioden berichteten Beträge werden nicht rückwirkend angepasst. Die Paragraphen 16A(d) und 26 schreiben jedoch vor, dass Art und Betrag jeder erheblichen Änderung von Schätzungen angegeben wird.
+
+Saisonal, konjunkturell oder gelegentlich erzielte Erträge
+
+37   Erträge, die innerhalb eines Geschäftsjahrs saisonal bedingt, konjunkturell bedingt oder gelegentlich erzielt werden, dürfen am Zwischenberichtsstichtag nicht vorgezogen oder abgegrenzt werden, wenn das Vorziehen oder die Abgrenzung am Ende des Geschäftsjahrs des Unternehmens nicht angemessen wäre.
+
+38 Beispiele umfassen Dividendenerträge, Nutzungsentgelte und Zuwendungen der öffentlichen Hand. Darüber hinaus erwirtschaften einige Unternehmen durchweg mehr Erträge in bestimmten Zwischenberichtsperioden eines Geschäftsjahrs als in anderen Zwischenberichtsperioden, beispielsweise saisonale Erträge von Einzelhändlern. Solche Erträge werden bei ihrer Entstehung erfasst.
+
+Aufwendungen, die während des Geschäftsjahrs unregelmäßig anfallen
+
+39   Aufwendungen, die während des Geschäftsjahrs eines Unternehmens unregelmäßig anfallen, sind für Zwecke der Zwischenberichterstattung nur dann vorzuziehen oder abzugrenzen, wenn es auch am Ende des Geschäftsjahrs angemessen wäre, diese Art der Aufwendungen vorzuziehen oder abzugrenzen.
+
+Anwendung der Erfassungs- und Bewertungsgrundsätze
+
+40 Teil B der zu diesem Standard gehörenden erläuternden Beispiele enthält Beispiele zur Anwendung der allgemeinen, in den Paragraphen 28–39 dargestellten Erfassungs- und Bewertungsgrundsätze.
+
+Verwendung von Schätzungen
+
+41   Bei der Bewertung in einem Zwischenbericht ist sicherzustellen, dass die resultierenden Informationen verlässlich sind und dass alle wesentlichen Finanzinformationen, die für ein Verständnis der Vermögens-, Finanz- und Ertragslage des Unternehmens relevant sind, angemessen angegeben werden. Auch wenn die Bewertungen in Geschäftsberichten und in Zwischenberichten oft auf angemessenen Schätzungen beruhen, wird die Aufstellung von Zwischenberichten in der Regel eine umfangreichere Verwendung von Schätzungsmethoden erfordern als die der jährlichen Rechnungslegung.
+
+42 Teil C der zu diesem Standard gehörenden erläuternden Beispiele enthält Beispiele für die Verwendung von Schätzungen in Zwischenberichtsperioden.
+
+ANPASSUNG BEREITS DARGESTELLTER ZWISCHENBERICHTSPERIODEN
+
+43   Eine Änderung der Rechnungslegungsmethode ist mit Ausnahme solcher, für die ein neuer IFRS Übergangsvorschriften festlegt, darzustellen,
+a) 
+
+indem eine Anpassung der Abschlüsse früherer Zwischenberichtsperioden des aktuellen Geschäftsjahrs und vergleichbarer Zwischenberichtsperioden früherer Geschäftsjahre, die im jährlichen Abschluss nach IAS 8 anzupassen sind, vorgenommen wird, oder
+b) 
+
+wenn die Ermittlung der kumulierten Auswirkung der Anwendung einer neuen Rechnungslegungsmethode auf alle früheren Perioden am Anfang des Geschäftsjahrs undurchführbar ist, indem eine Anpassung der Abschlüsse früherer Zwischenberichtsperioden des laufenden Geschäftsjahrs sowie vergleichbarer Zwischenberichtsperioden früherer Geschäftsjahre dahin gehend vorgenommen wird, dass die neue Rechnungslegungsmethode prospektiv ab dem frühestmöglichen Zeitpunkt angewandt wird.
+
+44 Eine Zielsetzung des vorangegangenen Grundsatzes ist sicherzustellen, dass eine einzige Rechnungslegungsmethode auf eine bestimmte Gruppe von Geschäftsvorfällen über das gesamte Geschäftsjahr angewendet wird. Gemäß IAS 8 wird eine Änderung der Rechnungslegungsmethode durch die rückwirkende Anwendung widergespiegelt, wobei Finanzinformationen aus früheren Berichtsperioden so weit wie vergangenheitsbezogen möglich angepasst werden. Wenn jedoch die Ermittlung des kumulierten Anpassungsbetrags, der sich auf die früheren Geschäftsjahre bezieht, undurchführbar ist, ist gemäß IAS 8 die neue Methode prospektiv ab dem frühestmöglichen Zeitpunkt anzuwenden. Der Grundsatz in Paragraph 43 führt dazu, dass vorgeschrieben wird, dass alle Änderungen der Rechnungslegungsmethode innerhalb des aktuellen Geschäftsjahrs entweder rückwirkend oder, wenn dies undurchführbar ist, prospektiv spätestens ab Anfang des laufenden Geschäftsjahrs zur Anwendung kommen.
+
+45 Mit der Zulassung der Darstellung von Änderungen der Rechnungslegungsmethoden an einem Zwischenberichtstermin innerhalb des Geschäftsjahrs würde die Anwendung zweier verschiedener Rechnungslegungsmethoden auf eine bestimmte Gruppe von Geschäftsvorfällen innerhalb eines einzelnen Geschäftsjahrs zugelassen. Das Resultat wären Verteilungsschwierigkeiten bei der Zwischenberichterstattung, unklare Betriebsergebnisse und eine erschwerte Analyse und Verständlichkeit der Informationen im Zwischenbericht.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+46 Dieser Standard ist verbindlich auf Abschlüsse für Berichtsperioden anzuwenden, die am oder nach dem 1. Januar 1999 beginnen. Eine frühere Anwendung wird empfohlen.
+
+47 Durch IAS 1 (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 4, 5, 8, 11, 12 und 20 geändert, Paragraph 13 wurde gestrichen, und die Paragraphen 8A und 11A wurden eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese frühere Periode auch diese Änderungen anzuwenden.
+
+48 Durch IFRS 3 (in der 2008 überarbeiteten Fassung) wurde Paragraph 16(i) geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IFRS 3 (überarbeitet 2008) auf eine frühere Periode an, so hat es auf diese frühere Periode auch diese Änderung anzuwenden.
+
+49 Durch die Verbesserungen an den IFRS, veröffentlicht im Mai 2010, wurden die Paragraphen 15, 27, 35 und 36 geändert, die Paragraphen 15A–15C und 16A eingefügt und die Paragraphen 16–18 gestrichen. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2011 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+50 Durch IFRS 13, veröffentlicht im Mai 2011, wurde Paragraph 16A(j) eingefügt. Wendet ein Unternehmen IFRS 13 an, ist diese Änderung ebenfalls anzuwenden.
+
+51 Durch Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurden die Paragraphen 8, 8A, 11A und 20 geändert. Wendet ein Unternehmen IAS 1 (in der im Juni 2011 geänderten Fassung) an, sind diese Änderungen ebenfalls anzuwenden.
+
+52 Durch die Jährlichen Verbesserungen, Zyklus 2009–2011, veröffentlicht im Mai 2012, wurde Paragraph 5 infolge der Änderung an IAS 1 Darstellung des Abschlusses geändert. Diese Änderung ist rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+53 Durch die Jährlichen Verbesserungen, Zyklus 2009–2011, veröffentlicht im Mai 2012, wurde Paragraph 16A geändert. Diese Änderung ist rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+54 Durch die im Oktober 2012 veröffentlichte Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27) wurde Paragraph 16A eingefügt. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung der Verlautbarung Investmentgesellschaften (Investment Entities) ist zulässig. Wendet ein Unternehmen diese Änderung früher an, hat es alle in der Verlautbarung enthaltenen Änderungen gleichzeitig anzuwenden.
+
+55 Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurden die Paragraphen 15B und 16A geändert. Wendet ein Unternehmen IFRS 15 an, sind diese Änderungen ebenfalls anzuwenden.
+
+56 Durch die Jährlichen Verbesserungen an den IFRS-Standards Zyklus 2012–2014, veröffentlicht im September 2014, wurde Paragraph 16A geändert. Diese Änderung ist rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung früher an, hat es dies anzugeben.
+
+57 Durch die im Dezember 2014 veröffentlichte Verlautbarung Angabeninitiative (Änderungen an IAS 1) wurde Paragraph 5 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig.
+
+58 Durch die 2018 veröffentlichte Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards wurden die Paragraphen 31 und 33 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig, wenn das Unternehmen gleichzeitig alle anderen mit der Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards einhergehenden Änderungen anwendet. Die Änderungen an IAS 34 sind gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend anzuwenden. Sollte das Unternehmen jedoch feststellen, dass eine rückwirkende Anwendung nicht durchführbar oder mit unangemessenem Kosten- oder Zeitaufwand verbunden wäre, hat es die Änderungen an IAS 34 mit Verweis auf die Paragraphen 43–45 dieses Standards und die Paragraphen 23–28, 50–53 und 54F von IAS 8 anzuwenden.
+
+59 Durch die im Oktober 2018 veröffentlichte Verlautbarung Definition von „wesentlich“ (Änderungen an IAS 1 und IAS 8) wurde Paragraph 24 geändert. Diese Änderung ist prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung früher an, hat es dies anzugeben. Ein Unternehmen hat diese Änderung anzuwenden, wenn es die geänderte Definition von „wesentlich“ in Paragraph 7 von IAS 1 und den Paragraphen 5 und 6 von IAS 8 anwendet.
+
+60 Mit der im Februar 2021 veröffentlichten Verlautbarung Angabe von Bilanzierungs- und Bewertungsmethoden, mit der IAS 1 und das IFRS-Leitliniendokument 2 Fällen von Wesentlichkeitsentscheidungen geändert werden, wurde Paragraph 5 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2023 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Berichtsperiode an, hat es dies anzugeben.

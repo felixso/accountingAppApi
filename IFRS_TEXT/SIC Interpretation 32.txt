@@ -1,0 +1,92 @@
+﻿ SIC INTERPRETATION 32
+
+Immaterielle Vermögenswerte — Kosten von Internetseiten
+
+VERWEISE
+— 
+IFRS 3 Unternehmenszusammenschlüsse
+— 
+IFRS 15 Erlöse aus Verträgen mit Kunden
+— 
+IFRS 16 Leasingverhältnisse
+— 
+IAS 1 Darstellung des Abschlusses (überarbeitet 2007)
+— 
+IAS 2 Vorräte (überarbeitet 2003)
+— 
+IAS 16 Sachanlagen (überarbeitet 2003)
+— 
+IAS 36 Wertminderung von Vermögenswerten (überarbeitet 2004)
+— 
+IAS 38 Immaterielle Vermögenswerte (überarbeitet 2004)
+
+FRAGESTELLUNG
+
+1 Für die Entwicklung und den Betrieb einer Internetseite für den betriebsinternen oder -externen Gebrauch können einem Unternehmen interne Ausgaben entstehen. Eine Internetseite, die für den betriebsexternen Gebrauch entworfen wird, kann verschiedenen Zwecken dienen, zum Beispiel der Verkaufsförderung und Bewerbung der unternehmenseigenen Produkte und Dienstleistungen, dem Angebot elektronischer Dienstleistungen und dem Verkauf von Produkten und Dienstleistungen. Eine Internetseite für den betriebsinternen Gebrauch kann für die Speicherung von Unternehmensstrategien oder Kundendaten eingesetzt werden, oder auch dem Auffinden betriebsrelevanter Informationen dienen.
+
+2 Die Entwicklungsstadien einer Internetseite lassen sich wie folgt beschreiben:
+a) 
+
+Planung — umfasst die Durchführung von Realisierbarkeitsstudien, die Definition von Zweck und Leistungsumfang, die Bewertung von Alternativen und die Festlegung von Prioritäten,
+b) 
+
+Einrichtung und Entwicklung der Infrastruktur — umfasst die Einrichtung einer Domain, den Erwerb und die Entwicklung der Hardware und der Betriebssoftware, die Installation der entwickelten Anwendungen und die Belastungsprüfung,
+c) 
+
+Entwicklung der grafischen Gestaltung — umfasst die Konzeption des Erscheinungsbilds der Internetseiten,
+d) 
+
+Entwicklung der Inhalte — umfasst die Erstellung, den Erwerb, die Vorbereitung und das Hochladen von textlicher oder grafischer Information für die Internetseite im Zuge der Entwicklung der Internetseite; die Information wird entweder direkt in die Internetseiten einprogrammiert oder sie ist in separaten Datenbanken gespeichert, die in die Internetseite integriert werden oder auf die von der Internetseite zugegriffen wird.
+
+3 Nach dem Abschluss der Entwicklung einer Internetseite beginnt die Betriebsphase. Während dieser Phase unterhält und verbessert das Unternehmen die Anwendungen, die Infrastruktur, die grafische Gestaltung und den Inhalt der Internetseite.
+
+4 Bei der Bilanzierung von internen Ausgaben für die Entwicklung und den Betrieb einer unternehmenseigenen Internetseite für den betriebsinternen oder -externen Gebrauch, stellen sich die folgenden Fragen:
+a) 
+
+Handelt es sich bei der Internetseite um einen selbst geschaffenen immateriellen Vermögenswert, der den Vorschriften von IAS 38 unterliegt?
+b) 
+
+Nach welcher Methode sind diese Ausgaben zu bilanzieren?
+
+5 Diese Interpretation gilt nicht für Ausgaben für den Erwerb, die Entwicklung und den Betrieb der Hardware (z. B. Webserver, Staging-Server, Produktionsserver und Internetanschlüsse) für diese Internetseite, da diese nach IAS 16 zu bilanzieren sind. Wenn das Unternehmen zudem Ausgaben für einen Internetdienstleister tätigt, der die Internetseite als Provider ins Netz stellt, so sind diese Ausgaben bei Erhalt der Dienstleistung gemäß Paragraph 88 von IAS 1 und gemäß dem Rahmenkonzept für die Finanzberichterstattung als Aufwand zu erfassen.
+
+6 IAS 38 gilt weder für immaterielle Vermögenswerte, die vom Unternehmen im normalen Geschäftsgang zur Veräußerung gehalten werden (siehe IAS 2 und IFRS 15), noch für immaterielle Vermögenswerte, die einem Leasingverhältnis unterliegen und gemäß IFRS 16 zu bilanzieren sind. Dementsprechend gilt diese Interpretation nicht für Ausgaben im Zuge der Entwicklung oder des Betriebs einer Internetseite (oder von Internetseiten-Software), die an ein anderes Unternehmen veräußert oder nach IFRS 16 bilanziert wird.
+
+BESCHLUSS
+
+7 Bei einer unternehmenseigenen Internetseite, der eine Entwicklung vorausgegangen ist und die für den betriebsinternen oder -externen Gebrauch bestimmt ist, handelt es sich um einen selbst geschaffenen immateriellen Vermögenswert, der den Vorschriften von IAS 38 unterliegt.
+
+8 Eine Internetseite, der eine Entwicklung vorausgegangen ist, ist nur dann als immaterieller Vermögenswert anzusetzen, wenn das Unternehmen außer den in Paragraph 21 von IAS 38 festgelegten allgemeinen Voraussetzungen für Ansatz und erstmalige Bewertung auch die Voraussetzungen von Paragraph 57 von IAS 38 erfüllt. So kann das Unternehmen insbesondere nachweisen, dass seine Internetseite voraussichtlich einen künftigen wirtschaftlichen Nutzen gemäß Paragraph 57(d) von IAS 38 erzeugen wird, wenn über die Seite Erlöse erwirtschaftet werden können, darunter direkte Erlöse, weil Bestellungen aufgegeben werden können. Ist ein Unternehmen nicht in der Lage nachzuweisen, in welcher Weise eine Internetseite, die ausschließlich oder hauptsächlich zu dem Zweck entwickelt wurde, unternehmenseigene Produkte und Dienstleistungen zu bewerben und ihren Verkauf zu fördern, voraussichtlich einen künftigen wirtschaftlichen Nutzen erzeugen wird, muss es die Ausgaben für die Entwicklung der Internetseite bei ihrem Anfall als Aufwand erfassen.
+
+9 Interne Ausgaben für die Entwicklung und den Betrieb unternehmenseigener Internetseiten sind nach IAS 38 zu bilanzieren. Zur Bestimmung der anzuwendenden Bilanzierungsmethode ist die Art der Tätigkeit, für die die Ausgaben entstehen (z. B. Schulung von Angestellten oder Pflege der Internetseite), zu berücksichtigen sowie das Entwicklungsstadium bzw. die Betriebsphase der Internetseite (zusätzliche Anwendungsleitlinien sind den dieser Interpretation beigefügten konkreten Beispielen zu entnehmen). Zum Beispiel:
+a) 
+
+Das Planungsstadium gleicht seinem Wesen nach der in den Paragraphen 54–56 von IAS 38 beschriebenen Forschungsphase. Ausgaben während dieses Stadiums sind bei ihrem Anfall als Aufwand zu erfassen.
+b) 
+
+Die Stadien der Einrichtung und Entwicklung der Infrastruktur, der Entwicklung der grafischen Gestaltung und der Entwicklung der Inhalte gleichen ihrem Wesen nach, sofern die Inhalte nicht zum Zweck der Werbung und der Verkaufsförderung der unternehmenseigenen Produkte und Dienstleistungen entwickelt werden, der in den Paragraphen 57–64 von IAS 38 beschriebenen Entwicklungsphase. Ausgaben, die in diesen Stadien getätigt werden, sind Teil der Kosten einer Internetseite und nach Paragraph 8 dieser Interpretation als immaterieller Vermögenswert anzusetzen, wenn die Ausgaben einzeln zugeordnet werden können und für die Erstellung, Aufbereitung und Vorbereitung der Internetseite für den beabsichtigten Gebrauch notwendig sind. So sind Ausgaben für den Erwerb oder die Erstellung von Inhalten für Internetseiten (sofern der Zweck dieser Inhalte nicht die Werbung und Verkaufsförderung der unternehmenseigenen Produkte und Dienstleistungen ist) oder Ausgaben, die den Gebrauch der Inhalte der Internetseite ermöglichen (z. B. Gebühren für die Verwendung von Inhalten Dritter), als Teil der Entwicklungskosten zu erfassen, wenn diese Bedingungen erfüllt sind. Nach Paragraph 71 von IAS 38 dürfen Ausgaben für einen immateriellen Posten, die in früheren Abschlüssen ursprünglich als Aufwand erfasst wurden, jedoch zu einem späteren Zeitpunkt nicht mehr als Teil der Anschaffungs- oder Herstellungskosten des immateriellen Vermögenswerts angesetzt werden (z. B. wenn die Kosten für das Urheberrecht vollständig abgeschrieben sind und der Inhalt danach auf einer Internetseite bereitgestellt wird).
+c) 
+
+Während des Stadiums der Entwicklung der Inhalte getätigte Ausgaben sind, sofern die Inhalte für die Werbung und Verkaufsförderung der unternehmenseigenen Produkte und Dienstleistungen entwickelt werden (z. B. Produkt-Fotografien), nach Paragraph 69(c) von IAS 38 in der Periode, in der sie anfallen, als Aufwand zu erfassen. So sind Ausgaben für professionelle Dienstleistungen im Zusammenhang mit digitalen Fotoaufnahmen von unternehmenseigenen Produkten und der Verbesserung der Produktpräsentation bei Erhalt der professionellen Dienstleistungen laufend als Aufwand zu erfassen und nicht erst, wenn die Digitalaufnahmen auf der Internetseite veröffentlicht werden.
+d) 
+
+Die Betriebsphase beginnt, sobald die Entwicklung der Internetseite abgeschlossen ist. Ausgaben, die in dieser Phase getätigt werden, sind bei ihrem Anfall als Aufwand zu erfassen, es sei denn, sie erfüllen die in Paragraph 18 von IAS 38 festgelegten Ansatzkriterien.
+
+10 Eine Internetseite, die nach Paragraph 8 der vorliegenden Interpretation als immaterieller Vermögenswert erfasst wird, ist nach dem erstmaligen Ansatz gemäß den Paragraphen 72–87 von IAS 38 zu bewerten. Die Nutzungsdauer einer Internetseite ist normalerweise als kurz einzuschätzen.
+
+DATUM DES BESCHLUSSES
+
+Mai 2001
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+Diese Interpretation tritt am 25. März 2002 in Kraft. Die Auswirkungen der Anwendung dieser Interpretation sind nach den Übergangsbestimmungen von IAS 38 (in der 1998 herausgegebenen Fassung) zu bilanzieren. Wenn eine Internetseite also die Kriterien für den Ansatz als immaterieller Vermögenswert nicht erfüllt, zuvor aber als Vermögenswert angesetzt war, ist dieser Posten auszubuchen, sobald diese Interpretation in Kraft tritt. Eine bestehende Internetseite, deren Entwicklungsausgaben die Kriterien für den Ansatz als immaterieller Vermögenswert erfüllen, die zuvor aber nicht als Vermögenswert angesetzt war, ist bei Inkrafttreten dieser Interpretation nicht als immaterieller Vermögenswert anzusetzen. Bei einer bestehenden Internetseite, deren Entwicklungsausgaben die Kriterien für den Ansatz als immaterieller Vermögenswert erfüllen, die zuvor als Vermögenswert angesetzt war und ursprünglich mit den Anschaffungs- oder Herstellungskosten bewertet wurde, gilt der ursprünglich erfasste Betrag als zutreffend.
+
+Infolge (der 2007 überarbeiteten Fassung) von IAS 1 wurde die in allen IFRS verwendete Terminologie geändert. Außerdem wurde dadurch Paragraph 5 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen die 2007 überarbeitete Fassung von IAS 1 auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+Mit dem im Mai 2014 veröffentlichten IFRS 15 Erlöse aus Verträgen mit Kunden wurden der Abschnitt „Verweise“ und der Paragraph 6 geändert. Wendet das Unternehmen IFRS 15 an, so hat es diese Änderung anzuwenden.
+
+Durch IFRS 16, veröffentlicht im Januar 2016, wurde Paragraph 6 geändert. Wendet das Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+Mit der 2018 veröffentlichten Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards wurde Paragraph 5 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig, wenn das Unternehmen gleichzeitig alle anderen mit der Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards einhergehenden Änderungen anwendet. Nach IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler ist die Änderung an SIC 32 rückwirkend anzuwenden. Sollte das Unternehmen jedoch feststellen, dass eine rückwirkende Anwendung nicht durchführbar ist oder mit unangemessenem Kosten- oder Zeitaufwand verbunden wäre, hat es die Änderungen an SIC 32 nach Maßgabe der Paragraphen 23–28, 50–53 und 54F von IAS 8 anzuwenden.
+

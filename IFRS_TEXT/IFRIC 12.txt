@@ -1,0 +1,238 @@
+﻿ IFRIC INTERPRETATION 12
+
+Dienstleistungskonzessionsvereinbarungen
+
+VERWEISE
+— 
+Rahmenkonzept für die Aufstellung und Darstellung von Abschlüssen  ( 66 )
+— 
+IFRS 1 Erstmalige Anwendung der International Financial Reporting Standards
+— 
+IFRS 7 Finanzinstrumente: Angaben
+— 
+IFRS 9 Finanzinstrumente
+— 
+IFRS 15 Erlöse aus Verträgen mit Kunden
+— 
+IFRS 16 Leasingverhältnisse
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 16 Sachanlagen
+— 
+IAS 20 Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand
+— 
+IAS 23 Fremdkapitalkosten
+— 
+IAS 32 Finanzinstrumente: Darstellung
+— 
+IAS 36 Wertminderung von Vermögenswerten
+— 
+IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen
+— 
+IAS 38 Immaterielle Vermögenswerte
+— 
+SIC-29 Dienstleistungskonzessionsvereinbarungen: Angaben  ( 67 )
+
+HINTERGRUND
+
+1 In vielen Ländern werden die Infrastruktureinrichtungen zur Erfüllung öffentlicher Aufgaben (z. B. Straßen, Brücken, Tunnel, Gefängnisse, Krankenhäuser, Flughäfen, Wasserversorgungssysteme, Energieversorgungssysteme und Telekommunikationsnetze) traditionell von der öffentlichen Hand errichtet, betrieben und instand gehalten und durch Zuweisungen aus den öffentlichen Haushalten finanziert.
+
+2 In einigen Ländern haben die Regierungen verschiedene Vertragsmodelle eingeführt, um für Privatinvestoren einen Anreiz zu schaffen, sich an der Entwicklung, der Finanzierung, dem Betrieb oder der Instandhaltung solcher Infrastruktureinrichtungen zu beteiligen. Die Infrastruktureinrichtung kann entweder schon bestehen oder sie wird während der Laufzeit des Vertrags errichtet. Eine Vereinbarung, die in den Anwendungsbereich dieser Interpretation fällt, regelt normalerweise, dass ein Privatunternehmen (der Betreiber) eine Infrastruktureinrichtung zur Erfüllung öffentlicher Aufgaben errichtet oder verbessert (z. B. durch eine Erhöhung der Kapazität) oder dass er diese Infrastruktureinrichtung für eine bestimmte Zeit betreibt und instand hält. Für diese während der Dauer der Vereinbarung erbrachten Dienstleistungen erhält der Betreiber ein Entgelt. Die Vereinbarung wird durch einen Vertrag formalisiert, der den Standard der zu erbringenden Leistungen, die Preisanpassungsmechanismen sowie die Verfahren zur Schlichtung von Streitigkeiten regelt. Unter solche Vereinbarungen fallen Betreibermodelle, die Konstellationen wie „Build-Operate-Transfer“ (BOT) oder „Rehabilitate-Operate-Transfer“ (ROT)“ abdecken, und öffentlich-private Konzessionsvereinbarungen.
+
+3 Ein Merkmal dieser Konzessionsvereinbarungen ist die öffentliche Dienstleistung, zu der sich der Betreiber verpflichtet. Die Infrastruktureinrichtung hat eine öffentliche Aufgabe zu erfüllen. Welcher Betreiber die Dienstleistung für die Öffentlichkeit erbringt, ist dabei unerheblich. Der Betreiber wird vertraglich verpflichtet, im Namen der öffentlichen Einrichtung eine Dienstleistung für die Öffentlichkeit zu erbringen. Andere häufige Merkmale sind:
+a) 
+
+die übertragende Partei (der Konzessionsgeber) ist entweder eine öffentliche Einrichtung, beispielsweise eine Behörde, oder ein privatrechtliches Unternehmen, dem die Verantwortung für die Erfüllung der öffentlichen Dienstleistung übertragen wurde,
+b) 
+
+der Betreiber ist zumindest teilweise für den Betrieb der Infrastruktureinrichtung und die damit zu erbringenden Dienstleistungen verantwortlich und handelt nicht nur stellvertretend für den Konzessionsgeber in dessen Namen,
+c) 
+
+der Vertrag regelt die Ausgangspreise, die der Betreiber verlangen kann, sowie die Preisanpassungen während der Laufzeit der Konzessionsvereinbarung,
+d) 
+
+der Betreiber ist verpflichtet, dem Konzessionsgeber die Infrastruktureinrichtung bei Vertragsende in einem bestimmten Zustand gegen eine geringe oder ohne zusätzliche Gegenleistung zu übergeben, unabhängig davon, wer die Infrastruktureinrichtung ursprünglich finanziert hat.
+
+ANWENDUNGSBEREICH
+
+4 Diese Interpretation enthält Leitlinien für die Rechnungslegung der Betreiber im Rahmen öffentlich-privater Konzessionsvereinbarungen.
+
+5 Diese Interpretation ist auf öffentlich-private Konzessionsvereinbarungen anwendbar, wenn
+a) 
+
+der Konzessionsgeber steuert oder regelt, welche Dienstleistungen der Betreiber mit der Infrastruktureinrichtung zu erbringen hat, an wen er sie zu erbringen hat und zu welchem Preis, und
+b) 
+
+dem Konzessionsgeber nach Ablauf der Vereinbarung aufgrund von Eigentumsrechten oder sonstigen ihm zustehenden Rechten sämtliche erheblichen Residualansprüche an der Infrastruktureinrichtung zukommen.
+
+6 Auf Infrastruktureinrichtungen, die während ihrer gesamten wirtschaftlichen Nutzungsdauer (gesamte Nutzungsdauer der Vermögenswerte) einer öffentlich-privaten Konzessionsvereinbarung unterliegen, ist diese Interpretation dann anzuwenden, wenn die Bedingungen des Paragraphen 5(a) vorliegen. Die Paragraphen AL1–AL8 enthalten Leitlinien für die Beurteilung, ob und in welchem Umfang öffentlich-private Konzessionsvereinbarungen in den Anwendungsbereich dieser Interpretation fallen.
+
+7 Diese Interpretation ist anzuwenden auf
+a) 
+
+Infrastruktureinrichtungen, die der Betreiber für die Zwecke der Konzessionsvereinbarung selbst errichtet oder von einem Dritten erwirbt, und
+b) 
+
+auf bestehende Infrastruktureinrichtungen, die der Konzessionsgeber dem Betreiber für die Zwecke der Vereinbarung zugänglich macht.
+
+8 Diese Interpretation lässt die Rechnungslegung für Infrastruktureinrichtungen, die vom Betreiber bereits vor Abschluss der Vereinbarung als Sachanlagen gehalten und erfasst wurden, unberührt. Auf solche Infrastruktureinrichtungen sind die (in IAS 16 enthaltenen) IFRS-Ausbuchungsvorschriften anzuwenden.
+
+9 Diese Interpretation regelt nicht die Rechnungslegung des Konzessionsgebers.
+
+FRAGESTELLUNGEN
+
+10 Diese Interpretation enthält allgemeine Regeln für die Erfassung und Bewertung von Verpflichtungen und Rechten aus Konzessionsvereinbarungen. Welche Angaben im Zusammenhang mit Konzessionsvereinbarungen zu machen sind, ist in SIC-29 geregelt. Diese Interpretation betrifft die folgenden Fragen:
+a) 
+
+Wie sind die Rechte, die dem Betreiber im Zusammenhang mit der Infrastruktureinrichtung zustehen, zu behandeln?
+b) 
+
+Wie ist die Gegenleistung aus der Vereinbarung zu erfassen und zu bewerten?
+c) 
+
+Wie sind Bau- oder Ausbauleistungen zu erfassen?
+d) 
+
+Wie sind Betriebsleistungen zu erfassen?
+e) 
+
+Wie sind Fremdkapitalkosten zu erfassen?
+f) 
+
+Wie sind finanzielle und immaterielle Vermögenswerte in der Folge zu bilanzieren?
+g) 
+
+Wie sind Gegenstände zu erfassen, die dem Betreiber vom Konzessionsgeber zur Verfügung gestellt werden?
+
+BESCHLUSS
+
+Behandlung der Rechte, die dem Betreiber im Zusammenhang mit der Infrastruktureinrichtung zustehen
+
+11 Infrastruktureinrichtungen im Anwendungsbereich dieser Interpretation sind nicht als Sachanlagen des Betreibers zu erfassen, da der Konzessionsvertrag den Betreiber nicht dazu berechtigt, selbst über die Nutzung der öffentlichen Infrastruktureinrichtung zu bestimmen. Der Betreiber hat Zugang zur Infrastruktureinrichtung, um die öffentlichen Aufgaben entsprechend den vertraglich vereinbarten Modalitäten anstelle des Konzessionsgebers zu erfüllen.
+
+Ansatz und Bewertung der vereinbarten Gegenleistung
+
+12 Im Rahmen der in den Anwendungsbereich dieser Interpretation fallenden Verträge handelt der Betreiber als Dienstleistungserbringer. Der Betreiber errichtet eine Infrastruktureinrichtung, mit der öffentliche Aufgaben erfüllt werden, oder baut sie aus (Bau- oder Ausbauleistungen), und er übernimmt für einen vereinbarten Zeitraum den Betrieb und die Instandhaltung (Betriebsleistungen) dieser Einrichtung.
+
+13 Der Betreiber hat den Ertrag aus den von ihm erbrachten Dienstleistungen nach IFRS 15 zu bewerten und zu erfassen. Wie die Gegenleistung in der Folge zu bilanzieren ist, hängt von der Art der Gegenleistung ab. Wie eine in Form eines finanziellen Vermögenswerts oder eines immateriellen Vermögenswerts erhaltene Gegenleistung in der Folge zu bilanzieren ist, wird in den Paragraphen 23–26 erläutert.
+
+Bau- oder Ausbauleistungen
+
+14 Der Betreiber hat Bau- und Ausbauleistungen nach IFRS 15 zu erfassen.
+
+Vom Konzessionsgeber an den Betreiber geleistete Gegenleistungen
+
+15 Erbringt der Betreiber Bau- oder Ausbauleistungen, so ist die hierfür erhaltene oder zu erhaltende Gegenleistung nach IFRS 15 zu erfassen. Die Gegenleistung kann bestehen in Ansprüchen auf
+a) 
+
+einen finanziellen Vermögenswert oder
+b) 
+
+einen immateriellen Vermögenswert.
+
+16 Der Betreiber hat einen finanziellen Vermögenswert zu erfassen, wenn er als Gegenleistung für seine Bauleistungen einen unbedingten vertraglichen Anspruch darauf hat, vom Konzessionsgeber selbst oder auf dessen Anweisung einen Geldbetrag oder einen anderen finanziellen Vermögenswert zu erhalten. Der Konzessionsgeber hat so gut wie keine Möglichkeit, die Zahlung zu vermeiden, da die Vereinbarung in der Regel gerichtlich durchsetzbar ist. Der Betreiber hat einen unbedingten Zahlungsanspruch, wenn der Konzessionsgeber sich gegenüber dem Betreiber vertraglich zur Zahlung a) eines bestimmten oder bestimmbaren Betrags oder b) des Differenzbetrags (falls ein solcher existiert) zwischen den von den Nutzern für die öffentliche Dienstleistung gezahlten Beträgen und bestimmten oder bestimmbaren Beträgen verpflichtet hat, auch wenn die Zahlung davon abhängt, ob die Leistungen des Betreibers in Bezug auf die Infrastruktureinrichtung bestimmten Qualitäts- oder Effizienzanforderungen genügen.
+
+17 Der Betreiber hat einen immateriellen Vermögenswert zu erfassen, wenn er als Gegenleistung das Recht (Konzession) erhält, von den Benutzern der öffentlichen Dienstleistung eine Gebühr zu verlangen. Das Recht, von den Benutzern der öffentlichen Dienstleistung eine Gebühr zu verlangen, stellt keinen unbedingten Zahlungsanspruch dar, da der Gesamtbetrag davon abhängt, in welchem Umfang diese die öffentliche Dienstleistung nutzen.
+
+18 Erhält der Betreiber für seine Bauleistungen eine Gegenleistung, die aus einem finanziellen Vermögenswert und aus einem immateriellen Vermögenswert besteht, so hat er die einzelnen Bestandteile der Gegenleistung separat zu erfassen. Die erhaltenen oder zu erhaltenden Bestandteile der Gegenleistung sind erstmalig nach IFRS 15 zu erfassen.
+
+19 Welcher Kategorie die vom Konzessionsgeber an den Betreiber geleistete Gegenleistung angehört, ist aufgrund der vertraglichen Bestimmungen und — wenn anwendbar — nach dem geltenden Vertragsrecht zu bestimmen. Wie die Gegenleistung in der Folge zu bilanzieren ist, hängt von der Art der Gegenleistung ab und ist in den Paragraphen 23–26 erläutert. Während der Bau- bzw. Ausbauphase werden jedoch beide Arten von Gegenleistungen nach IFRS 15 als Vertragsvermögen eingestuft.
+
+Betriebsleistungen
+
+20 Der Betreiber hat Betriebsleistungen nach IFRS 15 zu bilanzieren.
+
+Vertragliche Verpflichtung, einen bestimmten Grad der Gebrauchstauglichkeit der Infrastruktureinrichtung wiederherzustellen
+
+21 Die dem Betreiber erteilte Konzession kann bedingt sein durch die Verpflichtung, a) einen bestimmten Grad der Gebrauchstauglichkeit der Infrastruktureinrichtung aufrechtzuerhalten oder b) die Infrastruktureinrichtung zum Ende des Konzessionsvertrages vor der Rückgabe an den Konzessionsgeber wieder in einen bestimmten Zustand zu versetzen. Mit Ausnahme von Ausbauleistungen (siehe Paragraph 14) sind vertragliche Verpflichtungen, einen bestimmten Zustand der Infrastruktureinrichtung aufrechtzuerhalten oder wiederherzustellen, nach IAS 37 zu erfassen und zu bewerten, d. h. zum bestmöglichen Schätzwert der Ausgaben, die erforderlich wären, um die gegenwärtige Verpflichtung am Abschlussstichtag zu erfüllen.
+
+Dem Betreiber entstehende Fremdkapitalkosten
+
+22 Nach IAS 23 sind der Vereinbarung zurechenbare Fremdkapitalkosten in der Periode, in der sie anfallen, als Aufwand zu erfassen, es sei denn, der Betreiber hat einen vertraglichen Anspruch auf einen immateriellen Vermögenswert (das Recht, von den Benutzern der öffentlichen Dienstleistung eine Gebühr zu verlangen). In diesem Fall sind der Vereinbarung zurechenbare Fremdkapitalkosten während der Bauphase nach jenem Standard zu aktivieren.
+
+Finanzieller Vermögenswert
+
+23 Auf einen nach den Paragraphen 16 und 18 erfassten finanziellen Vermögenswert sind IAS 32 sowie IFRS 7 und IFRS 9 anzuwenden.
+
+24 Ein vom Konzessionsgeber selbst oder auf dessen Anweisung erhaltener oder zu erhaltender Betrag ist nach IFRS 9 wie folgt zu bewerten:
+a) 
+
+zu fortgeführten Anschaffungskosten oder
+b) 
+
+zum beizulegenden Zeitwert im sonstigen Ergebnis oder
+c) 
+
+erfolgswirksam zum beizulegenden Zeitwert.
+
+25 Wird der vom Konzessionsgeber geschuldete Betrag zu fortgeführten Anschaffungskosten oder zum beizulegenden Zeitwert im sonstigen Ergebnis bewertet, so sind nach IFRS 9 die nach der Effektivzinsmethode berechneten Zinsen erfolgswirksam zu erfassen.
+
+Immaterieller Vermögenswert
+
+26 Auf einen nach den Paragraphen 17 und 18 erfassen immateriellen Vermögenswert ist IAS 38 anzuwenden. Die Paragraphen 45–47 von IAS 38 enthalten Leitlinien zur Bewertung immaterieller Vermögenswerte, die im Austausch gegen einen oder mehrere nichtmonetäre Vermögenswerte oder gegen eine Kombination aus monetären und nichtmonetären Vermögenswerten erworben wurden.
+
+Dem Betreiber vom Konzessionsgeber zur Verfügung gestellte Gegenstände
+
+27 Nach Paragraph 11 sind Infrastruktureinrichtungen, die dem Betreiber zum Zwecke der Konzessionsvereinbarung zugänglich gemacht werden, nicht als Sachanlagen des Betreibers zu erfassen. Der Konzessionsgeber kann dem Betreiber auch andere Gegenstände zur Verfügung stellen, mit denen der Betreiber nach Belieben verfahren kann. Sind solche Vermögenswerte Bestandteil der vom Konzessionsgeber für die Dienstleistung zu leistenden Gegenleistung, stellen sie keine Zuwendung der öffentlichen Hand im Sinne von IAS 20 dar, sondern sind als Teil des Transaktionspreises im Sinne von IFRS 15 zu bilanzieren.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+28 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2008 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Interpretation auf Berichtsperioden an, die vor dem 1. Januar 2008 beginnen, hat es dies anzugeben.
+
+28D Mit dem im Mai 2014 veröffentlichten IFRS 15 Erlöse aus Verträgen mit Kunden wurden der Abschnitt „Verweise“ und die Paragraphen 13–15, 18– 20 und 27 geändert. Wendet ein Unternehmen IFRS 15 an, so hat es diese Änderungen anzuwenden.
+
+28E Mit dem im Juli 2014 veröffentlichten IFRS 9 wurden die Paragraphen 23–25 geändert und die Paragraphen 28A–28C gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+28F Mit dem im Januar 2016 veröffentlichten IFRS 16 wurde Paragraph AL8 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+ÜBERGANGSVORSCHRIFTEN
+
+29 Vorbehaltlich des Paragraphen 30 werden Änderungen in den Rechnungslegungsmethoden nach IAS 8, das heißt rückwirkend, berücksichtigt.
+
+30 Falls für den Betreiber eine rückwirkende Anwendung dieser Interpretation zu Beginn der ersten dargestellten Periode bei einer bestimmten Konzessionsvereinbarung nicht durchführbar sein sollte, so hat er
+a) 
+
+diejenigen finanziellen und immateriellen Vermögenswerte zu erfassen, die zu Beginn der ersten dargestellten Periode vorhanden waren,
+b) 
+
+die bisherigen Buchwerte dieser finanziellen und immateriellen Vermögenswerte (unabhängig von ihrer bisherigen Einstufung) als die Buchwerte zu diesem Zeitpunkt anzusetzen und
+c) 
+
+zu prüfen, ob bei den zu diesem Zeitpunkt angesetzten finanziellen und immateriellen Vermögenswerten eine Wertminderung vorliegt. Sollte dies nicht durchführbar sein, so sind die angesetzten Buchwerte zu Beginn der laufenden Berichtsperiode auf Wertminderung zu prüfen.
+
+Anhang A
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil der Interpretation.
+
+ANWENDUNGSBEREICH (Paragraph 5)
+
+AL1 Nach Paragraph 5 dieser Interpretation fällt eine Infrastruktureinrichtung in den Anwendungsbereich dieser Interpretation, wenn
+a) 
+
+der Konzessionsgeber steuert oder regelt, welche Dienstleistungen der Betreiber mit der Infrastruktureinrichtung zu erbringen hat, an wen er sie zu erbringen hat und zu welchem Preis, und
+b) 
+
+dem Konzessionsgeber nach Ablauf der Vereinbarung aufgrund von Eigentumsrechten oder sonstigen ihm zustehenden Rechten sämtliche erheblichen Residualansprüche an der Infrastruktureinrichtung zukommen.
+
+AL2 Die unter Buchstabe a aufgeführte Festlegungs- oder Steuerungsbefugnis kann sich aus dem Vertrag oder aus anderen Umständen (z. B. einer Regulierungsbehörde) ergeben und umfasst sowohl die Fälle, in denen der Konzessionsgeber der alleinige Abnehmer der erbrachten Leistungen ist, als auch die Fälle, in denen andere Benutzer ganz oder zum Teil Abnehmer der Leistungen sind. Bei der Prüfung, ob diese Voraussetzung erfüllt ist, sind dem Konzessionsgeber nahestehende Unternehmen und Personen als ihm zugehörig zu betrachten. Ist der Konzessionsgeber eine öffentliche Einrichtung, so wird für die Zwecke dieser Interpretation die gesamte öffentliche Hand zusammen mit allen Aufsichtsbehörden, die im öffentlichen Interesse tätig sind, als dem Konzessionsgeber nahestehend angesehen.
+
+AL3 Zur Erfüllung der unter Buchstabe a genannten Voraussetzung ist es nicht erforderlich, dass der Konzessionsgeber die Preisgebung vollständig steuert, sondern es reicht aus, dass der Preis vom Konzessionsgeber, im Vertrag oder von einer Regulierungsbehörde reguliert wird, zum Beispiel durch einen Preisbegrenzungsmechanismus. Die Voraussetzung muss allerdings für den wirtschaftlichen Gehalt der Vereinbarung erfüllt sein. Unwesentliche Bestimmungen wie ein Preisbegrenzungsmechanismus, der nur unter sehr unwahrscheinlichen Umständen greift, bleiben unberücksichtigt. Umgekehrt ist das Preissteuerungselement gegeben, wenn beispielsweise der Vertrag dem Betreiber zwar ermöglicht, die Preise frei festzusetzen, er jedoch jeden zusätzlichen Gewinn an den Konzessionsgeber weiterzureichen hat, da in diesem Fall der Ertrag für den Betreiber begrenzt ist.
+
+AL4 Zur Erfüllung der unter Buchstabe b genannten Voraussetzung müssen die dem Konzessionsgeber zukommenden erheblichen Residualansprüche an der Infrastruktureinrichtung es dem Betreiber einerseits unmöglich machen, die Infrastruktureinrichtung zu verkaufen oder zu belasten, und dem Konzessionsgeber andererseits ein Nutzungsrecht für die gesamte Dauer der Vereinbarung einräumen. Der Residualanspruch an der Infrastruktureinrichtung entspricht ihrem geschätzten Marktwert am Ende der Vereinbarung in ihrem zu diesem Zeitpunkt zu erwartenden Zustand und Alter.
+
+AL5 Steuerung und Geschäftsführung sind zu unterscheiden. Behält der Konzessionsgeber sowohl das in Paragraph 5(a) beschriebene Maß an Steuerung über die Infrastruktureinrichtung als auch sämtliche erheblichen Residualansprüche darauf, so ist der Betreiber vom Konzessionsgeber lediglich mit der Geschäftsführung der Infrastruktureinrichtung betraut, auch wenn er dabei in vielen Fällen eine weitreichende Entscheidungsbefugnis innehat.
+
+AL6 Aus der Kombination der Voraussetzungen unter den Buchstaben a und b ergibt sich, ob die Steuerung der Infrastruktureinrichtung während der gesamten Dauer ihrer wirtschaftlichen Nutzung, einschließlich aller erforderlichen Erneuerungen (siehe Paragraph 21), beim Konzessionsgeber liegt. Muss der Betreiber beispielsweise während der Laufzeit der Vereinbarung einen Teil der Infrastruktureinrichtung ersetzen (z. B. den Belag einer Straße oder das Dach eines Gebäudes), so ist die Infrastruktureinrichtung als Ganzes zu betrachten. Daher ist die Voraussetzung unter Buchstabe b für die gesamte Infrastruktureinrichtung einschließlich des ersetzten Teils erfüllt, wenn dem Konzessionsgeber sämtliche erheblichen Residualansprüche an dem ersetzten Teil zukommen.
+
+AL7 In manchen Fällen ist die Nutzung der Infrastruktureinrichtung teilweise im Sinne von Paragraph 5(a) geregelt und teilweise ungeregelt. Diese Vereinbarungen können verschiedener Art sein:
+a) 
+
+Jede Infrastruktureinrichtung, die physisch abtrennbar ist, eigenständig betrieben werden kann und eine zahlungsmittelgenerierende Einheit im Sinne von IAS 36 darstellt, ist gesondert zu betrachten, sofern sie ausschließlich für ungeregelte Zwecke genutzt wird. Dies ist z. B. bei einem zur Behandlung von Privatpatienten genutzten Flügel eines Krankenhauses der Fall, wenn das übrige Krankenhaus für die Behandlung von Kassenpatienten genutzt wird.
+b) 
+
+Sind lediglich Nebentätigkeiten ungeregelt (z. B. der Krankenhauskiosk), so werden diese Tätigkeiten bei der Frage der tatsächlichen Steuerung nicht berücksichtigt, weil eine solche Nebentätigkeit in Fällen, in denen der Konzessionsgeber die Infrastruktureinrichtung nach Paragraph 5 steuert, seine Steuerung nicht beeinträchtigt.
+
+AL8 Der Betreiber kann das Recht gewährt werden, die in Paragraph AL7(a) beschriebene abtrennbare Infrastruktureinrichtung zu nutzen oder eine in Paragraph AL7(b) beschriebene Nebentätigkeit auszuüben. In beiden Fällen kann zwischen dem Konzessionsgeber und dem Betreiber ein Leasingverhältnis bestehen, das dann nach IFRS 16 zu bilanzieren ist.

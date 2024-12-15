@@ -1,0 +1,33 @@
+﻿ SIC INTERPRETATION 25
+
+Ertragsteuern — Änderungen im Steuerstatus eines Unternehmens oder seiner Anteilseigner
+
+VERWEISE
+— 
+IAS 1 Darstellung des Abschlusses (überarbeitet 2007)
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 12 Ertragsteuern
+
+FRAGESTELLUNG
+
+1 Eine Änderung im Steuerstatus eines Unternehmens oder seiner Anteilseigner kann für das Unternehmen eine Erhöhung oder Verringerung der Steuerschulden oder -ansprüche zur Folge haben. Dies kann beispielsweise infolge der Börsennotierung von Eigenkapitalinstrumenten oder bei einer Eigenkapitalrestrukturierung eintreten. Zudem kann es infolge eines Umzugs des beherrschenden Anteilseigners ins Ausland eintreten. Nach einem solchen Ereignis wird das Unternehmen möglicherweise anders besteuert; es kann beispielsweise Steueranreize erlangen oder verlieren oder künftig einem anderen Steuersatz unterliegen.
+
+2 Eine Änderung im Steuerstatus des Unternehmens oder seiner Anteilseigner kann eine sofortige Auswirkung auf die tatsächlichen Steuerschulden oder -ansprüche des Unternehmens haben. Eine solche Änderung kann zudem die durch das Unternehmen erfassten latenten Steuerschulden oder -ansprüche erhöhen oder verringern, je nachdem, welche steuerlichen Konsequenzen sich aus der Änderung im Steuerstatus hinsichtlich der Realisierung oder Erfüllung des Buchwerts der Vermögenswerte und Schulden des Unternehmens ergeben.
+
+3 Diese Interpretation betrifft die Frage, wie das Unternehmen die steuerlichen Konsequenzen einer Änderung seines Steuerstatus oder des Steuerstatus seiner Anteilseigner zu bilanzieren hat.
+
+BESCHLUSS
+
+4 Ein geänderter Steuerstatus eines Unternehmens oder seiner Anteilseigner hat keine Erhöhung oder Verringerung von nicht erfolgswirksam erfassten Beträgen zur Folge. Die Konsequenzen, die sich aus einem geänderten Steuerstatus für die tatsächlichen und latenten Ertragsteuern ergeben, sind in der Berichtsperiode erfolgswirksam zu erfassen, es sei denn, diese Konsequenzen stehen mit Geschäftsvorfällen oder Ereignissen im Zusammenhang, die in der gleichen oder einer anderen Periode unmittelbar eine Gutschrift oder Belastung des erfassten Eigenkapitalbetrags oder eine Erfassung im sonstigen Ergebnis bewirken. Steuerliche Konsequenzen, die sich auf Änderungen des erfassten Eigenkapitalbetrags in der gleichen oder einer anderen Periode beziehen (die also nicht erfolgswirksam erfasst werden), sind ebenfalls unmittelbar dem Eigenkapital gutzuschreiben oder zu belasten. Steuerliche Konsequenzen, die sich auf im sonstigen Ergebnis erfasste Beträge beziehen, sind auch im sonstigen Ergebnis zu erfassen.
+
+DATUM DES BESCHLUSSES
+
+August 1999
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+Dieser Beschluss tritt am 15. Juli 2000 in Kraft. Änderungen der Rechnungslegungsmethoden sind gemäß IAS 8 zu bilanzieren.
+
+Infolge (der 2007 überarbeiteten Fassung) von IAS 1 wurde die in allen IFRS verwendete Terminologie geändert. Außerdem wurde dadurch Paragraph 4 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen die 2007 überarbeitete Fassung von IAS 1 auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.

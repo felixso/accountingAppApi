@@ -1,0 +1,1581 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 19
+
+Leistungen an Arbeitnehmer
+
+ZIELSETZUNG
+
+1 Ziel des vorliegenden Standards ist die Regelung der Bilanzierung und der Angabepflichten für Leistungen an Arbeitnehmer. Nach diesem Standard ist ein Unternehmen verpflichtet,
+a) 
+
+eine Schuld anzusetzen, wenn ein Arbeitnehmer Arbeitsleistungen im Austausch gegen in der Zukunft zu zahlende Leistungen an Arbeitnehmer erbracht hat, und
+b) 
+
+einen Aufwand anzusetzen, wenn das Unternehmen den wirtschaftlichen Nutzen aus der im Austausch für Leistungen an Arbeitnehmer von einem Arbeitnehmer erbrachten Arbeitsleistung vereinnahmt hat.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist von Arbeitgebern bei der Bilanzierung sämtlicher Leistungen an Arbeitnehmer anzuwenden, ausgenommen Leistungen, auf die IFRS 2 Anteilsbasierte Vergütung Anwendung findet.
+
+3 Der Standard behandelt nicht die Berichterstattung von Versorgungsplänen für Arbeitnehmer (siehe IAS 26 Bilanzierung und Berichterstattung von Altersversorgungsplänen).
+
+4 Der Standard bezieht sich unter anderem auf Leistungen an Arbeitnehmer, die
+a) 
+
+gemäß formellen Plänen oder anderen formellen Vereinbarungen zwischen einem Unternehmen und einzelnen Arbeitnehmern, Arbeitnehmergruppen oder deren Vertretern gewährt werden,
+b) 
+
+gemäß gesetzlichen Bestimmungen oder im Rahmen von tarifvertraglichen Vereinbarungen gewährt werden, durch die Unternehmen verpflichtet sind, Beiträge zu Plänen des Staates, eines Bundeslands, eines Industriezweigs oder zu anderen gemeinschaftlichen Plänen mehrerer Arbeitgeber zu leisten, oder
+c) 
+
+gemäß betrieblicher Praxis, die eine faktische Verpflichtung begründet, gewährt werden. Betriebliche Praxis begründet faktische Verpflichtungen, wenn das Unternehmen keine realistische Alternative zur Zahlung der Leistungen an Arbeitnehmer hat. Eine faktische Verpflichtung ist beispielsweise dann gegeben, wenn eine Änderung der üblichen betrieblichen Praxis zu einer unannehmbaren Schädigung des sozialen Klimas im Betrieb führen würde.
+
+5 Leistungen an Arbeitnehmer beinhalten
+a) 
+
+kurzfristig fällige Leistungen an Arbeitnehmer wie die nachfolgend aufgeführten, sofern davon ausgegangen wird, dass diese innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs, in dem die Arbeitnehmer die entsprechende Arbeitsleistung erbringen, vollständig beglichen werden:
+i) 
+
+Löhne, Gehälter und Sozialversicherungsbeiträge,
+ii) 
+
+Urlaubs- und Krankengeld,
+iii) 
+
+Gewinn- und Erfolgsbeteiligungen sowie
+iv) 
+
+geldwerte Leistungen (wie medizinische Versorgung, Unterbringung und Dienstwagen sowie kostenlose oder vergünstigte Güter oder Dienstleistungen) für aktive Arbeitnehmer,
+b) 
+
+Leistungen nach Beendigung des Arbeitsverhältnisses wie
+i) 
+
+Altersversorgungsleistungen (beispielweise Renten und einmalige Zahlungen bei Renteneintritt) sowie
+ii) 
+
+sonstige Leistungen nach Beendigung des Arbeitsverhältnisses wie Lebensversicherungen und medizinische Versorgung nach Beendigung des Arbeitsverhältnisses,
+c) 
+
+andere langfristig fällige Leistungen an Arbeitnehmer, wie
+i) 
+
+langfristig fällige Leistungen für bezahlte Abwesenheiten wie Sonderurlaub nach langjähriger Dienstzeit oder Urlaub zur persönlichen Weiterbildung,
+ii) 
+
+Jubiläumsgelder oder andere Leistungen für langjährige Dienstzeiten sowie
+iii) 
+
+langfristig fällige Leistungen bei Erwerbsunfähigkeit sowie
+d) 
+
+Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses.
+
+6 Leistungen an Arbeitnehmer beinhalten Leistungen sowohl an die Arbeitnehmer selbst als auch an von diesen wirtschaftlich abhängige Personen und können durch Zahlung (oder die Bereitstellung von Gütern oder Dienstleistungen) an die Arbeitnehmer direkt, an deren Ehepartner, Kinder oder sonstige von den Arbeitnehmern wirtschaftlich abhängige Personen oder an andere, wie z. B. Versicherungsunternehmen, erfüllt werden.
+
+7 Ein Arbeitnehmer kann für ein Unternehmen Arbeitsleistungen auf Vollzeit- oder Teilzeitbasis, dauerhaft oder gelegentlich oder auch auf befristeter Basis erbringen. Für die Zwecke dieses Standards zählen Mitglieder des Geschäftsführungs- und/oder Aufsichtsorgans und sonstiges leitendes Personal zu den Arbeitnehmern.
+
+DEFINITIONEN
+
+8   Die folgenden Begriffe werden im vorliegenden Standard mit der angegebenen Bedeutung verwendet:
+Leistungen an Arbeitnehmer – Definitionen
+Leistungen an Arbeitnehmer sind alle Formen von Gegenleistungen, die ein Unternehmen im Austausch für die von Arbeitnehmern erbrachte Arbeitsleistung oder aus Anlass der Beendigung des Arbeitsverhältnisses gewährt.
+Kurzfristig fällige Leistungen an Arbeitnehmer sind Leistungen an Arbeitnehmer (außer Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses), bei denen zu erwarten ist, dass sie innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs, in dem die Arbeitnehmer die entsprechende Arbeitsleistung erbringen, vollständig beglichen werden.
+Leistungen nach Beendigung des Arbeitsverhältnisses sind Leistungen an Arbeitnehmer (außer Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses und kurzfristig fällige Leistungen an Arbeitnehmer), die nach Beendigung des Arbeitsverhältnisses zu zahlen sind.
+Andere langfristig fällige Leistungen an Arbeitnehmer sind alle Leistungen an Arbeitnehmer, mit Ausnahme von kurzfristig fälligen Leistungen an Arbeitnehmer, Leistungen nach Beendigung des Arbeitsverhältnisses und Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses.
+Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses sind Leistungen an Arbeitnehmer, die im Austausch für die Beendigung des Arbeitsverhältnisses eines Arbeitnehmers gezahlt werden und daraus resultieren, dass entweder
+a) 
+
+ein Unternehmen die Beendigung des Arbeitsverhältnisses eines Arbeitnehmers vor dem regulären Renteneintrittszeitpunkt beschlossen hat oder
+b) 
+
+ein Arbeitnehmer im Austausch für die Beendigung des Arbeitsverhältnisses einem Leistungsangebot zugestimmt hat.
+Definitionen in Bezug auf die Einstufung von Plänen
+Pläne für Leistungen nach Beendigung des Arbeitsverhältnisses sind formelle oder informelle Vereinbarungen, durch die ein Unternehmen einem oder mehreren Arbeitnehmern Leistungen nach Beendigung des Arbeitsverhältnisses gewährt.
+Beitragsorientierte Pläne sind Pläne für Leistungen nach Beendigung des Arbeitsverhältnisses, bei denen ein Unternehmen festgelegte Beiträge an eine eigenständige Einheit (einen Fonds) entrichtet und weder rechtlich noch faktisch zur Zahlung darüber hinausgehender Beiträge verpflichtet ist, wenn der Fonds nicht über ausreichende Vermögenswerte verfügt, um alle Leistungen an Arbeitnehmer in Bezug auf Arbeitsleistungen der Arbeitnehmer in der aktuellen Berichtsperiode und früheren Perioden zu erbringen.
+Leistungsorientierte Pläne sind Pläne für Leistungen nach Beendigung des Arbeitsverhältnisses, die nicht unter die Definition der beitragsorientierten Pläne fallen.
+Gemeinschaftliche Pläne mehrerer Arbeitgeber sind beitragsorientierte (außer staatlichen Plänen) oder leistungsorientierte Pläne (außer staatlichen Plänen), bei denen
+a) 
+
+Vermögenswerte zusammengeführt werden, die von verschiedenen, nicht einer gemeinschaftlichen Beherrschung unterliegenden Unternehmen in den Plan eingebracht wurden, und
+b) 
+
+diese Vermögenswerte zur Gewährung von Leistungen an Arbeitnehmer aus mehr als einem Unternehmen verwendet werden, ohne dass die Beitrags- und Leistungshöhe von dem Unternehmen, in dem die entsprechenden Arbeitnehmer beschäftigt sind, abhängen.
+Definitionen in Bezug auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan
+Die Nettoschuld (der Nettovermögenswert) aus einem leistungsorientierten Plan ist die Unter- oder Überdeckung nach Berücksichtigung der Auswirkung der Begrenzung eines Nettovermögenswerts aus einem leistungsorientierten Plan auf die Obergrenze für den Vermögenswert.
+Eine Unter- oder Überdeckung ist
+a) 
+
+der Barwert der leistungsorientierten Verpflichtung abzüglich
+b) 
+
+des beizulegenden Zeitwerts eines etwaigen Planvermögens.
+Die Obergrenze für den Vermögenswert ist der Barwert eines wirtschaftlichen Nutzens in Form von Rückerstattungen aus dem Plan oder Minderungen künftiger Beitragszahlungen an den Plan.
+Der Barwert einer leistungsorientierten Verpflichtung ist der ohne Abzug von Planvermögen beizulegende Barwert erwarteter künftiger Zahlungen, die erforderlich sind, um die aufgrund von Arbeitnehmerleistungen in der aktuellen Berichtsperiode oder früheren Perioden entstandenen Verpflichtungen abgelten zu können.
+Planvermögen umfasst
+a) 
+
+Vermögen, das durch einen langfristig ausgelegten Fonds zur Erfüllung von Leistungen an Arbeitnehmer gehalten wird, und
+b) 
+
+qualifizierende Versicherungspolicen.
+Vermögen, das durch einen langfristig ausgelegten Fonds zur Erfüllung von Leistungen an Arbeitnehmer gehalten wird, ist Vermögen (außer nicht übertragbaren Finanzinstrumenten, die vom berichtenden Unternehmen ausgegeben wurden), das
+a) 
+
+von einer Einheit (einem Fonds) gehalten wird, die von dem berichtenden Unternehmen rechtlich unabhängig ist und die ausschließlich besteht, um Leistungen an Arbeitnehmer zu zahlen oder zu finanzieren, und
+b) 
+
+verfügbar ist, um ausschließlich die Leistungen an Arbeitnehmer zu zahlen oder zu finanzieren, aber nicht für die Gläubiger des berichtenden Unternehmens verfügbar ist (auch nicht im Falle eines Insolvenzverfahren), und das nicht an das berichtende Unternehmen zurückgezahlt werden kann, es sei denn
+i) 
+
+das verbleibende Vermögen des Fonds reicht aus, um alle Leistungsverpflichtungen gegenüber den Arbeitnehmern, die mit dem Plan oder dem berichtenden Unternehmen verbunden sind, zu erfüllen oder
+ii) 
+
+das Vermögen wird an das berichtende Unternehmen zurückgezahlt, um Leistungen an Arbeitnehmer, die bereits gezahlt wurden, zu erstatten.
+Eine qualifizierende Versicherungspolice ist eine Versicherungspolice  ( 9 ) eines Versicherers, der nicht zu den nahestehenden Unternehmen und Personen des berichtenden Unternehmens gehört (wie in IAS 24 Angaben über Beziehungen zu nahestehenden Unternehmen und Personen definiert), wenn die Erlöse aus dem Vertrag
+a) 
+
+nur verwendet werden können, um Leistungen an Arbeitnehmer aus einem leistungsorientierten Plan zu zahlen oder zu finanzieren, und
+b) 
+
+nicht den Gläubigern des berichtenden Unternehmens zur Verfügung stehen (auch nicht im Falle eines Insolvenzverfahrens) und nicht an das berichtende Unternehmen gezahlt werden können, es sei denn
+i) 
+
+die Erlöse stellen Überschüsse dar, die für die Erfüllung sämtlicher Leistungsverpflichtungen gegenüber Arbeitnehmern im Zusammenhang mit der Versicherungspolice nicht benötigt werden, oder
+ii) 
+
+die Erlöse werden an das berichtende Unternehmen zurückgezahlt, um bereits gezahlte Leistungen an Arbeitnehmer zu erstatten.
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+Definitionen in Bezug auf die Kosten aus leistungsorientierten Plänen
+Dienstzeitaufwand umfasst Folgendes:
+a) 
+
+laufenden Dienstzeitaufwand: Dies ist der Anstieg des Barwerts einer leistungsorientierten Verpflichtung, der auf die Arbeitsleistung von Arbeitnehmern in der aktuellen Berichtsperiode entfällt,
+b) 
+
+nachzuverrechnenden Dienstzeitaufwand: Dies ist die Veränderung des Barwerts der leistungsorientierten Verpflichtung für Arbeitsleistung vorangegangener Perioden, die aus einer Änderung (Einführung, Rücknahme oder Änderungen eines leistungsorientierten Plans) oder einer Kürzung des Plans (einer erheblichen unternehmensseitigen Senkung der Anzahl in einem Plan erfasster Arbeitnehmer) entsteht, und
+c) 
+
+Gewinne oder Verluste bei Abgeltung.
+Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan sind aufgrund des Verstreichens von Zeit während der Berichtsperiode eintretende Veränderungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan.
+Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan umfassen
+a) 
+
+versicherungsmathematische Gewinne und Verluste,
+b) 
+
+den Ertrag aus dem Planvermögen unter Ausschluss von Beträgen, die in den Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan enthalten sind, und
+c) 
+
+Veränderungen bei der Auswirkung der Obergrenze für den Vermögenswert unter Ausschluss von Beträgen, die in den Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Planenthalten sind.
+Versicherungsmathematische Gewinne und Verluste sind Veränderungen des Barwerts der leistungsorientierten Verpflichtung aufgrund von
+a) 
+
+erfahrungsbedingten Anpassungen (die Auswirkungen der Abweichungen zwischen früheren versicherungsmathematischen Annahmen und der tatsächlichen Entwicklung) und
+b) 
+
+Auswirkungen von Änderungen versicherungsmathematischer Annahmen.
+Der Ertrag aus dem Planvermögen setzt sich aus Zinsen, Dividenden und sonstigen Erträgen aus dem Planvermögen zusammen und umfasst auch realisierte und nicht realisierte Gewinne oder Verluste aus dem Planvermögen, abzüglich
+a) 
+
+etwaiger Kosten für die Verwaltung des Planvermögens und
+b) 
+
+vom Plan selbst zu entrichtender Steuern, soweit es sich nicht um Steuern handelt, die bereits in die versicherungsmathematischen Annahmen eingeflossen sind, die zur Ermittlung des Barwerts der leistungsorientierten Verpflichtung verwendet werden.
+Eine Abgeltung ist eine Vereinbarung, wonach alle weiteren rechtlichen und faktischen Verpflichtungen in Bezug auf einen Teil oder die Gesamtheit der in einem leistungsorientierten Plan zugesagten Leistungen eliminiert werden, soweit es sich nicht um eine in den Regelungen des Plans vorgesehene und in den versicherungsmathematischen Annahmen enthaltene Zahlung von Leistungen direkt an Arbeitnehmer oder zu deren Gunsten handelt.
+
+KURZFRISTIG FÄLLIGE LEISTUNGEN AN ARBEITNEHMER
+
+9 Kurzfristig fällige Leistungen an Arbeitnehmer umfassen Posten gemäß nachstehender Aufzählung, sofern davon ausgegangen wird, dass diese innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs, in dem die Arbeitnehmer die betreffende Arbeitsleistung erbringen, vollständig beglichen werden:
+a) 
+
+Löhne, Gehälter und Sozialversicherungsbeiträge,
+b) 
+
+Urlaubs- und Krankengeld,
+c) 
+
+Gewinn- und Erfolgsbeteiligungen und
+d) 
+
+geldwerte Leistungen (wie medizinische Versorgung, Unterbringung und Dienstwagen sowie kostenlose oder vergünstigte Güter oder Dienstleistungen) für aktive Arbeitnehmer.
+
+10 Ein Unternehmen muss eine kurzfristig fällige Leistung an Arbeitnehmer nicht umgliedern, wenn sich die Erwartungen des Unternehmens bezüglich des Zeitpunkts der Abgeltung vorübergehend ändern. Verändern sich jedoch die Merkmale der Leistung (beispielsweise Umstellung von einer nicht ansammelbaren Leistung auf eine ansammelbare Leistung) oder sind Erwartungen bezüglich des Zeitpunkts der Abgeltung nicht vorübergehender Natur, hat das Unternehmen zu prüfen, ob die Leistung noch der Definition einer kurzfristig fälligen Leistung an Arbeitnehmer entspricht.
+
+Ansatz und Bewertung
+
+Alle kurzfristig fälligen Leistungen an Arbeitnehmer
+
+11   Hat ein Arbeitnehmer im Verlauf der Bilanzierungsperiode Arbeitsleistungen für ein Unternehmen erbracht, ist von dem Unternehmen der nicht abgezinste Betrag der kurzfristig fälligen Leistung zu erfassen, der voraussichtlich im Austausch für diese Arbeitsleistung gezahlt wird, und zwar
+a) 
+
+als Schuld (passivische Abgrenzung) nach Abzug bereits geleisteter Zahlungen. Übersteigt der bereits gezahlte Betrag den nicht abgezinsten Betrag der Leistungen, so hat das Unternehmen die Differenz als Vermögenswert zu aktivieren (aktivische Abgrenzung), soweit die Vorauszahlung beispielsweise zu einer Verringerung künftiger Zahlungen oder einer Rückerstattung führen wird.
+b) 
+
+als Aufwand, es sei denn, ein anderer IFRS verlangt oder erlaubt die Einbeziehung der Leistungen in die Anschaffungs- oder Herstellungskosten eines Vermögenswerts (siehe z. B. IAS 2 Vorräte und IAS 16 Sachanlagen).
+
+12   In den Paragraphen 13, 16 und 19 wird erläutert, wie ein Unternehmen Paragraph 11 auf kurzfristig fällige Leistungen an Arbeitnehmer in Form von vergüteter Abwesenheit und Gewinn- und Erfolgsbeteiligung anzuwenden hat.
+
+Kurzfristig fällige Abwesenheitsvergütungen
+
+13   Ein Unternehmen hat die erwarteten Kosten für kurzfristig fällige Leistungen an Arbeitnehmer in Form von vergüteten Abwesenheiten gemäß Paragraph 11 wie folgt zu erfassen:
+a) 
+
+im Falle ansammelbarer Ansprüche, sobald die Arbeitnehmer Arbeitsleistungen erbracht haben, durch die sich ihre Ansprüche auf vergütete künftige Abwesenheit erhöhen.
+b) 
+
+im Falle nicht ansammelbarer Ansprüche zu dem Zeitpunkt, zu dem die Abwesenheit eintritt.
+
+14 Ein Unternehmen kann aus verschiedenen Gründen Vergütungen bei Abwesenheit von Arbeitnehmern zahlen, z. B. bei Urlaub, Krankheit, vorübergehender Arbeitsunfähigkeit, Erziehungsurlaub, Schöffentätigkeit oder bei Ableistung von Militärdienst. Ansprüche auf vergütete Abwesenheiten werden unterteilt in
+a) 
+
+ansammelbare Ansprüche und
+b) 
+
+nicht ansammelbare Ansprüche.
+
+15 Ansammelbare Ansprüche auf vergütete Abwesenheit sind solche, die vorgetragen werden und in künftigen Perioden genutzt werden können, wenn der Anspruch in der aktuellen Berichtsperiode nicht voll ausgeschöpft wird. Ansammelbare Ansprüche auf vergütete Abwesenheit können entweder unverfallbar (d. h. Arbeitnehmer haben bei ihrem Ausscheiden aus dem Unternehmen Anspruch auf einen Barausgleich für nicht in Anspruch genommene Leistungen) oder verfallbar sein (d. h. Arbeitnehmer haben bei ihrem Ausscheiden aus dem Unternehmen keinen Anspruch auf Barausgleich für nicht in Anspruch genommene Leistungen). Eine Verpflichtung entsteht, wenn Arbeitnehmer Arbeitsleistungen erbringen, durch die sich ihr Anspruch auf künftige vergütete Abwesenheit erhöht. Die Verpflichtung entsteht selbst dann und ist zu erfassen, wenn die Ansprüche auf vergütete Abwesenheit verfallbar sind, wobei allerdings die Bewertung dieser Verpflichtung davon beeinflusst wird, dass Arbeitnehmer möglicherweise aus dem Unternehmen ausscheiden, bevor sie die angesammelten verfallbaren Ansprüche nutzen.
+
+16   Ein Unternehmen hat die erwarteten Kosten ansammelbarer Ansprüche auf vergütete Abwesenheit mit dem zusätzlichen Betrag zu bewerten, den das Unternehmen aufgrund der zum Abschlussstichtag angesammelten, nicht genutzten Ansprüche voraussichtlich zahlen muss.
+
+17 Bei dem im vorangegangenen Paragraphen beschriebenen Verfahren wird die Verpflichtung mit dem Betrag der zusätzlichen Zahlungen angesetzt, die voraussichtlich allein aufgrund der Tatsache entstehen, dass die Leistung ansammelbar ist. In vielen Fällen bedarf es keiner detaillierten Berechnungen des Unternehmens, um abschätzen zu können, dass keine wesentliche Verpflichtung aus ungenutzten Ansprüchen auf vergütete Abwesenheit existiert. Zum Beispiel ist eine Krankengeldverpflichtung wahrscheinlich nur dann wesentlich, wenn im Unternehmen formell oder informell Einvernehmen darüber herrscht, dass ungenutzte vergütete Abwesenheit für Krankheit als bezahlter Jahresurlaub genommen werden kann.
+
+Beispiel zur Veranschaulichung der Paragraphen 16 und 17
+
+Ein Unternehmen beschäftigt 100 Mitarbeiter, die jeweils Anspruch auf fünf bezahlte Krankheitstage pro Jahr haben. Nicht in Anspruch genommene Krankheitstage können ein Kalenderjahr vorgetragen werden. Krankheitstage werden zuerst mit den Ansprüchen des laufenden Jahrs und dann mit den etwaigen übertragenen Ansprüchen aus dem vorangegangenen Jahr (auf LIFO-Basis) verrechnet. Zum 31. Dezember 20X1 belaufen sich die durchschnittlich ungenutzten Ansprüche auf zwei Tage je Arbeitnehmer. Das Unternehmen erwartet, dass die bisherigen Erfahrungen auch in Zukunft zutreffen, und geht davon aus, dass in 20X2 92 Arbeitnehmer nicht mehr als fünf bezahlte Krankheitstage und die restlichen acht Arbeitnehmer im Durchschnitt sechseinhalb Tage in Anspruch nehmen werden.
+
+Das Unternehmen erwartet, dass es aufgrund der zum 31. Dezember 20X1 ungenutzten angesammelten Ansprüche für zusätzliche zwölf Krankentage zahlen wird (das entspricht je eineinhalb Tagen für acht Arbeitnehmer). Daher setzt das Unternehmen eine Schuld in Höhe von 12 Tagen Krankengeld an.
+
+18 Nicht ansammelbare Ansprüche auf vergütete Abwesenheit können nicht vorgetragen werden: Sie verfallen, soweit die Ansprüche in der aktuellen Berichtsperiode nicht vollständig genutzt werden, und berechtigen Arbeitnehmer auch nicht zum Erhalt eines Barausgleichs für ungenutzte Ansprüche bei Ausscheiden aus dem Unternehmen. Dies ist üblicherweise der Fall bei Krankengeld (soweit ungenutzte Ansprüche der Vergangenheit künftige Ansprüche nicht erhöhen), Erziehungsurlaub und vergüteter Abwesenheit bei Schöffentätigkeit oder Militärdienst. Ein Unternehmen erfasst eine Schuld oder einen Aufwand nicht vor dem Zeitpunkt der Abwesenheit, da die Arbeitsleistung der Arbeitnehmer den Wert des Leistungsanspruchs nicht erhöht.
+
+Gewinn- und Erfolgsbeteiligungspläne
+
+19   Ein Unternehmen hat die erwarteten Kosten eines Gewinn- oder Erfolgsbeteiligungsplanes gemäß Paragraph 11 nur dann zu erfassen, wenn
+a) 
+
+das Unternehmen aufgrund von Ereignissen der Vergangenheit gegenwärtig eine rechtliche oder faktische Verpflichtung hat, solche Leistungen zu gewähren und
+b) 
+
+die Höhe der Verpflichtung verlässlich geschätzt werden kann.
+
+Eine gegenwärtige Verpflichtung besteht nur dann, wenn das Unternehmen keine realistische Alternative zur Zahlung hat.
+
+20 Einige Gewinnbeteiligungspläne sehen vor, dass Arbeitnehmer nur dann einen Gewinnanteil erhalten, wenn sie für einen festgelegten Zeitraum beim Unternehmen bleiben. Im Rahmen solcher Pläne entsteht dennoch eine faktische Verpflichtung für das Unternehmen, da Arbeitnehmer Arbeitsleistung erbringen, durch die sich der zu zahlende Betrag erhöht, sofern sie bis zum Ende des festgesetzten Zeitraums im Unternehmen verbleiben. Bei der Bewertung solcher faktischen Verpflichtungen ist zu berücksichtigen, dass möglicherweise einige Arbeitnehmer ausscheiden, ohne eine Gewinnbeteiligung zu erhalten.
+
+Beispiel zur Veranschaulichung des Paragraphen 20
+
+Ein Gewinnbeteiligungsplan verpflichtet ein Unternehmen zur Zahlung eines bestimmten Anteils vom Jahresgewinn an Arbeitnehmer, die während des ganzen Jahres beschäftigt sind. Wenn im Laufe des Jahres keine Arbeitnehmer ausscheiden, werden die insgesamt auszuzahlenden Gewinnbeteiligungen für das Jahr 3 % des Gewinns betragen. Das Unternehmen schätzt, dass sich die Zahlungen aufgrund der Mitarbeiterfluktuation auf 2,5 % des Gewinns reduzieren.
+
+Das Unternehmen erfasst eine Schuld und einen Aufwand in Höhe von 2,5 % des Gewinns.
+
+21 Möglicherweise ist ein Unternehmen rechtlich nicht zur Zahlung von Erfolgsbeteiligungen verpflichtet. In einigen Fällen ist dies jedoch betriebliche Praxis. In diesen Fällen besteht eine faktische Verpflichtung, da das Unternehmen keine realistische Alternative zur Zahlung der Erfolgsbeteiligung hat. Bei der Bewertung der faktischen Verpflichtung ist zu berücksichtigen, dass möglicherweise einige Arbeitnehmer ausscheiden, ohne eine Erfolgsbeteiligung zu erhalten.
+
+22 Eine verlässliche Schätzung einer rechtlichen oder faktischen Verpflichtung eines Unternehmens hinsichtlich eines Gewinn- oder Erfolgsbeteiligungsplans ist nur dann möglich, wenn
+a) 
+
+die formellen Regelungen des Plans eine Formel zur Bestimmung der Leistungshöhe enthalten,
+b) 
+
+das Unternehmen die zu zahlenden Beträge festlegt, bevor der Abschluss zur Veröffentlichung genehmigt wurde oder
+c) 
+
+aufgrund früherer Praktiken die Höhe der faktischen Verpflichtung des Unternehmens eindeutig bestimmt ist.
+
+23 Eine Verpflichtung aus Gewinn- und Erfolgsbeteiligungsplänen beruht auf der Arbeitsleistung der Arbeitnehmer und nicht auf einem Rechtsgeschäft mit den Eigentümern des Unternehmens. Deswegen werden die Kosten eines Gewinn- und Erfolgsbeteiligungsplans nicht als Gewinnausschüttung, sondern als Aufwand erfasst.
+
+24 Werden Zahlungen aus Gewinn- und Erfolgsbeteiligungsplänen nicht innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs, in dem die Arbeitnehmer die entsprechende Arbeitsleistung erbringen, vollständig beglichen, so fallen sie unter andere langfristig fällige Leistungen an Arbeitnehmer (siehe die Paragraphen 153–158).
+
+Angaben
+
+25 Obgleich dieser Standard keine besonderen Angaben zu kurzfristig fälligen Leistungen an Arbeitnehmer vorschreibt, können solche Angaben nach Maßgabe anderer IFRS erforderlich sein. Zum Beispiel sind nach IAS 24 Angaben zu Leistungen für das Management in Schlüsselpositionen zu machen. Nach IAS 1 Darstellung des Abschlusses ist der Aufwand für Leistungen an Arbeitnehmer anzugeben.
+
+LEISTUNGEN NACH BEENDIGUNG DES ARBEITSVERHÄLTNISSES: UNTERSCHEIDUNG ZWISCHEN BEITRAGSORIENTIERTEN UND LEISTUNGSORIENTIERTEN PLÄNEN
+
+26 Leistungen nach Beendigung des Arbeitsverhältnisses umfassen u.a.
+a) 
+
+Altersversorgungsleistungen (beispielweise Renten und einmalige Zahlungen bei Renteneintritt) und
+b) 
+
+sonstige Leistungen nach Beendigung des Arbeitsverhältnisses wie Lebensversicherungen und medizinische Versorgung nach Beendigung des Arbeitsverhältnisses.
+
+Vereinbarungen, nach denen ein Unternehmen solche Leistungen gewährt, werden als Pläne für Leistungen nach Beendigung des Arbeitsverhältnisses bezeichnet. Dieser Standard ist auf alle derartigen Vereinbarungen anzuwenden, unabhängig davon, ob diese die Errichtung einer eigenständigen Einheit vorsehen, an die Beiträge entrichtet und aus der Leistungen erbracht werden, oder nicht.
+
+27 Pläne für Leistungen nach Beendigung des Arbeitsverhältnisses werden in Abhängigkeit von ihrem wirtschaftlichen Gehalt, der sich aus den grundlegenden Leistungsbedingungen und -voraussetzungen des Plans ergibt, entweder als leistungsorientiert oder als beitragsorientiert eingestuft.
+
+28 Im Rahmen beitragsorientierter Pläne ist die rechtliche oder faktische Verpflichtung eines Unternehmens auf den vom Unternehmen vereinbarten Beitrag zum Fonds begrenzt. Damit richtet sich die Höhe der Leistungen nach Beendigung des Arbeitsverhältnisses, die der Arbeitnehmer erhält, nach der Höhe der Beiträge, die das Unternehmen (und manchmal auch dessen Arbeitnehmer) an den betreffenden Plan oder an ein Versicherungsunternehmen gezahlt haben, sowie der Rendite aus der Anlage dieser Beiträge. Folglich werden das versicherungsmathematische Risiko (dass Leistungen geringer ausfallen können als erwartet) und das Anlagerisiko (dass die angelegten Vermögenswerte nicht ausreichen, um die erwarteten Leistungen zu erbringen) letztlich vom Arbeitnehmer getragen.
+
+29 Beispiele für Situationen, in denen die Verpflichtung eines Unternehmens nicht auf die vereinbarten Beitragszahlungen an den Fonds begrenzt ist, liegen dann vor, wenn die rechtliche oder faktische Verpflichtung des Unternehmens dadurch gekennzeichnet ist, dass
+a) 
+
+die in einem Plan enthaltene Leistungsformel nicht ausschließlich auf die Beiträge abstellt, sondern dem Unternehmen die Zahlung weiterer Beiträge vorschreibt, falls das Vermögen nicht ausreicht, um die in der Leistungsformel des Plans vorgesehenen Leistungen zu erfüllen,
+b) 
+
+eine bestimmte Mindestverzinsung der Beiträge entweder mittelbar über einen Leistungsplan oder unmittelbar garantiert wurde, oder
+c) 
+
+betriebsübliche Praktiken eine faktische Verpflichtung begründen. Eine faktische Verpflichtung kann beispielsweise entstehen, wenn ein Unternehmen in der Vergangenheit stets die Leistungen für ausgeschiedene Arbeitnehmer erhöht hat, um sie an die Inflation anzupassen, selbst wenn dazu keine rechtliche Verpflichtung bestand.
+
+30 Im Rahmen leistungsorientierter Pläne
+a) 
+
+besteht die Verpflichtung des Unternehmens in der Gewährung der zugesagten Leistungen an aktive und ausgeschiedene Arbeitnehmer und
+b) 
+
+werden das versicherungsmathematische Risiko (d. h., dass die Leistungen höhere Kosten als erwartet verursachen) sowie das Anlagerisiko letztlich vom Unternehmen getragen. Sollte die tatsächliche Entwicklung ungünstiger verlaufen als dies nach den versicherungsmathematischen Annahmen oder Renditeannahmen für die Vermögensanlage erwartet wurde, so kann sich die Verpflichtung des Unternehmens erhöhen.
+
+31 In den Paragraphen 32–49 wird die Unterscheidung zwischen beitragsorientierten und leistungsorientierten Plänen in Bezug auf gemeinschaftliche Pläne mehrerer Arbeitgeber, leistungsorientierte Pläne mit Risikoverteilung zwischen Unternehmen unter gemeinsamer Beherrschung und staatliche Pläne sowie in Bezug auf versicherte Leistungen erläutert.
+
+Gemeinschaftliche Pläne mehrerer Arbeitgeber
+
+32   Ein gemeinschaftlicher Plan mehrerer Arbeitgeber ist von einem Unternehmen nach den Regelungen des Plans (einschließlich faktischer Verpflichtungen, die über die formalen Regelungen des Plans hinausgehen) als beitragsorientierter Plan oder als leistungsorientierter Plan einzustufen.
+
+33   Nimmt ein Unternehmen an einem leistungsorientierten gemeinschaftlichen Plan mehrerer Arbeitgeber teil, hat das Unternehmen, sofern Paragraph 34 nicht anwendbar ist,
+a) 
+
+seinen Anteil an der leistungsorientierten Verpflichtung, dem Planvermögen und den mit dem Plan verbundenen Kosten genauso zu bilanzieren wie bei jedem anderen leistungsorientierten Plan und
+b) 
+
+die gemäß den Paragraphen 135–148 (mit Ausnahme von Paragraph 148(d)) erforderlichen Angaben zu machen.
+
+34   Falls keine ausreichenden Informationen zur Verfügung stehen, um einen leistungsorientierten gemeinschaftlichen Plan mehrerer Arbeitgeber wie einen leistungsorientierten Plan zu bilanzieren, hat das Unternehmen
+a) 
+
+den Plan wie einen beitragsorientierten Plan zu bilanzieren, d. h. gemäß den Paragraphen 51 und 52, und
+b) 
+
+die in Paragraph 148 vorgeschriebenen Angaben zu machen.
+
+35 Ein leistungsorientierter gemeinschaftlicher Plan mehrerer Arbeitgeber liegt beispielsweise dann vor, wenn
+a) 
+
+der Plan durch Umlagebeiträge finanziert wird, mit denen die in derselben Periode fälligen Leistungen voraussichtlich voll gezahlt werden können, während die in der aktuellen Berichtsperiode erdienten künftigen Leistungen aus künftigen Beiträgen gezahlt werden, und
+b) 
+
+sich die Höhe der Leistungen an Arbeitnehmer nach der Länge ihrer Dienstzeiten bemisst und die am Plan teilnehmenden Unternehmen keine realistische Möglichkeit zur Beendigung ihrer Mitgliedschaft haben, ohne einen Beitrag für die bis zum Tag des Ausscheidens aus dem Plan erdienten Leistungen ihrer Arbeitnehmer zu zahlen. Ein solcher Plan beinhaltet versicherungsmathematische Risiken für das Unternehmen: Falls die tatsächlichen Kosten der bis zum Abschlussstichtag bereits erdienten Leistungen höher sind als erwartet, wird das Unternehmen entweder seine Beiträge erhöhen oder die Arbeitnehmer davon überzeugen müssen, Leistungsminderungen zu akzeptieren. Aus diesem Grund ist ein solcher Plan ein leistungsorientierter Plan.
+
+36 Wenn ausreichende Informationen über einen leistungsorientierten gemeinschaftlichen Plan mehrerer Arbeitgeber verfügbar sind, erfasst das Unternehmen seinen Anteil an der leistungsorientierten Verpflichtung, dem Planvermögen und den Kosten für Leistungen nach Beendigung des Arbeitsverhältnisses in der gleichen Weise wie für jeden anderen leistungsorientierten Plan. Doch ist ein Unternehmen möglicherweise nicht in der Lage, seinen Anteil an der Vermögens- Finanz- und Ertragslage des Plans für Bilanzierungszwecke hinreichend verlässlich zu bestimmen. Dies kann der Fall sein, wenn
+a) 
+
+der Plan die teilnehmenden Unternehmen versicherungsmathematischen Risiken in Bezug auf die aktiven und ausgeschiedenen Arbeitnehmer der anderen Unternehmen aussetzt, und so im Ergebnis keine stetige und verlässliche Grundlage für die Zuordnung der Verpflichtung, des Planvermögens und der Kosten auf die einzelnen, teilnehmenden Unternehmen existiert oder
+b) 
+
+das Unternehmen keinen Zugang zu ausreichenden Informationen über den Plan hat, die den Vorschriften dieses Standards genügen.
+
+In diesen Fällen bilanziert das Unternehmen den Plan wie einen beitragsorientierten Plan und macht die in Paragraph 148 vorgeschriebenen Angaben.
+
+37 Es kann eine vertragliche Vereinbarung zwischen dem gemeinschaftlichen Plan mehrerer Arbeitgeber und dessen Teilnehmern bestehen, worin festgelegt ist, wie die Überdeckung im Plan an die Teilnehmer verteilt wird (oder die Unterdeckung finanziert wird). Ein Teilnehmer eines gemeinschaftlichen Plans mehrerer Arbeitgeber mit einer derartigen Vereinbarung, der als beitragsorientierter Plan gemäß Paragraph 34 bilanziert wird, hat den Vermögenswert oder die Schuld aus der vertraglichen Vereinbarung anzusetzen und die daraus entstehenden Erträge oder Aufwendungen erfolgswirksam zu erfassen.
+
+Beispiel zur Veranschaulichung des Paragraphen 37
+
+Ein Unternehmen nimmt an einem leistungsorientierten gemeinschaftlichen Plan mehrerer Arbeitgeber teil, der jedoch keine auf IAS 19 basierenden Bewertungen des Plans erstellt. Das Unternehmen bilanziert den Plan daher als beitragsorientierten Plan. Eine nicht auf IAS 19 basierende Bewertung der Finanzierung weist eine Unterdeckung des Plans von 100 Mio. WE ( 10 ) auf. Der Plan hat mit den teilnehmenden Arbeitgebern vertraglich einen Beitragsplan vereinbart, der innerhalb der nächsten fünf Jahre die Unterdeckung ausgleichen wird. Die vertraglich vereinbarten Gesamtbeiträge des Unternehmens belaufen sich auf 8 Mio. WE.
+
+Das Unternehmen setzt die Schuld für die Beiträge nach Berücksichtigung des Zeitwerts des Geldes an und erfasst den entsprechenden Aufwand erfolgswirksam.
+
+38 Gemeinschaftliche Pläne mehrerer Arbeitgeber unterscheiden sich von gemeinschaftlich verwalteten Plänen. Ein gemeinschaftlich verwalteter Plan ist lediglich eine Zusammenfassung von Plänen einzelner Arbeitgeber, die es diesen ermöglicht, ihre jeweiligen Planvermögen für Zwecke der gemeinsamen Anlage zusammenzulegen und die Kosten der Vermögensanlage und der allgemeinen Verwaltung zu senken, wobei die Ansprüche der verschiedenen Arbeitgeber aber getrennt bleiben und nur Leistungen an ihre jeweiligen Arbeitnehmer betreffen. Gemeinschaftlich verwaltete Pläne verursachen keine besonderen Bilanzierungsprobleme, weil die erforderlichen Informationen jederzeit verfügbar sind, um sie wie jeden anderen Plan eines einzelnen Arbeitgebers zu behandeln, und weil solche Pläne die teilnehmenden Unternehmen keinen versicherungsmathematischen Risiken in Bezug auf aktive und ausgeschiedene Arbeitnehmer der anderen Unternehmen aussetzen. Die Definitionen in diesem Standard verpflichten ein Unternehmen, einen gemeinschaftlich verwalteten Plan entsprechend den Regelungen des Plans (einschließlich möglicher faktischer Verpflichtungen, die über die formalen Regelungen hinausgehen) als einen beitragsorientierten Plan oder einen leistungsorientierten Plan einzustufen.
+
+39   Bei der Feststellung, wann eine im Zusammenhang mit der Auflösung eines leistungsorientierten gemeinschaftlichen Plans mehrerer Arbeitgeber oder des Ausscheidens des Unternehmens aus einem leistungsorientierten gemeinschaftlichen Plan mehrerer Arbeitgeber entstandene Schuld anzusetzen und wie sie zu bewerten ist, hat ein Unternehmen IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen anzuwenden.
+
+Leistungsorientierte Pläne, die Risiken auf verschiedene Unternehmen unter gemeinsamer Beherrschung verteilen
+
+40 Leistungsorientierte Pläne, die Risiken auf mehrere Unternehmen unter gemeinsamer Beherrschung verteilen, wie auf ein Mutterunternehmen und seine Tochterunternehmen, gelten nicht als gemeinschaftliche Pläne mehrerer Arbeitgeber.
+
+41 Ein an einem solchen Plan teilnehmendes Unternehmen hat Informationen über den gesamten Plan einzuholen, der nach dem vorliegenden Standard auf Grundlage von Annahmen, die für den gesamten Plan gelten, bewertet wird. Besteht eine vertragliche Vereinbarung oder eine ausgewiesene Richtlinie, die Nettokosten aus dem gesamten, gemäß dem vorliegenden Standard bewerteten leistungsorientierten Plan den einzelnen Konzernunternehmen anzulasten, so hat das Unternehmen die angelasteten Nettokosten aus dem leistungsorientierten Plan in seinem Einzelabschluss zu erfassen. Gibt es keine derartige Vereinbarung oder Richtlinie, sind die Nettokosten aus dem leistungsorientierten Plan von dem Konzernunternehmen, das das rechtliche Trägerunternehmen des Plans ist, in seinem Einzelabschluss zu erfassen. Die anderen Konzernunternehmen haben in ihren Einzelabschlüssen einen Aufwand zu erfassen, der ihrem in der betreffenden Berichtsperiode zu zahlenden Beitrag entspricht.
+
+42 Für jedes einzelne Konzernunternehmen stellt die Teilnahme an einem solchen Plan einen Geschäftsvorfall mit nahestehenden Unternehmen und Personen dar. Daher hat ein Unternehmen in seinem Einzelabschluss die in Paragraph 149 vorgeschriebenen Angaben zu machen.
+
+Staatliche Pläne
+
+43   Ein Unternehmen hat einen staatlichen Plan genauso zu behandeln wie einen gemeinschaftlichen Plan mehrerer Arbeitgeber (siehe Paragraphen 32–39).
+
+44 Staatliche Pläne werden durch den Gesetzgeber festgelegt, um alle Unternehmen (oder alle Unternehmen einer bestimmten Kategorie, wie z. B. in einem bestimmten Industriezweig) zu erfassen, und sie werden vom Staat, von regionalen oder überregionalen Einrichtungen des öffentlichen Rechts oder anderen Stellen (z. B. eigens dafür geschaffenen autonomen Institutionen) betrieben, welche nicht der Beherrschung oder Einflussnahme des berichtenden Unternehmens unterliegen. Einige von Unternehmen eingerichtete Pläne erbringen sowohl Pflichtleistungen – und ersetzen insofern die andernfalls über einen staatlichen Plan zu versichernden Leistungen – als auch zusätzliche freiwillige Leistungen. Solche Pläne sind keine staatlichen Pläne.
+
+45 Staatliche Pläne werden als leistungsorientiert oder als beitragsorientiert eingestuft, je nachdem, welche Verpflichtung dem Unternehmen aus dem Plan erwächst. Viele staatliche Pläne werden nach dem Umlageprinzip finanziert: Die Beiträge werden ausreichend hoch angesetzt, damit die in derselben Periode fälligen Leistungen voraussichtlich voll gezahlt werden können; künftige, in der laufenden Periode erdiente Leistungen werden aus künftigen Beiträgen erbracht. Dennoch besteht bei staatlichen Plänen in den meisten Fällen keine rechtliche oder faktische Verpflichtung des Unternehmens zur Zahlung dieser künftigen Leistungen: Es ist nur dazu verpflichtet, die fälligen Beiträge zu entrichten, und wenn das Unternehmen keine dem staatlichen Plan angehörenden Mitarbeiter mehr beschäftigt, ist es auch nicht verpflichtet, die in früheren Jahren erdienten Leistungen der eigenen Mitarbeiter zu erbringen. Deswegen sind staatliche Pläne im Regelfall beitragsorientierte Pläne. Ist ein staatlicher Plan jedoch ein leistungsorientierter Plan, wendet ein Unternehmen die Vorschriften der Paragraphen 32–39 an.
+
+Versicherte Leistungen
+
+46   Ein Unternehmen kann einen Plan für Leistungen nach Beendigung des Arbeitsverhältnisses durch Zahlung von Versicherungsprämien finanzieren. Ein solcher Plan ist als beitragsorientierter Plan zu behandeln, es sei denn, das Unternehmen ist (unmittelbar oder mittelbar über den Plan) rechtlich oder faktisch dazu verpflichtet,
+a) 
+
+die Leistungen bei Fälligkeit entweder unmittelbar an die Arbeitnehmer zu zahlen oder
+b) 
+
+zusätzliche Beträge zu entrichten, falls der Versicherer nicht alle in der laufenden oder in früheren Perioden erdienten Leistungen zahlt.
+
+Wenn eine solche rechtliche oder faktische Verpflichtung beim Unternehmen verbleibt, ist der Plan als leistungsorientierter Plan zu behandeln.
+
+47 Die durch eine Versicherungspolice versicherten Leistungen müssen keine direkte oder automatische Beziehung zur Verpflichtung des Unternehmens haben. Bei versicherten Plänen für Leistungen nach Beendigung des Arbeitsverhältnisses gilt die gleiche Unterscheidung zwischen Bilanzierung und Finanzierung wie bei anderen fondsfinanzierten Plänen.
+
+48 Wenn ein Unternehmen eine Verpflichtung zu einer nach Beendigung des Arbeitsverhältnisses zu erbringenden Leistung über Beiträge zu einer Versicherungspolice finanziert und gemäß dieser eine rechtliche oder faktische Verpflichtung bei dem Unternehmen verbleibt (unmittelbar oder mittelbar über den Plan, durch den Mechanismus bei der Festlegung zukünftiger Beiträge oder, weil der Versicherer ein nahestehendes Unternehmen ist), ist die Zahlung der Versicherungsprämien nicht als beitragsorientierte Vereinbarung einzustufen. Daraus folgt, dass das Unternehmen
+a) 
+
+die qualifizierende Versicherungspolice als Planvermögen erfasst (siehe Paragraph 8) und
+b) 
+
+andere Versicherungspolicen als Erstattungsansprüche ansetzt (wenn die Policen das Kriterium des Paragraphen 116 erfüllen).
+
+49 Ist eine Versicherungspolice auf den Namen eines einzelnen Planbegünstigten oder auf eine Gruppe von Planbegünstigten ausgestellt und das Unternehmen weder rechtlich noch faktisch dazu verpflichtet, mögliche Verluste aus der Versicherungspolice auszugleichen, so ist das Unternehmen auch nicht dazu verpflichtet, Leistungen unmittelbar an die Arbeitnehmer zu zahlen; die alleinige Verantwortung zur Zahlung der Leistungen liegt dann beim Versicherer. Im Rahmen solcher Verträge stellt die Zahlung der festgelegten Versicherungsprämien grundsätzlich die Abgeltung der Leistungsverpflichtung an Arbeitnehmer dar und nicht lediglich eine Finanzinvestition zur Erfüllung der Verpflichtung. Folglich existieren bei dem Unternehmen kein diesbezüglicher Vermögenswert und keine diesbezügliche Schuld mehr. Ein Unternehmen behandelt derartige Zahlungen daher wie Beiträge an einen beitragsorientierten Plan.
+
+LEISTUNGEN NACH BEENDIGUNG DES ARBEITSVERHÄLTNISSES: BEITRAGSORIENTIERTE PLÄNE
+
+50 Die Bilanzierung beitragsorientierter Pläne ist einfach, weil die Verpflichtung des berichtenden Unternehmens in jeder Periode durch die für diese Periode zu entrichtenden Beiträge bestimmt wird. Deswegen sind zur Bewertung von Verpflichtung oder Aufwand des Unternehmens keine versicherungsmathematischen Annahmen erforderlich, und es können keine versicherungsmathematischen Gewinne oder Verluste entstehen. Darüber hinaus werden die Verpflichtungen auf nicht abgezinster Basis bewertet, es sei denn, sie werden voraussichtlich nicht innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs, in dem die Arbeitnehmer die entsprechende Arbeitsleistung erbringen, vollständig beglichen.
+
+Ansatz und Bewertung
+
+51   Hat ein Arbeitnehmer im Verlauf einer Periode Arbeitsleistungen erbracht, so hat das Unternehmen den im Austausch für die Arbeitsleistung zu zahlenden Beitrag an einen beitragsorientierten Plan wie folgt zu erfassen:
+a) 
+
+als Schuld (abzugrenzender Aufwand) nach Abzug bereits entrichteter Beiträge. Übersteigt der bereits gezahlte Beitrag denjenigen Beitrag, der der bis zum Abschlussstichtag erbrachten Arbeitsleistung entspricht, so hat das Unternehmen die Differenz als Vermögenswert zu aktivieren (aktivische Abgrenzung), sofern die Vorauszahlung beispielsweise zu einer Verringerung künftiger Zahlungen oder einer Rückerstattung führen wird.
+b) 
+
+als Aufwand, es sei denn, ein anderer IFRS verlangt oder erlaubt die Einbeziehung des Beitrags in die Anschaffungs- oder Herstellungskosten eines Vermögenswerts (siehe z. B. IAS 2 und IAS 16).
+
+52   Soweit Beiträge an einen beitragsorientierten Plan voraussichtlich nicht innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs, in dem die Arbeitnehmer die entsprechende Arbeitsleistung erbringen, vollständig beglichen werden, sind sie unter Anwendung des in Paragraph 83 angegebenen Abzinsungssatzes abzuzinsen.
+
+Angaben
+
+53   Der als Aufwand für einen beitragsorientierten Plan erfasste Betrag ist im Abschluss des Unternehmens anzugeben.
+
+54 Falls IAS 24 dies vorschreibt, sind Angaben über Beiträge an beitragsorientierte Versorgungspläne für das Management in Schlüsselpositionen zu machen.
+
+LEISTUNGEN NACH BEENDIGUNG DES ARBEITSVERHÄLTNISSES: LEISTUNGSORIENTIERTE PLÄNE
+
+55 Die Bilanzierung leistungsorientierter Pläne ist komplex, weil zur Bewertung von Verpflichtung und Aufwand versicherungsmathematische Annahmen erforderlich sind und versicherungsmathematische Gewinne und Verluste auftreten können. Darüber hinaus wird die Verpflichtung auf abgezinster Basis bewertet, da sie möglicherweise erst viele Jahre nach Erbringung der damit zusammenhängenden Arbeitsleistung der Arbeitnehmer gezahlt wird.
+
+Ansatz und Bewertung
+
+56 Leistungsorientierte Pläne können durch die Zahlung von Beiträgen des Unternehmens, manchmal auch seiner Arbeitnehmer, an eine vom berichtenden Unternehmen unabhängige, rechtlich selbstständige Einheit oder einen Fonds, aus der/dem die Leistungen an die Arbeitnehmer gezahlt werden, ganz oder teilweise finanziert sein, oder sie bestehen ohne Fondsdeckung. Die Zahlung der über einen Fonds finanzierten Leistungen hängt bei deren Fälligkeit nicht nur von der Vermögens- und Finanzlage und dem Anlageerfolg des Fonds ab, sondern auch von der Fähigkeit und Bereitschaft des Unternehmens, etwaige Fehlbeträge im Vermögen des Fonds auszugleichen. Daher trägt letztlich das Unternehmen die mit dem Plan verbundenen versicherungsmathematischen Risiken und Anlagerisiken. Der für einen leistungsorientierten Plan zu erfassende Aufwand entspricht daher nicht notwendigerweise dem in der Periode fälligen Beitrag.
+
+57 Die Bilanzierung leistungsorientierter Pläne durch ein Unternehmen umfasst folgende Schritte:
+a) 
+
+Die Bestimmung der Unter- oder Überdeckung. Dies beinhaltet
+i) 
+
+die Anwendung einer versicherungsmathematischen Methode, nämlich der Methode der laufenden Einmalprämien, zur verlässlichen Schätzung der Kosten, die dem Unternehmen für die Leistungen, die Arbeitnehmer im Austausch für in der laufenden Periode und in früheren Perioden erbrachte Arbeitsleistungen erdient haben, tatsächlich entstehen (siehe Paragraphen 67–69). Dazu muss ein Unternehmen bestimmen, zu welchem Teil die Leistungen der laufenden und früheren Perioden zuzuordnen sind (siehe Paragraphen 70–74), und Einschätzungen (versicherungsmathematische Annahmen) zu demographischen Variablen (z. B. Mitarbeiterfluktuation und Sterbewahrscheinlichkeit) sowie zu finanziellen Variablen (z. B. künftige Gehaltssteigerungen und Kostentrends für medizinische Versorgung) vornehmen, die die Kosten für die zugesagten Leistungen beeinflussen (siehe Paragraphen 75–98).
+ii) 
+
+die Abzinsung dieser Leistungen zur Bestimmung des Barwerts der leistungsorientierten Verpflichtung und des laufenden Dienstzeitaufwands (siehe Paragraphen 67–69 und 83–86).
+iii) 
+
+den Abzug des beizulegenden Zeitwerts eines etwaigen Planvermögens (siehe Paragraphen 113–115) vom Barwert der leistungsorientierten Verpflichtung.
+b) 
+
+die Bestimmung der Höhe der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan als Betrag der gemäß (a) bestimmten Unter- oder Überdeckung, berichtigt um die Auswirkung der Begrenzung eines Nettovermögenswerts aus einem leistungsorientierten Plan auf die Obergrenze für den Vermögenswert (siehe Paragraph 64).
+c) 
+
+die Bestimmung der folgenden, erfolgswirksam zu erfassenden Beträge:
+i) 
+
+laufender Dienstzeitaufwand (siehe Paragraphen 70–74 und Paragraph 122A),
+ii) 
+
+nachzuverrechnender Dienstzeitaufwand und Gewinn oder Verlust aus der Abgeltung (siehe Paragraphen 99–112),
+iii) 
+
+Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan (siehe Paragraphen 123–126).
+d) 
+
+die Bestimmung der Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan; diese sind unter „Sonstiges Ergebnis“ anzusetzen und setzen sich zusammen aus
+i) 
+
+versicherungsmathematischen Gewinnen und Verlusten (siehe Paragraphen 128 und 129),
+ii) 
+
+dem Ertrag aus Planvermögen unter Ausschluss von Beträgen, die in den Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan enthalten sind (siehe Paragraph 130), und
+iii) 
+
+Veränderungen in der Auswirkung der Obergrenze für den Vermögenswert (siehe Paragraph 64) unter Ausschluss von Beträgen, die in den Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan enthalten sind.
+
+Wenn ein Unternehmen mehr als einen leistungsorientierten Plan hat, ist diese Vorgehensweise auf jeden wesentlichen Plan gesondert anzuwenden.
+
+58   Ein Unternehmen hat die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan so regelmäßig zu bestimmen, dass sichergestellt ist, dass sich die im Abschluss angesetzten Beträge nicht wesentlich von den Beträgen unterscheiden, die sich bei Bestimmung am Abschlussstichtag ergäben.
+
+59 Der vorliegende Standard empfiehlt, schreibt aber nicht vor, dass ein Unternehmen in die Bewertung aller wesentlichen Verpflichtungen zu einer nach Beendigung des Arbeitsverhältnisses zu erbringenden Leistung einen qualifizierten Versicherungsmathematiker einbezieht. Ein Unternehmen kann aus praktischen Gründen einen qualifizierten Versicherungsmathematiker damit beauftragen, vor dem Abschlussstichtag eine detaillierte Bewertung der Verpflichtung durchzuführen. Die Ergebnisse dieser Bewertung werden jedoch aktualisiert, um wesentlichen Geschäftsvorfällen und anderen wesentlichen Veränderungen (einschließlich Veränderungen bei Marktwerten und Zinssätzen) bis zum Abschlussstichtag Rechnung zu tragen.
+
+60 In einigen Fällen können die in diesem Standard dargestellten detaillierten Berechnungen durch Schätzungen, Durchschnittsbildung und vereinfachte Berechnungen verlässlich angenähert werden.
+
+Bilanzierung der faktischen Verpflichtung
+
+61   Ein Unternehmen hat nicht nur die aus den formalen Regelungen eines leistungsorientierten Plans resultierenden rechtlichen Verpflichtungen zu bilanzieren, sondern auch alle faktischen Verpflichtungen, die aus betriebsüblichen Praktiken resultieren. Betriebliche Praxis begründet faktische Verpflichtungen, wenn das Unternehmen keine realistische Alternative zur Zahlung der Leistungen an Arbeitnehmer hat. Eine faktische Verpflichtung ist beispielsweise dann gegeben, wenn eine Änderung der üblichen betrieblichen Praxis zu einer unannehmbaren Schädigung des sozialen Klimas im Betrieb führen würde.
+
+62 Die formalen Regelungen eines leistungsorientierten Plans können es einem Unternehmen gestatten, sich von seinen Verpflichtungen aus dem Plan zu befreien. Dennoch ist es für ein Unternehmen in der Regel schwierig, sich von seinen Verpflichtungen aus dem Plan (ohne Zahlung) zu befreien, wenn die Arbeitnehmer gehalten werden sollen. Solange keine Anhaltspunkte für das Gegenteil vorliegen, erfolgt daher die Bilanzierung von nach Beendigung des Arbeitsverhältnisses zu erbringenden Leistungen unter der Annahme, dass ein Unternehmen, das seinen Arbeitnehmer gegenwärtig solche Leistungen zusagt, dies während der erwarteten Restlebensarbeitszeit der Arbeitnehmer auch weiterhin tun wird.
+
+Bilanz
+
+63   Ein Unternehmen hat die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan in der Bilanz anzusetzen.
+
+64   Erzielt ein Unternehmen bei einem leistungsorientierten Plan eine Überdeckung, hat es den Nettovermögenswert aus dem leistungsorientierten Plan zum niedrigeren der folgenden Beträge zu bewerten:
+a) 
+
+der Überdeckung des leistungsorientierten Plans und
+b) 
+
+der Obergrenze für den Vermögenswert, die anhand des in Paragraph 83 aufgeführten Abzinsungssatzes bestimmt wird.
+
+65 Ein Nettovermögenswert aus dem leistungsorientierten Plan kann entstehen, wenn ein solcher Plan überdotiert ist oder versicherungsmathematische Gewinne entstanden sind. In diesen Fällen setzt das Unternehmen einen Nettovermögenswert aus einem leistungsorientierten Plan an, da
+a) 
+
+das Unternehmen Verfügungsmacht über eine Ressource besitzt, d. h. die Möglichkeit hat, aus der Überdeckung künftigen Nutzen zu ziehen,
+b) 
+
+diese Verfügungsmacht Ergebnis von Ereignissen der Vergangenheit ist (vom Unternehmen gezahlte Beiträge und von den Arbeitnehmern erbrachte Arbeitsleistung) und
+c) 
+
+dem Unternehmen daraus künftige wirtschaftlicher Nutzen entsteht, und zwar entweder in Form geminderter künftiger Beitragszahlungen oder in Form von Rückerstattungen, entweder unmittelbar an das Unternehmen selbst oder mittelbar an einen anderen Plan mit Unterdeckung. Die Obergrenze für den Vermögenswert ist der Barwert dieses künftigen Nutzens.
+
+Ansatz und Bewertung: Barwert leistungsorientierter Verpflichtungen und laufender Dienstzeitaufwand
+
+66 Die tatsächlichen Kosten eines leistungsorientierten Plans können durch viele Variablen beeinflusst werden, wie Endgehälter, Mitarbeiterfluktuation und Sterbewahrscheinlichkeit, Arbeitnehmerbeiträge und Kostentrends im Bereich der medizinischen Versorgung. Die tatsächlichen Kosten des Plans sind ungewiss und diese Ungewissheit besteht in der Regel über einen langen Zeitraum. Um den Barwert von Verpflichtungen zu einer nach Beendigung des Arbeitsverhältnisses zu erbringenden Leistung und den damit verbundenen Dienstzeitaufwand einer Periode zu bestimmen, ist es erforderlich,
+a) 
+
+eine versicherungsmathematische Bewertungsmethode anzuwenden (siehe Paragraphen 67–69),
+b) 
+
+die Leistungen den Dienstjahren der Arbeitnehmer zuzuordnen (siehe Paragraphen 70–74) und
+c) 
+
+versicherungsmathematische Annahmen zu treffen (siehe Paragraphen 75–98).
+
+Versicherungsmathematische Bewertungsmethode
+
+67   Zur Bestimmung des Barwerts einer leistungsorientierten Verpflichtung, des damit verbundenen Dienstzeitaufwands und, falls zutreffend, des nachzuverrechnenden Dienstzeitaufwands hat ein Unternehmen die Methode der laufenden Einmalprämien anzuwenden.
+
+68 Die Methode der laufenden Einmalprämien (mitunter auch als Anwartschaftsansammlungsverfahren oder Anwartschaftsbarwertverfahren bezeichnet, weil Leistungsbausteine linear pro-rata oder der Planformel folgend den Dienstjahren zugeordnet werden) geht davon aus, dass in jedem Dienstjahr ein zusätzlicher Teil des Leistungsanspruchs erdient wird (siehe Paragraphen 70–74) und bewertet jeden dieser Leistungsbausteine separat, um so die endgültige Verpflichtung aufzubauen (siehe Paragraphen 75–98).
+
+Beispiel zur Veranschaulichung des Paragraphen 68
+
+Bei Beendigung des Arbeitsverhältnisses ist eine einmalige Kapitalleistung in Höhe von 1 % des Endgehalts für jedes geleistete Dienstjahr zu zahlen. Im ersten Dienstjahr beträgt das Gehalt 10 000 WE und wird voraussichtlich jedes Jahr um 7 % ansteigen (bezogen auf den Vorjahresstand). Der angewendete Abzinsungssatz beträgt 10 % per annum. Die folgende Tabelle veranschaulicht, wie sich die Verpflichtung für einen Mitarbeiter aufbaut, dessen Ausscheiden am Ende des 5. Dienstjahrs erwartet wird, wobei unterstellt wird, dass die versicherungsmathematischen Annahmen keinen Änderungen unterliegen. Zur Vereinfachung wird im Beispiel die ansonsten erforderliche Berücksichtigung der Wahrscheinlichkeit vernachlässigt, dass der Arbeitnehmer vor oder nach diesem Zeitpunkt ausscheidet.
+
+
+
+Jahr
+	
+
+1
+	
+
+2
+	
+
+3
+	
+
+4
+	
+
+5
+
+ 
+	
+
+WE
+	
+
+WE
+	
+
+WE
+	
+
+WE
+	
+
+WE
+
+Leistung erdient in
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+—  früheren Dienstjahren
+	
+
+0
+	
+
+131
+	
+
+262
+	
+
+393
+	
+
+524
+
+—  dem laufenden Dienstjahr (1 % des Endgehalts)
+	
+
+131
+	
+
+131
+	
+
+131
+	
+
+131
+	
+
+131
+
+—  dem laufenden und früheren Dienstjahren
+	
+
+131
+	
+
+262
+	
+
+393
+	
+
+524
+	
+
+655
+
+Verpflichtung zu Beginn des Berichtszeitraums
+	
+
+—
+	
+
+89
+	
+
+196
+	
+
+324
+	
+
+476
+
+Zinsen von 10 %
+	
+
+—
+	
+
+9
+	
+
+20
+	
+
+33
+	
+
+48
+
+Laufender Dienstzeitaufwand
+	
+
+89
+	
+
+98
+	
+
+108
+	
+
+119
+	
+
+131
+
+Verpflichtung am Ende des Berichtszeitraums
+	
+
+89
+	
+
+196
+	
+
+324
+	
+
+476
+	
+
+655
+
+Hinweis:
+
+1   Die Verpflichtung zu Beginn des Berichtszeitraums entspricht dem Barwert der Leistungen, die früheren Dienstjahren zugeordnet werden.
+
+2   Der laufende Dienstzeitaufwand entspricht dem Barwert der Leistungen, die dem laufenden Dienstjahr zugeordnet werden.
+
+3   Die Verpflichtung am Ende des Berichtszeitraums entspricht dem Barwert der Leistungen, die dem laufenden und früheren Dienstjahren zugeordnet werden.
+
+69 Die gesamte Verpflichtung zu einer nach Beendigung des Arbeitsverhältnisses zu erbringenden Leistung ist vom Unternehmen abzuzinsen, auch wenn ein Teil der Verpflichtung voraussichtlich innerhalb von zwölf Monaten nach dem Abschlussstichtag abgegolten wird.
+
+Zuordnung von Leistungen zu Dienstjahren
+
+70   Bei der Bestimmung des Barwerts seiner leistungsorientierten Verpflichtungen, des damit verbundenen Dienstzeitaufwands und, sofern zutreffend, des nachzuverrechnenden Dienstzeitaufwands hat das Unternehmen die Leistungen den Dienstjahren so zuzuordnen, wie es die Planformel vorgibt. Begründet die in späteren Dienstjahren erbrachte Arbeitsleistung der Arbeitnehmer jedoch wesentlich höhere Anwartschaften als die in früheren Dienstjahren erbrachte Arbeitsleistung, so ist die Leistungszuordnung linear vorzunehmen, und zwar
+a) 
+
+ab dem Zeitpunkt, zu dem die Arbeitsleistung des Arbeitnehmers erstmalig zu Leistungen aus dem Plan führt (unabhängig davon, ob die Gewährung der Leistungen vom Fortbestand des Arbeitsverhältnisses abhängig ist oder nicht), bis
+b) 
+
+zu dem Zeitpunkt, ab dem die weitere Arbeitsleistung des Arbeitnehmers die Leistungen aus dem Plan, von Erhöhungen wegen Gehaltssteigerungen abgesehen, nicht mehr wesentlich erhöht.
+
+71 Die Methode der laufenden Einmalprämien verlangt, dass das Unternehmen der laufenden Periode (zwecks Bestimmung des laufenden Dienstzeitaufwands) sowie der laufenden und früheren Perioden (zwecks Bestimmung des gesamten Barwerts der leistungsorientierten Verpflichtung) Leistungsteile zuordnet. Leistungsteile werden jenen Perioden zugeordnet, in denen die Verpflichtung, diese nach Beendigung des Arbeitsverhältnisses zu gewähren, entsteht. Diese Verpflichtung entsteht in dem Maße, wie die Arbeitnehmer ihre Arbeitsleistungen im Austausch für Leistungen nach Beendigung des Arbeitsverhältnisses erbringen, die ein Unternehmen in späteren Berichtsperioden zu zahlen erwartet. Versicherungsmathematische Verfahren versetzen das Unternehmen in die Lage, diese Verpflichtung hinreichend verlässlich zu bewerten, um den Ansatz einer Schuld zu begründen.
+
+Beispiele zur Veranschaulichung des Paragraphen 71
+1 
+
+Ein leistungsorientierter Plan sieht bei Renteneintritt eine einmalige Zahlung von 100 WE für jedes Dienstjahr vor.
+
+Jedem Dienstjahr wird eine Leistung von 100 WE zugeordnet. Der laufende Dienstzeitaufwand entspricht dem Barwert von 100 WE. Der gesamte Barwert der leistungsorientierten Verpflichtung entspricht dem Barwert von 100 WE, multipliziert mit der Anzahl der bis zum Abschlussstichtag geleisteten Dienstjahre.
+
+Wenn die Leistung unmittelbar beim Ausscheiden des Arbeitnehmers aus dem Unternehmen fällig wird, geht der erwartete Zeitpunkt des Ausscheidens des Arbeitnehmers in die Berechnung des laufenden Dienstzeitaufwands und des Barwerts der leistungsorientierten Verpflichtung ein. Folglich sind beide Werte — wegen des Abzinsungseffekts — geringer als die Beträge, die sich bei Ausscheiden des Mitarbeiters am Abschlussstichtag ergeben würden.
+2 
+
+Ein Plan sieht eine monatliche Rente von 0,2 % des Endgehalts für jedes Dienstjahr vor. Die Rente ist ab Vollendung des 65. Lebensjahrs zu zahlen.
+
+Jedem Dienstjahr wird eine Leistung in Höhe des zum erwarteten Zeitpunkt des Renteneintritts ermittelten Barwerts einer lebenslangen monatlichen Rente von 0,2 % des geschätzten Endgehalts zugeordnet. Der laufende Dienstzeitaufwand entspricht dem Barwert dieser Leistung. Der Barwert der leistungsorientierten Verpflichtung entspricht dem Barwert monatlicher Rentenzahlungen in Höhe von 0,2 % des Endgehalts, multipliziert mit der Anzahl der bis zum Abschlussstichtag geleisteten Dienstjahre. Der laufende Dienstzeitaufwand und der Barwert der leistungsorientierten Verpflichtung werden abgezinst, weil die Rentenzahlungen erst mit Vollendung des 65. Lebensjahrs beginnen.
+
+72 Die erbrachte Arbeitsleistung eines Arbeitnehmers führt bei leistungsorientierten Plänen selbst dann zu einer Verpflichtung, wenn die Gewährung der Leistungen vom Fortbestand des Arbeitsverhältnisses abhängt (die Leistungen also noch nicht unverfallbar sind). Eine Arbeitsleistung, die vor Eintreten der Unverfallbarkeit erbracht wurde, begründet eine faktische Verpflichtung, weil die bis zur vollen Anspruchsberechtigung noch zu erbringende Arbeitsleistung an jedem folgenden Abschlussstichtag sinkt. Das Unternehmen berücksichtigt bei der Bewertung seiner leistungsorientierten Verpflichtung die Wahrscheinlichkeit, dass einige Mitarbeiter die Unverfallbarkeitsvoraussetzungen nicht erfüllen. Auch wenn verschiedene Leistungen nach Beendigung des Arbeitsverhältnisses nur dann gezahlt werden, wenn nach dem Ausscheiden eines Arbeitnehmers ein bestimmtes Ereignis eintritt, z. B. im Falle der medizinischen Versorgung nach Beendigung des Arbeitsverhältnisses, entsteht gleichermaßen eine Verpflichtung bereits mit der Erbringung der Arbeitsleistung des Arbeitnehmers, wenn diese einen Leistungsanspruch bei Eintreten des bestimmten Ereignisses begründet. Die Wahrscheinlichkeit, dass das bestimmte Ereignis eintritt, beeinflusst die Verpflichtung in ihrer Höhe, nicht jedoch dem Grunde nach.
+
+Beispiele zur Veranschaulichung des Paragraphen 72
+1 
+
+Ein Plan zahlt eine Leistung von 100 WE für jedes Dienstjahr. Nach zehn Dienstjahren wird die Anwartschaft unverfallbar.
+
+Jedem Dienstjahr wird eine Leistung von 100 WE zugeordnet. In jedem der ersten zehn Jahre ist im laufenden Dienstzeitaufwand und im Barwert der Verpflichtung die Wahrscheinlichkeit zu berücksichtigen, dass der Arbeitnehmer eventuell keine zehn Dienstjahre vollendet.
+2 
+
+Aus einem Plan wird eine Leistung von 100 WE für jedes Dienstjahr gewährt, wobei Dienstjahre vor Vollendung des 25. Lebensjahrs ausgeschlossen sind. Die Anwartschaft ist sofort unverfallbar.
+
+Den vor Vollendung des 25. Lebensjahrs erbrachten Dienstjahren wird keine Leistung zugeordnet, da die vor diesem Zeitpunkt erbrachte Arbeitsleistung (unabhängig vom Fortbestand des Arbeitsverhältnisses) keine Anwartschaft auf Leistungen begründet. Jedem Folgejahr wird eine Leistung von 100 WE zugeordnet.
+
+73 Die Verpflichtung erhöht sich bis zu dem Zeitpunkt, ab dem weitere Arbeitsleistungen zu keiner wesentlichen Erhöhung der Leistungen mehr führen. Daher werden alle Leistungen Perioden zugeordnet, die zu diesem Zeitpunkt oder vorher enden. Die Leistung wird den einzelnen Bilanzierungsperioden nach Maßgabe der im Plan enthaltenen Formel zugeordnet. Begründet die in späteren Jahren erbrachte Arbeitsleistung eines Arbeitnehmers jedoch wesentlich höhere Anwartschaften als die in früheren Jahren erbrachte, so hat das Unternehmen die Leistungen linear auf die Berichtsperioden bis zu dem Zeitpunkt zu verteilen, ab dem weitere Arbeitsleistungen des Arbeitnehmers zu keiner wesentlichen Erhöhung der Anwartschaft mehr führen. Begründet ist dies dadurch, dass letztlich die im gesamten Zeitraum erbrachte Arbeitsleistung zu einer Anwartschaft auf diesem höheren Niveau führt.
+
+Beispiele zur Veranschaulichung des Paragraphen 73
+1 
+
+Ein Plan sieht eine einmalige Kapitalleistung von 1000 WE vor, die nach zehn Dienstjahren unverfallbar wird. Für nachfolgende Dienstjahre sieht der Plan keine weiteren Leistungen mehr vor.
+
+Jedem der ersten 10 Jahre wird eine Leistung von 100 WE (1000 WE geteilt durch 10) zugeordnet.
+
+Im laufenden Dienstzeitaufwand für jedes der ersten zehn Jahre ist die Wahrscheinlichkeit zu berücksichtigen, dass der Arbeitnehmer eventuell vor Vollendung von zehn Dienstjahren ausscheidet. Den folgenden Jahren wird keine Leistung zugeordnet.
+2 
+
+Ein Plan zahlt bei Renteneintritt eine einmalige Kapitalleistung von 2000 WE an alle Arbeitnehmer, die im Alter von 55 Jahren nach zwanzig Dienstjahren noch im Unternehmen beschäftigt sind oder an Arbeitnehmer, die unabhängig von ihrer Dienstzeit im Alter von 65 Jahren noch im Unternehmen beschäftigt sind.
+
+Arbeitnehmer, die vor Vollendung des 35. Lebensjahrs eintreten, erwerben erst mit Vollendung des 35. Lebensjahres eine Anwartschaft auf Leistungen aus diesem Plan (ein Arbeitnehmer könnte mit 30 aus dem Unternehmen ausscheiden und mit 33 zurückkehren, ohne dass dies Auswirkungen auf die Höhe oder die Fälligkeit der Leistung hätte). Die Gewährung dieser Leistungen hängt von der Erbringung künftiger Arbeitsleistung ab. Zudem führt die Erbringung von Arbeitsleistung nach Vollendung des 55. Lebensjahrs nicht zu einer wesentlichen Erhöhung der Anwartschaft. Für diese Arbeitnehmer ordnet das Unternehmen jedem Dienstjahr zwischen Vollendung des 35. und des 55. Lebensjahrs eine Leistung von 100 WE (2000 WE geteilt durch 20) zu.
+
+Für Arbeitnehmer, die zwischen Vollendung des 35. und des 45. Lebensjahrs eintreten, führt eine Dienstzeit von mehr als 20 Jahren nicht zu einer wesentlichen Erhöhung der Anwartschaft. Jedem der ersten 20 Dienstjahre dieser Arbeitnehmer ordnet das Unternehmen deswegen eine Leistung von 100 WE zu (2000 WE geteilt durch 20).
+
+Für Arbeitnehmer, die im Alter von 55 Jahren eintreten, führt eine Dienstzeit von mehr als 10 Jahren nicht zu einer wesentlichen Erhöhung der Anwartschaft. Jedem der ersten 10 Dienstjahre dieser Arbeitnehmer ordnet das Unternehmen eine Leistung von 200 WE zu (2000 WE geteilt durch 10).
+
+Im laufenden Dienstzeitaufwand und im Barwert der Verpflichtung ist für alle Arbeitnehmer die Wahrscheinlichkeit zu berücksichtigen, dass die für die Leistung erforderlichen Dienstjahre eventuell nicht erreicht werden.
+3 
+
+Ein Plan für Leistungen der medizinischen Versorgung nach Beendigung des Arbeitsverhältnisses erstattet dem Arbeitnehmer 40 % der Kosten für medizinische Versorgung nach Beendigung des Arbeitsverhältnisses, wenn er nach mehr als 10 und weniger als 20 Dienstjahren ausscheidet und 50 % der Kosten, wenn er nach 20 oder mehr Jahren ausscheidet.
+
+Nach Maßgabe der Leistungsformel des Plans ordnet das Unternehmen jedem der ersten 10 Dienstjahre 4 % (40 % geteilt durch 10) und jedem der folgenden 10 Dienstjahre 1 % (10 % geteilt durch 10) des Barwerts der erwarteten Kosten für medizinische Versorgung zu. Im laufenden Dienstzeitaufwand eines jeden Dienstjahrs wird die Wahrscheinlichkeit berücksichtigt, dass der Arbeitnehmer die für die gesamten oder anteiligen Leistungen erforderlichen Dienstjahre eventuell nicht erreicht. Für Arbeitnehmer, deren Ausscheiden innerhalb der ersten zehn Jahre erwartet wird, wird keine Leistung zugeordnet.
+4 
+
+Ein Plan für Leistungen der medizinischen Versorgung nach Beendigung des Arbeitsverhältnisses erstattet dem Arbeitnehmer 10 % der Kosten für medizinische Versorgung nach Beendigung des Arbeitsverhältnisses, wenn er nach mehr als 10 und weniger als 20 Dienstjahren ausscheidet und 50 % der Kosten, wenn er nach 20 oder mehr Jahren ausscheidet.
+
+Arbeitsleistung in späteren Jahren berechtigt zu wesentlich höheren Leistungen als Arbeitsleistung in früheren Jahren der Dienstzeit. Für Arbeitnehmer, deren Ausscheiden nach 20 oder mehr Jahren erwartet wird, wird die Leistung daher linear gemäß Paragraph 71 verteilt. Die Erbringung von Arbeitsleistung nach mehr als 20 Jahren führt zu keiner wesentlichen Erhöhung der zugesagten Leistung. Deswegen wird jedem der ersten 20 Jahre ein Leistungsteil von 2,5 % des Barwerts der erwarteten Kosten der medizinischen Versorgung zugeordnet (50 % geteilt durch 20).
+
+Für Arbeitnehmer, deren Ausscheiden zwischen dem zehnten und dem zwanzigsten Jahr erwartet wird, wird jedem der ersten 10 Jahre eine Teilleistung von 1 % des Barwerts der erwarteten Kosten für die medizinische Versorgung zugeordnet.
+
+Für diese Arbeitnehmer wird den Dienstjahren zwischen dem Ende des zehnten Jahrs und dem geschätzten Datum des Ausscheidens keine Leistung zugeordnet.
+
+Für Arbeitnehmer, deren Ausscheiden innerhalb der ersten zehn Jahre erwartet wird, wird keine Leistung zugeordnet.
+
+74 Entspricht die Höhe der zugesagten Leistung einem konstanten Anteil am Endgehalt für jedes Dienstjahr, so haben künftige Gehaltssteigerungen zwar Auswirkungen auf den zur Erfüllung der am Abschlussstichtag bestehenden, auf frühere Dienstjahre zurückgehenden Verpflichtung nötigen Betrag, sie führen jedoch nicht zu einer Erhöhung der Verpflichtung selbst. Deswegen
+a) 
+
+begründen Gehaltssteigerungen in Bezug auf Paragraph 70(b) keine zusätzliche Leistung an Arbeitnehmer, obwohl sich die Leistungshöhe am Endgehalt bemisst, und
+b) 
+
+entspricht die jeder Berichtsperiode zugeordnete Leistung in ihrer Höhe einem konstanten Anteil desjenigen Gehalts, auf das sich die Leistung bezieht.
+
+Beispiel zur Veranschaulichung des Paragraphen 74
+
+Den Arbeitnehmern steht eine Leistung in Höhe von 3 % des Endgehalts für jedes Dienstjahr vor Vollendung des 55. Lebensjahrs zu.
+
+Jedem Dienstjahr bis zur Vollendung des 55. Lebensjahrs wird eine Leistung in Höhe von 3 % des geschätzten Endgehalts zugeordnet. Dieses ist der Zeitpunkt, ab dem weitere Arbeitsleistung zu keiner wesentlichen Erhöhung der Leistung aus dem Plan mehr führt. Dienstzeiten nach Vollendung des 55. Lebensjahrs wird keine Leistung zugeordnet.
+
+Versicherungsmathematische Annahmen
+
+75   Versicherungsmathematische Annahmen müssen unvoreingenommen und aufeinander abgestimmt sein.
+
+76 Versicherungsmathematische Annahmen sind die bestmögliche Einschätzung eines Unternehmens zu Variablen, die die tatsächlichen Kosten für Leistungen nach Beendigung des Arbeitsverhältnisses bestimmen. Die versicherungsmathematischen Annahmen umfassen
+a) 
+
+demografische Annahmen über die künftige Zusammensetzung der aktiven und ausgeschiedenen Arbeitnehmer (und deren Angehörigen), die für Leistungen infrage kommen. Derartige demografische Annahmen beziehen sich auf
+i) 
+
+die Sterbewahrscheinlichkeit (siehe Paragraphen 81 und 82),
+ii) 
+
+Fluktuations-, Invalidisierungs- und Frühverrentungsraten der Mitarbeiter,
+iii) 
+
+den Anteil der begünstigten Arbeitnehmer mit Angehörigen, die für Leistungen infrage kommen,
+iv) 
+
+den Anteil der begünstigten Arbeitnehmer, die jeweils eine bestimmte, nach den Regelungen des Plans verfügbare Auszahlungsform wählen, und
+v) 
+
+die Raten der Inanspruchnahme von Leistungen aus Plänen zur medizinischen Versorgung.
+b) 
+
+finanzielle Annahmen, zum Beispiel in Bezug auf
+i) 
+
+den Abzinsungssatz (siehe Paragraphen 83–86),
+ii) 
+
+das Leistungsniveau, unter Ausschluss etwaiger von den Arbeitnehmern zu tragenden Kosten für Leistungen, sowie das künftige Gehalt (siehe Paragraphen 87–95),
+iii) 
+
+im Falle von Leistungen im Rahmen der medizinischen Versorgung, die künftigen Kosten im Bereich der medizinischen Versorgung, einschließlich der Kosten für die Behandlung von Ansprüchen (d. h. bei der Bearbeitung und Klärung von Ansprüchen entstehende Kosten einschließlich der Honorare für Rechtsberatung und Sachverständige (siehe Paragraphen 96–98), und
+iv) 
+
+vom Plan zu tragende Steuern auf Beiträge für Dienstzeiten vor dem Abschlussstichtag oder auf Leistungen, die auf diese Dienstzeiten zurückgehen.
+
+77 Versicherungsmathematische Annahmen sind unvoreingenommen, wenn sie weder unvorsichtig noch übertrieben vorsichtig sind.
+
+78 Versicherungsmathematische Annahmen sind aufeinander abgestimmt, wenn sie die wirtschaftlichen Zusammenhänge zwischen Faktoren wie Inflation, Lohn- und Gehaltssteigerungen und Abzinsungssätzen widerspiegeln. Beispielsweise haben alle Annahmen, die in jeder künftigen Periode von einem bestimmten Inflationsniveau abhängen (wie Annahmen zu Zinssätzen, zu Lohn- und Gehaltssteigerungen und zu Steigerungen von Leistungen), für jede dieser Perioden von dem gleichen Inflationsniveau auszugehen.
+
+79 Die Annahmen zum Abzinsungssatz und andere finanzielle Annahmen werden vom Unternehmen mit nominalen (nominal festgesetzten) Werten festgelegt, es sei denn, Schätzungen auf Basis realer (inflationsbereinigter) Werte sind verlässlicher, wie z. B. in einer hochinflationären Volkswirtschaft (siehe IAS 29 Rechnungslegung in Hochinflationsländern) oder in Fällen, in denen die Leistung an einen Index gekoppelt ist und zugleich ein liquider Markt für indexgebundene Anleihen in derselben Währung und mit derselben Laufzeit vorhanden ist.
+
+80   Annahmen zu finanziellen Variablen haben auf den am Abschlussstichtag bestehenden Erwartungen des Marktes für den Zeitraum zu beruhen, über den die Verpflichtungen zu erfüllen sind.
+
+Versicherungsmathematische Annahmen: Sterbewahrscheinlichkeit
+
+81   Bei der Bestimmung seiner Annahmen zur Sterbewahrscheinlichkeit hat ein Unternehmen seine bestmögliche Einschätzung der Sterbewahrscheinlichkeit der begünstigten Arbeitnehmer sowohl während des Arbeitsverhältnisses als auch nach dessen Beendigung zugrunde zu legen.
+
+82 Bei der Einschätzung der tatsächlichen Kosten für die Leistung berücksichtigt ein Unternehmen erwartete Veränderungen bei der Sterbewahrscheinlichkeit, indem es beispielsweise Standardsterbetafeln durch Einschätzungen des Sinkens von Sterbewahrscheinlichkeiten abändert.
+
+Versicherungsmathematische Annahmen: Abzinsungssatz
+
+83   Der Zinssatz, der zur Abzinsung der Verpflichtungen für die nach Beendigung des Arbeitsverhältnisses zu erbringenden Leistungen (fondsfinanziert oder nicht fondsfinanziert) herangezogen wird, ist auf Grundlage der Renditen zu bestimmen, die am Abschlussstichtag für hochwertige Unternehmensanleihen am Markt erzielt werden. Für Währungen ohne liquiden Markt für solche hochwertigen Unternehmensanleihen sind stattdessen die (am Abschlussstichtag geltenden) Marktrenditen für auf diese Währung lautende Staatsanleihen zu verwenden. Währung und Laufzeiten der zugrunde gelegten Unternehmens- oder Staatsanleihen haben mit der Währung und den voraussichtlichen Fristigkeiten der Verpflichtungen zu nach Beendigung des Arbeitsverhältnisses zu erbringenden Leistungen übereinzustimmen.
+
+84 Der Abzinsungssatz ist eine versicherungsmathematische Annahme mit wesentlicher Auswirkung. Der Abzinsungssatz reflektiert den Zeitwert des Geldes, nicht jedoch das versicherungsmathematische Risiko oder das mit der Anlage des Fondsvermögens verbundene Anlagerisiko. Weiterhin gehen weder das unternehmensspezifische Ausfallrisiko, das die Gläubiger des Unternehmens tragen, noch das Risiko, dass die künftige Entwicklung von den versicherungsmathematischen Annahmen abweichen kann, in diesen Zinssatz ein.
+
+85 Der Abzinsungssatz berücksichtigt die voraussichtliche Auszahlung der Leistungen im Zeitablauf. In der Praxis wird ein Unternehmen dies häufig durch die Verwendung eines einzigen gewichteten Durchschnittszinssatzes erreichen, in dem sich die geschätzten Fälligkeiten, die geschätzte Höhe und die Währung der zu zahlenden Leistungen widerspiegeln.
+
+86 In einigen Fällen ist möglicherweise kein liquider Markt für Anleihen mit ausreichend langen Laufzeiten vorhanden, die den geschätzten Fristigkeiten aller Leistungszahlungen entsprechen. In diesen Fällen verwendet ein Unternehmen für die Abzinsung kurzfristigerer Zahlungen die jeweils aktuellen Marktzinssätze für entsprechende Laufzeiten, während es den Abzinsungssatz für längerfristige Fälligkeiten durch Extrapolation der aktuellen Marktzinssätze entlang der Zinskurve schätzt. Die Höhe des gesamten Barwerts einer leistungsorientierten Verpflichtung dürfte durch den Abzinsungssatz für den Teil der Leistungen, der erst nach Endfälligkeit der zur Verfügung stehenden Unternehmens- oder Staatsanleihen zu zahlen ist, kaum besonders empfindlich beeinflusst werden.
+
+Versicherungsmathematische Annahmen: Gehälter, Leistungen und Kosten medizinischer Versorgung
+
+87   Bei der Bewertung leistungsorientierter Verpflichtungen legt ein Unternehmen Folgendes zugrunde:
+a) 
+
+die aufgrund der Regelungen des Plans (oder aufgrund einer faktischen Verpflichtung auch über die Planregelungen hinaus) am Abschlussstichtag zugesagten Leistungen,
+b) 
+
+geschätzte künftige Gehaltssteigerungen, die sich auf die zu zahlenden Leistungen auswirken,
+c) 
+
+die Auswirkung von Begrenzungen des Arbeitgeberanteils an den Kosten künftiger Leistungen,
+d) 
+
+Beiträge von Arbeitnehmern oder Dritten, die zu einer Verminderung der tatsächlichen Kosten des Unternehmens für diese Leistungen führen, und
+e) 
+
+die geschätzten künftigen Änderungen beim Niveau staatlicher Leistungen, die sich auf die nach Maßgabe des leistungsorientierten Plans zu zahlenden Leistungen auswirken, jedoch nur dann, wenn entweder
+i) 
+
+diese Änderungen bereits vor dem Abschlussstichtag in Kraft getreten sind oder
+ii) 
+
+die Erfahrungen der Vergangenheit oder andere Anhaltspunkte darauf hindeuten, dass sich die staatlichen Leistungen in einer einigermaßen vorhersehbaren Weise ändern werden, z. B. in Anlehnung an künftige Veränderungen der allgemeinen Preis- oder Gehaltsniveaus.
+
+88 Die versicherungsmathematischen Annahmen spiegeln Änderungen der künftigen Leistungen wider, die sich am Abschlussstichtag aus den formalen Regelungen eines Plans (oder einer faktischen, darüber hinausgehenden Verpflichtung) ergeben. Dies ist z. B. der Fall, wenn
+a) 
+
+das Unternehmen in der Vergangenheit stets die Leistungen erhöht hat, beispielsweise um die Auswirkungen der Inflation zu mindern, und nichts darauf hindeutet, dass diese Praxis in Zukunft geändert wird,
+b) 
+
+das Unternehmen entweder aufgrund der formalen Regelungen eines Plans (oder aufgrund einer faktischen, darüber hinausgehenden Verpflichtung) oder aufgrund gesetzlicher Bestimmungen eine etwaige Überdeckung im Plan zugunsten der begünstigten Arbeitnehmer verwenden muss (siehe Paragraph 108 (c)) oder
+c) 
+
+Leistungen aufgrund eines Leistungsziels oder aufgrund anderer Kriterien schwanken. In den Regelungen des Plans kann beispielsweise festgelegt sein, dass bei unzureichendem Planvermögen verminderte Leistungen gezahlt oder zusätzliche Beiträge von den Arbeitnehmern verlangt werden. Die Bewertung der Verpflichtung spiegelt die bestmögliche Einschätzung der Auswirkungen des Leitungsziels oder anderer Kriterien wider.
+
+89 Die versicherungsmathematischen Annahmen berücksichtigen nicht Änderungen der künftigen Leistungen, die sich am Abschlussstichtag nicht aus den formalen Regelungen des Plans (oder einer faktischen Verpflichtung) ergeben. Derartige Änderungen führen zu
+a) 
+
+nachzuverrechnendem Dienstzeitaufwand, soweit sie die Höhe von Leistungen für vor der Änderung erbrachte Arbeitsleistung ändern, und
+b) 
+
+laufendem Dienstzeitaufwand in den Perioden nach der Änderung, soweit sie die Höhe von Leistungen für nach der Änderung erbrachte Arbeitsleistung ändern.
+
+90 Schätzungen künftiger Gehaltssteigerungen berücksichtigen Inflation, Dauer der Betriebszugehörigkeit, Beförderungen und andere maßgebliche Faktoren wie Angebot und Nachfrage auf dem Arbeitsmarkt.
+
+91 Einige leistungsorientierte Pläne begrenzen die Beiträge, die ein Unternehmen zu zahlen hat. Bei den tatsächlichen Kosten der Leistungen wird die Auswirkung einer Beitragsbegrenzung berücksichtigt. Die Auswirkung einer Beitragsbegrenzung wird für den kürzeren der folgenden Zeiträume ermittelt:
+a) 
+
+die geschätzte Lebensdauer des Unternehmens und
+b) 
+
+die geschätzte Laufzeit des Plans.
+
+92 Einige leistungsorientierte Pläne sehen eine Beteiligung der Arbeitnehmer oder Dritter an den Kosten des Plans vor. Arbeitnehmerbeiträge bedeuten für das Unternehmen eine Senkung der Kosten für die Leistungen. Ein Unternehmen prüft, ob Beiträge Dritter die Kosten der Leistungen für das Unternehmen senken oder ob sie ein Erstattungsanspruch gemäß Beschreibung in Paragraph 116 sind. Arbeitnehmerbeiträge oder Beiträge Dritter sind entweder in den formalen Regelungen des Plans festgelegt (oder ergeben sich aus einer faktischen, darüber hinausgehenden Verpflichtung) oder sie sind freiwillig. Freiwillige Beiträge von Arbeitnehmern oder Dritten vermindern bei Einzahlung der betreffenden Beiträge in den Plan den Dienstzeitaufwand.
+
+93 In den formalen Regelungen des Plans festgelegte Beiträge von Arbeitnehmern oder Dritten vermindern entweder den Dienstzeitaufwand (wenn sie mit der Arbeitsleistung verknüpft sind) oder beeinflussen die Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan, wenn sie nicht mit der Arbeitsleistung verknüpft sind. Nicht mit der Arbeitsleistung verknüpft sind Beiträge beispielsweise, wenn sie zur Minderung einer Unterdeckung erforderlich sind, die aus Verlusten im Planvermögen oder aus versicherungsmathematischen Verlusten entstanden ist. Sind Beiträge von Arbeitnehmern oder Dritten mit der Arbeitsleistung verknüpft, so vermindern sie den Dienstzeitaufwand wie folgt:
+a) 
+
+wenn die Höhe der Beiträge von der Anzahl der Dienstjahre abhängig ist, hat ein Unternehmen die Beiträge den Dienstzeiten nach derselben Methode zuzuordnen, wie Paragraph 70 es für die Zuordnung der Bruttoleistung vorschreibt (d. h. entweder nach der Beitragsformel des Plans oder linear), oder
+b) 
+
+wenn die Höhe der Beiträge nicht von der Anzahl der Dienstjahre abhängig ist, ist es dem das Unternehmen gestattet, solche Beiträge als Minderung des Dienstzeitaufwands in der Periode zu erfassen, in der die zugehörige Arbeitsleistung erbracht wird. Von der Anzahl der Dienstjahre unabhängig sind Beiträge beispielsweise, wenn sie einen festen Prozentsatz des Gehalts des Arbeitnehmers oder einen festen Betrag über die Dienstzeit hinweg ausmachen oder vom Alter des Arbeitnehmers abhängen.
+
+Die entsprechenden Anwendungsleitlinien sind in Paragraph A1 enthalten.
+
+94 Änderungen der Beiträge von Arbeitnehmern oder Dritten, bei denen die Zuordnung zu Dienstzeiten nach Paragraph 93(a) erfolgt, führen zu
+a) 
+
+laufendem und nachzuverrechnendem Dienstzeitaufwand (sofern die Änderungen nicht in den formalen Regelungen eines Plans festgelegt sind und sich nicht aus einer faktischen Verpflichtung ergeben) oder
+b) 
+
+versicherungsmathematischen Gewinnen und Verlusten (sofern die Änderungen in den formalen Regelungen eines Plans festgelegt sind oder sich aus einer faktischen Verpflichtung ergeben).
+
+95 Einige Leistungen nach Beendigung des Arbeitsverhältnisses sind an Variablen wie z. B. das Niveau staatlicher Altersversorgungsleistungen oder das der staatlichen medizinischen Versorgung gebunden. Bei der Bewertung dieser Leistungen werden die bestmöglichen Einschätzungen dieser Variablen aufgrund der Erfahrungen der Vergangenheit und anderer verlässlicher Anhaltspunkte berücksichtigt.
+
+96   Bei den Annahmen zu den Kosten medizinischer Versorgung sind erwartete Kostentrends für medizinische Dienstleistungen aufgrund von Inflation oder spezifischer Anpassungen der medizinischen Kosten zu berücksichtigen.
+
+97 Die Bewertung von medizinischen Leistungen nach Beendigung des Arbeitsverhältnisses erfordert Annahmen über Höhe und Häufigkeit künftiger Ansprüche und über die Kosten zur Erfüllung dieser Ansprüche. Kosten der künftigen medizinischen Versorgung werden vom Unternehmen anhand eigener, aus Erfahrungswerten der Vergangenheit gewonnenen Daten geschätzt, wobei — falls erforderlich — Erfahrungswerte anderer Unternehmen, Versicherungsunternehmen, medizinischer Dienstleister und anderer Quellen hinzugezogen werden können. In die Schätzung der Kosten künftiger medizinischer Versorgung gehen die Auswirkungen technologischen Fortschritts, Änderungen der Inanspruchnahme von Gesundheitsfürsorgeleistungen oder der Bereitstellungsstrukturen sowie Änderungen des Gesundheitszustands der begünstigten Arbeitnehmer ein.
+
+98 Die Höhe der geltend gemachten Ansprüche und deren Häufigkeit hängen insbesondere von Alter, Gesundheitszustand und Geschlecht der Arbeitnehmer (und ihrer Angehörigen) ab, wobei jedoch auch andere Faktoren wie der geografische Standort von Bedeutung sein können. Deswegen sind Erfahrungswerte aus der Vergangenheit anzupassen, soweit die demografische Zusammensetzung des vom Plan erfassten Personenbestands von der Zusammensetzung des Bestands abweicht, der den Daten zugrunde liegt. Eine Anpassung ist auch dann erforderlich, wenn aufgrund verlässlicher Anhaltspunkte davon ausgegangen werden kann, dass sich historische Trends nicht fortsetzen werden.
+
+Nachzuverrechnender Dienstzeitaufwand und Gewinne oder Verlust aus der Abgeltung
+
+99   Bei der Bestimmung des nachzuverrechnenden Dienstzeitaufwands oder eines Gewinns oder Verlusts aus der Abgeltung hat ein Unternehmen eine Neubewertung der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan vorzunehmen; hierbei stützt es sich auf den aktuellen beizulegenden Zeitwert des Planvermögens und aktuelle versicherungsmathematische Annahmen (unter Einschluss aktueller Marktzinssätze und anderer aktueller Marktpreise), in denen sich Folgendes widerspiegelt:
+a) 
+
+die gemäß dem Plan vorgesehenen Leistungen und das Planvermögen vor der Änderung, Kürzung oder Abgeltung des Plans und
+b) 
+
+die gemäß dem Plan vorgesehenen Leistungen und das Planvermögen nach der Änderung, Kürzung oder Abgeltung des Plans.
+
+100 Ein Unternehmen muss keine Unterscheidung zwischen nachzuverrechnendem Dienstzeitaufwand, der sich aus einer Planänderung ergibt, nachzuverrechnendem Dienstzeitaufwand, der aus einer Kürzung entsteht, und Gewinn oder Verlust aus einer Abgeltung vornehmen, wenn diese Geschäftsvorfälle gleichzeitig eintreten. In bestimmten Fällen tritt eine Planänderung vor einer Abgeltung auf; dies trifft beispielsweise zu, wenn ein Unternehmen die Leistungen im Rahmen des Plans ändert und diese geänderten Leistungen zu einem späteren Zeitpunkt abgilt. In derartigen Fällen setzt ein Unternehmen den nachzuverrechnenden Dienstzeitaufwand vor einem Gewinn oder Verlust aus der Abgeltung an.
+
+101 Eine Abgeltung tritt dann gleichzeitig mit einer Änderung und Kürzung eines Plans ein, wenn dieser mit dem Ergebnis beendet wird, dass die Verpflichtung abgegolten wird und der Plan nicht mehr existiert. Die Beendigung eines Plans stellt jedoch dann keine Abgeltung dar, wenn der Plan durch einen neuen ersetzt wird, der im Wesentlichen die gleichen Leistungen vorsieht.
+
+101A Bei einer Planänderung, -kürzung oder -abgeltung hat das Unternehmen jeden etwaigen nachzuverrechnenden Dienstzeitaufwand oder einen aus der Abgeltung entstehenden Gewinn oder Verlust gemäß den Paragraphen 99–101 und 102–112 anzusetzen und zu bewerten. Die Auswirkung der Obergrenze für den Vermögenswert ist dabei außer Acht zu lassen. Anschließend hat das Unternehmen die Auswirkung der Obergrenze für den Vermögenswert nach der Planänderung, -kürzung oder -abgeltung zu bestimmen und Veränderungen in der Auswirkung gemäß Paragraph 57(d) anzusetzen.
+
+Nachzuverrechnender Dienstzeitaufwand
+
+102 Nachzuverrechnender Dienstzeitaufwand ist die Veränderung des Barwerts einer leistungsorientierten Verpflichtung, die aus einer Planänderung oder -kürzung entsteht.
+
+103   Ein Unternehmen hat nachzuverrechnenden Dienstzeitaufwand zum früheren der folgenden Zeitpunkte als Aufwand zu erfassen:
+a) 
+
+dem Zeitpunkt, an dem die Änderung oder Kürzung des Plans eintritt, und
+b) 
+
+dem Zeitpunkt, an dem das Unternehmen verbundene Restrukturierungskosten (siehe IAS 37) oder Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses (siehe Paragraph 165) erfasst.
+
+104 Eine Planänderung liegt vor, wenn ein Unternehmen einen leistungsorientierten Plan einführt oder zurückzieht oder Leistungen, die im Rahmen eines bestehenden leistungsorientierten Plan zu zahlen sind, ändert.
+
+105 Eine Plankürzung liegt vor, wenn ein Unternehmen die Anzahl der durch einen Plan erfassten Arbeitnehmer erheblich verringert. Eine Plankürzung kann die Folge eines einzelnen Ereignisses wie einer Betriebsschließung, der Aufgabe eines Geschäftsbereichs oder einer Beendigung oder Aussetzung eines Plans sein.
+
+106 Der nachzuverrechnende Dienstzeitaufwand kann entweder positiv (wenn Leistungen eingeführt oder geändert werden und sich daraus eine Zunahme des Barwerts der leistungsorientierten Verpflichtung ergibt) oder negativ sein (wenn Leistungen gestrichen oder in der Weise verändert werden, dass der Barwert der leistungsorientierten Verpflichtung sinkt).
+
+107 Reduziert ein Unternehmen im Rahmen eines bestehenden leistungsorientierten Plans zu zahlende Leistungen, und erhöht es gleichzeitig andere Leistungen, die denselben Arbeitnehmern im Rahmen des Plans zu zahlen sind, dann behandelt es die Änderung als eine einzige Nettoänderung.
+
+108 Nachzuverrechnender Dienstzeitaufwand beinhaltet nicht
+a) 
+
+die Auswirkungen von Unterschieden zwischen tatsächlichen und ursprünglich angenommenen Gehaltssteigerungen auf die Höhe der in früheren Jahren erdienten Leistungen (nachzuverrechnender Dienstzeitaufwand entsteht nicht, da die Gehaltsentwicklung über die versicherungsmathematischen Annahmen berücksichtigt ist),
+b) 
+
+zu hoch oder zu niedrig geschätzte freiwillige Rentenerhöhungen, wenn das Unternehmen faktisch verpflichtet ist, derartige Erhöhungen zu gewähren (nachzuverrechnender Dienstzeitaufwand entsteht nicht, da solche Steigerungen über die versicherungsmathematischen Annahmen berücksichtigt sind),
+c) 
+
+geschätzte Auswirkungen von Leistungsverbesserungen aus versicherungsmathematischen Gewinnen oder aus Erträgen aus dem Planvermögen, die im Abschluss erfasst wurden, wenn das Unternehmen aufgrund der formalen Regelungen des Plans (oder aufgrund einer faktischen, über diese Regelungen hinausgehenden Verpflichtung) oder aufgrund rechtlicher Bestimmungen dazu verpflichtet ist, eine etwaige Überdeckung im Plan zugunsten der vom Plan erfassten Arbeitnehmer zu verwenden, und zwar selbst dann, wenn die Leistungserhöhung noch nicht formal zuerkannt wurde (in diesem Fall entsteht kein nachzuverrechnender Dienstzeitaufwand, da die resultierende höhere Verpflichtung ein versicherungsmathematischer Verlust ist, siehe Paragraph 88), und
+d) 
+
+der Zuwachs an unverfallbaren Leistungen (d. h. Leistungen, deren Gewährung nicht vom künftigen Fortbestand des Arbeitsverhältnisses abhängt, siehe Paragraph 72), wenn – ohne dass neue oder verbesserte Leistungen vorliegen – Arbeitnehmer Unverfallbarkeitsbedingungen erfüllen (in diesem Fall entsteht kein nachzuverrechnender Dienstzeitaufwand, weil das Unternehmen die geschätzten Kosten für die Gewährung der Leistungen als laufenden Dienstzeitaufwand in der Periode erfasst, in der die Arbeitsleistung erbracht wurde).
+
+Gewinne oder Verluste aus der Abgeltung
+
+109 Der Gewinn oder Verlust aus einer Abgeltung entspricht der Differenz zwischen
+a) 
+
+dem Barwert der leistungsorientierten Verpflichtung, die abgegolten wird, wobei der Barwert am Tag der Abgeltung bestimmt wird, und
+b) 
+
+dem Abgeltungspreis; dieser schließt eventuell übertragenes Planvermögen sowie unmittelbar vom Unternehmen in Verbindung mit der Abgeltung geleistete Zahlungen ein.
+
+110   Ein Unternehmen hat einen Gewinn oder Verlust aus der Abgeltung eines leistungsorientierten Plans zum Zeitpunkt der Abgeltung zu erfassen.
+
+111 Eine Abgeltung liegt vor, wenn ein Unternehmen eine Vereinbarung eingeht, wonach alle weiteren rechtlichen und faktischen Verpflichtungen in Bezug auf einen Teil oder die Gesamtheit der in einem leistungsorientierten Plan zugesagten Leistungen eliminiert werden, soweit es sich nicht um eine in den Regelungen des Plans vorgesehene und in den versicherungsmathematischen Annahmen enthaltene Zahlung von Leistungen direkt an Arbeitnehmer oder zu deren Gunsten handelt. Werden beispielsweise erhebliche Verpflichtungen eines Arbeitgebers aus dem Versorgungsplan mittels Erwerb einer Versicherungspolice einmalig übertragen, stellt dies eine Abgeltung dar; eine im Rahmen eines Plans erfolgte einmalige Zahlung an begünstigte Arbeitnehmer als Gegenleistung für deren Verzicht auf bestimmte Leistungen nach Beendigung des Arbeitsverhältnisses stellt dagegen keine Abgeltung dar.
+
+112 In manchen Fällen erwirbt ein Unternehmen eine Versicherungspolice, um alle Ansprüche, die auf Arbeitsleistungen der Arbeitnehmer in der laufenden oder früheren Periode zurückgehen, abzudecken. Der Erwerb einer solchen Police ist keine Abgeltung, wenn das Unternehmen für den Fall, dass der Versicherer die in der Versicherungspolice vorgesehenen Leistungen nicht zahlt, die rechtliche oder faktische Verpflichtung (siehe Paragraph 46) zur Zahlung weiterer Beträge behält. Die Paragraphen 116–119 behandeln Ansatz und Bewertung von Erstattungsansprüchen aus Versicherungspolicen, die kein Planvermögen sind.
+
+Ansatz und Bewertung: Planvermögen
+
+Beizulegender Zeitwert des Planvermögens
+
+113 Der beizulegende Zeitwert des Planvermögens wird bei der Ermittlung der Unter- oder Überdeckung vom Barwert der leistungsorientierten Verpflichtung abgezogen.
+
+114 Nicht zum Planvermögen zählen fällige, aber noch nicht an den Fonds entrichtete Beiträge des berichtenden Unternehmens sowie nicht übertragbare Finanzinstrumente, die vom Unternehmen emittiert und vom Fonds gehalten werden. Das Planvermögen wird gemindert um jegliche Schulden des Fonds, die nicht im Zusammenhang mit Leistungen an Arbeitnehmer stehen, zum Beispiel Verbindlichkeiten aus Lieferungen und Leistungen oder andere Verbindlichkeiten und Schulden, die aus derivativen Finanzinstrumenten resultieren.
+
+115 Soweit zum Planvermögen qualifizierende Versicherungspolicen gehören, die alle oder einige der zugesagten Leistungen hinsichtlich ihres Betrags und ihrer Fälligkeiten genau abdecken, ist der beizulegende Zeitwert der Versicherungspolicen annahmegemäß gleich dem Barwert der abgedeckten Verpflichtungen (vorbehaltlich jeder zu erfassenden Reduzierung, wenn die Beträge, die aus den Versicherungspolicen beansprucht werden, nicht voll erzielbar sind).
+
+Erstattungen
+
+116   Nur wenn so gut wie sicher ist, dass eine andere Partei die Ausgaben zur Erfüllung der leistungsorientierten Verpflichtung teilweise oder ganz erstatten wird, hat ein Unternehmen
+a) 
+
+seinen Erstattungsanspruch als gesonderten Vermögenswert anzusetzen. Das Unternehmen hat den Vermögenswert zum beizulegenden Zeitwert zu bewerten.
+b) 
+
+Änderungen des beizulegenden Zeitwerts seines Erstattungsanspruchs in der gleichen Weise aufzugliedern und zu erfassen wie Änderungen des beizulegenden Zeitwerts des Planvermögens (siehe Paragraphen 124 und 125). Die gemäß Paragraph 120 erfassten Kostenkomponenten eines leistungsorientierten Plans können nach Abzug der Beträge, die sich auf Änderungen des Buchwerts des Erstattungsanspruchs beziehen, erfasst werden.
+
+117 In einigen Fällen kann ein Unternehmen von einer anderen Partei, zum Beispiel einem Versicherer, erwarten, dass diese die Ausgaben zur Erfüllung der leistungsorientierten Verpflichtung ganz oder teilweise zahlt. Qualifizierende Versicherungspolicen, wie in Paragraph 8 definiert, sind Planvermögen. Ein Unternehmen bilanziert qualifizierende Versicherungspolicen genauso wie jedes andere Planvermögen und Paragraph 116 findet keine Anwendung (siehe auch Paragraphen 46–49 und 115).
+
+118 Ist eine auf ein Unternehmen ausgestellte Versicherungspolice keine qualifizierende Versicherungspolice, dann ist diese auch kein Planvermögen. In solchen Fällen wird Paragraph 116 angewendet: Das Unternehmen erfasst seinen Erstattungsanspruch aus der Versicherungspolice als separaten Vermögenswert und nicht als einen Abzug bei der Ermittlung der Unter- oder Überdeckung eines leistungsorientierten Plans. Paragraph 140(b) verpflichtet das Unternehmen zu einer kurzen Beschreibung des Zusammenhangs zwischen Erstattungsanspruch und zugehöriger Verpflichtung.
+
+119 Entsteht der Erstattungsanspruch aus einer Versicherungspolice, die einige oder alle der aus einem leistungsorientierten Plan zu zahlenden Leistungen hinsichtlich ihres Betrages und ihrer Fälligkeiten genau abdeckt, ist der beizulegende Zeitwert des Erstattungsanspruchs annahmegemäß gleich dem Barwert der zugehörigen Verpflichtung (vorbehaltlich jeder zu erfassenden Reduzierung, wenn die Erstattung nicht voll erzielbar ist).
+
+Kostenkomponenten leistungsorientierter Pläne
+
+120   Ein Unternehmen hat die Kostenkomponenten eines leistungsorientierten Plans wie folgt zu erfassen, es sei denn, ein anderer IFRS verlangt oder erlaubt deren Einbeziehung in die Anschaffungs- oder Herstellungskosten eines Vermögenswerts:
+a) 
+
+Dienstzeitaufwand (siehe Paragraphen 66–112 und Paragraph 122A) erfolgswirksam,
+b) 
+
+Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan (siehe Paragraphen 123–126) erfolgswirksam und
+c) 
+
+Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan (siehe Paragraphen 127–130) im sonstigen Ergebnis.
+
+121 Andere IFRS schreiben vor, dass die Kosten für bestimmte Leistungen an Arbeitnehmer in die Anschaffungs- oder Herstellungskosten von Vermögenswerten, beispielsweise Vorräte und Sachanlagen, einbezogen werden (siehe IAS 2 und IAS 16). In die Anschaffungs- und Herstellungskosten von Vermögenswerten einbezogene Kosten von Leistungen nach Beendigung des Arbeitsverhältnisses beinhalten auch einen angemessenen Anteil der in Paragraph 120 aufgeführten Komponenten.
+
+122   Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan, die im sonstigen Ergebnis erfasst werden, dürfen in einer nachfolgenden Periode nicht erfolgswirksam umgegliedert werden. Das Unternehmen kann diese im sonstigen Ergebnis erfassten Beträge jedoch innerhalb des Eigenkapitals umgliedern.
+
+Laufender Dienstzeitaufwand
+
+122A   Der laufende Dienstzeitaufwand ist anhand versicherungsmathematischer Annahmen zu bestimmen, die zu Beginn des Geschäftsjahrs festgelegt wurden. Nimmt ein Unternehmen allerdings eine Neubewertung der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan nach Paragraph 99 vor, so hat es den laufenden Dienstzeitaufwand für den nach der Änderung, Kürzung oder Abgeltung des Plans noch verbleibenden Teil des Geschäftsjahrs zu bestimmen und sich dabei auf die versicherungsmathematischen Annahmen zu stützen, die für die Neubewertung der Nettoschuld (des Nettovermögenswerts) gemäß Paragraph 99(b) herangezogen wurden.
+
+Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan
+
+123   Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan sind mittels Multiplikation der Nettoschuld (des Nettovermögenswerts) mit dem in Paragraph 83 beschriebenen Abzinsungssatz zu ermitteln.
+
+123A   Zur Bestimmung der Nettozinsen gemäß Paragraph 123 hat ein Unternehmen die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan und den Abzinsungssatz zugrunde zu legen, wobei beide Größen jeweils zu Beginn des Geschäftsjahrs festgelegt werden. Nimmt ein Unternehmen allerdings eine Neubewertung der Nettoschuld (des Nettovermögenswerts) gemäß Paragraph 99 vor, so hat es die Nettozinsen für den nach der Änderung, Kürzung oder Abgeltung des Plans noch verbleibenden Teil des Geschäftsjahrs zu bestimmen und sich dabei zu stützen auf
+a) 
+
+die (den) gemäß Paragraph 99(b) bestimmte(n) Nettoschuld (Nettovermögenswert) aus einem leistungsorientierten Plan und
+b) 
+
+den Abzinsungssatz, der zur Neubewertung der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan gemäß Paragraph 99(b) herangezogen wurde.
+
+Bei der Anwendung des Paragraphen 123A hat das Unternehmen auch alle etwaigen Änderungen bei der Nettoschuld (dem Nettovermögenswert) aus einem leistungsorientierten Plan zu berücksichtigen, die während der Berichtsperiode aufgrund von Beitrags- oder Leistungszahlungen eingetreten sind.
+
+124 Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan können angesehen werden als die Zusammensetzung von Zinserträgen aus dem Planvermögen, Zinsaufwendungen für die leistungsorientierte Verpflichtung und Zinsen auf die Auswirkung der in Paragraph 64 erwähnten Obergrenze für den Vermögenswert.
+
+125 Zinserträge aus dem Planvermögen sind ein Bestandteil des Ertrags aus dem Planvermögen. Sie werden durch Multiplikation des beizulegenden Zeitwerts des Planvermögens mit dem in Paragraph 123A beschriebenen Abzinsungssatz ermittelt. Der beizulegende Zeitwert des Planvermögens ist zu Beginn des Geschäftsjahrs zu bestimmen. Nimmt ein Unternehmen allerdings eine Neubewertung der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan gemäß Paragraph 99 vor, so hat es die Zinserträge für den nach der Änderung, Kürzung oder Abgeltung des Plans noch verbleibenden Teil des Geschäftsjahrs zu bestimmen und sich dabei auf das Planvermögen zu stützen, das für die Neubewertung der Nettoschuld (des Nettovermögenswerts) gemäß Paragraph 99(b) herangezogen wurde. Bei der Anwendung des Paragraphen 125 hat das Unternehmen auch alle etwaigen Änderungen beim Planvermögen zu berücksichtigen, die während der Berichtsperiode aufgrund von Beitrags- oder Leistungszahlungen eingetreten sind. Die Differenz zwischen den Zinserträgen aus dem Planvermögen und des Ertrags aus dem Planvermögen wird in die Neubewertung der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan einbezogen.
+
+126 Die Zinsen auf die Auswirkung der Obergrenze für den Vermögenswert sind Bestandteil der gesamten Änderung der Auswirkung der Obergrenze für den Vermögenswert. Ihre Ermittlung erfolgt mittels Multiplikation der Auswirkung der Obergrenze für den Vermögenswert mit dem in Paragraph 123A beschriebenen Abzinsungssatz. Die Auswirkung der Obergrenze für den Vermögenswert ist zu Beginn des Geschäftsjahrs zu bestimmen. Nimmt ein Unternehmen allerdings eine Neubewertung der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan gemäß Paragraph 99 vor, so hat es die Zinsen auf die Auswirkung der Obergrenze für den Vermögenswert für den nach der Änderung, Kürzung oder Abgeltung des Plans noch verbleibenden Teil des Geschäftsjahrs zu bestimmen und dabei alle etwaigen Änderungen bei der Auswirkung der Obergrenze für den Vermögenswert zu berücksichtigen, die gemäß Paragraph 101A bestimmt wurden. Die Differenz zwischen den Zinsen auf die Auswirkung der Obergrenze für den Vermögenswert und der gesamten Veränderung der Auswirkung der Obergrenze für den Vermögenswert wird in die Neubewertung der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan einbezogen.
+
+Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan
+
+127 Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan umfassen
+a) 
+
+versicherungsmathematische Gewinne und Verluste (siehe Paragraphen 128 und 129),
+b) 
+
+den Ertrag aus dem Planvermögen (siehe Paragraph 130) unter Ausschluss von Beträgen, die in den Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan enthalten sind (siehe Paragraph 125), und
+c) 
+
+Änderungen der Auswirkung der Obergrenze für den Vermögenswert unter Ausschluss der Beträge, die in den Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan enthalten sind (siehe Paragraph 126).
+
+128 Versicherungsmathematische Gewinne und Verluste entstehen aus Zu- oder Abnahmen des Barwerts der leistungsorientierten Verpflichtung, die aufgrund von Veränderungen bei den versicherungsmathematischen Annahmen und erfahrungsbedingten Anpassungen eintreten. Zu den Gründen für das Entstehen versicherungsmathematischer Gewinne und Verluste gehören beispielsweise
+a) 
+
+unerwartet hohe oder niedrige Fluktuations- oder Frühverrentungsraten oder Sterblichkeitsquoten der Mitarbeiter; unerwartet hohe oder niedrige Steigerungen bei Gehältern und Leistungen (sofern die formalen oder faktischen Regelungen eines Plans Leistungsanhebungen zum Inflationsausgleich vorsehen) oder bei den Kosten der medizinischen Versorgung,
+b) 
+
+die Auswirkung von Änderungen bei den Annahmen im Hinblick auf die Optionen für Leistungszahlungen,
+c) 
+
+die Auswirkung von Änderungen bei den Schätzungen der Fluktuations- oder Frühverrentungsraten oder Sterblichkeitsquoten der Mitarbeiter; Steigerungen bei Gehältern und Leistungen (sofern die formalen oder faktischen Regelungen eines Plans Leistungsanhebungen zum Inflationsausgleich vorsehen) oder bei den Kosten der medizinischen Versorgung und
+d) 
+
+die Auswirkung von Änderungen des Abzinsungssatzes.
+
+129 In versicherungsmathematischen Gewinnen und Verlusten sind keine Änderungen des Barwerts der leistungsorientierten Verpflichtung enthalten, die durch die Einführung, Änderung, Kürzung oder Abgeltung des leistungsorientierten Plans hervorgerufen werden; ebenfalls nicht enthalten sind Änderungen bei den im Rahmen des leistungsorientierten Plans zu zahlenden Leistungen. Änderungen dieser Art führen zu nachzuverrechnendem Dienstzeitaufwand oder zu Gewinnen oder Verlusten bei der Abgeltung.
+
+130 Bei der Ermittlung des Ertrags aus dem Planvermögen zieht ein Unternehmen die Kosten für die Verwaltung des Planvermögens sowie alle vom Plan selbst zu entrichtenden Steuern ab, soweit es sich nicht um Steuern handelt, die bereits in die versicherungsmathematischen Annahmen eingeflossen sind, die zur Bewertung der leistungsorientierten Verpflichtung verwendet werden (Paragraph 76). Sonstige Verwaltungskosten werden vom Ertrag aus dem Planvermögen nicht abgezogen.
+
+Darstellung
+
+Saldierung
+
+131   Ein Unternehmen hat einen Vermögenswert aus einem Plan nur dann mit der Schuld aus einem anderen Plan zu saldieren, wenn das Unternehmen
+a) 
+
+ein einklagbares Recht hat, die Überdeckung des einen Plans zur Abgeltung von Verpflichtungen aus dem anderen Plan zu verwenden und
+b) 
+
+beabsichtigt, entweder die Abgeltung der Verpflichtungen auf Nettobasis herbeizuführen, oder gleichzeitig mit der Verwertung der Überdeckung des einen Plans seine Verpflichtung aus dem anderen Plan abzugelten.
+
+132 Die Kriterien für eine Saldierung gleichen annähernd denen für Finanzinstrumente gemäß IAS 32 Finanzinstrumente: Darstellung.
+
+Unterscheidung von Kurz- und Langfristigkeit
+
+133 Einige Unternehmen unterscheiden zwischen kurzfristigen und langfristigen Vermögenswerten oder Schulden. Dieser Standard regelt nicht, ob ein Unternehmen eine diesbezügliche Unterscheidung nach kurz- und langfristigen Aktiva oder Passiva aus Leistungen nach Beendigung des Arbeitsverhältnisses vorzunehmen hat.
+
+Kostenkomponenten leistungsorientierter Pläne
+
+134 Paragraph 120 schreibt vor, dass ein Unternehmen den Dienstzeitaufwand und die Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan erfolgswirksam anzusetzen hat. Dieser Standard regelt nicht, wie ein Unternehmen Dienstzeitaufwand und Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan darzustellen hat. Bei der Darstellung dieser Komponenten legt das Unternehmen IAS 1 zugrunde.
+
+Angaben
+
+135   Ein Unternehmen hat Angaben zu machen, die
+a) 
+
+die Merkmale seiner leistungsorientierten Pläne und der damit verbundenen Risiken erläutern (siehe Paragraph 139),
+b) 
+
+die in seinen Abschlüssen ausgewiesenen Beträge, die sich aus seinen leistungsorientierten Plänen ergeben (siehe Paragraphen 140–144), feststellen und erläutern und
+c) 
+
+beschreiben, in welcher Weise seine leistungsorientierten Pläne die Höhe, den Zeitpunkt und die Unsicherheit der künftigen Zahlungsströme des Unternehmens beeinflussen könnten (siehe Paragraphen 145–147).
+
+136 Zur Erfüllung der in Paragraph 135 beschriebenen Zielsetzungen hat ein Unternehmen alle nachstehend genannten Gesichtspunkte zu berücksichtigen:
+a) 
+
+den zur Erfüllung der Angabepflichten notwendigen Detaillierungsgrad,
+b) 
+
+das Gewicht, das auf jede der verschiedenen Vorschriften zu legen ist,
+c) 
+
+den Umfang vorzunehmender Zusammenfassungen oder Aufgliederungen und
+d) 
+
+die Notwendigkeit zusätzlicher Informationen für Abschlussadressaten, damit diese die angegebenen quantitativen Informationen beurteilen können.
+
+137 Reichen die gemäß diesem Standard und anderen IFRS gemachten Angaben zur Erfüllung der Zielsetzungen in Paragraph 135 nicht aus, hat ein Unternehmen zusätzliche Angaben zu machen, um diese Zielsetzungen zu erfüllen. Ein Unternehmen kann beispielsweise eine Aufgliederung des Barwerts der leistungsorientierten Verpflichtung vorlegen, in der zwischen der Art, den Merkmalen und den Risiken der Verpflichtung unterschieden wird. In einer solchen Angabe kann unterschieden werden
+a) 
+
+zwischen Beträgen, die aktiven begünstigten Arbeitnehmern, ausgeschiedenen Anwärtern und Rentnern geschuldet werden,
+b) 
+
+zwischen unverfallbaren Leistungen und angesammelten, aber nicht unverfallbar gewordenen Leistungen,
+c) 
+
+zwischen bedingten Leistungen, künftigen Gehaltssteigerungen zuzuordnenden Beträgen und sonstigen Leistungen.
+
+138 Ein Unternehmen hat zu beurteilen, ob bei allen oder einigen Angaben eine Aufgliederung nach Plänen oder Gruppen von Plänen mit erheblich voneinander abweichenden Risiken vorzunehmen ist. Ein Unternehmen kann beispielsweise Angaben über Pläne nach einem oder mehreren der folgenden Merkmale aufgliedern:
+a) 
+
+unterschiedliche geografische Standorte,
+b) 
+
+unterschiedliche Merkmale wie Festgehaltspläne, Endgehaltspläne oder Pläne für medizinische Versorgung nach Beendigung des Arbeitsverhältnisses,
+c) 
+
+unterschiedliche regulatorische Rahmenbedingungen,
+d) 
+
+unterschiedliche Berichtssegmente,
+e) 
+
+unterschiedliche Finanzierungsvereinbarungen (z. B. nicht fondsfinanziert, ganz oder teilweise fondsfinanziert).
+
+Merkmale leistungsorientierter Pläne und damit verbundene Risiken
+
+139 Ein Unternehmen hat folgende Angaben zu machen:
+a) 
+
+Informationen über die Merkmale seiner leistungsorientierten Pläne, unter Einschluss
+i) 
+
+der Art der durch den Plan bereitgestellten Leistungen (z. B. leistungsorientierter Plan auf Endgehaltsbasis oder beitragsbasierter Plan mit Garantie),
+ii) 
+
+einer Beschreibung des regulatorischen Rahmens, innerhalb dessen der Versorgungsplan betrieben wird, beispielsweise der Höhe eventueller Mindestdotierungsverpflichtungen sowie möglicher Auswirkungen des regulatorischen Rahmens auf den Plan; dies kann beispielsweise die Obergrenze für den Vermögenswert betreffen (siehe Paragraph 64),
+iii) 
+
+einer Beschreibung der Verantwortlichkeiten anderer Einheiten für die Führung des Plans; dies kann beispielsweise die Verantwortlichkeiten von Treuhändern oder Mitgliedern der Aufsichtsorgane des Plans betreffen.
+b) 
+
+eine Beschreibung der Risiken, denen das Unternehmen durch den Plan ausgesetzt ist; hier ist das Hauptaugenmerk auf ungewöhnliche, unternehmens- oder planspezifische Risiken sowie erhebliche Risikokonzentrationen zu richten. Ist das Planvermögen hauptsächlich in eine Gruppe von Anlagen wie beispielsweise Immobilien investiert, kann für das Unternehmen durch den Plan eine Konzentration von Immobilienmarktrisiken entstehen.
+c) 
+
+eine Beschreibung etwaiger Änderungen, Kürzungen und Abgeltungen des Plans.
+
+Erläuterung der Beträge im Abschluss
+
+140 Ein Unternehmen hat, sofern zutreffend, für jeden der folgenden Posten eine Überleitungsrechnung von den Eröffnungs- zu den Schlusssalden vorzulegen:
+a) 
+
+die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan mit getrennten Überleitungsrechnungen für
+i) 
+
+das Planvermögen,
+ii) 
+
+den Barwert der leistungsorientierten Verpflichtung,
+iii) 
+
+die Auswirkung der Obergrenze für den Vermögenswert,
+b) 
+
+etwaige Erstattungsansprüche. Ein Unternehmen hat außerdem eine Beschreibung der Beziehung zwischen einem etwaigen Erstattungsanspruch und der zugehörigen Verpflichtung abzugeben.
+
+141 In jeder der in Paragraph 140 aufgeführten Überleitungsrechnungen sind außerdem, falls zutreffend, jeweils die folgenden Posten aufzuführen:
+a) 
+
+laufender Dienstzeitaufwand.
+b) 
+
+Zinserträge oder -aufwendungen.
+c) 
+
+Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan mit getrenntem Ausweis
+i) 
+
+des Ertrags aus dem Planvermögen unter Ausschluss von Beträgen, die in den in (b) aufgeführten Zinsen enthalten sind,
+ii) 
+
+versicherungsmathematischer Gewinne und Verluste, die aus Veränderungen bei den demografischen Annahmen entstehen (siehe Paragraph 76(a)),
+iii) 
+
+versicherungsmathematischer Gewinne und Verluste, die aus Veränderungen bei den finanziellen Annahmen entstehen (siehe Paragraph 76(b)),
+iv) 
+
+Veränderungen der Auswirkung einer Begrenzung eines Nettovermögenswerts aus einem leistungsorientierten Plan auf die Obergrenze für den Vermögenswert unter Ausschluss von Beträgen, die in den Zinsen in (b) enthalten sind. Ein Unternehmen hat außerdem anzugeben, wie es den verfügbaren maximalen wirtschaftlichen Nutzen ermittelt hat, d.h. ob es den Nutzen in Form von Rückerstattungen, in Form von geminderten künftigen Beitragszahlungen oder einer Kombination aus beidem erhalten würde.
+d) 
+
+nachzuverrechnender Dienstzeitaufwand sowie Gewinne und Verluste aus Abgeltungen. Nach Paragraph 100 ist es zulässig, dass zwischen nachzuverrechnendem Dienstzeitaufwand und Gewinnen und Verlusten aus Abgeltungen keine Unterscheidung getroffen wird, wenn diese zusammen eintreten.
+e) 
+
+die Auswirkung von Wechselkursänderungen.
+f) 
+
+Beiträge zum Plan; dabei sind Beiträge des Arbeitgebers und Beiträge der begünstigten Arbeitnehmer getrennt auszuweisen.
+g) 
+
+aus dem Plan geleistete Zahlungen. Dabei ist der im Zusammenhang mit Abgeltungen gezahlte Betrag getrennt auszuweisen.
+h) 
+
+die Auswirkungen von Unternehmenszusammenschlüssen und -veräußerungen.
+
+142 Ein Unternehmen hat den beizulegenden Zeitwert des Planvermögens in Gruppen aufzugliedern, bei denen nach der Art und den Risiken der betreffenden Vermögenswerte unterschieden wird; dabei erfolgt in jeder Planvermögensgruppe eine weitere Unterteilung in Vermögenswerte, für die eine Marktpreisnotierung in einem aktiven Markt besteht (gemäß Definition in IFRS 13 Bewertung zum beizulegenden Zeitwert) und Vermögenswerte, bei denen dies nicht der Fall ist. Ein Unternehmen könnte unter Berücksichtigung des in Paragraph 136 angegebenen Umfangs der Angabepflichten beispielsweise folgende Posten unterscheiden:
+a) 
+
+Zahlungsmittel und Zahlungsmitteläquivalente,
+b) 
+
+Eigenkapitalinstrumente (getrennt nach Art der Branche, Unternehmensgröße, geografischem Gebiet etc.),
+c) 
+
+Schuldinstrumente (getrennt nach Art des Emittenten, Bonität, geografischem Gebiet etc.),
+d) 
+
+Immobilien (getrennt nach geografischem Gebiet etc.),
+e) 
+
+Derivate (getrennt nach Art des dem Kontrakt zugrunde liegenden Risikos, z. B. Zinskontrakte, Devisenkontrakte, Eigenkapitalkontrakte, Kreditkontrakte, Langlebigkeits-Swaps etc.),
+f) 
+
+Investmentfonds (getrennt nach Art des Fonds),
+g) 
+
+forderungsbesicherte Wertpapiere und
+h) 
+
+strukturierte Schuldtitel.
+
+143 Ein Unternehmen hat den beizulegenden Zeitwert seiner eigenen, als Planvermögen gehaltenen übertragbaren Finanzinstrumente anzugeben; dasselbe gilt für den beizulegenden Zeitwert des Planvermögens in Form von Immobilien oder anderen Vermögenswerten, die das Unternehmen selbst nutzt.
+
+144 Ein Unternehmen hat die erheblichen versicherungsmathematischen Annahmen anzugeben, die zur Ermittlung des Barwerts der leistungsorientierten Verpflichtung eingesetzt werden (siehe Paragraph 76). Eine solche Angabe muss in absoluten Werten erfolgen (z. B. als absoluter Prozentsatz und nicht nur als Spanne zwischen verschiedenen Prozentsätzen und anderen Variablen). Legt ein Unternehmen für eine Gruppe von Plänen zusammenfassende Angaben vor, hat es diese Angaben in Form von gewichteten Durchschnitten oder vergleichsweise engen Bandbreiten zu machen.
+
+Höhe, Zeitpunkt und Unsicherheit künftiger Zahlungsströme
+
+145 Ein Unternehmen hat folgende Angaben zu machen:
+a) 
+
+eine Sensitivitätsanalyse jeder erheblichen versicherungsmathematischen Annahme (gemäß Angabe nach Paragraph 144) zum Abschlussstichtag, in der aufgezeigt wird, in welcher Weise die leistungsorientierte Verpflichtung durch Veränderungen bei den maßgeblichen versicherungsmathematischen Annahmen, die zu diesem Zeitpunkt angemessenerweise für möglich gehalten wurden, beeinflusst worden wäre,
+b) 
+
+die Methoden und Annahmen, die bei der Erstellung der in (a) vorgeschriebenen Sensitivitätsanalyse verwendet wurden, sowie die Grenzen dieser Methoden,
+c) 
+
+die Änderungen bei den Methoden und Annahmen, die bei der Erstellung der in (a) vorgeschriebenen Sensitivitätsanalyse verwendet wurden, im Vergleich zur vorangegangenen Berichtsperiode sowie die Gründe für diese Änderungen.
+
+146 Ein Unternehmen hat eine Beschreibung der Strategien vorzulegen, die der Versorgungsplan bzw. das Unternehmen zum Ausgleich der Risiken auf der Aktiv- und Passivseite verwendet; hierunter fällt auch die Verwendung von Annuitäten und anderen Verfahren wie Langlebigkeits-Swaps zum Zweck des Risikomanagements.
+
+147 Um einen Hinweis auf die Auswirkung des leistungsorientierten Plans auf die künftigen Zahlungsströme des Unternehmens zu geben, hat ein Unternehmen folgende Angaben zu machen:
+a) 
+
+eine Beschreibung der Finanzierungsvereinbarungen und Finanzierungsrichtlinien, die sich auf die künftigen Beiträge auswirken,
+b) 
+
+die für das folgende Geschäftsjahr erwarteten Beiträge zum Plan,
+c) 
+
+Informationen über das Fälligkeitsprofil der leistungsorientierten Verpflichtung. Hierunter fallen die gewichtete durchschnittliche Laufzeit der leistungsorientierten Verpflichtung sowie eventuell weitere Angaben über die zeitliche Verteilung der Leistungszahlungen, beispielsweise in Form einer Fälligkeitsanalyse der Leistungszahlungen.
+
+Gemeinschaftliche Pläne mehrerer Arbeitgeber
+
+148 Nimmt ein Unternehmen an einem leistungsorientierten gemeinschaftlichen Plan mehrerer Arbeitgeber teil, so hat das Unternehmen folgende Angaben zu machen:
+a) 
+
+eine Beschreibung der Finanzierungsvereinbarungen einschließlich einer Beschreibung der Methode, die zur Ermittlung des Beitragssatzes des Unternehmens verwendet wird, sowie einer Beschreibung der Mindestdotierungsverpflichtungen.
+b) 
+
+eine Beschreibung des Umfangs, in dem das Unternehmen gemäß den Regelungen und Bedingungen des gemeinschaftlichen Plans mehrerer Arbeitgeber für Verpflichtungen anderer Unternehmen gegenüber dem Plan haftbar sein kann.
+c) 
+
+eine Beschreibung einer etwaigen vereinbarten Zuweisung einer Unter- oder Überdeckung bei
+i) 
+
+Beendigung des Plans oder
+ii) 
+
+Ausscheiden des Unternehmens aus dem Plan.
+d) 
+
+bilanziert das Unternehmen diesen Plan so, als handele es sich um einen beitragsorientierten Plan nach Paragraph 34, hat es zusätzlich zu den in (a)–(c) vorgeschriebenen Angaben und anstelle der in den Paragraphen 139–147 vorgeschriebenen Angaben Folgendes darzulegen:
+i) 
+
+den Sachverhalt, dass es sich bei dem Plan um einen leistungsorientierten Plan handelt,
+ii) 
+
+den Grund für das Fehlen ausreichender Informationen, die das Unternehmen in die Lage versetzen würden, den Plan als leistungsorientierten Plan zu bilanzieren,
+iii) 
+
+die für das folgende Geschäftsjahr erwarteten Beiträge zum Plan,
+iv) 
+
+Informationen über eine Unter- oder Überdeckung des Plans, die sich auf die Höhe künftiger Beitragszahlungen auswirken könnte; hierunter fallen auch die Grundlage, auf die sich das Unternehmen bei der Ermittlung der Unter- oder Überdeckung gestützt hat, sowie eventuelle Konsequenzen für das Unternehmen,
+v) 
+
+ein Hinweis auf den Umfang, in dem das Unternehmen im Vergleich zu anderen teilnehmenden Unternehmen am Plan teilnimmt. Messgrößen, die einen solchen Hinweis geben könnten, sind beispielsweise der Anteil des Unternehmens an den gesamten Beiträgen zum Plan oder der Anteil des Unternehmens an der Gesamtzahl der aktiven und pensionierten begünstigten Arbeitnehmer sowie der ehemaligen begünstigten Arbeitnehmer mit Leistungsansprüchen, sofern diese Informationen zur Verfügung stehen.
+
+Leistungsorientierte Pläne, die Risiken auf verschiedene Unternehmen unter gemeinsamer Beherrschung verteilen
+
+149 Nimmt ein Unternehmen an einem leistungsorientierten Plan teil, der Risiken zwischen verschiedenen Unternehmen unter gemeinsamer Beherrschung aufteilt, hat es folgende Angaben zu machen:
+a) 
+
+die vertragliche Vereinbarung oder erklärte Richtlinie zur Anlastung der Nettokosten aus dem leistungsorientierten Plan oder den Sachverhalt, dass eine solche Richtlinie nicht besteht,
+b) 
+
+die Richtlinie für die Ermittlung des Beitrags, den das Unternehmen zu zahlen hat,
+c) 
+
+in Fällen, in denen das Unternehmen eine Zuweisung der Nettokosten aus dem leistungsorientierten Plan gemäß Paragraph 41 bilanziert, sämtliche Informationen über den Plan, die insgesamt in den Paragraphen 135–147 vorgeschrieben werden,
+d) 
+
+in Fällen, in denen das Unternehmen den für die Periode zu zahlenden Beitrag gemäß Paragraph 41 bilanziert, sämtliche Informationen über den Plan, die insgesamt in den Paragraphen 135–137, 139, 142–144 und 147(a) und (b) vorgeschrieben werden.
+
+150 Die in Paragraph 149(c) und (d) vorgeschriebenen Informationen können mittels Querverweis auf Angaben im Abschluss eines anderen Konzernunternehmens ausgewiesen werden, wenn
+a) 
+
+im Abschluss des betreffenden Konzernunternehmens die verlangten Informationen über den Plan getrennt bestimmt und angegeben werden, und
+b) 
+
+der Abschluss des betreffenden Konzernunternehmens Abschlussadressaten zu denselben Bedingungen und zur selben Zeit wie oder früher als der Abschluss des Unternehmens zur Verfügung steht.
+
+Angabepflichten in anderen IFRS
+
+151 Falls IAS 24 dies vorschreibt, hat das Unternehmen Angaben zu machen über
+a) 
+
+Geschäftsvorfälle zwischen Plänen für Leistungen nach Beendigung des Arbeitsverhältnisses und nahestehenden Unternehmen und Personen und
+b) 
+
+Leistungen nach Beendigung des Arbeitsverhältnisses für das Management in Schlüsselpositionen.
+
+152 Falls IAS 37 dies vorschreibt, macht das Unternehmen Angaben über Eventualverbindlichkeiten, die aus Leistungsverpflichtungen nach Beendigung des Arbeitsverhältnisses resultieren.
+
+ANDERE LANGFRISTIG FÄLLIGE LEISTUNGEN AN ARBEITNEHMER
+
+153 Andere langfristig fällige Leistungen an Arbeitnehmer umfassen unter anderem die folgenden Leistungen, sofern sie nicht voraussichtlich innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs, in dem die Arbeitnehmer die betreffende Arbeitsleistung erbringen, vollständig beglichen werden:
+a) 
+
+langfristig fällige Leistungen für bezahlte Abwesenheiten wie Sonderurlaub nach langjähriger Dienstzeit oder Urlaub zur persönlichen Weiterbildung,
+b) 
+
+Jubiläumsgelder oder andere Leistungen für langjährige Dienstzeiten;
+c) 
+
+langfristig fällige Leistungen bei Erwerbsunfähigkeit,
+d) 
+
+Gewinn- und Erfolgsbeteiligungen und
+e) 
+
+aufgeschobene Vergütungen.
+
+154 Die Bewertung anderer langfristig fälliger Leistungen an Arbeitnehmer unterliegt für gewöhnlich nicht den gleichen Unsicherheiten wie dies bei Leistungen nach Beendigung des Arbeitsverhältnisses der Fall ist. Aus diesem Grund schreibt dieser Standard eine vereinfachte Bilanzierungsmethode für andere langfristig fällige Leistungen an Arbeitnehmer vor. Anders als bei der für Leistungen nach Beendigung des Arbeitsverhältnisses vorgeschriebenen Bilanzierung werden Neubewertungen bei dieser Methode nicht im sonstigen Ergebnis angesetzt.
+
+Ansatz und Bewertung
+
+155   Bei Ansatz und Bewertung der Über- oder Unterdeckung eines Versorgungsplans für andere langfristig fällige Leistungen an Arbeitnehmer hat ein Unternehmen die Paragraphen 56–98 und 113–115 anzuwenden. Bei Ansatz und Bewertung von Erstattungsansprüchen hat ein Unternehmen die Paragraphen 116–119 anzuwenden.
+
+156   In Bezug auf andere langfristig fällige Leistungen an Arbeitnehmer hat ein Unternehmen die Nettosumme der folgenden Beträge erfolgswirksam anzusetzen, es sei denn, ein anderer IFRS verlangt oder erlaubt die Einbeziehung der Leistungen in die Anschaffungs- oder Herstellungskosten eines Vermögenswerts:
+a) 
+
+Dienstzeitaufwand (siehe Paragraphen 66–112 und Paragraph 122A),
+b) 
+
+Nettozinsen auf die Nettoschuld (den Nettovermögenswert) aus einem leistungsorientierten Plan (siehe Paragraphen 123–126) und
+c) 
+
+Neubewertungen der Nettoschuld (des Nettovermögenswerts) aus einem leistungsorientierten Plan (siehe Paragraphen 127–130).
+
+157 Zu den anderen langfristig fälligen Leistungen an Arbeitnehmer gehören auch die langfristigen Leistungen bei Erwerbsunfähigkeit. Hängt die Höhe der zugesagten Leistung von der Dauer der Dienstzeit ab, so entsteht die Verpflichtung mit der Ableistung der Dienstzeit. In die Bewertung der Verpflichtung gehen die Wahrscheinlichkeit des Eintretens von Leistungsfällen und die wahrscheinliche Dauer der Zahlungen ein. Ist die Höhe der zugesagten Leistung ungeachtet der Dienstjahre für alle erwerbsunfähigen Arbeitnehmer gleich, werden die erwarteten Kosten für diese Leistungen bei Eintreten des Ereignisses, durch das die Erwerbsunfähigkeit verursacht wird, erfasst.
+
+Angaben
+
+158 Dieser Standard verlangt keine besonderen Angaben über andere langfristig fällige Leistungen an Arbeitnehmer, jedoch können solche Angaben nach Maßgabe anderer IFRS erforderlich sein. Zum Beispiel sind nach IAS 24 Angaben zu Leistungen für das Management in Schlüsselpositionen zu machen. Nach IAS 1 ist der Aufwand für Leistungen an Arbeitnehmer anzugeben.
+
+LEISTUNGEN AUS ANLASS DER BEENDIGUNG DES ARBEITSVERHÄLTNISSES
+
+159 In diesem Standard werden Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses getrennt von anderen Leistungen an Arbeitnehmer behandelt, weil das Entstehen einer Verpflichtung durch die Beendigung des Arbeitsverhältnisses und nicht durch die vom Arbeitnehmer geleistete Arbeit begründet ist. Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses entstehen entweder aufgrund der Entscheidung eines Unternehmens, das Arbeitsverhältnis zu beenden, oder der Entscheidung eines Arbeitnehmers, im Austausch für die Beendigung des Arbeitsverhältnisses ein Angebot des Unternehmens zur Zahlung von Leistungen anzunehmen.
+
+160 Bei Leistungen an Arbeitnehmer, die aus einer Beendigung des Arbeitsverhältnisses auf Verlangen des Arbeitnehmers, ohne entsprechendes Angebot des Unternehmens entstehen, sowie bei Leistungen aufgrund zwingender Vorschriften bei Renteneintritt handelt es sich um Leistungen nach Beendigung des Arbeitsverhältnisses. Sie fallen daher nicht unter die Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses. Mitunter bieten Unternehmen bei einer Beendigung des Arbeitsverhältnisses auf Verlangen des Arbeitnehmers niedrigere Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses (d. h. dem Wesen nach eine Leistung nach Beendigung des Arbeitsverhältnisses) als bei einer Beendigung des Arbeitsverhältnisses auf Verlangen des Unternehmens. Die Differenz zwischen der Leistung, die bei Beendigung des Arbeitsverhältnisses auf Verlangen des Arbeitnehmers fällig wird, und der höheren Leistung bei Beendigung des Arbeitsverhältnisses auf Verlangen des Unternehmens stellt eine Leistung aus Anlass der Beendigung des Arbeitsverhältnisses dar.
+
+161 Die Form der an den Arbeitnehmer gezahlten Leistung legt nicht fest, ob sie im Austausch für erbrachte Arbeitsleistungen oder im Austausch für die Beendigung des Arbeitsverhältnisses mit dem Arbeitnehmer gewährt wird. Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses sind in der Regel einmalige Zahlungen, können aber auch Folgendes umfassen:
+a) 
+
+Verbesserung der Leistungen nach Beendigung des Arbeitsverhältnisses entweder mittelbar über einen Versorgungsplan oder unmittelbar,
+b) 
+
+Lohnfortzahlung bis zum Ende einer bestimmten Kündigungsfrist, ohne dass der Arbeitnehmer weitere Arbeitsleistung erbringt, die dem Unternehmen wirtschaftlichen Nutzen verschafft.
+
+162 Indikatoren, dass eine Leistung an Arbeitnehmer im Austausch für Arbeitsleistungen gewährt wird, sind u. a.:
+a) 
+
+Die Leistung hängt von der Erbringung künftiger Arbeitsleistungen ab (hierunter fallen auch Leistungen, die mit der Erbringung weiterer Arbeitsleistungen steigen).
+b) 
+
+Die Leistung wird gemäß den Regelungen eines Versorgungsplans gewährt.
+
+163 Mitunter werden Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses gemäß den Regelungen eines bestehenden Versorgungsplans gewährt. Solche Bedingungen können beispielsweise gesetzlich, im Anstellungsvertrag oder im Tarifvertrag verankert sein oder sich stillschweigend aus der bisherigen betrieblichen Praxis bei der Gewährung ähnlicher Leistungen ergeben. Weitere Beispiele sind Fälle, in denen ein Unternehmen ein Angebot für Leistungen macht, das nicht nur kurzfristig gilt, oder in denen zwischen dem Angebot und dem erwarteten Zeitpunkt der tatsächlichen Beendigung des Arbeitsverhältnisses mehr als nur ein kurzer Zeitraum liegt; trifft dies zu, prüft das Unternehmen, ob es damit einen neuen Versorgungsplan begründet hat und ob die Leistungen, die im Rahmen dieses Plans angeboten werden, Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses oder Leistungen nach Beendigung des Arbeitsverhältnisses sind. Leistungen an Arbeitnehmer, die gemäß den Regelungen eines Versorgungsplans gewährt werden, sind Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses, wenn sie aus der Entscheidung eines Unternehmens zur Beendigung des Arbeitsverhältnisses entstehen und nicht davon abhängen, ob künftig Arbeitsleistungen erbracht werden.
+
+164 Einige Leistungen an Arbeitnehmer werden unabhängig vom Grund des Ausscheidens gewährt. Die Zahlung solcher Leistungen ist gewiss (vorbehaltlich der Erfüllung etwaiger Unverfallbarkeits- oder Mindestdienstzeitkriterien), der Zeitpunkt der Zahlung ist jedoch ungewiss. Obwohl solche Leistungen in einigen Ländern als Entschädigungen, Abfindungen oder Abfertigungen bezeichnet werden, sind sie Leistungen nach Beendigung des Arbeitsverhältnisses und nicht Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses, sodass ein Unternehmen sie demzufolge auch wie Leistungen nach Beendigung des Arbeitsverhältnisses bilanziert.
+
+Ansatz
+
+165   Ein Unternehmen hat eine Schuld oder einen Aufwand für Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses zum früheren der folgenden Zeitpunkte zu erfassen:
+a) 
+
+wenn das Unternehmen das Angebot derartiger Leistungen nicht mehr zurückziehen kann und
+b) 
+
+wenn das Unternehmen Kosten für eine Restrukturierung ansetzt, die in den Anwendungsbereich von IAS 37 fällt und die Zahlung von Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses beinhaltet.
+
+166 Bei Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses, die infolge der Entscheidung eines Arbeitnehmers, ein Angebot von Leistungen im Austausch für die Beendigung des Arbeitsverhältnisses anzunehmen, zu zahlen sind, entspricht der Zeitpunkt, an dem das Unternehmen das Angebot der Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses nicht mehr zurückziehen kann, dem früheren der folgenden Zeitpunkte:
+a) 
+
+dem Zeitpunkt, an dem der Arbeitnehmer das Angebot annimmt, und
+b) 
+
+dem Zeitpunkt, an dem eine Beschränkung der Fähigkeit des Unternehmens, das Angebot zurückzuziehen, wirksam wird (beispielsweise aufgrund einer gesetzlichen, aufsichtsbehördlichen oder vertraglichen Vorschrift oder sonstiger Beschränkungen). Dieser Zeitpunkt würde also eintreten, wenn das Angebot unterbreitet wird, sofern die Beschränkung zum Zeitpunkt des Angebots bereits bestand.
+
+167 Bei Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses, die infolge der Entscheidung eines Unternehmens, das Arbeitsverhältnis eines Arbeitnehmers zu beenden, zu zahlen sind, ist dem Unternehmen die Rücknahme des Angebots nicht mehr möglich, wenn es die betroffenen Arbeitnehmer über einen Plan hinsichtlich der Beendigung des Arbeitsverhältnisses informiert hat, der sämtliche nachstehenden Kriterien erfüllt:
+a) 
+
+Die für die Umsetzung des Plans erforderlichen Maßnahmen deuten darauf hin, dass an dem Plan wahrscheinlich keine wesentlichen Änderungen mehr vorgenommen werden.
+b) 
+
+Der Plan nennt die Anzahl der Arbeitnehmer, deren Arbeitsverhältnis beendet werden soll, deren Tätigkeitskategorien oder Aufgabenbereiche sowie deren Standorte (der Plan muss aber nicht jeden einzelnen Arbeitnehmer nennen) und den erwarteten Umsetzungszeitpunkt.
+c) 
+
+Der Plan legt die Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses, die Arbeitnehmer erhalten werden, hinreichend detailliert fest, sodass Arbeitnehmer Art und Höhe der Leistungen, die sie bei Beendigung ihres Arbeitsverhältnisses erhalten werden, ermitteln können.
+
+168 Setzt ein Unternehmen Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses an, muss es unter Umständen auch eine Ergänzung des Plans oder eine Kürzung anderer Leistungen an Arbeitnehmer bilanzieren (siehe Paragraph 103).
+
+Bewertung
+
+169   Ein Unternehmen hat Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses beim erstmaligen Ansatz zu bewerten und spätere Änderungen entsprechend der Art der Leistungen an Arbeitnehmer zu bewerten und anzusetzen; in Fällen, in denen die Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses eine Verbesserung der Leistungen nach Beendigung des Arbeitsverhältnisses darstellen, hat das Unternehmen jedoch die Vorschriften für Leistungen nach Beendigung des Arbeitsverhältnisses anzuwenden. Andernfalls
+a) 
+
+hat das Unternehmen in Fällen, in denen die Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses voraussichtlich innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs, in dem die Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses angesetzt werden, vollständig beglichen werden, die Vorschriften für kurzfristig fällige Leistungen an Arbeitnehmer anzuwenden.
+b) 
+
+hat das Unternehmen in Fällen, in denen die Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses voraussichtlich nicht innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs vollständig beglichen werden, die Vorschriften für andere langfristig fällige Leistungen an Arbeitnehmer anzuwenden.
+
+170 Da Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses nicht im Austausch für Arbeitsleistungen gewährt werden, sind die Paragraphen 70–74, die sich auf die Zuordnung von Leistungen auf Dienstjahre beziehen, hier nicht maßgeblich.
+
+Beispiel zur Veranschaulichung der Paragraphen 159–170
+
+Hintergrund
+
+Infolge eines kürzlich erfolgten Erwerbs plant ein Unternehmen, ein Werk in zehn Monaten zu schließen und zu diesem Zeitpunkt die Arbeitsverhältnisse aller in dem Werk verbliebenen Arbeitnehmer zu beenden. Da das Unternehmen für die Fertigstellung einiger Aufträge die Fachkenntnisse der im Werk beschäftigten Arbeitnehmer benötigt, gibt es folgenden Plan hinsichtlich der Beendigung des Arbeitsverhältnisses bekannt.
+
+Jeder Arbeitnehmer, der bis zur Werksschließung bleibt und seine Arbeitsleistung erbringt, erhält zum Zeitpunkt der Beendigung des Arbeitsverhältnisses eine Barzahlung in Höhe von 30 000 WE. Arbeitnehmer, die vor der Werksschließung ausscheiden, erhalten 10 000 WE.
+
+Im Werk sind 120 Arbeitnehmer beschäftigt. Zum Zeitpunkt der Bekanntgabe des Plans geht das Unternehmen davon aus, dass 20 von ihnen vor der Schließung ausscheiden werden. Die insgesamt erwarteten Mittelabflüsse im Rahmen des Plans betragen also 3 200 000 WE (d. h. 20 × 10 000 WE + 100 x 30 000 WE). Wie in Paragraph 160 vorgeschrieben, bilanziert das Unternehmen Leistungen, die im Austausch für eine Beendigung des Arbeitsverhältnisses gewährt werden, als Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses und Leistungen, die im Austausch für Arbeitsleistungen gezahlt werden, als kurzfristig fällige Leistungen an Arbeitnehmer.
+
+Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses
+
+Die im Austausch für die Beendigung des Arbeitsverhältnisses gezahlte Leistung beträgt 10 000 WE. Dies ist der Betrag, den ein Unternehmen für die Beendigung des Arbeitsverhältnisses zu zahlen hat, unabhängig davon, ob die Arbeitnehmer bis zur Schließung des Werks bleiben und Arbeitsleistung erbringen, oder ob sie vor der Schließung ausscheiden. Auch wenn die Arbeitnehmer vor der Schließung ausscheiden können, ist die Beendigung der Arbeitsverhältnisse aller Arbeitnehmer die Folge der Unternehmensentscheidung, das Werk zu schließen und deren Arbeitsverhältnisse zu beenden (d. h. alle Arbeitnehmer scheiden aus dem Arbeitsverhältnis aus, wenn das Werk schließt). Deshalb setzt das Unternehmen eine Schuld von 1 200 000 WE (d. h. 120 × 10 000 WE) für die gemäß dem Versorgungsplan gewährten Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses an; abhängig davon, welcher der Zeitpunkte früher eintritt, erfolgt der Ansatz entweder zu dem Zeitpunkt, zu dem der Plan zur Beendigung des Arbeitsverhältnisses bekannt gegeben wird, oder zu dem Zeitpunkt, zu dem das Unternehmen die mit der Werksschließung verbundenen Restrukturierungskosten ansetzt.
+
+Im Austausch für Arbeitsleistung gezahlte Leistungen
+
+Die zusätzlichen Leistungen, die Arbeitnehmer erhalten, wenn sie über den vollen Zehnmonatszeitraum Arbeitsleistungen erbringen, gelten im Austausch für Arbeitsleistungen, die während der Dauer dieses Zeitraums erbracht werden. Das Unternehmen bilanziert sie als kurzfristig fällige Leistungen an Arbeitnehmer, weil es davon ausgeht, sie innerhalb von zwölf Monaten nach dem Abschlussstichtag des Geschäftsjahrs abzugelten. In diesem Beispiel ist keine Abzinsung erforderlich, sodass in jedem Monat während der Dienstzeit von zehn Monaten ein Aufwand von 200 000 WE (d. h. 2 000 000 ÷ 10) angesetzt wird, mit einem entsprechenden Anstieg im Buchwert der Schuld.
+
+Angaben
+
+171 Obgleich dieser Standard keine besonderen Angaben zu Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses vorschreibt, können solche Angaben nach Maßgabe anderer IFRS erforderlich sein. Zum Beispiel sind nach IAS 24 Angaben zu Leistungen für das Management in Schlüsselpositionen zu machen. Nach IAS 1 ist der Aufwand für Leistungen an Arbeitnehmer anzugeben.
+
+ÜBERGANGSVORSCHRIFTEN UND ZEITPUNKT DES INKRAFTTRETENS
+
+172 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen Standard auf eine frühere Periode an, hat es dies anzugeben.
+
+173 Ein Unternehmen hat diesen Standard gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend anzuwenden, es sei denn,
+a) 
+
+ein Unternehmen braucht den Buchwert von Vermögenswerten, die nicht in den Anwendungsbereich dieses Standards fallen, nicht um Änderungen bei den Kosten für Leistungen an Arbeitnehmer anzupassen, die bereits vor dem Zeitpunkt der erstmaligen Anwendung im Buchwert enthalten waren. Der Zeitpunkt der erstmaligen Anwendung entspricht dem Beginn der frühesten Berichtsperiode, die im ersten Abschluss, in dem das Unternehmen diesen Standard anwendet, ausgewiesen wird.
+b) 
+
+ein Unternehmen braucht in Abschlüssen für vor dem 1. Januar 2014 beginnende Berichtsperioden keine Vergleichsinformationen auszuweisen, die nach Paragraph 145 über die Sensitivität der leistungsorientierten Verpflichtung vorgeschrieben sind.
+
+174 Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Definition des beizulegenden Zeitwerts in Paragraph 8 sowie Paragraph 113 geändert. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+175 Mit der im November 2013 veröffentlichten Verlautbarung Leistungsorientierte Pläne: Arbeitnehmerbeiträge (Änderungen an IAS 19) wurden die Paragraphen 93–94 geändert. Ein Unternehmen hat diese Änderungen nach IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+176 Durch die Jährlichen Verbesserungen an den IFRS, Zyklus 2012–2014, veröffentlicht im September 2014, wurde Paragraph 83 geändert und Paragraph 177 eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+177 Die in Paragraph 176 vorgenommenen Änderungen sind mit Beginn der frühesten Vergleichsperiode, die im ersten nach diesen Änderungen erstellten Abschluss dargestellt ist, anzuwenden. Alle Anpassungen aufgrund der erstmaligen Anwendung dieser Änderungen sind in den Gewinnrücklagen zu Beginn dieser Periode zu erfassen.
+
+178 Durch IFRS 17, veröffentlicht im Mai 2017, wurde die Fußnote zu Paragraph 8 geändert. Wendet ein Unternehmen IFRS 17 an, sind diese Änderung ebenfalls anzuwenden.
+
+179 Durch die im Februar 2018 veröffentlichte Verlautbarung Planänderung, -kürzung oder -abgeltung (Änderungen an IAS 19) wurden die Paragraphen 101A, 122A und 123A eingefügt und die Paragraphen 57, 99, 120, 123, 125, 126 und 156 geändert. Diese Änderungen sind auf Planänderungen, -kürzungen oder -abgeltungen anzuwenden, die zu oder nach Beginn des ersten Geschäftsjahrs eintreten, welches am oder nach dem 1. Januar 2019 beginnt. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben.
+
+Anhang A
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des Standards. Er beschreibt die Anwendung der Paragraphen 92–93 und hat die gleiche bindende Kraft wie die anderen Teile des Standards.
+
+A1 Die Bilanzierungsvorschriften für Beiträge von Arbeitnehmern oder Dritten sind in nachstehender Übersicht dargestellt.
+image

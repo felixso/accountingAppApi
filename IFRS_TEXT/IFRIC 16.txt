@@ -1,0 +1,171 @@
+﻿ IFRIC INTERPRETATION 16
+
+Absicherung einer Nettoinvestition in einen ausländischen Geschäftsbetrieb
+
+VERWEISE
+— 
+IFRS 9 Finanzinstrumente
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 21 Auswirkungen von Wechselkursänderungen
+
+HINTERGRUND
+
+1 Viele berichtende Unternehmen haben Investitionen in ausländische Geschäftsbetriebe (im Sinne von Paragraph 8 von IAS 21). Solche ausländischen Geschäftsbetriebe können Tochterunternehmen, assoziierte Unternehmen, Gemeinschaftsunternehmen oder Niederlassungen sein. Nach IAS 21 hat ein Unternehmen für jeden ausländischen Geschäftsbetrieb als funktionale Währung die Währung des primären Wirtschaftsumfelds des betreffenden Geschäftsbetriebs festzulegen. Bei der Umrechnung der Vermögens-, Finanz- und Ertragslage eines ausländischen Geschäftsbetriebs in die Darstellungswährung hat ein Unternehmen bis zum Abgang des ausländischen Geschäftsbetriebs Währungsumrechnungsdifferenzen im sonstigen Ergebnis zu erfassen.
+
+2 Die Voraussetzungen für eine Bilanzierung von Sicherungsbeziehungen für das aus einer Nettoinvestition in einen ausländischen Geschäftsbetrieb resultierende Währungsrisiko sind nur erfüllt, wenn das Nettovermögen dieses ausländischen Geschäftsbetriebs im Abschluss enthalten ist ( 68 ). Bei dem in Bezug auf das Währungsrisiko aufgrund einer Nettoinvestition in einen ausländischen Geschäftsbetrieb abgesicherten Geschäft kann es sich um den Betrag des Nettovermögens handeln, der dem Buchwert des Nettovermögens des ausländischen Geschäftsbetriebs entspricht oder geringer als dieser ist.
+
+3 Nach IFRS 9 müssen für die Bilanzierung einer Sicherungsbeziehung ein zulässiges Grundgeschäft und ein zulässiges Sicherungsinstrument designiert werden. Besteht im Fall einer Absicherung einer Nettoinvestition eine designierte Sicherungsbeziehung, wird der Gewinn oder Verlust aus dem Sicherungsinstrument, das als effektive Absicherung der Nettoinvestition bestimmt ist, zusammen mit den Währungsumrechnungsdifferenzen aus der Umrechnung der Vermögens-, Finanz- und Ertragslage des ausländischen Geschäftsbetriebs im sonstigen Ergebnis erfasst.
+
+4 Ein Unternehmen mit vielen ausländischen Geschäftsbetrieben kann mehreren Währungsrisiken ausgesetzt sein. Mit dieser Interpretation werden Leitlinien dafür festgelegt, welche Währungsrisiken als durch die Absicherung einer Nettoinvestition in einen ausländischen Geschäftsbetrieb abgesichert gelten können.
+
+5 Nach IFRS 9 darf ein Unternehmen sowohl ein derivatives als auch ein nicht derivatives Finanzinstrument (oder eine Kombination aus beidem) als Sicherungsinstrument für Währungsrisiken designieren. Mit dieser Interpretation werden Leitlinien dafür festgelegt, an welcher Stelle innerhalb einer Gruppe Sicherungsinstrumente, die eine Nettoinvestition in einen ausländischen Geschäftsbetrieb absichern, gehalten werden können, um die Voraussetzungen für die Bilanzierung einer Sicherungsbeziehung zu erfüllen.
+
+6 Nach IAS 21 und IFRS 9 müssen kumulierte Beträge, die im sonstigen Ergebnis erfasst sind und sich sowohl auf Währungsdifferenzen aus der Umrechnung der Vermögens-, Finanz- und Ertragslage des ausländischen Geschäftsbetriebs als auch auf Gewinne oder Verluste aus dem Sicherungsinstrument beziehen, das als effektive Absicherung der Nettoinvestition bestimmt wurde, beim Abgang des ausländischen Geschäftsbetriebs vom Mutterunternehmen als Umgliederungsbetrag erfolgswirksam umgegliedert werden. Mit dieser Interpretation werden Leitlinien dafür festgelegt, wie ein Unternehmen die Beträge, die in Bezug auf das Sicherungsinstrument und das Grundgeschäft erfolgswirksam umzugliedern sind, zu bestimmen hat.
+
+ANWENDUNGSBEREICH
+
+7 Diese Interpretation ist von Unternehmen anzuwenden, die das Währungsrisiko aus ihren Nettoinvestitionen in ausländische Geschäftsbetriebe absichern und die Bedingungen für die Bilanzierung von Sicherungsbeziehungen gemäß IFRS 9 erfüllen möchten. Zur Vereinfachung wird in dieser Interpretation stellvertretend für ein solches Unternehmen das Wort „Mutterunternehmen“ und stellvertretend für den Abschluss, der das Nettovermögen der ausländischen Geschäftsbetriebe umfasst, das Wort „Konzernabschluss“ verwendet. Dementsprechend gelten alle Verweise auf ein Mutterunternehmen gleichermaßen für Gemeinschaftsunternehmen, assoziierte Unternehmen oder Niederlassungen, die eine Nettoinvestition in einen ausländischen Geschäftsbetrieb haben.
+
+8 Diese Interpretation gilt nur für Absicherungen von Nettoinvestitionen in ausländische Geschäftsbetriebe; sie darf nicht analog auf die Bilanzierung anderer Sicherungsbeziehungen angewandt werden.
+
+FRAGESTELLUNGEN
+
+9 Investitionen in ausländische Geschäftsbetriebe können direkt von einem Mutterunternehmen oder indirekt von seinem bzw. seinen Tochterunternehmen gehalten werden. Diese Interpretation betrifft die folgenden Fragen:
+a) 
+
+bezüglich der Art des abgesicherten Risikos und des Betrags des Grundgeschäfts, das als Sicherungsbeziehung designiert werden kann:
+i) 
+
+Darf das Mutterunternehmen nur die Währungsumrechnungsdifferenz zwischen der funktionalen Währung des Mutterunternehmens und derjenigen seines ausländischen Geschäftsbetriebs als abgesichertes Risiko designieren oder darf es auch die Währungsumrechnungsdifferenzen zwischen der Darstellungswährung des Konzernabschlusses des Mutterunternehmens und der funktionalen Währung des ausländischen Geschäftsbetriebs als abgesichertes Risiko designieren?
+ii) 
+
+Wenn das Mutterunternehmen den ausländischen Geschäftsbetrieb indirekt hält: Darf das abgesicherte Risiko nur die Währungsumrechnungsdifferenzen zwischen der funktionalen Währung des ausländischen Geschäftsbetriebs und derjenigen des Mutterunternehmens enthalten oder darf es auch alle Währungsumrechnungsdifferenzen zwischen der funktionalen Währung des ausländischen Geschäftsbetriebs und denjenigen der zwischengeschalteten oder obersten Mutterunternehmen enthalten? (d. h.: Beeinflusst die Tatsache, dass die Nettoinvestition in den ausländischen Geschäftsbetrieb von einem zwischengeschaltetem Mutterunternehmen gehalten wird, das wirtschaftliche Risiko des obersten Mutterunternehmens?)
+b) 
+
+bezüglich der Stelle innerhalb einer Gruppe, an der das Sicherungsinstrument gehalten werden kann:
+i) 
+
+Darf nur dann eine Sicherungsbeziehung bilanziert werden, wenn das seine Nettoinvestition absichernde Unternehmen eine an dem Sicherungsinstrument beteiligte Partei ist, oder kann jedes Unternehmen der Gruppe unabhängig von seiner funktionalen Währung das Sicherungsinstrument halten?
+ii) 
+
+Beeinflusst die Art des Sicherungsinstruments (derivatives oder nicht derivatives Instrument) oder die Konsolidierungsmethode die Wirksamkeit der Absicherung?
+c) 
+
+bezüglich der Beträge, die beim Abgang eines ausländischen Geschäftsbetriebs als Umgliederungsbeträge erfolgswirksam umzugliedern sind:
+i) 
+
+Welche Beträge der Währungsumrechnungsrücklage des Mutterunternehmens sind beim Abgang eines abgesicherten ausländischen Geschäftsbetriebs hinsichtlich des Sicherungsinstruments und des betreffenden Geschäftsbetriebs im Konzernabschluss des Mutterunternehmens erfolgswirksam umzugliedern?
+ii) 
+
+Beeinflusst die Konsolidierungsmethode die Bestimmung der erfolgswirksam umzugliedernden Beträge?
+
+BESCHLUSS
+
+Art des abgesicherten Risikos und Betrag des Grundgeschäfts, das als Sicherungsbeziehung designiert werden kann
+
+10 Nur Währungsumrechnungsdifferenzen, die zwischen der funktionalen Währung des ausländischen Geschäftsbetriebs und der funktionalen Währung des Mutterunternehmens entstehen, dürfen als Sicherungsbeziehung bilanziert werden.
+
+11 Bei der Absicherung des Währungsrisikos aus einer Nettoinvestition in einen ausländischen Geschäftsbetrieb kann das Grundgeschäft ein Betrag des Nettovermögens sein, der dem Buchwert des Nettovermögens des ausländischen Geschäftsbetriebs im Konzernabschluss des Mutterunternehmens entspricht oder geringer als dieser ist. Welcher Buchwert des Nettovermögens eines ausländischen Geschäftsbetriebs im Konzernabschluss des Mutterunternehmens als Grundgeschäft designiert werden darf, hängt davon ab, ob ein niedriger angesiedeltes Mutterunternehmen des ausländischen Geschäftsbetriebs das gesamte oder einen Teil des Nettovermögens des betreffenden ausländischen Geschäftsbetriebs als Sicherungsbeziehung bilanziert hat und ob diese Bilanzierung im Konzernabschluss des Mutterunternehmens beibehalten wurde.
+
+12 Das abgesicherte Risiko kann als das Währungsrisiko designiert werden, das zwischen der funktionalen Währung des ausländischen Geschäftsbetriebs und derjenigen eines (direkten, zwischengeschalteten oder obersten) Mutterunternehmens dieses ausländischen Geschäftsbetriebs entsteht. Die Tatsache, dass die Nettoinvestition von einem zwischengeschalteten Mutterunternehmen gehalten wird, hat keinen Einfluss auf die Art des wirtschaftlichen Risikos, das dem obersten Mutterunternehmen aus dem Währungsrisiko entsteht.
+
+13 Ein Währungsrisiko aus einer Nettoinvestition in einen ausländischen Geschäftsbetrieb kann nur einmal als Sicherungsbeziehung im Konzernabschluss bilanziert werden. Wenn dasselbe Risiko aus demselben Nettovermögen eines ausländischen Geschäftsbetriebs von mehr als einem Mutterunternehmen innerhalb der Gruppe (z. B. sowohl von einem direkten als auch von einem indirekten Mutterunternehmen) abgesichert wird, darf im Konzernabschluss des obersten Mutterunternehmens daher nur eine dieser Sicherungsbeziehungen bilanziert werden. Eine von einem Mutterunternehmen in seinem Konzernabschluss designierte Sicherungsbeziehung braucht nicht von einem anderen Mutterunternehmen auf höherer Ebene beibehalten zu werden. Wird sie vom Mutterunternehmen auf höherer Ebene nicht beibehalten, muss jedoch die von dem Mutterunternehmen auf niedrigerer Ebene bilanzierte Sicherheitsbeziehung aufgehoben werden, ehe sie vom Mutterunternehmen auf höherer Ebene designiert werden kann.
+
+Stelle, an der das Sicherungsinstrument gehalten werden kann
+
+14 Ein derivatives oder nicht derivatives Instrument (oder eine Kombination aus beidem) kann bei der Absicherung einer Nettoinvestition in einen ausländischen Geschäftsbetrieb als Sicherungsinstrument designiert werden. Das (die) Sicherungsinstrument(e) kann (können) von einem oder mehreren Unternehmen innerhalb der Gruppe gehalten werden, sofern die in Paragraph 6.4.1 von IFRS 9 festgelegten Voraussetzungen für die Designation, Dokumentation und Wirksamkeit der Absicherung der Nettoinvestition erfüllt sind. Die Absicherungsstrategie der Gruppe ist eindeutig zu dokumentieren, um zu vermeiden, dass auf verschiedenen Ebenen der Gruppe unterschiedliche Designationen verwendet werden.
+
+15 Zur Beurteilung der Wirksamkeit wird die Wertänderung des Sicherungsinstruments für das Währungsrisiko bezogen auf die funktionale Währung des Mutterunternehmens, die als Basis für die Bewertung des abgesicherten Risikos gilt, gemäß der Dokumentation zur Bilanzierung von Sicherungsbeziehungen ermittelt. Je nachdem wo das Sicherungsinstrument gehalten wird, kann die gesamte Wertänderung ohne Bilanzierung von Sicherungsbeziehungen im Gewinn oder Verlust, im sonstigen Ergebnis oder in beiden erfasst werden. Die Beurteilung der Wirksamkeit wird jedoch nicht dadurch beeinflusst, ob die Wertänderung des Sicherungsinstruments im Gewinn oder Verlust oder im sonstigen Ergebnis erfasst wird. Wenn eine Sicherungsbeziehung bilanziert wird, ist der gesamte effektive Teil der Änderung im sonstigen Ergebnis enthalten. Die Beurteilung der Wirksamkeit wird weder davon beeinflusst, ob das Sicherungsinstrument ein derivatives oder nicht derivatives Instrument ist, noch von der Konsolidierungsmethode.
+
+Abgang eines abgesicherten ausländischen Geschäftsbetriebs
+
+16 Der Betrag, der beim Abgang eines abgesicherten ausländischen Geschäftsbetriebs bezüglich des Sicherungsinstruments im Konzernabschluss des Mutterunternehmens als Umgliederungsbetrag aus der Währungsumrechnungsrücklage erfolgswirksam umzugliedern ist, entspricht dem nach Paragraph 6.5.14 von IFRS 9 zu ermittelnden Betrag. Dieser Betrag entspricht dem kumulierten Gewinn oder Verlust aus dem Sicherungsinstrument, der als wirksame Absicherung bestimmt wurde.
+
+17 Der Betrag, der hinsichtlich der Nettoinvestition in den betreffenden ausländischen Geschäftsbetrieb im Konzernabschluss des Mutterunternehmens aus der Währungsumrechnungsrücklage nach Paragraph 48 von IAS 21 erfolgswirksam umzugliedern ist, entspricht dem in der Währungsumrechnungsrücklage des betreffenden Mutterunternehmens bezüglich dieses ausländischen Geschäftsbetriebs enthaltenen Betrag. Der im Konzernabschluss des obersten Mutterunternehmens für alle ausländischen Geschäftsbetriebe in der Währungsumrechnungsrücklage erfasste Gesamtnettobetrag wird durch die Konsolidierungsmethode nicht beeinflusst. Ob das oberste Mutterunternehmen die direkte oder die schrittweise Konsolidierungsmethode ( 69 ) anwendet, kann sich jedoch auf den Betrag seiner Währungsumrechnungsrücklage hinsichtlich eines einzelnen ausländischen Geschäftsbetriebs auswirken. Die Anwendung der schrittweisen Konsolidierungsmethode kann dazu führen, dass ein anderer Betrag als der für die Ermittlung der Wirksamkeit der Absicherung verwendete erfolgswirksam umgegliedert wird. Diese Differenz kann durch die Bestimmung des Betrags beseitigt werden, der sich bezüglich des ausländischen Geschäftsbetriebs ergeben hätte, wenn die direkte Konsolidierungsmethode angewandt worden wäre. In IAS 21 ist diese Anpassung nicht vorgeschrieben. Entscheidet sich ein Unternehmen jedoch für diese Rechnungslegungsmethode, hat es diese bei allen Nettoinvestitionen konsequent beizubehalten.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+18 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Oktober 2008 beginnen. Die mit der im April 2009 veröffentlichten Verlautbarung Verbesserungen der IFRS erfolgte Änderung an Paragraph 14 ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Interpretation auf Berichtsperioden an, die vor dem 1. Oktober 2008 beginnen, oder wendet es die Änderung an Paragraph 14 auf Berichtsperioden an, die vor dem 1. Juli 2009 beginnen, so hat es dies anzugeben.
+
+18B Mit dem im Juli 2014 veröffentlichten IFRS 9 wurden die Paragraphen 3, 5–7, 14, 16, AL1 und AL8 geändert und der Paragraph 18A gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+ÜBERGANGSVORSCHRIFTEN
+
+19 In IAS 8 ist ausgeführt, wie ein Unternehmen eine Änderung der Rechnungslegungsmethoden anwendet, die aus der erstmaligen Anwendung einer Interpretation resultiert. Wenn ein Unternehmen diese Interpretation erstmals anwendet, muss es diese Anforderungen nicht erfüllen. Wenn ein Unternehmen ein Sicherungsinstrument als Absicherung einer Nettoinvestition designiert hat und diese Absicherung die Voraussetzungen für die Bilanzierung von Sicherungsbeziehungen nach dieser Interpretation nicht erfüllt, so hat es IAS 39 anzuwenden, um diese Bilanzierung von Sicherungsbeziehungen prospektiv einzustellen.
+
+Anhang
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil der Interpretation.
+
+AL1 Dieser Anhang soll die Anwendung dieser Interpretation am Beispiel der unten dargestellten Unternehmensstruktur veranschaulichen. Die beschriebenen Sicherungsbeziehungen sind in jedem Fall nach IFRS 9 auf ihre Wirksamkeit zu prüfen; auf diese Prüfung wird in diesem Anhang jedoch nicht eingegangen. Das (oberste) Mutterunternehmen stellt seinen Konzernabschluss in seiner funktionalen Währung, dem Euro (EUR) dar. Alle Tochterunternehmen stehen zu hundert Prozent in seinem Besitz. Die Nettoinvestition des Mutterunternehmens in das Tochterunternehmen B (funktionale Währung: Pfund Sterling (GBP)) in Höhe von 500 Mio. GBP umfasst 159 Mio. GBP, die der Nettoinvestition von Tochterunternehmen B in das Tochterunternehmen C (funktionale Währung: US-Dollar (USD)) in Höhe von 300 Mio. USD entsprechen. Das bedeutet, das Nettovermögen des Tochterunternehmens B ohne seine Investition in das Tochterunternehmen C beträgt 341 Mio. GBP.
+
+Art des abgesicherten Risikos, für das eine Sicherungsbeziehung designiert werden kann (Paragraphen 10–13)
+
+AL2 Das Mutterunternehmen kann seine Nettoinvestition in seine Tochterunternehmen A, B und C gegen die Währungsrisiken zwischen deren jeweiligen funktionalen Währungen (Japanischer Yen (JPY), Pfund Sterling (GBP) und US-Dollar (USD)) und dem Euro absichern. Zusätzlich kann das Mutterunternehmen das Währungsrisiko USD/GBP zwischen den funktionalen Währungen des Tochterunternehmens B und des Tochterunternehmens C absichern. In seinem Konzernabschluss kann das Tochterunternehmen B seine Nettoinvestition in das Tochterunternehmen C gegen das Währungsrisiko zwischen deren funktionalen Währungen (USD und GBP) absichern. In den folgenden Beispielen ist das designierte Risiko das Risiko des sich ändernden Devisenkassakurses, da die Sicherungsinstrumente keine Derivate sind. Wären die Sicherungsinstrumente Terminkontrakte, so könnte das Mutterunternehmen das Währungsrisiko den Terminkontrakten zuordnen.
+image
+
+Betrag des Grundgeschäfts, für das eine Sicherungsbeziehung designiert werden kann (Paragraphen 10—13)
+
+AL3 Das Mutterunternehmen möchte das Währungsrisiko seiner Nettoinvestition in das Tochterunternehmen C absichern. Es wird angenommen, dass das Tochterunternehmen A Fremdmittel in Höhe von 300 Mio. USD aufgenommen hat. Zu Beginn der Berichtsperiode beläuft sich das Nettovermögen des Tochterunternehmens A einschließlich der Mittel aus der externen Kreditaufnahme von 300 Mio. USD auf 400 000  Mio. JPY.
+
+AL4 In seinem Konzernabschluss kann das Grundgeschäft einem Nettovermögen entsprechen, das gleich dem Buchwert der Nettoinvestition des Mutterunternehmens in das Tochterunternehmen C (300 Mio. USD) ist oder darunter liegt. Das Mutterunternehmen kann in seinem Konzernabschluss die externe Kreditaufnahme von 300 Mio. USD von Tochterunternehmen A als Absicherung des Risikos des sich ändernden Devisenkassakurses EUR/USD, das mit seiner Nettoinvestition in das Nettovermögen des Tochterunternehmens C von 300 Mio. USD verbunden ist, designieren. In diesem Fall sind nach Anwendung der Bilanzierung von Sicherungsbeziehungen sowohl die Währungsdifferenz EUR/USD hinsichtlich der externen Kreditaufnahme von 300 Mio. USD des Tochterunternehmens A als auch die Währungsdifferenz EUR/USD der Nettoinvestition von 300 Mio. USD in das Tochterunternehmen C in der Währungsumrechnungsrücklage des Konzernabschlusses des Mutterunternehmens enthalten.
+
+AL5 Ohne die Bilanzierung von Sicherungsbeziehungen würde die gesamte Währungsumrechnungsdifferenz USD/EUR der externen Kreditaufnahme von 300 Mio. USD des Tochterunternehmens A im Konzernabschluss des Mutterunternehmens wie folgt erfasst:
+— 
+die Wechselkursänderung des USD/JPY-Kassakurses umgerechnet in Euro im Gewinn oder Verlust und
+— 
+die Wechselkursänderung des JPY/EUR-Kassakurses im sonstigen Ergebnis.
+
+Anstatt der Designation nach Paragraph AL4 kann das Mutterunternehmen in seinem Konzernabschluss die externe Kreditaufnahme von 300 Mio. USD des Tochterunternehmens A als Absicherung des Risikos des sich ändernden Devisenkassakurses GBP/USD zwischen den Tochterunternehmen C und B designieren. In diesem Fall würde die gesamte Währungsumrechnungsdifferenz USD/EUR der externen Kreditaufnahme von 300 Mio. USD des Tochterunternehmens A im Konzernabschluss des Mutterunternehmens wie folgt erfasst:
+— 
+die Wechselkursänderung des GBP/USD-Kassakurses in der Währungsumrechnungsrücklage für das Tochterunternehmen C,
+— 
+die Wechselkursänderung des GBP/JPY-Kassakurses umgerechnet in Euro im Gewinn oder Verlust und
+— 
+die Wechselkursänderung des JPY/EUR-Kassakurses im sonstigen Ergebnis.
+
+AL6 Das Mutterunternehmen darf in seinem Konzernabschluss die externe Kreditaufnahme von 300 Mio. USD des Tochterunternehmens A nicht als Absicherung beider Währungsrisiken (Kassakurs EUR/USD und Kassakurs GBP/USD) designieren. Ein Sicherungsinstrument kann zur Absicherung desselben designierten Risikos nur einmal eingesetzt werden. Das Tochterunternehmen B darf in seinem Konzernabschluss keine Sicherungsbeziehungen bilanzieren, da das Sicherungsinstrument außerhalb der Gruppe der Tochterunternehmen B und C gehalten wird.
+
+An welcher Stelle innerhalb einer Gruppe darf das Sicherungsinstrument gehalten werden? (Paragraphen 14 und 15)
+
+AL7 Wie in Paragraph AL5 erläutert, würde ohne die Bilanzierung von Sicherungsbeziehungen im Konzernabschluss des Mutterunternehmens die gesamte Wertänderung für das Währungsrisiko der externen Kreditaufnahme von 300 Mio. USD des Tochterunternehmens A sowohl im Gewinn oder Verlust (USD/JPY-Kassakursrisiko) als auch im sonstigen Ergebnis (EUR/JPY-Kassakursrisiko) ausgewiesen. Zur Beurteilung der Wirksamkeit der in Paragraph AL4 designierten Absicherung werden beide Beträge herangezogen, da die Wertänderung sowohl des Sicherungsinstruments als auch des Grundgeschäfts gemäß der Absicherungsdokumentation in Bezug auf die funktionale Währung des Mutterunternehmens (EUR) gegenüber der funktionalen Währung des Tochterunternehmens C (USD) ermittelt wird. Die Konsolidierungsmethode (d. h. die direkte oder schrittweise Methode) hat keinen Einfluss auf die Beurteilung der Wirksamkeit der Absicherung.
+
+Beträge, die beim Abgang eines ausländischen Geschäftsbetriebs erfolgswirksam umgegliedert werden (Paragraphen 16 und 17)
+
+AL8 Wenn das Tochterunternehmen C aus dem Konzern ausscheidet, werden im Konzernabschluss des Mutterunternehmens folgende Beträge von der Währungsumrechnungsrücklage erfolgswirksam umgegliedert:
+a) 
+
+in Bezug auf die externe Kreditaufnahme von 300 Mio. USD des Tochterunternehmens A der Betrag, der gemäß IFRS 9 ermittelt werden muss, d. h. die gesamte Wertänderung des im sonstigen Ergebnis als der wirksame Teil der Absicherung erfassten Währungsrisikos, und
+b) 
+
+in Bezug auf die Nettoinvestition von 300 Mio. USD in das Tochterunternehmen C der durch die Konsolidierungsmethode des Unternehmens ermittelte Betrag. Wenn das Mutterunternehmen die direkte Methode anwendet, bestimmt sich seine Währungsumrechnungsrücklage für das Tochterunternehmen C direkt durch den EUR/USD-Wechselkurs. Wendet das Mutterunternehmen die schrittweise Methode an, so wird seine Währungsumrechnungsrücklage für das Tochterunternehmen C durch die vom Tochterunternehmen B bilanzierte Währungsumrechnungsrücklage, die den GBP/USD-Wechselkurs widerspiegelt, bestimmt, die unter Verwendung des EUR/GBP-Wechselkurses in die funktionale Währung des Mutterunternehmens umgerechnet wird. Hat das Mutterunternehmen in früheren Perioden die schrittweise Konsolidierungsmethode angewandt, so ist es vorbehaltlich seiner Rechnungslegungsmethode weder dazu verpflichtet noch wird es daran gehindert, beim Abgang des Tochterunternehmens C den umzugliedernden Betrag der Währungsumrechnungsrücklage zu bestimmen, den es erfasst hätte, wenn es immer die direkte Methode angewandt hätte.
+
+Absicherung mehrerer ausländischer Geschäftsbetriebe (Paragraphen 11, 13 und 15)
+
+AL9 Die folgenden Beispiele veranschaulichen, dass das Risiko, das im Konzernabschluss des Mutterunternehmens abgesichert werden kann, immer das Risiko zwischen seiner funktionalen Währung (EUR) und den funktionalen Währungen der Tochterunternehmen B und C ist. Unabhängig davon, wie die Absicherungen designiert werden, sind die Höchstbeträge, die als effektive Sicherungsgeschäfte in der Währungsumrechnungsrücklage des Konzernabschlusses des Mutterunternehmens für die beiden ausländischen Geschäftsbetriebe enthalten sein können, 300 Mio. USD für das Währungsrisiko EUR/USD und 341 Mio. GBP für das Währungsrisiko EUR/GBP. Andere durch Wechselkursänderungen bedingte Wertänderungen sind im Konzerngewinn oder -verlust des Mutterunternehmens auszuweisen. Natürlich könnte das Mutterunternehmen auch 300 Mio. USD nur für Änderungen des USD/GBP-Devisenkassakurses und 500 Mio. GBP nur für Änderungen des GBP/EUR-Devisenkassakurses designieren.
+
+Das Mutterunternehmen hält sowohl USD- als auch GBP-Sicherungsinstrumente
+
+AL10 Das Mutterunternehmen möchte sowohl das Währungsumrechnungsrisiko seiner Nettoinvestition in das Tochterunternehmen B als auch das Währungsumrechnungsrisiko seiner Nettoinvestition in das Tochterunternehmen C absichern. Es wird angenommen, dass das Mutterunternehmen geeignete, auf USD und GBP lautende Sicherungsinstrumente hält, die es als Absicherung für seine Nettoinvestitionen in die Tochterunternehmen B und C designieren kann. In seinem Konzernabschluss kann das Mutterunternehmen zu diesem Zweck unter anderem Folgendes designieren:
+a) 
+
+Ein Sicherungsinstrument von 300 Mio. USD wird als Absicherung für die Nettoinvestition von 300 Mio. USD in das Tochterunternehmen C mit dem Risiko des sich ändernden Devisenkassakurses (EUR/USD) zwischen dem Mutterunternehmen und dem Tochterunternehmen C designiert und ein Sicherungsinstrument von bis zu 341 Mio. GBP wird als Absicherung für die Nettoinvestition von 341 Mio. GBP in das Tochterunternehmen B mit dem Risiko des sich ändernden Devisenkassakurses (EUR/GBP) zwischen dem Mutterunternehmen und dem Tochterunternehmen B designiert.
+b) 
+
+Ein Sicherungsinstrument von 300 Mio. USD wird als Absicherung für die Nettoinvestition von 300 Mio. USD in das Tochterunternehmen C mit dem Risiko des sich ändernden Devisenkassakurses (GBP/USD) zwischen dem Tochterunternehmen B und dem Tochterunternehmen C designiert und ein Sicherungsinstrument von bis zu 500 Mio. GBP wird als Absicherung für die Nettoinvestition von 500 Mio. GBP in das Tochterunternehmen B mit dem Risiko des sich ändernden Devisenkassakurses (EUR/GBP) zwischen dem Mutterunternehmen und dem Tochterunternehmen B designiert.
+
+AL11 Das EUR/USD-Risiko aus der Nettoinvestition des Mutterunternehmens in das Tochterunternehmen C unterscheidet sich von dem EUR/GBP-Risiko aus der Nettoinvestition des Mutterunternehmens in das Tochterunternehmen B. In dem in Paragraph AL10(a) beschriebenen Fall hat das Mutterunternehmen jedoch aufgrund der Designation des von ihm gehaltenen USD-Sicherungsinstruments bereits das EUR/USD-Risiko aus seiner Nettoinvestition in das Tochterunternehmen C voll abgesichert. Wenn das Mutterunternehmen auch ein von ihm gehaltenes GBP-Instrument als Absicherung für seine Nettoinvestition von 500 Mio. GBP in das Tochterunternehmen B designiert, wären 159 Mio. GBP dieser Nettoinvestition, die den Gegenwert seiner USD Nettoinvestition in das Tochterunternehmen C darstellen, für das GBP/EUR-Währungsrisiko im Konzernabschluss des Mutterunternehmens doppelt abgesichert.
+
+AL12 In dem in Paragraph A10(b) beschriebenen Fall ist, wenn das Mutterunternehmen das Risiko des sich ändernden Devisenkassakurses (GBP/USD) zwischen dem Tochterunternehmen B und dem Tochterunternehmen C als abgesichertes Risiko designiert, in der Währungsumrechnungsrücklage des Mutterunternehmens für das Tochterunternehmen C nur der GBP/USD-Teil der Wertänderung des Sicherungsinstruments von 300 Mio. USD enthalten. Der Rest der Änderung (GBP/EUR-Änderung auf 159 Mio. GBP) ist im Konzerngewinn oder -verlust des Mutterunternehmens enthalten (siehe Paragraph AL5). Da die Designation des USD/GBP-Risikos zwischen den Tochterunternehmen B und C das GBP/EUR-Währungsrisiko nicht enthält, kann das Mutterunternehmen auch bis zu 500 Mio. GBP seiner Nettoinvestition in das Tochterunternehmen B mit dem Risiko des sich ändernden Devisenkassakurses (GBP/EUR) zwischen dem Mutterunternehmen und dem Tochterunternehmen B designieren.
+
+Das Tochterunternehmen B hält das USD Sicherungsinstrument
+
+AL13 Es wird angenommen, dass das Tochterunternehmen B einen externen Kredit von 300 Mio. USD hält und dieser mittels eines auf GBP lautenden konzerninternen Darlehens auf das Mutterunternehmen übertragen wurde. Da sich dadurch sowohl das Vermögen als auch die Schulden des Tochterunternehmens B um je 159 Mio. GBP erhöhten, bleibt das Nettovermögen unverändert. In seinem Konzernabschluss könnte das Tochterunternehmen B den externen Kredit als Absicherung für das GBP/USD-Währungsrisiko seiner Nettoinvestition in das Tochterunternehmen C designieren. Das Mutterunternehmen könnte die Designation dieses Sicherungsinstruments des Tochterunternehmens B als Absicherung für seine Nettoinvestition von 300 Mio. USD in das Tochterunternehmen C für das GBP/USD-Währungsrisiko (siehe Paragraph 13) beibehalten und das Mutterunternehmen könnte das GBP-Sicherungsinstrument designieren, das es als Absicherung für seine gesamte Nettoinvestition von 500 Mio. GBP in das Tochterunternehmen B hält. Die erste vom Tochterunternehmen B designierte Absicherung würde in Bezug auf die funktionale Währung des Tochterunternehmens B (GBP) beurteilt, und die zweite vom Mutterunternehmen designierte Absicherung würde in Bezug auf die funktionale Währung des Mutterunternehmens (EUR) beurteilt. In diesem Fall ist im Konzernabschluss des Mutterunternehmens nur das GBP/USD-Risiko der Nettoinvestition des Mutterunternehmens in das Tochterunternehmen C durch das USD-Sicherungsinstrument abgesichert und nicht das gesamte EUR/USD-Risiko. Daher kann im Konzernabschluss des Mutterunternehmens das gesamte EUR/GBP-Risiko der Nettoinvestition von 500 Mio. GBP des Mutterunternehmens in das Tochterunternehmen B abgesichert werden.
+
+AL14 Allerdings muss auch die Darlehensverbindlichkeit von 159 Mio. GBP des Mutterunternehmens gegenüber dem Tochterunternehmen B bei der Bilanzierung berücksichtigt werden. Wenn die Darlehensverbindlichkeit des Mutterunternehmens nicht als Teil seiner Nettoinvestition in das Tochterunternehmen B betrachtet wird, weil sie die Bedingungen in Paragraph 15 von IAS 21 nicht erfüllt, ist die Währungsumrechnungsdifferenz GBP/EUR im Konzerngewinn oder -verlust des Mutterunternehmens zu erfassen. Wenn die Darlehensverbindlichkeit von 159 Mio. GBP als Teil der Nettoinvestition des Mutterunternehmens in das Tochterunternehmen B betrachtet wird, beträgt diese Nettoinvestition nur 341 Mio. GBP und der Betrag, den das Mutterunternehmen als Absicherung für das GBP/EUR-Risiko designieren kann, reduziert sich von 500 Mio. GBP auf 341 Mio. GBP.
+
+AL15 Wenn das Mutterunternehmen die vom Tochterunternehmen B designierte Sicherungsbeziehung aufhebt, kann es den vom Tochterunternehmen B gehaltenen externen Kredit von 300 Mio. USD als Absicherung seiner Nettoinvestition in das Tochterunternehmen C von 300 Mio. USD für das EUR/USD Risiko designieren und das von ihm selbst gehaltene GBP-Sicherungsinstrument bis zu einem Betrag von 341 Mio. GBP als Absicherung seiner Nettoinvestition in das Tochterunternehmen B designieren. In diesem Fall wird die Wirksamkeit beider Absicherungen in Bezug auf die funktionale Währung (EUR) des Mutterunternehmens ermittelt. Folglich ist im Konzernabschluss des Mutterunternehmens sowohl die USD/GBP-Wertänderung des vom Tochterunternehmen B gehaltenen externen Kredits als auch die GBP/EUR-Wertänderung der Darlehensverbindlichkeit des Mutterunternehmens gegenüber dem Tochterunternehmen B (d. h. USD/EUR) in der Währungsumrechnungsrücklage zu erfassen. Da das Mutterunternehmen das EUR/USD-Risiko aus seiner Nettoinvestition in das Tochterunternehmen C bereits voll abgesichert hat, kann es nur noch bis zu 341 Mio. GBP für das EUR/GBP-Risiko seiner Nettoinvestition in das Tochterunternehmen B absichern.

@@ -1,0 +1,845 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 38
+
+Immaterielle Vermögenswerte
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses Standards ist die Regelung der Bilanzierung immaterieller Vermögenswerte, die in keinem anderen Standard konkret behandelt werden. Dieser Standard verlangt von einem Unternehmen den Ansatz eines immateriellen Vermögenswerts nur dann, wenn bestimmte Kriterien erfüllt sind. Der Standard bestimmt ferner, wie der Buchwert immaterieller Vermögenswerte zu ermitteln ist, und verlangt bestimmte Angaben in Bezug auf immaterielle Vermögenswerte.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist auf die Bilanzierung immaterieller Vermögenswerte anzuwenden. Davon ausgenommen sind
+a) 
+
+immaterielle Vermögenswerte, die in den Anwendungsbereich eines anderen Standards fallen,
+b) 
+
+finanzielle Vermögenswerte, wie sie in IAS 32 Finanzinstrumente: Darstellung definiert sind,
+c) 
+
+der Ansatz und die Bewertung von Vermögenswerten für Exploration und Evaluierung (siehe IFRS 6 Exploration und Evaluierung von Bodenschätzen) und
+d) 
+
+Ausgaben für die Erschließung oder die Förderung und den Abbau von Mineralien, Öl, Erdgas und ähnlichen nicht regenerativen Ressourcen.
+
+3 Wenn ein anderer Standard die Bilanzierung für eine bestimmte Art eines immateriellen Vermögenswerts vorschreibt, wendet ein Unternehmen diesen anderen Standard anstatt des vorliegenden Standards an. Der vorliegende Standard ist beispielsweise nicht anzuwenden auf
+a) 
+
+immaterielle Vermögenswerte, die von einem Unternehmen zur Veräußerung im Rahmen der gewöhnlichen Geschäftstätigkeit gehalten werden (siehe IAS 2 Vorräte),
+b) 
+
+latente Steueransprüche (siehe IAS 12 Ertragsteuern),
+c) 
+
+Leasingverhältnisse, die immaterielle Vermögenswerte zum Gegenstand haben und gemäß IFRS 16 Leasingverhältnisse bilanziert werden,
+d) 
+
+Vermögenswerte, die aus Leistungen an Arbeitnehmer resultieren (siehe IAS 19 Leistungen an Arbeitnehmer),
+e) 
+
+finanzielle Vermögenswerte, wie sie in IAS 32 definiert sind. Der Ansatz und die Bewertung einiger finanzieller Vermögenswerte werden von IFRS 10 Konzernabschlüsse, IAS 27 Einzelabschlüsse und IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen abgedeckt,
+f) 
+
+einen bei einem Unternehmenszusammenschluss erworbenen Geschäfts- oder Firmenwert (siehe IFRS 3 Unternehmenszusammenschlüsse),
+g) 
+
+Verträge im Anwendungsbereich von IFRS 17 Versicherungsverträge und alle als Vermögenswert angesetzten Abschlusskosten im Sinne der Definition in IFRS 17,
+h) 
+
+langfristige immaterielle Vermögenswerte, die gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche als zur Veräußerung gehalten eingestuft werden (oder in einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe enthalten sind),
+i) 
+
+Vermögenswerte aus Verträgen mit Kunden, die gemäß IFRS 15 Erlöse aus Verträgen mit Kunden erfasst werden.
+
+4 Einige immaterielle Vermögenswerte können in oder auf einer physischen Substanz enthalten sein, wie beispielsweise einer Compact Disk (im Fall von Computersoftware), einem Rechtsdokument (im Falle einer Lizenz oder eines Patents) oder einem Film. Bei der Feststellung, ob ein Vermögenswert, der sowohl immaterielle als auch materielle Elemente in sich vereint, gemäß IAS 16 Sachanlagen oder als immaterieller Vermögenswert gemäß dem vorliegenden Standard zu behandeln ist, beurteilt ein Unternehmen nach eigenem Ermessen, welches Element wesentlicher ist. Beispielsweise ist die Computersoftware für eine computergesteuerte Werkzeugmaschine, die ohne diese bestimmte Software nicht betriebsfähig ist, integraler Bestandteil der zugehörigen Hardware und wird daher als Sachanlage behandelt. Gleiches gilt für das Betriebssystem eines Computers. Wenn die Software kein integraler Bestandteil der zugehörigen Hardware ist, wird die Computersoftware als immaterieller Vermögenswert behandelt.
+
+5 Dieser Standard bezieht sich u. a. auf Ausgaben für Werbung, Aus- und Weiterbildung, Gründung und Anlauf eines Geschäftsbetriebs sowie Forschungs- und Entwicklungstätigkeiten. Forschungs- und Entwicklungstätigkeiten zielen auf die Wissenserweiterung ab. Obwohl diese Tätigkeiten zu einem Vermögenswert mit physischer Substanz (z. B. einem Prototypen) führen können, ist das physische Element des Vermögenswerts sekundär im Vergleich zu seiner immateriellen Komponente, d. h. das durch ihn verkörperte Wissen.
+
+6 Rechte, die ein Leasingnehmer im Rahmen von Lizenzvereinbarungen beispielsweise für Filme, Videoaufnahmen, Theaterstücke, Manuskripte, Patente und Urheberrechte hält, fallen in den Anwendungsbereich des vorliegenden Standards und sind aus dem Anwendungsbereich von IFRS 16 ausgeschlossen.
+
+7 Der Ausschluss aus dem Anwendungsbereich eines Standards kann vorliegen, wenn Tätigkeiten oder Geschäftsvorfälle so speziell sind, dass sie zu Rechnungslegungsfragen führen, die gegebenenfalls auf eine andere Art und Weise zu behandeln sind. Derartige Fragen entstehen bei der Bilanzierung der Ausgaben für die Erschließung oder die Förderung und den Abbau von Erdöl, Erdgas und Bodenschätzen bei der rohstoffgewinnenden Industrie sowie im Fall von Versicherungsverträgen. Aus diesem Grund bezieht sich der vorliegende Standard nicht auf Ausgaben für derartige Tätigkeiten und Verträge. Dieser Standard gilt jedoch für sonstige immaterielle Vermögenswerte (z. B. Computersoftware) und sonstige Ausgaben (z. B. Kosten für die Gründung und den Anlauf eines Geschäftsbetriebs), die in der rohstoffgewinnenden Industrie oder bei Versicherern genutzt werden bzw. anfallen.
+
+DEFINITIONEN
+
+8   Die folgenden Begriffe werden in diesem Standard in der angegebenen Bedeutung verwendet:
+Planmäßige Abschreibung ist die systematische Verteilung des Abschreibungsbetrags eines immateriellen Vermögenswerts über dessen Nutzungsdauer.
+Ein Vermögenswert  ( 28 ) ist eine Ressource,
+a) 
+
+über die ein Unternehmen aufgrund von Ereignissen der Vergangenheit die Verfügungsmacht hat und
+b) 
+
+von der erwartet wird, dass dem Unternehmen durch sie künftiger wirtschaftlicher Nutzen zufließt.
+Der Buchwert ist der Betrag, mit dem ein Vermögenswert in der Bilanz nach Abzug aller auf ihn entfallenden kumulierten planmäßigen Abschreibungen und kumulierten Wertminderungsaufwendungen angesetzt wird.
+Die Anschaffungs- oder Herstellungskosten sind der zum Erwerb oder zur Herstellung eines Vermögenswerts aufgewendete Betrag an Zahlungsmitteln oder Zahlungsmitteläquivalenten bzw. der beizulegende Zeitwert einer anderen Gegenleistung zum Zeitpunkt des Erwerbs bzw. der Herstellung, oder falls zutreffend, der Betrag, der diesem Vermögenswert beim erstmaligen Ansatz gemäß den besonderen Vorschriften anderer IFRS, wie z. B. IFRS 2 Anteilsbasierte Vergütung, beigelegt wird.
+Der Abschreibungsbetrag ist die Differenz zwischen den Anschaffungs- oder Herstellungskosten eines Vermögenswerts oder einem Ersatzbetrag und dem Restwert.
+Entwicklung ist die Anwendung von Forschungsergebnissen oder von anderem Wissen auf einen Plan oder Entwurf für die Produktion von neuen oder beträchtlich verbesserten Materialien, Vorrichtungen, Produkten, Verfahren, Systemen oder Dienstleistungen; die Entwicklung findet dabei vor Beginn der kommerziellen Produktion oder Nutzung statt.
+Der unternehmensspezifische Wert ist der Barwert der Zahlungsströme, von denen ein Unternehmen erwartet, dass sie aus der fortgesetzten Nutzung eines Vermögenswerts und seinem Abgang am Ende seiner Nutzungsdauer oder bei Begleichung einer Schuld entstehen.
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+Ein Wertminderungsaufwand ist der Betrag, um den der Buchwert eines Vermögenswerts seinen erzielbaren Betrag übersteigt.
+Ein immaterieller Vermögenswert ist ein identifizierbarer, nichtmonetärer Vermögenswert ohne physische Substanz.
+Monetäre Vermögenswerte sind im Bestand befindliche Geldmittel und Vermögenswerte, für die das Unternehmen einen festen oder bestimmbaren Geldbetrag erhält.
+Forschung ist die eigenständige und planmäßige Suche mit der Aussicht, zu neuen wissenschaftlichen oder technischen Erkenntnissen zu gelangen.
+Der Restwert eines immateriellen Vermögenswerts ist der geschätzte Betrag, den ein Unternehmen gegenwärtig bei Abgang des Vermögenswerts nach Abzug der geschätzten Veräußerungskosten erhalten würde, wenn der Vermögenswert alters- und zustandsgemäß schon am Ende seiner Nutzungsdauer angelangt wäre.
+Die Nutzungsdauer ist
+a) 
+
+der Zeitraum, über den ein Vermögenswert voraussichtlich von einem Unternehmen nutzbar ist, oder
+b) 
+
+die voraussichtlich durch den Vermögenswert im Unternehmen zu erzielende Anzahl an Produktionseinheiten oder ähnlichen Messgrößen.
+
+Immaterielle Vermögenswerte
+
+9 Unternehmen verwenden häufig Ressourcen oder gehen Schulden ein im Hinblick auf die Anschaffung, Entwicklung, Erhaltung oder Wertsteigerung immaterieller Ressourcen, wie beispielsweise wissenschaftliche oder technische Erkenntnisse, Entwurf und Implementierung neuer Verfahren oder Systeme, Lizenzen, geistiges Eigentum, Marktkenntnisse und Warenzeichen (einschließlich Markennamen und Verlagsrechte). Gängige Beispiele für Rechte und Werte, die unter diese Oberbegriffe fallen, sind Computersoftware, Patente, Urheberrechte, Filmmaterial, Kundenlisten, Hypothekenbedienungsrechte, Fischereilizenzen, Importquoten, Franchiseverträge, Kunden- oder Lieferantenbeziehungen, Kundenloyalität, Marktanteile und Absatzrechte.
+
+10 Nicht alle der in Paragraph 9 beschriebenen Sachverhalte erfüllen die Definition eines immateriellen Vermögenswerts, d. h. Identifizierbarkeit, Verfügungsmacht über eine Ressource und Bestehen eines künftigen wirtschaftlichen Nutzens. Wenn ein in den Anwendungsbereich dieses Standards fallender Sachverhalt die Definition eines immateriellen Vermögenswerts nicht erfüllt, werden die Ausgaben für seinen Erwerb oder seine interne Herstellung in der Periode als Aufwand erfasst, in der sie anfallen. Wird der Posten jedoch bei einem Unternehmenszusammenschluss erworben, ist er Teil des zum Erwerbszeitpunkt angesetzten Geschäfts- oder Firmenwerts (siehe Paragraph 68).
+
+Identifizierbarkeit
+
+11 Die Definition eines immateriellen Vermögenswerts verlangt, dass ein immaterieller Vermögenswert identifizierbar ist, um ihn vom Geschäfts- oder Firmenwert unterscheiden zu können. Der bei einem Unternehmenszusammenschluss angesetzte Geschäfts- oder Firmenwert ist ein Vermögenswert, der den künftigen wirtschaftlichen Nutzen anderer bei dem Unternehmenszusammenschluss erworbener Vermögenswerte darstellt, die nicht einzeln identifiziert und getrennt angesetzt werden können. Der künftige wirtschaftliche Nutzen kann das Ergebnis von Synergien zwischen den erworbenen identifizierbaren Vermögenswerten sein oder aber aus Vermögenswerten resultieren, die einzeln nicht im Abschluss angesetzt werden können.
+
+12   Ein Vermögenswert ist identifizierbar, wenn er entweder
+a) 
+
+separierbar ist, d. h. er kann vom Unternehmen getrennt und verkauft, übertragen, lizenziert, vermietet oder getauscht werden; dies kann einzeln oder in Verbindung mit einem Vertrag, einem identifizierbaren Vermögenswert oder einer identifizierbaren Schuld unabhängig davon erfolgen, ob das Unternehmen dies zu tun beabsichtigt, oder
+b) 
+
+er aus vertraglichen oder anderen Rechten entsteht, unabhängig davon, ob diese Rechte übertragbar oder vom Unternehmen oder von anderen Rechten und Verpflichtungen separierbar sind.
+
+Verfügungsmacht
+
+13 Ein Unternehmen hat Verfügungsmacht über einen Vermögenswert, wenn es in der Lage ist, sich den künftigen wirtschaftlichen Nutzen, der aus der zugrunde liegenden Ressource zufließt, zu verschaffen, und es den Zugriff Dritter auf diesen Nutzen beschränken kann. Die Verfügungsmacht eines Unternehmens über den künftigen wirtschaftlichen Nutzen aus einem immateriellen Vermögenswert basiert normalerweise auf einklagbaren Rechten. Sind derartige Rechte nicht vorhanden, gestaltet sich der Nachweis der Verfügungsmacht schwieriger. Allerdings ist die Einklagbarkeit eines Rechts keine notwendige Voraussetzung für Verfügungsmacht, da ein Unternehmen in der Lage sein kann, auf andere Weise Verfügungsmacht über den künftigen wirtschaftlichen Nutzen auszuüben.
+
+14 Marktkenntnisse und technische Erkenntnisse können zu künftigem wirtschaftlichen Nutzen führen. Ein Unternehmen hat Verfügungsmacht über diesen Nutzen, wenn das Wissen geschützt wird, beispielsweise durch Rechte wie Urheberrechte, eine Beschränkung eines Handelsvertrags (wo zulässig) oder durch eine den Arbeitnehmern rechtlich auferlegte Vertraulichkeitspflicht.
+
+15 Ein Unternehmen kann über ein Team von Fachkräften verfügen und in der Lage sein, zusätzliche Mitarbeiterfähigkeiten zu identifizieren, die aufgrund von Schulungsmaßnahmen zu einem künftigen wirtschaftlichen Nutzen führen. Das Unternehmen kann auch erwarten, dass die Arbeitnehmer ihre Fähigkeiten dem Unternehmen weiterhin zur Verfügung stellen werden. In der Regel hat ein Unternehmen jedoch keine hinreichende Verfügungsmacht über den erwarteten künftigen wirtschaftlichen Nutzen, der ihm durch ein Team von Fachkräften und Schulungsmaßnahmen erwächst, damit diese Werte die Definition eines immateriellen Vermögenswerts erfüllen. Aus einem ähnlichen Grund ist es unwahrscheinlich, dass eine bestimmte Management- oder fachliche Begabung die Definition eines immateriellen Vermögenswerts erfüllt, es sei denn, dass deren Nutzung und der Erhalt des von ihr zu erwartenden künftigen wirtschaftlichen Nutzens durch Rechte geschützt sind und sie zudem die übrigen Definitionskriterien erfüllt.
+
+16 Ein Unternehmen kann über einen Kundenstamm oder Marktanteil verfügen und erwarten, dass die Kunden dem Unternehmen aufgrund seiner Bemühungen, Kundenbeziehungen und Kundenloyalität aufzubauen, treu bleiben werden. Fehlen jedoch die Rechte zum Schutz oder sonstige Mittel und Wege zur Kontrolle der Kundenbeziehungen oder der Loyalität der Kunden gegenüber dem Unternehmen, so hat das Unternehmen in der Regel eine unzureichende Verfügungsmacht über den erwarteten wirtschaftlichen Nutzen aus Kundenbeziehungen und Kundenloyalität, als dass solche Werte (z. B. Kundenstamm, Marktanteile, Kundenbeziehungen, Kundenloyalität) die Definition eines immateriellen Vermögenswerts erfüllen könnten. Sind derartige Rechte zum Schutz der Kundenbeziehungen nicht vorhanden, bilden Tauschgeschäfte für dieselben oder ähnliche nicht vertragliche Kundenbeziehungen (wenn es sich nicht um einen Teil eines Unternehmenszusammenschlusses handelt) den Anhaltspunkt, dass ein Unternehmen dennoch in der Lage ist, Verfügungsmacht über den erwarteten künftigen wirtschaftlichen Nutzen aus den Kundenbeziehungen auszuüben. Da solche Tauschgeschäfte auch den Anhaltspunkt bilden, dass Kundenbeziehungen separierbar sind, erfüllen diese Kundenbeziehungen die Definition eines immateriellen Vermögenswerts.
+
+Künftiger wirtschaftlicher Nutzen
+
+17 Der künftige wirtschaftliche Nutzen aus einem immateriellen Vermögenswert kann Erlöse aus dem Verkauf von Produkten oder der Erbringung von Dienstleistungen, Kosteneinsparungen oder andere Vorteile, die sich für das Unternehmen aus der Nutzung des Vermögenswerts ergeben, enthalten. So ist es beispielsweise wahrscheinlich, dass die Nutzung geistigen Eigentums in einem Herstellungsverfahren eher die künftigen Herstellungskosten reduziert, als dass es zu künftigen Erlössteigerungen führt.
+
+ANSATZ UND BEWERTUNG
+
+18 Der Ansatz eines Postens als immateriellen Vermögenswert verlangt von einem Unternehmen den Nachweis, dass dieser Posten
+a) 
+
+die Definition eines immateriellen Vermögenswerts (siehe Paragraphen 8–17) und
+b) 
+
+die Ansatzkriterien erfüllt (siehe Paragraphen 21–23).
+
+Diese Vorschrift gilt für Anschaffungs- oder Herstellungskosten, die erstmalig beim Erwerb oder der Erzeugung von selbst geschaffenen immateriellen Vermögenswerten entstehen, und für Kosten, die nachträglich anfallen, um dem Vermögenswert etwas hinzuzufügen, ihn teilweise zu ersetzen oder zu warten.
+
+19 Die Paragraphen 25–32 befassen sich mit der Anwendung der Ansatzkriterien auf einzeln erworbene immaterielle Vermögenswerte, und die Paragraphen 33–43 befassen sich mit deren Anwendung auf immaterielle Vermögenswerte, die bei einem Unternehmenszusammenschluss erworben wurden. Paragraph 44 behandelt die Bewertung beim erstmaligen Ansatz von immateriellen Vermögenswerten, die durch eine Zuwendung der öffentlichen Hand erworben wurden, die Paragraphen 45–47 den Tausch von immateriellen Vermögenswerten und die Paragraphen 48–50 die Behandlung von selbst geschaffenem Geschäfts- oder Firmenwert. Die Paragraphen 51–67 befassen sich mit dem erstmaligen Ansatz und der Bewertung beim erstmaligen Ansatz von selbst geschaffenen immateriellen Vermögenswerten.
+
+20 Immaterielle Vermögenswerte sind von Natur aus so beschaffen, dass es in vielen Fällen keine Erweiterungen eines solchen Vermögenswerts bzw. keinen Ersatz von Teilen eines solchen gibt. Demzufolge werden die meisten nachträglichen Ausgaben wahrscheinlich eher den erwarteten künftigen wirtschaftlichen Nutzen eines bestehenden immateriellen Vermögenswerts erhalten, als die Definition eines immateriellen Vermögenswerts und die Ansatzkriterien dieses Standards erfüllen. Zudem ist es oftmals schwierig, nachträgliche Ausgaben einem bestimmten immateriellen Vermögenswert einzeln zuzuordnen und nicht dem Unternehmen als Ganzes. Aus diesem Grund werden nachträgliche Ausgaben – Ausgaben, die nach erstmaligem Ansatz eines erworbenen immateriellen Vermögenswerts oder nach der Fertigstellung eines selbst geschaffenen immateriellen Vermögenswerts anfallen – nur selten im Buchwert eines Vermögenswerts erfasst. In Übereinstimmung mit Paragraph 63 werden nachträgliche Ausgaben für Markennamen, Drucktitel, Verlagsrechte, Kundenlisten und ihrem Wesen nach ähnliche Sachverhalte (ob extern erworben oder selbst geschaffen) immer sofort erfolgswirksam erfasst. Dies beruht darauf, dass solche Ausgaben nicht von den Ausgaben für die Entwicklung des Unternehmens als Ganzes unterschieden werden können.
+
+21   Ein immaterieller Vermögenswert ist nur dann anzusetzen, wenn
+a) 
+
+es wahrscheinlich ist, dass dem Unternehmen der erwartete künftige wirtschaftliche Nutzen aus dem Vermögenswert zufließen wird, und
+b) 
+
+die Anschaffungs- oder Herstellungskosten des Vermögenswerts verlässlich ermittelt werden können.
+
+22   Ein Unternehmen hat die Wahrscheinlichkeit eines erwarteten künftigen wirtschaftlichen Nutzens anhand von angemessenen und vertretbaren Annahmen zu beurteilen; diese Annahmen beruhen auf der bestmöglichen Einschätzung seitens des Managements in Bezug auf die wirtschaftlichen Rahmenbedingungen, die während der Nutzungsdauer des Vermögenswerts bestehen werden.
+
+23 Ein Unternehmen schätzt nach eigenem Ermessen aufgrund der zum Zeitpunkt des erstmaligen Ansatzes zur Verfügung stehenden Anhaltspunkte den Grad der Sicherheit ein, der dem Zufluss an künftigem wirtschaftlichen Nutzen aus der Nutzung des Vermögenswerts zuzuschreiben ist, wobei externen Anhaltspunkten größeres Gewicht beizumessen ist.
+
+24   Ein immaterieller Vermögenswert ist beim erstmaligen Ansatz mit seinen Anschaffungs- oder Herstellungskosten zu bewerten.
+
+Gesonderter Erwerb
+
+25 Der Preis, den ein Unternehmen für den gesonderten Erwerb eines immateriellen Vermögenswerts zahlt, wird normalerweise die Erwartungen in Bezug auf die Wahrscheinlichkeit widerspiegeln, dass der erwartete künftige wirtschaftliche Nutzen aus dem Vermögenswert dem Unternehmen zufließen wird. Mit anderen Worten: Das Unternehmen erwartet, dass ein Zufluss von wirtschaftlichem Nutzen entsteht, selbst wenn der Zeitpunkt oder die Höhe des Zuflusses unsicher sind. Das Ansatzkriterium der Wahrscheinlichkeit in Paragraph 21(a) wird daher für gesondert erworbene immaterielle Vermögenswerte stets als erfüllt angesehen.
+
+26 Zudem können die Anschaffungskosten des gesondert erworbenen immateriellen Vermögenswerts für gewöhnlich verlässlich ermittelt werden. Dies gilt insbesondere dann, wenn die Gegenleistung für den Erwerb in Zahlungsmitteln oder sonstigen monetären Vermögenswerten besteht.
+
+27 Die Anschaffungskosten eines gesondert erworbenen immateriellen Vermögenswerts umfassen
+a) 
+
+den Erwerbspreis einschließlich Einfuhrzölle und nicht erstattungsfähiger Umsatzsteuern nach Abzug von Rabatten, Boni und Skonti und
+b) 
+
+Kosten, die der Vorbereitung des Vermögenswerts auf die beabsichtigte Nutzung einzeln zugeordnet werden können.
+
+28 Beispiele für Kosten, die einzeln zugeordnet werden können, sind
+a) 
+
+Aufwendungen für Leistungen an Arbeitnehmer (wie in IAS 19 definiert), die direkt anfallen, wenn der Vermögenswert in seinen betriebsbereiten Zustand versetzt wird,
+b) 
+
+Honorare, die direkt anfallen, wenn der Vermögenswert in seinen betriebsbereiten Zustand versetzt wird, und
+c) 
+
+Kosten für Testläufe, mit denen überprüft wird, ob der Vermögenswert ordnungsgemäß funktioniert.
+
+29 Beispiele für Ausgaben, die nicht Teil der Anschaffungs- oder Herstellungskosten eines immateriellen Vermögenswerts sind
+a) 
+
+Kosten für die Einführung eines neuen Produkts oder einer neuen Dienstleistung (einschließlich Kosten für Werbung und verkaufsfördernde Maßnahmen),
+b) 
+
+Kosten für Geschäftstätigkeiten an einem neuen Standort oder mit einer neuen Kundengruppe (einschließlich Personalschulungskosten) und
+c) 
+
+Verwaltungs- und andere Gemeinkosten.
+
+30 Der Ansatz als Anschaffungs- oder Herstellungskosten im Buchwert eines immateriellen Vermögenswerts endet, wenn der Vermögenswert sich in dem Zustand befindet, der erforderlich ist, damit er in der vom Management beabsichtigten Weise genutzt werden kann. Kosten, die bei der Nutzung oder Verlagerung eines immateriellen Vermögenswerts anfallen, sind somit nicht im Buchwert dieses Vermögenswerts eingeschlossen. Die nachstehenden Kosten sind beispielsweise nicht im Buchwert eines immateriellen Vermögenswerts erfasst:
+a) 
+
+Kosten, die anfallen, wenn ein Vermögenswert, dessen Zustand die vom Management beabsichtigte Nutzung ermöglicht, noch in Betrieb gesetzt werden muss, und
+b) 
+
+anfängliche Betriebsverluste, wie diejenigen, die anfallen, bis sich die Nachfrage nach den Produkten des Vermögenswerts aufgebaut hat.
+
+31 Einige Tätigkeiten werden bei der Entwicklung eines immateriellen Vermögenswerts durchgeführt, sind jedoch nicht notwendig, um den Vermögenswert in den Zustand zu bringen, der erforderlich ist, damit er in der vom Management beabsichtigten Weise genutzt werden kann. Diese Nebentätigkeiten können vor den oder während der Entwicklungstätigkeiten auftreten. Da Nebentätigkeiten nicht notwendig sind, um einen Vermögenswert in den Zustand zu bringen, der erforderlich ist, damit er in der vom Management beabsichtigten Weise genutzt werden kann, werden die Erträge und dazugehörigen Aufwendungen der Nebentätigkeiten unmittelbar erfolgswirksam erfasst und in ihren entsprechenden Ertrags- und Aufwandsposten ausgewiesen.
+
+32 Wird die Zahlung für einen immateriellen Vermögenswert über das normale Zahlungsziel hinaus aufgeschoben, entsprechen seine Anschaffungskosten dem Gegenwert des Barpreises. Die Differenz zwischen diesem Betrag und der zu leistenden Gesamtzahlung wird über den Zeitraum des Zahlungsziels als Zinsaufwand erfasst, es sei denn, dass sie gemäß IAS 23 Fremdkapitalkosten aktiviert wird.
+
+Erwerb im Rahmen eines Unternehmenszusammenschlusses
+
+33 Wenn ein immaterieller Vermögenswert gemäß IFRS 3 Unternehmenszusammenschlüsse bei einem Unternehmenszusammenschluss erworben wird, entsprechen die Anschaffungskosten dieses immateriellen Vermögenswerts seinem beizulegenden Zeitwert zum Erwerbszeitpunkt. Der beizulegende Zeitwert eines immateriellen Vermögenswerts wird widerspiegeln, wie Marktteilnehmer zum Erwerbszeitpunkt die Wahrscheinlichkeit einschätzen, dass der erwartete künftige wirtschaftliche Nutzen aus dem Vermögenswert dem Unternehmen zufließen wird. Mit anderen Worten: Das Unternehmen erwartet, dass ein Zufluss von wirtschaftlichem Nutzen entsteht, selbst wenn der Zeitpunkt oder die Höhe des Zuflusses unsicher sind. Das Ansatzkriterium der Wahrscheinlichkeit in Paragraph 21(a) wird daher für immaterielle Vermögenswerte, die bei einem Unternehmenszusammenschluss erworben wurden, stets als erfüllt angesehen. Wenn ein bei einem Unternehmenszusammenschluss erworbener Vermögenswert separierbar ist oder sich aus vertraglichen oder sonstigen Rechten ergibt, liegen genügend Informationen vor, um den beizulegenden Zeitwert des Vermögenswerts verlässlich zu ermitteln. Somit wird das Kriterium der verlässlichen Bestimmung in Paragraph 21(b) für immaterielle Vermögenswerte, die bei einem Unternehmenszusammenschluss erworben wurden, stets als erfüllt angesehen.
+
+34 Gemäß diesem Standard und IFRS 3 (in der 2008 überarbeiteten Fassung) setzt ein Erwerber einen immateriellen Vermögenswert des erworbenen Unternehmens zum Erwerbszeitpunkt separat vom Geschäfts- oder Firmenwert an, unabhängig davon, ob der Vermögenswert vor dem Unternehmenszusammenschluss vom erworbenen Unternehmen angesetzt wurde. Das bedeutet, dass der Erwerber ein laufendes Forschungs- und Entwicklungsprojekt des erworbenen Unternehmens als einen vom Geschäfts- oder Firmenwert getrennten Vermögenswert ansetzt, wenn das Projekt die Definition eines immateriellen Vermögenswerts erfüllt. Ein laufendes Forschungs- und Entwicklungsprojekt eines erworbenen Unternehmens erfüllt die Definition eines immateriellen Vermögenswerts, wenn es
+a) 
+
+die Definition eines Vermögenswerts erfüllt und
+b) 
+
+identifizierbar ist, d. h. wenn es separierbar ist oder sich aus vertraglichen oder sonstigen Rechten ergibt.
+
+Bei einem Unternehmenszusammenschluss erworbener immaterieller Vermögenswert
+
+35 Wenn ein bei einem Unternehmenszusammenschluss erworbener immaterieller Vermögenswert separierbar ist oder sich aus vertraglichen oder sonstigen Rechten ergibt, liegen genügend Informationen vor, um den beizulegenden Zeitwert des Vermögenswerts verlässlich zu ermitteln. Wenn es für die Schätzungen, die zur Bestimmung des beizulegenden Zeitwerts eines immateriellen Vermögenswerts benutzt werden, eine Reihe möglicher Ergebnisse mit verschiedenen Wahrscheinlichkeiten gibt, geht diese Unsicherheit in die Bestimmung des beizulegenden Zeitwerts des Vermögenswerts ein.
+
+36 Ein bei einem Unternehmenszusammenschluss erworbener immaterieller Vermögenswert könnte separierbar sein, jedoch nur in Verbindung mit einem Vertrag oder einem identifizierbaren Vermögenswert bzw. einer identifizierbaren Schuld. In diesen Fällen setzt der Erwerber den immateriellen Vermögenswert separat vom Geschäfts- oder Firmenwert, aber zusammen mit dem zugehörigen Posten an.
+
+37 Der Erwerber kann eine Gruppe von einander ergänzenden immateriellen Vermögenswerten als einen einzigen Vermögenswert ansetzen, sofern die einzelnen Vermögenswerte eine ähnliche Nutzungsdauer haben. Zum Beispiel werden die Begriffe „Marke“ und „Markenname“ häufig als Synonyme für Warenzeichen und andere Zeichen benutzt. Es handelt sich hierbei jedoch um allgemeine Marketing-Begriffe, die üblicherweise eine Gruppe einander ergänzender Vermögenswerte bezeichnen, wie ein Warenzeichen (oder eine Dienstleistungsmarke) samt zugehörigem Handelsnamen, zugehöriger Rezepturen und zugehörigem technologischen Wissen.
+
+38–41 [gestrichen]
+
+Nachträgliche Ausgaben für ein erworbenes laufendes Forschungs- und Entwicklungsprojekt
+
+42   Forschungs- oder Entwicklungsausgaben, die
+a) 
+
+sich auf ein laufendes Forschungs- oder Entwicklungsprojekt beziehen, das gesondert oder bei einem Unternehmenszusammenschluss erworben und als ein immaterieller Vermögenswert angesetzt wurde, und
+b) 
+
+nach dem Erwerb dieses Projekts anfallen,
+
+sind gemäß den Paragraphen 54–62 zu bilanzieren.
+
+43 Die Anwendung der Vorschriften in den Paragraphen 54–62 bedeutet, dass nachträgliche Ausgaben für ein laufendes Forschungs- oder Entwicklungsprojekt, das gesondert oder bei einem Unternehmenszusammenschluss erworben und als ein immaterieller Vermögenswert angesetzt wurde,
+a) 
+
+bei ihrem Anfall als Aufwand erfasst werden, wenn es sich um Forschungsausgaben handelt,
+b) 
+
+bei ihrem Anfall als Aufwand erfasst werden, wenn es sich um Entwicklungsausgaben handelt, die nicht die Ansatzkriterien eines immateriellen Vermögenswerts gemäß Paragraph 57 erfüllen, und
+c) 
+
+zum Buchwert des erworbenen laufenden Forschungs- oder Entwicklungsprojekts hinzugefügt werden, wenn es sich um Entwicklungsausgaben handelt, die die Ansatzkriterien gemäß Paragraph 57 erfüllen.
+
+Erwerb durch eine Zuwendung der öffentlichen Hand
+
+44 In manchen Fällen kann ein immaterieller Vermögenswert durch eine Zuwendung der öffentlichen Hand kostenlos oder für eine nominelle Gegenleistung erworben werden. Dies kann geschehen, wenn die öffentliche Hand einem Unternehmen immaterielle Vermögenswerte überträgt oder zuteilt, wie beispielsweise Flughafenlanderechte, Lizenzen zum Betreiben von Rundfunk- oder Fernsehanstalten, Importlizenzen oder -quoten oder Zugangsrechte für sonstige begrenzt zugängliche Ressourcen. Gemäß IAS 20 Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand kann sich ein Unternehmen beim erstmaligen Ansatz dafür entscheiden, sowohl den immateriellen Vermögenswert als auch die Zuwendung mit dem beizulegenden Zeitwert anzusetzen. Entscheidet sich ein Unternehmen dafür, den Vermögenswert beim erstmaligen Ansatz nicht mit dem beizulegenden Zeitwert anzusetzen, setzt das Unternehmen den Vermögenswert beim erstmaligen Ansatz zu einem nominellen Wert an (die andere durch IAS 20 gestattete Methode), zuzüglich aller Ausgaben, die der Vorbereitung des Vermögenswerts auf den beabsichtigten Gebrauch einzeln zugeordnet werden können.
+
+Tausch von Vermögenswerten
+
+45 Ein oder mehrere immaterielle Vermögenswerte können im Tausch gegen nichtmonetäre Vermögenswerte oder eine Kombination von monetären und nichtmonetären Vermögenswerten erworben werden. Die folgenden Ausführungen beziehen sich nur auf einen Tausch von einem nicht-monetären Vermögenswert gegen einen anderen, finden aber auch auf alle anderen im vorstehenden Satz genannten Tauschvorgänge Anwendung. Die Anschaffungskosten eines solchen immateriellen Vermögenswerts werden mit dem beizulegenden Zeitwert bewertet, es sei denn, (a) dem Tauschgeschäft fehlt es an wirtschaftlicher Substanz oder (b) weder der beizulegende Zeitwert des erhaltenen Vermögenswerts noch der des hingegebenen Vermögenswerts ist verlässlich ermittelbar. Der erworbene Vermögenswert wird in dieser Art bewertet, auch wenn ein Unternehmen den hingegebenen Vermögenswert nicht sofort ausbuchen kann. Wenn der erworbene Vermögenswert nicht zum beizulegenden Zeitwert bewertet wird, werden die Anschaffungskosten zum Buchwert des hingegebenen Vermögenswerts bewertet.
+
+46 Ein Unternehmen beurteilt, ob ein Tauschgeschäft wirtschaftliche Substanz hat, indem es prüft, in welchem Umfang sich die künftigen Zahlungsströme infolge der Transaktion voraussichtlich ändern. Ein Tauschgeschäft hat wirtschaftliche Substanz, wenn
+a) 
+
+die Zusammensetzung (d. h. Risiko, Zeitpunkt und Betrag) der Zahlungsströme des erhaltenen Vermögenswerts sich von der Zusammensetzung des übertragenen Vermögenswerts unterscheidet oder
+b) 
+
+der unternehmensspezifische Wert des Teils der Geschäftstätigkeiten des Unternehmens, der von der Transaktion betroffen ist, sich aufgrund des Tauschgeschäfts ändert und
+c) 
+
+die Differenz in (a) oder (b) im Verhältnis zum beizulegenden Zeitwert der getauschten Vermögenswerte signifikant ist.
+
+Für den Zweck der Beurteilung, ob ein Tauschgeschäft wirtschaftliche Substanz hat, spiegelt der unternehmensspezifische Wert des Teils der Geschäftstätigkeiten des Unternehmens, der von der Transaktion betroffen ist, Zahlungsströme nach Steuern wider. Das Ergebnis dieser Analysen kann eindeutig sein, ohne dass ein Unternehmen detaillierte Kalkulationen erbringen muss.
+
+47 Nach Paragraph 21(b) ist die verlässliche Ermittlung der Anschaffungs- oder Herstellungskosten eines Vermögenswerts eine Voraussetzung für den Ansatz eines immateriellen Vermögenswerts. Der beizulegende Zeitwert eines immateriellen Vermögenswerts gilt als verlässlich ermittelbar, wenn (a) die Schwankungsbandbreite angemessener Ermittlungen des beizulegenden Zeitwerts für diesen Vermögenswert nicht signifikant ist oder (b) die Eintrittswahrscheinlichkeiten der verschiedenen Schätzungen innerhalb dieser Bandbreite angemessen beurteilt und bei der Ermittlung des beizulegenden Zeitwerts verwendet werden können. Wenn ein Unternehmen den beizulegenden Zeitwert entweder des erhaltenen Vermögenswerts oder des hingegebenen Vermögenswerts verlässlich ermitteln kann, dann wird der beizulegende Zeitwert des hingegebenen Vermögenswerts benutzt, um die Anschaffungskosten zu ermitteln, es sei denn, der beizulegende Zeitwert des erhaltenen Vermögenswerts ist der offensichtlichere.
+
+Selbst geschaffener Geschäfts- oder Firmenwert
+
+48   Ein selbst geschaffener Geschäfts- oder Firmenwert darf nicht aktiviert werden.
+
+49 In manchen Fällen fallen Ausgaben für die Erzeugung eines künftigen wirtschaftlichen Nutzens an, ohne dass ein immaterieller Vermögenswert geschaffen wird, der die Ansatzkriterien dieses Standards erfüllt. Derartige Ausgaben werden oft als Beitrag zum selbst geschaffenen Geschäfts- oder Firmenwert beschrieben. Ein selbst geschaffener Geschäfts- oder Firmenwert wird nicht als Vermögenswert angesetzt, da dieser keine in der Verfügungsmacht des Unternehmens stehende identifizierbare Ressource (d. h. er ist weder separierbar noch aus vertraglichen oder sonstigen Rechten entstanden) ist, die verlässlich zu Herstellungskosten bewertet werden kann.
+
+50 In den zu irgendeinem Zeitpunkt auftretenden Unterschieden zwischen dem beizulegenden Zeitwert eines Unternehmens und dem Buchwert seiner identifizierbaren Nettovermögenswerte kann eine Reihe von Faktoren erfasst sein, die den beizulegenden Zeitwert des Unternehmens beeinflussen. Derartige Unterschiede gehören jedoch nicht zu den Anschaffungs- oder Herstellungskosten eines in der Verfügungsmacht des Unternehmens stehenden immateriellen Vermögenswerts.
+
+Selbst geschaffene immaterielle Vermögenswerte
+
+51 Manchmal ist es schwierig zu beurteilen, ob ein selbst geschaffener immaterieller Vermögenswert ansetzbar ist, da Probleme bestehen bei
+a) 
+
+der Feststellung, ob und wann es einen identifizierbaren Vermögenswert gibt, der einen erwarteten künftigen wirtschaftlichen Nutzen erzeugen wird, und
+b) 
+
+der verlässlichen Ermittlung der Herstellungskosten des Vermögenswerts. In manchen Fällen können die Kosten für die interne Herstellung eines immateriellen Vermögenswerts nicht von den Kosten unterschieden werden, die mit der Erhaltung oder Erhöhung des selbst geschaffenen Geschäfts- oder Firmenwerts des Unternehmens oder mit dem Tagesgeschäft in Verbindung stehen.
+
+Neben den allgemeinen Vorschriften für den Ansatz und die Bewertung beim erstmaligen Ansatz eines immateriellen Vermögenswerts wendet ein Unternehmen daher die Vorschriften und Anwendungsleitlinien der Paragraphen 52–67 auf alle selbst geschaffenen immateriellen Vermögenswerte an.
+
+52 Um zu beurteilen, ob ein selbst geschaffener immaterieller Vermögenswert die Ansatzkriterien erfüllt, unterteilt ein Unternehmen den Herstellungsprozess des Vermögenswerts in
+a) 
+
+eine Forschungsphase und
+b) 
+
+eine Entwicklungsphase.
+
+Ungeachtet der Definition der Begriffe „Forschung“ und „Entwicklung“ haben die Begriffe „Forschungsphase“ und „Entwicklungsphase“ im Sinne dieses Standards eine umfassendere Bedeutung.
+
+53 Kann ein Unternehmen die Forschungsphase nicht von der Entwicklungsphase eines internen Projekts zur Schaffung eines immateriellen Vermögenswerts unterscheiden, behandelt das Unternehmen die mit diesem Projekt verbundenen Ausgaben so, als wären sie nur in der Forschungsphase angefallen.
+
+Forschungsphase
+
+54   Ein aus der Forschung (oder der Forschungsphase eines internen Projekts) entstehender immaterieller Vermögenswert darf nicht angesetzt werden. Ausgaben für Forschung (oder in der Forschungsphase eines internen Projekts) sind in der Periode als Aufwand zu erfassen, in der sie anfallen.
+
+55 In der Forschungsphase eines internen Projekts kann ein Unternehmen nicht nachweisen, dass ein immaterieller Vermögenswert existiert, der einen voraussichtlichen künftigen wirtschaftlichen Nutzen erzeugen wird. Daher werden diese Ausgaben in der Periode als Aufwand erfasst, in der sie anfallen.
+
+56 Beispiele für Forschungsaktivitäten sind:
+a) 
+
+Aktivitäten, die auf die Erlangung neuer Erkenntnisse ausgerichtet sind,
+b) 
+
+die Suche nach sowie die Beurteilung und endgültige Auswahl von Anwendungen für Forschungsergebnisse und für anderes Wissen
+c) 
+
+die Suche nach Alternativen für Materialien, Vorrichtungen, Produkte, Verfahren, Systeme oder Dienstleistungen und
+d) 
+
+die Formulierung, der Entwurf sowie die Beurteilung und endgültige Auswahl von möglichen Alternativen für neue oder verbesserte Materialien, Vorrichtungen, Produkte, Verfahren, Systeme oder Dienstleistungen.
+
+Entwicklungsphase
+
+57   Ein aus der Entwicklung (oder der Entwicklungsphase eines internen Projekts) entstehender immaterieller Vermögenswert ist nur dann anzusetzen, wenn ein Unternehmen alle folgenden Punkte nachweisen kann:
+a) 
+
+Die Fertigstellung des immateriellen Vermögenswerts kann technisch soweit realisiert werden, dass er genutzt oder verkauft werden kann.
+b) 
+
+Das Unternehmen beabsichtigt, den immateriellen Vermögenswert fertigzustellen und ihn zu nutzen oder zu verkaufen.
+c) 
+
+Das Unternehmen ist in der Lage, den immateriellen Vermögenswert zu nutzen oder zu verkaufen.
+d) 
+
+Die Art und Weise, wie der immaterielle Vermögenswert voraussichtlich einen künftigen wirtschaftlichen Nutzen erzeugen wird. Das Unternehmen kann u. a. die Existenz eines Markts für die Produkte des immateriellen Vermögenswerts oder für den immateriellen Vermögenswert an sich oder, falls er intern genutzt werden soll, den Nutzen des immateriellen Vermögenswerts nachweisen.
+e) 
+
+Adäquate technische, finanzielle und sonstige Ressourcen sind verfügbar, sodass die Entwicklung abgeschlossen und der immaterielle Vermögenswert genutzt oder verkauft werden kann.
+f) 
+
+Das Unternehmen ist in der Lage, die Ausgaben, die dem immateriellen Vermögenswert während seiner Entwicklung zugeordnet werden können, verlässlich zu ermitteln.
+
+58 In der Entwicklungsphase eines internen Projekts kann ein Unternehmen in manchen Fällen einen immateriellen Vermögenswert identifizieren und nachweisen, dass der Vermögenswert einen voraussichtlichen künftigen wirtschaftlichen Nutzen erzeugen wird. Dies ist darauf zurückzuführen, dass ein Projekt in der Entwicklungsphase weiter vorangeschritten ist als in der Forschungsphase.
+
+59 Beispiele für Entwicklungsaktivitäten sind
+a) 
+
+der Entwurf, die Konstruktion und das Testen von Prototypen und Modellen vor Beginn der eigentlichen Produktion oder Nutzung,
+b) 
+
+der Entwurf von Werkzeugen, Spannvorrichtungen, Prägestempeln und Gussformen unter Verwendung neuer Technologien,
+c) 
+
+der Entwurf, die Konstruktion und der Betrieb einer Pilotanlage, die von ihrer Größe her für eine kommerzielle Produktion wirtschaftlich ungeeignet ist, und
+d) 
+
+der Entwurf, die Konstruktion und das Testen einer ausgewählten Alternative für neue oder verbesserte Materialien, Vorrichtungen, Produkte, Verfahren, Systeme oder Dienstleistungen.
+
+60 Um nachzuweisen, wie ein immaterieller Vermögenswert einen voraussichtlichen künftigen wirtschaftlichen Nutzen erzeugen wird, beurteilt ein Unternehmen den aus dem Vermögenswert zu erzielenden künftigen wirtschaftlichen Nutzen, indem es die Grundsätze in IAS 36 Wertminderung von Vermögenswerten anwendet. Wird der Vermögenswert nur in Verbindung mit anderen Vermögenswerten einen wirtschaftlichen Nutzen erzeugen, wendet das Unternehmen das in IAS 36 behandelte Konzept der zahlungsmittelgenerierenden Einheiten an.
+
+61 Ob Ressourcen vorhanden sind, sodass ein immaterieller Vermögenswert fertiggestellt und genutzt und der Nutzen aus ihm erlangt werden kann, lässt sich beispielsweise anhand eines Unternehmensplans nachweisen, der die benötigten technischen, finanziellen und sonstigen Ressourcen sowie die Fähigkeit des Unternehmens zur Sicherung dieser Ressourcen zeigt. In einigen Fällen weist ein Unternehmen die Verfügbarkeit von Fremdkapital mittels einer vom Kreditgeber erhaltenen Absichtserklärung, den Plan zu finanzieren, nach.
+
+62 Die Kostenrechnungssysteme eines Unternehmens können oftmals die Herstellungskosten eines selbst geschaffenen immateriellen Vermögenswerts verlässlich ermitteln, wie beispielsweise Gehälter und sonstige Ausgaben, die bei der Sicherung von Urheberrechten oder Lizenzen oder bei der Entwicklung von Computersoftware anfallen.
+
+63   Selbst geschaffene Markennamen, Drucktitel, Verlagsrechte, Kundenlisten sowie ihrem Wesen nach ähnliche Sachverhalte dürfen nicht als immaterielle Vermögenswerte angesetzt werden.
+
+64 Ausgaben für selbst geschaffene Markennamen, Drucktitel, Verlagsrechte, Kundenlisten sowie dem Wesen nach ähnliche Sachverhalte können nicht von den Ausgaben für die Entwicklung des Unternehmens als Ganzes unterschieden werden. Aus diesem Grund werden solche Sachverhalte nicht als immaterielle Vermögenswerte angesetzt.
+
+Herstellungskosten eines selbst geschaffenen immateriellen Vermögenswerts
+
+65 Die Herstellungskosten eines selbst geschaffenen immateriellen Vermögenswerts im Sinne des Paragraphen 24 entsprechen der Summe der Ausgaben, die ab dem Zeitpunkt anfallen, ab dem der immaterielle Vermögenswert die in den Paragraphen 21, 22 und 57 beschriebenen Ansatzkriterien erstmals erfüllt. Paragraph 71 untersagt die Nachaktivierung von Ausgaben, die zuvor bereits als Aufwand erfasst wurden.
+
+66 Die Herstellungskosten eines selbst geschaffenen immateriellen Vermögenswerts umfassen alle Kosten, die dem Entwurf, der Herstellung und der Vorbereitung des Vermögenswerts mit dem Ziel, ihn in einen Zustand zu versetzen, der die vom Management beabsichtigte Nutzung ermöglicht, einzeln zugeordnet werden können. Beispiele für Kosten, die einzeln zugeordnet werden können, sind
+a) 
+
+Kosten für Materialien und Dienstleistungen, die bei der Erzeugung des immateriellen Vermögenswerts genutzt oder verbraucht werden,
+b) 
+
+Aufwendungen für Leistungen an Arbeitnehmer (wie in IAS 19 definiert), die bei der Erzeugung des immateriellen Vermögenswerts anfallen,
+c) 
+
+Registrierungsgebühren eines Rechtsanspruchs und
+d) 
+
+planmäßige Abschreibungen der Patente und Lizenzen, die zur Erzeugung des immateriellen Vermögenswerts genutzt werden.
+
+IAS 23 bestimmt, nach welchen Kriterien Zinsen als Teil der Herstellungskosten eines selbst geschaffenen immateriellen Vermögenswerts angesetzt werden.
+
+67 Keine Bestandteile der Herstellungskosten eines selbst geschaffenen immateriellen Vermögenswerts sind
+a) 
+
+Vertriebs- und Verwaltungsgemeinkosten sowie sonstige Gemeinkosten, es sei denn, diese Kosten können der Vorbereitung des Vermögenswerts auf die Nutzung einzeln zugeordnet werden,
+b) 
+
+identifizierte Ineffizienzen und anfängliche Betriebsverluste, die auftreten, bevor der Vermögenswert seine geplante Ertragskraft erreicht hat, und
+c) 
+
+Ausgaben für die Schulung von Mitarbeitern im Umgang mit dem Vermögenswert.
+
+Beispiel zur Veranschaulichung von Paragraph 65
+
+Ein Unternehmen entwickelt ein neues Produktionsverfahren. Die in 20X5 angefallenen Ausgaben beliefen sich auf 1000 WE ( 29 ), wovon 900 WE vor dem 1. Dezember 20X5 und 100 WE zwischen dem 1. Dezember 20X5 und dem 31. Dezember 20X5 anfielen. Das Unternehmen kann nachweisen, dass das Produktionsverfahren zum 1. Dezember 20X5 die Kriterien für einen Ansatz als immaterieller Vermögenswert erfüllte. Der erzielbare Betrag des in diesem Verfahren verankerten Know-hows (einschließlich künftiger Zahlungsmittelabflüsse, um das Verfahren vor seiner eigentlichen Nutzung fertigzustellen) wird auf 500 WE geschätzt.
+
+Ende 20X5 wird das Produktionsverfahren als immaterieller Vermögenswert mit Herstellungskosten in Höhe von 100 WE angesetzt (Ausgaben, die seit dem Zeitpunkt der Erfüllung der Ansatzkriterien, d. h. dem 1. Dezember 20X5, angefallen sind). Die Ausgaben in Höhe von 900 WE, die vor dem 1. Dezember 20X5 angefallen waren, werden als Aufwand erfasst, da die Ansatzkriterien erst ab dem 1. Dezember 20X5 erfüllt wurden. Diese Ausgaben sind nicht Teil der in der Bilanz angesetzten Herstellungskosten des Produktionsverfahrens.
+
+Im Jahr 20X6 betragen die angefallenen Ausgaben 2000 WE. Ende 20X6 wird der erzielbare Betrag des in diesem Verfahren verankerten Know-hows (einschließlich künftiger Zahlungsmittelabflüsse, um das Verfahren vor seiner eigentlichen Nutzung fertigzustellen) auf 1900 WE geschätzt.
+
+Ende 20X6 belaufen sich die Herstellungskosten des Produktionsverfahrens auf 2100 WE (Ausgaben von 100 WE werden Ende 20X5 angesetzt plus Ausgaben von 2000 WE im Jahr 20X6). Das Unternehmen erfasst einen Wertminderungsaufwand in Höhe von 200 WE, um den Buchwert des Verfahrens vor dem Wertminderungsaufwand (2100 WE) an seinen erzielbaren Betrag (1900 WE) anzupassen. Dieser Wertminderungsaufwand wird in einer Folgeperiode aufgeholt, wenn die in IAS 36 dargelegten Vorschriften für eine Wertaufholung erfüllt sind.
+
+ERFASSUNG EINES AUFWANDS
+
+68   Ausgaben für einen immateriellen Posten sind in der Periode als Aufwand zu erfassen, in der sie anfallen, es sei denn, dass
+a) 
+
+sie Teil der Anschaffungs- oder Herstellungskosten eines immateriellen Vermögenswerts sind, der die Ansatzkriterien erfüllt (siehe Paragraphen 18–67), oder
+b) 
+
+der Posten bei einem Unternehmenszusammenschluss erworben wird und nicht als immaterieller Vermögenswert angesetzt werden kann. Ist dies der Fall, sind sie Teil des Betrags, der zum Erwerbszeitpunkt als Geschäfts- oder Firmenwert angesetzt wird (siehe IFRS 3).
+
+69 Manchmal entstehen Ausgaben, mit denen für ein Unternehmen ein künftiger wirtschaftlicher Nutzen erzielt werden soll, ohne dass ein immaterieller Vermögenswert oder sonstiger Vermögenswert erworben oder geschaffen wird, der angesetzt werden kann. Im Falle der Lieferung von Gütern setzt ein Unternehmen solche Ausgaben dann als Aufwand an, wenn es ein Recht auf Zugang zu diesen Gütern erhält. Im Falle der Erbringung von Dienstleistungen setzt ein Unternehmen solche Ausgaben dann als Aufwand an, wenn es die Dienstleistungen erhält. Beispielsweise werden Ausgaben für Forschung, außer wenn sie bei einem Unternehmenszusammenschluss anfallen, in der Periode als Aufwand erfasst, in der sie anfallen (siehe Paragraph 54). Weitere Beispiele für Ausgaben, die in der Periode als Aufwand erfasst werden, in der sie anfallen, sind
+a) 
+
+Ausgaben für die Gründung und den Anlauf eines Geschäftsbetriebs (d. h. Gründungs- und Anlaufkosten), es sei denn, diese Ausgaben sind in den Anschaffungs- oder Herstellungskosten einer Sachanlage gemäß IAS 16 enthalten. Zu den Gründungs- und Anlaufkosten zählen Gründungskosten wie Rechts- und sonstige Kosten, die bei der Gründung einer juristischen Einheit anfallen, Ausgaben für die Eröffnung einer neuen Betriebsstätte oder eines neuen Geschäfts (d. h. Eröffnungskosten) oder Ausgaben für die Aufnahme neuer Tätigkeitsbereiche oder die Einführung neuer Produkte oder Verfahren (d. h. Anlaufkosten);
+b) 
+
+Ausgaben für Aus- und Weiterbildungsaktivitäten;
+c) 
+
+Ausgaben für Werbekampagnen und Maßnahmen der Verkaufsförderung (einschließlich Versandhauskataloge);
+d) 
+
+Ausgaben für die Verlegung oder Reorganisation von Unternehmensteilen oder des gesamten Unternehmens.
+
+69A Ein Unternehmen hat ein Recht auf Zugang zu Gütern, wenn diese in seinem Eigentum stehen. Ebenso hat ein Unternehmen ein Recht auf Zugang zu Gütern, wenn sie gemäß einem Liefervertrag von einem Lieferanten hergestellt wurden und das Unternehmen ihre Lieferung gegen Bezahlung verlangen kann. Dienstleistungen gelten dann als erhalten, wenn sie von einem Dienstleister gemäß einem Dienstleistungsvertrag mit dem Unternehmen erbracht werden und nicht, wenn das Unternehmen sie zur Erbringung einer anderen Dienstleistung nutzt (wie z. B. für Kundenwerbung).
+
+70 Paragraph 68 schließt den Ansatz einer Vorauszahlung als Vermögenswert nicht aus, wenn die Zahlung für die Lieferung von Gütern vor dem Erhalt des Rechts seitens des Unternehmens auf Zugang zu diesen Gütern erfolgte. Ebenso schließt Paragraph 68 den Ansatz einer Vorauszahlung als Vermögenswert nicht aus, wenn die Zahlung für die Erbringung von Dienstleistungen vor dem Erhalt der Dienstleistungen erfolgte.
+
+Keine Erfassung früherer Aufwendungen als Vermögenswert
+
+71   Ausgaben für einen immateriellen Posten, die ursprünglich als Aufwand erfasst wurden, sind zu einem späteren Zeitpunkt nicht als Teil der Anschaffungs- oder Herstellungskosten eines immateriellen Vermögenswerts anzusetzen.
+
+FOLGEBEWERTUNG
+
+72   Ein Unternehmen hat als seine Rechnungslegungsmethode entweder das Anschaffungskostenmodell gemäß Paragraph 74 oder das Neubewertungsmodell gemäß Paragraph 75 zu wählen. Wird ein immaterieller Vermögenswert nach dem Neubewertungsmodell bilanziert, sind alle anderen Vermögenswerte seiner Gruppe ebenfalls nach demselben Modell zu bilanzieren, es sei denn, dass kein aktiver Markt für diese Vermögenswerte existiert.
+
+73 Eine Gruppe immaterieller Vermögenswerte ist eine Zusammenfassung von Vermögenswerten, die hinsichtlich ihrer Art und Verwendung innerhalb der Geschäftstätigkeit eines Unternehmens ähnlich sind. Die Posten innerhalb einer Gruppe immaterieller Vermögenswerte sind gleichzeitig neu zu bewerten, um zu vermeiden, dass Vermögenswerte selektiv neubewertet werden und dass Beträge in den Abschlüssen dargestellt werden, die eine Mischung aus Anschaffungs- oder Herstellungskosten und neu bewerteten Beträgen zu unterschiedlichen Zeitpunkten darstellen.
+
+Anschaffungskostenmodell
+
+74   Nach dem erstmaligen Ansatz ist ein immaterieller Vermögenswert mit seinen Anschaffungs- oder Herstellungskosten zu bilanzieren, abzüglich aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen.
+
+Neubewertungsmodell
+
+75   Nach dem erstmaligen Ansatz ist ein immaterieller Vermögenswert mit einem Neubewertungsbetrag fortzuführen, der seinem beizulegenden Zeitwert zum Zeitpunkt der Neubewertung, abzüglich nachfolgender kumulierter planmäßiger Abschreibungen und nachfolgender kumulierter Wertminderungsaufwendungen, entspricht. Im Rahmen der unter diesen Standard fallenden Neubewertungen ist der beizulegende Zeitwert unter Bezugnahme auf einen aktiven Markt zu bestimmen. Neubewertungen sind mit einer solchen Regelmäßigkeit vorzunehmen, dass der Buchwert des Vermögenswerts nicht wesentlich von seinem beizulegenden Zeitwert am Abschlussstichtag abweicht.
+
+76 Das Neubewertungsmodell untersagt
+a) 
+
+die Neubewertung immaterieller Vermögenswerte, die zuvor nicht als Vermögenswerte angesetzt wurden, oder
+b) 
+
+den erstmaligen Ansatz immaterieller Vermögenswerte mit von ihren Anschaffungs- oder Herstellungskosten abweichenden Beträgen.
+
+77 Das Neubewertungsmodell wird angewandt, nachdem ein Vermögenswert erstmalig mit seinen Anschaffungs- oder Herstellungskosten angesetzt wurde. Wird allerdings nur ein Teil der Anschaffungs- oder Herstellungskosten eines immateriellen Vermögenswerts als Vermögenswert angesetzt, da der Vermögenswert die Ansatzkriterien erst zu einem späteren Zeitpunkt erfüllt hat (siehe Paragraph 65), kann das Neubewertungsmodell auf den gesamten Vermögenswert angewandt werden. Zudem kann das Neubewertungsmodell auf einen immateriellen Vermögenswert angewandt werden, der durch eine Zuwendung der öffentlichen Hand zuging und zu einem nominellen Wert angesetzt wurde (siehe Paragraph 44).
+
+78 Auch wenn ein aktiver Markt für einen immateriellen Vermögenswert normalerweise nicht existiert, kann dies dennoch vorkommen. Zum Beispiel kann in manchen Ländern ein aktiver Markt für frei übertragbare Taxilizenzen, Fischereilizenzen oder Produktionsquoten bestehen. Allerdings gibt es keinen aktiven Markt für Markennamen, Drucktitel bei Zeitungen, Musik- und Filmverlagsrechte, Patente oder Warenzeichen, da jeder dieser Vermögenswerte einzigartig ist. Und obwohl immaterielle Vermögenswerte gekauft und verkauft werden, werden Verträge zwischen einzelnen Käufern und Verkäufern ausgehandelt, und Transaktionen finden relativ selten statt. Aus diesen Gründen bildet der für einen Vermögenswert gezahlte Preis möglicherweise keinen ausreichenden Anhaltspunkt für den beizulegenden Zeitwert eines anderen. Darüber hinaus stehen der Öffentlichkeit die Preise oft nicht zur Verfügung.
+
+79 Die Häufigkeit von Neubewertungen ist abhängig vom Ausmaß der Schwankung (Volatilität) des beizulegenden Zeitwerts der einer Neubewertung unterliegenden immateriellen Vermögenswerte. Weicht der beizulegende Zeitwert eines neu bewerteten Vermögenswerts wesentlich von seinem Buchwert ab, ist eine weitere Neubewertung notwendig. Manche immateriellen Vermögenswerte können erhebliche und starke Schwankungen ihres beizulegenden Zeitwerts erfahren, wodurch eine jährliche Neubewertung erforderlich wird. Derartig häufige Neubewertungen sind bei immateriellen Vermögenswerten mit nur unerheblichen Bewegungen des beizulegenden Zeitwerts nicht notwendig.
+
+80 Bei Neubewertung eines immateriellen Vermögenswerts wird dessen Buchwert an den Neubewertungsbetrag angepasst. Zum Zeitpunkt der Neubewertung wird der Vermögenswert wie folgt behandelt:
+a) 
+
+Der Bruttobuchwert wird in einer Weise angepasst, die mit der Neubewertung des Buchwerts in Einklang steht. So kann der Bruttobuchwert beispielsweise unter Bezugnahme auf beobachtbare Marktdaten oder proportional zur Veränderung des Buchwerts angepasst werden. Die kumulierte planmäßige Abschreibung zum Zeitpunkt der Neubewertung wird so berichtigt, dass sie nach Berücksichtigung kumulierter Wertminderungsaufwendungen der Differenz zwischen dem Bruttobuchwert und dem Buchwert des Vermögenswerts entspricht; oder
+b) 
+
+die kumulierte planmäßige Abschreibung wird gegen den Bruttobuchwert des Vermögenswerts ausgebucht.
+
+Der Betrag, um den die kumulierte planmäßige Abschreibung angepasst wird, ist Bestandteil der Erhöhung oder Verringerung des Buchwerts, der gemäß den Paragraphen 85 und 86 bilanziert wird.
+
+81   Kann ein immaterieller Vermögenswert einer Gruppe von neu bewerteten immateriellen Vermögenswerten aufgrund der fehlenden Existenz eines aktiven Markts für diesen Vermögenswert nicht neu bewertet werden, ist der Vermögenswert mit seinen Anschaffungs- oder Herstellungskosten, abzüglich aller kumulierten planmäßigen Abschreibungen und Wertminderungsaufwendungen, anzusetzen.
+
+82   Kann der beizulegende Zeitwert eines neu bewerteten immateriellen Vermögenswerts nicht länger unter Bezugnahme auf einen aktiven Markt ermittelt werden, entspricht der Buchwert des Vermögenswerts seinem Neubewertungsbetrag, der zum Zeitpunkt der letzten Neubewertung unter Bezugnahme auf den aktiven Markt ermittelt wurde, abzüglich aller nachfolgenden kumulierten planmäßigen Abschreibungen und aller nachfolgenden kumulierten Wertminderungsaufwendungen.
+
+83 Die Tatsache, dass ein aktiver Markt nicht länger für einen neu bewerteten immateriellen Vermögenswert besteht, kann darauf hindeuten, dass der Vermögenswert möglicherweise in seinem Wert gemindert ist und gemäß IAS 36 geprüft werden muss.
+
+84 Kann der beizulegende Zeitwert des Vermögenswerts zu einem nachfolgenden Bewertungsstichtag unter Bezugnahme auf einen aktiven Markt bestimmt werden, wird ab diesem Zeitpunkt das Neubewertungsmodell angewandt.
+
+85   Führt eine Neubewertung zu einer Erhöhung des Buchwerts eines immateriellen Vermögenswerts, ist die Wertsteigerung im sonstigen Ergebnis zu erfassen und im Eigenkapital im Posten Neubewertungsrücklage zu kumulieren. Allerdings wird die Wertsteigerung in dem Umfang erfolgswirksam erfasst, in dem sie eine in der Vergangenheit erfolgswirksam erfasste Abwertung desselben Vermögenswerts aufgrund einer Neubewertung aufholt.
+
+86   Führt eine Neubewertung zu einer Verringerung des Buchwerts eines immateriellen Vermögenswerts, ist die Wertminderung erfolgswirksam zu erfassen. Die Wertminderung ist jedoch im sonstigen Ergebnis zu erfassen, soweit sie ein Guthaben der Neubewertungsrücklage in Bezug auf diesen Vermögenswert nicht übersteigt. Durch die im sonstigen Ergebnis erfasste Wertminderung reduziert sich der Betrag, der im Eigenkapital im Posten Neubewertungsrücklage kumuliert wird.
+
+87 Die im Eigenkapital eingestellte kumulative Neubewertungsrücklage kann bei Realisierung direkt in die Gewinnrücklagen umgebucht werden. Die gesamte Rücklage kann bei Stilllegung oder Veräußerung des Vermögenswerts realisiert werden. Ein Teil der Rücklage kann jedoch realisiert werden, während der Vermögenswert vom Unternehmen genutzt wird; in solch einem Fall entspricht der realisierte Rücklagenbetrag der Differenz zwischen der planmäßigen Abschreibung auf Basis des neu bewerteten Buchwerts des Vermögenswerts und der planmäßigen Abschreibung, die auf Basis der historischen Anschaffungs- oder Herstellungskosten des Vermögenswerts erfasst worden wäre. Die Umbuchung von der Neubewertungsrücklage in die Gewinnrücklagen erfolgt nicht erfolgswirksam.
+
+NUTZUNGSDAUER
+
+88   Ein Unternehmen hat zu beurteilen, ob die Nutzungsdauer eines immateriellen Vermögenswerts begrenzt oder unbegrenzt ist, und, wenn die Nutzungsdauer begrenzt ist, die Laufzeit dieser Nutzungsdauer bzw. die Anzahl der Produktions- oder ähnlichen Einheiten, die diese Nutzungsdauer bilden, zu bestimmen. Ein immaterieller Vermögenswert ist von einem Unternehmen so anzusehen, als habe er eine unbegrenzte Nutzungsdauer, wenn es aufgrund einer Analyse aller relevanten Faktoren keine vorhersehbare Begrenzung der Periode gibt, in der der Vermögenswert voraussichtlich Nettomittelzuflüsse für das Unternehmen erzeugen wird.
+
+89 Die Bilanzierung eines immateriellen Vermögenswerts basiert auf seiner Nutzungsdauer. Ein immaterieller Vermögenswert mit begrenzter Nutzungsdauer wird planmäßig abgeschrieben (siehe Paragraphen 97–106), ein immaterieller Vermögenswert mit einer unbegrenzten Nutzungsdauer hingegen nicht (siehe Paragraphen 107–110). Die erläuternden Beispiele zu diesem Standard veranschaulichen die Ermittlung der Nutzungsdauer für verschiedene immaterielle Vermögenswerte und die daraus folgende Bilanzierung dieser Vermögenswerte, je nach ihrer ermittelten Nutzungsdauer.
+
+90 Bei der Ermittlung der Nutzungsdauer eines immateriellen Vermögenswerts werden viele Faktoren in Betracht gezogen, so auch
+a) 
+
+die voraussichtliche Nutzung des Vermögenswerts durch das Unternehmen und die Frage, ob der Vermögenswert unter einem anderen Management effizient eingesetzt werden könnte,
+b) 
+
+für den Vermögenswert typische Produktlebenszyklen und öffentliche Informationen über die geschätzte Nutzungsdauer von ähnlichen Vermögenswerten, die auf ähnliche Weise genutzt werden,
+c) 
+
+technische, technologische, kommerzielle oder andere Arten der Veralterung,
+d) 
+
+die Stabilität der Branche, in der der Vermögenswert zum Einsatz kommt, und Änderungen in der Gesamtnachfrage nach den Produkten oder Dienstleistungen, die mit dem Vermögenswert erzeugt werden,
+e) 
+
+voraussichtliche Handlungen seitens der Wettbewerber oder potenzieller Konkurrenten,
+f) 
+
+die Höhe der Erhaltungsausgaben, die zur Erzielung des erwarteten künftigen wirtschaftlichen Nutzens aus dem Vermögenswert erforderlich sind, sowie die Fähigkeit und Absicht des Unternehmens, dieses Niveau zu erreichen,
+g) 
+
+der Zeitraum der Verfügungsmacht über den Vermögenswert und rechtliche oder ähnliche Beschränkungen hinsichtlich der Nutzung des Vermögenswerts, wie beispielsweise das Auslaufen zugehöriger Leasingverhältnisse, und
+h) 
+
+die Frage, ob die Nutzungsdauer des Vermögenswerts von der Nutzungsdauer anderer Vermögenswerte des Unternehmens abhängt.
+
+91 Der Begriff „unbegrenzt“ hat nicht dieselbe Bedeutung wie „endlos“. Die Nutzungsdauer eines immateriellen Vermögenswerts spiegelt nur die Höhe der künftigen Erhaltungsausgaben wider, die zur Erhaltung des Vermögenswerts auf dem Niveau der Ertragskraft, die zum Zeitpunkt der Schätzung der Nutzungsdauer des Vermögenswerts festgestellt wurde, erforderlich sind, sowie die Fähigkeit und Absicht des Unternehmens, dieses Niveau zu erreichen. Eine Schlussfolgerung, dass die Nutzungsdauer eines immateriellen Vermögenswerts unbegrenzt ist, sollte nicht davon abhängen, dass die geplanten künftigen Ausgaben höher sind als diejenigen, die zur Erhaltung des Vermögenswerts auf diesem Niveau der Ertragskraft erforderlich sind.
+
+92 Angesichts der raschen technologischen Entwicklung sind Computersoftware und viele andere immaterielle Vermögenswerte technologischer Veralterung ausgesetzt. Daher wird ihre Nutzungsdauer oftmals kurz sein. Wird für die Zukunft mit einem Rückgang des Verkaufspreises eines mithilfe eines immateriellen Vermögenswerts erzeugten Produkts gerechnet, könnte dies ein Indikator dafür sein, dass sich der künftige wirtschaftliche Nutzen des Vermögenswerts aufgrund der für ihn erwarteten technischen oder gewerblichen Veralterung vermindert.
+
+93 Die Nutzungsdauer eines immateriellen Vermögenswerts kann sehr lang sein bzw. sogar unbegrenzt. Bei Ungewissheit ist es gerechtfertigt, die Nutzungsdauer eines immateriellen Vermögenswerts vorsichtig zu schätzen, allerdings rechtfertigt sie nicht die Wahl einer unrealistisch kurzen Nutzungsdauer.
+
+94   Die Nutzungsdauer eines immateriellen Vermögenswerts, der sich aus vertraglichen oder sonstigen Rechten ergibt, darf den Zeitraum der vertraglichen oder sonstigen Rechte nicht überschreiten, kann jedoch kürzer sein, je nachdem über welchen Zeitraum das Unternehmen diesen Vermögenswert voraussichtlich nutzt. Wenn die vertraglichen oder sonstigen Rechte für eine begrenzte Dauer mit der Möglichkeit der Verlängerung übertragen werden, darf die Nutzungsdauer des immateriellen Vermögenswerts den Verlängerungszeitraum/die Verlängerungszeiträume nur mit einschließen, wenn es Anhaltspunkte dafür gibt, dass eine Verlängerung durch das Unternehmen ohne erhebliche Kosten möglich ist. Die Nutzungsdauer eines zurückerworbenen Rechts, das bei einem Unternehmenszusammenschluss als immaterieller Vermögenswert angesetzt wird, ist der verbleibende in dem Vertrag, durch den dieses Recht zugestanden wurde, vereinbarte Zeitraum und darf keine Verlängerungszeiträume einschließen.
+
+95 Es kann sowohl wirtschaftliche als auch rechtliche Faktoren geben, die die Nutzungsdauer eines immateriellen Vermögenswerts beeinflussen. Wirtschaftliche Faktoren bestimmen den Zeitraum, über den ein künftiger wirtschaftlicher Nutzen dem Unternehmen erwächst. Rechtliche Faktoren können den Zeitraum begrenzen, in dem ein Unternehmen Verfügungsmacht über den Zugriff auf diesen Nutzen besitzt. Die Nutzungsdauer entspricht dem kürzeren der durch diese Faktoren bestimmten Zeiträume.
+
+96 Unter anderem die folgenden Faktoren deuten darauf hin, dass ein Unternehmen die vertraglichen oder sonstigen Rechte ohne erhebliche Kosten verlängern könnte:
+a) 
+
+es gibt Anhaltspunkte dafür, die möglicherweise auf Erfahrungen basieren, dass die vertraglichen oder sonstigen Rechte verlängert werden. Wenn die Verlängerung von der Zustimmung eines Dritten abhängt, gehört der Anhaltspunkt dafür, dass der Dritte seine Zustimmung geben wird, dazu;
+b) 
+
+es gibt Anhaltspunkte dafür, dass etwaige Voraussetzungen für eine Verlängerung erfüllt sind, sowie
+c) 
+
+die Verlängerungskosten sind für das Unternehmen unerheblich im Vergleich zu dem künftigen wirtschaftlichen Nutzen, der dem Unternehmen durch diese Verlängerung zufließen wird.
+
+Falls die Verlängerungskosten im Vergleich zu dem künftigen wirtschaftlichen Nutzen, der dem Unternehmen voraussichtlich durch diese Verlängerung zufließen wird, erheblich sind, stellen die Verlängerungskosten dem Wesen nach die Kosten für die Anschaffung eines neuen immateriellen Vermögenswerts zum Verlängerungszeitpunkt dar.
+
+IMMATERIELLE VERMÖGENSWERTE MIT BEGRENZTER NUTZUNGSDAUER
+
+Abschreibungszeitraum und Abschreibungsmethode
+
+97   Der Abschreibungsbetrag eines immateriellen Vermögenswerts mit begrenzter Nutzungsdauer ist planmäßig über seine Nutzungsdauer zu verteilen. Die planmäßige Abschreibung beginnt, sobald der Vermögenswert nutzungsbereit ist, d. h. wenn er sich an seinem Standort und in dem Zustand befindet, der erforderlich ist, damit er in der vom Management beabsichtigten Weise genutzt werden kann. Die planmäßige Abschreibung ist zu dem früheren der folgenden Zeitpunkte zu beenden: der Zeitpunkt, zu dem der Vermögenswert gemäß IFRS 5 als zur Veräußerung gehalten eingestuft (oder in eine als zur Veräußerung gehalten eingestufte Veräußerungsgruppe aufgenommen) wird, und der Zeitpunkt, zu dem er ausgebucht wird. Die verwendete Abschreibungsmethode hat dem erwarteten Verlauf des Verbrauchs des zukünftigen wirtschaftlichen Nutzens des Vermögenswerts durch das Unternehmen zu entsprechen. Kann dieser Verlauf nicht verlässlich ermittelt werden, ist die lineare Abschreibungsmethode anzuwenden. Die für jede Periode anfallenden planmäßigen Abschreibungen sind erfolgswirksam zu erfassen, es sei denn, dieser oder ein anderer Standard erlaubt oder verlangt, dass sie in den Buchwert eines anderen Vermögenswerts einzubeziehen sind.
+
+98 Für die systematische Verteilung des Abschreibungsbetrags eines Vermögenswerts über dessen Nutzungsdauer können verschiedene Abschreibungsmethoden herangezogen werden. Zu diesen Methoden zählen die lineare und die degressive sowie die leistungsabhängige planmäßige Abschreibung. Die anzuwendende Methode wird auf der Grundlage des erwarteten Verlaufs des Verbrauchs des künftigen wirtschaftlichen Nutzens dieses Vermögenswerts ausgewählt und von Periode zu Periode stetig angewandt, es sei denn, der erwartete Verlauf des Verbrauchs des künftigen wirtschaftlichen Nutzens ändert sich.
+
+98A Es besteht die widerlegbare Vermutung, dass eine Abschreibungsmethode, die sich auf die Umsatzerlöse aus einer Tätigkeit stützt, die die Verwendung eines immateriellen Vermögenswerts einschließt, als nicht sachgerecht zu betrachten ist. Umsatzerlöse aus einer Tätigkeit, die die Verwendung eines immateriellen Vermögenswerts einschließt, spiegeln in der Regel Faktoren wider, die nicht unmittelbar mit dem Verbrauch des wirtschaftlichen Nutzens dieses immateriellen Vermögenswerts in Verbindung stehen. So werden die Umsatzerlöse beispielsweise durch andere Inputfaktoren und Prozesse, durch die Absatzmenge und durch Veränderungen bei Absatzvolumen und -preisen beeinflusst. Die Preiskomponente der Umsatzerlöse kann durch Inflation beeinflusst werden, was sich nicht auf den Verbrauch eines Vermögenswerts auswirkt. Diese Vermutung kann nur widerlegt werden, wenn
+a) 
+
+der immaterielle Vermögenswert gemäß Paragraph 98C nach seinen Erlösen bemessen wird oder
+b) 
+
+nachgewiesen werden kann, dass eine starke Korrelation zwischen den Erlösen und dem Verbrauch des wirtschaftlichen Nutzens des immateriellen Vermögenswerts besteht.
+
+98B Bei der Wahl einer sachgerechten Abschreibungsmethode nach Paragraph 98 könnte das Unternehmen den für den immateriellen Vermögenswert maßgeblichen begrenzenden Faktor bestimmen. So könnte beispielsweise im einem Vertrag, der die Rechte des Unternehmens auf Nutzung eines immateriellen Vermögenswerts regelt, diese Nutzung auf eine im Voraus festgelegte Anzahl von Jahren (d. h. einen Zeitraum), auf eine bestimmte Stückzahl oder auf einen Gesamtbetrag der zu erzielenden Umsatzerlöse begrenzt sein. Für die Feststellung der sachgerechten Abschreibungsbasis könnte die Ermittlung eines solchen maßgeblichen begrenzenden Faktors als Ausgangspunkt dienen, doch kann auch eine andere Basis herangezogen werden, wenn diese den erwarteten Verlauf des Verbrauchs des wirtschaftlichen Nutzens genauer abbildet.
+
+98C In Fällen, in denen der für einen immateriellen Vermögenswert maßgebliche begrenzende Faktor die Erreichung einer Umsatzschwelle ist, können die zu erzielenden Umsatzerlöse eine angemessene Abschreibungsgrundlage darstellen. So könnte ein Unternehmen beispielsweise eine Konzession zur Exploration und Förderung von Gold aus einer Goldmine erwerben. Der Vertrag könnte vorsehen, dass er endet, wenn mit der Förderung Gesamtumsatzerlöse in bestimmter Höhe erzielt wurden (so könnte der Vertrag die Goldförderung aus der Mine so lange zugestehen, bis mit dem Verkauf des Goldes Gesamtumsatzerlöse von 2 Mrd. WE erzielt wurden), und weder eine zeitliche noch eine mengenmäßige Vorgabe enthalten. In einem anderen Beispiel könnte das Recht auf Betrieb einer mautpflichtigen Straße so lange bestehen, bis mit den Gebühreneinnahmen Gesamtumsatzerlöse in bestimmter Höhe erzielt wurden (so könnte der Vertrag den Betrieb der mautpflichtigen Strecke so lange zugestehen, bis die Gesamtgebühreneinnahmen 100 Mio. WE erreichen). In Fällen, in denen im Vertrag über die Nutzung des immateriellen Vermögenswerts die Umsatzerlöse als maßgeblicher begrenzender Faktor festgelegt sind, könnten die zu erzielenden Erlöse eine angemessene Grundlage für die planmäßige Abschreibung des immateriellen Vermögenswerts darstellen, sofern für die zu erzielenden Umsatzerlöse im Vertrag ein fester Gesamtbetrag vorgesehen ist, auf dessen Grundlage die Abschreibung zu bestimmen ist.
+
+99 Planmäßige Abschreibungen werden in der Regel erfolgswirksam erfasst. Manchmal fließt jedoch der künftige wirtschaftliche Nutzen eines Vermögenswerts in die Herstellung anderer Vermögenswerte ein. In diesem Fall stellt die planmäßige Abschreibung einen Teil der Herstellungskosten des anderen Vermögenswerts dar und wird in dessen Buchwert einbezogen. Beispielsweise wird die planmäßige Abschreibung auf immaterielle Vermögenswerte, die in einem Produktionsverfahren verwendet werden, in den Buchwert der Vorräte einbezogen (siehe IAS 2 Vorräte).
+
+Restwert
+
+100   Der Restwert eines immateriellen Vermögenswerts mit begrenzter Nutzugsdauer ist mit null anzusetzen, es sei denn, dass
+a) 
+
+eine Verpflichtung seitens einer dritten Partei besteht, den Vermögenswert am Ende seiner Nutzungsdauer zu erwerben, oder
+b) 
+
+ein aktiver Markt (gemäß Definition in IFRS 13) für den Vermögenswert besteht und
+i) 
+
+der Restwert unter Bezugnahme auf diesen Markt ermittelt werden kann und
+ii) 
+
+es wahrscheinlich ist, dass ein solcher Markt am Ende der Nutzungsdauer des Vermögenswerts bestehen wird.
+
+101 Der Abschreibungsbetrag eines Vermögenswerts mit begrenzter Nutzungsdauer wird nach Abzug seines Restwerts ermittelt. Ein anderer Restwert als null impliziert, dass ein Unternehmen von einer Veräußerung des immateriellen Vermögenswerts vor dem Ende seiner wirtschaftlichen Nutzungsdauer ausgeht.
+
+102 Eine Schätzung des Restwerts eines Vermögenswerts beruht auf dem bei Abgang erzielbaren Betrag unter Verwendung von Preisen, die zum Zeitpunkt der Schätzung für den Verkauf eines ähnlichen Vermögenswerts gelten, der das Ende seiner Nutzungsdauer erreicht hat und unter ähnlichen Bedingungen zum Einsatz kam wie der künftig einzusetzende Vermögenswert. Der Restwert wird mindestens am Ende jedes Geschäftsjahrs überprüft. Eine Änderung des Restwerts eines Vermögenswerts wird als Änderung einer Schätzung gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler bilanziert.
+
+103 Der Restwert eines Vermögenswerts kann bis zu einem Betrag ansteigen, der entweder dem Buchwert des Vermögenswerts entspricht oder ihn übersteigt. Wenn dies der Fall ist, ist die planmäßige Abschreibung des Vermögenswerts null, solange der Restwert anschließend nicht unter den Buchwert des Vermögenswerts gefallen ist.
+
+Überprüfung des Abschreibungszeitraums und der Abschreibungsmethode
+
+104   Der Abschreibungszeitraum und die Abschreibungsmethode sind für einen immateriellen Vermögenswert mit begrenzter Nutzungsdauer mindestens zum Ende jedes Geschäftsjahrs zu überprüfen. Unterscheidet sich die erwartete Nutzungsdauer des Vermögenswerts von vorangegangenen Schätzungen, ist der Abschreibungszeitraum entsprechend zu ändern. Hat sich der erwartete Verlauf des Verbrauchs des künftigen wirtschaftlichen Nutzens des Vermögenswerts geändert, ist die Abschreibungsmethode anzupassen, um dem veränderten Verlauf Rechnung zu tragen. Derartige Änderungen sind als Änderungen einer rechnungslegungsbezogenen Schätzung gemäß IAS 8 zu bilanzieren.
+
+105 Während der Lebensdauer eines immateriellen Vermögenswerts kann es sich zeigen, dass die Schätzung hinsichtlich seiner Nutzungsdauer nicht sachgerecht ist. Beispielsweise kann die Erfassung eines Wertminderungsaufwands darauf hindeuten, dass der Abschreibungszeitraum geändert werden muss.
+
+106 Der Verlauf des künftigen wirtschaftlichen Nutzens, der einem Unternehmen aus einem immateriellen Vermögenswert voraussichtlich zufließen wird, kann sich mit der Zeit ändern. Beispielsweise kann es sich zeigen, dass eine degressive Abschreibungsmethode geeigneter ist als eine lineare. Ein weiteres Beispiel besteht darin, dass sich die Nutzung der mit einer Lizenz verbundenen Rechte verzögert, bis in Bezug auf andere Bestandteile des Unternehmensplans Maßnahmen ergriffen worden sind. In diesem Fall kann der wirtschaftliche Nutzen aus dem Vermögenswert möglicherweise erst in späteren Perioden erzielt werden.
+
+IMMATERIELLE VERMÖGENSWERTE MIT UNBEGRENZTER NUTZUNGSDAUER
+
+107   Ein immaterieller Vermögenswert mit unbegrenzter Nutzungsdauer darf nicht planmäßig abgeschrieben werden.
+
+108 Nach IAS 36 ist ein Unternehmen verpflichtet, einen immateriellen Vermögenswert mit unbegrenzter Nutzungsdauer auf Wertminderung zu überprüfen, indem es seinen erzielbaren Betrag
+a) 
+
+jährlich und
+b) 
+
+wann immer es einen Anhaltspunkt dafür gibt, dass der immaterielle Vermögenswert wertgemindert sein könnte, mit seinem Buchwert vergleicht.
+
+Überprüfung der Einschätzung der Nutzungsdauer
+
+109   Die Nutzungsdauer eines immateriellen Vermögenswerts, der nicht planmäßig abgeschrieben wird, ist in jeder Periode zu überprüfen, um zu ermitteln, ob für diesen Vermögenswert die Ereignisse und Umstände weiterhin die Einschätzung einer unbegrenzten Nutzungsdauer rechtfertigen. Ist dies nicht der Fall, ist die Änderung der Einschätzung der Nutzungsdauer von unbegrenzt auf begrenzt als Änderung einer rechnungslegungsbezogenen Schätzung gemäß IAS 8 zu bilanzieren.
+
+110 Gemäß IAS 36 ist die Neueinschätzung der Nutzungsdauer eines immateriellen Vermögenswerts als begrenzt und nicht mehr als unbegrenzt ein Hinweis darauf, dass dieser Vermögenswert wertgemindert sein könnte. Demzufolge prüft das Unternehmen den Vermögenswert auf Wertminderung, indem es seinen erzielbaren Betrag, ermittelt gemäß IAS 36, mit seinem Buchwert vergleicht und jeden Überschuss des Buchwerts über den erzielbaren Betrag als Wertminderungsaufwand erfasst.
+
+ERZIELBARKEIT DES BUCHWERTS — WERTMINDERUNGSAUFWAND
+
+111 Um zu beurteilen, ob ein immaterieller Vermögenswert in seinem Wert gemindert ist, wendet ein Unternehmen IAS 36 an. Dieser Standard erklärt, wann und wie ein Unternehmen den Buchwert seiner Vermögenswerte überprüft, wie es den erzielbaren Betrag eines Vermögenswerts ermittelt und wann es einen Wertminderungsaufwand erfasst oder aufholt.
+
+STILLLEGUNGEN UND ABGÄNGE
+
+112   Ein immaterieller Vermögenswert ist auszubuchen
+a) 
+
+bei Abgang oder
+b) 
+
+wenn kein künftiger wirtschaftlicher Nutzen aus seiner Nutzung oder seinem Abgang zu erwarten ist.
+
+113   Der aus der Ausbuchung eines immateriellen Vermögenswerts resultierende Gewinn oder Verlust entspricht der Differenz zwischen dem eventuellen Nettoveräußerungserlös und dem Buchwert des Vermögenswerts. Diese Differenz ist bei Ausbuchung des Vermögenswerts erfolgswirksam zu erfassen (sofern IFRS 16 bei Sale-and-Leaseback-Transaktionen nichts anderes vorschreibt). Gewinne sind nicht als Umsatzerlöse auszuweisen.
+
+114 Der Abgang eines immateriellen Vermögenswerts kann auf verschiedene Arten erfolgen (z. B. Verkauf, Eintritt in ein Finanzierungsleasingverhältnis oder Schenkung). Als Abgangsdatum eines immateriellen Vermögenswerts gilt das Datum, an dem der Empfänger – gemäß den Vorschriften über die Erfüllung der Leistungsverpflichtung in IFRS 15 – die Verfügungsmacht über den Vermögenswert erlangt. IFRS 16 ist auf Abgänge durch Sale-and-Leaseback-Transaktionen anzuwenden.
+
+115 Wenn ein Unternehmen nach dem Ansatzgrundsatz in Paragraph 21 im Buchwert eines Vermögenswerts die Anschaffungs- oder Herstellungskosten für den Ersatz eines Teils des immateriellen Vermögenswerts erfasst, dann bucht es den Buchwert des ersetzten Teils aus. Wenn es dem Unternehmen nicht möglich ist, den Buchwert des ersetzten Teils zu ermitteln, kann es die Anschaffungs- oder Herstellungskosten für den Ersatz als Hinweis für die Anschaffungs- oder Herstellungskosten des ersetzten Teils zum Zeitpunkt seines Erwerbs oder seiner Herstellung nehmen.
+
+115A Wird ein bei einem Unternehmenszusammenschluss zurückerworbenes Recht zu einem späteren Zeitpunkt an einen Dritten weitergegeben (verkauft), ist der dazugehörige Buchwert, sofern vorhanden, zu verwenden, um den Gewinn bzw. Verlust aus der Weitergabe zu bestimmen.
+
+116 Die Höhe der im Falle der Ausbuchung eines immateriellen Vermögenswerts erfolgswirksam zu erfassenden Gegenleistung ergibt sich aus den Vorschriften über die Bestimmung des Transaktionspreises in IFRS 15 Paragraphen 47 bis 72. Spätere Änderungen des erfolgswirksam erfassten geschätzten Gegenleistungsbetrags werden gemäß den Vorschriften über Änderungen des Transaktionspreises in IFRS 15 erfasst.
+
+117 Die planmäßige Abschreibung eines immateriellen Vermögenswerts mit begrenzter Nutzungsdauer endet nicht, wenn der immaterielle Vermögenswert nicht mehr genutzt wird, sofern der Vermögenswert nicht voll abgeschrieben ist oder gemäß IFRS 5 als zur Veräußerung gehalten eingestuft wird (oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehört).
+
+ANGABEN
+
+Allgemeines
+
+118   Ein Unternehmen hat für jede Gruppe immaterieller Vermögenswerte folgende Angaben zu machen, wobei zwischen selbst geschaffenen immateriellen Vermögenswerten und sonstigen immateriellen Vermögenswerten zu unterscheiden ist:
+a) 
+
+ob die Nutzungsdauern unbegrenzt oder begrenzt sind, und wenn die Nutzungsdauer begrenzt ist, die zugrunde gelegten Nutzungsdauern oder die angewandten Abschreibungssätze,
+b) 
+
+die für immaterielle Vermögenswerte mit begrenzter Nutzungsdauer verwendeten Abschreibungsmethoden,
+c) 
+
+der Bruttobuchwert und die kumulierten planmäßigen Abschreibungen (zusammengefasst mit den kumulierten Wertminderungsaufwendungen) zu Beginn und zum Ende der Periode,
+d) 
+
+der/die Posten der Gesamtergebnisrechnung, in dem/denen die planmäßigen Abschreibungen immaterieller Vermögenswerte enthalten sind,
+e) 
+
+eine Überleitung des Buchwerts zu Beginn und zum Ende der Periode unter gesonderter Angabe der
+i) 
+
+Zugänge, wobei solche aus unternehmensinterner Entwicklung, solche aus gesondertem Erwerb und solche aus Unternehmenszusammenschlüssen separat zu bezeichnen sind,
+ii) 
+
+Vermögenswerte, die gemäß IFRS 5 als zur Veräußerung gehalten eingestuft werden oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehören, und anderer Abgänge,
+iii) 
+
+Wertsteigerungen oder Wertminderungen während der Periode aufgrund von Neubewertungen gemäß den Paragraphen 75, 85 und 86 und von im sonstigen Ergebnis erfassten oder aufgeholten Wertminderungsaufwendungen gemäß IAS 36 (falls vorhanden),
+iv) 
+
+Wertminderungsaufwendungen, die während der Periode erfolgswirksam gemäß IAS 36 erfasst wurden (falls vorhanden),
+v) 
+
+Wertminderungsaufwendungen, die während der Periode erfolgswirksam gemäß IAS 36 aufgeholt wurden (falls vorhanden),
+vi) 
+
+planmäßigen Abschreibungen, die während der Periode erfasst wurden,
+vii) 
+
+Nettoumrechnungsdifferenzen aufgrund der Umrechnung des Abschlusses in die Darstellungswährung und der Umrechnung einer ausländischen Betriebsstätte in die Darstellungswährung des Unternehmens und
+viii) 
+
+sonstigen Buchwertänderungen während der Periode.
+
+119 Eine Gruppe immaterieller Vermögenswerte ist eine Zusammenfassung von Vermögenswerten, die hinsichtlich ihrer Art und Verwendung innerhalb der Geschäftstätigkeit eines Unternehmens ähnlich sind. Beispiele für separate Gruppen können sein:
+a) 
+
+Markennamen,
+b) 
+
+Drucktitel und Verlagsrechte,
+c) 
+
+Computersoftware,
+d) 
+
+Lizenzen und Franchiseverträge,
+e) 
+
+Urheberrechte, Patente und sonstige gewerbliche Schutzrechte, Nutzungs- und Betriebskonzessionen,
+f) 
+
+Rezepturen, Modelle, Entwürfe und Prototypen und
+g) 
+
+immaterielle Vermögenswerte in Entwicklung.
+
+Die oben bezeichneten Gruppen werden in kleinere (größere) Gruppen aufgegliedert (zusammengefasst), wenn den Abschlussadressaten dadurch relevantere Informationen zur Verfügung gestellt werden.
+
+120 Zusätzlich zu den in Paragraph 118 (e)(iii)–(v) verlangten Informationen macht ein Unternehmen nach IAS 36 Angaben über im Wert geminderte immaterielle Vermögenswerte.
+
+121 IAS 8 verlangt von einem Unternehmen die Angabe der Art und des Betrags einer Änderung in einer rechnungslegungsbezogenen Schätzung, die entweder eine wesentliche Auswirkung auf die aktuelle Berichtsperiode hat oder von der angenommen wird, dass sie eine wesentliche Auswirkung auf spätere Perioden haben wird. Derartige Angaben resultieren möglicherweise aus Änderungen in Bezug auf
+a) 
+
+die Einschätzung der Nutzungsdauer eines immateriellen Vermögenswerts,
+b) 
+
+die Abschreibungsmethode oder
+c) 
+
+Restwerte.
+
+122   Darüber hinaus hat ein Unternehmen Folgendes anzugeben:
+a) 
+
+für einen immateriellen Vermögenswert, dessen Nutzungsdauer als unbegrenzt eingeschätzt wurde, den Buchwert dieses Vermögenswerts und die Gründe für die Einschätzung seiner Nutzungsdauer als unbegrenzt. Im Rahmen der Begründung hat das Unternehmen den Faktor/die Faktoren zu beschreiben, der/die bei der Feststellung der unbegrenzten Nutzungsdauer des Vermögenswerts eine wesentliche Rolle spielte/spielten;
+b) 
+
+eine Beschreibung, den Buchwert und den verbleibenden Abschreibungszeitraum eines jeden einzelnen immateriellen Vermögenswerts, der für den Abschluss des Unternehmens von wesentlicher Bedeutung ist;
+c) 
+
+für immaterielle Vermögenswerte, die durch eine Zuwendung der öffentlichen Hand erworben und zunächst mit dem beizulegenden Zeitwert angesetzt wurden (siehe Paragraph 44):
+i) 
+
+den beizulegenden Zeitwert, der für diese Vermögenswerte zunächst angesetzt wurde,
+ii) 
+
+ihren Buchwert und
+iii) 
+
+ob sie in der Folgebewertung nach dem Anschaffungskostenmodell oder nach dem Neubewertungsmodell bewertet werden;
+d) 
+
+das Vorhandensein Bestehen und die Buchwerte immaterieller Vermögenswerte, mit denen ein beschränktes Eigentumsrecht verbunden ist, und die Buchwerte immaterieller Vermögenswerte, die als Sicherheit für Schulden verpfändet sind
+e) 
+
+den Betrag für vertragliche Verpflichtungen für den Erwerb immaterieller Vermögenswerte.
+
+123 Wenn ein Unternehmen den Faktor/die Faktoren beschreibt, der/die bei der Feststellung, dass die Nutzungsdauer eines immateriellen Vermögenswerts unbegrenzt ist, eine wesentliche Rolle spielte/spielten, berücksichtigt das Unternehmen die in Paragraph 90 aufgeführten Faktoren.
+
+Folgebewertung von immateriellen Vermögenswerten nach dem Neubewertungsmodell
+
+124   Werden immaterielle Vermögenswerte zu ihrem Neubewertungsbetrag bilanziert, hat das Unternehmen folgende Angaben zu machen:
+a) 
+
+für jede Gruppe immaterieller Vermögenswerte:
+i) 
+
+den Stichtag der Neubewertung,
+ii) 
+
+den Buchwert der neu bewerteten immateriellen Vermögenswerte und
+iii) 
+
+den Buchwert, der angesetzt worden wäre, wenn die neu bewertete Gruppe von immateriellen Vermögenswerten in der Folgebewertung nach dem Anschaffungskostenmodell in Paragraph 74 bewertet worden wäre, und
+b) 
+
+den Betrag der sich auf immaterielle Vermögenswerte beziehenden Neubewertungsrücklage zu Beginn und zum Ende der Periode unter Angabe der Änderungen während der Periode und jeglicher Ausschüttungsbeschränkungen an die Anteilseigner.
+c) 
+
+[gestrichen]
+
+125 Für Angabezwecke kann es erforderlich sein, die Gruppen neu bewerteter Vermögenswerte in größere Gruppen zusammenzufassen. Gruppen werden jedoch nicht zusammengefasst, wenn dies zu einer Kombination einer Gruppe von immateriellen Vermögenswerten führen würde, die sowohl nach dem Anschaffungskostenmodell als auch nach dem Neubewertungsmodell bewertete Beträge enthält.
+
+Forschungs- und Entwicklungsausgaben
+
+126   Ein Unternehmen hat die Summe der Ausgaben für Forschung und Entwicklung anzugeben, die während der Periode als Aufwand erfasst wurden.
+
+127 Forschungs- und Entwicklungsausgaben umfassen sämtliche Ausgaben, die Forschungs- oder Entwicklungsaktivitäten einzeln zugeordnet werden können (siehe die Paragraphen 66 und 67 als Orientierungshilfe für die Arten von Ausgaben, die im Rahmen der Angabevorschrift in Paragraph 126 einzubeziehen sind).
+
+Sonstige Informationen
+
+128 Einem Unternehmen wird empfohlen, aber nicht vorgeschrieben, die folgenden Informationen anzugeben:
+a) 
+
+eine Beschreibung jedes voll abgeschriebenen, aber noch genutzten immateriellen Vermögenswerts und
+b) 
+
+eine kurze Beschreibung wesentlicher immaterieller Vermögenswerte, die in der Verfügungsmacht des Unternehmens stehen, jedoch nicht als Vermögenswerte angesetzt sind, da sie die Ansatzkriterien in diesem Standard nicht erfüllten oder weil sie vor Inkrafttreten der im Jahr 1998 veröffentlichten Fassung von IAS 38 Immaterielle Vermögenswerte erworben oder geschaffen wurden.
+
+ÜBERGANGSVORSCHRIFTEN UND ZEITPUNKT DES INKRAFTTRETENS
+
+129 [gestrichen]
+
+130 Ein Unternehmen hat diesen Standard anzuwenden
+a) 
+
+bei der Bilanzierung immaterieller Vermögenswerte, die bei einem Unternehmenszusammenschluss erworben wurden, bei dem das Datum des Vertragsabschlusses der 31. März 2004 oder ein späteres Datum ist, und
+b) 
+
+prospektiv bei der Bilanzierung aller anderen immateriellen Vermögenswerte in Jahresabschlüssen eines am oder nach dem 31. März 2004 beginnenden Geschäftsjahrs. Das Unternehmen hat somit den zu dem Zeitpunkt angesetzten Buchwert der immateriellen Vermögenswerte nicht anzupassen. Zu diesem Zeitpunkt hat das Unternehmen jedoch diesen Standard zur Neueinschätzung der Nutzungsdauer solcher immateriellen Vermögenswerte anzuwenden. Falls infolge dieser Neueinschätzung das Unternehmen seine Einschätzung der Nutzungsdauer eines Vermögenswerts ändert, ist diese Änderung gemäß IAS 8 als eine Änderung einer Schätzung zu bilanzieren.
+
+130A Die Änderungen in Paragraph 2 sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2006 beginnen. Wendet ein Unternehmen IFRS 6 auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+130B Infolge von IAS 1 Darstellung des Abschlusses (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 85, 86 und 118(e)(iii) geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, sind auf diese Periode auch diese Änderungen anzuwenden.
+
+130C Durch IFRS 3 (in der 2008 überarbeiteten Fassung) wurden die Paragraphen 12, 33–35, 68, 69, 94 und 130 geändert, die Paragraphen 38 und 129 gestrichen sowie Paragraph 115A eingefügt. Durch die Verbesserungen der IFRS, veröffentlicht im April 2009, wurden die Paragraphen 36 und 37 geändert. Diese Änderungen sind prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Für immaterielle Vermögenswerte und den Geschäfts- oder Firmenwert bei früheren Unternehmenszusammenschlüssen angesetzte Beträge sind daher nicht anzupassen. Wendet ein Unternehmen IFRS 3 (überarbeitet 2008) auf eine frühere Periode an, so hat es dies anzugeben und auf diese Periode auch diese Änderungen anzuwenden.
+
+130D Durch die Verbesserungen der IFRS, veröffentlicht im Mai 2008 wurden die Paragraphen 69, 70 und 98 geändert und Paragraph 69A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+130E [gestrichen]
+
+130F Durch IFRS 10 und IFRS 11 Gemeinschaftliche Vereinbarungen, veröffentlicht im Mai 2011, wurde Paragraph 3(e) geändert. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, ist diese Änderung ebenfalls anzuwenden.
+
+130G Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Paragraphen 8, 33, 47, 50, 75, 78, 82, 84, 100 und 124 geändert und die Paragraphen 39–41 sowie 130E gestrichen. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+130H Durch die Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2010–2012, veröffentlicht im Dezember 2013, wurde Paragraph 80 geändert. Ein Unternehmen hat diese Änderung auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+130I Ein Unternehmen hat die durch die Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2010–2012, vorgenommene Änderung auf alle Neubewertungen anzuwenden, die in Geschäftsjahren erfasst werden, die zu oder nach dem Zeitpunkt der erstmaligen Anwendung dieser Änderung beginnen, sowie im unmittelbar vorangehenden Geschäftsjahr erfasst werden. Ein Unternehmen kann auch für jegliche früher dargestellte Geschäftsjahre angepasste Vergleichsangaben vorlegen, ist hierzu aber nicht verpflichtet. Stellt ein Unternehmen für frühere Perioden keine angepassten Vergleichsinformationen dar, hat es die nicht angepassten Informationen klar zu kennzeichnen; außerdem hat es darauf hinzuweisen, dass diese Informationen auf einer anderen Grundlage beruhen, und diese Grundlage zu erläutern.
+
+130J Mit der im Mai 2014 veröffentlichten Klarstellung akzeptabler Abschreibungsmethoden (Änderungen an IAS 16 und IAS 38) wurden die Paragraphen 92 und 98 geändert und die Paragraphen 98A–98C eingefügt. Diese Änderungen sind prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+130K Mit dem im Mai 2014 veröffentlichten IFRS 15 Erlöse aus Verträgen mit Kunden wurden die Paragraphen 3, 114 und 116 geändert. Wendet ein Unternehmen IFRS 15 an, sind diese Änderungen ebenfalls anzuwenden.
+
+130L Durch IFRS 16, veröffentlicht im Januar 2016, wurden die Paragraphen 3, 6, 113 und 114 geändert. Wendet ein Unternehmen IFRS 16 an, sind diese Änderungen ebenfalls anzuwenden.
+
+130M Durch IFRS 17, veröffentlicht im Mai 2017, wurde Paragraph 3 geändert. Mit der im Juni 2020 veröffentlichten Verlautbarung Änderungen an IFRS 17, wurde Paragraph 3 geändert. Wendet ein Unternehmen IFRS 17 an, sind diese Änderungen ebenfalls anzuwenden.
+
+Tausch von ähnlichen Vermögenswerten
+
+131 Die Vorschrift in den Paragraphen 129 und 130(b), diesen Standard prospektiv anzuwenden, bedeutet, dass bei der Bewertung eines Tauschs von Vermögenswerten vor Inkrafttreten dieses Standards auf der Grundlage des Buchwerts des hingegebenen Vermögenswerts das Unternehmen den Buchwert des erworbenen Vermögenswerts nicht anpasst, um den beizulegenden Zeitwert zum Erwerbszeitpunkt widerzuspiegeln.
+
+Frühzeitige Anwendung
+
+132 Unternehmen, auf die der Paragraph 130 anwendbar ist, wird empfohlen, diesen Standard vor dem in Paragraph 130 spezifizierten Zeitpunkt des Inkrafttretens anzuwenden. Wendet ein Unternehmen diesen Standard vor dem Zeitpunkt des Inkrafttretens an, hat es gleichzeitig IFRS 3 und IAS 36 (in der 2004 überarbeiteten Fassung) anzuwenden.
+
+RÜCKNAHME VON IAS 38 (VERÖFFENTLICHT 1998)
+
+133 Der vorliegende Standard ersetzt IAS 38 Immaterielle Vermögenswerte (veröffentlicht 1998).

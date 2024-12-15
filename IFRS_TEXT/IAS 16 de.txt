@@ -1,0 +1,570 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 16
+
+Sachanlagen
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses Standards ist es, die Bilanzierungsmethoden für Sachanlagen vorzuschreiben, damit Abschlussadressaten Informationen über Investitionen eines Unternehmens in Sachanlagen und Änderungen solcher Investitionen erkennen können. Die grundsätzlichen Fragen zur Bilanzierung von Sachanlagen betreffen den Ansatz der Vermögenswerte, die Bestimmung ihrer Buchwerte und der im Zusammenhang mit ihnen zu erfassenden Abschreibungs- und Wertminderungsaufwendungen.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist auf die Bilanzierung von Sachanlagen anzuwenden, es sei denn, dass ein anderer Standard eine andere Bilanzierungsmethode erfordert oder zulässt.
+
+3 Dieser Standard ist nicht anwendbar auf:
+a) 
+
+Sachanlagen, die gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche als zur Veräußerung gehalten eingestuft werden.
+b) 
+
+biologische Vermögenswerte, die mit landwirtschaftlicher Tätigkeit im Zusammenhang stehen; eine Ausnahme bilden fruchttragende Pflanzen (siehe IAS 41 Landwirtschaft). Dieser Standard ist auf fruchttragende Pflanzen, nicht jedoch auf deren Erzeugnisse anwendbar.
+c) 
+
+den Ansatz und die Bewertung von Vermögenswerten aus Exploration und Evaluierung (siehe IFRS 6 Exploration und Evaluierung von Bodenschätzen).
+d) 
+
+Abbau- und Schürfrechte sowie Bodenschätze wie Öl, Erdgas und ähnliche nicht-regenerative Ressourcen.
+
+Er gilt jedoch für Sachanlagen, die verwendet werden, um die unter b) bis d) beschriebenen Vermögenswerte zu entwickeln oder instand zu halten.
+
+4 [gestrichen]
+
+5 Ein Unternehmen, das für als Finanzinvestition gehaltene Immobilien das Anschaffungskostenmodel gemäß IAS 40 Als Finanzinvestition gehaltene Immobilien anwendet, hat für eigene als Finanzinvestition gehaltene Immobilien das Anschaffungskostenmodell dieses Standards anzuwenden.
+
+DEFINITIONEN
+
+6   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+
+Eine fruchttragende Pflanze ist eine lebende Pflanze, die
+a) 
+
+zur Herstellung oder Lieferung landwirtschaftlicher Erzeugnisse verwendet wird,
+b) 
+
+den Erwartungen zufolge mehr als eine Periode Frucht tragen wird und
+c) 
+
+mit Ausnahme des Verkaufs nach Ende der Nutzbarkeit nur mit sehr geringer Wahrscheinlichkeit als landwirtschaftliches Erzeugnis verkauft wird.
+
+(In den Paragraphen 5A–5B von IAS 41 wird diese Definition einer fruchttragenden Pflanze weiter ausgeführt.)
+
+Der Buchwert ist der Betrag, mit dem ein Vermögenswert nach Abzug aller kumulierten planmäßigen Abschreibungen und kumulierten Wertminderungsaufwendungen erfasst wird.
+
+Anschaffungs- oder Herstellungskosten sind der zum Erwerb oder zur Herstellung eines Vermögenswerts entrichtete Betrag an Zahlungsmitteln oder Zahlungsmitteläquivalenten oder der beizulegende Zeitwert einer anderen Entgeltform zum Zeitpunkt des Erwerbs oder der Herstellung oder, falls zutreffend, der Betrag, der diesem Vermögenswert beim erstmaligen Ansatz gemäß den besonderen Bestimmungen anderer IFRS, wie beispielsweise IFRS 2 Anteilsbasierte Vergütung, beigelegt wird.
+
+Der Abschreibungsbetrag ist die Differenz zwischen den Anschaffungs- oder Herstellungskosten eines Vermögenswerts oder eines Ersatzbetrags und dem Restwert.
+
+Planmäßige Abschreibung ist die systematische Verteilung des Abschreibungsbetrags eines Vermögenswerts über dessen Nutzungsdauer.
+
+Der unternehmensspezifische Wert ist der Barwert der Zahlungsströme, von denen ein Unternehmen erwartet, dass sie aus der fortgesetzten Nutzung eines Vermögenswerts und seinem Abgang am Ende seiner Nutzungsdauer oder bei Begleichung einer Schuld entstehen.
+
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+
+Ein Wertminderungsaufwand ist der Betrag, um den der Buchwert eines Vermögenswerts seinen erzielbaren Betrag übersteigt.
+
+Sachanlagen umfassen materielle Vermögenswerte,
+a) 
+
+die für Zwecke der Herstellung oder der Lieferung von Gütern und Dienstleistungen, zur Vermietung an Dritte oder für Verwaltungszwecke gehalten werden, und
+b) 
+
+die den Erwartungen zufolge länger als eine Periode genutzt werden.
+
+Der erzielbare Betrag ist der höhere der beiden Beträge aus beizulegendem Zeitwert eines Vermögenswerts abzüglich Veräußerungskosten und Nutzungswert.
+
+Der Restwert eines Vermögenswerts ist der geschätzte Betrag, den ein Unternehmen derzeit bei Abgang des Vermögenswerts nach Abzug der bei Abgang voraussichtlich anfallenden Ausgaben erhalten würde, wenn der Vermögenswert alters- und zustandsmäßig schon am Ende seiner Nutzungsdauer angelangt wäre.
+
+Die Nutzungsdauer ist
+a) 
+
+der Zeitraum, über den ein Vermögenswert voraussichtlich von einem Unternehmen nutzbar ist, oder
+b) 
+
+die voraussichtlich durch den Vermögenswert im Unternehmen zu erzielende Anzahl an Produktionseinheiten oder ähnlichen Maßgrößen.
+
+ANSATZ
+
+7   Die Anschaffungs- oder Herstellungskosten einer Sachanlage sind nur dann als Vermögenswert anzusetzen, wenn
+a) 
+
+es wahrscheinlich ist, dass ein mit der Sachanlage verbundener künftiger wirtschaftlicher Nutzen dem Unternehmen zufließen wird, und wenn
+b) 
+
+die Anschaffungs- oder Herstellungskosten der Sachanlage verlässlich ermittelt werden können.
+
+8 Posten wie Ersatzteile, Bereitschaftsausrüstungen und Wartungsgeräte werden gemäß diesem IFRS angesetzt, wenn sie die Definition des Begriffs „Sachanlage“ erfüllen. Ansonsten werden diese Posten als Vorräte behandelt.
+
+9 Dieser Standard schreibt für den Ansatz keine Maßeinheit hinsichtlich einer Sachanlage vor. Demzufolge ist bei der Anwendung der Ansatzkriterien auf die unternehmensspezifischen Gegebenheiten eine Ermessensausübung erforderlich. Es kann angemessen sein, einzelne unbedeutende Gegenstände, wie Press-, Gussformen und Werkzeuge, zusammenzufassen und die Kriterien auf den zusammengefassten Wert anzuwenden.
+
+10 Ein Unternehmen bewertet alle Kosten für Sachanlagen nach diesem Ansatzgrundsatz zu dem Zeitpunkt, an dem sie anfallen. Hierzu zählen die anfänglich für den Erwerb oder die Herstellung der Sachanlage angefallenen Kosten sowie die späteren Kosten für ihren Ausbau, ihre teilweise Ersetzung oder ihre Instandhaltung. Zu den Anschaffungs- oder Herstellungskosten für eine Sachanlage können auch Kosten zählen, die im Zusammenhang mit der Anmietung von Vermögenswerten anfallen, die für den Bau, den Ausbau, die teilweise Ersetzung oder die Instandhaltung der Sachanlage verwendet werden, wie die planmäßige Abschreibung von Nutzungsrechten.
+
+Erstmalige Anschaffungs- oder Herstellungskosten
+
+11 Sachanlagen können aus Gründen der Sicherheit oder des Umweltschutzes erworben werden. Der Erwerb solcher Gegenstände steigert zwar nicht direkt den künftigen wirtschaftlichen Nutzen einer bereits vorhandenen Sachanlage, er kann aber notwendig sein, um den künftigen wirtschaftlichen Nutzen aus den anderen Vermögenswerten des Unternehmens zu gewinnen. Solche Sachanlagen können als Vermögenswerte angesetzt werden, da sie es einem Unternehmen ermöglichen, künftig einen höheren wirtschaftlichen Nutzen aus den verbundenen Vermögenswerten zu ziehen, als es ohne den Erwerb möglich gewesen wäre. So kann beispielsweise ein Chemieunternehmen bestimmte neue chemische Bearbeitungsverfahren einrichten, um die Umweltschutzvorschriften für die Herstellung und Lagerung gefährlicher chemischer Stoffe zu erfüllen. Damit verbundene Betriebsverbesserungen werden als Vermögenswert angesetzt, da das Unternehmen ohne sie keine Chemikalien herstellen und verkaufen kann. Der aus solchen Vermögenswerten und damit verbundenen Vermögenswerten entstehende Buchwert wird jedoch auf Wertminderung gemäß IAS 36 Wertminderung von Vermögenswerten überprüft.
+
+Nachträgliche Anschaffungs- oder Herstellungskosten
+
+12 Nach den Ansatzkriterien in Paragraph 7 erfasst ein Unternehmen die laufenden Wartungskosten für eine Sachanlage nicht in ihrem Buchwert. Diese Kosten werden sofort erfolgswirksam erfasst. Kosten für die laufende Wartung setzen sich vor allem aus Kosten für Lohn und Verbrauchsgüter zusammen und können auch Kosten für Kleinteile beinhalten. Der Zweck dieser Aufwendungen wird häufig als „Reparaturen und Instandhaltungen“ der Sachanlagen beschrieben.
+
+13 Teile einiger Sachanlagen bedürfen in regelmäßigen Zeitabständen gegebenenfalls eines Ersatzes. Das gilt beispielsweise für einen Hochofen, der nach einer bestimmten Gebrauchszeit auszufüttern ist, oder für Flugzeugteile wie Sitze und Bordküchen, die über die Lebensdauer des Flugzeuges mehrfach ausgetauscht werden. Sachanlagen können auch erworben werden, um einen nicht so häufig wiederkehrenden Ersatz vorzunehmen, wie den Ersatz der Innenwände eines Gebäudes, oder um einen einmaligen Ersatz vorzunehmen. Nach dem Ansatzgrundsatz in Paragraph 7 erfasst ein Unternehmen im Buchwert einer Sachanlage die Anschaffungs- oder Herstellungskosten für den Ersatz eines Teils eines solchen Gegenstands zum Zeitpunkt des Anfalls der Kosten, wenn die Ansatzkriterien erfüllt sind. Der Buchwert jener Teile, die ersetzt wurden, wird gemäß den Ausbuchungsbestimmungen dieses Standards ausgebucht (siehe Paragraph 67–72).
+
+14 Eine Voraussetzung für die Fortführung des Betriebs einer Sachanlage (z. B. eines Flugzeugs) kann die Durchführung regelmäßiger größerer Wartungen sein, ungeachtet dessen, ob Teile ersetzt werden. Bei Durchführung jeder größeren Wartung werden die Kosten im Buchwert der Sachanlage als Ersatz erfasst, wenn die Ansatzkriterien erfüllt sind. Jeder verbleibende Buchwert der Kosten für die vorhergehende Wartung (im Unterschied zu physischen Teilen) wird ausgebucht. Dies erfolgt ungeachtet dessen, ob die Kosten der vorhergehenden Wartung der Transaktion zugeordnet wurden, bei der die Sachanlage erworben oder hergestellt wurde. Falls erforderlich, können die geschätzten Kosten einer zukünftigen ähnlichen Wartung als Anhaltspunkt für die Kosten verwendet werden, die zum Zeitpunkt des Erwerbs oder der Herstellung der Sachanlage für den jetzigen Wartungsbestandteil angefallen sind.
+
+BEWERTUNG BEI ERSTMALIGEM ANSATZ
+
+15   Eine Sachanlage, die als Vermögenswert anzusetzen ist, ist bei erstmaligem Ansatz mit ihren Anschaffungs- oder Herstellungskosten zu bewerten.
+
+Bestandteile der Anschaffungs- oder Herstellungskosten
+
+16 Die Anschaffungs- oder Herstellungskosten einer Sachanlage umfassen
+a) 
+
+den Erwerbspreis einschließlich Einfuhrzölle und nicht erstattungsfähiger Umsatzsteuern nach Abzug von Rabatten, Boni und Skonti,
+b) 
+
+alle einzeln zuordenbaren Kosten, die anfallen, um den Vermögenswert zu seinem Standort und in den Zustand zu bringen, der erforderlich ist, damit er in der vom Management beabsichtigten Weise genutzt werden kann,
+c) 
+
+die erstmalig geschätzten Kosten für den Abbruch und die Beseitigung des Gegenstands sowie für die Wiederherstellung des Standorts, an dem er sich befindet, aus der Verpflichtung, die ein Unternehmen entweder bei Erwerb des Gegenstands oder als Folge eingeht, wenn es ihn während einer bestimmten Periode zu anderen Zwecken als zur Herstellung von Vorräten benutzt hat.
+
+17 Beispiele für einzeln zuordenbare Kosten sind:
+a) 
+
+Kosten für Leistungen an Arbeitnehmer (wie in IAS 19 Leistungen an Arbeitnehmer definiert), die direkt aufgrund der Herstellung oder Anschaffung der Sachanlage anfallen,
+b) 
+
+Kosten der Standortvorbereitung,
+c) 
+
+Kosten der erstmaligen Lieferung und Verbringung,
+d) 
+
+Installations- und Montagekosten,
+e) 
+
+Kosten für Testläufe, mit denen überprüft wird, ob der Vermögenswert ordnungsgemäß funktioniert (d. h. es wird beurteilt, ob der Vermögenswert technisch und physisch so leistungsfähig ist, dass er für die Produktion oder für Lieferungen oder Leistungen, für Zwecke der Vermietung an Dritte oder für administrative Zwecke eingesetzt werden kann), und
+f) 
+
+Honorare.
+
+18 Ein Unternehmen wendet IAS 2 Vorräte an für die Kosten aus Verpflichtungen für den Abbruch, die Beseitigung und die Wiederherstellung des Standorts, an dem sich ein Gegenstand befindet, die während einer bestimmten Periode infolge der Nutzung des Gegenstands zur Herstellung von Vorräten in der besagten Periode eingegangen wurden. Die Verpflichtungen für Kosten, die gemäß IAS 2 oder IAS 16 bilanziert werden, werden gemäß IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen angesetzt und bewertet.
+
+19 Beispiele für Kosten, die nicht zu den Anschaffungs- oder Herstellungskosten von Sachanlagen gehören, sind
+a) 
+
+Kosten für die Eröffnung einer neuen Betriebsstätte,
+b) 
+
+Kosten für die Einführung eines neuen Produkts oder einer neuen Dienstleistung (einschließlich Kosten für Werbung und verkaufsfördernde Maßnahmen),
+c) 
+
+Kosten für Geschäftstätigkeiten an einem neuen Standort oder mit einer neuen Kundengruppe (einschließlich Schulungskosten) und
+d) 
+
+Verwaltungs- und andere allgemeine Gemeinkosten.
+
+20 Der Ansatz von Anschaffungs- und Herstellungskosten im Buchwert einer Sachanlage endet, wenn sie sich an ihrem Standort und in dem Zustand befindet, der erforderlich ist, damit sie in der vom Management beabsichtigten Weise genutzt werden kann. Kosten, die bei der Nutzung oder Verlagerung einer Sachanlage anfallen, sind nicht im Buchwert dieses Gegenstands enthalten. Die nachstehenden Kosten gehören beispielsweise nicht zum Buchwert einer Sachanlage:
+a) 
+
+Kosten, die anfallen, während eine Sachanlage sich in einem Zustand befindet, der die vom Management beabsichtigte Nutzung ermöglicht, jedoch noch in Betrieb gesetzt werden muss oder ihren Betrieb noch nicht voll aufgenommen hat,
+b) 
+
+anfängliche Betriebsverluste, wie diejenigen, die anfallen, bis sich die Nachfrage nach der Produktion des Vermögenswerts aufgebaut hat, und
+c) 
+
+Kosten für die Verlagerung oder Umstrukturierung eines Teils oder der gesamten Geschäftstätigkeit des Unternehmens.
+
+20A Gegenstände können produziert werden, während eine Sachanlage zu ihrem Standort und in den Zustand gebracht wird, der erforderlich ist, damit sie in der vom Management beabsichtigten Weise genutzt werden kann (wie Muster, die im Zuge der Überprüfung, ob der Vermögenswert ordnungsgemäß funktioniert, gefertigt werden). Ein Unternehmen erfasst die Erlöse aus dem Verkauf solcher Gegenstände und die Kosten dieser Gegenstände gemäß den einschlägigen Standards in der Gewinn- und Verlustrechnung. Das Unternehmen bemisst die Kosten dieser Gegenstände nach den Bewertungsvorschriften von IAS 2.
+
+21 Einige Geschäftstätigkeiten treten bei der Herstellung oder Entwicklung einer Sachanlage auf, sind jedoch nicht notwendig, um sie zu ihrem Standort und in den Zustand zu bringen, der erforderlich ist, damit sie in der vom Management beabsichtigten Weise genutzt werden kann. Diese Nebentätigkeiten können vor den oder während der Herstellungs- oder Entwicklungstätigkeiten auftreten. Einnahmen können zum Beispiel erzielt werden, indem der Standort für ein Gebäude vor Baubeginn als Parkplatz genutzt wird. Da Nebentätigkeiten nicht notwendig sind, um eine Sachanlage zu ihrem Standort zu bringen und in einen Zustand zu versetzen, der die vom Management beabsichtigte Nutzung ermöglicht, werden die Erträge und dazugehörigen Aufwendungen der Nebentätigkeiten erfolgswirksam erfasst und in ihren entsprechenden Ertrags- und Aufwandsposten ausgewiesen.
+
+22 Die Ermittlung der Herstellungskosten für selbst hergestellte Vermögenswerte folgt denselben Grundsätzen, die auch beim Erwerb von Vermögenswerten angewandt werden. Wenn ein Unternehmen ähnliche Vermögenswerte für den Verkauf im Rahmen seiner normalen Geschäftstätigkeit herstellt, sind die Herstellungskosten eines Vermögenswerts normalerweise dieselben wie die für die Herstellung der zu veräußernden Gegenstände (siehe IAS 2). Daher sind etwaige interne Gewinne aus diesen Kosten herauszurechnen. Gleichermaßen stellen auch die Kosten für außergewöhnliche Mengen an Ausschuss, unnötigen Arbeitsaufwand oder andere verschwendete Ressourcen keine Bestandteile der Herstellungskosten des selbst hergestellten Vermögenswerts dar. IAS 23 Fremdkapitalkosten legt Kriterien für die Aktivierung von Zinsen als Bestandteil des Buchwerts einer selbst erstellten Sachanlage fest.
+
+22A Fruchttragende Pflanzen sind, bevor sie sich an ihrem Standort und in einem Zustand befinden, der die vom Management beabsichtigte Nutzung ermöglicht, in gleicher Weise zu bilanzieren wie selbst erstellte Sachanlagen. Die Bestimmungen zur „Herstellung“ in diesem Standard sollten daher so verstanden werden, dass sie die erforderlichen Arbeiten zur Kultivierung der fruchttragenden Pflanzen einschließen, bis diese sich an ihrem Standort und in einem Zustand befinden, der die vom Management beabsichtigte Nutzung ermöglicht.
+
+Bestimmung der Anschaffungs- und Herstellungskosten
+
+23 Die Anschaffungs- oder Herstellungskosten einer Sachanlage entsprechen dem Gegenwert des Barpreises zum Erfassungszeitpunkt. Wird die Zahlung über das normale Zahlungsziel hinaus aufgeschoben, wird die Differenz zwischen dem Gegenwert des Barpreises und der zu leistenden Gesamtzahlung über den Zeitraum des Zahlungsziels als Zinsen erfasst, wenn diese Zinsen nicht gemäß IAS 23 aktiviert werden.
+
+24 Eine oder mehrere Sachanlagen können im Tausch gegen nicht-monetäre Vermögenswerte oder eine Kombination von monetären und nicht-monetären Vermögenswerten erworben werden. Die folgenden Ausführungen beziehen sich nur auf einen Tausch von einem nicht-monetären Vermögenswert gegen einen anderen, finden aber auch auf alle anderen im vorstehenden Satz genannten Tauschvorgänge Anwendung. Die Anschaffungskosten einer solchen Sachanlage werden zum beizulegenden Zeitwert bewertet, es sei denn, a) dem Tauschgeschäft fehlt es an wirtschaftlicher Substanz oder b) weder der beizulegende Zeitwert des erhaltenen Vermögenswerts noch der des aufgegebenen Vermögenswerts ist verlässlich ermittelbar. Der erworbene Gegenstand wird in dieser Art bewertet, auch wenn ein Unternehmen den aufgegebenen Vermögenswert nicht sofort ausbuchen kann. Wenn der erworbene Gegenstand nicht zum beizulegenden Zeitwert bewertet wird, werden die Anschaffungskosten zum Buchwert des aufgegebenen Vermögenswerts bewertet.
+
+25 Ein Unternehmen beurteilt, ob ein Tauschgeschäft wirtschaftliche Substanz hat, indem es prüft, in welchem Umfang sich die künftigen Zahlungsströme infolge der Transaktion voraussichtlich ändern. Ein Tauschgeschäft hat wirtschaftliche Substanz, wenn
+a) 
+
+die Zusammensetzung (Risiko, Zeitpunkt und Betrag) der Zahlungsströme des erhaltenen Vermögenswerts sich von der Zusammensetzung der Zahlungsströme des übertragenen Vermögenswerts unterscheidet oder
+b) 
+
+der unternehmensspezifische Wert des Teils der Geschäftstätigkeiten des Unternehmens, der von der Transaktion betroffen ist, sich aufgrund des Tauschgeschäfts ändert und
+c) 
+
+die Differenz in (a) oder (b) im Verhältnis zum beizulegenden Zeitwert der getauschten Vermögenswerte signifikant ist.
+
+Für den Zweck der Bestimmung, ob ein Tauschgeschäft wirtschaftliche Substanz hat, spiegelt der unternehmensspezifische Wert des Teils der Geschäftstätigkeiten des Unternehmens, der von der Transaktion betroffen ist, Zahlungsströme nach Steuern wider. Das Ergebnis dieser Analysen kann eindeutig sein, ohne dass ein Unternehmen detaillierte Kalkulationen erbringen muss.
+
+26 Der beizulegende Zeitwert eines Vermögenswerts gilt als verlässlich ermittelbar, wenn a) die Schwankungsbandbreite der angemessenen Ermittlungen des beizulegenden Zeitwerts für diesen Vermögenswert nicht signifikant ist oder b) die Eintrittswahrscheinlichkeiten der verschiedenen Schätzungen innerhalb dieser Bandbreite angemessen beurteilt und bei der Ermittlung des beizulegenden Zeitwerts verwendet werden können. Wenn ein Unternehmen den beizulegenden Zeitwert des erhaltenen Vermögenswerts oder des aufgegebenen Vermögenswerts verlässlich ermitteln kann, dann wird der beizulegende Zeitwert des aufgegebenen Vermögenswerts benutzt, um die Anschaffungskosten des erhaltenen Vermögenswerts zu ermitteln, es sei denn, der beizulegende Zeitwert des erhaltenen Vermögenswerts ist der offensichtlichere.
+
+27 [gestrichen]
+
+28 Der Buchwert einer Sachanlage kann gemäß IAS 20 Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand um Zuwendungen der öffentlichen Hand gemindert werden.
+
+FOLGEBEWERTUNG
+
+29   Ein Unternehmen wählt als Rechnungslegungsmethode entweder das Anschaffungskostenmodell nach Paragraph 30 oder das Neubewertungsmodell nach Paragraph 31 aus und wendet dann die gewählte Methode auf eine gesamte Gruppe von Sachanlagen an.
+
+29A Einige Unternehmen betreiben intern oder extern einen Investmentfonds, der für die Anleger Leistungen erbringt, die sich nach der Anzahl der Fondsanteile richten. Ebenso zeichnen einige Unternehmen Gruppen von Versicherungsverträgen mit direkter Überschussbeteiligung und halten die zugrunde liegenden Referenzwerte. Einige solcher Fonds oder zugrunde liegender Referenzwerte umfassen auch vom Eigentümer selbst genutzte Immobilien. Auf vom Eigentümer selbst genutzte Immobilien, die Teil eines solchen Fonds sind, oder die zugrunde liegenden Referenzwerte sind, wendet das Unternehmen IAS 16 an. Ungeachtet von Paragraph 29 kann das Unternehmen wählen, solche Immobilien unter Anwendung des Modells des beizulegenden Zeitwerts nach IAS 40 zu bewerten. Für die Zwecke dieses Wahlrechts umfassen Versicherungsverträge auch Kapitalanlageverträge mit ermessensabhängiger Überschussbeteiligung. (Siehe IFRS 17 Versicherungsverträge in Bezug auf die in diesem Paragraphen verwendeten Begriffe, die in dem genannten Standard definiert sind)
+
+29B Ein Unternehmen hat die vom Eigentümer selbst genutzten Immobilien, die unter Anwendung von Paragraph 29A nach dem Modell des beizulegenden Zeitwerts für als Finanzinvestitionen gehaltene Immobilien bewertet werden, als eine getrennte Gruppe von Sachanlagen zu behandeln.
+
+Anschaffungskostenmodell
+
+30   Nach dem Ansatz als Vermögenswert ist eine Sachanlage zu ihren Anschaffungs- oder Herstellungskosten abzüglich der kumulierten planmäßigen Abschreibungen und kumulierten Wertminderungsaufwendungen zu bilanzieren.
+
+Neubewertungsmodell
+
+31   Eine Sachanlage, deren beizulegender Zeitwert verlässlich ermittelt werden kann, ist nach dem Ansatz als Vermögenswert zu einem Neubewertungsbetrag zu bilanzieren, der seinem beizulegenden Zeitwert zum Zeitpunkt der Neubewertung abzüglich nachfolgender kumulierter planmäßiger Abschreibungen und nachfolgender kumulierter Wertminderungsaufwendungen entspricht. Neubewertungen sind in hinreichend regelmäßigen Abständen vorzunehmen, um sicherzustellen, dass der Buchwert nicht wesentlich von dem abweicht, was unter Verwendung des beizulegenden Zeitwerts zum Abschlussstichtag ermittelt würde.
+
+32 [gestrichen]
+
+33 [gestrichen]
+
+34 Die Häufigkeit der Neubewertungen hängt von den Änderungen des beizulegenden Zeitwerts der Sachanlagen ab, die neu bewertet werden. Eine erneute Bewertung ist erforderlich, wenn beizulegender Zeitwert und Buchwert eines neu bewerteten Vermögenswerts wesentlich voneinander abweichen. Bei manchen Sachanlagen kommt es zu signifikanten Schwankungen des beizulegenden Zeitwerts, die eine jährliche Neubewertung erforderlich machen. Derart häufige Neubewertungen sind bei Sachanlagen, bei denen sich der beizulegende Zeitwert nur geringfügig ändert, nicht erforderlich. Stattdessen kann es hier notwendig sein, den Gegenstand nur alle drei oder fünf Jahre neu zu bewerten.
+
+35 Bei Neubewertung einer Sachanlage wird deren Buchwert an den Neubewertungsbetrag angepasst. Zum Zeitpunkt der Neubewertung wird der Vermögenswert wie folgt behandelt:
+a) 
+
+der Bruttobuchwert wird in einer Weise angepasst, die mit der Neubewertung des Buchwerts in Einklang steht. So kann der Bruttobuchwert beispielsweise unter Bezugnahme auf beobachtbare Marktdaten oder proportional zur Änderung des Buchwerts angepasst werden. Die kumulierte planmäßige Abschreibung zum Zeitpunkt der Neubewertung wird so angepasst, dass sie nach Berücksichtigung kumulierter Wertminderungsaufwendungen der Differenz zwischen dem Bruttobuchwert und dem Buchwert der Sachanlage entspricht; oder
+b) 
+
+die kumulierte planmäßige Abschreibung wird gegen den Bruttobuchwert der Sachanlage ausgebucht.
+
+Der Betrag, um den die kumulierte Abschreibung angepasst wird, ist Bestandteil der Erhöhung oder Verringerung des Buchwerts, der gemäß den Paragraphen 39 und 40 zu behandeln ist.
+
+36   Wird eine Sachanlage neu bewertet, ist die ganze Gruppe der Sachanlagen, zu der der Gegenstand gehört, neu zu bewerten.
+
+37 Unter einer Gruppe von Sachanlagen wird eine Zusammenfassung von Vermögenswerten verstanden, die sich durch ähnliche Art und ähnliche Verwendung in einem Unternehmen auszeichnen. Beispiele für eigenständige Gruppen sind:
+a) 
+
+unbebaute Grundstücke,
+b) 
+
+Grundstücke und Gebäude,
+c) 
+
+Maschinen und technische Anlagen,
+d) 
+
+Schiffe,
+e) 
+
+Flugzeuge,
+f) 
+
+Kraftfahrzeuge,
+g) 
+
+Betriebsausstattung,
+h) 
+
+Büroausstattung und
+i) 
+
+fruchttragende Pflanzen.
+
+38 Die Gegenstände innerhalb einer Gruppe von Sachanlagen sind gleichzeitig neu zu bewerten, um eine selektive Neubewertung von Vermögenswerten und eine Mischung aus fortgeführten Anschaffungs- oder Herstellungskosten und Neubewertungsbeträgen zu verschiedenen Zeitpunkten im Abschluss zu vermeiden. Jedoch darf eine Gruppe von Vermögenswerten auf fortlaufender Basis neu bewertet werden, sofern ihre Neubewertung in einer kurzen Zeitspanne vollendet wird und die Neubewertungen aktuell gehalten werden.
+
+39   Führt eine Neubewertung zu einer Erhöhung des Buchwerts eines Vermögenswerts, ist die Wertsteigerung im sonstigen Ergebnis zu erfassen und im Eigenkapital im Posten Neubewertungsrücklage zu kumulieren. Allerdings wird der Wertzuwachs in dem Umfang erfolgswirksam erfasst, in dem er einer in der Vergangenheit erfolgswirksam erfassten Abwertung desselben Vermögenswerts aufgrund einer Neubewertung entspricht.
+
+40   Führt eine Neubewertung zu einer Verringerung des Buchwerts eines Vermögenswerts, ist die Wertminderung erfolgswirksam zu erfassen. Die Wertminderung ist jedoch direkt im sonstigen Ergebnis zu erfassen, soweit sie das Guthaben der Neubewertungsrücklage in Bezug auf diesen Vermögenswert nicht übersteigt. Durch die im sonstigen Ergebnis erfasste Wertminderung reduziert sich der Betrag, der im Eigenkapital im Posten Neubewertungsrücklage kumuliert wird.
+
+41 Bei einer Sachanlage kann die Neubewertungsrücklage im Eigenkapital direkt den Gewinnrücklagen zugeführt werden, sofern der Vermögenswert ausgebucht ist. Bei Stilllegung oder Veräußerung des Vermögenswerts kann es zu einer Übertragung der gesamten Rücklage kommen. Ein Teil der Rücklage kann allerdings schon bei Nutzung des Vermögenswerts durch das Unternehmen übertragen werden. In diesem Fall ist die übertragene Rücklage die Differenz zwischen der planmäßigen Abschreibung auf Basis des neu bewerteten Buchwerts und der planmäßigen Abschreibung auf Basis historischer Anschaffungs- oder Herstellungskosten. Übertragungen von der Neubewertungsrücklage in die Gewinnrücklagen erfolgen erfolgsneutral.
+
+42 Die sich aus der Neubewertung von Sachanlagen eventuell ergebenden Konsequenzen für die Ertragsteuern werden gemäß IAS 12 Ertragsteuern erfasst und angegeben.
+
+Planmäßige Abschreibung
+
+43   Jeder Teil einer Sachanlage mit Anschaffungs- oder Herstellungskosten, die im Verhältnis zu den gesamten Anschaffungs- oder Herstellungskosten der Sachanlage bedeutsam sind, wird getrennt planmäßig abgeschrieben.
+
+44 Ein Unternehmen ordnet den erstmalig angesetzten Betrag einer Sachanlage ihren bedeutsamen Teilen zu und schreibt jedes dieser Teile getrennt ab. Es kann zum Beispiel angemessen sein, das Flugwerk und die Triebwerke eines Flugzeugs getrennt planmäßig abzuschreiben. Wenn ein Unternehmen für ein Operating-Leasingverhältnis, bei dem es der Leasinggeber ist, Sachanlagen erwirbt, kann es ebenso angemessen sein, Beträge, die sich in den Anschaffungskosten dieses Vermögenswerts widerspiegeln und die hinsichtlich der Marktbedingungen günstigen oder ungünstigen Leasingbedingungen zuzuordnen sind, getrennt planmäßig abzuschreiben.
+
+45 Ein bedeutsamer Teil einer Sachanlage kann eine Nutzungsdauer und eine Abschreibungsmethode haben, die identisch mit denen eines anderen bedeutsamen Teils desselben Gegenstands sind. Diese Teile können bei der Bestimmung des Abschreibungsaufwands zusammengefasst werden.
+
+46 Soweit ein Unternehmen einige Teile einer Sachanlage getrennt planmäßig abschreibt, schreibt es auch den Rest des Gegenstands getrennt planmäßig ab. Der Rest besteht aus den Teilen des Gegenstands, die einzeln nicht bedeutsam sind. Wenn ein Unternehmen unterschiedliche Erwartungen in diese Teile setzt, können Angleichungsmethoden erforderlich werden, um den Rest in einer Weise planmäßig abzuschreiben, die den Abschreibungsverlauf und/oder die Nutzungsdauer der Teile genau wiedergibt.
+
+47 Ein Unternehmen kann sich auch für die getrennte planmäßige Abschreibung der Teile eines Gegenstands entscheiden, deren Anschaffungs- oder Herstellungskosten im Verhältnis zu den gesamten Anschaffungs- oder Herstellungskosten des Gegenstands nicht bedeutsam sind.
+
+48   Die planmäßige Abschreibung für jede Periode ist erfolgswirksam zu erfassen, soweit er nicht in die Buchwerte anderer Vermögenswerte einzubeziehen ist.
+
+49 Die planmäßige Abschreibung einer Periode ist in der Regel erfolgswirksam zu erfassen. Mitunter wird jedoch der künftige wirtschaftliche Nutzen eines Vermögenswerts durch die Herstellung anderer Vermögenswerte verbraucht. In diesem Fall stellt die planmäßige Abschreibung einen Teil der Herstellungskosten des anderen Vermögenswerts dar und wird in dessen Buchwert einbezogen. Beispielsweise ist die planmäßige Abschreibung von technischen Anlagen und Betriebs- und Geschäftsausstattung in den Herstellungskosten von Vorräten enthalten (siehe IAS 2). Gleichermaßen kann die planmäßige Abschreibung von Sachanlagen, die für Entwicklungstätigkeiten genutzt werden, in die Herstellungskosten eines immateriellen Vermögenswerts, der gemäß IAS 38 Immaterielle Vermögenswerte erfasst wird, eingerechnet werden.
+
+Abschreibungsbetrag und Abschreibungsperiode
+
+50   Der Abschreibungsbetrag eines Vermögenswerts ist planmäßig über seine Nutzungsdauer zu verteilen.
+
+51   Der Restwert und die Nutzungsdauer eines Vermögenswerts sind mindestens zum Ende jedes Geschäftsjahrs zu überprüfen, und wenn die Erwartungen von früheren Einschätzungen abweichen, sind Änderungen als Änderungen rechnungslegungsbezogener Schätzungen gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auszuweisen.
+
+52 Planmäßige Abschreibungen werden so lange, wie der Restwert des Vermögenswerts nicht höher als der Buchwert ist, erfasst, auch wenn der beizulegende Zeitwert des Vermögenswerts seinen Buchwert übersteigt. Reparatur und Instandhaltung eines Vermögenswerts widersprechen nicht der Notwendigkeit, planmäßige Abschreibungen vorzunehmen.
+
+53 Der Abschreibungsbetrag eines Vermögenswerts wird nach Abzug seines Restwerts ermittelt. In der Praxis ist der Restwert oft unbedeutend und daher für die Berechnung des Abschreibungsbetrags unwesentlich.
+
+54 Der Restwert eines Vermögenswerts kann bis zu einem Betrag ansteigen, der entweder dem Buchwert entspricht oder ihn übersteigt. Wenn dies der Fall ist, ist die planmäßige Abschreibung des Vermögenswerts null, solange der Restwert anschließend nicht unter den Buchwert des Vermögenswerts gefallen ist.
+
+55 Die planmäßige Abschreibung eines Vermögenswerts beginnt, wenn er zur Verfügung steht, d. h. wenn er sich an seinem Standort und in dem Zustand befindet, der erforderlich ist, damit er in der vom Management beabsichtigten Weise genutzt werden kann. Die planmäßige Abschreibung eines Vermögenswerts endet an dem Tag, an dem der Vermögenswert gemäß IFRS 5 als zur Veräußerung gehalten eingestuft (oder in eine als zur Veräußerung gehalten eingestufte Veräußerungsgruppe aufgenommen) wird, spätestens jedoch an dem Tag, an dem er ausgebucht wird, je nachdem, welcher Zeitpunkt früher liegt. Demzufolge hört die planmäßige Abschreibung nicht auf, wenn der Vermögenswert nicht mehr genutzt wird oder aus dem tatsächlichen Gebrauch ausgeschieden ist, es sei denn, der Vermögenswert ist voll abgeschrieben. Allerdings kann die planmäßige Abschreibung bei verbrauchsabhängigen Abschreibungsmethoden null sein, wenn keine Produktion läuft.
+
+56 Der künftige wirtschaftliche Nutzen eines Vermögenswerts wird vom Unternehmen grundsätzlich durch dessen Nutzung verbraucht. Wenn der Vermögenswert ungenutzt bleibt, können jedoch andere Faktoren, wie technische und gewerbliche Veralterung und Verschleiß, den potenziellen Nutzen mindern. Bei der Bestimmung der Nutzungsdauer eines Vermögenswerts werden deshalb alle folgenden Faktoren berücksichtigt:
+a) 
+
+die erwartete Nutzung des Vermögenswerts. Diese wird durch Berücksichtigung der Kapazität oder der Ausbringungsmenge des Vermögenswerts ermittelt;
+b) 
+
+der erwartete physische Verschleiß in Abhängigkeit von Betriebsfaktoren wie der Anzahl der Schichten, in denen der Vermögenswert genutzt wird, und dem Reparatur- und Instandhaltungsprogramm sowie der Wartung und Pflege des Vermögenswerts während der Stillstandszeiten;
+c) 
+
+die technische oder gewerbliche Veralterung, die auf Änderungen oder Verbesserungen in der Produktion oder auf Änderungen in der Marktnachfrage nach den von diesem Vermögenswert erzeugten Gütern oder Leistungen zurückzuführen ist. Wird für die Zukunft mit einem Rückgang des Verkaufspreises eines mithilfe dieses Vermögenswerts erzeugten Produkts gerechnet, könnte dies ein Indikator dafür sein, dass sich der künftige wirtschaftliche Nutzen des Vermögenswerts aufgrund der für ihn erwarteten technischen oder gewerblichen Veralterung vermindert;
+d) 
+
+rechtliche oder ähnliche Nutzungsbeschränkungen des Vermögenswerts wie das Ablaufen zugehöriger Leasingverträge.
+
+57 Die Nutzungsdauer eines Vermögenswerts wird nach der voraussichtlichen Nutzbarkeit für das Unternehmen definiert. Die Investitionspolitik des Unternehmens kann vorsehen, dass Vermögenswerte nach einer bestimmten Zeit oder nach dem Verbrauch eines bestimmten Teils des künftigen wirtschaftlichen Nutzens des Vermögenswerts veräußert werden. Daher kann die voraussichtliche Nutzungsdauer eines Vermögenswerts kürzer sein als seine wirtschaftliche Nutzungsdauer. Die Schätzung der voraussichtlichen Nutzungsdauer des Vermögenswerts bedarf einer Ermessensentscheidung, der Erfahrungswerte des Unternehmens mit vergleichbaren Vermögenswerten zugrunde liegen.
+
+58 Grundstücke und Gebäude sind trennbare Vermögenswerte und als solche zu bilanzieren, auch wenn sie zusammen erworben wurden. Grundstücke haben mit einigen Ausnahmen, wie Steinbrüche und Müllgruben, eine unbegrenzte Nutzungsdauer und werden deshalb nicht planmäßig abgeschrieben. Gebäude haben eine begrenzte Nutzungsdauer und stellen daher abschreibungsfähige Vermögenswerte dar. Eine Wertsteigerung eines Grundstücks, auf dem ein Gebäude steht, berührt nicht die Bestimmung des Abschreibungsbetrags des Gebäudes.
+
+59 Wenn die Anschaffungskosten für Grundstücke die Kosten für Abbau, Beseitigung und Wiederherstellung des Grundstücks beinhalten, so wird dieser Anteil des Grundstückwerts über den Zeitraum planmäßig abgeschrieben, in dem Nutzen durch die Einbringung dieser Kosten erzielt wird. In einigen Fällen kann das Grundstück selbst eine begrenzte Nutzungsdauer haben, es wird dann in der Weise planmäßig abgeschrieben, dass der daraus entstehende Nutzen widergespiegelt wird.
+
+Abschreibungsmethode
+
+60   Die Abschreibungsmethode hat dem erwarteten Verlauf des Verbrauchs des künftigen wirtschaftlichen Nutzens des Vermögenswerts durch das Unternehmen zu entsprechen.
+
+61   Die Abschreibungsmethode für Vermögenswerte ist mindestens am Ende eines jeden Geschäftsjahrs zu überprüfen. Sofern erhebliche Änderungen in dem erwarteten künftigen wirtschaftlichen Nutzenverlauf der Vermögenswerte eingetreten sind, ist die Methode anzupassen, um den geänderten Verlauf widerzuspiegeln. Solch eine Änderung wird als Änderung einer rechnungslegungsbezogenen Schätzung gemäß IAS 8 dargestellt.
+
+62 Für die planmäßige Abschreibung kommt eine Vielzahl an Methoden in Betracht, um den Abschreibungsbetrag eines Vermögenswerts systematisch über seine Nutzungsdauer zu verteilen. Zu diesen Methoden zählen die lineare und degressive Abschreibung sowie die leistungsabhängige planmäßige Abschreibung. Die lineare planmäßige Abschreibung ergibt einen konstanten Betrag über die Nutzungsdauer, sofern sich der Restwert des Vermögenswerts nicht ändert. Die degressive Abschreibungsmethode führt zu im Laufe der Nutzungsdauer abnehmenden Abschreibungen. Die leistungsabhängige Abschreibungsmethode ergibt eine Abschreibung auf der Grundlage der voraussichtlichen Nutzung oder Leistung. Das Unternehmen wählt die Methode aus, die am genauesten den erwarteten Verlauf des Verbrauchs des künftigen wirtschaftlichen Nutzens des Vermögenswerts widerspiegelt. Diese Methode ist von Periode zu Periode stetig anzuwenden, es sei denn, dass sich der erwartete Verlauf des Verbrauchs jenes künftigen wirtschaftlichen Nutzens ändert.
+
+62A Eine Abschreibungsmethode, die sich auf die Umsatzerlöse aus einer Tätigkeit stützt, die die Verwendung eines Vermögenswerts einschließt, ist nicht als sachgerecht zu betrachten. Die Umsatzerlöse aus einer Tätigkeit, die die Verwendung eines Vermögenswerts einschließt, spiegeln im Allgemeinen andere Faktoren als den Verbrauch des wirtschaftlichen Nutzens des Vermögenswerts wider. So werden die Umsatzerlöse beispielsweise durch andere Inputfaktoren und Prozesse, durch die Absatzmenge und durch Veränderungen bei Absatzvolumen und -preisen beeinflusst. Die Preiskomponente der Umsatzerlöse kann durch Inflation beeinflusst werden, was sich nicht auf den Verbrauch eines Vermögenswerts auswirkt.
+
+Wertminderung
+
+63 Um festzustellen, ob ein Gegenstand der Sachanlagen wertgemindert ist, wendet ein Unternehmen IAS 36 Wertminderung von Vermögenswerten an. Dieser Standard erklärt, wie ein Unternehmen den Buchwert seiner Vermögenswerte überprüft, wie es den erzielbaren Betrag eines Vermögenswerts ermittelt, und wann es einen Wertminderungsaufwand erfasst oder aufhebt.
+
+64 [gestrichen]
+
+Entschädigung für Wertminderung
+
+65   Entschädigungen von Dritten für wertgeminderte, untergegangene oder außer Betrieb genommene Sachanlagen sind erfolgswirksam zu erfassen, wenn die Entschädigungen zu Forderungen werden.
+
+66 Wertminderungen oder der Untergang von Sachanlagen, damit verbundene Ansprüche auf oder Zahlungen von Entschädigungen von Dritten und jeglicher nachfolgender Erwerb oder nachfolgende Herstellung von Ersatzvermögenswerten sind einzelne wirtschaftliche Ereignisse und sind als solche separat wie folgt zu bilanzieren:
+a) 
+
+Wertminderungen von Sachanlagen werden gemäß IAS 36 erfasst,
+b) 
+
+Ausbuchungen von stillgelegten oder abgegangenen Sachanlagen werden nach diesem Standard ermittelt,
+c) 
+
+Entschädigungen von Dritten für wertgeminderte, untergegangene oder außer Betrieb genommene Sachanlagen sind erfolgswirksam zu erfassen, wenn sie zur Forderung werden, und
+d) 
+
+die Anschaffungs- oder Herstellungskosten von Sachanlagen, die als Ersatz instandgesetzt, erworben oder hergestellt wurden, werden nach diesem Standard ermittelt.
+
+AUSBUCHUNG
+
+67   Der Buchwert einer Sachanlage ist auszubuchen
+a) 
+
+bei Abgang oder
+b) 
+
+wenn kein weiterer wirtschaftlicher Nutzen aus seiner Nutzung oder seinem Abgang zu erwarten ist.
+
+68   Die aus der Ausbuchung einer Sachanlage resultierenden Gewinne oder Verluste sind erfolgswirksam zu erfassen, wenn der Gegenstand ausgebucht wird (sofern IFRS 16 Leasingverhältnisse bei Sale-and-Leaseback-Transaktionen nichts anderes verlangt). Gewinne sind nicht als Umsatzerlöse auszuweisen.
+
+68A Ein Unternehmen jedoch, das im Rahmen seiner gewöhnlichen Geschäftstätigkeit regelmäßig Sachanlagen verkauft, die es zwecks Weitervermietung gehalten hat, überträgt diese Vermögenswerte zum Buchwert in die Vorräte, wenn sie nicht mehr vermietet werden und zum Verkauf anstehen. Die Erlöse aus dem Verkauf dieser Vermögenswerte werden gemäß IFRS 15 Erlöse aus Verträgen mit Kunden als Umsatzerlöse erfasst. IFRS 5 findet keine Anwendung, wenn Vermögenswerte, die im Rahmen der gewöhnlichen Geschäftstätigkeit zum Verkauf gehalten werden, in die Vorräte übertragen werden.
+
+69 Der Abgang einer Sachanlage kann auf verschiedene Arten erfolgen (z. B. Verkauf, Eintritt in ein Finanzierungsleasing oder Schenkung). Als Abgangsdatum einer Sachanlage gilt das Datum, an dem der Empfänger — gemäß den Vorschriften über die Erfüllung der Leistungsverpflichtung in IFRS 15 — die Verfügungsgewalt darüber erlangt. IFRS 16 wird auf Abgänge durch Sale-and-Leaseback-Transaktionen angewandt.
+
+70 Wenn ein Unternehmen nach dem Ansatzgrundsatz in Paragraph 7 im Buchwert einer Sachanlage die Anschaffungs- oder Herstellungskosten für den Ersatz eines Teils des Gegenstands erfasst, dann bucht es den Buchwert des ersetzten Teils aus, ungeachtet dessen, ob das ersetzte Teil separat planmäßig abgeschrieben wurde. Sollte die Ermittlung des Buchwerts des ersetzten Teils für ein Unternehmen praktisch nicht durchführbar sein, kann es die Kosten für den Ersatz als Anhaltspunkt für die Anschaffungs- oder Herstellungskosten des ersetzten Teils zum Zeitpunkt seines Kaufs oder seiner Herstellung verwenden.
+
+71   Der Gewinn oder Verlust aus der Ausbuchung einer Sachanlage ist als Differenz zwischen dem Nettoveräußerungserlös, sofern vorhanden, und dem Buchwert des Gegenstands zu bestimmen.
+
+72 Die Höhe der im Falle der Ausbuchung einer Sachanlage erfolgswirksam zu erfassenden Gegenleistung ergibt sich aus den Vorschriften über die Bestimmung des Transaktionspreises in IFRS 15 Paragraphen 47 bis 72. Spätere Änderungen des erfolgswirksam erfassten geschätzten Gegenleistungsbetrags werden gemäß den Bestimmungen über Änderungen des Transaktionspreises in IFRS 15 erfasst.
+
+ANGABEN
+
+73   Für jede Gruppe von Sachanlagen sind im Abschluss folgende Angaben erforderlich:
+a) 
+
+die Bewertungsgrundlagen für die Bestimmung des Bruttobuchwerts,
+b) 
+
+die verwendeten Abschreibungsmethoden,
+c) 
+
+die zugrunde gelegten Nutzungsdauern oder Abschreibungssätze,
+d) 
+
+der Bruttobuchwert und die kumulierten planmäßigen Abschreibungen (zusammengefasst mit den kumulierten Wertminderungsaufwendungen) zu Beginn und zum Ende der Periode und
+e) 
+
+eine Überleitung des Buchwerts zu Beginn und zum Ende der Periode unter gesonderter Angabe der
+i) 
+
+Zugänge,
+ii) 
+
+Vermögenswerte, die gemäß IFRS 5 als zur Veräußerung gehalten eingestuft sind oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehören, und anderer Abgänge,
+iii) 
+
+Erwerbe durch Unternehmenszusammenschlüsse,
+iv) 
+
+Wertsteigerungen oder Abwertungen aufgrund von Neubewertungen gemäß den Paragraphen 31, 39 und 40 und von im sonstigen Ergebnis erfassten oder aufgeholten Wertminderungsaufwendungen gemäß IAS 36,
+v) 
+
+gemäß IAS 36 erfolgswirksam erfassten Wertminderungsaufwendungen,
+vi) 
+
+gemäß IAS 36 erfolgswirksam aufgeholten Wertminderungsaufwendungen,
+vii) 
+
+planmäßigen Abschreibungen,
+viii) 
+
+Nettoumrechnungsdifferenzen aufgrund der Umrechnung des Abschlusses von der funktionalen Währung in eine andere Darstellungswährung, einschließlich der Umrechnung einer ausländischen Betriebsstätte in die Darstellungswährung des berichtenden Unternehmens, und
+ix) 
+
+anderen Änderungen.
+
+74   Folgende Angaben müssen in den Abschlüssen ebenso enthalten sein:
+a) 
+
+das Vorhandensein und die Beträge von Beschränkungen von Verfügungsrechten sowie als Sicherheiten für Schulden verpfändete Sachanlagen,
+b) 
+
+der Betrag an Ausgaben, der im Buchwert einer Sachanlage während ihrer Herstellung erfasst wird, und
+c) 
+
+der Betrag für vertragliche Verpflichtungen für den Erwerb von Sachanlagen.
+
+74A   Nachstehend genannte Beträge sind in den Abschlüssen ebenso anzugeben, sofern sie nicht gesondert in der Gesamtergebnisrechnung ausgewiesen werden:
+a) 
+
+der Betrag der in der Gewinn- und Verlustrechnung erfassten Entschädigungen von Dritten für wertgeminderte, untergegangene oder außer Betrieb genommene Sachanlagen und
+b) 
+
+die Beträge der gemäß Paragraph 20A in der Gewinn- und Verlustrechnung erfassten Erlöse und Kosten für Gegenstände, die nicht im Rahmen der gewöhnlichen Geschäftstätigkeit des Unternehmens hergestellt wurden, und die Angabe, in welchem bzw. welchen Posten der Gesamtergebnisrechnung derartige Erlöse und Kosten enthalten sind.
+
+75 Die Wahl der Abschreibungsmethode und die Schätzung der Nutzungsdauer von Vermögenswerten bedürfen einer Ermessensentscheidung. Deshalb gibt die Angabe der angewandten Methoden und der geschätzten Nutzungsdauern oder Abschreibungsraten den Abschlussadressaten Informationen, die es ihnen erlauben, die vom Management gewählten Rechnungslegungsmethoden einzuschätzen und Vergleiche mit anderen Unternehmen vorzunehmen. Aus ähnlichen Gründen ist es erforderlich, Angaben zu machen über
+a) 
+
+die planmäßige Abschreibung einer Periode, unabhängig davon, ob sie erfolgswirksam erfasst wird oder als Teil der Anschaffungs- und Herstellungskosten anderer Vermögenswerte, und
+b) 
+
+die kumulierte planmäßige Abschreibung am Ende der Periode.
+
+76 Gemäß IAS 8 hat ein Unternehmen die Art und Auswirkung einer veränderten rechnungslegungsbezogenen Schätzung, die eine Auswirkung in der aktuellen Periode hat oder von der erwartet wird, dass sie Auswirkungen in folgenden Perioden hat, darzulegen. Bei Sachanlagen entstehen möglicherweise derartige Angaben aus Änderungen von Schätzungen in Bezug auf
+a) 
+
+Restwerte,
+b) 
+
+geschätzte Kosten für den Abbruch, die Beseitigung oder die Wiederherstellung von Sachanlagen,
+c) 
+
+Nutzungsdauern und
+d) 
+
+Abschreibungsmethoden.
+
+77   Werden Sachanlagen neu bewertet, ist zusätzlich zu den in IFRS 13 vorgeschriebenen Angaben anzugeben:
+a) 
+
+der Stichtag der Neubewertung,
+b) 
+
+ob ein unabhängiger Gutachter hinzugezogen wurde,
+c) 
+
+[gestrichen]
+d) 
+
+[gestrichen]
+e) 
+
+für jede neu bewertete Gruppe von Sachanlagen der Buchwert, der angesetzt worden wäre, wenn die Vermögenswerte nach dem Anschaffungskostenmodell bewertet worden wären, und
+f) 
+
+die Neubewertungsrücklage mit Angabe der Veränderung in der Periode und eventuell bestehender Ausschüttungsbeschränkungen an die Anteilseigner.
+
+78 Gemäß IAS 36 macht ein Unternehmen Angaben über wertgeminderte Sachanlagen zusätzlich zu den gemäß Paragraph 73 (e)(iv)–(vi) erforderlichen Informationen.
+
+79 Die Adressaten des Abschlusses können ebenso die folgenden Angaben als entscheidungsrelevant erachten:
+a) 
+
+den Buchwert vorübergehend ungenutzter Sachanlagen,
+b) 
+
+den Bruttobuchwert voll abgeschriebener, aber noch genutzter Sachanlagen,
+c) 
+
+den Buchwert von Sachanlagen, die nicht mehr genutzt werden und die nicht gemäß IFRS 5 als zur Veräußerung gehalten eingestuft werden, und
+d) 
+
+bei Anwendung des Anschaffungskostenmodells die Angabe des beizulegenden Zeitwerts der Sachanlagen, sofern dieser wesentlich vom Buchwert abweicht.
+
+Daher wird den Unternehmen die Angabe dieser Beträge empfohlen.
+
+ÜBERGANGSVORSCHRIFTEN
+
+80   Die Vorschriften der Paragraphen 24–26 hinsichtlich der erstmaligen Bewertung einer Sachanlage, die in einem Tauschvorgang erworben wurde, sind nur auf künftige Transaktionen prospektiv anzuwenden.
+
+80A Durch die Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2010–2012, wurde Paragraph 35 geändert. Ein Unternehmen hat diese Änderung auf alle Neubewertungen anzuwenden, die in Geschäftsjahren, die zu oder nach dem Zeitpunkt der erstmaligen Anwendung dieser Änderung beginnen, sowie im unmittelbar vorangehenden Geschäftsjahr erfasst werden. Ein Unternehmen kann auch für jedes früher dargestellte Geschäftsjahr angepasste Vergleichsangaben vorlegen, ist hierzu aber nicht verpflichtet. Legt ein Unternehmen für frühere Geschäftsjahre nicht angepasste Vergleichsinformationen vor, hat es diese klar zu kennzeichnen, darauf hinzuweisen, dass sie auf einer anderen Grundlage beruhen und diese Grundlage zu erläutern.
+
+80B In der Berichtsperiode, in der die Verlautbarung Landwirtschaft: Fruchttragende Pflanzen (Änderungen an IAS 16 und IAS 41) erstmals angewendet wird, braucht das Unternehmen die gemäß IAS 8 Paragraph 28(f) für die laufende Periode vorgeschriebenen quantitativen Angaben nicht zu machen. Es muss jedoch die gemäß IAS 8 Paragraph 28(f) vorgeschriebenen quantitativen Angaben für jede frühere dargestellte Periode machen.
+
+80C Ein Unternehmen kann eine fruchttragende Pflanze zu Beginn der frühesten im Abschluss dargestellten Berichtsperiode, in der das Unternehmen die Verlautbarung Landwirtschaft: Fruchttragende Pflanzen (Änderungen an IAS 16 und IAS 41) erstmals anwendet, zu ihrem beizulegenden Zeitwert bewerten und diesen beizulegenden Zeitwert als Ersatz für Anschaffungs- oder Herstellungskosten an diesem Datum verwenden. Jede Differenz zwischen dem früheren Buchwert und dem beizulegenden Zeitwert ist zu Beginn der frühesten dargestellten Periode im Anfangssaldo der Gewinnrücklagen auszuweisen.
+
+80D Durch die im Mai 2020 veröffentlichte Verlautbarung Sachanlagen – Einnahmen vor der beabsichtigten Nutzung wurden die Paragraphen 17 und 74 geändert und die Paragraphen 20A und 74A eingefügt. Ein Unternehmen hat diese Änderungen rückwirkend anzuwenden, allerdings nur auf Sachanlagen, die an ihren Standort und in den Zustand gebracht werden, der erforderlich ist, damit sie zu oder nach Beginn der frühesten im Abschluss dargestellten Periode, in der das Unternehmen die Änderungen erstmals anwendet, in der vom Management beabsichtigten Weise genutzt werden können. Das Unternehmen erfasst die kumulierte Auswirkung der erstmaligen Anwendung der Änderungen zu Beginn dieser frühesten dargestellten Periode als Anpassung des Anfangssaldos der Gewinnrücklagen (oder einer anderen als sachgerecht angesehenen Eigenkapitalkomponente).
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+81 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen Standard auf Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+81A Die Änderungen in Paragraph 3 sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2006 beginnen. Wendet ein Unternehmen IFRS 6 auf eine frühere Periode an, sind auch diese Änderungen auf jene frühere Periode anzuwenden.
+
+81B Durch IAS 1 Darstellung des Abschlusses (in der 2007 überarbeiteten Fassung) wurde die in allen IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 39, 40 und 73(e)(iv) geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+81C Durch IFRS 3 Unternehmenszusammenschlüsse (in der 2008 überarbeiteten Fassung) wurde Paragraph 44 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IFRS 3 (überarbeitet 2008) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderung anzuwenden.
+
+81D Durch Verbesserungen an den IFRS, veröffentlicht im Mai 2008, wurden die Paragraphen 6 und 69 geändert und Paragraph 68A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, so hat es dies anzugeben und die entsprechenden Änderungen an IAS 7 Kapitalflussrechnung gleichzeitig anzuwenden.
+
+81E Durch Verbesserungen an den IFRS, veröffentlicht im Mai 2008, wurde Paragraph 5 geändert. Diese Änderung ist prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig, sofern das Unternehmen gleichzeitig die Änderungen an den Paragraphen 8, 9, 22, 48, 53, 53A, 53B, 54, 57 und 85B von IAS 40 anwendet. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+81F Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Definition des beizulegenden Zeitwerts und die Definition des erzielbaren Betrags in Paragraph 6 geändert. Außerdem wurden die Paragraphen 26, 35 und 77 geändert und die Paragraphen 32 und 33 gestrichen. Wendet ein Unternehmen IFRS 13 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+81G Durch die Jährlichen Verbesserungen, Zyklus 2009–2011, veröffentlicht im Mai 2012, wurde Paragraph 8 geändert. Diese Änderung ist rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+81H Durch die Jährlichen Verbesserungen an den IFRS, Zyklus 2010–2012, veröffentlicht im Dezember 2013, wurde Paragraph 35 geändert und Paragraph 80A eingefügt. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+81I Durch Klarstellung akzeptabler Abschreibungsmethoden (Änderungen an IAS 16 und IAS 38), veröffentlicht im Mai 2014, wurde Paragraph 56 geändert und Paragraph 62A eingefügt. Diese Änderungen sind prospektiv auf am oder nach dem 1. Januar 2016 beginnende Geschäftsjahre anzuwenden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+81J Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurden die Paragraphen 68A, 69 und 72 geändert. Wendet ein Unternehmen IFRS 15 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+81K Durch die im Juni 2014 veröffentlichte Verlautbarung Landwirtschaft: Fruchttragende Pflanzen (Änderungen an IAS 16 und IAS 41) wurden die Paragraphen 3, 6 und 37 geändert sowie die Paragraphen 22A und 80B–80C eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben. Diese Änderungen sind mit Ausnahme der Darlegungen in Paragraph 80C gemäß IAS 8 rückwirkend anzuwenden.
+
+81L Durch IFRS 16, veröffentlicht im Januar 2016, wurden die Paragraphen 4 und 27 gestrichen und die Paragraphen 5, 10, 44 und 68–69 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+81M Durch IFRS 17, veröffentlicht im Mai 2017, wurden die Paragraphen 29A und 29B eingefügt. Wendet ein Unternehmen IFRS 17 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+81N Durch die im Mai 2020 veröffentlichte Verlautbarung Sachanlagen – Einnahmen vor der beabsichtigten Nutzung wurden die Paragraphen 17 und 74 geändert und die Paragraphen 20A, 74A und 80D eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2022 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+RÜCKNAHME ANDERER VERLAUTBARUNGEN
+
+82 Dieser Standard ersetzt IAS 16 Sachanlagen (überarbeitet 1998).
+
+83 Dieser Standard ersetzt die folgenden Interpretationen:
+a) 
+
+SIC-6 Kosten der Anpassung vorhandener Software
+b) 
+
+SIC-14 Sachanlagen – Entschädigung für die Wertminderung oder den Verlust von Gegenständen und
+c) 
+
+SIC-23 Sachanlagen – Kosten für Großinspektionen oder Generalüberholungen.

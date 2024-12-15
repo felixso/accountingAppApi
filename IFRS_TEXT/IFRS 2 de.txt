@@ -1,0 +1,860 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 2
+
+Anteilsbasierte Vergütung
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses IFRS ist die Regelung der Bilanzierung von anteilsbasierten Vergütungen. Insbesondere schreibt er einem Unternehmen vor, die Auswirkungen anteilsbasierter Vergütungen in seinem Gewinn oder Verlust und seiner Vermögens- und Finanzlage zu berücksichtigen; dies schließt die Aufwendungen aus der Gewährung von Anteilsoptionen an Mitarbeiter ein.
+
+ANWENDUNGSBEREICH
+
+2 Dieser IFRS ist bei der Bilanzierung aller anteilsbasierten Vergütungen anzuwenden, unabhängig davon, ob das Unternehmen alle oder einige der erhaltenen Güter oder Dienstleistungen speziell identifizieren kann. Hierzu zählen
+a) 
+
+anteilsbasierte Vergütungen mit Ausgleich durch Eigenkapitalinstrumente,
+b) 
+
+anteilsbasierte Vergütungen mit Barausgleich und
+c) 
+
+Transaktionen, bei denen das Unternehmen Güter oder Dienstleistungen erhält oder erwirbt und das Unternehmen oder der Lieferant dieser Güter oder Dienstleistungen vertraglich die Wahl hat, ob der Ausgleich in bar (oder in anderen Vermögenswerten) oder durch die Ausgabe von Eigenkapitalinstrumenten erfolgen soll (mit Ausnahme der in den Paragraphen 3A–6 genannten Fälle).
+
+Sollten keine speziell identifizierbaren Güter oder Dienstleistungen vorliegen, können andere Umstände darauf hinweisen, dass das Unternehmen Güter oder Dienstleistungen erhalten hat (oder noch erhalten wird) und damit dieser IFRS anzuwenden ist.
+
+3 [gestrichen]
+
+3A Eine anteilsbasierte Vergütung kann von einem anderen Konzernunternehmen (oder einem Anteilseigner eines beliebigen Konzernunternehmens) im Namen des Unternehmens, das die Güter oder Dienstleistungen erhält oder erwirbt, ausgeglichen werden. Paragraph 2 gilt also auch, wenn ein Unternehmen
+a) 
+
+Güter oder Dienstleistungen erhält, ein anderes Unternehmen desselben Konzerns (oder ein Anteilseigner eines beliebigen Konzernunternehmens) aber zum Ausgleich der anteilsbasierten Vergütung verpflichtet ist, oder
+b) 
+
+zum Ausgleich einer anteilsbasierten Vergütung verpflichtet ist, ein anderes Unternehmen desselben Konzerns aber die Güter oder Dienstleistungen erhält,
+
+es sei denn, die Transaktion dient eindeutig einem anderen Zweck als der Vergütung der Güter oder Dienstleistungen, die das Unternehmen erhält.
+
+4 Im Sinne dieses IFRS stellt eine Transaktion mit einem Mitarbeiter (oder einer anderen Partei) in seiner bzw. ihrer Eigenschaft als Inhaber von Eigenkapitalinstrumenten des Unternehmens keine anteilsbasierte Vergütung dar. Gewährt ein Unternehmen beispielsweise allen Inhabern einer bestimmten Klasse seiner Eigenkapitalinstrumente das Recht, weitere Eigenkapitalinstrumente des Unternehmens zu einem Preis zu erwerben, der unter dem beizulegenden Zeitwert dieser Eigenkapitalinstrumente liegt, und wird einem Mitarbeiter nur deshalb ein solches Recht eingeräumt, weil er Inhaber von Eigenkapitalinstrumenten der betreffenden Klasse ist, unterliegt die Gewährung oder Ausübung dieses Rechts nicht den Vorschriften dieses IFRS.
+
+5 Wie in Paragraph 2 ausgeführt, ist dieser IFRS auf anteilsbasierte Vergütungen anzuwenden, bei denen ein Unternehmen Güter oder Dienstleistungen erwirbt oder erhält. Güter schließen Vorräte, Verbrauchsgüter, Sachanlagen, immaterielle Vermögenswerte und andere nichtfinanzielle Vermögenswerte ein. Dieser IFRS gilt jedoch nicht für Transaktionen, bei denen ein Unternehmen Güter als Teil des bei einem Unternehmenszusammenschluss, wie in IFRS 3 Unternehmenszusammenschlüsse (in der 2008 überarbeiteten Fassung) definiert, als Teil bei einem Zusammenschluss von Unternehmen oder Geschäftsbetrieben unter gemeinsamer Beherrschung, wie in den Paragraphen B1–B4 von IFRS 3 beschrieben, erworbenen Nettovermögens erhält oder einen Geschäftsbetrieb bei der Gründung eines Gemeinschaftsunternehmens, wie in IFRS 11 Gemeinschaftliche Vereinbarungen definiert, einbringt. Daher fallen Eigenkapitalinstrumente, die bei einem Unternehmenszusammenschluss im Austausch für die Beherrschung über das erworbene Unternehmen ausgegeben werden, nicht in den Anwendungsbereich dieses IFRS. Dagegen sind Eigenkapitalinstrumente, die Mitarbeitern des erworbenen Unternehmens in ihrer Eigenschaft als Mitarbeiter (beispielsweise als Gegenleistung für ihren Verbleib im Unternehmen) gewährt werden, in den Anwendungsbereich dieses IFRS eingeschlossen. Ähnliches gilt für die Aufhebung, Ersetzung oder sonstige Änderung anteilsbasierter Vergütungsvereinbarungen infolge eines Unternehmenszusammenschlusses oder einer anderen Eigenkapitalrestrukturierung, die ebenfalls gemäß diesem IFRS zu bilanzieren sind. IFRS 3 dient als Leitlinie zur Ermittlung, ob bei einem Unternehmenszusammenschluss ausgegebene Eigenkapitalinstrumente Teil der im Austausch für die Beherrschung über das erworbene Unternehmen übertragenen Gegenleistung sind (und somit in den Anwendungsbereich von IFRS 3 fallen), oder ob sie im Austausch für ihren Verbleib im Unternehmen in der auf den Zusammenschluss folgenden Berichtsperiode angesetzt werden (und somit in den Anwendungsbereich dieses IFRS fallen).
+
+6 Dieser IFRS ist nicht auf anteilsbasierte Vergütungen anzuwenden, bei denen das Unternehmen Güter oder Dienstleistungen im Rahmen eines Vertrags erhält oder erwirbt, der in den Anwendungsbereich der Paragraphen 8–10 von IAS 32 Finanzinstrumente: Darstellung (in der 2003 überarbeiteten Fassung) ( 37 ) oder der Paragraphen 2.4–2.7 von IFRS 9 Finanzinstrumente fällt.
+
+6A Im vorliegenden IFRS wird der Begriff „beizulegender Zeitwert“ in einer Weise verwendet, die sich in einigen Aspekten von der Definition des beizulegenden Zeitwerts in IFRS 13 Bewertung zum beizulegenden Zeitwert unterscheidet. Wendet ein Unternehmen IFRS 2 an, ermittelt es den beizulegenden Zeitwert daher gemäß vorliegendem IFRS und nicht gemäß IFRS 13.
+
+ANSATZ
+
+7   Ein Unternehmen hat die gegen eine anteilsbasierte Vergütung erhaltenen oder erworbenen Güter oder Dienstleistungen zu dem Zeitpunkt anzusetzen, zu dem das Unternehmen die Güter erhält oder die Vertragspartei ihre Leistung erbringt. Das Unternehmen hat eine entsprechende Eigenkapitalerhöhung darzustellen, wenn der Erhalt der Güter oder Dienstleistungen gegen eine anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente erfolgte, oder eine Schuld anzusetzen, wenn die Güter oder Dienstleistungen gegen eine anteilsbasierte Vergütung mit Barausgleich erworben wurden.
+
+8   Kommen die gegen eine anteilsbasierte Vergütung erhaltenen oder erworbenen Güter oder Dienstleistungen nicht für einen Ansatz als Vermögenswert in Betracht, sind sie als Aufwand zu erfassen.
+
+9 In der Regel entsteht ein Aufwand aus dem Verbrauch von Gütern oder Dienstleistungen. Beispielsweise werden Dienstleistungen normalerweise sofort verbraucht; in diesem Fall wird zum Zeitpunkt der Leistungserbringung durch die Vertragspartei ein Aufwand erfasst. Güter können über einen Zeitraum verbraucht oder, wie bei Vorräten, zu einem späteren Zeitpunkt verkauft werden; in diesem Fall wird ein Aufwand zu dem Zeitpunkt erfasst, zu dem die Güter verbraucht oder verkauft werden. Manchmal ist es jedoch erforderlich, bereits vor dem Verbrauch oder Verkauf der Güter oder Dienstleistungen einen Aufwand zu erfassen, da sie nicht für den Ansatz als Vermögenswert in Betracht kommen. Beispielsweise könnte ein Unternehmen in der Forschungsphase eines Projekts Güter zur Entwicklung eines neuen Produkts erwerben. Diese Güter sind zwar nicht verbraucht worden, erfüllen jedoch unter Umständen nicht die Kriterien für einen Ansatz als Vermögenswert nach dem einschlägigen IFRS.
+
+ANTEILSBASIERTE VERGÜTUNGEN MIT AUSGLEICH DURCH EIGENKAPITALINSTRUMENTE
+
+Überblick
+
+10  Bei anteilsbasierten Vergütungen, die durch Eigenkapitalinstrumente ausgeglichen werden, sind die erhaltenen Güter oder Dienstleistungen und die entsprechende Erhöhung des Eigenkapitals direkt mit dem beizulegenden Zeitwert der erhaltenen Güter oder Dienstleistungen anzusetzen, es sei denn, dass dieser nicht verlässlich geschätzt werden kann. Kann der beizulegende Zeitwert der erhaltenen Güter oder Dienstleistungen nicht verlässlich geschätzt werden, sind deren Wert und die entsprechende Eigenkapitalerhöhung indirekt unter Bezugnahme auf den beizulegenden Zeitwert ( 38 )der gewährten Eigenkapitalinstrumente zu ermitteln.
+
+11 Zur Erfüllung der Vorschriften von Paragraph 10 bei Transaktionen mit Mitarbeitern und anderen, die ähnliche Leistungen erbringen ( 39 ) ist der beizulegende Zeitwert der erhaltenen Leistungen unter Bezugnahme auf den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente zu ermitteln, da es in der Regel nicht möglich ist, den beizulegenden Zeitwert der erhaltenen Leistungen verlässlich zu schätzen, wie in Paragraph 12 näher erläutert wird. Für die Bewertung der Eigenkapitalinstrumente ist der beizulegende Zeitwert am Tag der Gewährung heranzuziehen.
+
+12 Anteile, Anteilsoptionen oder andere Eigenkapitalinstrumente werden Mitarbeitern normalerweise als Teil ihres Vergütungspakets zusätzlich zu einem Bargehalt und anderen Leistungen gewährt. Im Regelfall ist es nicht möglich, die für bestimmte Bestandteile des Vergütungspakets eines Mitarbeiters erhaltenen Leistungen direkt zu bewerten. Unter Umständen kann auch der beizulegende Zeitwert des gesamten Vergütungspakets nicht unabhängig bestimmt werden, ohne direkt den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente zu ermitteln. Darüber hinaus werden Anteile oder Anteilsoptionen mitunter im Rahmen einer Erfolgsbeteiligung und nicht als Teil der Grundvergütung gewährt, beispielsweise um die Mitarbeiter zum Verbleib im Unternehmen zu motivieren oder ihren Einsatz bei der Verbesserung des Unternehmensergebnisses zu honorieren. Mit der Gewährung von Anteilen oder Anteilsoptionen zusätzlich zu anderen Vergütungsformen bezahlt das Unternehmen ein zusätzliches Entgelt für den Erhalt zusätzlicher Leistungen. Der beizulegende Zeitwert dieser zusätzlichen Leistungen ist wahrscheinlich schwer zu schätzen. Aufgrund der Schwierigkeit, den beizulegenden Zeitwert der erhaltenen Leistungen direkt zu ermitteln, ist der beizulegende Zeitwert der erhaltenen Arbeitsleistungen unter Bezugnahme auf den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente zu bestimmen.
+
+13 Zur Anwendung der Vorschriften von Paragraph 10 auf Transaktionen mit Parteien, bei denen es sich nicht um Mitarbeiter handelt, gilt die widerlegbare Vermutung, dass der beizulegende Zeitwert der erhaltenen Güter oder Dienstleistungen verlässlich geschätzt werden kann. Der beizulegende Zeitwert ist zu dem Zeitpunkt zu ermitteln, zu dem das Unternehmen die Güter erhält oder die Vertragspartei ihre Leistung erbringt. Sollte das Unternehmen diese Vermutung in seltenen Fällen widerlegen, weil es den beizulegenden Zeitwert der erhaltenen Güter oder Dienstleistungen nicht verlässlich schätzen kann, sind die erhaltenen Güter oder Dienstleistungen und die entsprechende Erhöhung des Eigenkapitals indirekt unter Bezugnahme auf den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente zu dem Zeitpunkt zu bewerten, zu dem das Unternehmen die Güter erhält oder die Vertragspartei ihre Leistung erbringt.
+
+13A Sollte insbesondere die vom Unternehmen erhaltene identifizierbare Gegenleistung (falls vorhanden) geringer sein als der beizulegende Zeitwert der gewährten Eigenkapitalinstrumente oder der entstandenen Schuld, so ist dies in der Regel ein Hinweis darauf, dass das Unternehmen eine weitere Gegenleistung (d. h. nicht identifizierbare Güter oder Dienstleistungen) erhalten hat (oder noch erhalten wird). Die identifizierbaren Güter oder Dienstleistungen, die das Unternehmen erhalten hat, sind gemäß diesem IFRS zu bewerten. Die nicht identifizierbaren Güter oder Dienstleistungen, die das Unternehmen erhalten hat (oder noch erhalten wird), sind mit der Differenz zwischen dem beizulegenden Zeitwert der anteilsbasierten Vergütung und dem beizulegenden Zeitwert aller erhaltenen (oder noch zu erhaltenden) identifizierbaren Güter oder Dienstleistungen anzusetzen. Die nicht identifizierbaren Güter oder Dienstleistungen, die das Unternehmen erhalten hat, sind zu dem Wert am Tag der Gewährung anzusetzen. Bei Transaktionen mit Barausgleich ist die Schuld jedoch zu jedem Abschlussstichtag neu zu bewerten, bis sie gemäß den Paragraphen 30–33 beglichen ist.
+
+Transaktionen, die den Erhalt von Dienstleistungen beinhalten
+
+14 Sind die gewährten Eigenkapitalinstrumente sofort erdient, ist der Erwerb eines uneingeschränkten Anspruchs an diesen Eigenkapitalinstrumenten seitens der Vertragspartei nicht von der Ableistung einer bestimmten Dienstzeit durch die Vertragspartei abhängig. Sofern keine gegenteiligen Anhaltspunkte vorliegen, hat das Unternehmen von der Annahme auszugehen, dass die von der Vertragspartei als Gegenleistung für die Eigenkapitalinstrumente zu erbringenden Leistungen bereits erbracht wurden. In diesem Fall hat das Unternehmen die erhaltenen Leistungen am Tag der Gewährung in voller Höhe mit einer entsprechenden Erhöhung des Eigenkapitals zu erfassen.
+
+15 Ist die Erdienung der gewährten Eigenkapitalinstrumente von der Ableistung einer bestimmten Dienstzeit durch die Vertragspartei abhängig, hat das Unternehmen davon auszugehen, dass die von der Vertragspartei als Gegenleistung für diese Eigenkapitalinstrumente zu erbringenden Leistungen künftig im Laufe des Erdienungszeitraums erhalten werden. Das Unternehmen hat diese Leistungen jeweils zum Zeitpunkt ihrer Erbringung während des Erdienungszeitraums mit einer einhergehenden Eigenkapitalerhöhung zu erfassen. Es folgen zwei Beispiele:
+a) 
+
+Wenn einem Mitarbeiter Anteilsoptionen unter der Bedingung eines dreijährigen Verbleibs im Unternehmen gewährt werden, hat das Unternehmen zu unterstellen, dass die vom Mitarbeiter als Gegenleistung für die Anteilsoptionen zu erbringenden Leistungen künftig im Laufe dieses dreijährigen Erdienungszeitraums erhalten werden.
+b) 
+
+Wenn einem Mitarbeiter Anteilsoptionen unter der Bedingung gewährt werden, dass er eine bestimmte Leistungsbedingung erfüllt und so lange im Unternehmen bleibt, bis diese Leistungsbedingung eingetreten ist, und die Länge des Erdienungszeitraums je nach dem Zeitpunkt der Erfüllung der Leistungsbedingung variiert, hat das Unternehmen davon auszugehen, dass es die vom Mitarbeiter als Gegenleistung für die Anteilsoptionen zu erbringenden Leistungen künftig, im Laufe des erwarteten Erdienungszeitraums, erhalten wird. Die Dauer des erwarteten Erdienungszeitraums ist am Tag der Gewährung nach dem wahrscheinlichsten Eintreten der Leistungsbedingung zu schätzen. Handelt es sich bei der Leistungsbedingung um eine Marktbedingung, hat die geschätzte Dauer des erwarteten Erdienungszeitraums mit den bei der Schätzung des beizulegenden Zeitwerts der gewährten Optionen verwendeten Annahmen übereinzustimmen und darf später nicht mehr geändert werden. Ist die Leistungsbedingung keine Marktbedingung, hat das Unternehmen die geschätzte Dauer des Erdienungszeitraums bei Bedarf zu korrigieren, wenn spätere Informationen darauf hindeuten, dass die Länge des Erdienungszeitraums von den bisherigen Schätzungen abweicht.
+
+Transaktionen, die unter Bezugnahme auf den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente bewertet werden
+
+Ermittlung des beizulegenden Zeitwerts der gewährten Eigenkapitalinstrumente
+
+16 Bei Transaktionen, die unter Bezugnahme auf den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente bewertet werden, ist der beizulegende Zeitwert der gewährten Eigenkapitalinstrumente am Bewertungsstichtag anhand der Marktpreise (sofern verfügbar) unter Berücksichtigung der besonderen Konditionen, zu denen die Eigenkapitalinstrumente gewährt wurden, (vorbehaltlich der Vorschriften der Paragraphen 19–22) zu ermitteln.
+
+17 Stehen keine Marktpreise zur Verfügung, ist der beizulegende Zeitwert der gewährten Eigenkapitalinstrumente anhand eines Bewertungsverfahrens zu bestimmen, bei dem geschätzt wird, welchen Preis die betreffenden Eigenkapitalinstrumente am Bewertungsstichtag bei einer Transaktion zwischen sachverständigen, vertragswilligen und voneinander unabhängigen Parteien unter marktüblichen Bedingungen erzielt hätten. Das Bewertungsverfahren muss den allgemein anerkannten Bewertungsmethoden zur Ermittlung der Preise von Finanzinstrumenten entsprechen und alle Faktoren und Annahmen berücksichtigen, die sachverständige, vertragswillige Marktteilnehmer bei der Preisfestlegung berücksichtigen würden (vorbehaltlich der Vorschriften der Paragraphen 19–22).
+
+18 Anhang B enthält weitere Leitlinien für die Ermittlung des beizulegenden Zeitwerts von Anteilen und Anteilsoptionen, wobei vor allem auf die üblichen Vertragsbedingungen bei der Gewährung von Anteilen oder Anteilsoptionen an Mitarbeiter eingegangen wird.
+
+Behandlung der Erdienungsbedingungen
+
+19 Die Gewährung von Eigenkapitalinstrumenten kann an die Erfüllung bestimmter Erdienungsbedingungen gekoppelt sein. Beispielsweise ist die Zusage von Anteilen oder Anteilsoptionen an einen Mitarbeiter in der Regel davon abhängig, dass er eine bestimmte Zeit im Unternehmen verbleibt. Unter Umständen sind auch Leistungsbedingungen zu erfüllen, wie z. B. die Erzielung eines bestimmten Gewinnwachstums oder eine bestimmte Steigerung des Anteilspreises des Unternehmens. Erdienungsbedingungen, bei denen es sich nicht um Marktbedingungen handelt, fließen nicht in die Schätzung des beizulegenden Zeitwerts der Anteile oder Anteilsoptionen am Bewertungsstichtag ein. Stattdessen sind Erdienungsbedingungen, bei denen es sich nicht um Marktbedingungen handelt, durch Anpassung der Anzahl der in die Bestimmung des Transaktionsbetrags einbezogenen Eigenkapitalinstrumente zu berücksichtigen, sodass der angesetzte Betrag für die Güter oder Dienstleistungen, die als Gegenleistung für die gewährten Eigenkapitalinstrumente erhalten werden, schließlich auf der Anzahl der letztlich erdienten Eigenkapitalinstrumente beruht. Dementsprechend wird auf kumulierter Basis kein Betrag für erhaltene Güter oder Dienstleistungen erfasst, wenn die gewährten Eigenkapitalinstrumente wegen der Nichterfüllung einer Erdienungsbedingung, bei der es sich nicht um eine Marktbedingung handelt, beispielsweise beim Ausscheiden eines Mitarbeiters vor der festgelegten Dienstzeit oder der Nichterfüllung einer Leistungsbedingung, vorbehaltlich der Vorschriften in Paragraph 21 nicht erdient werden.
+
+20 Zur Anwendung der Vorschriften von Paragraph 19 ist für die während des Erdienungszeitraums erhaltenen Güter oder Dienstleistungen ein Betrag anzusetzen, der auf der bestmöglichen Schätzung der Anzahl der voraussichtlich erdienten Eigenkapitalinstrumente basiert, wobei diese Schätzung bei Bedarf zu korrigieren ist, wenn spätere Informationen darauf hindeuten, dass die Anzahl der voraussichtlich erdienten Eigenkapitalinstrumente von den bisherigen Schätzungen abweicht. Am Tag der Erdienung ist die Schätzung vorbehaltlich der Vorschriften von Paragraph 21 an die Anzahl der letztlich erdienten Eigenkapitalinstrumente anzugleichen.
+
+21 Bei der Schätzung des beizulegenden Zeitwerts gewährter Eigenkapitalinstrumente sind die Marktbedingungen zu berücksichtigen, wie beispielsweise ein Zielanteilspreis, an den die Erdienung (oder Ausübbarkeit) geknüpft ist. Daher hat das Unternehmen bei der Gewährung von Eigenkapitalinstrumenten, die Marktbedingungen unterliegen, die von einer Vertragspartei erhaltenen Güter oder Dienstleistungen unabhängig vom Eintreten dieser Marktbedingungen zu erfassen, sofern die Vertragspartei alle anderen Erdienungsbedingungen erfüllt (etwa die Leistungen eines Mitarbeiters, der die vertraglich festgelegte Zeit im Unternehmen verblieben ist).
+
+Behandlung der Bedingungen, bei denen es sich nicht um Erdienungsbedingungen handelt
+
+21A In gleicher Weise hat ein Unternehmen bei der Schätzung des beizulegenden Zeitwerts gewährter Eigenkapitalinstrumente alle Bedingungen, bei denen es sich nicht um Erdienungsbedingungen handelt, zu berücksichtigen. Daher hat das Unternehmen bei der Gewährung von Eigenkapitalinstrumenten, die Bedingungen unterliegen, bei denen es sich nicht um Erdienungsbedingungen handelt, die von einer Vertragspartei erhaltenen Güter oder Dienstleistungen unabhängig vom Eintreten dieser Bedingungen zu erfassen, sofern die Vertragspartei alle Erdienungsbedingungen, bei denen es sich nicht um Marktbedingungen handelt, erfüllt (etwa die Leistungen eines Mitarbeiters, der die vertraglich festgelegte Zeit im Unternehmen verblieben ist).
+
+Behandlung von Reload-Eigenschaften
+
+22 Bei Optionen mit Reload-Eigenschaften ist die Reload-Eigenschaft bei der Ermittlung des beizulegenden Zeitwerts der am Bewertungsstichtag gewährten Optionen nicht zu berücksichtigen. Stattdessen ist eine Reload-Option zu dem Zeitpunkt als neu gewährte Option zu buchen, zu dem sie später gewährt wird.
+
+Nach dem Tag der Erdienung
+
+23 Nachdem die erhaltenen Güter oder Dienstleistungen gemäß den Paragraphen 10–22 mit einer entsprechenden Eigenkapitalerhöhung erfasst wurden, dürfen nach dem Tag der Erdienung keine weiteren Änderungen am Gesamtwert des Eigenkapitals mehr vorgenommen werden. Beispielsweise darf die Erfassung eines Betrags für von einem Mitarbeiter erbrachte Leistungen nicht rückgängig gemacht werden, wenn die erdienten Eigenkapitalinstrumente später verwirkt oder, im Falle von Anteilsoptionen, die Optionen nicht ausgeübt werden. Diese Vorschrift schließt jedoch nicht die Möglichkeit einer Umbuchung innerhalb des Eigenkapitals, also eine Umbuchung von einem Eigenkapitalposten in einen anderen, aus.
+
+Wenn der beizulegende Zeitwert der Eigenkapitalinstrumente nicht verlässlich geschätzt werden kann
+
+24 Die Vorschriften in den Paragraphen 16–23 sind anzuwenden, wenn eine anteilsbasierte Vergütung unter Bezugnahme auf den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente zu bewerten ist. In seltenen Fällen kann ein Unternehmen nicht in der Lage sein, den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente gemäß den Vorschriften der Paragraphen 16–22 am Bewertungsstichtag verlässlich zu schätzen. Ausschließlich in diesen seltenen Fällen hat das Unternehmen stattdessen
+a) 
+
+die Eigenkapitalinstrumente mit ihrem inneren Wert anzusetzen, und zwar erstmals zu dem Zeitpunkt, zu dem das Unternehmen die Güter erhält oder die Vertragspartei die Dienstleistung erbringt, und anschließend an jedem Abschlussstichtag sowie am Tag der endgültigen Erfüllung, wobei etwaige Änderungen des inneren Werts erfolgswirksam zu erfassen sind. Bei der Gewährung von Anteilsoptionen gilt die anteilsbasierte Vergütungsvereinbarung als endgültig erfüllt, wenn die Optionen ausgeübt bzw. verwirkt werden (z.B. durch Beendigung des Beschäftigungsverhältnisses) oder verfallen (z. B. nach Ablauf der Ausübungsfrist).
+b) 
+
+die erhaltenen Güter oder Dienstleistungen auf Basis der Anzahl der letztlich erdienten oder (falls zutreffend) letztlich ausgeübten Eigenkapitalinstrumente anzusetzen. Bei Anwendung dieser Vorschrift auf Anteilsoptionen sind beispielsweise die während des Erdienungszeitraums erhaltenen Güter oder Dienstleistungen gemäß den Paragraphen 14 und 15, mit Ausnahme der Vorschriften in Paragraph 15(b) in Bezug auf das Vorliegen einer Marktbedingung, zu erfassen. Der Betrag, der für die während des Erdienungszeitraums erhaltenen Güter oder Dienstleistungen angesetzt wird, richtet sich nach der voraussichtlichen Anzahl der erdienten Anteilsoptionen. Diese Schätzung ist bei Bedarf zu korrigieren, wenn spätere Informationen darauf hindeuten, dass die voraussichtliche Anzahl der erdienten Anteilsoptionen von den bisherigen Schätzungen abweicht. Am Tag der Erdienung ist die Schätzung an die Anzahl der letztlich erdienten Eigenkapitalinstrumente anzugleichen. Nach dem Tag der Erdienung ist der für erhaltene Güter oder Dienstleistungen erfasste Betrag zurückzubuchen, wenn die Anteilsoptionen später verwirkt werden oder nach Ablauf der Ausübungsfrist verfallen.
+
+25 Für Unternehmen, die nach Paragraph 24 bilanzieren, sind die Vorschriften in den Paragraphen 26–29 nicht anzuwenden, da etwaige Änderungen der Vertragsbedingungen, zu denen die Eigenkapitalinstrumente gewährt wurden, bei der in Paragraph 24 beschriebenen Methode des inneren Werts bereits berücksichtigt werden. Für die Erfüllung gewährter Eigenkapitalinstrumente, die nach Paragraph 24 bewertet wurden, gilt jedoch:
+a) 
+
+Tritt die Erfüllung während des Erdienungszeitraums ein, hat das Unternehmen die Erfüllung als vorgezogene Erdienung zu bilanzieren und daher den Betrag, der ansonsten für die im verbleibenden Erdienungszeitraum erhaltenen Leistungen erfasst worden wäre, sofort zu erfassen.
+b) 
+
+Alle zum Zeitpunkt der Erfüllung geleisteten Zahlungen sind als Rückkauf von Eigenkapitalinstrumenten, also als Abzug vom Eigenkapital, zu bilanzieren; davon ausgenommen ist der Anteil des gezahlten Betrags, der den am Tag des Rückkaufs ermittelten inneren Wert der rückgekauften Eigenkapitalinstrumente übersteigt und als Aufwand zu erfassen ist.
+
+Änderungen der Vertragsbedingungen, zu denen die Eigenkapitalinstrumente gewährt wurden, einschließlich Annullierungen und Erfüllungen
+
+26 Es ist denkbar, dass ein Unternehmen die Vertragsbedingungen für die Gewährung der Eigenkapitalinstrumente ändert. Beispielsweise könnte es den Ausübungspreis für gewährte Mitarbeiteroptionen senken (also den Optionspreis neu festsetzen), wodurch sich der beizulegende Zeitwert dieser Optionen erhöht. Die Vorschriften in den Paragraphen 27–29 für die Bilanzierung der Auswirkungen solcher Änderungen sind im Kontext anteilsbasierter Vergütungen für Mitarbeiter formuliert. Sie gelten jedoch auch für anteilsbasierte Vergütungen für Parteien, bei denen es sich nicht um Mitarbeiter handelt, die unter Bezugnahme auf den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente erfasst werden. Im letzten Fall beziehen sich alle in den Paragraphen 27–29 enthaltenen Verweise auf den Tag der Gewährung stattdessen auf den Tag, an dem das Unternehmen die Güter erhält oder die Vertragspartei die Dienstleistung erbringt.
+
+27 Die erhaltenen Leistungen sind mindestens mit dem am Tag der Gewährung ermittelten beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente zu erfassen, es sei denn, diese Eigenkapitalinstrumente sind nicht erdient, weil eine am Tag der Gewährung vereinbarte Erdienungsbedingung (bei der es sich nicht um eine Marktbedingung handelt) nicht erfüllt war. Dies gilt unabhängig von etwaigen Änderungen der Vertragsbedingungen, zu denen die Eigenkapitalinstrumente gewährt wurden, oder einer Annullierung oder Erfüllung der gewährten Eigenkapitalinstrumente. Außerdem hat ein Unternehmen die Auswirkungen von Änderungen zu erfassen, die den gesamten beizulegenden Zeitwert der anteilsbasierten Vergütungsvereinbarung erhöhen oder mit einem anderen Nutzen für den Mitarbeiter verbunden sind. Leitlinien für die Anwendung dieser Vorschrift sind in Anhang B zu finden.
+
+28 Bei einer Annullierung (ausgenommen einer Annullierung durch Verwirkung, weil die Erdienungsbedingungen nicht erfüllt wurden) oder Erfüllung gewährter Eigenkapitalinstrumente während des Erdienungszeitraums gilt Folgendes:
+a) 
+
+Das Unternehmen hat die Annullierung oder Erfüllung als vorgezogene Erdienung zu behandeln und daher den Betrag, der ansonsten für die im verbleibenden Erdienungszeitraum erhaltenen Leistungen erfasst worden wäre, sofort zu erfassen.
+b) 
+
+Alle Zahlungen, die zum Zeitpunkt der Annullierung oder Erfüllung an den Mitarbeiter geleistet werden, sind als Rückkauf eines Eigenkapitalanteils, also als Abzug vom Eigenkapital, zu bilanzieren; davon ausgenommen ist der Anteil des gezahlten Betrags, der den am Tag des Rückkaufs ermittelten beizulegenden Zeitwert der rückgekauften Eigenkapitalinstrumente übersteigt und als Aufwand zu erfassen ist. Enthält eine anteilsbasierte Vergütungsvereinbarung jedoch Schuldkomponenten, so ist der beizulegende Zeitwert der Schuld am Tag der Annullierung oder Erfüllung neu zu bewerten. Alle Zahlungen, die zur Erfüllung der Schuldkomponente geleistet werden, sind als eine Tilgung der Schuld zu bilanzieren.
+c) 
+
+Wenn einem Mitarbeiter neue Eigenkapitalinstrumente gewährt werden und das Unternehmen am Tag der Gewährung dieser neuen Eigenkapitalinstrumente angibt, dass die neuen Eigenkapitalinstrumente als Ersatz für die annullierten Eigenkapitalinstrumente gewährt wurden, sind die als Ersatz gewährten Eigenkapitalinstrumente auf gleiche Weise wie eine Änderung der ursprünglich gewährten Eigenkapitalinstrumente gemäß Paragraph 27 und den Anwendungsleitlinien in Anhang B zu bilanzieren. Der gewährte zusätzliche beizulegende Zeitwert entspricht der Differenz zwischen dem beizulegenden Zeitwert der als Ersatz bestimmten Eigenkapitalinstrumente und dem beizulegenden Nettozeitwert der annullierten Eigenkapitalinstrumente am Tag, an dem die Ersatzinstrumente gewährt wurden. Der beizulegende Nettozeitwert der annullierten Eigenkapitalinstrumente ergibt sich aus ihrem beizulegenden Zeitwert unmittelbar vor der Annullierung, abzüglich des Betrags einer etwaigen Zahlung, die zum Zeitpunkt der Annullierung der Eigenkapitalinstrumente an den Mitarbeiter geleistet wurde und die gemäß (b) oben als Abzug vom Eigenkapital zu bilanzieren ist. Neue Eigenkapitalinstrumente, die nach Angabe des Unternehmens nicht als Ersatz für die annullierten Eigenkapitalinstrumente gewährt wurden, sind als neue gewährte Eigenkapitalinstrumente zu bilanzieren.
+
+28A Wenn ein Unternehmen oder eine Vertragspartei wählen kann, ob es bzw. sie eine Bedingung, bei der es sich nicht um eine Erdienungsbedingung handelt, erfüllen will, und das Unternehmen oder die Vertragspartei es unterlässt, die Bedingung, bei der es sich nicht um eine Erdienungsbedingung handelt, während des Erdienungszeitraums zu erfüllen, so ist dies als eine Annullierung zu behandeln.
+
+29 Beim Rückkauf von erdienten Eigenkapitalinstrumenten sind die an den Mitarbeiter geleisteten Zahlungen als Abzug vom Eigenkapital zu bilanzieren; davon ausgenommen ist der Anteil des gezahlten Betrags, der den am Tag des Rückkaufs ermittelten beizulegenden Zeitwert der rückgekauften Eigenkapitalinstrumente übersteigt und als Aufwand zu erfassen ist.
+
+ANTEILSBASIERTE VERGÜTUNGEN MIT BARAUSGLEICH
+
+30   Bei anteilsbasierten Vergütungen mit Barausgleich sind die erworbenen Güter oder Dienstleistungen und die entstandene Schuld vorbehaltlich der Vorschriften der Paragraphen 31–33D mit dem beizulegenden Zeitwert der Schuld zu erfassen. Bis zur Begleichung der Schuld ist der beizulegende Zeitwert der Schuld zu jedem Abschlussstichtag und am Erfüllungstag neu zu bestimmen und sind alle Änderungen des beizulegenden Zeitwerts erfolgswirksam in der Periode zu erfassen.
+
+31 Ein Unternehmen könnte seinen Mitarbeitern z. B. als Teil ihres Vergütungspakets Wertsteigerungsrechte gewähren, mit denen sie einen Anspruch auf eine künftige Barvergütung (anstelle eines Eigenkapitalinstruments) erwerben, die an den Preisanstieg der Anteile dieses Unternehmens gegenüber einem bestimmten Basispreis über einen bestimmten Zeitraum gekoppelt ist. Eine andere Möglichkeit der Gewährung eines Anspruchs auf den Erhalt einer künftigen Barvergütung besteht darin, den Mitarbeitern ein Bezugsrecht auf Anteile (einschließlich zum Zeitpunkt der Ausübung der Anteilsoptionen auszugebender Anteile) einzuräumen, die rückkaufbar sind, entweder verbindlich (beispielsweise bei Beendigung des Beschäftigungsverhältnisses) oder nach Wahl des Mitarbeiters. Diese Vereinbarungen sind Beispiele für anteilsbasierte Vergütungen mit Barausgleich. Wertsteigerungsrechte werden erwähnt, um einige Vorschriften der Paragraphen 32–33D zu veranschaulichen; die Vorschriften dieser Paragraphen gelten aber für alle anteilsbasierten Vergütungen mit Barausgleich.
+
+32 Das Unternehmen hat zu dem Zeitpunkt, zu dem die Mitarbeiter ihre Leistung erbringen, die erhaltenen Leistungen und gleichzeitig eine Schuld zur Abgeltung dieser Leistungen zu erfassen. Einige Wertsteigerungsrechte sind beispielsweise sofort erdient, sodass der Mitarbeiter nicht an die Ableistung einer bestimmten Dienstzeit gebunden ist, bevor er einen Anspruch auf die Barvergütung erwirbt. Sofern keine gegenteiligen Anhaltspunkte vorliegen, ist der Erhalt der von den Mitarbeitern im Austausch für die Wertsteigerungsrechte zu erbringenden Leistungen zu unterstellen. Dementsprechend hat das Unternehmen die erhaltenen Leistungen und die daraus entstehende Schuld sofort zu erfassen. Ist die Erdienung der Wertsteigerungsrechte von der Ableistung einer bestimmten Dienstzeit abhängig, sind die erhaltenen Leistungen und die daraus entstehende Schuld zu dem Zeitpunkt zu erfassen, zu dem die Leistungen von den Mitarbeitern während dieses Zeitraums erbracht wurden.
+
+33 Vorbehaltlich der Vorschriften der Paragraphen 33A–33D ist die Schuld bei der erstmaligen Erfassung und zu jedem Abschlussstichtag bis zu ihrer Begleichung mit dem beizulegenden Zeitwert der Wertsteigerungsrechte anzusetzen, hierzu ist ein Optionspreismodell anzuwenden, das die Vertragsbedingungen, zu denen die Wertsteigerungsrechte gewährt wurden, und den Umfang der bisher von den Mitarbeitern abgeleisteten Dienstzeit berücksichtigt. Ein Unternehmen kann die Vertragsbedingungen, zu denen eine anteilsbasierte Vergütung mit Barausgleich gewährt wird, ändern. Die Paragraphen B44A–B44C in Anhang B enthalten Leitlinien für die Bilanzierung von Änderungen, die bewirken, dass eine anteilsbasierte Vergütung mit Barausgleich fortan als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente einzustufen ist.
+
+Behandlung von Erdienungsbedingungen und von Bedingungen, bei denen es sich nicht um Erdienungsbedingungen handelt
+
+33A Eine anteilsbasierte Vergütung mit Barausgleich kann an die Erfüllung bestimmter Erdienungsbedingungen gekoppelt sein. Unter Umständen sind auch Leistungsbedingungen zu erfüllen, wie z. B. die Erreichung eines bestimmten Gewinnwachstums oder eine bestimmte Steigerung des Anteilspreises des Unternehmens. Erdienungsbedingungen, bei denen es sich nicht um Marktbedingungen handelt, fließen nicht in die Schätzung des beizulegenden Zeitwerts der anteilsbasierten Vergütung mit Barausgleich am Bewertungsstichtag ein. Stattdessen sind Erdienungsbedingungen, bei denen es sich nicht um Marktbedingungen handelt, durch Anpassung der Anzahl der Prämien zu berücksichtigen, die bei der Bewertung der mit der Vergütung einhergehenden Schuld berücksichtigt werden.
+
+33B Zur Anwendung der Vorschriften in Paragraph 33A hat das Unternehmen für die während des Erdienungszeitraums erhaltenen Güter oder Dienstleistungen einen Betrag anzusetzen, der auf der bestmöglichen Schätzung der Anzahl der voraussichtlich erdienten Prämien basiert, wobei diese Schätzung bei Bedarf zu korrigieren ist, wenn spätere Informationen darauf hindeuten, dass die Anzahl der voraussichtlich erdienten Prämien von den bisherigen Schätzungen abweicht. Am Tag der Erdienung ist die Schätzung an die Anzahl der letztlich erdienten Prämien anzupassen.
+
+33C Bei der Schätzung des beizulegenden Zeitwerts der gewährten anteilsbasierten Vergütung mit Barausgleich sowie bei der Neubewertung des beizulegenden Zeitwerts zu jedem Abschlussstichtag und am Erfüllungstag sind die Marktbedingungen, wie beispielsweise ein Zielanteilspreis, an den die Erdienung (oder Ausübbarkeit) geknüpft ist, sowie Bedingungen, bei denen es sich nicht um Erdienungsbedingungen handelt, zu berücksichtigen.
+
+33D Die Anwendung der Paragraphen 30–33C führt dazu, dass der kumulierte Betrag, der letztlich für die als Gegenleistung für die anteilsbasierte Vergütung mit Barausgleich erhaltenen Güter oder Dienstleistungen angesetzt wird, dem gezahlten Geldbetrag entspricht.
+
+ANTEILSBASIERTE VERGÜTUNGEN MIT EINEM NETTOAUSGLEICH FÜR DIE EINBEHALTUNG VON STEUERN
+
+33E Ein Unternehmen kann nach den anwendbaren Steuergesetzen bzw. -vorschriften verpflichtet sein, bei einer anteilsbasierten Vergütung einen Betrag einzubehalten, der den vom Mitarbeiter in diesem Zusammenhang geschuldeten Steuern entspricht und den das Unternehmen im Namen des Mitarbeiters — in der Regel in Form eines Geldbetrags — an die Steuerbehörde abführt. Zur Erfüllung dieser Verpflichtung kann die anteilsbasierte Vergütungsvereinbarung für das Unternehmen die Möglichkeit oder Pflicht vorsehen, eine dem Geldwert der Steuerschuld des Mitarbeiters entsprechende Anzahl von Eigenkapitalinstrumenten von der Gesamtzahl der Eigenkapitalinstrumente, die an den Mitarbeiter bei Ausübung (oder Erdienung) der anteilsbasierten Vergütung ausgegeben worden wäre, einzubehalten (d. h. die anteilsbasierte Vergütungsvereinbarung sieht einen Nettoausgleich vor).
+
+33F Wäre die in Paragraph 33E beschriebene Transaktion ohne den Nettoausgleich als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente eingestuft worden, ist sie als Ausnahme von den Vorschriften in Paragraph 34 in ihrer Gesamtheit als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente einzustufen.
+
+33G Das Unternehmen hat die Anteile, die zur Finanzierung der Zahlung einbehalten werden, die im Namen des Mitarbeiters für dessen Steuerschuld aus der anteilsbasierten Vergütung an die Steuerverwaltung geleistet wird, gemäß Paragraph 29 des vorliegenden Standards zu bilanzieren. Daher ist die geleistete Zahlung, soweit sie den beizulegenden Zeitwert der einbehaltenen Eigenkapitalinstrumente am Erfüllungstag (Zeitpunkt des Nettoausgleichs) nicht übersteigt, für die einbehaltenen Anteile als Abzug vom Eigenkapital zu bilanzieren.
+
+33H Die in Paragraph 33F beschriebene Ausnahme gilt nicht für
+a) 
+
+anteilsbasierte Vergütungsvereinbarungen mit Nettoausgleich, bei denen für das Unternehmen nach den Steuergesetzen oder -vorschriften keine Verpflichtung besteht, bei einer anteilsbasierten Vergütung einen Betrag für die vom Mitarbeiter in diesem Zusammenhang geschuldeten Steuern einzubehalten, oder
+b) 
+
+Eigenkapitalinstrumente, die das Unternehmen einbehält und die über die Steuerschuld des Mitarbeiters im Zusammenhang mit der anteilsbasierten Vergütung hinausgehen (d. h. das Unternehmen behält eine Anzahl von Anteilen ein, deren Geldwert höher ist als die Steuerschuld des Mitarbeiters). Diese zu viel einbehaltenen Anteile sind als anteilsbasierte Vergütung mit Barausgleich zu bilanzieren, wenn der Betrag in bar (oder in anderen Vermögenswerten) an den Mitarbeiter ausgezahlt wird.
+
+ANTEILSBASIERTE VERGÜTUNGEN MIT WAHLWEISEM BARAUSGLEICH ODER AUSGLEICH DURCH EIGENKAPITALINSTRUMENTE
+
+34   Bei anteilsbasierten Vergütungen, bei denen das Unternehmen oder die Gegenpartei vertraglich die Wahl haben, ob die Transaktion in bar (oder in anderen Vermögenswerten) oder durch die Ausgabe von Eigenkapitalinstrumenten abgegolten wird, ist die Transaktion bzw. sind deren Bestandteile als anteilsbasierte Vergütung mit Barausgleich zu bilanzieren, sofern und soweit für das Unternehmen eine Verpflichtung zum Ausgleich in bar oder in anderen Vermögenswerten besteht, bzw. als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente, sofern und soweit keine solche Verpflichtung besteht.
+
+Anteilsbasierte Vergütungen mit Erfüllungswahlrecht bei der Gegenpartei
+
+35 Lässt ein Unternehmen der Gegenpartei die Wahl, ob eine anteilsbasierte Vergütung in bar ( 40 ) oder durch die Ausgabe von Eigenkapitalinstrumenten beglichen werden soll, liegt die Gewährung eines zusammengesetzten Finanzinstruments vor, das aus einer Schuldkomponente (dem Recht der Gegenpartei auf Barvergütung) und einer Eigenkapitalkomponente (dem Recht der Gegenpartei auf einen Ausgleich durch Eigenkapitalinstrumente anstelle durch Barvergütung) besteht. Bei Transaktionen mit Parteien, bei denen es sich nicht um Mitarbeiter handelt, bei denen der beizulegende Zeitwert der erhaltenen Güter und Dienstleistungen direkt ermittelt wird, ist die Eigenkapitalkomponente des zusammengesetzten Finanzinstruments als Differenz zwischen dem beizulegenden Zeitwert der erhaltenen Güter oder Dienstleistungen und dem beizulegenden Zeitwert der Schuldkomponente zum Zeitpunkt des Erhalts der Güter oder Dienstleistungen anzusetzen.
+
+36 Bei anderen Transaktionen, einschließlich Transaktionen mit Mitarbeitern, hat das Unternehmen den beizulegenden Zeitwert des zusammengesetzten Finanzinstruments zum Bewertungsstichtag unter Berücksichtigung der Vertragsbedingungen zu bestimmen, zu denen die Rechte auf Barausgleich oder Ausgleich durch Eigenkapitalinstrumente gewährt wurden.
+
+37 Zur Anwendung von Paragraph 36 ist zunächst der beizulegende Zeitwert der Schuldkomponente und im Anschluss daran der beizulegende Zeitwert der Eigenkapitalkomponente zu ermitteln — wobei zu berücksichtigen ist, dass die Gegenpartei beim Erhalt des Eigenkapitalinstruments ihr Recht auf Barvergütung verwirkt. Der beizulegende Zeitwert des zusammengesetzten Finanzinstruments entspricht der Summe der beizulegenden Zeitwerte der beiden Komponenten. Anteilsbasierte Vergütungen, bei denen die Gegenpartei die Form der Erfüllung frei wählen kann, sind jedoch häufig so strukturiert, dass beide Erfüllungsalternativen den gleichen beizulegenden Zeitwert haben. Die Gegenpartei könnte beispielsweise die Wahl zwischen dem Erhalt von Anteilsoptionen oder in bar abgegoltenen Wertsteigerungsrechten haben. In solchen Fällen ist der beizulegende Zeitwert der Eigenkapitalkomponente gleich null, d. h. der beizulegende Zeitwert des zusammengesetzten Finanzinstruments entspricht dem der Schuldkomponente. Umgekehrt ist der beizulegende Zeitwert der Eigenkapitalkomponente in der Regel größer als null, wenn sich die beizulegenden Zeitwerte der Erfüllungsalternativen unterscheiden; in diesem Fall ist der beizulegende Zeitwert des zusammengesetzten Finanzinstruments größer als der beizulegende Zeitwert der Schuldkomponente.
+
+38 Die erhaltenen oder erworbenen Güter oder Dienstleistungen sind entsprechend ihrer Einstufung als Schuld- oder Eigenkapitalkomponente des zusammengesetzten Finanzinstruments getrennt auszuweisen. Für die Schuldkomponente sind zu dem Zeitpunkt, zu dem die Gegenpartei die Güter liefert oder Leistungen erbringt, die erhaltenen Güter oder Dienstleistungen und gleichzeitig eine Schuld zur Begleichung dieser Güter oder Dienstleistungen gemäß den für anteilsbasierte Vergütungen mit Barausgleich geltenden Vorschriften (Paragraphen 30–33) zu erfassen. Für die Eigenkapitalkomponente (falls vorhanden) sind zu dem Zeitpunkt, zu dem die Gegenpartei die Güter liefert oder Leistungen erbringt, die erhaltenen Güter oder Dienstleistungen und gleichzeitig eine Erhöhung des Eigenkapitals gemäß den für anteilsbasierte Vergütungen mit Ausgleich durch Eigenkapitalinstrumente geltenden Vorschriften (Paragraphen 10–29) zu erfassen.
+
+39 Am Erfüllungstag hat das Unternehmen die Schuld mit dem beizulegenden Zeitwert neu zu bewerten. Erfolgt der Ausgleich nicht in bar, sondern durch die Ausgabe von Eigenkapitalinstrumenten, ist die Schuld als Gegenleistung für die ausgegebenen Eigenkapitalinstrumente direkt ins Eigenkapital umzubuchen.
+
+40 Erfolgt der Ausgleich in bar anstatt durch die Ausgabe von Eigenkapitalinstrumenten, gilt die Schuld mit dieser Zahlung als vollständig beglichen. Alle vorher erfassten Eigenkapitalkomponenten verbleiben im Eigenkapital. Durch ihre Entscheidung für einen Barausgleich verwirkt die Gegenpartei das Recht auf den Erhalt von Eigenkapitalinstrumenten. Diese Vorschrift schließt jedoch nicht die Möglichkeit einer Umbuchung innerhalb des Eigenkapitals, also eine Umbuchung von einem Eigenkapitalposten in einen anderen, aus.
+
+Anteilsbasierte Vergütungen mit Erfüllungswahlrecht beim Unternehmen
+
+41 Bei anteilsbasierten Vergütungen, die dem Unternehmen das vertragliche Wahlrecht einräumen, ob der Ausgleich in bar oder durch die Ausgabe von Eigenkapitalinstrumenten erfolgen soll, hat das Unternehmen zu bestimmen, ob eine gegenwärtige Verpflichtung zum Barausgleich besteht, und die anteilsbasierte Vergütung entsprechend zu erfassen. Eine gegenwärtige Verpflichtung zum Barausgleich besteht dann, wenn die Möglichkeit eines Ausgleichs durch Eigenkapitalinstrumente keinen wirtschaftlichen Gehalt hat (z. B. weil dem Unternehmen die Ausgabe von Anteilen rechtlich verboten ist) oder der Barausgleich eine bisherige betriebliche Praxis oder erklärte Richtlinie des Unternehmens ist oder das Unternehmen im Allgemeinen einen Barausgleich vornimmt, wenn die Gegenpartei diese Form des Ausgleichs wünscht.
+
+42 Hat das Unternehmen eine gegenwärtige Verpflichtung zum Barausgleich, ist die Transaktion gemäß den Vorschriften für anteilsbasierte Vergütungen mit Barausgleich (Paragraphen 30–33) zu bilanzieren.
+
+43 Besteht eine solche Verpflichtung nicht, ist die Transaktion gemäß den Vorschriften für anteilsbasierte Vergütungen mit Ausgleich durch Eigenkapitalinstrumente (Paragraphen 10–29) zu bilanzieren. Bei der Erfüllung gilt Folgendes:
+a) 
+
+Entscheidet sich das Unternehmen für einen Barausgleich, ist die Barvergütung mit der unter (c) dargelegten Ausnahme als Rückkauf von Eigenkapitalanteilen, also als Abzug vom Eigenkapital, zu behandeln.
+b) 
+
+Entscheidet sich das Unternehmen für einen Ausgleich durch die Ausgabe von Eigenkapitalinstrumenten, ist mit der unter (c) dargelegten Ausnahme keine weitere Buchung erforderlich (außer ggf. eine Umbuchung von einem Eigenkapitalposten in einen anderen).
+c) 
+
+Wählt das Unternehmen die Form des Ausgleichs mit dem am Erfüllungstag höheren beizulegenden Zeitwert, ist ein zusätzlicher Aufwand für den Überschussbetrag zu erfassen, d. h. für die Differenz zwischen der Höhe der Barvergütung und dem beizulegenden Zeitwert der Eigenkapitalinstrumente, die sonst ausgegeben worden wären, bzw., je nach Sachlage, der Differenz zwischen dem beizulegenden Zeitwert der ausgegebenen Eigenkapitalinstrumente und dem Barbetrag, der sonst gezahlt worden wäre.
+
+ANTEILSBASIERTE VERGÜTUNGEN ZWISCHEN KONZERNUNTERNEHMEN (ÄNDERUNGEN 2009)
+
+43A Bei anteilsbasierten Vergütungen zwischen Konzernunternehmen hat das Unternehmen, das die Güter oder Dienstleistungen erhält, diese Güter oder Dienstleistungen in seinem Einzelabschluss entweder als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente oder als anteilsbasierte Vergütung mit Barausgleich zu bewerten und Folgendes zu beurteilen:
+a) 
+
+die Art der gewährten Prämien und
+b) 
+
+seine eigenen Rechte und Pflichten.
+
+Der von dem Unternehmen, das die Güter oder Dienstleistungen erhält, erfasste Betrag kann von dem Betrag abweichen, der von dem Konzern oder einem anderen Konzernunternehmen erfasst wird, der bzw. das bei der anteilsbasierten Vergütung den Ausgleich vornimmt.
+
+43B Das Unternehmen, das die Güter oder Dienstleistungen erhält, hat diese als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente zu bewerten, wenn
+a) 
+
+es sich bei den gewährten Prämien um seine eigenen Eigenkapitalinstrumente handelt oder
+b) 
+
+das Unternehmen nicht dazu verpflichtet ist, die anteilsbasierte Vergütung auszugleichen.
+
+Gemäß den Paragraphen 19–21 hat ein Unternehmen eine solche anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente in der Folge nur dann neu zu bewerten, wenn sich die nicht marktbedingten Erdienungsbedingungen geändert haben. In allen anderen Fällen hat das Unternehmen, das die Güter oder Dienstleistungen erhält, diese als anteilsbasierte Vergütung mit Barausgleich zu bewerten.
+
+43C Das Unternehmen, das bei einer anteilsbasierten Vergütung den Ausgleich vornimmt, während ein anderes Unternehmen des Konzerns die Güter oder Dienstleistungen erhält, hat diese Transaktion nur dann als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente zu erfassen, wenn der Ausgleich mit seinen eigenen Eigenkapitalinstrumenten erfolgt. In allen anderen Fällen ist die Transaktion als anteilsbasierte Vergütung mit Barausgleich zu erfassen.
+
+43D Bestimmte konzerninterne Transaktionen sind mit Rückzahlungsvereinbarungen verbunden, die ein Konzernunternehmen dazu verpflichten, ein anderes Konzernunternehmen für die Bereitstellung anteilsbasierter Vergütungen für die Lieferanten der Güter oder Dienstleistungen zu bezahlen. In solchen Fällen hat das Unternehmen, das die Güter oder Dienstleistungen erhält, die anteilsbasierte Vergütung ungeachtet etwaiger konzerninterner Rückzahlungsvereinbarungen gemäß Paragraph 43B zu bilanzieren.
+
+ANGABEN
+
+44   Ein Unternehmen hat Informationen anzugeben, die den Abschlussadressaten Art und Ausmaß der in der Berichtsperiode bestehenden anteilsbasierten Vergütungsvereinbarungen verständlich machen.
+
+45 Um den Grundsatz in Paragraph 44 zu erfüllen, hat das Unternehmen mindestens folgende Angaben zu machen:
+a) 
+
+eine Beschreibung der einzelnen Arten von anteilsbasierten Vergütungsvereinbarungen, die während der Berichtsperiode in Kraft waren, einschließlich der allgemeinen Bedingungen jeder Vereinbarung, wie Erdienungsbedingungen, maximale Anzahl gewährter Optionen und Form des Ausgleichs (ob in bar oder durch Eigenkapitalinstrumente). Ein Unternehmen mit substanziell ähnlichen Arten von anteilsbasierten Vergütungsvereinbarungen kann diese Angaben zusammenfassen, soweit zur Erfüllung des Grundsatzes in Paragraph 44 keine gesonderte Darstellung der einzelnen Vereinbarungen notwendig ist.
+b) 
+
+Anzahl und gewichteter Durchschnitt der Ausübungspreise der Anteilsoptionen für jede der folgenden Gruppen von Optionen:
+i) 
+
+zu Beginn der Berichtsperiode ausstehende Optionen,
+ii) 
+
+in der Berichtsperiode gewährte Optionen,
+iii) 
+
+in der Berichtsperiode verwirkte Optionen,
+iv) 
+
+in der Berichtsperiode ausgeübte Optionen,
+v) 
+
+in der Berichtsperiode verfallene Optionen,
+vi) 
+
+am Ende der Berichtsperiode ausstehende Optionen und
+vii) 
+
+am Ende der Berichtsperiode ausübbare Optionen
+c) 
+
+bei in der Berichtsperiode ausgeübten Optionen der gewichtete durchschnittliche Anteilspreis zum Ausübungszeitpunkt. Wurden die Optionen während der Berichtsperiode regelmäßig ausgeübt, kann stattdessen der gewichtete durchschnittliche Anteilspreis der Berichtsperiode herangezogen werden.
+d) 
+
+für die am Ende der Berichtsperiode ausstehenden Optionen die Bandbreite an Ausübungspreisen und der gewichtete Durchschnitt der verbleibenden Vertragslaufzeit. Ist die Bandbreite der Ausübungspreise sehr groß, sind die ausstehenden Optionen in Bereiche zu unterteilen, die zur Beurteilung der Anzahl und des Zeitpunkts der möglichen Ausgabe zusätzlicher Anteile und des bei Ausübung dieser Optionen realisierbaren Barbetrags geeignet sind.
+
+46   Ein Unternehmen hat Informationen anzugeben, die den Abschlussadressaten verständlich machen, wie der beizulegende Zeitwert der erhaltenen Güter oder Dienstleistungen oder der beizulegende Zeitwert der gewährten Eigenkapitalinstrumente in der Berichtsperiode bestimmt wurde.
+
+47 Wurde der beizulegende Zeitwert der als Gegenleistung für Eigenkapitalinstrumente des Unternehmens erhaltenen Güter oder Dienstleistungen indirekt unter Bezugnahme auf den beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente bewertet, hat das Unternehmen zur Erfüllung des Grundsatzes in Paragraph 46 mindestens Folgendes anzugeben:
+a) 
+
+für in der Berichtsperiode gewährte Anteilsoptionen den gewichteten Durchschnitt der beizulegenden Zeitwerte dieser Optionen am Bewertungsstichtag sowie Angaben darüber, wie dieser beizulegende Zeitwert ermittelt wurde, einschließlich der Angabe
+i) 
+
+des verwendeten Optionspreismodells und der in dieses Modell einfließenden Daten; dies beinhaltet den gewichteten durchschnittlichen Anteilspreis, den Ausübungspreis, die erwartete Volatilität, die Laufzeit der Option, die erwarteten Dividenden, den risikolosen Zinssatz und andere in das Modell einfließende Parameter, einschließlich der verwendeten Methode und der zugrunde gelegten Annahmen zur Berücksichtigung der Auswirkungen einer erwarteten frühzeitigen Ausübung,
+ii) 
+
+wie die erwartete Volatilität bestimmt wurde; dies beinhaltet erläuternde Angaben, inwieweit die erwartete Volatilität auf der historischen Volatilität beruht, und
+iii) 
+
+ob und auf welche Weise andere Ausstattungsmerkmale der Optionsgewährung, wie z. B. eine Marktbedingung, bei der Ermittlung des beizulegenden Zeitwerts berücksichtigt wurden,
+b) 
+
+für andere in der Berichtsperiode gewährte Eigenkapitalinstrumente (d. h. keine Anteilsoptionen) die Anzahl und den gewichteten Durchschnitt der beizulegenden Zeitwerte dieser Eigenkapitalinstrumente am Bewertungsstichtag sowie Angaben darüber, wie dieser beizulegende Zeitwert ermittelt wurde, einschließlich der Angabe:
+i) 
+
+wenn der beizulegende Zeitwert nicht anhand eines beobachtbaren Marktpreises ermittelt wurde, auf welche Weise er bestimmt wurde,
+ii) 
+
+ob und auf welche Weise erwartete Dividenden bei der Ermittlung des beizulegenden Zeitwerts berücksichtigt wurden, und
+iii) 
+
+ob und auf welche Weise andere Ausstattungsmerkmale der gewährten Eigenkapitalinstrumente bei der Bestimmung des beizulegenden Zeitwerts berücksichtigt wurden,
+c) 
+
+für anteilsbasierte Vergütungen, die in der Berichtsperiode geändert wurden,
+i) 
+
+eine Erklärung dieser Änderungen,
+ii) 
+
+der zusätzliche beizulegende Zeitwert, der (infolge dieser Änderungen) gewährt wurde, und
+iii) 
+
+ggf. Angaben darüber, wie der gewährte zusätzliche beizulegende Zeitwert im Einklang mit den Vorschriften unter (a) und (b) bestimmt wurde.
+
+48 Wurden die in der Berichtsperiode erhaltenen Güter oder Dienstleistungen direkt zum beizulegenden Zeitwert angesetzt, hat das Unternehmen anzugeben, wie der beizulegende Zeitwert bestimmt wurde, d. h. ob er anhand eines Marktpreises für die betreffenden Güter oder Dienstleistungen ermittelt wurde.
+
+49 Hat das Unternehmen die Vermutung in Paragraph 13 widerlegt, hat es dies anzugeben und zu begründen, warum es zu einer Widerlegung dieser Vermutung kam.
+
+50   Ein Unternehmen hat Informationen anzugeben, die den Abschlussadressaten die Auswirkungen anteilsbasierter Vergütungen auf den Periodengewinn oder -verlust und die Vermögens- und Finanzlage des Unternehmens verständlich machen.
+
+51 Um den Grundsatz in Paragraph 50 zu erfüllen, hat das Unternehmen mindestens Folgendes anzugeben:
+a) 
+
+den in der Berichtsperiode erfassten Gesamtaufwand für anteilsbasierte Vergütungen, bei denen die erhaltenen Güter oder Dienstleistungen nicht für einen Ansatz als Vermögenswert in Betracht kamen und daher sofort aufwandswirksam gebucht wurden; dabei ist der Anteil am Gesamtaufwand, der auf anteilsbasierte Vergütungen mit Ausgleich durch Eigenkapitalinstrumente entfällt, gesondert auszuweisen,
+b) 
+
+für Schulden aus anteilsbasierten Vergütungen
+i) 
+
+den Gesamtbuchwert am Ende der Berichtsperiode und
+ii) 
+
+den gesamten inneren Wert der Schulden am Ende der Berichtsperiode, bei denen das Recht der Gegenpartei auf Erhalt von Zahlungsmitteln oder anderen Vermögenswerten zum Ende der Berichtsperiode erdient war (z. B. erdiente Wertsteigerungsrechte).
+
+52 Sind die Angabepflichten dieses Standards zur Erfüllung der Grundsätze in den Paragraphen 44, 46 und 50 nicht ausreichend, hat das Unternehmen zusätzliche Angaben zu machen, die zu einer Erfüllung dieser Grundsätze führen. Hat ein Unternehmen beispielsweise eine anteilsbasierte Vergütung gemäß Paragraph 33F als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente eingestuft, so hat es, wenn es notwendig ist, die Abschlussadressaten über die künftigen Zahlungsströme im Zusammenhang mit der anteilsbasierten Vergütungsvereinbarung zu informieren, den Betrag anzugeben, den es voraussichtlich an die Steuerbehörde abführen wird, um die Steuerschuld des Mitarbeiters zu begleichen.
+
+ÜBERGANGSVORSCHRIFTEN
+
+53 Bei anteilsbasierten Vergütungen mit Ausgleich durch Eigenkapitalinstrumente ist dieser IFRS auf Anteile, Anteilsoptionen und andere Eigenkapitalinstrumente anzuwenden, die nach dem 7. November 2002 gewährt wurden und zum Zeitpunkt des Inkrafttretens dieses IFRS noch nicht erdient waren.
+
+54 Es wird empfohlen, aber nicht vorgeschrieben, diesen IFRS auf andere gewährte Eigenkapitalinstrumente anzuwenden, sofern das Unternehmen den am Bewertungsstichtag bestimmten beizulegenden Zeitwert dieser Eigenkapitalinstrumente veröffentlicht hat.
+
+55 Bei allen gewährten Eigenkapitalinstrumenten, auf die dieser IFRS angewendet wird, ist eine Anpassung der Vergleichsinformationen und ggf. des Eröffnungsbilanzwerts der Gewinnrücklagen für die früheste dargestellte Berichtsperiode vorzunehmen.
+
+56 Alle gewährten Eigenkapitalinstrumente, auf die dieser IFRS keine Anwendung findet (also alle bis einschließlich 7. November 2002 gewährten Eigenkapitalinstrumente), unterliegen dennoch den Angabepflichten gemäß den Paragraphen 44 und 45.
+
+57 Ändert ein Unternehmen nach Inkrafttreten dieses IFRS die Vertragsbedingungen für gewährte Eigenkapitalinstrumente, auf die dieser IFRS nicht angewendet worden ist, sind dennoch für die Bilanzierung derartiger Änderungen die Paragraphen 26–29 maßgeblich.
+
+58 Der IFRS ist rückwirkend auf Schulden aus anteilsbasierten Vergütungen anzuwenden, die zum Zeitpunkt des Inkrafttretens dieses IFRS bestanden. Für diese Schulden ist eine Anpassung der Vergleichsinformationen vorzunehmen; hierzu gehört auch eine Anpassung des Eröffnungsbilanzwerts der Gewinnrücklagen in der frühesten dargestellten Berichtsperiode, für die die Vergleichsinformationen angepasst worden sind; eine Pflicht zur Anpassung der Vergleichsinformationen besteht allerdings nicht für Informationen, die sich auf eine Berichtsperiode oder einen Zeitpunkt vor dem 7. November 2002 beziehen.
+
+59 Es wird empfohlen, aber nicht vorgeschrieben, den IFRS rückwirkend auf andere Schulden aus anteilsbasierten Vergütungen anzuwenden, wie beispielsweise auf Schulden, die in einer Berichtsperiode beglichen wurden, für die Vergleichsinformationen aufgeführt sind.
+
+59A Ein Unternehmen hat die Änderungen in den Paragraphen 30–31, 33–33H und B44A–B44C wie nachfolgend angegeben anzuwenden. Frühere Perioden sind nicht anzupassen.
+a) 
+
+Die Änderungen in den Paragraphen B44A–B44C gelten nur für Änderungen der Vertragsbedingungen einer anteilsbasierten Vergütung, die am oder nach dem Zeitpunkt der erstmaligen Anwendung der Änderungen dieses Standards eintreten.
+b) 
+
+Die Änderungen in den Paragraphen 30–31 und 33–33D gelten für anteilsbasierte Vergütungen, die am Tag der erstmaligen Anwendung der Änderungen nicht erdient sind, und für anteilsbasierte Vergütungen, die zum oder nach dem Tag der erstmaligen Anwendung der Änderungen gewährt werden. Bei nicht erdienten, vor dem Tag der erstmaligen Anwendung der Änderungen gewährten anteilsbasierten Vergütungen hat ein Unternehmen die Schuld zu diesem Zeitpunkt neu zu bewerten und die Auswirkung der Neubewertung in der Berichtsperiode, in der die Änderungen erstmals angewandt werden, im Anfangssaldo der Gewinnrücklagen (bzw. anderer Bestandteile des Eigenkapitals) auszuweisen.
+c) 
+
+Die Änderungen in den Paragraphen 33E–33H und die Änderung des Paragraphen 52 gelten für anteilsbasierte Vergütungen, die am Tag der erstmaligen Anwendung der Änderungen nicht erdient sind (oder erdient sind, aber nicht ausgeübt wurden), und für anteilsbasierte Vergütungen, die am oder nach dem Tag der erstmaligen Anwendung der Änderungen gewährt werden. Bei nicht erdienten (oder erdienten, aber nicht ausgeübten) anteilsbasierten Vergütungen (oder deren Bestandteilen), die als anteilsbasierte Vergütungen mit Barausgleich eingestuft waren, infolge der Änderungen nun aber als anteilsbasierte Vergütungen mit Ausgleich durch Eigenkapitalinstrumente einzustufen sind, ist der Buchwert der aus der anteilsbasierten Vergütung resultierenden Schuld am Tag der erstmaligen Anwendung der Änderungen in das Eigenkapital umzugliedern.
+
+59B Unbeschadet der Vorschriften in Paragraph 59A kann ein Unternehmen die Änderungen in Paragraph 63D vorbehaltlich der Übergangsvorschriften der Paragraphen 53–59 dieses Standards nur dann rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler anwenden, wenn dabei keine nachträglichen Erkenntnisse verwendet werden. Wenn sich ein Unternehmen für eine rückwirkende Anwendung entscheidet, muss es sämtliche in der Verlautbarung Einstufung und Bewertung anteilsbasierter Vergütungen (Änderungen an IFRS 2) enthaltenen Änderungen rückwirkend anwenden.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+60 Dieser IFRS ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen den IFRS auf Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+61 Durch IFRS 3 (in der 2008 überarbeiteten Fassung) und die Verbesserungen der IFRS, veröffentlicht im April 2009, wurde Paragraph 5 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen IFRS 3 (überarbeitet 2008) auf eine frühere Periode an, so hat es auf diese frühere Periode auch diese Änderungen anzuwenden.
+
+62 Die folgenden Änderungen sind rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen:
+a) 
+
+die Vorschriften in Paragraph 21A hinsichtlich der Behandlung von Bedingungen, bei denen es sich nicht um Erdienungsbedingungen handelt,
+b) 
+
+die in Anhang A überarbeiteten Definitionen der Begriffe „erdienen“ (vorher: ausübbar werden) und „Erdienungsbedingungen“ (vorher: Ausübungsbedingungen),
+c) 
+
+die Änderungen in den Paragraphen 28 und 28A hinsichtlich Annullierungen.
+
+Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine Periode an, die vor dem 1. Januar 2009 beginnt, hat es dies anzugeben.
+
+63 Die nachstehend aufgeführten Änderungen, die mit der Verlautbarung Konzerninterne anteilsbasierte Vergütungen mit Barausgleich, veröffentlicht im Juni 2009, vorgenommen wurden, sind vorbehaltlich der Übergangsvorschriften in den Paragraphen 53–59 gemäß IAS 8 rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2010 beginnen:
+a) 
+
+In Bezug auf die Bilanzierung von Transaktionen zwischen Konzernunternehmen die Änderung des Paragraphen 2, die Streichung des Paragraphen 3 und die Einfügung der Paragraphen 3A und 43A–43D sowie der Paragraphen B45, B47, B50, B54, B56–B58 und B60 in Anhang B.
+b) 
+
+Die überarbeiteten Definitionen der folgenden Begriffe in Anhang A:
+— 
+anteilsbasierte Vergütung mit Barausgleich,
+— 
+anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente,
+— 
+anteilsbasierte Vergütungsvereinbarung und
+— 
+anteilsbasierte Vergütung.
+
+Sind die für eine rückwirkende Anwendung notwendigen Informationen nicht verfügbar, hat das Unternehmen in seinem Einzelabschluss die zuvor im Konzernabschluss erfassten Beträge auszuweisen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine vor dem 1. Januar 2010 beginnende Berichtsperiode an, so hat es dies anzugeben.
+
+63A Durch IFRS 10 Konzernabschlüsse und IFRS 11, veröffentlicht im Mai 2011, wurden Paragraph 5 und Anhang A geändert. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+63B Durch die Jährlichen Verbesserungen an den IFRS, Zyklus 2010–2012, veröffentlicht im Dezember 2013, wurden die Paragraphen 15 und 19 geändert. In Anhang A wurden die Definitionen der Begriffe „Erdienungsbedingungen“ (vorher: Ausübungsbedienungen) und „Marktbedingung“ geändert und die Definitionen der Begriffe „Leistungsbedingung“ und „Dienstbedingung“ eingefügt. Ein Unternehmen hat diese Änderungen prospektiv auf am oder nach dem 1. Juli 2014 gewährte anteilsbasierte Vergütungen anzuwenden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+63C Durch IFRS 9 (in der im Juli 2014 veröffentlichten Fassung) wurde Paragraph 6 geändert. Wendet ein Unternehmen IFRS 9 an, ist diese Änderung ebenfalls anzuwenden.
+
+63D Mit der im Juni 2016 veröffentlichten Verlautbarung Einstufung und Bewertung anteilsbasierter Vergütungen (Änderungen an IFRS 2) wurden die Paragraphen 19, 30–31, 33, 52 und 63 geändert und die Paragraphen 33A–33H, 59A–59B, 63D und B44A–B44C mit deren Überschriften eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2018 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+63E Durch die 2018 veröffentlichte Verlautbarung Änderung der Verweise auf das Rahmenkonzept in IFRS-Standards wurde in Anhang A die Fußnote am Ende der Definition des Begriffs „Eigenkapitalinstrument“ geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig, wenn das Unternehmen gleichzeitig alle anderen mit der Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards einhergehenden Änderungen anwendet. Die Änderung an IFRS 2 ist vorbehaltlich der Übergangsvorschriften in den Paragraphen 53–59 dieses Standards gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend anzuwenden. Sollte das Unternehmen jedoch feststellen, dass eine rückwirkende Anwendung nicht durchführbar oder mit unangemessenem Kosten- oder Zeitaufwand verbunden wäre, hat es die Änderung an IFRS 2 mit Verweis auf die Paragraphen 23–28, 50–53 und 54F von IAS 8 anzuwenden.
+
+RÜCKNAHME VON INTERPRETATIONEN
+
+64  Konzerninterne anteilsbasierte Vergütungen mit Barausgleich, veröffentlicht im Juni 2009, ersetzt IFRIC 8 Anwendungsbereich von IFRS 2 und IFRIC 11 IFRS 2 – Geschäfte mit eigenen Anteilen und Anteilen von Konzernunternehmen. Mit den darin enthaltenen Änderungen wurden die nachstehend genannten früheren Vorschriften aus IFRIC 8 und IFRIC 11 übernommen:
+a) 
+
+In Bezug auf die Bilanzierung von Transaktionen, bei denen das Unternehmen nicht alle oder keine/s der erhaltenen Güter oder Dienstleistungen speziell identifizieren kann, die Änderung des Paragraphen 2 und die Einfügung des Paragraphen 13A. Diese Vorschriften waren auf am oder nach dem 1. Mai 2006 beginnende Geschäftsjahre anzuwenden.
+b) 
+
+In Bezug auf die Bilanzierung von Transaktionen zwischen Konzernunternehmen die Einfügung der Paragraphen B46, B48, B49, B51–B53, B55, B59 und B61 in Anhang B. Diese Vorschriften waren auf am oder nach dem 1. März 2007 beginnende Geschäftsjahre anzuwenden.
+
+Diese Vorschriften wurden vorbehaltlich der Übergangsvorschriften von IFRS 2 gemäß IAS 8 rückwirkend angewandt.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Anteilsbasierte Vergütung mit Barausgleich
+	
+
+Eine anteilsbasierte Vergütung, bei der das Unternehmen Güter oder Dienstleistungen erhält und im Gegenzug die Verpflichtung eingeht, dem Lieferanten dieser Güter oder Dienstleistungen Zahlungsmittel oder andere Vermögenswerte zu übertragen, deren Höhe vom Preis (oder Wert) der Eigenkapitalinstrumente (u. a. Anteile oder Anteilsoptionen) des Unternehmens oder eines anderen Unternehmens des Konzerns abhängt.
+
+Mitarbeiter und andere, die ähnliche Leistungen erbringen
+	
+
+Personen, die persönliche Leistungen für das Unternehmen erbringen und die (a) rechtlich oder steuerlich als Mitarbeiter gelten, (b) für das Unternehmen auf dessen Anweisung tätig sind wie Personen, die rechtlich oder steuerlich als Mitarbeiter gelten, oder (c) ähnliche Leistungen wie Mitarbeiter erbringen. Der Begriff umfasst beispielsweise das gesamte Management, d. h. alle Personen, die für die Planung, Leitung und Überwachung der Tätigkeiten des Unternehmens zuständig und verantwortlich sind, einschließlich Non-Executive Directors.
+
+Eigenkapitalinstrument
+	
+
+Ein Vertrag, der einen Residualanspruch an den Vermögenswerten nach Abzug aller dazugehörigen Schulden begründet ( 41 ).
+
+Gewährtes Eigenkapitalinstrument
+	
+
+Das vom Unternehmen im Rahmen einer anteilsbasierten Vergütung übertragene (bedingte oder uneingeschränkte) Recht an einem Eigenkapitalinstrument des Unternehmens.
+
+Anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente
+	
+
+Eine anteilsbasierte Vergütung, bei der das Unternehmen
+a) 
+
+Güter oder Dienstleistungen erhält und als Gegenleistung eigene Eigenkapitalinstrumente (u. a. Anteile oder Anteilsoptionen) hingibt, oder
+b) 
+
+Güter oder Dienstleistungen erhält, aber nicht dazu verpflichtet ist, beim Lieferanten den Ausgleich vorzunehmen.
+
+Beizulegender Zeitwert
+	
+
+Der Betrag, zu dem zwischen sachverständigen, vertragswilligen und voneinander unabhängigen Geschäftspartnern unter marktüblichen Bedingungen ein Vermögenswert getauscht, eine Schuld beglichen oder ein gewährtes Eigenkapitalinstrument getauscht werden könnte.
+
+Tag der Gewährung
+	
+
+Der Tag, an dem das Unternehmen und eine andere Partei (einschließlich eines Mitarbeiters) eine anteilsbasierte Vergütungsvereinbarung treffen, worunter der Zeitpunkt zu verstehen ist, zu dem das Unternehmen und die Gegenpartei ein gemeinsames Verständnis über die Vertragsbedingungen der Vereinbarung erlangt haben. Am Tag der Gewährung verleiht das Unternehmen der Gegenpartei das Recht auf den Erhalt von Zahlungsmitteln, anderen Vermögenswerten oder Eigenkapitalinstrumenten des Unternehmens, das ggf. an die Erfüllung bestimmter Erdienungsbedingungen geknüpft ist. Unterliegt diese Vereinbarung einem Genehmigungsverfahren (z. B. durch die Anteilseigner), entspricht der Tag der Gewährung dem Tag, an dem die Genehmigung erteilt wurde.
+
+Innerer Wert
+	
+
+Die Differenz zwischen dem beizulegenden Zeitwert der Anteile, zu deren Zeichnung oder Erhalt die Gegenpartei (bedingt oder uneingeschränkt) berechtigt ist, und (gegebenenfalls) dem von der Gegenpartei für diese Anteile zu entrichtenden Betrag. Beispielsweise hat eine Anteilsoption mit einem Ausübungspreis von 15 WE ( 42 ) bei einem Anteil mit einem beizulegenden Zeitwert von 20 WE einen inneren Wert von 5 WE.
+
+Marktbedingung
+	
+
+Eine Leistungsbedingung für den Ausübungspreis, die Erdienung oder die Ausübungsmöglichkeit eines Eigenkapitalinstruments, die mit dem Marktpreis (oder -wert) der Eigenkapitalinstrumente des Unternehmens (oder der Eigenkapitalinstrumente eines anderen Unternehmens desselben Konzerns) in Zusammenhang steht, wie beispielsweise
+a) 
+
+die Erreichung eines bestimmten Anteilspreises oder eines bestimmten inneren Werts einer Anteilsoption oder
+b) 
+
+die Erreichung eines bestimmten Ziels, das auf dem Marktpreis (oder -wert) der Eigenkapitalinstrumente des Unternehmens (oder der Eigenkapitalinstrumente eines anderen Unternehmens desselben Konzerns) im Verhältnis zu einem Index von Marktpreisen von Eigenkapitalinstrumenten anderer Unternehmen basiert.
+
+Eine Marktbedingung verpflichtet die Gegenpartei zur Ableistung einer bestimmten Dienstzeit (d. h. eine Dienstbedingung); die Bedingung der Ableistung einer bestimmten Dienstzeit kann explizit oder implizit sein.
+
+Bewertungsstichtag
+	
+
+Der Tag, an dem der beizulegende Zeitwert der gewährten Eigenkapitalinstrumente für die Zwecke dieses Standards bestimmt wird. Bei Transaktionen mit Mitarbeitern und anderen, die ähnliche Leistungen erbringen, ist der Bewertungsstichtag der Tag der Gewährung. Bei Transaktionen mit anderen Parteien als Mitarbeitern (und Personen, die ähnliche Leistungen erbringen) ist der Bewertungsstichtag der Tag, an dem das Unternehmen die Güter erhält oder die Gegenpartei die Leistungen erbringt.
+
+Leistungsbedingung
+	
+
+Eine Erdienungsbedingung, wonach
+a) 
+
+die Gegenpartei zur Ableistung einer bestimmten Dienstzeit verpflichtet ist (d. h. eine Dienstbedingung); die Bedingung der Ableistung einer bestimmten Dienstzeit kann explizit oder implizit sein; und
+b) 
+
+bei Erbringung des unter (a) verlangten Dienstes ein bestimmtes Leistungsziel/bestimmte Leistungsziele zu erreichen sind.
+
+Der Zeitraum, in dem das Leistungsziel/die Leistungsziele zu erreichen ist/sind,
+a) 
+
+darf nicht über das Ende der Dienstzeit hinausgehen und
+b) 
+
+darf vor der Dienstzeit beginnen, sofern der zur Erfüllung des Leistungsziels zur Verfügung stehende Zeitraum nicht wesentlich vor dem Beginn der Dienstzeit beginnt.
+
+Bei der Bestimmung des Leistungsziels wird Bezug genommen auf
+a) 
+
+die Geschäfte (oder Tätigkeiten) des Unternehmens selbst oder die Geschäfte oder Tätigkeiten eines anderen Unternehmens desselben Konzerns (d. h. eine nicht marktbedingte Bedingung) oder
+b) 
+
+den Preis (oder Wert) der Eigenkapitalinstrumente des Unternehmens oder der Eigenkapitalinstrumente eines anderen Unternehmens desselben Konzerns (u. a. Anteile und Anteilsoptionen) (d. h. eine Marktbedingung).
+
+Ein Leistungsziel kann sich entweder auf die Leistung des Unternehmens insgesamt oder eines Teils des Unternehmens (oder eines Teils des Konzerns) beziehen, wie eine Abteilung oder einen einzelnen Mitarbeiter.
+
+Reload-Eigenschaft
+	
+
+Ausstattungsmerkmal, das eine automatische Gewährung zusätzlicher Anteilsoptionen vorsieht, wenn der Optionsinhaber bei der Ausübung vorher gewährter Optionen den Ausübungspreis mit den Anteilen des Unternehmens und nicht in bar begleicht.
+
+Reload-Option
+	
+
+Eine neue Anteilsoption, die gewährt wird, wenn der Ausübungspreis einer früheren Anteilsoption mit einem Anteil beglichen wird.
+
+Dienstbedingung
+	
+
+Eine Erdienungsbedingung, die von der Gegenpartei die Ableistung einer bestimmten Dienstzeit verlangt, in der Leistungen für das Unternehmen erbracht werden. Wenn die Gegenpartei ihre Leistungen im Erdienungszeitraum einstellt, hat sie diese Bedingung unabhängig von den Gründen für die Einstellung nicht erfüllt. Eine Dienstbedingung setzt keine Erreichung eines Erfolgsziels voraus.
+
+Anteilsbasierte Vergütungsvereinbarung
+	
+
+Eine Vereinbarung zwischen dem Unternehmen (oder einem anderen Unternehmen des Konzerns ( 43 ) oder einem Anteilseigner eines Unternehmens des Konzerns) und einer anderen Partei (einschließlich eines Mitarbeiters), die die andere Partei – ggf. unter dem Vorbehalt der Erfüllung bestimmter Erdienungsbedingungen – dazu berechtigt,
+a) 
+
+Zahlungsmittel oder andere Vermögenswerte des Unternehmens zu erhalten, deren Höhe vom Preis (oder Wert) der Eigenkapitalinstrumente (u. a. Anteile oder Anteilsoptionen) des Unternehmens oder eines anderen Unternehmens des Konzerns abhängt, oder
+b) 
+
+Eigenkapitalinstrumente (u. a. Anteile oder Anteilsoptionen) des Unternehmens oder eines anderen Unternehmens des Konzerns zu erhalten.
+
+Anteilsbasierte Vergütung
+	
+
+Eine Transaktion, bei der das Unternehmen
+a) 
+
+im Rahmen einer anteilsbasierten Vergütungsvereinbarung von einem Lieferanten (einschließlich eines Mitarbeiters) Güter oder Dienstleistungen erhält, oder
+b) 
+
+die Verpflichtung eingeht, im Rahmen einer anteilsbasierten Vergütungsvereinbarung beim Lieferanten den Ausgleich für die Transaktion vorzunehmen, ein anderes Unternehmen des Konzerns aber die betreffenden Güter oder Dienstleistungen erhält.
+
+Anteilsoption
+	
+
+Ein Vertrag, der den Inhaber berechtigt, aber nicht verpflichtet, Anteile des Unternehmens während eines bestimmten Zeitraums zu einem festen oder bestimmbaren Preis zu zeichnen.
+
+Erdienen
+	
+
+Einen festen Rechtsanspruch erwerben. Im Rahmen einer anteilsbasierten Vergütungsvereinbarung ist das Recht einer Gegenpartei auf den Erhalt von Zahlungsmitteln, Vermögenswerten oder Eigenkapitalinstrumenten des Unternehmens erdient, wenn der Rechtsanspruch der Gegenpartei nicht mehr von der Erfüllung von Erdienungsbedingungen abhängt.
+
+Erdienungsbedingungen
+	
+
+Eine Bedingung, die bestimmt, ob das Unternehmen die Leistungen erhält, durch welche die Gegenpartei den Rechtsanspruch erwirbt, im Rahmen einer anteilsbasierten Vergütungsvereinbarung Zahlungsmittel, andere Vermögenswerte oder Eigenkapitalinstrumente des Unternehmens zu erhalten. Eine Erdienungsbedingung ist entweder eine Dienstbedingung oder eine Leistungsbedingung.
+
+Erdienungszeitraum
+	
+
+Zeitraum, in dem alle festgelegten Erdienungsbedingungen einer anteilsbasierten Vergütungsvereinbarung erfüllt werden müssen.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Schätzung des beizulegenden Zeitwerts der gewährten Eigenkapitalinstrumente
+
+B1 Die Paragraphen B2–B41 dieses Anhangs behandeln die Ermittlung des beizulegenden Zeitwerts von gewährten Anteilen und Anteilsoptionen, wobei vor allem auf die üblichen Vertragsbedingungen bei der Gewährung von Anteilen oder Anteilsoptionen an Mitarbeiter eingegangen wird. Sie sind daher nicht abschließend. Da sich die nachstehenden Erläuterungen von Bewertungsfragen in erster Linie auf an Mitarbeiter gewährte Anteile und Anteilsoptionen beziehen, wird außerdem unterstellt, dass der beizulegende Zeitwert der Anteile oder Anteilsoptionen am Tag der Gewährung bestimmt wird. Viele der nachfolgend angeschnittenen Punkte (wie etwa die Bestimmung der erwarteten Volatilität) gelten jedoch auch im Kontext einer Schätzung des beizulegenden Zeitwerts von Anteilen oder Anteilsoptionen, die Parteien, bei denen es sich nicht um Mitarbeiter handelt, zum Zeitpunkt des Erhalts der Güter durch das Unternehmen oder der Leistungserbringung durch die Gegenpartei gewährt werden.
+
+Anteile
+
+B2 Bei der Gewährung von Anteilen an Mitarbeiter ist der beizulegende Zeitwert der Anteile anhand des Marktpreises der Anteile des Unternehmens (bzw. eines geschätzten Marktpreises, wenn die Anteile des Unternehmens nicht öffentlich gehandelt werden) unter Berücksichtigung der Vertragsbedingungen, zu denen die Anteile gewährt wurden (ausgenommen Erdienungsbedingungen, die gemäß den Paragraphen 19–21 nicht in die Bestimmung des beizulegenden Zeitwerts einfließen), zu ermitteln.
+
+B3 Hat der Mitarbeiter beispielsweise während des Erdienungszeitraums keinen Anspruch auf den Bezug von Dividenden, ist dieser Faktor bei der Schätzung des beizulegenden Zeitwerts der gewährten Anteile zu berücksichtigen. Gleiches gilt, wenn die Anteile nach dem Tag der Erdienung Übertragungsbeschränkungen unterliegen, allerdings nur insoweit die Beschränkungen nach Ablauf des Erdienungszeitraums einen Einfluss auf den Preis haben, den ein sachverständiger, vertragswilliger Marktteilnehmer für diesen Anteil zahlen würde. Werden die Anteile zum Beispiel aktiv in einem hinreichend entwickelten, liquiden Markt gehandelt, haben Übertragungsbeschränkungen nach Ablauf des Erdienungszeitraums nur eine geringe oder überhaupt keine Auswirkung auf den Preis, den ein sachverständiger, vertragswilliger Marktteilnehmer für diese Anteile zahlen würde. Übertragungsbeschränkungen oder andere Beschränkungen während des Erdienungszeitraums sind bei der Schätzung des beizulegenden Zeitwerts der gewährten Anteile am Tag der Gewährung nicht zu berücksichtigen, weil diese Beschränkungen im Vorhandensein von Erdienungsbedingungen begründet sind, die gemäß den Paragraphen 19–21 bilanziert werden.
+
+Anteilsoptionen
+
+B4 Bei der Gewährung von Anteilsoptionen an Mitarbeiter stehen in vielen Fällen keine Marktpreise zur Verfügung, weil die gewährten Optionen Vertragsbedingungen unterliegen, die nicht für gehandelte Optionen gelten. Gibt es keine gehandelten Optionen mit ähnlichen Vertragsbedingungen, ist der beizulegende Zeitwert der gewährten Optionen mithilfe eines Optionspreismodells zu schätzen.
+
+B5 Das Unternehmen hat Faktoren zu berücksichtigen, die sachverständige, vertragswillige Marktteilnehmer bei der Auswahl des anzuwendenden Optionspreismodells in Betracht ziehen würden. Viele Mitarbeiteroptionen haben beispielsweise eine lange Laufzeit, sind normalerweise vom Tag der Erdienung bis zum Ende der Optionslaufzeit ausübbar und werden oft frühzeitig ausgeübt. Alle diese Faktoren müssen bei der Schätzung des beizulegenden Zeitwerts der Optionen am Tag der Gewährung berücksichtigt werden. Bei vielen Unternehmen schließt dies die Verwendung der Black-Scholes-Merton-Formel aus, die nicht die Möglichkeit einer Ausübung vor Ende der Optionslaufzeit zulässt und die Auswirkungen einer erwarteten frühzeitigen Ausübung nicht adäquat wiedergibt. Außerdem ist darin nicht vorgesehen, dass sich die erwartete Volatilität und andere in das Modell einfließende Parameter während der Laufzeit einer Option ändern können. Unter Umständen treffen die vorstehend genannten Faktoren jedoch nicht auf Anteilsoptionen zu, die eine relativ kurze Vertragslaufzeit haben oder innerhalb einer kurzen Frist nach dem Tag der Erdienung ausgeübt werden müssen. In solchen Fällen kann die Black-Scholes-Merton-Formel ein Ergebnis liefern, das sich im Wesentlichen mit dem eines flexibleren Optionspreismodells deckt.
+
+B6 Alle Optionspreismodelle berücksichtigen mindestens die folgenden Faktoren:
+a) 
+
+den Ausübungspreis der Option,
+b) 
+
+die Laufzeit der Option,
+c) 
+
+den aktuellen Preis der zugrunde liegenden Anteile,
+d) 
+
+die erwartete Volatilität des Anteilspreises,
+e) 
+
+die erwarteten Dividenden auf die Anteile (falls zutreffend) und
+f) 
+
+den risikolosen Zins für die Laufzeit der Option.
+
+B7 Darüber hinaus sind andere Faktoren zu berücksichtigen, die sachverständige, vertragswillige Marktteilnehmer bei der Preisfestlegung in Betracht ziehen würden (ausgenommen Erdienungsbedingungen und Reload-Eigenschaften, die gemäß den Paragraphen 19–22 nicht in die Ermittlung des beizulegenden Zeitwerts einfließen).
+
+B8 Beispielsweise können Mitarbeitern gewährte Anteilsoptionen normalerweise in bestimmten Zeiträumen nicht ausgeübt werden (z. B. während des Erdienungszeitraums oder während von den Aufsichtsbehörden festgelegter Fristen). Dieser Faktor ist zu berücksichtigen, wenn das verwendete Optionspreismodell ansonsten von der Annahme ausginge, dass die Option während ihrer Laufzeit jederzeit ausübbar wäre. Verwendet ein Unternehmen dagegen ein Optionspreismodell, das Optionen bewertet, die erst am Ende der Optionslaufzeit ausgeübt werden können, ist für den Umstand, dass während des Erdienungszeitraums (oder in anderen Zeiträumen während der Optionslaufzeit) keine Ausübung möglich ist, keine Anpassung vorzunehmen, weil das Modell bereits davon ausgeht, dass die Optionen in diesen Zeiträumen nicht ausgeübt werden können.
+
+B9 Ein ähnlicher, bei Mitarbeiteranteilsoptionen häufig anzutreffender Faktor ist die Möglichkeit einer frühzeitigen Optionsausübung, beispielsweise weil die Option nicht frei übertragbar ist oder der Mitarbeiter bei seinem Ausscheiden alle erdienten Optionen ausüben muss. Die Auswirkungen einer erwarteten frühzeitigen Ausübung sind gemäß den Ausführungen in den Paragraphen B16–B21 zu berücksichtigen.
+
+B10 Faktoren, die ein sachverständiger, vertragswilliger Marktteilnehmer bei der Festlegung des Preises einer Anteilsoption (oder eines anderen Eigenkapitalinstruments) nicht berücksichtigen würde, sind bei der Schätzung des beizulegenden Zeitwerts gewährter Anteilsoptionen (oder anderer Eigenkapitalinstrumente) nicht zu berücksichtigen. Beispielsweise sind bei der Gewährung von Anteilsoptionen an Mitarbeiter Faktoren, die aus Sicht des einzelnen Mitarbeiters den Wert der Option beeinflussen, für die Schätzung des Preises, den ein sachverständiger, vertragswilliger Marktteilnehmer festlegen würde, unerheblich.
+
+In Optionspreismodelle einfließende Daten
+
+B11 Bei der Schätzung der erwarteten Volatilität und Dividenden der zugrunde liegenden Anteile lautet das Ziel, einen Näherungswert für die Erwartungen zu ermitteln, die sich in einem aktuellen Marktpreis oder verhandelten Tauschpreis für die Option widerspiegeln würden. Gleiches gilt für die Schätzung der Auswirkungen einer frühzeitigen Ausübung von Mitarbeiteranteilsoptionen, bei denen das Ziel lautet, einen Näherungswert für die Erwartungen zu ermitteln, die eine außenstehende Partei mit Zugang zu detaillierten Informationen über das Ausübungsverhalten der Mitarbeiter anhand der am Tag der Gewährung verfügbaren Informationen hätte.
+
+B12 Häufig dürfte es eine Bandbreite angemessener Einschätzungen in Bezug auf künftige Volatilität, Dividenden und Ausübungsverhalten geben. In diesem Fall ist durch Gewichtung der einzelnen Beträge innerhalb der Bandbreite nach der Wahrscheinlichkeit ihres Eintretens ein Erwartungswert zu berechnen.
+
+B13 Zukunftserwartungen beruhen im Allgemeinen auf Erfahrungen der Vergangenheit und werden angepasst, wenn angemessenerweise erwartet wird, dass sich die Zukunft anders als die Vergangenheit entwickeln wird. In einigen Fällen können bestimmbare Faktoren darauf hindeuten, dass unbereinigte historische Erfahrungswerte ein relativ schlechter Anhaltspunkt für künftige Entwicklungen sind. Wenn zum Beispiel ein Unternehmen mit zwei völlig unterschiedlichen Geschäftsbereichen denjenigen Bereich veräußert, der mit deutlich geringeren Risiken behaftet war, ist die vergangene Volatilität für eine angemessene Einschätzung der Zukunft unter Umständen nicht aussagekräftig.
+
+B14 In anderen Fällen stehen keine historischen Daten zur Verfügung. So wird ein erst kürzlich an der Börse eingeführtes Unternehmen nur wenige oder überhaupt keine Daten über die Volatilität seines Anteilspreises haben. Nicht notierte und neu notierte Unternehmen werden weiter unten behandelt.
+
+B15 Zusammenfassend ist festzuhalten, dass ein Unternehmen seine Schätzungen in Bezug auf Volatilität, Ausübungsverhalten und Dividenden nicht einfach auf historische Daten gründen darf, ohne zu berücksichtigen, inwieweit angemessenerweise erwartet werden kann, dass die Erfahrungen der Vergangenheit für künftige Prognosen verwendbar sind.
+
+Erwartete frühzeitige Ausübung
+
+B16 Mitarbeiter üben Anteilsoptionen aus einer Vielzahl von Gründen oft frühzeitig aus. Beispielsweise sind Mitarbeiteranteilsoptionen in der Regel nicht übertragbar. Dies veranlasst die Mitarbeiter häufig zu einer frühzeitigen Ausübung ihrer Anteilsoptionen, weil dies für sie die einzige Möglichkeit ist, ihre Position zu realisieren. Außerdem sind ausscheidende Mitarbeiter oftmals verpflichtet, ihre erdienten Optionen innerhalb eines kurzen Zeitraums auszuüben, da sie sonst verfallen. Dieser Faktor führt ebenfalls zu einer frühzeitigen Ausübung von Mitarbeiteranteilsoptionen. Als weitere Faktoren für eine frühzeitige Ausübung sind Risikoscheu und mangelnde Vermögensdiversifizierung zu nennen.
+
+B17 Die Methode zur Berücksichtigung der Auswirkungen einer erwarteten frühzeitigen Ausübung ist von der Art des angewendeten Optionspreismodells abhängig. Beispielsweise könnte hierzu ein Schätzwert der voraussichtlichen Optionslaufzeit verwendet werden (die bei einer Mitarbeiteranteilsoption dem Zeitraum vom Tag der Gewährung bis zum Tag der voraussichtlichen Optionsausübung entspricht), der als Parameter in ein Optionspreismodell (z. B. die Black-Scholes-Merton-Formel) einfließt. Alternativ dazu könnte eine erwartete frühzeitige Ausübung in einem Binomial- oder ähnlichen Optionspreismodell abgebildet werden, das die Vertragslaufzeit als Parameter verwendet.
+
+B18 Bei der Ermittlung des Schätzwerts für eine frühzeitige Ausübung sind folgende Faktoren zu berücksichtigen:
+a) 
+
+die Länge des Erdienungszeitraums, da die Anteilsoption im Regelfall erst nach Ablauf des Erdienungszeitraums ausgeübt werden kann. Die Bestimmung der Auswirkungen einer erwarteten frühzeitigen Ausübung auf die Bewertung basiert daher auf der Annahme, dass die Optionen erdient werden. Die Auswirkungen der Erdienungsbedingungen werden in den Paragraphen 19–21 behandelt;
+b) 
+
+der durchschnittliche Zeitraum, den ähnliche Optionen in der Vergangenheit ausstehend waren;
+c) 
+
+der Preis der zugrunde liegenden Anteile. Erfahrungen der Vergangenheit können darauf hindeuten, dass Mitarbeiter ihre Optionen meist dann ausüben, wenn der Anteilspreis ein bestimmtes Niveau über dem Ausübungspreis erreicht hat;
+d) 
+
+der Rang des Mitarbeiters innerhalb der Organisation. Beispielsweise könnten Mitarbeiter in höheren Positionen erfahrungsgemäß dazu tendieren, ihre Optionen später auszuüben als Mitarbeiter in niedrigeren Positionen (in Paragraph B21 wird darauf näher eingegangen);
+e) 
+
+voraussichtliche Volatilität der zugrunde liegenden Anteile. Im Durchschnitt könnten Mitarbeiter dazu tendieren, Anteilsoptionen auf Anteile mit großer Schwankungsbreite früher auszuüben als auf Anteile mit geringer Volatilität.
+
+B19 Wie in Paragraph B17 ausgeführt, könnte zur Berücksichtigung der Auswirkungen einer frühzeitigen Ausübung ein Schätzwert der erwarteten Optionslaufzeit verwendet werden, der als Parameter in ein Optionspreismodell einfließt. Bei der Schätzung der erwarteten Laufzeit von Anteilsoptionen, die einer Gruppe von Mitarbeitern gewährt wurden, könnte diese Schätzung auf einem angemessenen Näherungswert für den gewichteten Durchschnitt der erwarteten Laufzeit für die gesamte Mitarbeitergruppe oder auf einem angemessenen Näherungswert für den gewichteten Durchschnitt der Laufzeiten für Untergruppen von Mitarbeitern innerhalb dieser Gruppe basieren, die anhand detaillierterer Daten über das Ausübungsverhalten der Mitarbeiter ermittelt werden (weitere Ausführungen siehe unten).
+
+B20 Die Aufteilung gewährter Optionen in Mitarbeitergruppen mit einem relativ homogenen Ausübungsverhalten dürfte von großer Bedeutung sein. Der Wert einer Option stellt keine lineare Funktion der Optionslaufzeit dar; er nimmt mit fortschreitender Dauer der Laufzeit immer weniger zu. Ein Beispiel hierfür ist eine Option mit zweijähriger Laufzeit, die – wenn alle anderen Annahmen identisch sind – zwar mehr, jedoch nicht doppelt so viel wert ist wie eine Option mit einjähriger Laufzeit. Dies bedeutet, dass der gesamte beizulegende Zeitwert der gewährten Anteilsoptionen bei einer Berechnung des geschätzten Optionswerts anhand einer einzigen gewichteten Durchschnittslaufzeit, die ganz unterschiedliche Einzellaufzeiten umfasst, zu hoch angesetzt würde. Eine solche Überbewertung kann durch die Aufteilung der gewährten Optionen in mehrere Gruppen, deren gewichtete Durchschnittslaufzeit eine relativ geringe Bandbreite an Laufzeiten umfasst, reduziert werden.
+
+B21 Ähnliche Überlegungen sind bei der Verwendung eines Binomial- oder ähnlichen Modells anzustellen. Beispielsweise könnten die vergangenen Erfahrungen eines Unternehmens, das Mitarbeiteroptionen in allen Hierarchieebenen gewährt, darauf hindeuten, dass Führungskräfte in hohen Positionen ihre Optionen länger behalten als Mitarbeiter im mittleren Management und dass Mitarbeiter in unteren Positionen ihre Optionen meist früher als jede andere Gruppe ausüben. Außerdem könnten Mitarbeiter, denen empfohlen oder vorgeschrieben wird, eine Mindestanzahl an Eigenkapitalinstrumenten, einschließlich Optionen, ihres Arbeitgebers zu halten, ihre Optionen im Durchschnitt später ausüben als Mitarbeiter, die keiner derartigen Bestimmung unterliegen. In diesen Fällen führt die Aufteilung der Optionen in Empfängergruppen mit einem relativ homogenen Ausübungsverhalten zu einer genaueren Schätzung des gesamten beizulegenden Zeitwerts der gewährten Anteilsoptionen.
+
+Erwartete Volatilität
+
+B22 Die erwartete Volatilität ist eine Kennzahl für das Schwankungsmaß von Kursen innerhalb eines bestimmten Zeitraums. In Optionspreismodellen wird als Volatilitätskennzahl die auf Jahresbasis umgerechnete Standardabweichung der stetigen Rendite des Anteils über einen bestimmten Zeitraum verwendet. Die Volatilität wird normalerweise auf ein Jahr bezogen angegeben, was einen Vergleich unabhängig von der in der Berechnung verwendeten Zeitspanne (z. B. tägliche, wöchentliche oder monatliche Kursbeobachtungen) ermöglicht.
+
+B23 Die (positive oder negative) Rendite eines Anteils in einem bestimmten Zeitraum gibt an, in welchem Umfang der Anteilseigner von Dividenden und einer Steigerung (oder einem Rückgang) des Anteilspreises profitiert hat.
+
+B24 Die erwartete auf Jahresbasis umgerechnete Volatilität eines Anteils entspricht der Bandbreite, in der die stetige jährliche Rendite in rund zwei Dritteln der Fälle voraussichtlich liegen wird. Wenn beispielsweise ein Anteil mit einer voraussichtlichen stetigen Rendite von 12 % eine Volatilität von 30 % aufweist, bedeutet dies, dass die Wahrscheinlichkeit, dass die Rendite des Anteils für ein Jahr zwischen – 18 % (12 % – 30 %) und 42 % (12 % + 30 %) liegt, rund zwei Drittel beträgt. Beträgt der Anteilspreis am Jahresbeginn 100 WE und werden keine Dividenden ausgeschüttet, liegt der Anteilspreis in rund zwei Dritteln der Fälle am Jahresende voraussichtlich zwischen 83,53 WE (100 WE × e– 0,18) und 152,20 WE (100 WE × e0,42).
+
+B25 Bei der Schätzung der erwarteten Volatilität sind folgende Faktoren zu berücksichtigen:
+a) 
+
+die implizite Volatilität, die sich gegebenenfalls aus gehandelten Anteilsoptionen auf die Anteile oder andere gehandelte Instrumente des Unternehmens mit Optionseigenschaften (wie etwa wandelbare Schuldinstrumente) ergibt;
+b) 
+
+die historische Volatilität des Anteilspreises im jüngsten Zeitraum, der im Allgemeinen der erwarteten Optionslaufzeit (unter Berücksichtigung der verbleibenden Vertragslaufzeit der Option und der Auswirkungen einer erwarteten frühzeitigen Ausübung) entspricht;
+c) 
+
+der Zeitpunkt, seit dem die Anteile des Unternehmens öffentlich gehandelt werden. Ein neu notiertes Unternehmen hat im Vergleich zu ähnlichen Unternehmen, die bereits länger notiert sind, oftmals eine höhere historische Volatilität. Weitere Anwendungsleitlinien für neu notierte Unternehmen werden weiter unten gegeben;
+d) 
+
+die Tendenz der Volatilität, wieder zu ihrem Mittelwert, also ihrem langjährigen Durchschnitt, zurückzukehren, und andere Faktoren, die darauf hinweisen, dass sich die erwartete künftige Volatilität von der vergangenen Volatilität unterscheiden könnte. War der Anteilspreis eines Unternehmens in einem bestimmbaren Zeitraum aufgrund eines gescheiterten Übernahmeangebots oder einer umfangreichen Restrukturierung extremen Schwankungen unterworfen, könnte dieser Zeitraum bei der Berechnung der historischen jährlichen Durchschnittsvolatilität außer Acht gelassen werden;
+e) 
+
+angemessene, regelmäßige Intervalle bei den Kursbeobachtungen. Die Kursbeobachtungen müssen von Periode zu Periode stetig durchgeführt werden. Beispielsweise könnte ein Unternehmen die Wochenschlusskurse oder die Wochenhöchststände verwenden; nicht zulässig ist es dagegen, für einige Wochen den Schlusskurs und für andere Wochen den Höchstkurs zu verwenden. Außerdem müssen die Kursbeobachtungen in derselben Währung wie der Ausübungspreis angegeben werden.
+
+Neu notierte Unternehmen
+
+B26 Wie in Paragraph B25 ausgeführt, hat ein Unternehmen die historische Volatilität des Anteilspreises im jüngsten Zeitraum zu berücksichtigen, der im Allgemeinen der erwarteten Optionslaufzeit entspricht. Besitzt ein neu notiertes Unternehmen nicht genügend Informationen über die historische Volatilität, sollte es die historische Volatilität dennoch bezogen auf den längsten Zeitraum berechnen, für den Handelsdaten verfügbar sind. Denkbar wäre auch, die historische Volatilität ähnlicher Unternehmen nach einer vergleichbaren Zeit der Notierung heranzuziehen. Beispielsweise könnte ein Unternehmen, das erst seit einem Jahr an der Börse notiert ist und Optionen mit einer voraussichtlichen Laufzeit von fünf Jahren gewährt, das Muster und das Ausmaß der historischen Volatilität von Unternehmen derselben Branche in den ersten sechs Jahren, in denen die Anteile dieser Unternehmen öffentlich gehandelt wurden, zugrunde legen.
+
+Nicht notierte Unternehmen
+
+B27 Ein nicht notiertes Unternehmen kann bei der Schätzung der erwarteten Volatilität nicht auf historische Daten zurückgreifen. Stattdessen gibt es andere Faktoren zu berücksichtigen, auf die nachfolgend näher eingegangen wird.
+
+B28 In einigen Fällen könnte ein nicht notiertes Unternehmen, das regelmäßig Optionen oder Anteile an Mitarbeiter (oder andere Parteien) ausgibt, einen internen Markt für seine Anteile eingerichtet haben. Bei der Schätzung der erwarteten Volatilität könnte dann die Volatilität dieser Anteilspreise berücksichtigt werden.
+
+B29 Alternativ könnte die erwartete Volatilität anhand der historischen oder impliziten Volatilität vergleichbarer notierter Unternehmen, für die Informationen über Anteilspreise oder Optionspreise zur Verfügung stehen, geschätzt werden. Dies wäre angemessen, wenn das Unternehmen den Wert seiner Anteile auf Grundlage der Anteilspreise vergleichbarer notierter Unternehmen bestimmt hat.
+
+B30 Hat das Unternehmen zur Schätzung des Werts seiner Anteile nicht die Anteilspreise vergleichbarer notierter Unternehmen herangezogen, sondern stattdessen eine andere Bewertungsmethode verwendet, könnte das Unternehmen die Schätzung der erwarteten Volatilität auf diese Bewertungsmethode gründen. Beispielsweise könnte die Bewertung der Anteile auf Basis des Nettovermögens oder Periodenüberschusses erfolgen. In diesem Fall könnte die erwartete Volatilität der Nettovermögenswerte oder Periodenüberschüsse herangezogen werden.
+
+Erwartete Dividenden
+
+B31 Ob erwartete Dividenden bei der Ermittlung des beizulegenden Zeitwerts gewährter Anteile oder Optionen zu berücksichtigen sind, hängt davon ab, ob die Gegenpartei Anspruch auf Dividenden oder ausschüttungsgleiche Beträge hat.
+
+B32 Wenn Mitarbeitern beispielsweise Optionen gewährt wurden und sie zwischen dem Tag der Gewährung und dem Tag der Ausübung Anspruch auf Dividenden auf die zugrunde liegenden Anteile oder ausschüttungsgleiche Beträge haben (die bar ausgezahlt oder mit dem Ausübungspreis verrechnet werden), sind die gewährten Optionen so zu bewerten, als würden auf die zugrunde liegenden Anteile keine Dividenden ausgeschüttet, d. h. die Höhe der erwarteten Dividenden muss null sein.
+
+B33 Auf gleiche Weise ist bei der Schätzung des beizulegenden Zeitwerts gewährter Mitarbeiteroptionen am Tag der Gewährung keine Anpassung für erwartete Dividenden notwendig, wenn die Mitarbeiter während des Erdienungszeitraums einen Anspruch auf Dividendenzahlungen haben.
+
+B34 Haben die Mitarbeiter dagegen während des Erdienungszeitraums (bzw. im Falle einer Option vor der Ausübung) keinen Anspruch auf Dividenden oder ausschüttungsgleiche Beträge, sind bei der Bewertung der Anrechte auf den Bezug von Anteilen oder Optionen am Tag der Gewährung die erwarteten Dividenden zu berücksichtigen. Dies bedeutet, dass bei der Verwendung eines Optionspreismodells die erwarteten Dividenden in die Schätzung des beizulegenden Zeitwerts einer gewährten Option einzubeziehen sind. Bei der Schätzung des beizulegenden Zeitwerts eines gewährten Anteils ist dieser um den Barwert der während des Erdienungszeitraums voraussichtlich zahlbaren Dividenden zu verringern.
+
+B35 Optionspreismodelle verlangen im Allgemeinen die Angabe der erwarteten Dividendenrendite. Die Modelle lassen sich jedoch so ändern, dass statt einer Rendite ein erwarteter Dividendenbetrag verwendet wird. Ein Unternehmen kann die erwartete Rendite oder den erwarteten Dividendenbetrag verwenden. Im letzteren Fall sind die Dividendenerhöhungen der Vergangenheit zu berücksichtigen. Hat ein Unternehmen seine Dividenden beispielsweise bisher im Allgemeinen um rund 3 % pro Jahr erhöht, darf bei der Schätzung des Optionswerts kein fester Dividendenbetrag über die gesamte Laufzeit der Option angenommen werden, sofern keine Anhaltspunkte zur Stützung dieser Annahme vorliegen.
+
+B36 Im Allgemeinen sollte die Annahme über erwartete Dividenden auf öffentlich zugänglichen Informationen beruhen. Ein Unternehmen, das keine Dividenden ausschüttet und keine künftigen Ausschüttungen beabsichtigt, hat von einer erwarteten Dividendenrendite von null auszugehen. Jedoch könnte ein junges aufstrebendes Unternehmen, das in der Vergangenheit keine Dividenden gezahlt hat, davon ausgehen, dass es während der erwarteten Laufzeit der Mitarbeiteranteilsoptionen beginnt, Dividenden auszuschütten. Ein solches Unternehmen könnte einen Durchschnitt aus seiner bisherigen Dividendenrendite (null) und dem Mittelwert der Dividendenrendite einer geeigneten Vergleichsgruppe verwenden.
+
+Risikoloser Zins
+
+B37 Normalerweise ist der risikolose Zins die derzeit verfügbare implizite Rendite auf Nullkupon-Staatsanleihen des Landes, in dessen Währung der Ausübungspreis ausgedrückt wird, mit einer Restlaufzeit, die der erwarteten Laufzeit der zu bewertenden Option (auf Grundlage der verbleibenden Vertragslaufzeit der Option und unter Berücksichtigung der Auswirkungen einer erwarteten frühzeitigen Ausübung) entspricht. Falls solche Staatsanleihen nicht vorhanden sind oder Umstände darauf hindeuten, dass die implizite Rendite auf Nullkupon-Staatsanleihen nicht den risikolosen Zins wiedergibt (zum Beispiel in Hochinflationsländern), muss unter Umständen ein geeigneter Ersatz verwendet werden. Bei der Ermittlung des beizulegenden Zeitwerts einer Option mit einer Laufzeit, die der erwarteten Laufzeit der zu bewertenden Option entspricht, ist ebenfalls ein geeigneter Ersatz zu verwenden, wenn die Marktteilnehmer den risikolosen Zins üblicherweise anhand dieses Ersatzes und nicht anhand der impliziten Rendite von Nullkupon-Staatsanleihen bestimmen.
+
+Auswirkungen auf die Kapitalverhältnisse
+
+B38 Normalerweise werden gehandelte Anteilsoptionen von Dritten und nicht vom Unternehmen verkauft. Bei Ausübung dieser Anteilsoptionen liefert der Verkäufer die Anteile an den Optionsinhaber, die dann von bestehenden Anteilseignern gekauft werden. Die Ausübung gehandelter Anteilsoptionen hat daher keinen Verwässerungseffekt.
+
+B39 Werden die Anteilsoptionen dagegen vom Unternehmen verkauft, werden bei der Ausübung dieser Optionen neue Anteile ausgegeben (entweder tatsächlich oder ihrem wirtschaftlichen Gehalt nach, falls vorher zurückgekaufte und gehaltene eigene Anteile verwendet werden). Da die Anteile zum Ausübungspreis und nicht zum aktuellen Marktpreis am Tag der Ausübung ausgegeben werden, könnte diese tatsächliche oder potenzielle Verwässerung einen Rückgang des Anteilspreises bewirken, sodass der Optionsinhaber bei der Ausübung keinen so großen Gewinn wie bei der Ausübung einer ansonsten gleichartigen gehandelten Option ohne Verwässerung des Anteilspreises erzielt.
+
+B40 Ob dies eine wesentliche Auswirkung auf den Wert der gewährten Anteilsoptionen hat, ist von verschiedenen Faktoren abhängig, wie etwa der Anzahl der bei Ausübung der Optionen neu ausgegebenen Anteile im Verhältnis zur Anzahl der bereits im Umlauf befindlichen Anteile. Außerdem könnte der Markt, wenn er die Gewährung von Optionen bereits erwartet, die potenzielle Verwässerung bereits in den Anteilspreis am Tag der Gewährung eingepreist haben.
+
+B41 Das Unternehmen hat jedoch zu prüfen, ob der mögliche Verwässerungseffekt einer künftigen Ausübung der gewährten Anteilsoptionen unter Umständen einen Einfluss auf den geschätzten beizulegenden Zeitwert zum Tag der Gewährung hat. Die Optionspreismodelle können zur Berücksichtigung dieses potenziellen Verwässerungseffekts entsprechend angepasst werden.
+
+Änderungen von anteilsbasierten Vergütungsvereinbarungen mit Ausgleich durch Eigenkapitalinstrumente
+
+B42 Paragraph 27 schreibt vor, dass ungeachtet etwaiger Änderungen der Vertragsbedingungen, zu denen die Eigenkapitalinstrumente gewährt wurden, oder einer Annullierung oder Erfüllung der gewährten Eigenkapitalinstrumente als Mindestanforderung die erhaltenen Leistungen, die zum beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente am Tag der Gewährung bewertet wurden, zu erfassen sind, es sei denn, diese Eigenkapitalinstrumente sind aufgrund der Nichterfüllung einer am Tag der Gewährung vereinbarten Erdienungsbedingung (bei der es sich nicht um eine Marktbedingung handelt) nicht erdient. Außerdem hat ein Unternehmen die Auswirkungen von Änderungen zu erfassen, die den gesamten beizulegenden Zeitwert der anteilsbasierten Vergütungsvereinbarung erhöhen oder mit einem anderen Nutzen für den Mitarbeiter verbunden sind.
+
+B43 Zur Anwendung der Vorschriften von Paragraph 27 gilt:
+a) 
+
+Wenn durch eine Änderung der unmittelbar vor und nach dieser Änderung ermittelte beizulegende Zeitwert der gewährten Eigenkapitalinstrumente zunimmt (z. B. durch Verringerung des Ausübungspreises), ist der gewährte zusätzliche beizulegende Zeitwert in die Berechnung des Betrags einzubeziehen, der für die als Gegenleistung für die gewährten Eigenkapitalinstrumente erhaltenen Leistungen erfasst wird. Der gewährte zusätzliche beizulegende Zeitwert ergibt sich aus der Differenz zwischen dem beizulegenden Zeitwert des geänderten Eigenkapitalinstruments und dem des ursprünglichen Eigenkapitalinstruments, die beide am Tag der Änderung geschätzt werden. Erfolgt die Änderung während des Erdienungszeitraums, ist zusätzlich zu dem Betrag, der auf dem beizulegenden Zeitwert der ursprünglichen Eigenkapitalinstrumente am Tag der Gewährung basiert und der über den verbleibenden ursprünglichen Erdienungszeitraum zu erfassen ist, der gewährte zusätzliche beizulegende Zeitwert in den Betrag einzubeziehen, der für ab dem Tag der Änderung bis zum Tag der Erdienung der geänderten Eigenkapitalinstrumente erhaltene Leistungen erfasst wird. Erfolgt die Änderung nach dem Tag der Erdienung, ist der gewährte zusätzliche beizulegende Zeitwert sofort zu erfassen bzw. über den Erdienungszeitraum, wenn der Mitarbeiter eine zusätzliche Dienstzeit ableisten muss, bevor er einen uneingeschränkten Anspruch auf die geänderten Eigenkapitalinstrumente erwirbt.
+b) 
+
+Auf gleiche Weise ist bei einer Änderung, bei der die Anzahl der gewährten Eigenkapitalinstrumente erhöht wird, der zum Zeitpunkt der Änderung beizulegende Zeitwert der zusätzlich gewährten Eigenkapitalinstrumente bei der Ermittlung des Betrags gemäß den Vorschriften unter (a) oben zu berücksichtigen, der für als Gegenleistung für die gewährten Eigenkapitalinstrumente erhaltene Leistungen erfasst wird. Erfolgt die Änderung beispielsweise während des Erdienungszeitraums, ist zusätzlich zu dem Betrag, der auf dem beizulegenden Zeitwert der ursprünglich gewährten Eigenkapitalinstrumente am Tag der Gewährung basiert und der über den verbleibenden ursprünglichen Erdienungszeitraum zu erfassen ist, der beizulegende Zeitwert der zusätzlich gewährten Eigenkapitalinstrumente in den Betrag einzubeziehen, der für ab dem Tag der Änderung bis zum Tag der Erdienung der geänderten Eigenkapitalinstrumente erhaltene Leistungen erfasst wird.
+c) 
+
+Werden die Erdienungsbedingungen zugunsten des Mitarbeiters geändert, beispielsweise durch Verkürzung des Erdienungszeitraums oder durch Änderung oder Streichung einer Leistungsbedingung (bei der es sich nicht um eine Marktbedingung handelt, wobei Änderungen von Marktbedingungen gemäß (a) oben zu bilanzieren sind), sind bei Anwendung der Vorschriften der Paragraphen 19–21 die geänderten Erdienungsbedingungen zu berücksichtigen.
+
+B44 Werden die Vertragsbedingungen der gewährten Eigenkapitalinstrumente auf eine Weise geändert, die eine Minderung des gesamten beizulegenden Zeitwerts der anteilsbasierten Vergütungsvereinbarung zur Folge hat oder mit keinem anderen Nutzen für den Mitarbeiter verbunden ist, sind die als Gegenleistung für die gewährten Eigenkapitalinstrumente erhaltenen Leistungen trotzdem weiterhin so zu bilanzieren, als hätte diese Änderung nicht stattgefunden (es sei denn, es handelt sich um eine Annullierung einiger oder aller gewährten Eigenkapitalinstrumente, die gemäß Paragraph 28 zu behandeln ist). Es folgen einige Beispiele:
+a) 
+
+Wenn infolge einer Änderung der unmittelbar vor und nach der Änderung ermittelte beizulegende Zeitwert der gewährten Eigenkapitalinstrumente abnimmt, hat das Unternehmen diese Minderung nicht zu berücksichtigen, sondern weiterhin den Betrag anzusetzen, der für die als Gegenleistung für die Eigenkapitalinstrumente erhaltenen Leistungen, bemessen nach dem beizulegenden Zeitwert der gewährten Eigenkapitalinstrumente am Tag der Gewährung, erfasst wurde.
+b) 
+
+Führt die Änderung dazu, dass einem Mitarbeiter eine geringere Anzahl von Eigenkapitalinstrumenten gewährt wird, ist diese Herabsetzung gemäß den Vorschriften von Paragraph 28 als Annullierung des betreffenden Anteils der gewährten Eigenkapitalinstrumente zu bilanzieren.
+c) 
+
+Werden die Erdienungsbedingungen zuungunsten des Mitarbeiters geändert, beispielsweise durch Verlängerung des Erdienungszeitraums oder durch Änderung oder Aufnahme einer zusätzlichen Leistungsbedingung (bei der es sich nicht um eine Marktbedingung handelt, deren Änderungen gemäß (a) oben zu bilanzieren sind), sind bei Anwendung der Vorschriften der Paragraphen 19–21 die geänderten Ausübungsbedingungen nicht zu berücksichtigen.
+
+Bilanzierung einer Änderung, die bewirkt, dass eine anteilsbasierte Vergütung mit Barausgleich fortan als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente einzustufen ist
+
+B44A Werden die Vertragsbedingungen einer anteilsbasierten Vergütung mit Barausgleich so geändert, dass daraus eine anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente wird, so wird die Vergütung ab dem Zeitpunkt der Änderung als solche bilanziert. Dies bedeutet konkret:
+a) 
+
+Die anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente wird unter Bezugnahme auf den beizulegenden Zeitwert der am Tag der Änderung gewährten Eigenkapitalinstrumente bewertet. Die anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente wird am Tag der Änderung nach Maßgabe der erhaltenen Güter oder Dienstleistungen im Eigenkapital erfasst.
+b) 
+
+Die aus der anteilsbasierten Vergütung mit Barausgleich resultierende Schuld wird am Tag der Änderung ausgebucht.
+c) 
+
+Jede etwaige Differenz zwischen dem Buchwert der ausgebuchten Schuld und dem am Tag der Änderung im Eigenkapital erfassten Betrag wird umgehend erfolgswirksam erfasst.
+
+B44B Ergibt sich infolge der Änderung ein längerer oder kürzerer Erdienungszeitraum, so wird bei der Anwendung der Vorschriften in Paragraph B44A der geänderte Erdienungszeitraum berücksichtigt. Die Vorschriften in Paragraph B44A finden auch dann Anwendung, wenn die Änderung nach Ablauf des Erdienungszeitraums eintritt.
+
+B44C Eine anteilsbasierte Vergütung mit Barausgleich kann annulliert oder erfüllt werden (ausgenommen eine Annullierung durch Verwirkung, weil die Erdienungsbedingungen nicht erfüllt wurden). Werden Eigenkapitalinstrumente gewährt und identifiziert das Unternehmen diese am Tag der Gewährung als Ersatz für die annullierte anteilsbasierte Vergütung mit Barausgleich, so hat das Unternehmen die Paragraphen B44A und B44B anzuwenden.
+
+Anteilsbasierte Vergütungen zwischen Konzernunternehmen (Änderungen 2009)
+
+B45 In den Paragraphen 43A–43C wird dargelegt, wie anteilsbasierte Vergütungen zwischen Konzernunternehmen in den Einzelabschlüssen der einzelnen Unternehmen zu bilanzieren sind. In den Paragraphen B46–B61 wird erläutert, wie die Vorschriften der Paragraphen 43A–43C anzuwenden sind. In Paragraph 43D wurde bereits darauf hingewiesen, dass es für anteilsbasierte Vergütungen zwischen Konzernunternehmen je nach Sachlage und Umständen eine Reihe von Gründen geben kann. Die hier dargelegten Ausführungen sind deshalb nicht abschließend und gehen von der Annahme aus, dass es sich in Fällen, in denen das Unternehmen, das die Güter oder Dienstleistungen erhält, nicht zum Ausgleich der Transaktion verpflichtet ist, wenn es sich dabei ungeachtet etwaiger konzerninterner Rückzahlungsvereinbarungen um eine Kapitaleinlage des Mutterunternehmens beim Tochterunternehmen handelt.
+
+B46 Auch wenn es in den folgenden Ausführungen hauptsächlich um Transaktionen mit Mitarbeitern geht, sind die Ausführungen auch auf ähnliche anteilsbasierte Vergütungen an Lieferanten oder Dienstleister anzuwenden, bei denen es sich nicht um Mitarbeiter handelt. So kann eine Vereinbarung zwischen einem Mutter- und einem Tochterunternehmen das Tochterunternehmen dazu verpflichten, das Mutterunternehmen für die Bereitstellung von Eigenkapitalinstrumenten an die Mitarbeiter zu bezahlen. Wie eine solche konzerninterne Zahlungsvereinbarung zu bilanzieren ist, wird in den folgenden Ausführungen nicht behandelt.
+
+B47 Bei anteilsbasierten Vergütungen zwischen Konzernunternehmen stellen sich in der Regel vier Fragen. Der Einfachheit halber werden diese nachfolgend am Beispiel eines Mutter- und dessen Tochterunternehmens erörtert.
+
+Anteilsbasierte Vergütungsvereinbarungen mit Ausgleich durch eigene Eigenkapitalinstrumente eines Unternehmens
+
+B48 Die erste Frage lautet, ob die nachstehend beschriebenen Transaktionen mit eigenen Eigenkapitalinstrumenten eines Unternehmens gemäß den Vorschriften dieses IFRS als Ausgleich durch Eigenkapitalinstrumente oder als Barausgleich bilanziert werden sollen:
+a) 
+
+ein Unternehmen gewährt seinen Mitarbeitern Rechte auf Eigenkapitalinstrumente des Unternehmens (z. B. Anteilsoptionen) und entscheidet sich dafür oder ist dazu gezwungen, zur Erfüllung dieser Verpflichtung gegenüber seinen Mitarbeitern von einer anderen Partei Eigenkapitalinstrumente (z. B. eigene Anteile) zu erwerben, und
+b) 
+
+den Mitarbeitern eines Unternehmens werden entweder durch das Unternehmen selbst oder durch dessen Anteilseigner Rechte auf Eigenkapitalinstrumente des Unternehmens (z. B. Anteilsoptionen) gewährt, wobei die benötigten Eigenkapitalinstrumente von den Anteilseignern des Unternehmens zur Verfügung gestellt werden.
+
+B49 Anteilsbasierte Vergütungen, bei denen das Unternehmen als Gegenleistung für seine eigenen Eigenkapitalinstrumente Dienstleistungen erhält, sind als anteilsbasierte Vergütung mit Ausgleich durch Eigenkapitalinstrumente zu bilanzieren. Dies gilt unabhängig davon, ob das Unternehmen sich dafür entscheidet oder dazu gezwungen ist, diese Eigenkapitalinstrumente von einer anderen Partei zu erwerben, damit es seine aus der anteilsbasierten Vergütungsvereinbarung erwachsenden Verpflichtungen gegenüber seinen Mitarbeitern erfüllen kann. Dies gilt auch unabhängig davon, ob
+a) 
+
+die Rechte der Mitarbeiter auf Eigenkapitalinstrumente des Unternehmens vom Unternehmen selbst oder von dessen Anteilseigner/Anteilseignern gewährt wurden, oder
+b) 
+
+die anteilsbasierte Vergütungsvereinbarung vom Unternehmen selbst oder von dessen Anteilseigner/Anteilseignern erfüllt wurde.
+
+B50 Ist der Anteilseigner verpflichtet, die Mitarbeiter seines Unternehmens anteilsbasiert zu vergüten, wird er eher Eigenkapitalinstrumente dieses Unternehmens als eigene Instrumente zur Verfügung stellen. Gehört das Unternehmen zu demselben Konzern wie der Anteilseigner, so hat dieser daher gemäß Paragraph 43C seine Verpflichtung anhand der Vorschriften zu bewerten, die für anteilsbasierte Vergütungen mit Barausgleich in seinem Einzelabschluss und für anteilsbasierte Vergütungen mit Ausgleich durch Eigenkapitalinstrumente in seinem Konzernabschluss gelten.
+
+Anteilsbasierte Vergütungsvereinbarungen mit Ausgleich durch Eigenkapitalinstrumente des Mutterunternehmens
+
+B51 Die zweite Frage betrifft anteilsbasierte Vergütungen zwischen zwei oder mehr Unternehmen desselben Konzerns, für die ein Eigenkapitalinstrument eines anderen Unternehmens des Konzerns herangezogen wird. Dies ist beispielsweise der Fall, wenn den Mitarbeitern eines Tochterunternehmens als Gegenleistung für Leistungen, die sie für dieses Tochterunternehmen erbracht haben, Rechte auf Eigenkapitalinstrumente des Mutterunternehmens eingeräumt werden.
+
+B52 Deshalb betrifft die zweite Frage die folgenden anteilsbasierten Vergütungsvereinbarungen:
+a) 
+
+ein Mutterunternehmen gewährt den Mitarbeitern seines Tochterunternehmens unmittelbar Rechte auf seine Eigenkapitalinstrumente: in diesem Fall ist das Mutterunternehmen (nicht das Tochterunternehmen) zur Lieferung der Eigenkapitalinstrumente an die Mitarbeiter des Tochterunternehmens verpflichtet, und
+b) 
+
+ein Tochterunternehmen gewährt seinen Mitarbeitern Rechte auf Eigenkapitalinstrumente seines Mutterunternehmens: in diesem Fall ist das Tochterunternehmen zur Lieferung der Eigenkapitalinstrumente an seine Mitarbeiter verpflichtet.
+
+Ein Mutterunternehmen gewährt den Mitarbeitern seines Tochterunternehmens Rechte auf seine Eigenkapitalinstrumente (Paragraph B52(a))
+
+B53 Das Tochterunternehmen ist nicht verpflichtet, seinen Mitarbeitern Eigenkapitalinstrumente seines Mutterunternehmens zu liefern. Daher hat das Tochterunternehmen gemäß Paragraph 43B die Dienstleistungen, die es von seinen Mitarbeitern erhält, gemäß den Vorschriften für anteilsbasierte Vergütungen mit Ausgleich durch Eigenkapitalinstrumente zu bewerten und die entsprechende Erhöhung des Eigenkapitals als Einlage des Mutterunternehmens zu erfassen.
+
+B54 Das Mutterunternehmen ist verpflichtet, den Ausgleich vorzunehmen und den Mitarbeitern des Tochterunternehmens eigene Eigenkapitalinstrumente zu liefern. Daher hat das Mutterunternehmen gemäß Paragraph 43C diese Verpflichtung gemäß den für anteilsbasierte Vergütungen mit Ausgleich durch Eigenkapitalinstrumente geltenden Vorschriften zu bewerten.
+
+Ein Tochterunternehmen gewährt seinen Mitarbeitern Rechte auf Eigenkapitalinstrumente seines Mutterunternehmens (Paragraph B52(b))
+
+B55 Da das Tochterunternehmen keine der in Paragraph 43B genannten Bedingungen erfüllt, hat es die Transaktion mit seinen Mitarbeitern als Vergütung mit Barausgleich zu bilanzieren. Diese Vorschrift gilt unabhängig davon, auf welche Weise das Tochterunternehmen die Eigenkapitalinstrumente zur Erfüllung seiner Verpflichtungen gegenüber seinen Mitarbeitern erhält.
+
+Anteilsbasierte Vergütungsvereinbarungen mit Barausgleich für die Mitarbeiter
+
+B56 Die dritte Frage lautet, wie ein Unternehmen, das von Lieferanten (einschließlich Mitarbeitern) Güter oder Dienstleistungen erhält, anteilsbasierte Vereinbarungen mit Barausgleich bilanzieren sollte, wenn es selbst nicht zur Leistung der erforderlichen Zahlungen an die Lieferanten oder Dienstleister verpflichtet ist. Hierzu folgende Beispiele für Vereinbarungen, bei denen das Mutterunternehmen (und nicht das Unternehmen selbst) die erforderlichen Barzahlungen an die Mitarbeiter des Unternehmens leisten muss:
+a) 
+
+die Barzahlungen an die Mitarbeiter des Unternehmens sind an den Preis der Eigenkapitalinstrumente dieses Unternehmens gekoppelt;
+b) 
+
+die Barzahlungen an die Mitarbeiter des Unternehmens sind an den Preis der Eigenkapitalinstrumente von dessen Mutterunternehmen gekoppelt.
+
+B57 Das Tochterunternehmen ist nicht verpflichtet, den Ausgleich mit seinen Mitarbeitern vorzunehmen. Daher hat das Tochterunternehmen die Transaktion mit seinen Mitarbeitern als Vergütung mit Ausgleich durch Eigenkapitalinstrumente zu bilanzieren und die entsprechende Erhöhung des Eigenkapitals als Einlage seines Mutterunternehmens zu erfassen. In der Folge hat das Tochterunternehmen die Kosten der Transaktion immer dann neu zu bewerten, wenn aufgrund der Nichterfüllung nicht marktbedingter Erdienungsbedingungen gemäß den Paragraphen 19–21 eine Änderung eingetreten ist. Hier liegt der Unterschied zur Bewertung der Transaktion als Barausgleich im Konzernabschluss.
+
+B58 Da das Mutterunternehmen verpflichtet ist, den Ausgleich mit den Mitarbeitern vorzunehmen und die Vergütung der Mitarbeiter in bar erfolgt, hat das Mutterunternehmen (und der Konzern) seine Verpflichtung gemäß den Vorschriften für anteilsbasierte Vergütungen mit Barausgleich in Paragraph 43C zu bewerten.
+
+Wechsel von Mitarbeitern zwischen Unternehmen des Konzerns
+
+B59 Die vierte Frage betrifft konzerninterne anteilsbasierte Vergütungsvereinbarungen, die die Mitarbeiter von mehr als einem Konzernunternehmen betreffen. So könnte ein Mutterunternehmen den Mitarbeitern seiner Tochterunternehmen beispielsweise Rechte auf seine Eigenkapitalinstrumente gewähren, dies aber davon abhängig machen, dass die betreffenden Mitarbeiter dem Konzern ihre Dienste über einen bestimmten Zeitraum zur Verfügung stellen. Ein Mitarbeiter eines Tochterunternehmens könnte im Laufe des festgelegten Erdienungszeitraums zu einem anderen Tochterunternehmen wechseln, ohne dass dies seine im Rahmen der ursprünglichen anteilsbasierten Vergütungsvereinbarung gewährten Rechte auf Eigenkapitalinstrumente des Mutterunternehmens beeinträchtigt. Sind die Tochterunternehmen nicht verpflichtet, die anteilsbasierte Vergütung der Mitarbeiter zu leisten, bilanzieren sie diese als Transaktion mit Ausgleich durch Eigenkapitalinstrumente. Jedes Tochterunternehmen hat die von einem Mitarbeiter erhaltenen Leistungen zu bewerten unter Bezugnahme auf den beizulegenden Zeitwert des Eigenkapitalinstruments zu dem Zeitpunkt, zu dem das Mutterunternehmen die Rechte auf diese Eigenkapitalinstrumente gemäß Anhang A ursprünglich gewährt hat, und auf den Teil des Erdienungszeitraums, den der Mitarbeiter bei dem betreffenden Tochterunternehmen gearbeitet hat.
+
+B60 Ist das Tochterunternehmen verpflichtet, den Ausgleich vorzunehmen und seinen Mitarbeitern Eigenkapitalinstrumente seines Mutterunternehmens zu liefern, so bilanziert es die Transaktion als Barausgleich. Jedes Tochterunternehmen bewertet die erhaltenen Leistungen für den Teil des Erdienungszeitraums, den der Mitarbeiter bei dem jeweiligen Tochterunternehmen tätig war, und legt zu diesem Zweck den beizulegenden Zeitwert des Eigenkapitalinstruments am Tag der Gewährung zugrunde. Zusätzlich dazu erfasst jedes Tochterunternehmen jede Veränderung des beizulegenden Zeitwerts des Eigenkapitalinstruments, die während der Dienstzeit des Mitarbeiters in dem betreffenden Tochterunternehmen eingetreten ist.
+
+B61 Es ist möglich, dass ein solcher Mitarbeiter nach dem Wechsel zwischen Konzernunternehmen eine Erdienungsbedingung, bei der es sich nicht um eine Marktbedingung im Sinne des Anhangs A handelt, nicht erfüllt, etwa wenn er den Konzern vor Vollendung der Dienstzeit verlässt. In diesem Fall hat jedes Tochterunternehmen aufgrund der Tatsache, dass die Erdienungsbedingung Leistungserbringung für den Konzern ist, den Betrag, der zuvor für die vom Mitarbeiter gemäß den Grundsätzen des Paragraphen 19 erhaltene Leistungen erfasst wurde, anzupassen. Wenn die vom Mutterunternehmen gewährten Rechte auf Eigenkapitalinstrumente nicht erdient werden, weil ein Mitarbeiter eine Erdienungsbedingung, bei der es sich nicht um eine Marktbedingung handelt, nicht erfüllt, wird für die von diesem Mitarbeiter erhaltenen Leistungen deshalb in keinem Abschluss eines Konzernunternehmens ein Betrag auf kumulativer Basis angesetzt.

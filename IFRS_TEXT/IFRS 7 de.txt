@@ -1,0 +1,1882 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 6
+
+Exploration und Evaluierung von Bodenschätzen
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses IFRS ist es, die Rechnungslegung für die Exploration und Evaluierung von Bodenschätzen festzulegen.
+
+2 Dieser IFRS schreibt insbesondere Folgendes vor:
+a) 
+
+begrenzte Verbesserungen bei der derzeitigen Bilanzierung von Ausgaben für Exploration und Evaluierung,
+b) 
+
+Vermögenswerte, die als Vermögenswerte für Exploration und Evaluierung angesetzt werden, sind gemäß diesem IFRS auf Wertminderung hin zu überprüfen, und etwaige Wertminderungen sind gemäß IAS 36 Wertminderung von Vermögenswerten zu bewerten,
+c) 
+
+Angaben, die die im Abschluss des Unternehmens für die Exploration und Evaluierung von Bodenschätzen erfassten Beträge kennzeichnen und erläutern, und den Abschlussadressaten die Höhe, die Zeitpunkte und die Eintrittswahrscheinlichkeit künftiger Zahlungsströme verständlich machen, die aus den angesetzten Vermögenswerten für Exploration und Evaluierung resultieren.
+
+ANWENDUNGSBEREICH
+
+3 Dieser IFRS ist auf die Ausgaben eines Unternehmens für Exploration und Evaluierung anzuwenden.
+
+4 Andere Aspekte der Bilanzierung von Unternehmen, die sich im Rahmen ihrer Geschäftstätigkeit mit der Exploration und Evaluierung von Bodenschätzen befassen, werden in diesem IFRS nicht behandelt.
+
+5 Dieser IFRS gilt nicht für Ausgaben, die
+a) 
+
+vor der Exploration und Evaluierung von Bodenschätzen entstehen, z. B. Ausgaben, die anfallen, bevor das Unternehmen die Rechte zur Exploration eines bestimmten Gebietes erhalten hat,
+b) 
+
+nach dem Nachweis der technischen Durchführbarkeit und wirtschaftlichen Realisierbarkeit der Gewinnung von Bodenschätzen entstehen.
+
+ANSATZ VON VERMÖGENSWERTEN FÜR EXPLORATION UND EVALUIERUNG
+
+Vorübergehende Befreiung von den Paragraphen 11 und 12 von IAS 8
+
+6 Bei der Entwicklung von Rechnungslegungsmethoden hat ein Unternehmen, das Vermögenswerte für Exploration und Evaluierung ansetzt, Paragraph 10 von IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler anzuwenden.
+
+7 In den Paragraphen 11 und 12 von IAS 8 werden Quellen für verbindliche Vorschriften und Leitlinien genannt, die das Management bei der Entwicklung von Rechnungslegungsmethoden für Geschäftsvorfälle berücksichtigen muss, auf die kein IFRS ausdrücklich zutrifft. Vorbehaltlich der nachstehenden Paragraphen 9 und 10 befreit dieser IFRS ein Unternehmen davon, jene Paragraphen auf seine Rechnungslegungsmethoden für den Ansatz und die Bewertung von Vermögenswerten für Exploration und Evaluierung anzuwenden.
+
+BEWERTUNG VON VERMÖGENSWERTEN FÜR EXPLORATION UND EVALUIERUNG
+
+Bewertung bei erstmaligem Ansatz
+
+8   Vermögenswerte für Exploration und Evaluierung sind zu ihren Anschaffungs- oder Herstellungskosten zu bewerten.
+
+Bestandteile der Anschaffungs- oder Herstellungskosten von Vermögenswerten für Exploration und Evaluierung
+
+9 Ein Unternehmen hat eine Rechnungslegungsmethode festzulegen, nach der zu bestimmen ist, welche Ausgaben als Vermögenswerte für Exploration und Evaluierung angesetzt werden, und diese Methode einheitlich anzuwenden. Bei dieser Entscheidung ist zu berücksichtigen, inwieweit die Ausgaben mit der Suche nach bestimmten Bodenschätzen in Verbindung gebracht werden können. Es folgen einige Beispiele für Ausgaben, die in die erstmalige Bewertung von Vermögenswerten für Exploration und Evaluierung einbezogen werden könnten (die Liste ist nicht abschließend):
+a) 
+
+Erwerb von Rechten zur Exploration,
+b) 
+
+topografische, geologische, geochemische und geophysikalische Studien,
+c) 
+
+Probebohrungen,
+d) 
+
+Erdbewegungen,
+e) 
+
+Probenentnahmen und
+f) 
+
+Tätigkeiten in Zusammenhang mit der Beurteilung der technischen Durchführbarkeit und der wirtschaftlichen Realisierbarkeit der Gewinnung von Bodenschätzen.
+
+10 Ausgaben in Verbindung mit der Erschließung von Bodenschätzen sind nicht als Vermögenswerte für Exploration und Evaluierung anzusetzen. Das Rahmenkonzept für die Finanzberichterstattung und IAS 38 Immaterielle Vermögenswerte enthalten Leitlinien für den Ansatz von Vermögenswerten, die aus der Erschließung resultieren.
+
+11 Nach IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen sind alle Beseitigungs- und Wiederherstellungsverpflichtungen zu erfassen, die in einer bestimmten Periode im Zuge der Exploration und Evaluierung von Bodenschätzen anfallen.
+
+Folgebewertung
+
+12 Nach dem erstmaligen Ansatz sind die Vermögenswerte für Exploration und Evaluierung entweder nach dem Anschaffungskostenmodell oder dem Neubewertungsmodell zu bewerten. Bei Anwendung des Neubewertungsmodells (entweder gemäß IAS 16 Sachanlagen oder gemäß IAS 38) muss dieses mit der Einstufung der Vermögenswerte (siehe Paragraph 15) übereinstimmen.
+
+Änderungen von Rechnungslegungsmethoden
+
+13   Ein Unternehmen darf seine Rechnungslegungsmethoden für Ausgaben für Exploration und Evaluierung ändern, wenn diese Änderung den Abschluss für die wirtschaftliche Entscheidungsfindung der Adressaten relevanter macht, ohne weniger verlässlich zu sein, oder verlässlicher macht, ohne weniger relevant für jene Entscheidungsfindung zu sein. Ein Unternehmen hat die Relevanz und Verlässlichkeit anhand der Kriterien in IAS 8 zu beurteilen.
+
+14 Zur Rechtfertigung der Änderung seiner Rechnungslegungsmethoden für Ausgaben für Exploration und Evaluierung hat ein Unternehmen nachzuweisen, dass die Änderung seinen Abschluss näher an die Erfüllung der Kriterien in IAS 8 bringt, wobei die Änderung eine vollständige Übereinstimmung mit jenen Kriterien nicht erreichen muss.
+
+DARSTELLUNG
+
+Einstufung von Vermögenswerten für Exploration und Evaluierung
+
+15 Ein Unternehmen hat Vermögenswerte für Exploration und Evaluierung je nach Art als materielle oder immaterielle Vermögenswerte einzustufen und diese Einstufung stetig anzuwenden.
+
+16 Einige Vermögenswerte für Exploration und Evaluierung werden als immaterielle Vermögenswerte behandelt (z. B. Bohrrechte), während andere materielle Vermögenswerte darstellen (z. B. Fahrzeuge und Bohrinseln). Soweit bei der Entwicklung eines immateriellen Vermögenswerts ein materieller Vermögenswert verbraucht wird, ist der Betrag in Höhe dieses Verbrauchs Bestandteil der Anschaffungs- oder Herstellungskosten des immateriellen Vermögenswerts. Doch führt die Tatsache, dass ein materieller Vermögenswert zur Entwicklung eines immateriellen Vermögenswerts eingesetzt wird, nicht zur Umgliederung dieses materiellen Vermögenswerts in einen immateriellen Vermögenswert.
+
+Umgliederung von Vermögenswerten für Exploration und Evaluierung
+
+17 Ein Vermögenswert für Exploration und Evaluierung ist nicht mehr als solcher einzustufen, wenn die technische Durchführbarkeit und wirtschaftliche Realisierbarkeit einer Gewinnung von Bodenschätzen nachgewiesen werden kann. Das Unternehmen hat die Vermögenswerte für Exploration und Evaluierung vor einer Umgliederung auf Wertminderung hin zu überprüfen und einen etwaigen Wertminderungsaufwand zu erfassen.
+
+WERTMINDERUNG
+
+Ansatz und Bewertung
+
+18   Vermögenswerte für Exploration und Evaluierung sind auf Wertminderung hin zu überprüfen, wenn Tatsachen und Umstände darauf hindeuten, dass der Buchwert eines Vermögenswerts für Exploration und Evaluierung seinen erzielbaren Betrag möglicherweise übersteigt. Wenn Tatsachen und Umstände Anhaltspunkte dafür geben, dass dies der Fall ist, hat ein Unternehmen, außer wie in Paragraph 21 unten beschrieben, einen etwaigen Wertminderungsaufwand gemäß IAS 36 zu bestimmen, darzustellen und zu erläutern.
+
+19 Bei der Identifizierung eines möglicherweise wertgeminderten Vermögenswerts für Exploration und Evaluierung findet — ausschließlich in Bezug auf derartige Vermögenswerte — anstelle der Paragraphen 8–17 von IAS 36 Paragraph 20 dieses IFRS Anwendung. Paragraph 20 verwendet den Begriff „Vermögenswerte“, ist aber sowohl auf einen einzelnen Vermögenswert für Exploration und Evaluierung als auch auf eine zahlungsmittelgenerierende Einheit anzuwenden.
+
+20 Eine oder mehrere der folgenden Tatsachen und Umstände deuten darauf hin, dass ein Unternehmen die Vermögenswerte für Exploration und Evaluierung auf Wertminderung hin zu überprüfen hat (die Liste ist nicht abschließend):
+a) 
+
+Der Zeitraum, für den das Unternehmen das Recht zur Exploration eines bestimmten Gebietes erworben hat, ist während der Berichtsperiode abgelaufen oder wird in naher Zukunft ablaufen und voraussichtlich nicht verlängert werden.
+b) 
+
+Erhebliche Ausgaben für die weitere Exploration und Evaluierung von Bodenschätzen in einem bestimmten Gebiet sind weder veranschlagt noch geplant.
+c) 
+
+Die Exploration und Evaluierung von Bodenschätzen in einem bestimmten Gebiet haben nicht zur Entdeckung wirtschaftlich förderbarer Mengen an Bodenschätzen geführt und das Unternehmen hat beschlossen, seine Aktivitäten in diesem Gebiet einzustellen.
+d) 
+
+Es liegen genügend Daten vor, aus denen hervorgeht, dass die Erschließung eines bestimmten Gebiets zwar wahrscheinlich fortgesetzt wird, der Buchwert des Vermögenswerts für Exploration und Evaluierung durch eine erfolgreiche Erschließung oder Veräußerung jedoch voraussichtlich nicht vollständig wiedererlangt werden kann.
+
+In diesen und ähnlichen Fällen hat das Unternehmen eine Wertminderungsprüfung nach IAS 36 durchzuführen. Jeglicher Wertminderungsaufwand ist gemäß IAS 36 als Aufwand zu erfassen.
+
+Festlegung der Ebene, auf der Vermögenswerte für Exploration und Evaluierung auf Wertminderung hin überprüft werden
+
+21   Ein Unternehmen hat eine Rechnungslegungsmethode festzulegen, mit der die Vermögenswerte für Exploration und Evaluierung zum Zwecke ihrer Überprüfung auf Wertminderung zahlungsmittelgenerierenden Einheiten oder Gruppen von zahlungsmittelgenerierenden Einheiten zugeordnet werden. Eine zahlungsmittelgenerierende Einheit oder Gruppe von Einheiten, der ein Vermögenswert für Exploration und Evaluierung zugeordnet wird, darf nicht größer sein als ein gemäß IFRS 8 Geschäftssegmente bestimmtes Geschäftssegment.
+
+22 Die vom Unternehmen festgelegte Ebene für die Wertminderungsüberprüfung von Vermögenswerten für Exploration und Evaluierung kann eine oder mehrere zahlungsmittelgenerierende Einheiten umfassen.
+
+ANGABEN
+
+23   Ein Unternehmen hat Angaben zu machen, welche die in seinem Abschluss erfassten Beträge für die Exploration und Evaluierung von Bodenschätzen kennzeichnen und erläutern.
+
+24 Zur Erfüllung der Vorschrift in Paragraph 23 sind folgende Angaben erforderlich:
+a) 
+
+die Rechnungslegungsmethoden des Unternehmens für Ausgaben für Exploration und Evaluierung, einschließlich des Ansatzes von Vermögenswerten für Exploration und Evaluierung,
+b) 
+
+die Höhe der Vermögenswerte, Schulden, Erträge und Aufwendungen sowie der Zahlungsströme aus betrieblicher und Investitionstätigkeit, die aus der Exploration und Evaluierung von Bodenschätzen resultieren.
+
+25 Ein Unternehmen hat die Vermögenswerte für Exploration und Evaluierung als gesonderte Gruppe von Vermögenswerten zu behandeln und die in IAS 16 oder IAS 38 verlangten Angaben entsprechend der Einstufung der Vermögenswerte zu machen.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+26 Dieser IFRS ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2006 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen IFRS auf vor dem 1. Januar 2006 beginnende Geschäftsjahre an, hat es dies anzugeben.
+
+26A Durch die Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards, veröffentlicht 2018, wurde Paragraph 10 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig, wenn das Unternehmen gleichzeitig alle anderen durch die Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards vorgenommenen Änderungen anwendet. Die Änderung an IFRS 6 ist rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler anzuwenden. Sollte das Unternehmen jedoch feststellen, dass eine rückwirkende Anwendung nicht durchführbar oder mit unangemessenem Kosten- oder Zeitaufwand verbunden wäre, hat es die Änderung an IFRS 6 mit Verweis auf die Paragraphen 23–28, 50–53 und 54F von IAS 8 anzuwenden.
+
+ÜBERGANGSVORSCHRIFTEN
+
+27 Wenn es undurchführbar ist, eine bestimmte Vorschrift des Paragraphen 18 auf Vergleichsinformationen anzuwenden, die sich auf vor dem 1. Januar 2006 beginnende Geschäftsjahre beziehen, ist dies anzugeben. Der Begriff „undurchführbar“ wird in IAS 8 erläutert.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Vermögenswerte für Exploration und Evaluierung
+	
+
+Ausgaben für Exploration und Evaluierung, die gemäß den Rechnungslegungsmethoden des Unternehmens als Vermögenswerte angesetzt werden.
+
+Ausgaben für Exploration und Evaluierung
+	
+
+Ausgaben, die einem Unternehmen in Zusammenhang mit der Exploration und Evaluierung von Bodenschätzen entstehen, bevor die technische Durchführbarkeit und wirtschaftliche Realisierbarkeit einer Gewinnung der Bodenschätze nachgewiesen werden kann.
+
+Exploration und Evaluierung von Bodenschätzen
+	
+
+Suche nach Bodenschätzen, einschließlich Mineralien, Öl, Erdgas und ähnlichen nicht regenerativen Ressourcen, nachdem das Unternehmen die Rechte zur Exploration eines bestimmten Gebietes erhalten hat, sowie die Feststellung der technischen Durchführbarkeit und der wirtschaftlichen Realisierbarkeit der Gewinnung der Bodenschätze.
+
+INTERNATIONAL FINANCIAL REPORTING STANDARD 7
+
+Finanzinstrumente: Angaben
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses IFRS ist es, von Unternehmen Angaben in ihren Abschlüssen zu verlangen, durch die die Abschlussadressaten einschätzen können,
+a) 
+
+welche Bedeutung Finanzinstrumente für die Vermögens-, Finanz- und Ertragslage des Unternehmens haben und
+b) 
+
+welche Art und welches Ausmaß die Risiken haben, die sich aus Finanzinstrumenten ergeben und denen das Unternehmen während der Berichtsperiode und zum Abschlussstichtag ausgesetzt ist, und wie das Unternehmen diese Risiken steuert.
+
+2 Die in diesem IFRS enthaltenen Grundsätze ergänzen die Grundsätze für den Ansatz, die Bewertung und die Darstellung finanzieller Vermögenswerte und finanzieller Verbindlichkeiten in IAS 32 Finanzinstrumente: Darstellung und IFRS 9 Finanzinstrumente.
+
+ANWENDUNGSBEREICH
+
+3 Dieser IFRS ist von allen Unternehmen auf alle Arten von Finanzinstrumenten anzuwenden. Davon ausgenommen sind:
+a) 
+
+Anteile an Tochterunternehmen, assoziierten Unternehmen und Gemeinschaftsunternehmen, die gemäß IFRS 10 Konzernabschlüsse, IAS 27 Einzelabschlüsse oder IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen bilanziert werden. In einigen Fällen muss oder darf ein Unternehmen jedoch nach IFRS 10, IAS 27 oder IAS 28 einen Anteil an einem Tochterunternehmen, einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen gemäß IFRS 9 bilanzieren. In diesen Fällen gelten die Angabepflichten dieses IFRS und für die zum beizulegenden Zeitwert bewerteten Anteile die Vorschriften von IFRS 13 Bewertung zum beizulegenden Zeitwert. Der vorliegende IFRS ist auch auf alle Derivate anzuwenden, die an Anteile an Tochterunternehmen, assoziierten Unternehmen oder Gemeinschaftsunternehmen gebunden sind, es sei denn, das Derivat entspricht der Definition eines Eigenkapitalinstruments in IAS 32.
+b) 
+
+Rechte und Verpflichtungen eines Arbeitgebers aus Altersversorgungsplänen, auf die IAS 19 Leistungen an Arbeitnehmer anzuwenden ist.
+d) 
+
+Versicherungsverträge im Sinne von IFRS 17 Versicherungsverträge oder Kapitalanlageverträge mit ermessensabhängiger Überschussbeteiligung im Anwendungsbereich von IFRS 17. Anzuwenden ist dieser IFRS allerdings auf:
+i) 
+
+Derivate, die in Verträge im Anwendungsbereich von IFRS 17 eingebettet sind, falls das Unternehmen diese Verträge nach IFRS 9 getrennt bilanzieren muss.
+ii) 
+
+Kapitalanlagekomponenten, die von Verträgen im Anwendungsbereich von IFRS 17 abgetrennt sind, wenn IFRS 17 eine solche Abtrennung vorschreibt, es sei denn, bei der abgetrennten Kapitalanlagekomponente handelt es sich um einen Kapitalanlagevertrag mit ermessensabhängiger Überschussbeteiligung.
+iii) 
+
+Die Rechte und Verpflichtungen eines Versicherers aus Versicherungsverträgen, die die Definition von finanziellen Garantien erfüllen, wenn der Versicherer die Verträge nach IFRS 9 ansetzt und bewertet. Der Versicherer hat jedoch IFRS 17 anzuwenden, wenn er das Wahlrecht nach Paragraph 7(e) von IFRS 17 ausübt, die Verträge nach IFRS 17 anzusetzen und zu bewerten.
+iv) 
+
+Die Rechte und Verpflichtungen eines Unternehmens, bei denen es sich um Finanzinstrumente handelt, die aus Kreditkartenverträgen oder ähnlichen Kredit- und Zahlungsmöglichkeiten bietenden Verträgen entstehen, die ein Unternehmen ausgibt und die die Definition eines Versicherungsvertrags erfüllen, wenn das Unternehmen gemäß Paragraph 7(h) von IFRS 17 und Paragraph 2.1(e)(iv) von IFRS 9 auf diese Rechte und Verpflichtungen IFRS 9 anwendet.
+v) 
+
+Die Rechte und Verpflichtungen eines Unternehmens, bei denen es sich um Finanzinstrumente handelt, die aus Versicherungsverträgen entstehen, die ein Unternehmen ausgibt, die den Schadenersatz im Versicherungsfall auf den Betrag begrenzen, der ansonsten erforderlich wäre, um die durch den Vertrag begründete Verpflichtung des Versicherungsnehmers zu erfüllen, wenn das Unternehmen das Wahlrecht ausübt, gemäß Paragraph 8A von IFRS 17 auf solche Verträge IFRS 9 statt IFRS 17 anzuwenden.
+e) 
+
+Finanzinstrumente, Verträge und Verpflichtungen im Zusammenhang mit anteilsbasierten Vergütungen, auf die IFRS 2 Anteilsbasierte Vergütung anzuwenden ist. Davon ausgenommen sind die unter IFRS 9 fallenden Verträge, auf die dieser IFRS anzuwenden ist.
+f) 
+
+Instrumente, die nach den Paragraphen 16A und 16B oder 16C und 16D von IAS 32 als Eigenkapitalinstrumente eingestuft werden müssen.
+
+4 Dieser IFRS ist auf bilanzwirksame und bilanzunwirksame Finanzinstrumente anzuwenden. Bilanzwirksame Finanzinstrumente umfassen finanzielle Vermögenswerte und finanzielle Verbindlichkeiten, die in den Anwendungsbereich von IFRS 9 fallen. Zu den bilanzunwirksamen Finanzinstrumenten gehören einige andere Finanzinstrumente, die zwar nicht unter IFRS 9, wohl aber unter diesen IFRS fallen.
+
+5 Anzuwenden ist dieser IFRS ferner auf Verträge zum Kauf oder Verkauf eines nichtfinanziellen Postens, die unter IFRS 9 fallen.
+
+5A Die in den Paragraphen 35A–35N verlangten Angaben zum Ausfallrisiko gelten für jene Rechte, die nach IFRS 15 Erlöse aus Verträgen mit Kunden zur Erfassung von Wertminderungsaufwendungen und -erträgen gemäß IFRS 9 bilanziert werden. Jegliche Verweise auf finanzielle Vermögenswerte oder Finanzinstrumente in diesen Paragraphen schließen diese Rechte ein, sofern nichts anderes festgelegt ist.
+
+KLASSEN VON FINANZINSTRUMENTEN UND UMFANG DER ANGABEPFLICHTEN
+
+6 Wenn in diesem IFRS Angaben nach einzelnen Klassen von Finanzinstrumenten verlangt werden, hat ein Unternehmen Finanzinstrumente so in Klassen einzuordnen, dass diese der Art der verlangten Angaben angemessen sind und den Eigenschaften dieser Finanzinstrumente Rechnung tragen. Ein Unternehmen hat genügend Informationen zu liefern, um eine Überleitungsrechnung auf die in der Bilanz dargestellten Posten zu ermöglichen.
+
+BEDEUTUNG DER FINANZINSTRUMENTE FÜR DIE VERMÖGENS-, FINANZ- UND ERTRAGSLAGE
+
+7   Ein Unternehmen hat Angaben zu machen, die es den Abschlussadressaten ermöglichen, die Bedeutung der Finanzinstrumente für seine Vermögens-, Finanz- und Ertragslage zu beurteilen.
+
+Bilanz
+
+Kategorien finanzieller Vermögenswerte und Verbindlichkeiten
+
+8 Für jede der folgenden Kategorien gemäß IFRS 9 ist in der Bilanz oder im Anhang der Buchwert anzugeben:
+a) 
+
+finanzielle Vermögenswerte, die erfolgswirksam zum beizulegenden Zeitwert bewertet werden, wobei folgende Vermögenswerte getrennt voneinander aufzuführen sind: i) diejenigen, die beim erstmaligen Ansatz oder nachfolgend gemäß Paragraph 6.7.1 von IFRS 9 als solche designiert wurden, ii) diejenigen, die gemäß dem Wahlrecht in Paragraph 3.3.5 von IFRS 9 als solche bewertet wurden, iii) diejenigen, die gemäß dem Wahlrecht in Paragraph 33A von IAS 32 als solche bewertet wurden, und iv) diejenigen, für die eine erfolgswirksame Bewertung zum beizulegenden Zeitwert (Fair Value) gemäß IFRS 9 verbindlich vorgeschrieben ist,
+(b)–(d) 
+
+[gestrichen]
+e) 
+
+finanzielle Verbindlichkeiten, die erfolgswirksam zum beizulegenden Zeitwert bewertet werden, wobei diejenigen, die i) beim erstmaligen Ansatz oder nachfolgend gemäß Paragraph 6.7.1 von IFRS 9 als solche designiert wurden, und diejenigen, die ii) die Definition von „zu Handelszwecken gehalten“ gemäß IFRS 9 erfüllen, getrennt voneinander aufzuführen sind,
+f) 
+
+finanzielle Vermögenswerte, die zu fortgeführten Anschaffungskosten bewertet werden,
+g) 
+
+finanzielle Verbindlichkeiten, die zu fortgeführten Anschaffungskosten bewertet werden,
+h) 
+
+finanzielle Vermögenswerte, die zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet werden, wobei i) finanzielle Vermögenswerte, die gemäß Paragraph 4.1.2.A von IFRS 9 zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet werden, und ii) Finanzinvestitionen in Eigenkapitalinstrumente, die beim erstmaligen Ansatz gemäß Paragraph 5.7.5 von IFRS 9 als solche designiert wurden, getrennt voneinander aufzuführen sind.
+
+Erfolgswirksam zum beizulegenden Zeitwert bewertete finanzielle Vermögenswerte oder finanzielle Verbindlichkeiten
+
+9 Hat ein Unternehmen einen finanziellen Vermögenswert (oder eine Gruppe von finanziellen Vermögenswerten), der ansonsten zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis oder zu fortgeführten Anschaffungskosten bewertet würde, als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert, sind folgende Angaben erforderlich:
+a) 
+
+das maximale Ausfallrisiko (siehe Paragraph 36(a)) des finanziellen Vermögenswerts (oder der Gruppe von finanziellen Vermögenswerten) zum Abschlussstichtag.
+b) 
+
+der Betrag, um den ein zugehöriges Kreditderivat oder ähnliches Instrument dieses maximale Ausfallrisiko mindert (siehe Paragraph 36(b)).
+c) 
+
+der Betrag, um den sich der beizulegende Zeitwert des finanziellen Vermögenswerts (oder der Gruppe von finanziellen Vermögenswerten) während der Berichtsperiode und kumuliert geändert hat, soweit dies auf Änderungen des Ausfallrisikos des finanziellen Vermögenswerts zurückzuführen ist. Dieser Betrag wird entweder
+i) 
+
+als Änderung des beizulegenden Zeitwerts bestimmt, soweit diese nicht auf solche Änderungen der Marktbedingungen zurückzuführen ist, die das Marktrisiko beeinflussen, oder
+ii) 
+
+mithilfe einer alternativen Methode bestimmt, mit der nach Ansicht des Unternehmens glaubwürdiger bestimmt werden kann, in welchem Umfang sich der beizulegende Zeitwert durch das geänderte Ausfallrisiko ändert.
+
+Zu den Änderungen der Marktbedingungen, die ein Marktrisiko bewirken, zählen Änderungen eines zu beobachtenden (Referenz-) Zinssatzes, Rohstoffpreises, Wechselkurses oder Preis- bzw. Zinsindexes.
+d) 
+
+die Höhe der Änderung des beizulegenden Zeitwerts jedes zugehörigen Kreditderivats oder ähnlichen Instruments, die während der Berichtsperiode und kumuliert seit der Designation des finanziellen Vermögenswerts eingetreten ist.
+
+10 Wenn ein Unternehmen eine finanzielle Verbindlichkeit gemäß Paragraph 4.2.2 von IFRS 9 als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert hat und die Auswirkungen von Änderungen des Ausfallrisikos dieser Verbindlichkeit im sonstigen Ergebnis ausweisen muss (siehe Paragraph 5.7.7 von IFRS 9), sind folgende Angaben erforderlich:
+a) 
+
+der Betrag, um den sich der beizulegende Zeitwert der finanziellen Verbindlichkeit kumuliert geändert hat, und der auf Änderungen beim Ausfallrisiko dieser Verbindlichkeit zurückzuführen ist (Leitlinien zur Bestimmung der Auswirkungen von Änderungen des Ausfallrisikos einer Verbindlichkeit sind in den Paragraphen B5.7.13–B5.7.20 von IFRS 9 enthalten),
+b) 
+
+die Differenz zwischen dem Buchwert der finanziellen Verbindlichkeit und dem Betrag, den das Unternehmen vertragsgemäß bei Fälligkeit an den Gläubiger zahlen müsste,
+c) 
+
+während der Berichtsperiode vorgenommene Umgliederungen der kumulierten Gewinne oder Verluste innerhalb des Eigenkapitals, einschließlich der Gründe für solche Umgliederungen,
+d) 
+
+wird während der Berichtsperiode eine Verbindlichkeit ausgebucht, gegebenenfalls der im sonstigen Ergebnis ausgewiesene Betrag, der bei der Ausbuchung realisiert wurde.
+
+10A Wenn ein Unternehmen eine finanzielle Verbindlichkeit gemäß Paragraph 4.2.2 von IFRS 9 als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert hat und die Auswirkungen sämtlicher Änderungen des beizulegenden Zeitwerts dieser Verbindlichkeit (einschließlich der Auswirkungen von Änderungen des Ausfallrisikos der Verbindlichkeit) im Gewinn oder Verlust ausweisen muss (siehe Paragraphen 5.7.7 und 5.7.8 von IFRS 9), sind folgende Angaben erforderlich:
+a) 
+
+der Betrag, um den sich der beizulegende Zeitwert der finanziellen Verbindlichkeit während der Berichtsperiode und kumuliert geändert hat, und der auf Änderungen beim Ausfallrisiko dieser Verbindlichkeit zurückzuführen ist (Leitlinien zur Bestimmung der Auswirkungen von Änderungen des Ausfallrisikos einer Verbindlichkeit sind in den Paragraphen B5.7.13–B5.7.20 von IFRS 9 enthalten), und
+b) 
+
+die Differenz zwischen dem Buchwert der finanziellen Verbindlichkeit und dem Betrag, den das Unternehmen vertragsgemäß bei Fälligkeit an den Gläubiger zahlen müsste.
+
+11 Anzugeben sind ferner:
+a) 
+
+eine ausführliche Beschreibung der Methoden, die das Unternehmen zur Erfüllung der Vorschriften der Paragraphen 9(c), 10(a) und 10A(a) und des Paragraphen 5.7.7(a) von IFRS 9 angewendet hat. Hierzu gehört auch eine Erläuterung, warum die Methode angemessen ist.
+b) 
+
+warum es zu dem Schluss gelangt ist, dass die Angaben, die es zur Erfüllung der Vorschriften in den Paragraphen 9(c), 10(a) oder 10A(a) oder Paragraph 5.7.7(a) von IFRS 9 in der Bilanz oder im Anhang gemacht hat, die durch das geänderte Ausfallrisiko bedingte Änderung des beizulegenden Zeitwerts des finanziellen Vermögenswerts oder der finanziellen Verbindlichkeit nicht glaubwürdig widerspiegeln, und welche Faktoren seiner Meinung nach hierfür verantwortlich sind.
+c) 
+
+eine ausführliche Beschreibung der Methodik oder Methodiken, anhand deren es bestimmt hat, ob durch den Ausweis der Auswirkungen von Änderungen beim Ausfallrisiko einer Verbindlichkeit im sonstigen Ergebnis eine Rechnungslegungsanomalie im Gewinn oder Verlust entstehen oder vergrößert würde (siehe Paragraphen 5.7.7 und 5.7.8 von IFRS 9). Wenn ein Unternehmen die Auswirkungen von Änderungen beim Ausfallrisiko einer Verbindlichkeit im Gewinn oder Verlust ausweisen muss (siehe Paragraph 5.7.8 von IFRS 9), gehört hierzu auch eine ausführliche Beschreibung der wirtschaftlichen Beziehung gemäß Paragraph B5.7.6 von IFRS 9.
+
+Finanzinvestitionen in Eigenkapitalinstrumente, die zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet werden
+
+11A Hat ein Unternehmen, wie gemäß Paragraph 5.7.5 von IFRS 9 zulässig, Finanzinvestitionen in Eigenkapitalinstrumente als zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet designiert, sind folgende Angaben erforderlich:
+a) 
+
+welche Finanzinvestitionen in Eigenkapitalinstrumente als zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet designiert wurden,
+b) 
+
+die Gründe für diese alternative Darstellung,
+c) 
+
+der beizulegende Zeitwert jeder solchen Finanzinvestition am Abschlussstichtag,
+d) 
+
+während der Berichtsperiode erfasste Dividenden, aufgeschlüsselt nach Dividenden aus Finanzinvestitionen, die während der Berichtsperiode ausgebucht wurden, und solchen, die am Abschlussstichtag gehalten wurden,
+e) 
+
+während der Berichtsperiode vorgenommene Umgliederungen der kumulierten Gewinne oder Verluste innerhalb des Eigenkapitals, einschließlich der Gründe für solche Umgliederungen.
+
+11B Hat ein Unternehmen während der Berichtsperiode Finanzinvestitionen in Eigenkapitalinstrumente ausgebucht, die zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet wurden, sind folgende Angaben erforderlich:
+a) 
+
+die Gründe für die Veräußerung der Finanzinvestitionen,
+b) 
+
+der beizulegende Zeitwert der Finanzinvestitionen zum Zeitpunkt der Ausbuchung,
+c) 
+
+der kumulierte Gewinn oder Verlust aus der Veräußerung.
+
+Umgliederung
+
+12–12A [gestrichen]
+
+12B Ein Unternehmen hat anzugeben, wenn es in der laufenden oder einer früheren Berichtsperiode finanzielle Vermögenswerte gemäß Paragraph 4.4.1 von IFRS 9 umgegliedert hat. Für jede Umgliederung hat ein Unternehmen Folgendes anzugeben:
+a) 
+
+den Zeitpunkt der Umgliederung,
+b) 
+
+eine ausführliche Erläuterung der Änderung des Geschäftsmodells und eine qualitative Beschreibung ihrer Auswirkung auf den Abschluss des Unternehmens,
+c) 
+
+den aus jeder und in jede Kategorie umgegliederten Betrag.
+
+12C Bei Vermögenswerten, die gemäß Paragraph 4.4.1 von IFRS 9 aus der Kategorie „zum beizulegenden Zeitwert erfolgswirksam bewertet“ in die Kategorie „zu fortgeführten Anschaffungskosten“ oder „zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet“ umgegliedert wurden, hat ein Unternehmen für jede Berichtsperiode ab der Umgliederung bis zur Ausbuchung Folgendes anzugeben:
+a) 
+
+den zum Zeitpunkt der Umgliederung bestimmten Effektivzinssatz und
+b) 
+
+die erfassten Zinserträge.
+
+12D Hat ein Unternehmen finanzielle Vermögenswerte seit dem letzten Abschlussstichtag aus der Kategorie „zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet“ in die Kategorie „zu fortgeführten Anschaffungskosten bewertet“ oder aus der Kategorie „zum beizulegenden Zeitwert erfolgswirksam bewertet“ in die Kategorie „zu fortgeführten Anschaffungskosten bewertet“ oder die Kategorie „zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet“ umgegliedert, hat es Folgendes anzugeben:
+a) 
+
+den beizulegenden Zeitwert der finanziellen Vermögenswerte am Abschlussstichtag und
+b) 
+
+den Gewinn oder Verlust aus der Veränderung des beizulegenden Zeitwerts, der ohne Umgliederung der finanziellen Vermögenswerte während der Berichtsperiode erfolgswirksam oder im sonstigen Ergebnis erfasst worden wäre.
+
+13 [gestrichen]
+
+Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten
+
+13A Die in den Paragraphen 13B–13E verlangten Angaben ergänzen die anderen Angabepflichten dieses IFRS und sind für alle angesetzten Finanzinstrumente vorgeschrieben, die gemäß Paragraph 42 von IAS 32 saldiert werden. Diese Angaben gelten auch für angesetzte Finanzinstrumente, die einer einklagbaren Globalnettingvereinbarung oder ähnlichen Vereinbarung unterliegen, unabhängig davon, ob sie gemäß Paragraph 42 von IAS 32 saldiert werden.
+
+13B Ein Unternehmen hat Angaben zu machen, die es den Abschlussadressaten ermöglichen zu beurteilen, welche Auswirkung oder potenzielle Auswirkung Nettingvereinbarungen auf die Vermögens- und Finanzlage des Unternehmens haben. Hierzu zählen die Auswirkung oder mögliche Auswirkung von Ansprüchen auf Aufrechnung im Zusammenhang mit angesetzten finanziellen Vermögenswerten und angesetzten finanziellen Verbindlichkeiten des Unternehmens, die unter Paragraph 13A fallen.
+
+13C Zur Erreichung der in Paragraph 13B genannten Zielsetzung hat ein Unternehmen zum Abschlussstichtag für unter Paragraph 13A fallende angesetzte finanzielle Vermögenswerte und angesetzte finanzielle Verbindlichkeiten jeweils getrennt die folgenden quantitativen Angaben zu machen:
+a) 
+
+die Bruttobeträge dieser angesetzten finanziellen Vermögenswerte und angesetzten finanziellen Verbindlichkeiten,
+b) 
+
+die Beträge, die bei der Ermittlung der in der Bilanz ausgewiesenen Nettobeträge gemäß den Kriterien in Paragraph 42 von IAS 32 saldiert werden,
+c) 
+
+die in der Bilanz ausgewiesenen Nettobeträge,
+d) 
+
+die Beträge, die einer einklagbaren Globalnettingvereinbarung oder ähnlichen Vereinbarung unterliegen und nicht in den Angaben nach Paragraph 13C(b) enthalten sind, einschließlich
+i) 
+
+Beträge im Zusammenhang mit angesetzten Finanzinstrumenten, die einige oder alle Saldierungskriterien in Paragraph 42 von IAS 32 nicht erfüllen, und
+ii) 
+
+Beträge im Zusammenhang mit finanziellen Sicherheiten (einschließlich Barsicherheiten) und
+e) 
+
+den Nettobetrag nach Abzug der unter d genannten Beträge von den unter c genannten Beträgen.
+
+Die in diesem Paragraphen verlangten Angaben sind tabellarisch getrennt nach finanziellen Vermögenswerten und finanziellen Verbindlichkeiten darzustellen, sofern nicht ein anderes Format angemessener ist.
+
+13D Der gemäß Paragraph 13C(d) angegebene Gesamtbetrag für ein Instrument ist auf den in Paragraph 13C(c) für dieses Instrument genannten Betrag zu beschränken.
+
+13E In seine Angaben aufzunehmen hat ein Unternehmen auch eine Beschreibung der Ansprüche auf Aufrechnung im Zusammenhang mit angesetzten finanziellen Vermögenswerten und angesetzten finanziellen Verbindlichkeiten des Unternehmens, die gemäß Paragraph 13C(d) anzugebenden einklagbaren Globalnettingvereinbarungen und ähnlichen Vereinbarungen unterliegen, einschließlich der Art dieser Ansprüche.
+
+13F Sind die in den Paragraphen 13B–13E verlangten Angaben in mehr als einer Anhangangabe enthalten, hat ein Unternehmen Querverweise zwischen diesen Anhangangaben einzufügen.
+
+Sicherheiten
+
+14 Ein Unternehmen hat Folgendes anzugeben:
+a) 
+
+den Buchwert der finanziellen Vermögenswerte, die es als Sicherheit für Schulden oder Eventualverbindlichkeiten gestellt hat, einschließlich der gemäß Paragraph 3.2.23(a) von IFRS 9 umgegliederten Beträge, und
+b) 
+
+die Vertragsbedingungen für diese Besicherung.
+
+15 Wenn ein Unternehmen Sicherheiten (in Form finanzieller oder nichtfinanzieller Vermögenswerte) hält und diese ohne Vorliegen eines Zahlungsverzugs ihres Eigentümers verkaufen oder als Sicherheit weiterreichen darf, hat es Folgendes anzugeben:
+a) 
+
+den beizulegenden Zeitwert der gehaltenen Sicherheiten,
+b) 
+
+den beizulegenden Zeitwert aller verkauften oder weitergereichten Sicherheiten und ob das Unternehmen zur Rückgabe an den Eigentümer verpflichtet ist, und
+c) 
+
+die Vertragsbedingungen, die mit der Nutzung dieser Sicherheiten verbunden sind.
+
+Wertberichtigungskonto für Kreditausfälle
+
+16 [gestrichen]
+
+16A Der Buchwert finanzieller Vermögenswerte, die gemäß Paragraph 4.1.2A von IFRS 9 zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet werden, wird nicht um eine Wertberichtigung verringert, und die Wertberichtigung ist in der Bilanz nicht gesondert als Verringerung des Buchwerts des finanziellen Vermögenswerts auszuweisen. Doch hat ein Unternehmen die Wertberichtigung im Anhang zum Abschluss anzugeben.
+
+Zusammengesetzte Finanzinstrumente mit mehreren eingebetteten Derivaten
+
+17 Hat ein Unternehmen ein Finanzinstrument emittiert, das sowohl eine Schuld- als auch eine Eigenkapitalkomponente enthält (siehe Paragraph 28 von IAS 32), und sind in das Instrument mehrere Derivate eingebettet, deren Werte voneinander abhängen (wie etwa ein kündbares wandelbares Schuldinstrument), so ist dieser Umstand anzugeben.
+
+Zahlungsverzögerungen bzw. –ausfälle und Vertragsverletzungen
+
+18 Für am Abschlussstichtag angesetzte Darlehensverbindlichkeiten ist Folgendes anzugeben:
+a) 
+
+Einzelheiten zu allen in der Berichtsperiode eingetretenen Zahlungsverzögerungen bzw. -ausfällen, welche die Tilgungs- oder Zinszahlungen, den Tilgungsfonds oder die Tilgungsbedingungen der Darlehensverbindlichkeiten betreffen,
+b) 
+
+den am Abschlussstichtag angesetzten Buchwert der Darlehensverbindlichkeiten, bei denen die Zahlungsverzögerungen bzw. -ausfälle aufgetreten sind, und
+c) 
+
+ob die Zahlungsverzögerungen bzw. -ausfälle behoben oder die Bedingungen für die Darlehensverbindlichkeiten neu ausgehandelt wurden, bevor der Abschluss zur Veröffentlichung freigegeben wurde.
+
+19 Ist es in der Berichtsperiode zu anderen als in Paragraph 18 beschriebenen Verletzungen von Darlehensverträgen gekommen, hat ein Unternehmen auch in Bezug auf diese die in Paragraph 18 verlangten Angaben zu machen, sofern die Vertragsverletzungen den Kreditgeber berechtigen, eine vorzeitige Rückzahlung zu fordern (sofern die Verletzungen am oder vor dem Abschlussstichtag nicht behoben oder die Darlehenskonditionen neu verhandelt wurden).
+
+Gesamtergebnisrechnung
+
+Ertrags-, Aufwands-, Gewinn- oder Verlustposten
+
+20 Ein Unternehmen hat die folgenden Ertrags-, Aufwands-, Gewinn- oder Verlustposten entweder in der Gesamtergebnisrechnung oder im Anhang anzugeben:
+a) 
+
+Nettogewinne oder -verluste aus:
+i) 
+
+finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten, die erfolgswirksam zum beizulegenden Zeitwert bewertet werden, wobei diejenigen aus finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten, die beim erstmaligen Ansatz oder nachfolgend gemäß Paragraph 6.7.1 von IFRS 9 als solche designiert wurden, getrennt auszuweisen sind von denjenigen aus finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten, bei denen eine erfolgswirksame Bewertung zum beizulegenden Zeitwert gemäß IFRS 9 verpflichtend ist (z. B. finanzielle Verbindlichkeiten, die die Definition von „zu Handelszwecken gehalten“ gemäß IFRS 9 erfüllen). Bei finanziellen Verbindlichkeiten, die als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert wurden, hat ein Unternehmen den im sonstigen Ergebnis erfassten Betrag der Gewinne oder Verluste getrennt von dem erfolgswirksam erfassten Betrag auszuweisen.
+(ii)–(iv) 
+
+[gestrichen]
+v) 
+
+finanziellen Verbindlichkeiten, die zu fortgeführten Anschaffungskosten bewertet werden.
+vi) 
+
+finanziellen Vermögenswerten, die zu fortgeführten Anschaffungskosten bewertet werden.
+vii) 
+
+Finanzinvestitionen in Eigenkapitalinstrumente, die gemäß Paragraph 5.7.5 von IFRS 9 als zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet designiert sind.
+viii) 
+
+finanziellen Vermögenswerten, die gemäß Paragraph 4.1.2A von IFRS 9 zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet werden, wobei der Betrag der Gewinne oder Verluste, der im sonstigen Ergebnis in der Periode erfasst wird, getrennt von dem Betrag auszuweisen ist, der bei der Ausbuchung aus dem kumulierten sonstigen Ergebnis erfolgswirksam umgegliedert wird.
+b) 
+
+den (nach der Effektivzinsmethode berechneten) Gesamtzinsertrag und Gesamtzinsaufwand für finanzielle Vermögenswerte, die zu fortgeführten Anschaffungskosten oder gemäß Paragraph 4.1.2A von IFRS 9 zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet werden (wobei diese Beträge getrennt auszuweisen sind), oder finanzielle Verbindlichkeiten, die nicht erfolgswirksam zum beizulegenden Zeitwert bewertet werden.
+c) 
+
+das als Ertrag oder Aufwand erfasste Entgelt (mit Ausnahme der Beträge, die in die Bestimmung der Effektivzinssätze einbezogen werden) aus
+i) 
+
+finanziellen Vermögenswerten und finanziellen Verbindlichkeiten, die nicht erfolgswirksam zum beizulegenden Zeitwert bewertet werden, und
+ii) 
+
+Treuhänder- und anderen fiduziarischen Geschäften, die auf eine Vermögensverwaltung für fremde Rechnung einzelner Personen, Sondervermögen, Pensionsfonds und anderer institutioneller Anleger hinauslaufen.
+d) 
+
+[gestrichen]
+e) 
+
+[gestrichen]
+
+20A Ein Unternehmen hat eine Aufgliederung der in der Gesamtergebnisrechnung erfassten Gewinne oder Verluste aus der Ausbuchung von zu fortgeführten Anschaffungskosten bewerteten finanziellen Vermögenswerten vorzulegen, wobei die Gewinne und Verluste aus der Ausbuchung dieser finanziellen Vermögenswerte getrennt ausgewiesen werden. Diese Angabe muss auch die Gründe für die Ausbuchung dieser finanziellen Vermögenswerte enthalten.
+
+Weitere Angaben
+
+Rechnungslegungsmethoden
+
+21 Gemäß Paragraph 117 des IAS 1 Darstellung des Abschlusses (in der 2007 überarbeiteten Fassung) hat ein Unternehmen wesentliche Angaben zu seinen Rechnungslegungsmethoden zu machen. Es ist davon auszugehen, dass zu diesen wesentlichen Angaben Informationen über die bei der Erstellung des Abschlusses herangezogene(n) Bewertungsgrundlage(n) für Finanzinstrumente zählen.
+
+Bilanzierung von Sicherungsbeziehungen
+
+21A Ein Unternehmen hat die in den Paragraphen 21B–24F verlangten Angaben für diejenigen Risiken zu machen, die es absichert und bei denen es sich für die Bilanzierung von Sicherungsbeziehungen entscheidet. Die Angaben im Rahmen der Bilanzierung von Sicherungsbeziehungen müssen folgende Informationen enthalten:
+a) 
+
+die Risikomanagementstrategie eines Unternehmens sowie die Art und Weise, wie diese zur Steuerung von Risiken angewandt wird,
+b) 
+
+inwieweit die Sicherungsbeziehungen eines Unternehmens die Höhe, den Zeitpunkt und die Unsicherheit seiner künftigen Zahlungsströme beeinflussen können, und
+c) 
+
+die Auswirkung der Bilanzierung von Sicherungsbeziehungen auf die Bilanz, die Gesamtergebnisrechnung und die Eigenkapitalveränderungsrechnung eines Unternehmens.
+
+21B Ein Unternehmen hat die verlangten Angaben in einer einzelnen Anhangangabe oder einem separaten Abschnitt seines Abschlusses zu machen. Doch muss das Unternehmen bereits an anderer Stelle dargestellte Informationen nicht duplizieren, sofern diese Informationen durch Querverweis aus dem Abschluss auf sonstige Verlautbarungen, wie z. B. einen Lage- oder Risikobericht, die den Abschlussadressaten unter denselben Bedingungen und zur selben Zeit wie der Abschluss zugänglich sind, eingebunden werden. Ohne die durch einen Querverweis eingebrachten Informationen ist der Abschluss unvollständig.
+
+21C Hat ein Unternehmen die Angaben gemäß den Paragraphen 22A–24F nach Risikokategorie zu trennen, legt es jede Risikokategorie basierend auf den Risiken fest, bei denen es sich für eine Absicherung entscheidet und die Bilanzierung von Sicherungsbeziehungen angewandt wird. Ein Unternehmen hat die Risikokategorien einheitlich für alle Angaben im Rahmen der Bilanzierung von Sicherungsbeziehungen festzulegen.
+
+21D Zur Erreichung der in Paragraph 21A genannten Zielsetzung hat ein Unternehmen (sofern nachfolgend nichts anderes bestimmt ist) festzulegen, wie viele Details anzugeben sind, wieviel Gewicht es auf die verschiedenen Aspekte der verlangten Angaben legt, den erforderlichen Grad der Aufgliederung oder Zusammenfassung und ob die Abschlussadressaten zusätzliche Erläuterungen zur Beurteilung der angegebenen quantitativen Informationen benötigen. Allerdings hat das Unternehmen denselben Grad der Aufgliederung oder Zusammenfassung anzuwenden, den es bei den geforderten Angaben zusammengehöriger Informationen gemäß diesem IFRS und IFRS 13 Bewertung zum beizulegenden Zeitwert anwendet.
+
+Die Risikomanagementstrategie
+
+22 [gestrichen]
+
+22A Ein Unternehmen hat seine Risikomanagementstrategie für jede Risikokategorie, bei der es sich für eine Absicherung entscheidet und bei der die Bilanzierung von Sicherungsbeziehungen zur Anwendung kommt, zu erläutern. Diese Erläuterung sollte es den Abschlussadressaten ermöglichen, (z. B.) Folgendes zu beurteilen:
+a) 
+
+wie die einzelnen Risiken entstehen,
+b) 
+
+wie das Unternehmen die einzelnen Risiken steuert; hierin eingeschlossen ist, ob das Unternehmen ein Geschäft in seiner Gesamtheit gegen sämtliche Risiken oder eine Risikokomponente (oder -komponenten) eines Geschäfts absichert und warum,
+c) 
+
+das Ausmaß der Risiken, die durch das Unternehmen gesteuert werden.
+
+22B Zur Erfüllung der Vorschriften in Paragraph 22A sollten die Informationen u. a. Folgendes enthalten:
+a) 
+
+eine Beschreibung der Sicherungsinstrumente, die zur Risikoabsicherung verwendet werden (und wie sie verwendet werden),
+b) 
+
+eine Beschreibung, wie das Unternehmen die wirtschaftliche Beziehung zwischen dem Grundgeschäft und dem Sicherungsinstrument zum Zwecke der Beurteilung der Wirksamkeit der Absicherung bestimmt, und
+c) 
+
+eine Beschreibung, wie das Unternehmen die Sicherungsquote festlegt und was die Ursachen für eine Unwirksamkeit der Absicherung sind.
+
+22C Wenn ein Unternehmen eine spezifische Risikokomponente als Grundgeschäft designiert (siehe Paragraph 6.3.7 von IFRS 9), hat es zusätzlich zu den in den Paragraphen 22A und 22B verlangten Angaben die folgenden qualitativen oder quantitativen Informationen bereitzustellen:
+a) 
+
+wie das Unternehmen die als Grundgeschäft designierte Risikokomponente bestimmt (einschließlich einer Beschreibung der Art der Beziehung zwischen der Risikokomponente und dem Geschäft insgesamt) und
+b) 
+
+wie die Risikokomponente mit dem Geschäft insgesamt verbunden ist (Beispiel: Die designierte Risikokomponente hat in der Vergangenheit durchschnittlich 80 Prozent der Änderungen des beizulegenden Zeitwerts des Geschäfts insgesamt abgedeckt).
+
+Höhe, Zeitpunkt und Unsicherheit künftiger Zahlungsströme
+
+23 [gestrichen]
+
+23A Sofern nicht durch Paragraph 23C von dieser Pflicht befreit, hat ein Unternehmen quantitative Informationen je Risikokategorie anzugeben, damit die Abschlussadressaten die vertraglichen Rechte und Pflichten aus den Sicherungsinstrumenten beurteilen und einschätzen können, wie sich diese auf die Höhe, den Zeitpunkt und die Unsicherheit künftiger Zahlungsströme des Unternehmens auswirken.
+
+23B Zur Erfüllung der Vorschriften in Paragraph 23A hat das Unternehmen eine Aufschlüsselung mit folgenden Angaben vorzulegen:
+a) 
+
+ein zeitliches Profil für den Nominalbetrag des Sicherungsinstruments und
+b) 
+
+falls zutreffend, den Durchschnittspreis- oder -kurs (z. B. Ausübungspreis, Terminkurse usw.) des Sicherungsinstruments.
+
+23C In Fällen, in denen ein Unternehmen Sicherungsbeziehungen häufig erneuert (d. h. beendet und neu beginnt), da sowohl das Sicherungsinstrument als auch das Grundgeschäft häufig geändert werden (d. h. das Unternehmen wendet einen dynamischen Prozess an, in dem sowohl das Risiko als auch die Sicherungsinstrumente zur Steuerung dieses Risikos nicht lange gleich bleiben — wie in dem Beispiel in Paragraph B6.5.24(b) von IFRS 9),
+a) 
+
+ist das Unternehmen von der Bereitstellung der in den Paragraphen 23A und 23B verlangten Angaben befreit.
+b) 
+
+sind folgende Angaben erforderlich:
+i) 
+
+Informationen darüber, wie die ultimative Risikomanagementstrategie in Bezug auf diese Sicherungsbeziehungen ist,
+ii) 
+
+eine Beschreibung, wie es seine Risikomanagementstrategie durch Verwendung der Bilanzierung von Sicherungsbeziehungen und Designation dieser bestimmten Sicherungsbeziehungen widerspiegelt, und
+iii) 
+
+ein Hinweis, wie oft die Sicherungsbeziehungen im Rahmen des diesbezüglichen Prozesses des Unternehmens beendet und neu begonnen werden.
+
+23D Ein Unternehmen hat für jede Risikokategorie die Ursachen einer Unwirksamkeit der Absicherung darzulegen, die sich voraussichtlich auf die Sicherungsbeziehung während deren Laufzeit auswirken.
+
+23E Treten in einer Sicherungsbeziehung andere Ursachen einer Unwirksamkeit der Absicherung zutage, hat ein Unternehmen diese Ursachen je Risikokategorie anzugeben und die daraus resultierende Unwirksamkeit der Absicherung zu erläutern.
+
+23F Bei der Absicherung von Zahlungsströmen hat ein Unternehmen eine Beschreibung jeder erwarteten Transaktion vorzulegen, für die in der vorherigen Periode die Bilanzierung von Sicherungsbeziehungen verwendet wurde, deren Eintreten aber nicht mehr erwartet wird.
+
+Auswirkungen der Bilanzierung von Sicherungsbeziehungen auf die Vermögens-, Finanz- und Ertragslage
+
+24 [gestrichen]
+
+24A Ein Unternehmen hat getrennt nach Risikokategorie für jede Art der Absicherung (Absicherung des beizulegenden Zeitwerts, Absicherung von Zahlungsströmen oder Absicherung einer Nettoinvestition in einen ausländischen Geschäftsbetrieb) folgende Beträge in Bezug auf als Sicherungsinstrumente designierte Geschäfte in tabellarischer Form anzugeben:
+a) 
+
+den Buchwert der Sicherungsinstrumente (finanzielle Vermögenswerte getrennt von finanziellen Verbindlichkeiten),
+b) 
+
+den Bilanzposten, in dem das Sicherungsinstrument enthalten ist,
+c) 
+
+die Änderung des beizulegenden Zeitwerts des Sicherungsinstruments, die als Grundlage für die Erfassung einer Unwirksamkeit der Absicherung für die Periode herangezogen wird, und
+d) 
+
+die Nominalbeträge (einschließlich Mengenangaben wie z. B. Tonnen oder Kubikmeter) der Sicherungsinstrumente.
+
+24B Ein Unternehmen hat getrennt nach Risikokategorie für jede Art der Absicherung folgende Beträge in Bezug auf Grundgeschäfte in tabellarischer Form anzugeben:
+a) 
+
+für Absicherungen des beizulegenden Zeitwerts:
+i) 
+
+den Buchwert des in der Bilanz angesetzten Grundgeschäfts (wobei Vermögenswerte getrennt von Verbindlichkeiten ausgewiesen werden),
+ii) 
+
+den kumulierten Betrag sicherungsbezogener Anpassungen aus dem beizulegenden Zeitwert bei dem Grundgeschäft, der im Buchwert des bilanzierten Grundgeschäfts enthalten ist (wobei Vermögenswerte getrennt von Verbindlichkeiten ausgewiesen werden),
+iii) 
+
+den Bilanzposten, in dem das Grundgeschäft enthalten ist,
+iv) 
+
+die Wertänderung des Grundgeschäfts, die als Grundlage für die Erfassung einer Unwirksamkeit der Absicherung für die Periode herangezogen wird, und
+v) 
+
+den kumulierten Betrag sicherungsbezogener Anpassungen aus dem beizulegenden Zeitwert, der für Grundgeschäfte in der Bilanz verbleibt, die nicht mehr um Sicherungsgewinne und -verluste gemäß Paragraph 6.5.10 von IFRS 9 angepasst werden.
+b) 
+
+für Absicherungen von Zahlungsströmen und Absicherungen einer Nettoinvestition in einen ausländischen Geschäftsbetrieb:
+i) 
+
+die Wertänderung des Grundgeschäfts, die als Grundlage für die Erfassung einer Unwirksamkeit der Absicherung für die Periode herangezogen wird (d. h. bei Absicherungen von Zahlungsströmen die Wertänderung, die zur Bestimmung der erfassten Unwirksamkeit der Absicherung gemäß Paragraph 6.5.11(c) von IFRS 9 herangezogen wird),
+ii) 
+
+die Salden in der Rücklage für die Absicherung von Zahlungsströmen und der Währungsumrechnungsrücklage für laufende Absicherungen, die gemäß den Paragraphen 6.5.11 und 6.5.13(a) von IFRS 9 bilanziert werden, und
+iii) 
+
+die verbleibenden Salden in der Rücklage für die Absicherung von Zahlungsströmen und der Währungsumrechnungsrücklage aus etwaigen Sicherungsbeziehungen, bei denen die Bilanzierung von Sicherungsbeziehungen nicht mehr angewandt wird.
+
+24C Ein Unternehmen hat getrennt nach Risikokategorie für jede Art der Absicherung folgende Beträge in tabellarischer Form anzugeben:
+a) 
+
+für Absicherungen des beizulegenden Zeitwerts:
+i) 
+
+eine Unwirksamkeit der Absicherung, d. h. die Differenz zwischen den Sicherungsgewinnen oder -verlusten des Sicherungsinstruments und des Grundgeschäfts, die erfolgswirksam erfasst wird (oder im sonstigen Ergebnis bei Absicherungen eines Eigenkapitalinstruments, bei dem das Unternehmen die Wahl getroffen hat, Änderungen des beizulegenden Zeitwerts gemäß Paragraph 5.7.5 von IFRS 9 im sonstigen Ergebnis zu erfassen), und
+ii) 
+
+den Posten der Gesamtergebnisrechnung, in dem die erfasste Unwirksamkeit der Absicherung enthalten ist.
+b) 
+
+für Absicherungen von Zahlungsströmen und Absicherungen einer Nettoinvestition in einen ausländischen Geschäftsbetrieb:
+i) 
+
+die Sicherungsgewinne oder -verluste der Berichtsperiode, die im sonstigen Ergebnis erfasst wurden,
+ii) 
+
+die erfolgswirksam erfasste Unwirksamkeit der Absicherung,
+iii) 
+
+den Posten der Gesamtergebnisrechnung, in dem die erfasste Unwirksamkeit der Absicherung enthalten ist,
+iv) 
+
+den Betrag, der aus der Rücklage für die Absicherung von Zahlungsströmen oder der Währungsumrechnungsrücklage als Umgliederungsbetrag (siehe IAS 1) erfolgswirksam umgegliedert wurde (wobei unterschieden wird zwischen Beträgen, bei denen die Bilanzierung von Sicherungsbeziehungen bislang angewandt wurde, das Eintreten der abgesicherten künftigen Zahlungsströme aber nicht mehr erwartet wird, und Beträgen, die übertragen wurden, da sich das Grundgeschäft auf den Gewinn oder Verlust ausgewirkt hat),
+v) 
+
+den Posten der Gesamtergebnisrechnung, in dem der Umgliederungsbetrag (siehe IAS 1) enthalten ist, und
+vi) 
+
+für Absicherungen von Nettopositionen die Sicherungsgewinne oder -verluste, die in einem gesonderten Posten der Gesamtergebnisrechnung erfasst werden (siehe Paragraph 6.6.4 von IFRS 9).
+
+24D Wenn das Volumen der Sicherungsbeziehungen, für die die Befreiung in Paragraph 23C gilt, für die normalen Volumen während der Periode nicht repräsentativ ist (d. h. das Volumen am Abschlussstichtag spiegelt nicht die Volumen während der Periode wider), hat ein Unternehmen diese Tatsache und den Grund, warum das Volumen seiner Meinung nach nicht repräsentativ ist, anzugeben.
+
+24E Ein Unternehmen hat für jede Komponente des Eigenkapitals eine Überleitungsrechnung sowie eine Aufgliederung des sonstigen Ergebnisses gemäß IAS 1 vorzulegen, worin insgesamt
+a) 
+
+mindestens zwischen den Beträgen, die sich auf die Angaben gemäß Paragraph 24C(b)(i) und (b)(iv) beziehen, sowie den gemäß Paragraph 6.5.11(d)(i) und (d)(iii) von IFRS 9 bilanzierten Beträgen unterschieden wird,
+b) 
+
+zwischen den Beträgen im Zusammenhang mit dem Zeitwert von Optionen zur Absicherung von transaktionsbezogenen Grundgeschäften und den Beträgen im Zusammenhang mit dem Zeitwert von Optionen zur Absicherung von zeitraumbezogenen Grundgeschäften unterschieden wird, wenn ein Unternehmen den Zeitwert einer Option gemäß Paragraph 6.5.15 von IFRS 9 bilanziert, und
+c) 
+
+zwischen den Beträgen im Zusammenhang mit den Terminelementen von Termingeschäften und Währungsbasis-Spreads von Finanzinstrumenten zur Absicherung von transaktionsbezogenen Grundgeschäften und den Beträgen im Zusammenhang mit den Terminelementen von Termingeschäften und Währungsbasis-Spreads von Finanzinstrumenten zur Absicherung von zeitraumbezogenen Grundgeschäften unterschieden wird, wenn ein Unternehmen diese Beträge gemäß Paragraph 6.5.16 von IFRS 9 bilanziert.
+
+24F Ein Unternehmen hat die in Paragraph 24E verlangten Angaben getrennt nach Risikokategorie zu machen. Diese Aufschlüsselung nach Risiko kann im Anhang zum Abschluss erfolgen.
+
+Wahlrecht zur Designation einer Ausfallrisikoposition als erfolgswirksam zum beizulegenden Zeitwert bewertet
+
+24G Wenn ein Unternehmen ein Finanzinstrument oder einen prozentualen Anteil davon als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert hat, da es zur Steuerung des Ausfallrisikos bei diesem Finanzinstrument ein Kreditderivat verwendet, sind folgende Angaben erforderlich:
+a) 
+
+für Kreditderivate zur Steuerung des Ausfallrisikos bei Finanzinstrumenten, die gemäß Paragraph 6.7.1 von IFRS 9 als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert wurden, eine Überleitungsrechnung für jeden Nominalbetrag und den beizulegenden Zeitwert zu Beginn und am Ende der Periode,
+b) 
+
+der bei der Designation eines Finanzinstruments oder eines prozentualen Anteils davon gemäß Paragraph 6.7.1 von IFRS 9 als erfolgswirksam zum beizulegenden Zeitwert bewertete erfolgswirksam erfasste Gewinn oder Verlust und
+c) 
+
+bei Beendigung der erfolgswirksamen Bewertung zum beizulegenden Zeitwert eines Finanzinstruments oder eines prozentualen Anteils davon, der beizulegende Zeitwert dieses Finanzinstruments, der gemäß Paragraph 6.7.4(b) von IFRS 9 zum neuen Buchwert geworden ist, und der zugehörige Nominal- oder Kapitalbetrag (außer zur Bereitstellung von Vergleichsinformationen gemäß IAS 1 muss ein Unternehmen diese Angaben in späteren Perioden nicht machen).
+
+Durch die Reform der Referenzzinssätze bedingte Unsicherheiten
+
+24H Zu Sicherungsbeziehungen, bei denen das Unternehmen die Ausnahmen der Paragraphen 6.8.4–6.8.12 von IFRS 9 oder der Paragraphen 102D–102N von IAS 39 anwendet, ist Folgendes anzugeben:
+a) 
+
+die maßgeblichen Referenzzinssätze, denen die Sicherungsbeziehungen des Unternehmens unterliegen,
+b) 
+
+in welchem Umfang das vom Unternehmen gesteuerte Risiko unmittelbar von der Reform der Referenzzinssätze betroffen ist,
+c) 
+
+wie das Unternehmen den Übergang zu alternativen Referenzsätzen steuert,
+d) 
+
+eine Beschreibung der maßgeblichen Annahmen oder Ermessensentscheidungen, die das Unternehmen bei der Anwendung dieser Paragraphen getroffen hat (z. B. Annahmen oder Ermessensentscheidungen im Hinblick darauf, wann die durch die Reform der Referenzzinssätze bedingte Unsicherheit, was den Zeitpunkt und die Höhe der referenzzinssatzbasierten Zahlungsströme angeht, nicht mehr besteht), und
+e) 
+
+den Nominalbetrag der bei diesen Sicherungsbeziehungen eingesetzten Sicherungsinstrumente.
+
+Durch die Reform der Referenzzinsätze bedingte ergänzende Angaben
+
+24I Um den Abschlussadressaten einen Einblick in die Auswirkungen der Reform der Referenzzinssätze auf die Finanzinstrumente und die Risikomanagementstrategie eines Unternehmens zu geben, hat ein Unternehmen Angaben zu folgenden Punkten zu machen:
+a) 
+
+zu Art und Ausmaß der Risiken, die sich für das Unternehmen aus Finanzinstrumenten ergeben, die von der Reform der Referenzzinssätze betroffen sind, sowie zum Umgang des Unternehmens mit diesen Risiken und
+b) 
+
+zu dem Fortschritt des Unternehmens bei der Vollendung des Übergangs zu alternativen Referenzzinssätzen und zur Handhabung des Übergangs durch das Unternehmen.
+
+24J Zur Erreichung der in Paragraph 24I genannten Zielsetzungen hat ein Unternehmen Angaben zu folgenden Punkten zu machen:
+a) 
+
+der Art und Weise, wie das Unternehmen den Übergang zu alternativen Referenzzinssätzen handhabt, zu seinem zum Abschlussstichtag erzielten Fortschritt und zu den Risiken, die sich infolge des Übergangs für das Unternehmen aus Finanzinstrumenten ergeben,
+b) 
+
+quantitative Angaben zu Finanzinstrumenten, die zum Abschlussstichtag noch nicht auf einen alternativen Referenzzinssatz umgestellt wurden, aufgeschlüsselt nach bedeutenden Referenzzinssätzen, die von der Reform der Referenzzinssätze betroffen sind; dabei ist Folgendes jeweils separat auszuweisen:
+i) 
+
+nicht-derivative finanzielle Vermögenswerte,
+ii) 
+
+nicht-derivative finanzielle Verbindlichkeiten und
+iii) 
+
+Derivate und
+c) 
+
+wenn die in Paragraph 24J(a) genannten Risiken zu Änderungen der Risikomanagementstrategie eines Unternehmens geführt haben (siehe Paragraph 22A), eine Beschreibung dieser Änderungen.
+
+Beizulegender Zeitwert
+
+25 Sofern Paragraph 29 nicht etwas anderes bestimmt, hat ein Unternehmen für jede einzelne Klasse von finanziellen Vermögenswerten und Verbindlichkeiten (siehe Paragraph 6) den beizulegenden Zeitwert so anzugeben, dass ein Vergleich mit den entsprechenden Buchwerten möglich ist.
+
+26 Bei der Angabe der beizulegenden Zeitwerte sind die finanziellen Vermögenswerte und Verbindlichkeiten in Klassen einzuteilen, wobei eine Saldierung zwischen den einzelnen Klassen nur insoweit zulässig ist, wie die zugehörigen Buchwerte in der Bilanz saldiert sind.
+
+27–27B [gestrichen]
+
+28 In einigen Fällen erfasst ein Unternehmen beim erstmaligen Ansatz eines finanziellen Vermögenswerts oder einer finanziellen Verbindlichkeit keinen Gewinn oder Verlust, da der beizulegende Zeitwert weder durch einen an einem aktiven Markt notierten Preis für einen identischen Vermögenswert oder eine identische Schuld (d. h. einen Eingangsparameter der Stufe 1) nachgewiesen werden kann noch auf einem Bewertungsverfahren basiert, das nur Daten beobachtbarer Märkte verwendet (siehe Paragraph B5.1.2A von IFRS 9). In solchen Fällen hat das Unternehmen für jede Klasse von finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten Folgendes anzugeben:
+a) 
+
+seine Rechnungslegungsmethoden zur erfolgswirksamen Erfassung der Differenz zwischen dem beizulegenden Zeitwert beim erstmaligen Ansatz und dem Transaktionspreis, um eine Veränderung der Faktoren (einschließlich des Zeitfaktors) widerzuspiegeln, die Marktteilnehmer bei Festlegung des Preises des Vermögenswerts oder der Schuld berücksichtigen würden (siehe Paragraph B5.1.2A(b) von IFRS 9).
+b) 
+
+die noch erfolgswirksam zu erfassende Gesamtdifferenz zu Beginn und am Ende der Berichtsperiode und eine Überleitung der Änderungen dieser Differenz.
+c) 
+
+warum das Unternehmen zu dem Schluss gelangte, dass der Transaktionspreis nicht der beste Anhaltspunkt für den beizulegenden Zeitwert war, sowie eine Beschreibung des Hinweises, der den beizulegenden Zeitwert stützt.
+
+29 Die Angabe des beizulegenden Zeitwerts wird nicht verlangt,
+a) 
+
+wenn der Buchwert einen angemessenen Näherungswert für den beizulegenden Zeitwert darstellt, beispielsweise bei Finanzinstrumenten wie kurzfristigen Forderungen und Verbindlichkeiten aus Lieferungen und Leistungen, oder
+b) 
+
+[gestrichen]
+c) 
+
+[gestrichen]
+d) 
+
+bei Leasingverbindlichkeiten.
+
+30 [gestrichen]
+
+ART UND AUSMASS VON RISIKEN, DIE SICH AUS FINANZINSTRUMENTEN ERGEBEN
+
+31   Ein Unternehmen hat seine Angaben so zu gestalten, dass die Abschlussadressaten Art und Ausmaß der mit Finanzinstrumenten verbundenen Risiken, denen das Unternehmen zum Abschlussstichtag ausgesetzt ist, beurteilen können.
+
+32 Die in den Paragraphen 33–42 verlangten Angaben sind auf Risiken aus Finanzinstrumenten gerichtet und darauf, wie diese gesteuert werden. Zu diesen Risiken gehören u. a. Ausfallrisiko, Liquiditätsrisiko und Marktrisiko.
+
+32A Werden quantitative Angaben durch qualitative Angaben ergänzt, können die Abschlussadressaten eine Verbindung zwischen zusammenhängenden Angaben herstellen und sich so ein Gesamtbild von Art und Ausmaß der sich aus Finanzinstrumenten ergebenden Risiken machen. Das Zusammenwirken von qualitativen und quantitativen Angaben trägt dazu bei, dass die Adressaten die Risiken, denen das Unternehmen ausgesetzt ist, besser einschätzen können.
+
+Qualitative Angaben
+
+33 Für jede Risikoart in Verbindung mit Finanzinstrumenten hat ein Unternehmen Folgendes anzugeben:
+a) 
+
+Umfang und Ursache der Risiken,
+b) 
+
+seine Ziele, Richtlinien und Prozesse zur Steuerung dieser Risiken und die zur Bewertung der Risiken eingesetzten Methoden und
+c) 
+
+etwaige Änderungen bei (a) oder (b) gegenüber der vorangegangenen Periode.
+
+Quantitative Angaben
+
+34 Für jede Risikoart in Verbindung mit Finanzinstrumenten hat ein Unternehmen Folgendes anzugeben:
+a) 
+
+zusammengefasste quantitative Daten bezüglich der Risiken, denen es am Abschlussstichtag ausgesetzt ist. Diese Angaben beruhen auf den Informationen, die dem Management in Schlüsselpositionen (Definition siehe IAS 24 Angaben über Beziehungen zu nahe stehenden Unternehmen und Personen), wie dem Geschäftsführungs- und/oder Aufsichtsorgan des Unternehmens oder dessen Vorsitzenden, intern erteilt werden.
+b) 
+
+die in den Paragraphen 35A–42 verlangten Angaben, soweit sie nicht bereits gemäß (a) gemacht werden.
+c) 
+
+Risikokonzentrationen, sofern sie nicht aus den gemäß (a) und (b) gemachten Angaben ersichtlich sind.
+
+35 Sind die zum Abschlussstichtag angegebenen quantitativen Daten für die Risiken, denen ein Unternehmen während der Periode ausgesetzt war, nicht repräsentativ, so sind zusätzliche repräsentative Angaben zu machen.
+
+Ausfallrisiko
+
+Anwendungsbereich und Zielsetzungen
+
+35A Ein Unternehmen hat für Finanzinstrumente, auf welche die Wertminderungsvorschriften von IFRS 9 angewandt werden, die in den Paragraphen 35F–35N verlangten Angaben zu machen. Allerdings gelten folgende Einschränkungen:
+a) 
+
+bei Forderungen aus Lieferungen und Leistungen, Vertragsvermögenswerten und Forderungen aus Leasingverhältnissen gilt Paragraph 35J für jene Forderungen aus Lieferungen und Leistungen, Vertragsvermögenswerte und Forderungen aus Leasingverhältnissen, bei denen gemäß Paragraph 5.5.15 von IFRS 9 die über die Laufzeit erwarteten Kreditverluste erfasst werden, wenn diese finanziellen Vermögenswerte bei ihrer Änderung mehr als 30 Tage überfällig sind, und
+b) 
+
+Paragraph 35K(b) gilt nicht für Forderungen aus Leasingverhältnissen.
+
+35B Die Angaben, die ein Unternehmen gemäß den Paragraphen 35F–35N zu den Ausfallrisiken macht, müssen es den Abschlussadressaten ermöglichen, die Auswirkung des Ausfallrisikos auf die Höhe, den Zeitpunkt und die Unsicherheit künftiger Zahlungsströme zu beurteilen. Um diese Zielsetzung zu erreichen, müssen die Angaben zu Ausfallrisiken Folgendes enthalten:
+a) 
+
+Informationen darüber, wie das Unternehmen bei der Steuerung des Ausfallrisikos verfährt, sowie darüber, wie diese Verfahrensweise (einschließlich der zur Bewertung erwarteter Kreditverluste verwendeten Methoden, Annahmen und Informationen) mit dem Ansatz und der Bewertung erwarteter Kreditverluste zusammenhängt,
+b) 
+
+quantitative und qualitative Informationen, anhand deren die Abschlussadressaten die sich aus den erwarteten Kreditverlusten im Abschluss ergebenden Beträge beurteilen können, einschließlich Änderungen beim Betrag der erwarteten Kreditverluste und der Gründe für diese Änderungen, und
+c) 
+
+Informationen über das Ausfallrisiko eines Unternehmens (d. h. das Ausfallrisiko, mit dem die finanziellen Vermögenswerte eines Unternehmens und die Kreditzusagen behaftet sind), einschließlich signifikanter Ausfallrisikokonzentrationen.
+
+35C Ein Unternehmen muss bereits an anderer Stelle dargestellte Informationen nicht duplizieren, sofern diese Informationen durch Querverweis aus dem Abschluss auf sonstige Verlautbarungen, wie z. B. einen Lage- oder Risikobericht, die den Abschlussadressaten unter denselben Bedingungen und zur selben Zeit wie der Abschluss zugänglich sind, eingebunden werden. Ohne die durch einen Querverweis eingebrachten Informationen ist der Abschluss unvollständig.
+
+35D Zur Erreichung der in Paragraph 35B genannten Zielsetzungen hat ein Unternehmen (sofern nachfolgend nichts anderes bestimmt ist) zu erwägen, wie viele Details anzugeben sind, wieviel Gewicht es auf die verschiedenen Aspekte der verlangten Angaben legt, den erforderlichen Grad der Aufgliederung oder Zusammenfassung und ob die Abschlussadressaten zusätzliche Erläuterungen zur Beurteilung der angegebenen quantitativen Informationen benötigen.
+
+35E Reichen die gemäß den Paragraphen 35F–35N gemachten Angaben zur Erreichung der in Paragraph 35B genannten Zielsetzungen nicht aus, hat das Unternehmen die zur Erreichung der Zielsetzungen erforderlichen zusätzlichen Angaben zu machen.
+
+Ausfallrisikosteuerung
+
+35F Ein Unternehmen hat darzulegen, wie es bei der Steuerung des Ausfallrisikos verfährt und wie diese Verfahrensweise mit dem Ansatz und der Bewertung erwarteter Kreditverluste zusammenhängt. Zur Erreichung dieser Zielsetzung müssen die Abschlussadressaten anhand der Angaben eines Unternehmens verstehen und beurteilen können,
+a) 
+
+wie das Unternehmen bestimmt hat, ob sich das Ausfallrisiko bei Finanzinstrumenten seit dem erstmaligen Ansatz signifikant erhöht hat; hierzu zählt auch, ob und wie
+i) 
+
+Finanzinstrumente gemäß Paragraph 5.5.10 von IFRS 9 als Instrumente mit niedrigem Ausfallrisiko angesehen werden, einschließlich der Klasse der Finanzinstrumente, auf die dies zutrifft, und
+ii) 
+
+die Vermutung nach Paragraph 5.5.11 von IFRS 9, dass sich das Ausfallrisiko seit dem erstmaligen Ansatz signifikant erhöht hat, wenn finanzielle Vermögenswerte mehr als 30 Tage überfällig sind, widerlegt wurde,
+b) 
+
+wie das Unternehmen einen Ausfall definiert, einschließlich der Gründe für die Auswahl dieser Definition,
+c) 
+
+wie die Instrumente für den Fall einer Bewertung der erwarteten Kreditverluste auf kollektiver Basis in Gruppen zusammengefasst wurden,
+d) 
+
+wie das Unternehmen bestimmt hat, dass finanzielle Vermögenswerte finanzielle Vermögenswerte mit beeinträchtigter Bonität sind,
+e) 
+
+wie das Unternehmen bei außerplanmäßigen Abschreibungen verfährt, einschließlich der Indikatoren, dass nach angemessener Einschätzung keine Realisierbarkeit gegeben ist, und Informationen über das Vorgehen bei finanziellen Vermögenswerten, die abgeschrieben sind, aber noch einer Vollstreckungsmaßnahme unterliegen, und
+f) 
+
+wie die Vorschriften in Paragraph 5.5.12 von IFRS 9 zur Änderung der vertraglichen Zahlungsströme von finanziellen Vermögenswerten angewandt wurden; dies beinhaltet, wie das Unternehmen
+i) 
+
+bestimmt, ob das Ausfallrisiko bei einem geänderten finanziellen Vermögenswert, für den die Wertberichtigung in Höhe der über die Laufzeit erwarteten Kreditverluste bemessen wurde, sich soweit verringert hat, dass die Wertberichtigung wieder gemäß Paragraph 5.5.5 von IFRS 9 in Höhe des erwarteten 12-Monats-Kreditverlusts bewertet werden kann, und
+ii) 
+
+den Umfang überwacht, in dem die Wertberichtigung bei finanziellen Vermögenswerten, die die Kriterien unter (i) erfüllen, später wieder gemäß Paragraph 5.5.3 von IFRS 9 in Höhe der über die Laufzeit erwarteten Kreditverluste bemessen wird.
+
+35G Ein Unternehmen hat die Eingangsparameter, Annahmen und Schätzverfahren, die zur Anwendung der Vorschriften in Abschnitt 5.5 von IFRS 9 herangezogen wurden, zu erläutern. Zu diesem Zweck hat das Unternehmen Folgendes anzugeben:
+a) 
+
+die Grundlage der verwendeten Eingangsparameter, Annahmen und Schätzverfahren,
+i) 
+
+um den erwarteten 12-Monats-Kreditverlust und die über die Laufzeit erwarteten Kreditverluste zu bemessen,
+ii) 
+
+um zu bestimmen, ob sich das Ausfallrisiko bei Finanzinstrumenten seit dem erstmaligen Ansatz signifikant erhöht hat, und
+iii) 
+
+um zu bestimmen, ob ein finanzieller Vermögenswert ein finanzieller Vermögenswert mit beeinträchtigter Bonität ist.
+b) 
+
+wie zukunftsorientierte Informationen in die Bestimmung der erwarteten Kreditverluste eingeflossen sind, einschließlich der Verwendung makroökonomischer Informationen, und
+c) 
+
+während der Berichtsperiode vorgenommene Änderungen der Schätzverfahren oder signifikanter Annahmen, und die Gründe für diese Änderungen.
+
+Quantitative und qualitative Informationen zur Höhe der erwarteten Kreditverluste
+
+35H Um die Änderungen der Wertberichtigung und die Gründe für diese Änderungen zu erläutern, hat ein Unternehmen für jede Klasse von Finanzinstrumenten eine tabellarische Überleitungsrechnung von den Anfangs- auf die Schlusssalden der Wertberichtigung vorzulegen, in der die Änderungen in der Periode getrennt ausgewiesen werden für
+a) 
+
+die Wertberichtigung, die in Höhe des erwarteten 12-Monats-Kreditverlusts bemessen wird,
+b) 
+
+die Wertberichtigung, die in Höhe der über die Laufzeit erwarteten Kreditverluste bemessen wird, und zwar für:
+i) 
+
+Finanzinstrumente, bei denen sich das Ausfallrisiko seit dem erstmaligen Ansatz signifikant erhöht hat, es sich aber nicht um finanzielle Vermögenswerte mit beeinträchtigter Bonität handelt,
+ii) 
+
+finanzielle Vermögenswerte, deren Bonität zum Abschlussstichtag beeinträchtigt ist (es bei Erwerb oder Ausreichung aber noch nicht war), und
+iii) 
+
+Forderungen aus Lieferungen und Leistungen, Vertragsvermögenswerte und Forderungen aus Leasingverhältnissen, bei denen die Wertberichtigungen gemäß Paragraph 5.5.15 von IFRS 9 bemessen werden.
+c) 
+
+finanzielle Vermögenswerte mit bereits bei Erwerb oder Ausreichung beeinträchtigter Bonität. Neben der Überleitungsrechnung hat ein Unternehmen den Gesamtbetrag der undiskontierten erwarteten Kreditverluste beim erstmaligen Ansatz von finanziellen Vermögenswerten, die in der Berichtsperiode erstmalig angesetzt wurden, anzugeben.
+
+35I Damit Abschlussadressaten die gemäß Paragraph 35H angegebenen Änderungen der Wertberichtigung verstehen können, hat ein Unternehmen zu erläutern, inwieweit signifikante Änderungen des Bruttobuchwerts der Finanzinstrumente in der Periode zu Änderungen der Wertberichtigung beigetragen haben. Für Finanzinstrumente mit den in Paragraph 35H(a)–(c) genannten Wertberichtigungen sind diese Angaben getrennt auszuweisen und müssen relevante qualitative wie quantitative Informationen umfassen. Beispiele für Änderungen des Bruttobuchwerts von Finanzinstrumenten, die zu Änderungen bei der Wertberichtigung beitragen, sind u. a.:
+a) 
+
+Änderungen aufgrund von Finanzinstrumenten, die in der Berichtsperiode ausgereicht oder erworben wurden,
+b) 
+
+die Änderung der vertraglichen Zahlungsströme aus finanziellen Vermögenswerten, die gemäß IFRS 9 nicht zur Ausbuchung dieser finanziellen Vermögenswerte führt,
+c) 
+
+Änderungen aufgrund von Finanzinstrumenten, die in der Berichtsperiode ausgebucht wurden (einschließlich abgeschriebener Finanzinstrumente), und
+d) 
+
+Änderungen, die sich daraus ergeben, ob die Wertberichtigung in Höhe des erwarteten 12-Monats-Kreditverlusts oder in Höhe der über die Laufzeit erwarteten Kreditverluste bemessen wird.
+
+35J Damit die Abschlussadressaten sich ein Bild davon machen können, wie Änderungen bei den vertraglichen Zahlungsströmen aus finanziellen Vermögenswerten, die nicht zu einer Ausbuchung geführt haben, geartet sind, wie sie sich auswirken und welche Folgen solche Änderungen für die Bemessung der erwarteten Kreditverluste haben, hat ein Unternehmen Folgendes anzugeben:
+a) 
+
+die fortgeführten Anschaffungskosten vor der Änderung und den aus der Änderung resultierenden Netto-Gewinn oder -Verlust, der bei finanziellen Vermögenswerten ausgewiesen wurde, bei denen die vertraglichen Zahlungsströme in der Berichtsperiode geändert und deren Wertberichtigung in Höhe der über die Laufzeit erwarteten Kreditverluste bemessen wurde, und
+b) 
+
+den Bruttobuchwert zum Abschlussstichtag von finanziellen Vermögenswerten, die seit ihrem erstmaligen Ansatz zu einem Zeitpunkt geändert wurden, zu dem die Wertberichtigung in Höhe der über die Laufzeit erwarteten Kreditverluste bemessen wurde, und bei denen die Wertberichtigung in der Berichtsperiode auf die Höhe des erwarteten 12-Monats-Kreditverlusts umgestellt wurde.
+
+35K Damit die Abschlussadressaten sich ein Bild davon machen können, wie sich Sicherheiten und andere Kreditbesicherungen auf die Höhe der erwarteten Kreditverluste auswirken, hat ein Unternehmen für jede Klasse von Finanzinstrumenten Folgendes anzugeben:
+a) 
+
+den Betrag, der das maximale Ausfallrisiko, dem das Unternehmen am Abschlussstichtag ausgesetzt ist, am besten darstellt, wobei gehaltene Sicherheiten oder andere Kreditbesicherungen (z. B. Aufrechnungsvereinbarungen, die die Saldierungskriterien gemäß IAS 32 nicht erfüllen) nicht berücksichtigt werden,
+b) 
+
+eine Beschreibung der gehaltenen Sicherheiten und anderen Kreditbesicherungen, einschließlich:
+i) 
+
+einer Beschreibung der Art und Qualität der gehaltenen Sicherheiten,
+ii) 
+
+einer Erläuterung etwaiger signifikanter Änderungen in der Qualität dieser Sicherheiten oder sonstigen Kreditsicherheiten, die auf eine Verschlechterung oder auf Änderungen bei den Besicherungsrichtlinien des Unternehmens während der Berichtsperiode zurückzuführen sind, und
+iii) 
+
+Informationen über Finanzinstrumente, bei denen ein Unternehmen eine Wertberichtigung aufgrund der Sicherheiten nicht erfasst hat.
+c) 
+
+quantitative Informationen über die gehaltenen Sicherheiten und anderen Kreditbesicherungen (z. B. Quantifizierung, inwieweit das Ausfallrisiko durch die Sicherheiten und anderen Kreditbesicherungen verringert wird) für finanzielle Vermögenswerte, deren Bonität zum Abschlussstichtag beeinträchtigt ist.
+
+35L Bei finanziellen Vermögenswerten, die während des Berichtszeitraums abgeschrieben wurden und noch einer Vollstreckungsmaßnahme unterliegen, hat ein Unternehmen den vertraglich ausstehenden Betrag anzugeben.
+
+Ausfallrisiko
+
+35M Damit die Abschlussadressaten das Ausfallrisiko eines Unternehmens beurteilen und sich ein Bild von signifikanten Ausfallrisikokonzentrationen machen können, hat ein Unternehmen für jede Ausfallrisiko-Ratingklasse den Bruttobuchwert der finanziellen Vermögenswerte und das Ausfallrisiko bei Kreditzusagen und finanziellen Garantien anzugeben. Diese Angaben sind für folgende Finanzinstrumente getrennt auszuweisen:
+a) 
+
+Finanzinstrumente, bei denen die Wertberichtigung in Höhe des erwarteten 12-Monats-Kreditverlusts bemessen wird,
+b) 
+
+Finanzinstrumente, bei denen die Wertberichtigung in Höhe der über die Laufzeit erwarteten Kreditverluste bemessen wird und bei denen es sich handelt um
+i) 
+
+Finanzinstrumente, bei denen sich das Ausfallrisiko seit dem erstmaligen Ansatz signifikant erhöht hat, es sich aber nicht um finanzielle Vermögenswerte mit beeinträchtigter Bonität handelt,
+ii) 
+
+finanzielle Vermögenswerte, deren Bonität zum Abschlussstichtag beeinträchtigt ist (es aber bei Erwerb oder Ausreichung noch nicht war), und
+iii) 
+
+Forderungen aus Lieferungen und Leistungen, Vertragsvermögenswerte und Forderungen aus Leasingverhältnissen, bei denen die Wertberichtigungen gemäß Paragraph 5.5.15 von IFRS 9 bemessen werden,
+c) 
+
+finanzielle Vermögenswerte mit bereits bei Erwerb oder Ausreichung beeinträchtigter Bonität.
+
+35N Bei Forderungen aus Lieferungen und Leistungen, Vertragsvermögenswerten und Forderungen aus Leasingverhältnissen, bei denen das Unternehmen Paragraph 5.5.15 von IFRS 9 anwendet, können die gemäß Paragraph 35M gemachten Angaben auf einer Wertberichtigungstabelle beruhen (siehe Paragraph B5.5.35 von IFRS 9).
+
+36 Für alle Finanzinstrumente, die unter diesen IFRS fallen, auf die die Wertminderungsvorschriften von IFRS 9 aber nicht angewandt werden, hat ein Unternehmen für jede Klasse von Finanzinstrumenten die Folgendes anzugeben:
+a) 
+
+den Betrag, der das maximale Ausfallrisiko, dem das Unternehmen am Abschlussstichtag ausgesetzt ist, am besten darstellt, wobei gehaltene Sicherheiten oder andere Kreditbesicherungen (z. B. Aufrechnungsvereinbarungen, die die Saldierungskriterien gemäß IAS 32 nicht erfüllen) nicht berücksichtigt werden. Für Finanzinstrumente, deren Buchwert das maximale Ausfallrisiko am besten darstellt, ist diese Angabe nicht erforderlich.
+b) 
+
+eine Beschreibung der gehaltenen Sicherheiten und anderen Kreditbesicherungen sowie ihrer finanziellen Auswirkung (z. B. Quantifizierung, inwieweit das Ausfallrisiko durch die Sicherheiten und anderen Kreditbesicherungen verringert wird) in Bezug auf den Betrag, der das maximale Ausfallrisiko am besten darstellt (ob gemäß (a) angegeben oder durch den Buchwert eines Finanzinstruments dargestellt).
+c) 
+
+[gestrichen]
+d) 
+
+[gestrichen]
+
+37 [gestrichen]
+
+Sicherheiten und andere erhaltene Kreditbesicherungen
+
+38 Wenn ein Unternehmen in der Berichtsperiode durch Inbesitznahme von Sicherheiten, die es in Form von Sicherungsgegenständen hält, oder durch Inanspruchnahme anderer Kreditbesicherungen (wie Garantien) finanzielle und nicht-finanzielle Vermögenswerte erhält und diese den Ansatzkriterien in anderen IFRS entsprechen, so hat das Unternehmen für solche zum Abschlussstichtag gehaltene Vermögenswerte Folgendes anzugeben:
+a) 
+
+Art und Buchwert der Vermögenswerte und
+b) 
+
+für den Fall, dass die Vermögenswerte nicht leicht liquidierbar sind, seine Richtlinien, um derartige Vermögenswerte zu veräußern oder sie in seinem Geschäftsbetrieb einzusetzen.
+
+Liquiditätsrisiko
+
+39 Die Angaben des Unternehmens müssen Folgendes enthalten:
+a) 
+
+eine Fälligkeitsanalyse für nicht derivative finanzielle Verbindlichkeiten (einschließlich bereits gewährter finanzieller Garantien), aus der die verbleibenden vertraglichen Restlaufzeiten hervorgehen.
+b) 
+
+eine Fälligkeitsanalyse für derivative finanzielle Verbindlichkeiten. Bei derivativen finanziellen Verbindlichkeiten, bei denen die vertraglichen Restlaufzeiten für das Verständnis des für die Zahlungsströme festgelegten Zeitbands (siehe Paragraph B11B) essenziell sind, muss die Fälligkeitsanalyse die verbleibenden vertraglichen Restlaufzeiten umfassen.
+c) 
+
+eine Beschreibung, wie das mit (a) und (b) verbundene Liquiditätsrisiko gesteuert wird.
+
+Marktrisiko
+
+Sensitivitätsanalyse
+
+40 Sofern ein Unternehmen Paragraph 41 nicht erfüllt, hat es Folgendes anzugeben:
+a) 
+
+eine Sensitivitätsanalyse für jede Art von Marktrisiko, dem ein Unternehmen zum Abschlussstichtag ausgesetzt ist und aus der hervorgeht, wie sich Änderungen der relevanten Risikoparameter, die zu diesem Zeitpunkt angemessenerweise für möglich gehalten wurden, auf Gewinn oder Verlust und Eigenkapital ausgewirkt hätten,
+b) 
+
+die Methoden und Annahmen, die zur Erstellung der Sensitivitätsanalyse verwendet wurden, und
+c) 
+
+Änderungen an den verwendeten Methoden und Annahmen im Vergleich zur vorangegangenen Berichtsperiode sowie die Gründe für diese Änderungen.
+
+41 Wenn ein Unternehmen eine Sensitivitätsanalyse, wie eine Value-at-Risk-Analyse, erstellt, die die gegenseitigen Abhängigkeiten zwischen den Risikoparametern (z. B. Zinssätze und Wechselkurse) widerspiegelt, und diese zur Steuerung der finanziellen Risiken verwendet, kann es diese Sensitivitätsanalyse anstelle der in Paragraph 40 genannten Analyse verwenden. Weiterhin sind folgende Angaben zu machen:
+a) 
+
+eine Erklärung der für die Erstellung dieser Sensitivitätsanalyse verwendeten Methoden und der Hauptparameter und Annahmen, die der Analyse zugrunde liegen, und
+b) 
+
+eine Erläuterung der Zielsetzung, die mit der verwendeten Methode verfolgt wird, und der Einschränkungen, die dazu führen können, dass die Informationen die beizulegenden Zeitwerte der betreffenden Vermögenswerte und Verbindlichkeiten nicht vollständig widerspiegeln.
+
+Weitere Angaben zum Marktrisiko
+
+42 Wenn die gemäß den Paragraphen 40 oder 41 zur Verfügung gestellten Sensitivitätsanalysen für den Risikogehalt eines Finanzinstruments nicht repräsentativ sind (da beispielsweise das Risiko zum Jahresende nicht das Risiko während des Jahres widerspiegelt), hat das Unternehmen diese Tatsache sowie die Gründe anzugeben, weshalb es diese Sensitivitätsanalysen für nicht repräsentativ hält.
+
+ÜBERTRAGUNGEN FINANZIELLER VERMÖGENSWERTE
+
+42A Die in den Paragraphen 42B–42H festgelegten Angabepflichten bei Übertragungen finanzieller Vermögenswerte ergänzen die sonstigen Angabepflichten dieses IFRS. Ein Unternehmen hat die in den Paragraphen 42B–42H verlangten Angaben in einer einzelnen Anhangangabe in seinem Abschluss darzustellen. Die verlangten Angaben sind unabhängig vom Übertragungszeitpunkt für alle übertragenen finanziellen Vermögenswerte, die nicht ausgebucht wurden, sowie für jedes zum Abschlussstichtag bestehende anhaltende Engagement an einem übertragenen Vermögenswert zu machen. Für die Zwecke der in den genannten Paragraphen festgelegten Angabepflichten ist eine vollständige oder teilweise Übertragung eines finanziellen Vermögenswerts (des übertragenen finanziellen Vermögenswerts) dann und nur dann gegeben, wenn das Unternehmen entweder
+a) 
+
+sein vertragliches Anrecht auf den Bezug der Zahlungsströme aus diesem finanziellen Vermögenswert überträgt oder
+b) 
+
+sein vertragliches Anrecht auf den Bezug der Zahlungsströme aus diesem finanziellen Vermögenswert zwar behält, sich im Rahmen einer Vereinbarung aber vertraglich zur Weiterreichung der Zahlungsströme an einen oder mehrere Empfänger verpflichtet.
+
+42B Die von einem Unternehmen gemachten Angaben müssen die Abschlussadressaten in die Lage versetzen,
+a) 
+
+die Beziehung zwischen übertragenen finanziellen Vermögenswerten, die nicht vollständig ausgebucht werden, und den zugehörigen Verbindlichkeiten zu verstehen und
+b) 
+
+die Art des anhaltenden Engagements des Unternehmens an den ausgebuchten finanziellen Vermögenswerten und die damit verbundenen Risiken zu beurteilen.
+
+42C Für die Zwecke der in den Paragraphen 42E–42H festgelegten Angabepflichten hat ein Unternehmen ein anhaltendes Engagement an einem übertragenen finanziellen Vermögenswert, wenn es bei der Übertragung ein oder mehrere vertragliche Rechte oder Verpflichtungen aus dem übertragenen finanziellen Vermögenswert behält oder ihm neue vertragliche Rechte oder Verpflichtungen in Bezug auf den übertragenen finanziellen Vermögenswert entstehen. Für die Zwecke der in den Paragraphen 42E–42H festgelegten Angabepflichten stellen folgende Sachverhalte kein anhaltendes Engagement dar:
+a) 
+
+normale Zusicherungen und Gewährleistungen im Zusammenhang mit betrügerischer Übertragung und Konzepten von Angemessenheit, gutem Glauben und redlichem Geschäftsgebaren, die eine Übertragung infolge eines Gerichtsverfahrens unwirksam machen könnten,
+b) 
+
+Termin-, Options- und andere Geschäfte zum Rückkauf des übertragenen finanziellen Vermögenswerts, bei denen der Vertragspreis (oder Ausübungspreis) der beizulegende Zeitwert des übertragenen finanziellen Vermögenswerts ist, oder
+c) 
+
+eine Vereinbarung, bei der ein Unternehmen sein vertragliches Anrecht auf den Bezug der Zahlungsströme aus einem finanziellen Vermögenswert behält, sich aber vertraglich zur Weiterreichung der Zahlungsströme an ein oder mehrere Unternehmen verpflichtet, und die die in Paragraph 3.2.5(a)–(c) von IFRS 9 genannten Bedingungen erfüllt.
+
+Übertragene finanzielle Vermögenswerte, die nicht vollständig ausgebucht werden
+
+42D Ein Unternehmen kann finanzielle Vermögenswerte so übertragen haben, dass keiner von ihnen oder nur ein Teil die Kriterien für eine Ausbuchung erfüllt. Zur Erreichung der in Paragraph 42B(a) genannten Zielsetzungen hat ein Unternehmen an jedem Abschlussstichtag für jede Klasse übertragener finanzieller Vermögenswerte, die nicht vollständig ausgebucht werden, Folgendes anzugeben:
+a) 
+
+Art der übertragenen Vermögenswerte,
+b) 
+
+Art der mit dem Eigentum verbundenen Risiken und Chancen, die für das Unternehmen bestehen,
+c) 
+
+eine Beschreibung der Art der Beziehung zwischen den übertragenen Vermögenswerten und den zugehörigen Verbindlichkeiten, einschließlich sich aus der Übertragung ergebender Beschränkungen hinsichtlich der Verwendung der übertragenen Vermögenswerte durch das berichtende Unternehmen,
+d) 
+
+wenn die Vertragspartei(en) der zugehörigen Verbindlichkeiten nur Rückgriff auf die übertragenen Vermögenswerte nehmen kann (können), eine Aufstellung, aus der der beizulegende Zeitwert der übertragenen Vermögenswerte, der beizulegende Zeitwert der zugehörigen Verbindlichkeiten und die Nettoposition (die Differenz zwischen dem beizulegenden Zeitwert der übertragenen Vermögenswerte und der zugehörigen Verbindlichkeiten) ersichtlich sind,
+e) 
+
+wenn das Unternehmen alle übertragenen Vermögenswerte weiterhin ansetzt, die Buchwerte der übertragenen Vermögenswerte und der zugehörigen Verbindlichkeiten,
+f) 
+
+wenn das Unternehmen die Vermögenswerte weiterhin nach Maßgabe seines anhaltenden Engagements ansetzt (siehe Paragraphen 3.2.6(c)(ii) und 3.2.16 von IFRS 9), den Gesamtbuchwert der ursprünglichen Vermögenswerte vor der Übertragung, den Buchwert der weiterhin angesetzten Vermögenswerte sowie den Buchwert der zugehörigen Verbindlichkeiten.
+
+Übertragene finanzielle Vermögenswerte, die vollständig ausgebucht werden
+
+42E Zur Erreichung der in Paragraph 42B(b) genannten Zielsetzungen hat ein Unternehmen, wenn es übertragene finanzielle Vermögenswerte vollständig ausbucht, aber ein anhaltendes Engagement daran behält (siehe Paragraph 3.2.6(a) und (c)(i) von IFRS 9), an jedem Abschlussstichtag für jede Art von anhaltendem Engagement zumindest Folgendes anzugeben:
+a) 
+
+den Buchwert der Vermögenswerte und Verbindlichkeiten, die in der Bilanz des Unternehmens angesetzt sind und sein anhaltendes Engagement an den ausgebuchten finanziellen Vermögenswerten darstellen, und die Posten, in denen der Buchwert dieser Vermögenswerte und Verbindlichkeiten erfasst ist.
+b) 
+
+den beizulegenden Zeitwert der Vermögenswerte und Verbindlichkeiten, die das anhaltende Engagement des Unternehmens an den ausgebuchten finanziellen Vermögenswerten darstellen.
+c) 
+
+den Betrag, der das maximale Verlustrisiko des Unternehmens aufgrund seines anhaltenden Engagements an den ausgebuchten finanziellen Vermögenswerten am besten darstellt, sowie Angaben darüber, wie das maximale Verlustrisiko bestimmt wird,
+d) 
+
+die nicht abgezinsten Mittelabflüsse, die für den Rückkauf ausgebuchter finanzieller Vermögenswerte erforderlich wären oder sein können (z. B. der Ausübungspreis bei einer Optionsvereinbarung), oder andere Beträge, die in Bezug auf die übertragenen Vermögenswerte an den Empfänger zu zahlen sind. Sind die Mittelabflüsse variabel, sollte der angegebene Betrag auf den Gegebenheiten am jeweiligen Abschlussstichtag basieren.
+e) 
+
+eine Fälligkeitsanalyse für die nicht abgezinsten Mittelabflüsse, die für den Rückkauf der ausgebuchten finanziellen Vermögenswerte erforderlich wären oder sein können, oder andere Beträge, die in Bezug auf die übertragenen Vermögenswerte an den Empfänger zu zahlen sind, aus der die vertraglichen Restlaufzeiten des anhaltenden Engagements des Unternehmens hervorgehen.
+f) 
+
+qualitative Informationen zur Erläuterung und Stützung der unter (a)–(e) verlangten Angaben.
+
+42F Hat ein Unternehmen mehr als eine Art von anhaltendem Engagement an einem ausgebuchten finanziellen Vermögenswert, darf es die in Paragraph 42E verlangten Angaben für diesen Vermögenswert zusammenfassen und als eine Art von anhaltendem Engagement ausweisen.
+
+42G Darüber hinaus ist für jede Art von anhaltendem Engagement Folgendes anzugeben:
+a) 
+
+den zum Zeitpunkt der Übertragung der Vermögenswerte erfassten Gewinn oder Verlust,
+b) 
+
+die Erträge und Aufwendungen (in der Berichtsperiode und kumulativ) aus dem anhaltenden Engagement des Unternehmens an den ausgebuchten finanziellen Vermögenswerten (wie Änderungen des beizulegenden Zeitwerts derivativer Finanzinstrumente),
+c) 
+
+falls der Gesamtbetrag der in einer Berichtsperiode angefallenen Erlöse aus Übertragungen (die die Kriterien für eine Ausbuchung erfüllen) sich nicht gleichmäßig über die Berichtsperiode verteilt (wenn beispielsweise ein wesentlicher Teil des Gesamtbetrags der Übertragungsaktivitäten in den letzten Tagen einer Berichtsperiode anfällt),
+i) 
+
+den Zeitraum mit der höchsten Übertragungsaktivität innerhalb dieser Berichtsperiode (z. B. die letzten fünf Tage vor dem Abschlussstichtag),
+ii) 
+
+den Betrag (z. B. zugehörige Gewinne oder Verluste), der in diesem Zeitraum der Berichtsperiode aufgrund von Übertragungsaktivitäten erfasst wurde, und
+iii) 
+
+den Gesamtbetrag der Erlöse aus Übertragungsaktivitäten in diesem Zeitraum der Berichtsperiode.
+
+Diese Informationen sind für jede Periode zu liefern, für die eine Gesamtergebnisrechnung erstellt wird.
+
+Zusatzinformationen
+
+42H Ein Unternehmen hat alle Zusatzinformationen zu liefern, die es zur Erreichung der in Paragraph 42B in Bezug auf Angaben genannten Zielsetzungen für notwendig hält.
+
+ERSTMALIGE ANWENDUNG VON IFRS 9
+
+42I In der Berichtsperiode, in die der Zeitpunkt der erstmaligen Anwendung von IFRS 9 fällt, hat das Unternehmen für jede Gruppe von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten mit Stand zum Zeitpunkt der erstmaligen Anwendung Folgendes anzugeben:
+a) 
+
+die ursprüngliche Bewertungskategorie und den ursprünglichen Buchwert, die gemäß IAS 39 oder gemäß einer früheren Fassung von IFRS 9 bestimmt wurden (wenn der vom Unternehmen für die Anwendung von IFRS 9 gewählte Ansatz für verschiedene Vorschriften mehr als einen Zeitpunkt der erstmaligen Anwendung umfasst),
+b) 
+
+die neue Bewertungskategorie und den neuen Buchwert, die gemäß IFRS 9 bestimmt wurden,
+c) 
+
+den Betrag jeglicher in der Bilanz angesetzter finanzieller Vermögenswerte und finanzieller Verbindlichkeiten, die zuvor als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert waren, es nun aber nicht mehr sind, wobei zwischen denjenigen zu unterscheiden ist, die gemäß IFRS 9 umgegliedert werden müssen, und denjenigen, bei denen sich das Unternehmen dafür entscheidet, die Umgliederung zum Zeitpunkt der erstmaligen Anwendung vorzunehmen.
+
+Nach Paragraph 7.2.2 von IFRS 9 kann die Umstellung in Abhängigkeit davon, welchen Ansatz das Unternehmen für die Anwendung von IFRS 9 gewählt hat, mit mehr als einen Zeitpunkt der erstmaligen Anwendung verbunden sein. Daher kann dieser Paragraph dazu führen, dass zu mehr als einem Zeitpunkt der erstmaligen Anwendung Angaben gemacht werden. Diese quantitativen Angaben sind vom Unternehmen tabellarisch darzustellen, es sein denn, ein anderes Format ist angemessener.
+
+42J In der Berichtsperiode, in die der Zeitpunkt der erstmaligen Anwendung von IFRS 9 fällt, hat das Unternehmen qualitative Angaben zu machen, die den Abschlussadressaten das Verständnis von Folgendem ermöglichen:
+a) 
+
+wie das Unternehmen die Einstufungsvorschriften von IFRS 9 auf diejenigen finanziellen Vermögenswerte angewandt hat, deren Einstufung sich aufgrund der Anwendung von IFRS 9 geändert hat,
+b) 
+
+die Gründe für eine Designation oder Aufhebung der Designation von finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten als erfolgswirksam zum beizulegenden Zeitwert bewertet zum Zeitpunkt der erstmaligen Anwendung.
+
+Nach Paragraph 7.2.2 von IFRS 9 kann die Umstellung in Abhängigkeit davon, welchen Ansatz das Unternehmen für die Anwendung von IFRS 9 gewählt hat, mit mehr als einen Zeitpunkt der erstmaligen Anwendung verbunden sein. Daher kann dieser Paragraph dazu führen, dass zu mehr als einem Zeitpunkt der erstmaligen Anwendung Angaben gemacht werden.
+
+42K In der Berichtsperiode, in der ein Unternehmen erstmals die Einstufungs- und Bewertungsvorschriften für finanzielle Vermögenswerte von IFRS 9 anwendet (d. h. wenn das Unternehmen bei finanziellen Vermögenswerten von IAS 39 auf IFRS 9 umstellt), hat es gemäß Paragraph 7.2.15 von IFRS 9 die in den Paragraphen 42L–42O des vorliegenden IFRS verlangten Angaben darzustellen.
+
+42L Wenn Paragraph 42K dies verlangt, hat ein Unternehmen zum Zeitpunkt der erstmaligen Anwendung von IFRS 9 die Änderungen bei der Einstufung finanzieller Vermögenswerte und finanzieller Verbindlichkeiten anzugeben, und zwar aufgeschlüsselt nach:
+a) 
+
+den Änderungen der Buchwerte, die auf die nach IAS 39 bestimmten Bewertungskategorien (d. h. nicht durch eine Änderung des Bewertungsmaßstabs bei der Umstellung auf IFRS 9) zurückzuführen sind, und
+b) 
+
+den Änderungen bei den Buchwerten, die auf eine Änderung des Bewertungsmaßstabs bei der Umstellung auf IFRS 9 zurückzuführen sind.
+
+Nach der Berichtsperiode eines Geschäftsjahrs, in dem das Unternehmen erstmals die Einstufungs- und Bewertungsvorschriften für finanzielle Vermögenswerte von IFRS 9 anwendet, müssen die in diesem Paragraphen verlangten Angaben nicht gemacht werden.
+
+42M Wenn Paragraph 42K dies verlangt, hat ein Unternehmen für finanzielle Vermögenswerte und finanzielle Verbindlichkeiten, die umgegliedert wurden und nunmehr zu fortgeführten Anschaffungskosten bewertet werden, und für finanzielle Vermögenswerte, die infolge der Umstellung auf IFRS 9 von erfolgswirksam zum beizulegenden Zeitwert bewertet in die Kategorie zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet umgegliedert wurden, Folgendes anzugeben:
+a) 
+
+den beizulegenden Zeitwert der finanziellen Vermögenswerte oder finanziellen Verbindlichkeiten am Abschlussstichtag und
+b) 
+
+den Gewinn oder Verlust aus der Veränderung des beizulegenden Zeitwerts, der ohne Umgliederung der finanziellen Vermögenswerte oder finanziellen Verbindlichkeiten während der Berichtsperiode erfolgswirksam oder im sonstigen Ergebnis erfasst worden wäre.
+
+Nach der Berichtsperiode eines Geschäftsjahrs, in dem das Unternehmen erstmals die Einstufungs- und Bewertungsvorschriften für finanzielle Vermögenswerte von IFRS 9 anwendet, müssen die in diesem Paragraphen verlangten Angaben nicht gemacht werden.
+
+42N Wenn Paragraph 42K dies verlangt, hat ein Unternehmen für finanzielle Vermögenswerte und finanzielle Verbindlichkeiten, die infolge der Umstellung auf IFRS 9 aus der Kategorie erfolgswirksam zum beizulegenden Zeitwert bewertet umgegliedert wurden, Folgendes anzugeben:
+a) 
+
+den Effektivzinssatz, der zum Zeitpunkt der erstmaligen Anwendung bestimmt wurde, und
+b) 
+
+die erfassten Zinserträge oder -aufwendungen.
+
+Wenn ein Unternehmen den beizulegenden Zeitwert eines finanziellen Vermögenswerts oder einer finanziellen Verbindlichkeit zum Zeitpunkt der erstmaligen Anwendung als neuen Bruttobuchwert ansetzt (siehe Paragraph 7.2.11 von IFRS 9), müssen die im vorliegenden Paragraphen verlangten Angaben bis zur Ausbuchung für jede Berichtsperiode gemacht werden. Ansonsten müssen die in diesem Paragraphen verlangten Angaben nach der Berichtsperiode eines Geschäftsjahrs, in dem das Unternehmen erstmals die Einstufungs- und Bewertungsvorschriften für finanzielle Vermögenswerte von IFRS 9 anwendet, nicht gemacht werden.
+
+42O Wenn ein Unternehmen die in den Paragraphen 42K–42N genannten Angaben darstellt, müssen diese sowie die Angaben gemäß Paragraph 25 des vorliegenden IFRS eine Überleitung von
+a) 
+
+den gemäß IAS 39 und IFRS 9 dargestellten Bewertungskategorien auf
+b) 
+
+die Klasse der Finanzinstrumente
+
+zum Zeitpunkt der erstmaligen Anwendung ermöglichen.
+
+42P Zum Zeitpunkt der erstmaligen Anwendung des Abschnitts 5.5 von IFRS 9 hat ein Unternehmen Angaben zu machen, die eine Überleitung vom Endbetrag der Wertberichtigungen gemäß IAS 39 und den Rückstellungen gemäß IAS 37 auf den gemäß IFRS 9 bestimmten Anfangsbetrag der Wertberichtigungen ermöglichen. Bei finanziellen Vermögenswerten sind diese Angaben anhand der zugehörigen Bewertungskategorien der finanziellen Vermögenswerte gemäß IAS 39 und IFRS 9 zu machen, wobei die Auswirkung der Änderungen der Bewertungskategorie auf die Wertberichtigung zu diesem Zeitpunkt separat auszuweisen sind.
+
+42Q In der Berichtsperiode, in die der Zeitpunkt der erstmaligen Anwendung von IFRS 9 fällt, muss ein Unternehmen die Beträge der Abschlussposten, die gemäß den Einstufungs- und Bewertungsvorschriften (einschließlich der Vorschriften für die Bewertung von finanziellen Vermögenswerten zu fortgeführten Anschaffungskosten und die Wertminderungsvorschriften in den Abschnitten 5.4 und 5.5 von IFRS 9) der folgenden Standards hätten angegeben werden müssen, nicht angeben:
+a) 
+
+IFRS 9 für frühere Berichtsperioden und
+b) 
+
+IAS 39 für die aktuelle Berichtsperiode.
+
+42R Ist es für ein Unternehmen nach Paragraph 7.2.4 von IFRS 9 zum Zeitpunkt der erstmaligen Anwendung undurchführbar (im Sinne von IAS 8), den geänderten Zeitwert des Geldes gemäß den Paragraphen B4.1.9B–B4.1.9D von IFRS 9 auf der Grundlage der beim erstmaligen Ansatz des finanziellen Vermögenswerts bestehenden Tatsachen und Umstände zu beurteilen, hat es die Eigenschaften dieses finanziellen Vermögenswerts hinsichtlich seiner vertraglichen Zahlungsströme auf der Grundlage der bei seinem erstmaligen Ansatz bestehenden Tatsachen und Umstände zu beurteilen, ohne die Vorschriften zur Änderung des Zeitwerts des Geldes in den Paragraphen B4.1.9B–B4.1.9D von IFRS 9 zu berücksichtigen. Bei finanziellen Vermögenswerten, deren Eigenschaften hinsichtlich ihrer vertraglichen Zahlungsströme auf der Grundlage der beim erstmaligen Ansatz bestehenden Tatsachen und Umstände beurteilt wurden, ohne die Vorschriften zur Änderung des Zeitwerts des Geldes gemäß den Paragraphen B4.1.9B–B4.1.9D von IFRS 9 zu berücksichtigen, hat das Unternehmen den Buchwert am Abschlussstichtag bis zur Ausbuchung dieser finanziellen Vermögenswerte anzugeben.
+
+42S Ist es für ein Unternehmen nach Paragraph 7.2.5 von IFRS 9 zum Zeitpunkt der erstmaligen Anwendung undurchführbar (im Sinne von IAS 8) zu beurteilen, ob der beizulegende Zeitwert einer Vorfälligkeitsregelung gemäß Paragraph B4.1.12(d) von IFRS 9 ausgehend von den beim erstmaligen Ansatz des finanziellen Vermögenswerts bestehenden Tatsachen und Umständen nicht signifikant war, hat es die Eigenschaften dieses finanziellen Vermögenswerts hinsichtlich seiner vertraglichen Zahlungsströme ausgehend von den beim erstmaligen Ansatz bestehenden Tatsachen und Umständen zu beurteilen, ohne die Ausnahme für Vorfälligkeitsregelungen in Paragraph B4.1.12 von IFRS 9 zu berücksichtigen. Bei finanziellen Vermögenswerten, deren Eigenschaften hinsichtlich ihrer vertraglichen Zahlungsströme auf der Grundlage der beim erstmaligen Ansatz bestehenden Tatsachen und Umstände beurteilt wurden, ohne die Ausnahme für Vorfälligkeitsregelungen gemäß Paragraph B4.1.12 von IFRS 9 zu berücksichtigen, hat das Unternehmen den Buchwert am Abschlussstichtag bis zur Ausbuchung dieser finanziellen Vermögenswerte anzugeben.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+43 Dieser IFRS ist erstmals auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2007 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen IFRS auf ein früheres Geschäftsjahr an, hat es dies anzugeben.
+
+44 Wendet ein Unternehmen diesen IFRS auf vor dem 1. Januar 2006 beginnende Geschäftsjahre an, sind Vergleichsinformationen für die in den Paragraphen 31–42 verlangten Angaben über Art und Ausmaß der mit Finanzinstrumenten verbundenen Risiken nicht erforderlich.
+
+44A Durch IAS 1 (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Zusätzlich dazu wurden die Paragraphen 20, 21, 23(c) und (d), 27(c) und B5 von Anhang B geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (in der 2007 überarbeiteten Fassung) auf ein früheres Geschäftsjahr an, so hat es auf dieses Geschäftsjahr auch diese Änderungen anzuwenden.
+
+44B Durch IFRS 3 (in der 2008 geänderten Fassung) wurde Paragraph 3(c) gestrichen. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IFRS 3 (in der 2008 überarbeiteten Fassung) auf ein früheres Geschäftsjahr an, so hat es auf dieses Geschäftsjahr auch diese Änderung anzuwenden. Die Änderung gilt jedoch nicht für bedingte Gegenleistungen, die auf einen Unternehmenszusammenschluss zurückzuführen sind, bei dem der Erwerbszeitpunkt vor der Anwendung von IFRS 3 (in der 2008 geänderten Fassung) liegt. Eine solche Gegenleistung ist stattdessen gemäß den Paragraphen 65A–65E von IFRS 3 (in der 2010 geänderten Fassung) zu bilanzieren.
+
+44C Die Änderung in Paragraph 3 ist erstmals auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen Kündbare Finanzinstrumente und bei Liquidation entstehende Verpflichtungen (Änderungen an IAS 32 und IAS 1), veröffentlicht im Februar 2008, auf ein früheres Geschäftsjahr an, so hat es auf dieses Geschäftsjahr auch die Änderung in Paragraph 3 anzuwenden.
+
+44D Durch Verbesserungen an den IFRS, veröffentlicht im Mai 2008, wurde Paragraph 3(a) geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf ein früheres Geschäftsjahr an, hat es dies anzugeben und auch die Änderungen an Paragraph 1 von IAS 28, Paragraph 1 von IAS 31 und Paragraph 4 von IAS 32, veröffentlicht im Mai 2008, auf dieses Geschäftsjahr anzuwenden. Ein Unternehmen darf die Änderung prospektiv anwenden.
+
+44E [gestrichen]
+
+44F [gestrichen]
+
+44G Durch Verbesserte Angaben zu Finanzinstrumenten (Änderungen an IFRS 7), veröffentlicht im März 2009, wurden die Paragraphen 27, 39 und B11 geändert und die Paragraphen 27A, 27B, B10A und B11A–B11F eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Die darin verlangten Angaben müssen nicht vorgelegt werden für
+a) 
+
+Jahres- oder Zwischenperioden, einschließlich Bilanzen, die innerhalb einer vor dem 31. Dezember 2009 endenden jährlichen Vergleichsperiode dargestellt werden, oder
+b) 
+
+Bilanzen zu Beginn der frühesten Vergleichsperiode mit Stichtag vor dem 31. Dezember 2009.
+
+Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf eine frühere Periode an, hat es dies anzugeben ( 51 ).
+
+44H–44J [gestrichen]
+
+44K Durch Verbesserungen an den IFRS, veröffentlicht im Mai 2010, wurde Paragraph 44B geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2010 beginnen. Eine frühere Anwendung ist zulässig.
+
+44L Durch Verbesserungen an den IFRS, veröffentlicht im Mai 2010, wurden Paragraph 32A eingefügt und die Paragraphen 34 und 36–38 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2011 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf ein früheres Geschäftsjahr an, hat es dies anzugeben.
+
+44M Durch Angaben — Übertragung finanzieller Vermögenswerte (Änderungen an IFRS 7), veröffentlicht im Oktober 2010, wurden Paragraph 13 gestrichen und die Paragraphen 42A–42H und B29–B39 eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2011 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen ab einem früheren Zeitpunkt an, hat es dies anzugeben. Für Berichtsperioden, die vor dem Zeitpunkt der erstmaligen Anwendung dieser Änderungen liegen, müssen die darin verlangten Angaben nicht vorgelegt werden.
+
+44N [gestrichen]
+
+44O Durch IFRS 10 und IFRS 11 Gemeinschaftliche Vereinbarungen, veröffentlicht im Mai 2011, wurde Paragraph 3 geändert. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, ist diese Änderung ebenfalls anzuwenden.
+
+44P Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Paragraphen 3, 28 und 29 sowie Anhang A geändert und die die Paragraphen 27–27B gestrichen. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+44Q Durch Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurde Paragraph 27B geändert. Wendet ein Unternehmen IAS 1 in der im Juni 2011 geänderten Fassung an, ist diese Änderung ebenfalls anzuwenden.
+
+44R Durch Angaben — Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten (Änderungen an IFRS 7), veröffentlicht im Dezember 2011, wurden die Paragraphen 13A–13F sowie B40–B53 eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Die darin verlangten Angaben sind rückwirkend zu machen.
+
+44S–44W [gestrichen]
+
+44X Durch Investmentgesellschaften (Änderungen an IFRS 10, IFRS 12 und IAS 27), veröffentlicht im Oktober 2012, wurde Paragraph 3 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung von Investmentgesellschaften (Investment Entities) ist zulässig. Wendet ein Unternehmen diese Änderung früher an, hat es alle in der Verlautbarung enthaltenen Änderungen gleichzeitig anzuwenden.
+
+44Y [gestrichen]
+
+44Z Durch IFRS 9, veröffentlicht im Juli 2014, wurden die Paragraphen 2–5, 8–11, 14, 20, 28–30, 36, 42C–42E, Anhang A und die Paragraphen B1, B5, B9, B10, B22 und B27 geändert, die Paragraphen 12, 12A, 16, 22–24, 37, 44E, 44F, 44H–44J, 44N, 44S–44W, 44Y, B4 und Anhang D gestrichen und die Paragraphen 5A, 10A, 11A, 11B, 12B–12D, 16A, 20A, 21A–21D, 22A–22C, 23A–23F, 24A–24G, 35A–35N, 42I–42S, 44ZA und B8A–B8J eingefügt. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden. Auf Vergleichsinformationen für Perioden vor dem Zeitpunkt der erstmaligen Anwendung von IFRS 9 müssen diese Änderungen nicht angewendet werden.
+
+44ZA Nach Paragraph 7.1.2 von IFRS 9 kann sich ein Unternehmen für Geschäftsjahre vor dem 1. Januar 2018 dafür entscheiden, nur die Vorschriften für die Darstellung der Gewinne und Verluste aus finanziellen Verbindlichkeiten, die als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert sind, gemäß den Paragraphen 5.7.1(c), 5.7.7–5.7.9, 7.2.14 und B5.7.5–B5.7.20 früher anzuwenden, die anderen Vorschriften von IFRS 9 aber nicht anzuwenden. Wenn sich ein Unternehmen dafür entscheidet, nur diese Paragraphen von IFRS 9 anzuwenden, hat es dies anzugeben und die in den Paragraphen 10–11 dieses IFRS (in der durch IFRS 9 (2010)geänderten Fassung) genannten zugehörigen Angaben fortlaufend zu machen.
+
+44AA Durch die Jährlichen Verbesserungen an den IFRS, Zyklus 2012–2014, veröffentlicht im September 2014, wurden die Paragraphen 44R und B30 geändert und Paragraph B30A eingefügt. Diese Änderungen sind rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen; die Änderungen an den Paragraphen B30 und B30A müssen jedoch nicht auf Berichtsperioden angewandt werden, die vor dem Geschäftsjahr der erstmaligen Anwendung der Änderungen beginnen. Eine frühere Anwendung der Änderungen an den Paragraphen 44R, B30 und B30A ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben.
+
+44BB Durch Angabeninitiative (Änderungen an IAS 1), veröffentlicht im Dezember 2014, wurden die Paragraphen 21 und B5 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig.
+
+44CC Durch IFRS 16 Leasingverhältnisse, veröffentlicht im Januar 2016, wurden die Paragraphen 29 und B11D geändert. Wendet ein Unternehmen IFRS 16 an, sind diese Änderungen ebenfalls anzuwenden.
+
+44DD Durch IFRS 17, veröffentlicht im Mai 2017, wurden die Paragraphen 3, 8 und 29 geändert und Paragraph 30 gestrichen. Durch Änderungen an IFRS 17, veröffentlicht im Juni 2020, wurde Paragraph 3 weiter geändert. Wendet ein Unternehmen IFRS 17 an, sind diese Änderungen ebenfalls anzuwenden.
+
+44EE Durch Reform der Referenzzinssätze (Änderungen an IFRS 9, IAS 39 und IFRS 7), veröffentlicht im September 2019, wurden die Paragraphen 24H und 44FF eingefügt. Wendet ein Unternehmen die Änderungen an IFRS 9 oder IAS 39 an, sind diese Änderungen ebenfalls anzuwenden.
+
+44FF In dem Berichtszeitraum, in dem ein Unternehmen erstmals Reform der Referenzzinssätze, veröffentlicht im September 2019, anwendet, muss das Unternehmen die in Paragraph 28(f) von IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler verlangten quantitativen Angaben nicht darstellen.
+
+44GG Durch Reform der Referenzzinsätze — Phase 2 (Änderungen an IFRS 9, IAS 39, IFRS 7, IFRS 4 und IFRS 16), veröffentlicht im August 2020, wurden die Paragraphen 24I–24J und 44HH eingefügt. Wenn ein Unternehmen die Änderungen an IFRS 9, IAS 39, IFRS 4 oder IFRS 16 anwendet, sind auch diese Änderungen anzuwenden.
+
+44HH In der Berichtsperiode, in der ein Unternehmen erstmals Reform der Referenzzinssätze — Phase 2 anwendet, muss es die in Paragraph 28(f) von IAS 8 verlangten Angaben nicht machen.
+
+44II Mit der Verlautbarung Angabe von Bilanzierungs- und Bewertungsmethoden, veröffentlicht im Februar 2021, mit der IAS 1 und das IFRS-Leitliniendokument 2 Fällen von Wesentlichkeitsentscheidungen geändert werden, wurden die Paragraphen 21 und B5 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2023 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderung auf ein früheres Geschäftsjahr an, hat es dies anzugeben.
+
+▼M4
+
+44JJ Mit der im Mai 2023 veröffentlichten Verlautbarung Lieferantenfinanzierungsvereinbarungen, mit der auch IAS 7 geändert wurde, wird Paragraph B11F geändert. Wendet ein Unternehmen die Änderungen an IAS 7 an, ist diese Änderung ebenfalls anzuwenden.
+
+▼B
+
+RÜCKNAHME VON IAS 30
+
+45 Dieser IFRS ersetzt IAS 30 Angaben im Abschluss von Banken und ähnlichen Finanzinstitutionen.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Ausfallrisiko
+	
+
+Die Gefahr, dass ein Vertragspartner bei einem Geschäft über ein Finanzinstrument bei dem anderen Partner finanzielle Verluste verursacht, indem er seinen Verpflichtungen nicht nachkommt.
+
+Ausfallrisiko-Ratingklassen
+	
+
+Rating des Ausfallrisikos basierend auf dem Risiko eines Ausfalls bei dem Finanzinstrument.
+
+Währungsrisiko
+	
+
+Das Risiko, dass sich der beizulegende Zeitwert oder die künftigen Zahlungsströme aus einem Finanzinstrument aufgrund von Wechselkursänderungen verändern.
+
+Zinsänderungsrisiko
+	
+
+Das Risiko, dass sich der beizulegende Zeitwert oder die künftigen Zahlungsströme aus einem Finanzinstrument aufgrund von Marktzinsschwankungen verändern.
+
+Liquiditätsrisiko
+	
+
+Das Risiko, dass ein Unternehmen möglicherweise nicht in der Lage ist, die im Zusammenhang mit den finanziellen Verbindlichkeiten eingegangenen Verpflichtungen durch Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten zu erfüllen.
+
+Darlehensverbindlichkeiten
+	
+
+Darlehensverbindlichkeiten sind finanzielle Verbindlichkeiten mit Ausnahme kurzfristiger Verbindlichkeiten aus Lieferungen und Leistungen, die den üblichen Zahlungsfristen unterliegen.
+
+Marktrisiko
+	
+
+Das Risiko, dass sich der beizulegende Zeitwert oder die künftigen Zahlungsströme aus einem Finanzinstrument aufgrund von Marktpreisschwankungen verändern. Das Marktrisiko beinhaltet drei Arten von Risiken: Währungsrisiko, Zinsänderungsrisiko und sonstiges Preisrisiko.
+
+Sonstiges Preisrisiko
+	
+
+Das Risiko, dass sich der beizulegende Zeitwert oder die künftigen Zahlungsströme aus einem Finanzinstrument aufgrund von Marktpreisschwankungen (mit Ausnahme solcher, die durch das Zinsänderungs- oder Währungsrisiko hervorgerufen werden) verändern, sei es, dass diese Änderungen durch spezifische Faktoren des einzelnen Finanzinstruments oder seinem Emittenten oder durch Faktoren, die sich auf alle am Markt gehandelten ähnlichen Finanzinstrumente auswirken, bedingt sind.
+
+Die folgenden Begriffe sind in Paragraph 11 von IAS 32, Paragraph 9 von IAS 39, Anhang A von IFRS 9 oder Anhang A von IFRS 13 definiert und werden im vorliegenden IFRS in der in IAS 32, IAS 39, IFRS 9 bzw. IFRS 13 angegebenen Bedeutung verwendet:
+— 
+Fortgeführte Anschaffungskosten eines finanziellen Vermögenswerts oder einer finanziellen Verbindlichkeit,
+— 
+Vertragsvermögenswert,
+— 
+Finanzielle Vermögenswerte mit beeinträchtigter Bonität,
+— 
+Ausbuchung,
+— 
+Derivat,
+— 
+Dividenden,
+— 
+Effektivzinsmethode,
+— 
+Eigenkapitalinstrument,
+— 
+Erwartete Kreditverluste,
+— 
+Beizulegender Zeitwert,
+— 
+Finanzieller Vermögenswert,
+— 
+Finanzielle Garantie,
+— 
+Finanzinstrument,
+— 
+Finanzielle Verbindlichkeit,
+— 
+Erfolgswirksam zum beizulegenden Zeitwert bewertete finanzielle Verbindlichkeit,
+— 
+Erwartete Transaktion,
+— 
+Bruttobuchwert eines finanziellen Vermögenswerts,
+— 
+Sicherungsinstrument,
+— 
+Zu Handelszwecken gehalten,
+— 
+Wertminderungsaufwand oder -ertrag,
+— 
+Wertberichtigung,
+— 
+Überfällig,
+— 
+Finanzielle Vermögenswerte mit bereits bei Erwerb oder Ausreichung beeinträchtigter Bonität,
+— 
+Zeitpunkt der Neueinstufung,
+— 
+Marktüblicher Kauf oder Verkauf.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+KLASSEN VON FINANZINSTRUMENTEN UND UMFANG DER ANGABEPFLICHTEN (PARAGRAPH 6)
+
+B1 Nach Paragraph 6 muss ein Unternehmen Finanzinstrumente in Klassen einordnen, die der Art der veröffentlichten Angaben angemessen sind und den Eigenschaften dieser Finanzinstrumente Rechnung tragen. Die in Paragraph 6 beschriebenen Klassen werden vom Unternehmen bestimmt und unterscheiden sich somit von den in IFRS 9 genannten Kategorien von Finanzinstrumenten (in denen festgelegt ist, wie Finanzinstrumente bewertet werden und wie die Änderungen des beizulegenden Zeitwerts erfasst werden).
+
+B2 Bei der Bestimmung von Klassen von Finanzinstrumenten hat ein Unternehmen zumindest
+a) 
+
+zwischen Finanzinstrumenten, die zu fortgeführten Anschaffungskosten, und Finanzinstrumenten, die zum beizulegenden Zeitwert bewertet werden, zu unterscheiden,
+b) 
+
+die nicht unter diesen IFRS fallenden Finanzinstrumente als gesonderte Klasse(n) zu behandeln.
+
+B3 Ein Unternehmen entscheidet angesichts der individuellen Umstände, wie viele Details es angibt, um die Vorschriften dieses IFRS zu erfüllen, wie viel Gewicht es auf die verschiedenen Aspekte dieser Vorschriften legt und wie es Informationen zusammenfasst, um das Gesamtbild darzustellen, ohne dabei Informationen mit unterschiedlichen Eigenschaften zu kombinieren. Es ist notwendig abzuwägen zwischen einer Überfrachtung des Abschlusses mit übermäßigen Details, die dem Abschlussadressaten möglicherweise wenig nutzen, und der Überdeckung wichtiger Informationen durch zu große Verdichtung. So darf ein Unternehmen beispielsweise wichtige Informationen nicht dadurch überdecken, dass es sie unter zahlreichen unbedeutenden Details aufführt. Auch darf ein Unternehmen Informationen nicht so zusammenfassen, dass wichtige Unterschiede zwischen einzelnen Geschäftsvorfällen oder damit verbundenen Risiken überdeckt werden.
+
+B4 [gestrichen]
+
+Weitere Angaben — Rechnungslegungsmethoden (Paragraph 21)
+
+B5 In Paragraph 21 werden wesentliche Angaben zu den Rechnungslegungsmethoden verlangt, wozu Informationen über die bei der Erstellung des Abschlusses herangezogene(n) Bewertungsgrundlage(n) für Finanzinstrumente zählen dürften. Für Finanzinstrumente können diese Angaben folgende Informationen umfassen:
+a) 
+
+bei finanziellen Verbindlichkeiten, die als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert sind,
+i) 
+
+die Art der finanziellen Verbindlichkeiten, die das Unternehmen als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert hat,
+ii) 
+
+die Kriterien für eine solche Designation dieser finanziellen Verbindlichkeiten beim erstmaligen Ansatz und
+iii) 
+
+wie das Unternehmen die in Paragraph 4.2.2 von IFRS 9 genannten Bedingungen für eine solche Designation erfüllt hat.
+
+aa) bei finanziellen Vermögenswerten, die als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert sind,
+i) 
+
+die Art der finanziellen Vermögenswerte, die das Unternehmen als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert hat, und
+ii) 
+
+wie das Unternehmen die in Paragraph 4.1.5 von IFRS 9 genannten Kriterien für eine solche Designation erfüllt hat.
+b) 
+
+[gestrichen]
+c) 
+
+ob ein marktüblicher Kauf oder Verkauf von finanziellen Vermögenswerten zum Handelstag oder zum Erfüllungstag bilanziert wird (siehe Paragraph 3.1.2 von IFRS 9).
+d) 
+
+[gestrichen]
+e) 
+
+wie Nettogewinne oder -verluste aus jeder Kategorie von Finanzinstrumenten bestimmt werden (siehe Paragraph 20(a)), ob beispielsweise die Nettogewinne oder -verluste aus Posten, die erfolgswirksam zum beizulegenden Zeitwert bewertet werden, Zins- oder Dividendenerträge enthalten.
+f) 
+
+[gestrichen]
+g) 
+
+[gestrichen]
+
+Paragraph 122 von IAS 1 (in der 2007 überarbeiteten Fassung) verlangt ferner, dass Unternehmen zusammen mit den wesentlichen Angaben zu Rechnungslegungsmethoden oder sonstigen Erläuterungen auch über Ermessensentscheidungen Auskunft geben (mit Ausnahme solcher, bei denen Schätzungen eingeflossen sind), die das Management bei der Anwendung der Rechnungslegungsmethoden getroffen hat und die die Beträge im Abschluss am Wesentlichsten beeinflussen.
+
+ART UND AUSMASS VON RISIKEN, DIE SICH AUS FINANZINSTRUMENTEN ERGEBEN (PARAGRAPHEN 31–42)
+
+B6 Die in den Paragraphen 31–42 verlangten Angaben sind entweder im Abschluss oder mittels eines Querverweises vom Abschluss zu einer anderen Verlautbarung zu machen, wie beispielsweise einem Lage- oder Risikobericht, der den Abschlussadressaten zu denselben Bedingungen und zur selben Zeit wie der Abschluss zur Verfügung steht. Ohne die durch einen Querverweis eingebrachten Informationen ist der Abschluss unvollständig.
+
+Quantitative Angaben (Paragraph 34)
+
+B7 Paragraph 34(a) verlangt zusammengefasste quantitative Daten über die Risiken, denen ein Unternehmen ausgesetzt ist, die auf den Informationen beruhen, die dem Management in Schlüsselpositionen des Unternehmens intern erteilt werden. Setzt ein Unternehmen verschiedene Methoden zur Risikosteuerung ein, hat es die Angaben zu machen, die es durch die Methode(n), die die relevantesten und verlässlichsten Informationen liefern, erhalten hat. In IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler werden Relevanz und Zuverlässigkeit erörtert.
+
+B8 In Paragraph 34(c) werden Angaben über Risikokonzentrationen verlangt. Risikokonzentrationen entstehen bei Finanzinstrumenten mit ähnlichen Merkmalen, die ähnlich auf wirtschaftliche und sonstige Änderungen reagieren. Die Identifizierung von Risikokonzentrationen verlangt eine Ermessensausübung, bei der die individuellen Umstände des Unternehmens berücksichtigt werden. Die Angaben über Risikokonzentrationen umfassen
+a) 
+
+eine Beschreibung der Art und Weise, wie das Management die Konzentrationen ermittelt,
+b) 
+
+eine Beschreibung des gemeinsamen Merkmals, das für jede Risikokonzentration charakteristisch ist (z. B. Vertragspartner, geografisches Gebiet, Währung oder Markt), und
+c) 
+
+den Gesamtbetrag der Risikoposition aller Finanzinstrumente, die dieses gemeinsame Merkmal aufweisen.
+
+Ausfallrisikosteuerung (Paragraphen 35F–35G)
+
+B8A Paragraph 35F(b) verlangt Angaben darüber, wie ein Unternehmen den Ausfall bei verschiedenen Finanzinstrumenten definiert hat und aus welchen Gründen diese Definitionen gewählt wurden. Nach Paragraph 5.5.9 von IFRS 9 basiert die Bestimmung, ob über die Laufzeit erwartete Kreditverluste anzusetzen sind, darauf, ob sich das Risiko eines Ausfalls seit dem erstmaligen Ansatz erhöht hat. Die Informationen über die Ausfalldefinitionen eines Unternehmens, die den Abschlussadressaten dabei helfen, sich ein Bild davon zu machen, wie ein Unternehmen die Vorschriften von IFRS 9 zu erwarteten Kreditverlusten angewandt hat, können Folgendes umfassen:
+a) 
+
+die qualitativen und quantitativen Faktoren, die bei der Ausfalldefinition berücksichtigt wurden,
+b) 
+
+ob auf verschiedene Arten von Finanzinstrumenten unterschiedliche Definitionen angewandt wurden, und
+c) 
+
+Annahmen hinsichtlich der Gesundungsrate (d. h. der Anzahl der finanziellen Vermögenswerte, die erneut bedient werden), nachdem bei dem finanziellen Vermögenswert ein Ausfall eingetreten ist.
+
+B8B Um den Abschlussadressaten bei der Beurteilung der Umschuldungs- und Änderungsrichtlinien eines Unternehmens zu helfen, werden in Paragraph 35F(f)(i) Informationen darüber verlangt, wie ein Unternehmen den Umfang überwacht, in dem die bislang gemäß Paragraph 35F(f)(i) angegebene Wertberichtigung bei finanziellen Vermögenswerten später in Höhe der über die Laufzeit erwarteten Kreditverluste gemäß Paragraph 5.5.3 von IFRS 9 bemessen wird. Quantitative Informationen, die den Abschlussadressaten zu verstehen helfen, warum sich das Ausfallrisiko bei geänderten finanziellen Vermögenswerten anschließend erhöht, können Informationen über geänderte finanzielle Vermögenswerte umfassen, die die Kriterien in Paragraph 35F(f)(i) erfüllen und bei denen die Wertberichtigung erneut in Höhe der über die Laufzeit erwarteten Kreditverluste bemessen wird (Verschlechterungsrate).
+
+B8C Paragraph 35G(a) verlangt Angaben zur Grundlage der Eingangsparameter, Annahmen und Schätzverfahren, die zur Anwendung der Wertminderungsvorschriften von IFRS 9 herangezogen wurden. Die Annahmen und Eingangsparameter, die ein Unternehmen zur Bemessung der erwarteten Kreditverluste oder zur Bestimmung des Ausmaßes von Erhöhungen des Ausfallrisikos seit dem erstmaligen Ansatz herangezogen hat, können Informationen, die aus internen historischen Informationen oder Ratingberichten stammen, sowie Annahmen bezüglich der erwarteten Laufzeit von Finanzinstrumenten und des Zeitpunkts des Verkaufs von Sicherheiten beinhalten.
+
+Änderungen der Wertberichtigung (Paragraph 35H)
+
+B8D Nach Paragraph 35H muss ein Unternehmen die Gründe für Änderungen an der Wertberichtigung in der Periode erläutern. Zusätzlich zur Überleitungsrechnung von den Anfangs- auf die Schlusssalden der Wertberichtigung müssen die Änderungen möglicherweise weitergehend erläutert werden. Diese Erläuterung kann eine Analyse der Gründe für Änderungen der Wertberichtigung während der Periode beinhalten, einschließlich
+a) 
+
+der Zusammensetzung des Portfolios,
+b) 
+
+des Volumens der erworbenen oder ausgereichten Finanzinstrumente und
+c) 
+
+der Schwere der erwarteten Kreditverluste.
+
+B8E Bei Kreditzusagen und finanziellen Garantien wird die Wertberichtigung als Rückstellung angesetzt. Ein Unternehmen sollte Informationen über Änderungen der Wertberichtigung für finanzielle Vermögenswerte getrennt von denjenigen für Kreditzusagen und finanzielle Garantien angeben. Wenn ein Finanzinstrument jedoch sowohl eine Kreditkomponente (d. h. einen finanziellen Vermögenswert) als auch eine nicht in Anspruch genommene Zusagekomponente (d. h. eine Kreditzusage) umfasst und das Unternehmen die erwarteten Kreditverluste bei der aus der Kreditzusage bestehenden Komponente nicht getrennt von denjenigen bei der aus dem finanziellen Vermögenswert bestehenden Komponente bestimmen kann, sollten die erwarteten Kreditverluste aus der Kreditzusage zusammen mit der Wertberichtigung für den finanziellen Vermögenswert erfasst werden. Sofern diese beiden zusammengenommen den Bruttobuchwert des finanziellen Vermögenswerts überschreiten, sollten die erwarteten Kreditverluste als Rückstellung erfasst werden.
+
+Sicherheiten (Paragraph 35K)
+
+B8F Die in Paragraph 35K verlangten Angaben sollen die Abschlussadressaten in die Lage versetzen, die Auswirkungen von Sicherheiten und anderen Kreditbesicherungen auf die Höhe der erwarteten Kreditverluste zu verstehen. Ein Unternehmen muss weder Angaben zum beizulegenden Zeitwert von Sicherheiten und anderen Kreditbesicherungen machen noch den exakten Wert der Sicherheiten, der in die Berechnung der erwarteten Kreditverluste eingeflossen ist (d. h. die Verlustquote bei Ausfall), beziffern.
+
+B8G Eine Beschreibung der Sicherheiten und ihrer Auswirkung auf die Höhe der erwarteten Kreditverluste könnte folgende Informationen beinhalten:
+a) 
+
+die wichtigsten Arten der gehaltenen Sicherheiten und anderen Kreditbesicherungen (Beispiele für Letztere sind Garantien, Kreditderivate und Aufrechnungsvereinbarungen, die die Saldierungskriterien gemäß IAS 32 nicht erfüllen),
+b) 
+
+das Volumen der gehaltenen Sicherheiten und anderen Kreditbesicherungen und deren Signifikanz im Hinblick auf die Wertberichtigung,
+c) 
+
+die Richtlinien und Prozesse für die Bewertung und Steuerung von Sicherheiten und anderen Kreditbesicherungen,
+d) 
+
+die wichtigsten Arten von Vertragsparteien bei Sicherheiten und anderen Kreditbesicherungen und deren Bonität und
+e) 
+
+Informationen über die Risikokonzentrationen innerhalb der Sicherheiten und anderen Kreditbesicherungen.
+
+Ausfallrisiko (Paragraphen 35M–35N)
+
+B8H In Paragraph 35M werden Angaben zur Ausfallrisikoposition eines Unternehmens sowie zu signifikanten Ausfallrisikokonzentrationen zum Abschlussstichtag verlangt. Eine Ausfallrisikokonzentration liegt vor, wenn mehrere Vertragsparteien in einem geografischen Gebiet angesiedelt oder in ähnlichen Tätigkeitsfeldern engagiert sind und ähnliche wirtschaftliche Merkmale aufweisen, sodass ihre Fähigkeit, ihren vertraglichen Pflichten nachzukommen, im Falle von Änderungen der wirtschaftlichen oder sonstigen Bedingungen in ähnlicher Weise betroffen wären. Die von einem Unternehmen bereitgestellten Informationen sollten den Abschlussadressaten zu verstehen helfen, ob es Gruppen oder Portfolios von Finanzinstrumenten mit besonderen Merkmalen gibt, die sich auf einen Großteil dieser Gruppe von Finanzinstrumenten auswirken könnten, wie beispielsweise Konzentrationen spezieller Risiken. Dies könnten beispielsweise Gruppierungen nach Beleihungsausläufen oder geografischen, branchenspezifischen oder auf die Art der Emittenten bezogenen Konzentrationen sein.
+
+B8I Die Anzahl der für die Angaben nach Paragraph 35M verwendeten Ausfallrisiko-Ratingklassen muss mit der Anzahl übereinstimmen, die das Unternehmen seinem Management in Schlüsselpositionen für Zwecke der Ausfallrisikosteuerung mitteilt. Wenn Informationen zur Überfälligkeit die einzigen verfügbaren kreditnehmerspezifischen Informationen sind und ein Unternehmen anhand von Informationen zur Überfälligkeit beurteilt, ob sich gemäß Paragraph 5.5.11 von IFRS 9 das Ausfallrisiko seit dem erstmaligen Ansatz signifikant erhöht hat, hat es für diese finanziellen Vermögenswerte eine Aufgliederung anhand der Informationen zur Überfälligkeit vorzulegen.
+
+B8J Wenn ein Unternehmen erwartete Kreditverluste auf kollektiver Basis bemisst, kann es den Bruttobuchwert einzelner finanzieller Vermögenswerte oder das Ausfallrisiko bei Kreditzusagen und finanziellen Garantien möglicherweise nicht den Ausfallrisiko-Ratingklassen zuordnen, für die über die Laufzeit erwartete Kreditverluste erfasst werden. In einem solchen Fall sollte das Unternehmen die Vorschrift in Paragraph 35M auf jene Finanzinstrumente anwenden, die direkt einer Ausfallrisiko-Ratingklasse zugeordnet werden können, und den Bruttobuchwert von Finanzinstrumenten, bei denen die erwarteten Kreditverluste auf kollektiver Basis bemessen werden, getrennt angeben.
+
+Maximale Ausfallrisikoposition (Paragraph 36(a))
+
+B9 Die Paragraphen 35K(a) und 36(a) verlangen die Angabe des Betrags, der das maximale Ausfallrisiko des Unternehmens am besten darstellt. Bei finanziellen Vermögenswerten ist dies in der Regel der Bruttobuchwert abzüglich
+a) 
+
+aller gemäß IAS 32 saldierten Beträge und
+b) 
+
+jeder gemäß IFRS 9 erfassten Wertberichtigung.
+
+B10 Tätigkeiten, die zu Ausfallrisiken und dem damit verbundenen maximalen Ausfallrisiko führen, umfassen u. a.:
+a) 
+
+die Gewährung von Krediten an Kunden und Geldanlagen bei anderen Unternehmen. In diesen Fällen ist das maximale Ausfallrisiko der Buchwert der betreffenden finanziellen Vermögenswerte.
+b) 
+
+den Abschluss von derivativen Verträgen, wie Devisenkontrakten, Zinsswaps und Kreditderivaten. Wenn der daraus resultierende Vermögenswert zum beizulegenden Zeitwert bewertet wird, wird das maximale Ausfallrisiko am Abschlussstichtag dem Buchwert entsprechen.
+c) 
+
+die Gewährung finanzieller Garantien. In diesem Fall entspricht das maximale Ausfallrisiko dem maximalen Betrag, den ein Unternehmen zu zahlen haben könnte, wenn die Garantie in Anspruch genommen wird. Dieser Betrag kann erheblich größer sein als der als Verbindlichkeit angesetzte Betrag.
+d) 
+
+Eine Kreditzusage, die über ihre gesamte Dauer unwiderruflich ist oder nur bei einer wesentlichen nachteiligen Veränderung widerrufen werden kann. Wenn der Emittent die Kreditzusage nicht auf Nettobasis in Zahlungsmitteln oder einem anderen Finanzinstrument erfüllen kann, ist das maximale Ausfallrisiko der gesamte zugesagte Betrag. Grund hierfür ist die Unsicherheit, ob in Zukunft auf einen ungenutzten Teil zurückgegriffen werden kann. Dieser Betrag kann erheblich über dem als Verbindlichkeit angesetzten Betrag liegen.
+
+Quantitative Angaben zum Liquiditätsrisiko (Paragraphen 34(a), 39(a) und 39(b))
+
+B10A Nach Paragraph 34(a) muss ein Unternehmen zusammengefasste quantitative Daten über den Umfang seines Liquiditätsrisikos vorlegen und sich dabei auf die intern an das Management in Schlüsselpositionen erteilten Informationen stützen. Das Unternehmen hat ebenfalls darzulegen, wie diese Daten ermittelt werden. Könnten die darin enthaltenen Abflüsse von Zahlungsmitteln (oder anderen finanziellen Vermögenswerten) entweder
+a) 
+
+erheblich früher eintreten als angegeben oder
+b) 
+
+in ihrer Höhe erheblich abweichen (z.B. bei einem Derivat, für das von einem Nettoausgleich ausgegangen wird, die Gegenpartei aber einen Bruttoausgleich verlangen kann), so hat das Unternehmen dies anzugeben und quantitative Angaben vorzulegen, die es den Abschlussadressaten ermöglichen, den Umfang des damit verbundenen Risikos einzuschätzen.
+
+Diese Angabepflicht entfällt, wenn die Informationen bereits in den in Paragraph 39(a) oder (b) verlangten Fälligkeitsanalysen enthalten sind.
+
+B11 Bei Erstellung der in Paragraph 39(a) und (b) verlangten Fälligkeitsanalysen bestimmt das Unternehmen nach eigenem Ermessen eine angemessene Zahl von Zeitbändern. So könnte es beispielsweise die folgenden Zeitbänder als für seine Belange angemessen festlegen:
+a) 
+
+bis zu einem Monat,
+b) 
+
+länger als ein Monat und bis zu drei Monaten,
+c) 
+
+länger als drei Monate und bis zu einem Jahr und
+d) 
+
+länger als ein Jahr und bis zu fünf Jahren.
+
+B11A Bei der Erfüllung der in Paragraph 39(a) und (b) genannten Anforderungen darf ein Unternehmen Derivate, die in hybride (zusammengesetzte) Finanzinstrumente eingebettet sind, nicht von diesen trennen. Auf solche Instrumente hat das Unternehmen Paragraph 39(a) anzuwenden.
+
+B11B Nach Paragraph 39(b) muss ein Unternehmen bei derivativen finanziellen Verbindlichkeiten, bei denen die vertraglichen Restlaufzeiten für das Verständnis des für die Zahlungsströme festgelegten Zeitbands essenziell sind, eine quantitative Fälligkeitsanalyse vorlegen, aus der die vertraglichen Restlaufzeiten hervorgehen. Dies wäre beispielsweise der Fall bei
+a) 
+
+einem Zinsswap mit fünfjähriger Restlaufzeit, der zur Absicherung der Zahlungsströme aus einem finanziellen Vermögenswert oder einer finanziellen Verbindlichkeit mit variablem Zinssatz dient,
+b) 
+
+Kreditzusagen jeder Art.
+
+B11C Nach Paragraph 39(a) und b muss ein Unternehmen bei bestimmten finanziellen Verbindlichkeiten Fälligkeitsanalysen vorlegen, aus denen die vertraglichen Restlaufzeiten hervorgehen. Hierfür gilt Folgendes:
+a) 
+
+Kann eine Gegenpartei wählen, zu welchem Zeitpunkt ein Betrag gezahlt wird, ist die Verbindlichkeit dem frühesten Zeitband zuzuordnen, in dem das Unternehmen zur Zahlung aufgefordert werden kann. Dem frühesten Zeitband zuzuordnen sind beispielsweise finanzielle Verbindlichkeiten, die ein Unternehmen auf Verlangen zurückzahlen muss (z. B. Sichteinlagen).
+b) 
+
+Ist ein Unternehmen zur Leistung von Teilzahlungen verpflichtet, ist jede Teilzahlung dem frühesten Zeitband zuzuordnen, in dem das Unternehmen zur Zahlung aufgefordert werden kann. So ist eine nicht in Anspruch genommene Kreditzusage beispielsweise dem Zeitband zuzuordnen, in dem der frühestmögliche Zeitpunkt der Inanspruchnahme liegt.
+c) 
+
+Bei übernommenen finanziellen Garantien ist der Garantiehöchstbetrag dem frühesten Zeitband zuzuordnen, in dem die Garantie in Anspruch genommen werden kann.
+
+B11D Bei den in den Fälligkeitsanalysen gemäß Paragraph 39(a) und (b) anzugebenden vertraglich festgelegten Beträgen handelt es sich um die nicht abgezinsten vertraglichen Zahlungsströme, z. B. um
+a) 
+
+Leasingverbindlichkeiten auf Bruttobasis (vor Abzug der Finanzierungskosten),
+b) 
+
+in Terminvereinbarungen genannte Preise zum Kauf finanzieller Vermögenswerte gegen Zahlungsmittel,
+c) 
+
+Nettobetrag für einen Festzinsempfänger-Swap, für den Nettozahlungsströme getauscht werden,
+d) 
+
+vertraglich festgelegte, im Rahmen eines derivativen Finanzinstruments zu tauschende Beträge (z. B. ein Währungsswap), für die Zahlungsströme auf Bruttobasis getauscht werden, und
+e) 
+
+Kreditzusagen auf Bruttobasis.
+
+Solche nicht abgezinsten Zahlungsströme weichen von dem in der Bilanz ausgewiesenen Betrag ab, da dieser auf abgezinsten Zahlungsströmen beruht. Ist der zu zahlende Betrag nicht festgelegt, wird der anzugebende Betrag nach Maßgabe der am Abschlussstichtag vorherrschenden Bedingungen bestimmt. Variiert der zu zahlende Betrag beispielsweise aufgrund von Indexänderungen, kann der angegebene Betrag auf dem Indexstand am Abschlussstichtag basieren.
+
+B11E Nach Paragraph 39(c) muss ein Unternehmen darlegen, wie es das mit den quantitativen Angaben nach Paragraph 39(a) und (b) verbundene Liquiditätsrisiko der Instrumente steuert. Für finanzielle Vermögenswerte, die zur Steuerung des Liquiditätsrisikos gehalten werden (wie finanzielle Vermögenswerte, die sofort veräußerbar sind oder die voraussichtlich Mittelzuflüsse generieren werden, die zur Deckung der Mittelabflüsse aus finanziellen Verbindlichkeiten ausreichen), muss das Unternehmen eine Fälligkeitsanalyse vorlegen, wenn die darin enthaltenen Informationen notwendig sind, um den Abschlussadressaten die Beurteilung von Art und Umfang des Liquiditätsrisikos zu ermöglichen.
+
+▼M4
+
+B11F Bei den in Paragraph 39(c) vorgeschriebenen Angaben könnte ein Unternehmen u. a. auch berücksichtigen, ob es
+a) 
+
+zur Deckung seines Liquiditätsbedarfs auf zugesagte Kreditfazilitäten (wie Commercial-Paper-Programme) oder andere Kreditlinien (wie Standby-Fazilitäten) zugreifen kann,
+b) 
+
+zur Deckung seines Liquiditätsbedarfs über Einlagen bei Zentralbanken verfügt,
+c) 
+
+über sehr vielfältige Finanzierungsquellen verfügt,
+d) 
+
+erhebliche Liquiditätsrisikokonzentrationen bei seinen Vermögenswerten oder Finanzierungsquellen aufweist,
+e) 
+
+über interne Kontrollprozesse und Notfallpläne zur Steuerung des Liquiditätsrisikos verfügt,
+f) 
+
+Finanzinstrumente hält, die (z. B. bei einer Herabstufung seiner Bonität) vorzeitig zurückgezahlt werden müssen,
+g) 
+
+Finanzinstrumente hält, die die Hinterlegung einer Sicherheit erfordern könnten (z. B. Nachschussaufforderungen bei Derivaten),
+h) 
+
+Finanzinstrumente hält, bei denen das Unternehmen wählen kann, ob es seine finanziellen Verbindlichkeiten durch die Lieferung von Zahlungsmitteln (oder anderen finanziellen Vermögenswerten) oder durch die Lieferung eigener Anteile erfüllt,
+i) 
+
+Finanzinstrumente hält, die einem Globalverrechnungsvertrag unterliegen oder
+j) 
+
+auf Fazilitäten im Rahmen von Lieferantenfinanzierungsvereinbarungen (wie in Paragraph 44G von IAS 7 beschrieben) zurückgegriffen hat oder zurückgreift, die dem Unternehmen verlängerte Zahlungsfristen oder den Lieferanten des Unternehmens vorzeitige Zahlungszeitpunkte ermöglichen.
+
+▼B
+
+Marktrisiko — Sensitivitätsanalyse (Paragraphen 40 und 41)
+
+B17 Paragraph 40(a) verlangt eine Sensitivitätsanalyse für jede Art von Marktrisiko, dem das Unternehmen ausgesetzt ist. Gemäß Paragraph B3 entscheidet ein Unternehmen, wie es Informationen zusammenfasst, um ein Gesamtbild zu vermitteln, ohne Informationen mit verschiedenen Merkmalen über Risiken aus sehr unterschiedlichen wirtschaftlichen Umfeldern zu kombinieren. Zum Beispiel:
+a) 
+
+ein Unternehmen, das mit Finanzinstrumenten handelt, kann diese Angaben getrennt für zu Handelszwecken und nicht zu Handelszwecken gehaltene Finanzinstrumente machen,
+b) 
+
+ein Unternehmen würde nicht die Marktrisiken aus Hochinflationsgebieten mit denen aus Gebieten mit einer sehr niedrigen Inflationsrate zusammenfassen.
+
+Ist ein Unternehmen nur einer Art von Marktrisiko ausschließlich unter einheitlichen wirtschaftlichen Rahmenbedingungen ausgesetzt, muss es die Angaben nicht aufschlüsseln.
+
+B18 Nach Paragraph 40(a) ist eine Sensitivitätsanalyse durchzuführen, um die Auswirkungen von angemessenerweise für möglich gehaltenen Änderungen der Risikoparameter (z. B. maßgebliche Marktzinsen, Devisenkurse, Aktienkurse oder Rohstoffpreise) auf Gewinn oder Verlust und Eigenkapital aufzuzeigen. Zu diesem Zweck
+a) 
+
+müssen Unternehmen nicht ermitteln, wie der Gewinn oder Verlust ausgefallen wäre, wenn die relevanten Risikoparameter anders gewesen wären. Stattdessen geben Unternehmen die Auswirkungen auf Gewinn oder Verlust und Eigenkapital am Abschlussstichtag an, wobei angenommen wird, dass am Abschlussstichtag eine angemessenerweise für möglich gehaltene Änderung der relevanten Risikoparameter eingetreten ist und auf die zu diesem Zeitpunkt bestehenden Risikopositionen angewendet wurde. Hat ein Unternehmen beispielsweise am Jahresende eine Verbindlichkeit mit variabler Verzinsung, würde es die Auswirkungen auf den Gewinn oder Verlust (z. B. Zinsaufwendungen) für das laufende Jahr angeben, wenn sich die Zinsen in einem angemessenerweise für möglich gehaltenen Umfang verändert hätten.
+b) 
+
+müssen Unternehmen nicht für jede Änderung innerhalb einer Spanne von angemessenerweise für möglich gehaltenen Änderungen der relevanten Risikoparameter die Auswirkungen auf Gewinn oder Verlust und Eigenkapital angeben. Angaben zu den Auswirkungen der Änderungen für die untere und obere Intervallgrenze einer angemessenerweise für möglich gehaltenen Spanne wären ausreichend.
+
+B19 Bei der Bestimmung einer angemessenerweise für möglich gehaltenen Änderung der relevanten Risikovariablen sollte ein Unternehmen folgende Punkte berücksichtigen:
+a) 
+
+das wirtschaftliche Umfeld, in dem es tätig ist. Eine angemessenerweise für möglich gehaltene Änderung darf weder unwahrscheinliche oder „Worst-case“-Szenarien noch „Stresstests“ enthalten. Wenn zudem das Ausmaß der Änderungen der zugrunde liegenden Risikoparameter stabil ist, braucht das Unternehmen die gewählte angemessenerweise für möglich gehaltene Änderung der Risikovariablen nicht abzuändern. Angenommen, die Zinsen betragen 5 Prozent und ein Unternehmen ermittelt, dass eine Zinsschwankung von ± 50 Basispunkten angemessenerweise möglich ist. In diesem Fall würde das Unternehmen die Auswirkungen von Zinsänderungen auf 4,5 Prozent oder 5,5 Prozent auf Gewinn oder Verlust und Eigenkapital angeben. In der folgenden Berichtsperiode wurden die Zinsen auf 5,5 Prozent angehoben. Das Unternehmen ist weiterhin der Auffassung, dass Zinsen um ± 50 Basispunkte schwanken können (d. h. das Ausmaß der Zinsänderung bleibt stabil). In diesem Fall würde das Unternehmen die Auswirkungen von Zinsänderungen auf 5 Prozent oder 6 Prozent auf Gewinn oder Verlust und Eigenkapital angeben. Das Unternehmen wäre nicht verpflichtet, seine Einschätzung, dass Zinsen angemessenerweise um ± 50 Basispunkte schwanken können, zu revidieren, es sei denn, es gibt Anhaltspunkte dafür, dass die Zinsen erheblich volatiler geworden sind.
+b) 
+
+die Zeitspanne, für die es seine Einschätzung durchführt. Die Sensitivitätsanalyse hat die Auswirkungen der Änderungen aufzuzeigen, die für die Periode angemessenerweise für möglich gehalten werden, bis das Unternehmen diese Angaben erneut macht, was normalerweise in der folgenden Berichtsperiode der Fall ist.
+
+B20 Nach Paragraph 41 darf ein Unternehmen eine Sensitivitätsanalyse verwenden, die die gegenseitigen Abhängigkeiten zwischen den Risikoparametern widerspiegelt, wie beispielsweise die Value-at-Risk-Methode, wenn es diese Analyse zur Steuerung seiner finanziellen Risiken verwendet. Dies gilt auch dann, wenn eine solche Methode nur das Verlustpotenzial, nicht aber das Gewinnpotenzial bewertet. Ein solches Unternehmen könnte Paragraph 41(a) erfüllen, indem es die verwendete Art des Value-at-Risk-Modells offenlegt (z. B. ob dieses Modell auf der Monte-Carlo-Simulation beruht), eine Erklärung darüber abgibt, wie das Modell funktioniert, und die wesentlichen Annahmen (z. B. Haltedauer und Konfidenzniveau) erläutert. Unternehmen können auch die historische Betrachtungsperiode und die auf diese Beobachtungen angewendeten Gewichtungen innerhalb der entsprechenden Periode angeben, sowie eine Erläuterung dazu, wie Optionen bei diesen Berechnungen behandelt werden und welche Volatilitäten und Korrelationen (oder alternativ dazu Monte-Carlo-Simulationen der Wahrscheinlichkeitsverteilung) verwendet werden.
+
+B21 Ein Unternehmen hat für alle Geschäftsfelder Sensitivitätsanalysen vorzulegen, kann aber für verschiedene Klassen von Finanzinstrumenten unterschiedliche Arten von Sensitivitätsanalysen vorsehen.
+
+Zinsänderungsrisiko
+
+B22 Ein Zinsänderungsrisiko entsteht bei zinstragenden, in der Bilanz angesetzten Finanzinstrumenten (wie erworbenen oder emittierten Schuldinstrumenten) und bei einigen Finanzinstrumenten, die nicht in der Bilanz angesetzt sind (wie gewissen Kreditzusagen).
+
+Währungsrisiko
+
+B23 Das Währungsrisiko (Devisenkursrisiko) entsteht bei Finanzinstrumenten, die auf eine Fremdwährung lauten, d. h. auf eine andere Währung als auf die funktionale Währung, in der sie bewertet werden. Für die Zwecke dieses IFRS sind Finanzinstrumente, die keine monetären Posten sind oder auf die funktionale Währung lauten, nicht mit Währungsrisiken verbunden.
+
+B24 Eine Sensitivitätsanalyse wird für jede Währung vorgelegt, die für das Unternehmen ein signifikantes Risiko mit sich bringt.
+
+Sonstiges Preisrisiko
+
+B25 Ein sonstiges Preisrisiko entsteht bei Finanzinstrumenten beispielsweise durch Warenpreis- oder Aktienkursänderungen. Zur Erfüllung von Paragraph 40 könnte ein Unternehmen die Auswirkungen eines Rückgangs eines spezifischen Aktienmarktindex, von Warenpreisen oder anderen Risikovariablen angeben. Gewährt ein Unternehmen beispielsweise Restwertgarantien, die Finanzinstrumente sind, gibt es eine Wertsteigerung oder einen Wertrückgang der Vermögenswerte an, auf die sich die Garantien beziehen.
+
+B26 Zwei Beispiele für Finanzinstrumente mit Aktienkursrisiko sind (a) ein Bestand an Aktien eines anderen Unternehmens und (b) eine Anlage in einen Fonds, der wiederum Investitionen in Eigenkapitalinstrumente hält. Weitere Beispiele sind Terminkontrakte und Optionen zum Kauf oder Verkauf bestimmter Mengen von Eigenkapitalinstrumenten sowie Swaps, die an Aktienkurse gebunden sind. Änderungen der Marktpreise der zugrunde liegenden Eigenkapitalinstrumente wirken sich auf die beizulegenden Zeitwerte dieser Finanzinstrumente aus.
+
+B27 Nach Paragraph 40(a) wird die Sensitivität des Gewinns und Verlusts (beispielsweise aufgrund von Instrumenten, die erfolgswirksam zum beizulegenden Zeitwert bewertet werden) getrennt von der Sensitivität des sonstigen Ergebnisses (beispielsweise aufgrund von Finanzinvestitionen in Eigenkapitalinstrumente, bei denen Änderungen des beizulegenden Zeitwerts erfolgsneutral im sonstigen Ergebnis erfasst werden) angegeben.
+
+B28 Finanzinstrumente, die ein Unternehmen als Eigenkapitalinstrumente eingestuft hat, werden nicht neu bewertet. Das Aktienkursrisiko dieser Instrumente wirkt sich weder auf Gewinn oder Verlust noch auf das Eigenkapital aus. Dementsprechend ist keine Sensitivitätsanalyse erforderlich.
+
+AUSBUCHUNG (PARAGRAPHEN 42C–42H)
+
+Anhaltendes Engagement (Paragraph 42C)
+
+B29 Für die Zwecke der Angabepflichten der Paragraphen 42E–42H wird ein anhaltendes Engagement an einem übertragenen finanziellen Vermögenswert auf Ebene des berichtenden Unternehmens beurteilt. Überträgt ein Tochterunternehmen beispielsweise einer unabhängigen dritten Partei einen finanziellen Vermögenswert, an dem ein anhaltendes Engagement des Mutterunternehmens besteht, berücksichtigt das Tochterunternehmen bei der Beurteilung, ob es ein anhaltendes Engagement an dem übertragenen Vermögenswert hat, in seinem Einzelabschluss (d. h. wenn das Tochterunternehmen das berichtende Unternehmen ist) nicht das Engagement des Mutterunternehmens. Ein Mutterunternehmen würde hingegen sein anhaltendes Engagement (oder das eines anderen Konzernunternehmens) an einem finanziellen Vermögenswert, der von seinem Tochterunternehmen übertragen wurde, in seinen Konzernabschluss (d. h. wenn das berichtende Unternehmen der Konzern ist) einbeziehen.
+
+B30 Ein Unternehmen hat kein anhaltendes Engagement an einem übertragenen finanziellen Vermögenswert, wenn es bei der Übertragung weder vertragliche Rechte oder Verpflichtungen aus dem übertragenen finanziellen Vermögenswert behält noch neue vertragliche Rechte oder Verpflichtungen in Bezug auf den übertragenen finanziellen Vermögenswert erhält bzw. übernimmt. Ein Unternehmen hat kein anhaltendes Engagement an einem übertragenen finanziellen Vermögenswert, wenn es weder an der künftigen Wertentwicklung des übertragenen finanziellen Vermögenswerts beteiligt ist noch unter keinen Umständen verpflichtet ist, künftig Zahlungen in Bezug auf den übertragenen finanziellen Vermögenswert zu leisten. „Zahlungen“ bezeichnet in diesem Zusammenhang keine Zahlungsströme aus dem übertragenen finanziellen Vermögenswert, die das Unternehmen entgegennimmt und an den Empfänger weiterreichen muss.
+
+B30A Überträgt ein Unternehmen einen finanziellen Vermögenswert, kann es dennoch das Recht behalten, diesen finanziellen Vermögenswert gegen eine Gebühr zu verwalten, die beispielsweise in einem Verwaltungs-/Abwicklungsvertrag festgelegt ist. Das Unternehmen beurteilt diesen Vertrag gemäß den Leitlinien der Paragraphen 42C und B30, um für die Zwecke der Angabepflichten festzustellen, ob ihm daraus ein anhaltendes Engagement erwächst. So hat beispielsweise ein Verwalter für die Zwecke der Angabepflichten ein anhaltendes Engagement an einem übertragenen finanziellen Vermögenswert, wenn die Verwaltungs-/Abwicklungsgebühr von der Höhe oder dem Zeitpunkt der Zahlungsströme aus dem übertragenen finanziellen Vermögenswert abhängt. Analog dazu hat ein Verwalter ein anhaltendes Engagement für die Zwecke der Angabepflichten, wenn wegen Ertragsschwäche des übertragenen finanziellen Vermögenswerts ein festes Entgelt nicht in voller Höhe gezahlt würde. In diesen Beispielen hat der Verwalter ein Interesse an der künftigen Ertragsstärke des übertragenen finanziellen Vermögenswerts. Bei der Bewertung spielt keine Rolle, ob die Gebühr voraussichtlich eine angemessene Vergütung für die Verwaltung bzw. Abwicklung durch das Unternehmen darstellt.
+
+B31 Das anhaltende Engagement an einem übertragenen finanziellen Vermögenswert kann aus vertraglichen Bestimmungen im Übertragungsvertrag oder in einem gesonderten Vertrag resultieren, der im Rahmen der Übertragung mit dem Empfänger oder einem Dritten geschlossen wurde.
+
+Übertragene finanzielle Vermögenswerte, die nicht vollständig ausgebucht werden (Paragraph 42D)
+
+B32 Paragraph 42D schreibt Angaben vor, wenn keiner oder nur ein Teil der übertragenen finanziellen Vermögenswerte die Kriterien für eine Ausbuchung erfüllt. Diese Angaben sind zu jedem Abschlussstichtag vorzulegen, an dem das Unternehmen die übertragenen finanziellen Vermögenswerte weiter ansetzt, unabhängig davon, wann die Übertragungen stattgefunden haben.
+
+Arten von anhaltendem Engagement (Paragraphen 42E–42H)
+
+B33 In den Paragraphen 42E–42H werden für jede Art von anhaltendem Engagement an ausgebuchten finanziellen Vermögenswerten qualitative und quantitative Angaben verlangt. Ein Unternehmen hat seine anhaltenden Engagements nach Arten zu gruppieren, die für die Risiken, denen es ausgesetzt ist, repräsentativ sind. So kann ein Unternehmen seine anhaltenden Engagements beispielsweise nach Arten von Finanzinstrumenten (wie Garantien oder Kaufoptionen) oder nach Art der Übertragung (wie Forderungsankauf, Verbriefung oder Wertpapierleihe) gruppieren.
+
+Fälligkeitsanalyse für nicht abgezinste Mittelabflüsse zum Rückkauf übertragener Vermögenswerte (Paragraph 42E(e))
+
+B34 Nach Paragraph 42E(e) muss ein Unternehmen für nicht abgezinste Mittelabflüsse für den Rückkauf ausgebuchter finanzieller Vermögenswerte oder andere Beträge, die in Bezug auf die ausgebuchten Vermögenswerte an den Empfänger zu zahlen sind, eine Fälligkeitsanalyse vorlegen, aus der die vertraglichen Restlaufzeiten des anhaltenden Engagements des Unternehmens hervorgehen. Bei dieser Analyse ist zwischen Zahlungsströmen, die gezahlt werden müssen (z. B. Termingeschäften), Zahlungsströmen, die das Unternehmen eventuell zahlen muss (z. B. geschriebenen Verkaufsoptionen), und Zahlungsströmen, die das Unternehmen wahlweise zahlen könnte (z. B. erworbenen Kaufoptionen), zu unterscheiden.
+
+B35 Bei Erstellung der in Paragraph 42E(e) verlangten Fälligkeitsanalyse hat das Unternehmen nach eigenem Ermessen eine angemessene Zahl von Zeitbändern zu bestimmen. So könnte es beispielsweise die folgenden Restlaufzeitbänder als für seine Belange angemessen festlegen:
+a) 
+
+bis zu einem Monat,
+b) 
+
+länger als ein Monat und bis zu drei Monaten,
+c) 
+
+länger als drei Monate und bis zu sechs Monaten,
+d) 
+
+länger als sechs Monate und bis zu einem Jahr,
+e) 
+
+länger als ein Jahr und bis zu drei Jahren,
+f) 
+
+länger als drei Jahre und bis zu fünf Jahren und
+g) 
+
+länger als fünf Jahre.
+
+B36 Gibt es eine Spanne möglicher vertraglicher Restlaufzeiten, werden die Zahlungsströme nach dem frühestmöglichen Zeitpunkt, an dem das Unternehmen zur Zahlung verpflichtet werden kann oder berechtigt ist, zugeordnet.
+
+Qualitative Angaben (Paragraph 42E(f))
+
+B37 Zu den in Paragraph 42E(f) verlangten qualitativen Angaben gehört eine Beschreibung der ausgebuchten finanziellen Vermögenswerte sowie eine Beschreibung von Art und Zweck des anhaltenden Engagements, das nach Übertragung dieser Vermögenswerte weiter besteht. Auch gehört dazu eine Beschreibung der Risiken für das Unternehmen. Dazu zählen u. a.:
+a) 
+
+eine Beschreibung, wie das Unternehmen das mit seinem anhaltenden Engagement an den ausgebuchten finanziellen Vermögenswerten verbundene Risiko steuert,
+b) 
+
+ob das Unternehmen verpflichtet ist, Verluste vor anderen Parteien zu tragen, sowie die Rangfolge und die Verlustbeträge, die von Parteien zu tragen sind, deren Anteile dem Anteil des Unternehmens am Vermögenswert (d. h. dessen anhaltendem Engagement an dem Vermögenswert) im Rang nachstehen,
+c) 
+
+eine Beschreibung etwaiger Auslöser für Verpflichtungen, finanzielle Unterstützung zu leisten oder einen übertragenen finanziellen Vermögenswert zurückzukaufen.
+
+Gewinn oder Verlust bei Ausbuchung (Paragraph 42G(a))
+
+B38 Nach Paragraph 42G(a) muss ein Unternehmen für finanzielle Vermögenswerte, bei denen ein anhaltendes Engagement vorliegt, den bei der Ausbuchung entstandenen Gewinn oder Verlust angeben. Dabei ist anzugeben, ob dieser Gewinn oder Verlust darauf zurückzuführen ist, dass den Bestandteilen des zuvor angesetzten Vermögenswerts (d. h. dem Anteil am ausgebuchten Vermögenswert und dem vom Unternehmen behaltenen Anteil) ein anderer Zeitwert beigemessen wurde als dem zuvor angesetzten gesamten Vermögenswert. In einem solchen Fall hat das Unternehmen ebenfalls anzugeben, ob die Bewertungen zum beizulegenden Zeitwert wesentliche Eingangsparameter enthielten, die nicht auf beobachtbaren Marktdaten wie in Paragraph 27A beschrieben basierten.
+
+Zusatzinformationen (Paragraph 42H)
+
+B39 Die in den Paragraphen 42D–42G verlangten Angaben reichen möglicherweise nicht aus, um die in Paragraph 42B genannten Zielsetzungen zu erreichen. In diesem Fall hat das Unternehmen so viel zusätzliche Angaben zu liefern, wie zur Erreichung dieser Ziele erforderlich. Das Unternehmen hat mit Blick auf seine Lage zu entscheiden, wie viele Zusatzinformationen es vorlegen muss, um den Informationsbedarf der Abschlussadressaten gerecht zu werden, und wie viel Gewicht es auf einzelne Aspekte dieser Zusatzinformationen legt. Dabei dürfen die Abschlüsse weder mit zu vielen Details überfrachtet werden, die den Abschlussadressaten möglicherweise nur wenig nutzen, noch dürfen Informationen durch zu starke Verdichtung überdeckt werden.
+
+Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten (Paragraphen 13A–13F)
+
+Anwendungsbereich (Paragraph 13A)
+
+B40 Die Angaben in den Paragraphen 13B–13E sind für alle angesetzten Finanzinstrumente vorgeschrieben, die gemäß Paragraph 42 von IAS 32 saldiert werden. Unter die Angabepflichten der Paragraphen 13B–13E fallen Finanzinstrumente auch, wenn sie einer einklagbaren Globalnettingvereinbarung oder ähnlichen Vereinbarung über ähnliche Finanzinstrumente und Transaktionen unterliegen, unabhängig davon, ob die Finanzinstrumente gemäß Paragraph 42 von IAS 32 saldiert werden.
+
+B41 Zu den in den Paragraphen 13A und B40 genannten ähnlichen Vereinbarungen zählen Clearingvereinbarungen für Derivate, Rahmenverträge für Pensionsgeschäfte, Rahmenverträge für Wertpapierleihgeschäfte sowie damit verbundene Rechte an finanziellen Sicherheiten. Die in Paragraph B40 genannten ähnlichen Finanzinstrumente und Transaktionen umfassen Derivate, Pensionsgeschäfte, umgekehrte Pensionsgeschäfte sowie Wertpapierverleih- und Wertpapierleihgeschäfte. Beispiele für Finanzinstrumente, die nicht unter Paragraph 13A fallen, sind Kredite und Kundeneinlagen bei demselben Institut (sofern sie in der Bilanz nicht saldiert werden) und Finanzinstrumente, die nur Gegenstand einer Sicherheitenvereinbarung sind.
+
+Quantitative Angaben zu angesetzten finanziellen Vermögenswerten und angesetzten finanziellen Verbindlichkeiten, die unter Paragraph 13A (Paragraph 13C) fallen
+
+B42 Die nach Paragraph 13C angegebenen Finanzinstrumente können unterschiedlichen Bewertungsvorschriften unterliegen (so kann beispielsweise eine Verbindlichkeit aus einem Pensionsgeschäft zu fortgeführten Anschaffungskosten bewertet werden, während ein Derivat zum beizulegenden Zeitwert bewertet wird). Ein Unternehmen hat die Instrumente mit ihren angesetzten Beträgen aufzuführen und sich ergebende Bewertungsunterschiede in den entsprechenden Angaben zu erläutern.
+
+Angabe der Bruttobeträge von angesetzten finanziellen Vermögenswerten und angesetzten finanziellen Verbindlichkeiten, die unter Paragraph 13A (Paragraph 13C(a)) fallen
+
+B43 Die Angabepflichten in Paragraph 13C(a) beziehen sich auf angesetzte Finanzinstrumente, die gemäß Paragraph 42 von IAS 32 saldiert werden. Die Angabepflichten in Paragraph 13C(a) beziehen sich auch auf angesetzte Finanzinstrumente, die einer einklagbaren Globalnettingvereinbarung oder ähnlichen Vereinbarung unterliegen, unabhängig davon, ob sie die Saldierungskriterien erfüllen. Die Angabepflichten in Paragraph 13C(a) gelten allerdings nicht für Beträge, die aufgrund von Sicherheitenvereinbarungen angesetzt werden, die die Saldierungskriterien in Paragraph 42 von IAS 32 nicht erfüllen. Solche Beträge sind stattdessen gemäß Paragraph 13C(d) anzugeben.
+
+Angabe der Beträge, die nach den Kriterien in Paragraph 42 von IAS 32 saldiert werden (Paragraph 13C(b))
+
+B44 Nach Paragraph 13C(b) muss ein Unternehmen die Beträge angeben, die bei der Ermittlung der in der Bilanz ausgewiesenen Nettobeträge gemäß Paragraph 42 von IAS 32 saldiert werden. Die Beträge der angesetzten finanziellen Vermögenswerte und angesetzten finanziellen Verbindlichkeiten, die im Rahmen derselben Vereinbarung miteinander verrechnet werden, sind sowohl in den Angaben zu finanziellen Vermögenswerten als auch in den Angaben zu finanziellen Verbindlichkeiten aufzuführen. Anzugeben sind allerdings nur die Beträge (z. B. in einer Tabelle), die der Saldierung unterliegen. So kann ein Unternehmen beispielsweise einen derivativen Vermögenswert und eine derivative Verbindlichkeit angesetzt haben, die die Saldierungskriterien in Paragraph 42 von IAS 32 erfüllen. Ist der Bruttobetrag des derivativen Vermögenswerts höher als der Bruttobetrag der derivativen Verbindlichkeit, werden in der Tabelle mit den Angaben zu finanziellen Vermögenswerten der gesamte Betrag des derivativen Vermögenswerts (gemäß Paragraph 13C(a)) und der gesamte Betrag der derivativen Verbindlichkeit (gemäß Paragraph 13C(b)) angegeben. In der Tabelle mit den Angaben zu finanziellen Verbindlichkeiten wird ebenfalls der gesamte Betrag der derivativen Verbindlichkeit (gemäß Paragraph 13C(a)) angegeben, der derivative Vermögenswert (gemäß Paragraph 13C(b)) jedoch nur in Höhe des Betrags der derivativen Verbindlichkeit.
+
+Angabe der in der Bilanz ausgewiesenen Nettobeträge (Paragraph 13C(c))
+
+B45 Hat ein Unternehmen Finanzinstrumente, die unter die (in Paragraph 13A genannten) Angabepflichten fallen, aber nicht die Saldierungskriterien in Paragraph 42 von IAS 32 erfüllen, sind die gemäß Paragraph 13C(c) anzugebenden Beträge mit den gemäß Paragraph 13C(a) anzugebenden Beträgen identisch.
+
+B46 Die gemäß Paragraph 13C(c) anzugebenden Beträge sind auf die Beträge der einzelnen Posten der Bilanz überzuleiten. Stellt ein Unternehmen beispielsweise fest, dass die Zusammenfassung oder Aufgliederung der Beträge einzelner Abschlussposten relevantere Informationen ergibt, muss es die gemäß Paragraph 13C(c) angegebenen zusammengefassten oder aufgegliederten Beträge auf die Beträge der einzelnen Posten in der Bilanz überleiten.
+
+Angabe der Beträge, die einklagbaren Globalnettingvereinbarungen oder ähnlichen Vereinbarungen unterliegen und nicht in den Angaben nach Paragraph 13C(b) (bzw. Paragraph 13C(d)) enthalten sind
+
+B47 Nach Paragraph 13C(d) müssen Unternehmen die Beträge angeben, die einklagbaren Globalnettingvereinbarungen oder vergleichbaren Vereinbarungen unterliegen und nicht in den Angaben nach Paragraph 13C(b) enthalten sind. Paragraph 13C(d)(i) bezieht sich auf Beträge im Zusammenhang mit angesetzten Finanzinstrumenten, die nicht einige oder alle Saldierungskriterien des Paragraphen 42 von IAS 32 erfüllen (z. B. gegenwärtige Ansprüche auf Aufrechnung, die nicht das Kriterium des Paragraphen 42(b) von IAS 32 erfüllen, oder bedingte Ansprüche auf Aufrechnung, die nur bei Zahlungsverzug oder nur bei Insolvenz oder Konkurs einer Vertragspartei einklagbar und ausübbar sind).
+
+B48 Paragraph 13C(d)(ii) bezieht sich auf Beträge im Zusammenhang mit empfangenen und gestellten finanziellen Sicherheiten, einschließlich Barsicherheiten. Das Unternehmen hat den beizulegenden Zeitwert jener Finanzinstrumente anzugeben, die verpfändet oder als Sicherheit empfangen wurden. Die gemäß Paragraph 13C(d)(ii) angegebenen Beträge sollten den tatsächlich empfangenden oder gestellten Sicherheiten entsprechen und nicht den Verbindlichkeiten oder Forderungen, die für die Rückgabe oder den Rückerhalt solcher Sicherheiten erfasst werden.
+
+Obergrenzen für die nach Paragraph 13C(d) (Paragraph 13D) angegebenen Beträge
+
+B49 Bei der Angabe der in Paragraph 13C(d) verlangten Beträge muss das Unternehmen die Auswirkungen einer Übersicherung durch das Finanzinstrument berücksichtigen. Hierzu muss das Unternehmen zunächst die gemäß Paragraph 13C(d)(i) angegebenen Beträge von dem gemäß Paragraph 13C(c) angegebenen Betrag abziehen. Anschließend hat es die gemäß Paragraph 13C(d)(ii) angegebenen Beträge auf den Restbetrag gemäß Paragraph 13C(c) für das jeweilige Finanzinstrument zu beschränken. Sind die Rechte an den Sicherheiten jedoch bei verschiedenen Finanzinstrumenten durchsetzbar, können diese Rechte in die Angaben gemäß Paragraph 13D einbezogen werden.
+
+Beschreibung der Ansprüche auf Aufrechnung, die einklagbaren Globalnettingvereinbarungen und ähnlichen Vereinbarungen unterliegen (Paragraph 13E)
+
+B50 Ein Unternehmen hat die verschiedenen Ansprüche auf Aufrechnung und ähnliche gemäß Paragraph 13C(d) angegebene Vereinbarungen zu erläutern, einschließlich der Art dieser Ansprüche. Hierzu gehört beispielsweise eine Beschreibung seiner bedingten Ansprüche. Bei Finanzinstrumenten, bei denen der Anspruch auf Aufrechnung nicht von einem künftigen Ereignis abhängig ist, die aber die übrigen Kriterien in Paragraph 42 von IAS 32 nicht erfüllen, hat ein Unternehmen zu begründen, warum die Kriterien nicht erfüllt werden. Bei empfangenen oder gestellten finanziellen Sicherheiten muss das Unternehmen die Bedingungen der Sicherheitenvereinbarung erläutern (z. B. wenn die Sicherheit einer Beschränkung unterliegt).
+
+Angabe nach Art des Finanzinstruments oder nach Vertragspartei
+
+B51 Die in Paragraph 13C(a)–(e) verlangten quantitativen Angaben können nach Art des Finanzinstruments oder nach Art der Transaktion gegliedert werden (z. B. Derivate, Pensionsgeschäfte und umgekehrte Pensionsgeschäfte oder Wertpapierverleih- und Wertpapierleihgeschäfte).
+
+B52 Alternativ kann ein Unternehmen die in Paragraph 13C(a)–(c) verlangten quantitativen Angaben nach Art des Finanzinstruments und die in Paragraph 13C(c)–(e) verlangten quantitativen Angaben nach Vertragspartei gliedern. Gliedert ein Unternehmen die verlangten Angaben nach Vertragspartei, muss es die Vertragsparteien nicht namentlich nennen. Um Vergleichbarkeit zu gewährleisten, muss die Bezeichnung der Vertragsparteien (Vertragspartei A, Vertragspartei B, Vertragspartei C usw.) aber in jedem Jahr der dargestellten Jahre gleich sein. Es sind qualitative Angaben in Betracht zu ziehen, die weiteren Aufschluss über die Arten der Vertragsparteien geben. Werden die in Paragraph 13C(c)–(e) verlangten Beträge nach Vertragspartei gegliedert angegeben, sind Einzelbeträge, die im Verhältnis zur Summe je Vertragspartei bedeutsam sind, getrennt anzugeben und die übrigen unbedeutenden Einzelbeträge in einem Posten zusammenzufassen.
+
+Sonstige
+
+B53 Die in den Paragraphen 13C–13E verlangten Angaben sind Mindestangaben. Um die in Paragraph 13B genannte Zielsetzung zu erreichen, muss ein Unternehmen die Angaben abhängig von den Bedingungen der einklagbaren Globalnettingvereinbarungen und ähnlichen Vereinbarungen eventuell durch zusätzliche (qualitative) Angaben ergänzen, wie der Art der Ansprüche auf Aufrechnung und deren Auswirkung oder potenzielle Auswirkung auf die Vermögens- und Finanzlage des Unternehmens.

@@ -1,0 +1,49 @@
+﻿ IFRIC INTERPRETATION 10
+
+Zwischenberichterstattung und Wertminderung
+
+VERWEISE
+— 
+IFRS 9 Finanzinstrumente
+— 
+IAS 34 Zwischenberichterstattung
+— 
+IAS 36 Wertminderung von Vermögenswerten
+
+HINTERGRUND
+
+1 Ein Unternehmen ist verpflichtet, den Geschäfts- oder Firmenwert zu jedem Abschlussstichtag auf Wertminderung zu prüfen und gegebenenfalls zu diesem Stichtag gemäß IAS 36 einen Wertminderungsaufwand zu erfassen. Zu einem späteren Abschlussstichtag können sich die Bedingungen allerdings derart verändert haben, dass der Wertminderungsaufwand geringer ausgefallen wäre oder hätte vermieden werden können, wenn die Wertminderungsprüfung erst zu diesem Zeitpunkt erfolgt wäre. Mit dieser Interpretation werden Leitlinien dafür festgelegt, inwieweit ein solcher Wertminderungsaufwand wieder rückgängig gemacht werden kann.
+
+2 Diese Interpretation befasst sich mit der Wechselwirkung zwischen den Vorschriften von IAS 34 und der Erfassung des Wertminderungsaufwands von Geschäfts- oder Firmenwerten nach IAS 36 sowie mit ihrer Auswirkung auf spätere Zwischenabschlüsse und jährliche Abschlüsse.
+
+FRAGESTELLUNG
+
+3 Nach Paragraph 28 von IAS 34 hat ein Unternehmen in seinen Zwischenabschlüssen dieselben Rechnungslegungsmethoden anzuwenden wie in seinen jährlichen Abschlüssen. Darin heißt es, dass die „Häufigkeit der Berichterstattung eines Unternehmens (jährlich, halb- oder vierteljährlich) […] die Höhe des Jahresergebnisses jedoch nicht beeinflussen [darf]. Um diese Zielsetzung zu erreichen, sind Bewertungen in Zwischenberichten unterjährig auf einer vom Geschäftsjahresbeginn bis zum Zwischenberichtstermin kumulierten Grundlage vorzunehmen.“
+
+4 In Paragraph 124 von IAS 36 heißt es: „Ein für einen Geschäfts- oder Firmenwert erfasster Wertminderungsaufwand darf nicht in einer nachfolgenden Periode aufgeholt werden.“
+
+5 [gestrichen]
+
+6 [gestrichen]
+
+7 Diese Interpretation betrifft die folgende Frage:
+
+Muss ein Unternehmen den in einem Zwischenberichtszeitraum für den Geschäfts- oder Firmenwert erfassten Wertminderungsaufwand rückgängig machen, wenn kein oder ein geringerer Aufwand erfasst worden wäre, wenn die Wertminderungsprüfung erst zu einem späteren Abschlussstichtag vorgenommen worden wäre?
+
+BESCHLUSS
+
+8 Ein Unternehmen darf einen in einem Zwischenberichtszeitraum erfassten Wertminderungsaufwand für den Geschäfts- oder Firmenwert nicht wieder rückgängig machen.
+
+9 Ein Unternehmen darf diesen Beschluss nicht analog auf andere Bereiche anwenden, in denen es zu einer Kollision zwischen dem IAS 34 und anderen Standards kommen kann.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+10 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. November 2006 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diese Interpretation auf Berichtsperioden an, die vor dem 1. November 2006 beginnen, hat es dies anzugeben. Diese Interpretation ist ab dem Zeitpunkt, ab dem IAS 36 angewendet wird, vorausschauend auf den Geschäfts- oder Firmenwert anzuwenden. Sie ist ab dem Zeitpunkt, ab dem die Bewertungskriterien von IAS 39 angewendet werden, vorausschauend auf Finanzinvestitionen in Eigenkapitalinstrumente oder in finanzielle Vermögenswerte, die zu Anschaffungs- oder Herstellungskosten bilanziert werden, anzuwenden.
+
+11 [gestrichen]
+
+12 [gestrichen]
+
+13 [gestrichen]
+
+14 Mit dem im Juli 2014 veröffentlichten IFRS 9 wurden die Paragraphen 1, 2, 7 und 8 geändert und die Paragraphen 5, 6 und 11–13 gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.

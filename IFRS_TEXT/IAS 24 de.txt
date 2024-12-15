@@ -1,0 +1,316 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 24
+
+Angaben über Beziehungen zu nahestehenden Unternehmen und Personen
+
+ZIELSETZUNG
+
+1 Dieser Standard soll sicherstellen, dass die Abschlüsse eines Unternehmens alle Angaben enthalten, die notwendig sind, um auf die Möglichkeit hinzuweisen, dass die Vermögens- und Finanzlage und der Gewinn oder Verlust des Unternehmens durch die Existenz nahestehender Unternehmen und Personen sowie durch Geschäftsvorfälle mit und Forderungen und Verbindlichkeiten (einschließlich Verpflichtungen) gegenüber diesen beeinflusst werden können.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist anzuwenden bei
+a) 
+
+der Ermittlung von Beziehungen zu und Geschäftsvorfällen mit nahestehenden Unternehmen und Personen,
+b) 
+
+der Ermittlung der zwischen einem Unternehmen und den ihm nahestehenden Unternehmen und Personen bestehenden Forderungen und Verbindlichkeiten (einschließlich Verpflichtungen),
+c) 
+
+der Ermittlung der Umstände, unter denen die unter (a) und (b) genannten Sachverhalte angegeben werden müssen, und
+d) 
+
+der Bestimmung der zu diesen Sachverhalten zu machenden Angaben.
+
+3   Nach diesem Standard sind Beziehungen zu nahestehenden Unternehmen und Personen, Geschäftsvorfälle mit und Forderungen und Verbindlichkeiten (einschließlich Verpflichtungen) gegenüber diesen in den Konzern- und Einzelabschlüssen von Mutterunternehmen oder von Investoren, unter deren gemeinschaftlicher Führung oder erheblichem Einfluss ein Beteiligungsunternehmen steht, gemäß IFRS 10 Konzernabschlüsse oder IAS 27 Einzelabschlüsse anzugeben. Dieser Standard ist auch auf Einzelabschlüsse anzuwenden.
+
+4 Geschäftsvorfälle mit und Forderungen und Verbindlichkeiten gegenüber nahestehenden Unternehmen und Personen, bei denen es sich um andere Unternehmen des Konzerns handelt, sind im Abschluss des Unternehmens anzugeben. Konzerninterne Geschäftsvorfälle und Forderungen und Verbindlichkeiten werden bei der Aufstellung des Konzernabschlusses eliminiert; davon ausgenommen sind solche zwischen einer Investmentgesellschaft und ihren erfolgswirksam zum beizulegenden Zeitwert bewerteten Tochterunternehmen.
+
+ZWECK DER ANGABEN ÜBER BEZIEHUNGEN ZU NAHESTEHENDEN UNTERNEHMEN UND PERSONEN
+
+5 Beziehungen zu nahestehenden Unternehmen und Personen sind in Handel und Gewerbe gängige Praxis. So wickeln Unternehmen oftmals Teile ihrer Tätigkeiten über Tochterunternehmen, Gemeinschaftsunternehmen oder assoziierte Unternehmen ab. In einem solchen Fall hat das Unternehmen die Möglichkeit, durch Beherrschung, gemeinschaftliche Führung oder maßgeblichen Einfluss auf die Finanz- und Geschäftspolitik des Beteiligungsunternehmens einzuwirken.
+
+6 Eine Beziehung zu nahestehenden Unternehmen und Personen kann sich auf die Vermögens- und Finanzlage und den Gewinn oder Verlust eines Unternehmens auswirken. Nahestehende Unternehmen und Personen tätigen möglicherweise Geschäfte, die fremde Dritte nicht tätigen würden. So wird ein Unternehmen, das seinem Mutterunternehmen Güter zu Anschaffungs- oder Herstellungskosten verkauft, diese möglicherweise nicht zu den gleichen Konditionen an andere Kunden verkaufen. Auch werden Geschäftsvorfälle zwischen nahestehenden Unternehmen und Personen möglicherweise nicht zu den gleichen Beträgen abgewickelt wie zwischen fremden Dritten.
+
+7 Eine Beziehung zu nahestehenden Unternehmen und Personen kann sich auch dann auf die Vermögens- und Finanzlage und den Gewinn oder Verlust eines Unternehmens auswirken, wenn keine Geschäfte mit nahestehenden Unternehmen und Personen stattfinden. Die bloße Existenz der Beziehung kann ausreichen, um die Geschäfte des berichtenden Unternehmens mit Dritten zu beeinflussen. So könnte beispielsweise ein Tochterunternehmen seine Beziehungen zu einem Handelspartner beenden, weil eine Schwestergesellschaft, die in demselben Geschäftsfeld wie der frühere Geschäftspartner tätig ist, vom Mutterunternehmen erworben wurde. Ebenso gut könnte eine Partei aufgrund des maßgeblichen Einflusses einer anderen Partei eine Handlung unterlassen – ein Tochterunternehmen könnte beispielsweise von seinem Mutterunternehmen die Anweisung erhalten, keine Forschungs- und Entwicklungstätigkeiten auszuführen.
+
+8 Sind die Abschlussadressaten über die Geschäftsvorfälle, Forderungen und Verbindlichkeiten (einschließlich Verpflichtungen) und Beziehungen eines Unternehmens mit bzw. gegenüber nahestehenden Unternehmen und Personen im Bilde, kann dies aus den genannten Gründen ihre Beurteilung der Geschäftstätigkeit des Unternehmens und der bestehenden Risiken und Chancen beeinflussen.
+
+DEFINITIONEN
+
+9   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Nahestehende Unternehmen und Personen sind Personen oder Unternehmen, die dem abschlusserstellenden Unternehmen (in diesem Standard „berichtendes Unternehmen“ genannt) nahestehen.
+a) 
+
+Eine Person oder ein naher Familienangehöriger dieser Person steht einem berichtenden Unternehmen nahe, wenn sie/er
+i) 
+
+das berichtende Unternehmen beherrscht oder an dessen gemeinschaftlicher Führung beteiligt ist,
+ii) 
+
+maßgeblichen Einfluss auf das berichtende Unternehmen hat oder
+iii) 
+
+im Management des berichtenden Unternehmens oder eines Mutterunternehmens des berichtenden Unternehmens eine Schlüsselposition bekleidet.
+b) 
+
+Ein Unternehmen steht einem berichtenden Unternehmen nahe, wenn eine der folgenden Bedingungen erfüllt ist:
+i) 
+
+Das Unternehmen und das berichtende Unternehmen gehören zu demselben Konzern (was bedeutet, dass Mutterunternehmen, Tochterunternehmen und Schwestergesellschaften alle einander nahestehen).
+ii) 
+
+Eines der beiden Unternehmen ist ein assoziiertes Unternehmen oder ein Gemeinschaftsunternehmen des anderen (oder ein assoziiertes Unternehmen oder ein Gemeinschaftsunternehmen eines Unternehmens eines Konzerns, dem auch das andere Unternehmen angehört).
+iii) 
+
+Beide Unternehmen sind Gemeinschaftsunternehmen desselben Dritten.
+iv) 
+
+Eines der beiden Unternehmen ist ein Gemeinschaftsunternehmen eines dritten Unternehmens und das andere ist ein assoziiertes Unternehmen dieses dritten Unternehmens.
+v) 
+
+Bei dem Unternehmen handelt es sich um einen Plan für Leistungen nach Beendigung des Arbeitsverhältnisses zugunsten der Arbeitnehmer entweder des berichtenden Unternehmens oder eines dem berichtenden Unternehmen nahestehenden Unternehmens. Handelt es sich bei dem berichtenden Unternehmen selbst um einen solchen Plan, sind auch die in diesen Plan einzahlenden Arbeitgeber als dem berichtenden Unternehmen nahestehend zu betrachten.
+vi) 
+
+Das Unternehmen wird von einer unter (a) genannten Person beherrscht oder steht unter gemeinschaftlicher Führung, an der eine unter (a) genannte Person beteiligt ist.
+vii) 
+
+Eine unter (a)(i) genannte Person hat maßgeblichen Einfluss auf das Unternehmen oder bekleidet im Management des Unternehmens (oder eines Mutterunternehmens des Unternehmens) eine Schlüsselposition.
+viii) 
+
+Das Unternehmen oder ein Mitglied des Konzerns, dem es angehört, erbringt für das berichtende Unternehmen oder dessen Mutterunternehmen Leistungen im Bereich des Managements in Schlüsselpositionen.
+Ein Geschäftsvorfall mit nahestehenden Unternehmen und Personen ist eine Übertragung von Ressourcen, Dienstleistungen oder Verpflichtungen zwischen einem berichtenden Unternehmen und einem nahestehenden Unternehmen/einer nahestehenden Person, unabhängig davon, ob dafür ein Entgelt in Rechnung gestellt wird.
+Nahe Familienangehörige einer Person sind Familienmitglieder, von denen angenommen werden kann, dass sie bei ihren Transaktionen mit dem Unternehmen auf die Person Einfluss nehmen oder von ihr beeinflusst werden können. Dazu gehören
+a) 
+
+Kinder und Ehegatte oder Lebenspartner dieser Person,
+b) 
+
+Kinder des Ehegatten oder Lebenspartners dieser Person und
+c) 
+
+abhängige Angehörige dieser Person oder des Ehegatten oder Lebenspartners dieser Person.
+Vergütungen umfassen sämtliche Leistungen an Arbeitnehmer (gemäß Definition in IAS 19 Leistungen an Arbeitnehmer), einschließlich solcher, auf die IFRS 2 Anteilsbasierte Vergütung anzuwenden ist. Leistungen an Arbeitnehmer sind jede Form von Vergütung, die von dem Unternehmen oder in dessen Namen als Gegenleistung für erhaltene Dienstleistungen gezahlt wurde, zu zahlen ist oder bereitgestellt wird Dazu gehören auch Gegenleistungen, die von dem Unternehmen für ein Mutterunternehmen erbracht werden. Vergütungen umfassen
+a) 
+
+kurzfristig fällige Leistungen an Arbeitnehmer wie Löhne, Gehälter und Sozialversicherungsbeiträge, Urlaubs- und Krankengeld, Gewinn- und Erfolgsbeteiligungen (sofern diese innerhalb von zwölf Monaten nach Ende der Berichtsperiode zu zahlen sind) sowie geldwerte Leistungen (wie medizinische Versorgung, Wohnung und Dienstwagen sowie kostenlose oder vergünstigte Güter oder Dienstleistungen) für aktive Arbeitnehmer,
+b) 
+
+Leistungen nach Beendigung des Arbeitsverhältnisses wie Renten, sonstige Altersversorgungsleistungen, Lebensversicherungen und medizinische Versorgung,
+c) 
+
+andere langfristig fällige Leistungen an Arbeitnehmer wie Sonderurlaub nach langjähriger Dienstzeit oder vergütete Dienstfreistellungen, Jubiläumsgelder oder andere Leistungen für langjährige Dienstzeit, langfristige Leistungen bei Erwerbsunfähigkeit und – sofern diese Leistungen nicht vollständig innerhalb von zwölf Monaten nach Ende der Berichtsperiode zu zahlen sind – Gewinn- und Erfolgsbeteiligungen sowie später fällige Vergütungsbestandteile,
+d) 
+
+Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses und
+e) 
+
+anteilsbasierte Vergütungen.
+Mitglieder des Managements in Schlüsselpositionen sind Personen, die direkt oder indirekt für die Planung, Leitung und Überwachung der Tätigkeiten des Unternehmens zuständig und verantwortlich sind; dies schließt Mitglieder der Geschäftsführungs- und Aufsichtsorgane ein.
+Öffentliche Hand bezieht sich auf Regierungsbehörden, Institutionen mit hoheitlichen Aufgaben und ähnliche Körperschaften, unabhängig davon, ob diese auf lokaler, nationaler oder internationaler Ebene angesiedelt sind.
+Der öffentlichen Hand nahestehende Unternehmen sind Unternehmen, die von einer öffentlichen Hand beherrscht werden oder unter gemeinschaftlicher Führung oder maßgeblichem Einfluss einer öffentlichen Hand stehen.
+Die Begriffe „Beherrschung“ und „Investmentgesellschaft“ sowie „gemeinschaftliche Führung“ und „maßgeblicher Einfluss“ werden in IFRS 10, IFRS 11 Gemeinschaftliche Vereinbarungen bzw. IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen definiert; im vorliegenden Standard werden sie gemäß den dort festgelegten Bedeutungen verwendet.
+
+10 Bei der Betrachtung aller möglichen Beziehungen zu nahestehenden Unternehmen und Personen wird auf den wirtschaftlichen Gehalt der Beziehung und nicht allein auf die rechtliche Gestaltung abgestellt.
+
+11 Im Rahmen dieses Standards sind nicht als nahestehende Unternehmen und Personen anzusehen:
+a) 
+
+zwei Unternehmen, die lediglich ein Geschäftsleitungsmitglied oder ein anderes Mitglied des Managements in einer Schlüsselposition gemeinsam haben, oder bei denen ein Mitglied des Managements in einer Schlüsselposition bei dem einen Unternehmen maßgeblichen Einfluss auf das andere Unternehmen hat,
+b) 
+
+zwei Partnerunternehmen, die lediglich die gemeinschaftliche Führung eines Gemeinschaftsunternehmens ausüben,
+c) 
+i) 
+
+Kapitalgeber,
+ii) 
+
+Gewerkschaften,
+iii) 
+
+öffentliche Versorgungsunternehmen und
+iv) 
+
+Behörden und Institutionen einer öffentlichen Hand, die das berichtende Unternehmen weder beherrscht noch gemeinschaftlich führt noch maßgeblich beeinflusst,
+
+lediglich aufgrund ihrer gewöhnlichen Geschäftsbeziehungen mit einem Unternehmen (dies gilt auch, wenn sie den Handlungsspielraum eines Unternehmens einengen oder am Entscheidungsprozess mitwirken können),
+d) 
+
+einzelne Kunden, Lieferanten, Franchisegeber, Vertriebspartner oder Generalvertreter, mit denen ein Unternehmen ein signifikantes Geschäftsvolumen abwickelt, lediglich aufgrund der daraus resultierenden wirtschaftlichen Abhängigkeit.
+
+12 In der Definition des Begriffs „nahestehende Unternehmen und Personen“ schließt „assoziiertes Unternehmen“ auch Tochterunternehmen des assoziierten Unternehmens und „Gemeinschaftsunternehmen“ auch Tochterunternehmen des Gemeinschaftsunternehmens ein. Aus diesem Grund sind beispielsweise das Tochterunternehmen eines assoziierten Unternehmens und der Investor, der maßgeblichen Einfluss auf das assoziierte Unternehmen hat, als gegenseitig nahestehend zu betrachten.
+
+ANGABEN
+
+Alle Unternehmen
+
+13   Beziehungen zwischen einem Mutter- und seinen Tochterunternehmen sind anzugeben, unabhängig davon, ob Geschäftsvorfälle zwischen ihnen stattgefunden haben. Ein Unternehmen hat den Namen seines Mutterunternehmens und, falls abweichend, die oberste beherrschende Partei anzugeben. Veröffentlicht weder das Mutterunternehmen noch die oberste beherrschende Partei einen Konzernabschluss, ist auch der Name des nächsthöheren Mutterunternehmens, das einen Konzernabschluss veröffentlicht, anzugeben.
+
+14 Damit sich die Abschlussadressaten ein Urteil darüber bilden können, wie sich Beziehungen zu nahestehenden Unternehmen und Personen auf ein Unternehmen auswirken, ist es angebracht, die Beziehungen zu nahestehenden Unternehmen und Personen anzugeben, bei denen ein Beherrschungsverhältnis vorliegt, und zwar unabhängig davon, ob es zwischen den nahestehenden Unternehmen und Personen Geschäftsvorfälle gegeben hat.
+
+15 Die Pflicht zur Angabe von Beziehungen zu nahestehenden Unternehmen und Personen zwischen einem Mutter- und seinen Tochterunternehmen besteht zusätzlich zu den Angabepflichten in IAS 27 und IFRS 12 Angaben zu Anteilen an anderen Unternehmen.
+
+16 In Paragraph 13 wird auf das nächsthöhere Mutterunternehmen verwiesen. Dabei handelt es sich um das erste Mutterunternehmen über dem unmittelbaren Mutterunternehmen, das einen Konzernabschluss veröffentlicht.
+
+17   Ein Unternehmen hat die Vergütung der Mitglieder seines Managements in Schlüsselpositionen sowohl insgesamt als auch gesondert für jede der folgenden Kategorien anzugeben:
+a) 
+
+kurzfristig fällige Leistungen an Arbeitnehmer,
+b) 
+
+Leistungen nach Beendigung des Arbeitsverhältnisses,
+c) 
+
+andere langfristig fällige Leistungen,
+d) 
+
+Leistungen aus Anlass der Beendigung des Arbeitsverhältnisses und
+e) 
+
+anteilsbasierte Vergütungen.
+
+17A   Erhält ein Unternehmen von einem anderen Unternehmen („leistungserbringendes Unternehmen“) Leistungen im Bereich des Managements in Schlüsselpositionen, ist es nicht verpflichtet, die Anforderungen des Paragraphen 17 auf die vom leistungserbringenden Unternehmen an seine Mitarbeiter oder Mitglieder des Geschäftsführungs- und/oder Aufsichtsorgans gezahlten oder zahlbaren Vergütungen anzuwenden.
+
+18   Hat es bei einem Unternehmen in den Perioden, auf die sich die Abschlüsse beziehen, Geschäftsvorfälle mit nahestehenden Unternehmen oder Personen gegeben, so hat das Unternehmen die Art seiner Beziehung zu den nahestehenden Unternehmen oder Personen anzugeben sowie Informationen über diese Geschäftsvorfälle und Forderungen und Verbindlichkeiten (einschließlich Verpflichtungen) darzulegen, die die Abschlussadressaten benötigen, um die möglichen Auswirkungen dieser Beziehung auf den Abschluss nachzuvollziehen. Diese Angabepflichten bestehen zusätzlich zu den in Paragraph 17 genannten. Diese Angaben müssen zumindest Folgendes umfassen:
+a) 
+
+die Höhe der Geschäftsvorfälle,
+b) 
+
+die Höhe der Forderungen und Verbindlichkeiten, einschließlich Verpflichtungen, und
+i) 
+
+deren Bedingungen und Konditionen – u. a., ob eine Besicherung besteht – sowie die Art der Leistungserfüllung und
+ii) 
+
+Einzelheiten gewährter oder erhaltener Garantien,
+c) 
+
+mit den Forderungen und Verbindlichkeiten zusammenhängende Rückstellungen für zweifelhafte Forderungen und
+d) 
+
+den während der Periode erfassten Aufwand für uneinbringliche oder zweifelhafte Forderungen gegenüber nahestehenden Unternehmen und Personen.
+
+18A   Beträge, die das Unternehmen für Leistungen eines anderen Unternehmens (leistungserbringendes Unternehmen) im Bereich des Managements in Schlüsselpositionen aufgewendet hat, sind anzugeben.
+
+19   Die nach Paragraph 18 erforderlichen Angaben sind für jede der folgenden Kategorien gesondert zu machen:
+a) 
+
+das Mutterunternehmen,
+b) 
+
+Unternehmen, die an der gemeinschaftlichen Führung des Unternehmens beteiligt sind oder maßgeblichen Einfluss auf das Unternehmen haben,
+c) 
+
+Tochterunternehmen,
+d) 
+
+assoziierte Unternehmen,
+e) 
+
+Gemeinschaftsunternehmen, bei denen das Unternehmen ein Partnerunternehmen ist,
+f) 
+
+Mitglieder des Managements in Schlüsselpositionen des Unternehmens oder dessen Mutterunternehmens und
+g) 
+
+sonstige nahestehende Unternehmen und Personen.
+
+20 Die in Paragraph 19 vorgeschriebene Aufschlüsselung der an nahestehende Unternehmen und Personen zu zahlenden oder von diesen zu fordernden Beträge in verschiedene Kategorien von nahestehenden Unternehmen und Personen stellt eine Erweiterung der Angabepflichten nach IAS 1 Darstellung des Abschlusses für die Informationen dar, die entweder in der Bilanz oder im Anhang darzustellen sind. Die Kategorien werden erweitert, um eine umfassendere Aufgliederung der Salden nahestehender Unternehmen und Personen bereitzustellen, und sind auf Geschäftsvorfälle mit nahestehenden Unternehmen und Personen anzuwenden.
+
+21 Es folgen Beispiele von Geschäftsvorfällen, die anzugeben sind, wenn sie sich auf nahestehende Unternehmen oder Personen beziehen:
+a) 
+
+Käufe oder Verkäufe (fertiger oder unfertiger) Güter,
+b) 
+
+Käufe oder Verkäufe von Grundstücken, Bauten und anderen Vermögenswerten,
+c) 
+
+Erbringung oder Erhalt von Dienstleistungen,
+d) 
+
+Leasingverhältnisse,
+e) 
+
+Transfers von Dienstleistungen im Bereich Forschung und Entwicklung,
+f) 
+
+Transfers aufgrund von Lizenzvereinbarungen,
+g) 
+
+Transfers im Rahmen von Finanzierungsvereinbarungen (einschließlich Darlehen und Kapitaleinlagen in Form von Bar- oder Sacheinlagen),
+h) 
+
+Gewährung von Bürgschaften oder Sicherheiten,
+i) 
+
+Verpflichtungen, bei künftigem Eintreten oder Ausbleiben eines bestimmten Ereignisses etwas Bestimmtes zu tun, worunter auch (erfasste und nicht erfasste) noch zu erfüllende Verträge ( 14 ) fallen, und
+j) 
+
+die Erfüllung von Verbindlichkeiten für Rechnung des Unternehmens oder durch das Unternehmen für Rechnung dieses nahestehenden Unternehmens/dieser nahestehenden Person.
+
+22 Die Teilnahme eines Mutter- oder Tochterunternehmens an einem leistungsorientierten Plan, der die Risiken zwischen den Unternehmen eines Konzerns aufteilt, stellt einen Geschäftsvorfall zwischen nahestehenden Unternehmen und Personen dar (siehe IAS 19 (in der 2011 geänderten Fassung) Paragraph 42).
+
+23 Die Angabe, dass Geschäftsvorfälle mit nahestehenden Unternehmen und Personen unter den gleichen Bedingungen abgewickelt wurden wie Geschäftsvorfälle mit unabhängigen Geschäftspartnern, ist nur zulässig, wenn dies nachgewiesen werden kann.
+
+24   Ähnliche Posten dürfen zusammengefasst angegeben werden, es sei denn, eine gesonderte Angabe ist erforderlich, um die Auswirkungen der Geschäftsvorfälle mit nahestehenden Unternehmen und Personen auf den Abschluss des Unternehmens beurteilen zu können.
+
+Einer öffentlichen Hand nahestehende Unternehmen
+
+25   Ein berichtendes Unternehmen ist von der in Paragraph 18 festgelegten Pflicht zur Angabe von Geschäftsvorfällen mit und Forderungen und Verbindlichkeiten (einschließlich Verpflichtungen) gegenüber nahestehenden Unternehmen und Personen befreit, wenn es sich bei diesen Unternehmen und Personen handelt um
+a) 
+
+eine öffentliche Hand, die das berichtende Unternehmen beherrscht oder an dessen gemeinschaftlicher Führung beteiligt ist oder maßgeblichen Einfluss auf das berichtende Unternehmen hat, und
+b) 
+
+ein anderes Unternehmen, das als nahestehend zu betrachten ist, weil dieselbe öffentliche Hand sowohl das berichtende als auch dieses andere Unternehmen beherrscht oder an deren gemeinschaftlicher Führung beteiligt ist oder maßgeblichen Einfluss auf diese hat.
+
+26   Nimmt ein berichtendes Unternehmen die in Paragraph 25 genannte Befreiung in Anspruch, hat es zu den dort genannten Geschäftsvorfällen und den dazugehörigen Forderungen und Verbindlichkeiten Folgendes anzugeben:
+a) 
+
+den Namen der öffentlichen Hand und die Art ihrer Beziehung zum berichtenden Unternehmen (d. h. Beherrschung, gemeinschaftliche Führung oder maßgeblicher Einfluss),
+b) 
+
+die folgenden Informationen, und zwar so detailliert, dass die Abschlussadressaten des Unternehmens die Auswirkungen der Geschäftsvorfälle mit nahestehenden Unternehmen und Personen auf dessen Abschluss beurteilen können:
+i) 
+
+Art und Höhe jedes Geschäftsvorfalls, der für sich genommen signifikant ist, und
+ii) 
+
+einen Hinweis auf den qualitativen oder quantitativen Umfang der anderen Geschäftsvorfälle, die zwar nicht für sich genommen, aber in ihrer Gesamtheit signifikant sind. Hierunter fallen u. a. die in Paragraph 21 genannten Arten von Geschäftsvorfällen.
+
+27 Bei Ausübung seines Ermessens zur Bestimmung des Grads der Detailliertheit der in Paragraph 26(b) vorgeschriebenen Angaben trägt das berichtende Unternehmen der Nähe der Beziehung zu nahestehenden Unternehmen und Personen sowie anderen für die Bestimmung der Signifikanz des Geschäftsvorfalls relevanten Faktoren Rechnung, d. h., ob der Geschäftsvorfall
+a) 
+
+von seinem Umfang her signifikant ist,
+b) 
+
+zu nicht marktüblichen Bedingungen stattgefunden hat,
+c) 
+
+außerhalb des regulären Tagesgeschäfts anzusiedeln ist, wie der Kauf oder Verkauf von Unternehmen,
+d) 
+
+Regulierungs- oder Aufsichtsbehörden gemeldet wird,
+e) 
+
+der oberen Führungsebene gemeldet wird,
+f) 
+
+von den Anteilseignern genehmigt werden muss.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+28 Dieser Standard ist rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2011 beginnen. Eine frühere Anwendung – des gesamten Standards oder der in den Paragraphen 25–27 vorgesehenen Teilbefreiung von einer öffentlichen Hand nahestehenden Unternehmen – ist zulässig. Wendet ein Unternehmen den gesamten Standard oder die Teilbefreiung für Berichtsperioden an, die vor dem 1. Januar 2011 beginnen, hat es dies anzugeben.
+
+28A Durch IFRS 10, IFRS 11 Gemeinschaftliche Vereinbarungen und IFRS 12, veröffentlicht im Mai 2011, wurden die Paragraphen 3, 9, 11(b), 15, 19(b) und (e) und 25 geändert. Wendet ein Unternehmen IFRS 10, IFRS 11 und IFRS 12 an, sind diese Änderungen ebenfalls anzuwenden.
+
+28B Mit der im Oktober 2012 veröffentlichten Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27) wurden die Paragraphen 4 und 9 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es alle in der Verlautbarung Investmentgesellschaften enthaltenen Änderungen gleichzeitig anzuwenden.
+
+28C Mit den im Dezember 2013 veröffentlichten Jährlichen Verbesserungen an den IFRS, Zyklus 2010–2012, wurde Paragraph 9 geändert und wurden die Paragraphen 17A und 18A eingefügt. Diese Änderung sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+RÜCKNAHME VON IAS 24 (2003)
+
+29 Dieser Standard ersetzt IAS 24 Angaben über Beziehungen zu nahestehenden Unternehmen und Personen (in der 2003 überarbeiteten Fassung).

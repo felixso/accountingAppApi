@@ -1,0 +1,771 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 12
+
+Angaben zu Anteilen an anderen Unternehmen
+
+ZIELSETZUNG
+
+1   Zielsetzung dieses IFRS ist es, ein Unternehmen zur Angabe von Informationen zu verpflichten, anhand deren die Abschlussadressaten Folgendes beurteilen können:
+a) 
+
+die Art seiner Anteile an anderen Unternehmen und die damit verbundenen Risiken und
+b) 
+
+die Auswirkungen dieser Anteile auf seine Vermögens-, Finanz- und Ertragslage sowie seine Zahlungsströme.
+
+Erreichen der Zielsetzung
+
+2 Um das Ziel in Paragraph 1 zu erreichen, hat ein Unternehmen Folgendes anzugeben:
+a) 
+
+erhebliche Ermessensentscheidungen und Annahmen, die es getroffen hat bei der Ermittlung
+i) 
+
+der Art seiner Anteile an einem anderen Unternehmen oder einer Vereinbarung,
+ii) 
+
+der Art der gemeinschaftlichen Vereinbarung, an der es Anteile hält (Paragraphen 7–9),
+iii) 
+
+dass es die Definition einer Investmentgesellschaft erfüllt, falls anwendbar (Paragraph 9A), und
+b) 
+
+Angaben zu seinen Anteilen an
+i) 
+
+Tochterunternehmen (Paragraphen 10–19),
+ii) 
+
+gemeinschaftlichen Vereinbarungen und assoziierten Unternehmen (Paragraphen 20–23) und
+iii) 
+
+strukturierten Unternehmen, die vom Unternehmen nicht beherrscht werden (nicht konsolidierte strukturierte Unternehmen) (Paragraphen 24–31).
+
+3 Sollten die durch diesen IFRS vorgeschriebenen Angaben zusammen mit den durch andere IFRS vorgeschriebenen Angaben die Zielsetzung in Paragraph 1 nicht erfüllen, hat ein Unternehmen alle zusätzlichen Informationen anzugeben, die zur Erfüllung dieses Ziels erforderlich sind.
+
+4 Ein Unternehmen hat zu prüfen, welcher Detaillierungsgrad zur Erfüllung der Angabepflichten notwendig ist und welcher Stellenwert jeder einzelnen Vorschrift in diesem IFRS beizumessen ist. Es hat die Angaben so zusammenzufassen oder aufzuschlüsseln, dass nützliche Angaben weder durch die Aufführung zahlreicher unbedeutender Einzelheiten noch durch die Zusammenfassung von Posten mit unterschiedlichen Merkmalen verschleiert werden (siehe Paragraphen B2–B6).
+
+ANWENDUNGSBEREICH
+
+5 Dieser IFRS gilt für Unternehmen mit Anteilen an:
+a) 
+
+Tochterunternehmen,
+b) 
+
+gemeinschaftlichen Vereinbarungen (d. h. gemeinschaftlichen Tätigkeiten oder Gemeinschaftsunternehmen),
+c) 
+
+assoziierten Unternehmen,
+d) 
+
+nicht konsolidierten strukturierten Unternehmen.
+
+5A Mit Ausnahme des in Paragraph B17 beschriebenen Falls gelten die Vorschriften dieses IFRS für die in Paragraph 5 aufgeführten Anteile eines Unternehmens, die gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche als zur Veräußerung gehalten oder als aufgegebene Geschäftsbereiche eingestuft sind (oder zu einer Veräußerungsgruppe gehören, die als zur Veräußerung gehalten eingestuft ist).
+
+6 Nicht anwendbar ist dieser IFRS auf
+a) 
+
+Pläne für Leistungen nach Beendigung des Arbeitsverhältnisses oder Pläne für andere langfristig fällige Leistungen an Arbeitnehmer, auf die IAS 19 Leistungen an Arbeitnehmer Anwendung findet.
+b) 
+
+den Einzelabschluss eines Unternehmens, auf den IAS 27 Einzelabschlüsse Anwendung findet. Wenn allerdings
+i) 
+
+ein Unternehmen Anteile an nicht konsolidierten strukturierten Unternehmen hält und lediglich einen Einzelabschluss erstellt, so hat es bei der Aufstellung dieses Einzelabschlusses die Vorschriften der Paragraphen 24–31 anzuwenden;
+ii) 
+
+eine Investmentgesellschaft in ihrem Abschluss all ihre Tochterunternehmen gemäß Paragraph 31 von IFRS 10 erfolgswirksam zum beizulegenden Zeitwert bewertet, so hat sie die in diesem IFRS für Investmentgesellschaften verlangten Angaben zu machen.
+c) 
+
+Anteile eines Unternehmens, das an einer gemeinschaftlichen Vereinbarung, nicht aber an dessen gemeinschaftlicher Führung beteiligt ist, es sei denn, diese Anteile führen zu einem maßgeblichen Einfluss auf die Vereinbarung oder es handelt sich um Anteile an einem strukturierten Unternehmen.
+d) 
+
+Anteile an einem anderen Unternehmen, die nach IFRS 9 Finanzinstrumente bilanziert werden. Allerdings hat ein Unternehmen diesen IFRS anzuwenden,
+i) 
+
+wenn es sich bei diesen Anteilen um Anteile an einem assoziierten Unternehmen oder Gemeinschaftsunternehmen handelt, das nach IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen erfolgswirksam zum beizulegenden Zeitwert bewertet wird, oder
+ii) 
+
+wenn es sich bei diesen Anteilen um Anteile an einem nicht konsolidierten strukturierten Unternehmen handelt.
+
+ERHEBLICHE ERMESSENSENTSCHEIDUNGEN UND ANNAHMEN
+
+7   Ein Unternehmen hat Informationen über erhebliche Ermessensentscheidungen und Annahmen (sowie etwaige Änderungen dieser Ermessensentscheidungen und Annahmen) anzugeben, die es getroffen hat bei der Feststellung,
+a) 
+
+dass es ein anderes Unternehmen beherrscht, d. h. ein Beteiligungsunternehmen im Sinne der Paragraphen 5 und 6 von IFRS 10 Konzernabschlüsse,
+b) 
+
+dass es an der gemeinschaftlichen Führung einer Vereinbarung beteiligt ist oder maßgeblichen Einfluss auf ein anderes Unternehmen hat, und
+c) 
+
+der Art der gemeinschaftlichen Vereinbarung (d. h. gemeinschaftliche Tätigkeit oder Gemeinschaftsunternehmen), wenn die Vereinbarung über ein eigenständiges Vehikel strukturiert wurde.
+
+8 Die gemäß Absatz 7 anzugebenden erheblichen Ermessensentscheidungen und Annahmen umfassen auch jene, die ein Unternehmen trifft, wenn Änderungen von Sachverhalten und Umständen dergestalt sind, dass sich die Schlussfolgerung, ob eine Beherrschung, gemeinschaftliche Führung oder maßgeblicher Einfluss vorliegt, während der Berichtsperiode ändert.
+
+9 Um Paragraph 7 zu genügen, hat ein Unternehmen beispielsweise erhebliche Ermessensentscheidungen und Annahmen anzugeben, die es getroffen hat bei der Feststellung, dass
+a) 
+
+es ein anderes Unternehmen nicht beherrscht, obwohl es mehr als die Hälfte der Stimmrechte an dem anderen Unternehmen hält.
+b) 
+
+es ein anderes Unternehmen beherrscht, obwohl es weniger als die Hälfte der Stimmrechte an dem anderen Unternehmen hält.
+c) 
+
+es ein Agent oder ein Prinzipal ist (siehe Paragraphen B58–B72 von IFRS 10).
+d) 
+
+es keinen maßgeblichen Einfluss hat, obwohl es mindestens 20 % der Stimmrechte an dem anderen Unternehmen hält.
+e) 
+
+es maßgeblichen Einfluss hat, obwohl es weniger als 20 % der Stimmrechte an dem anderen Unternehmen hält.
+
+Status als Investmentgesellschaft
+
+9A   Wenn ein Mutterunternehmen feststellt, dass es eine Investmentgesellschaft gemäß Paragraph 27 von IFRS 10 ist, hat es Angaben über erhebliche Ermessensentscheidungen und Annahmen zu machen, die es bei der Feststellung, dass es eine Investmentgesellschaft ist, getroffen hat. Wenn eine Investmentgesellschaft nicht eines oder mehrere der typischen Merkmale einer Investmentgesellschaft erfüllt (siehe Paragraph 28 von IFRS 10), hat sie die Gründe anzugeben, aus denen sie zu dem Schluss kommt, dass sie dennoch eine Investmentgesellschaft ist.
+
+9B Wenn ein Unternehmen den Status einer Investmentgesellschaft erlangt oder verliert, hat es diese Änderung seines Status als Investmentgesellschaft und die Gründe für die Änderung anzugeben. Außerdem hat ein Unternehmen, das den Status einer Investmentgesellschaft erlangt, die Auswirkung dieser Statusänderung auf den Abschluss für die dargestellte Periode offen zu legen; dabei ist Folgendes anzugeben:
+a) 
+
+der gesamte beizulegende Zeitwert der nicht mehr konsolidierten Tochterunternehmen zum Zeitpunkt der Statusänderung,
+b) 
+
+gegebenenfalls der nach Maßgabe des Paragraphen B101 von IFRS 10 berechnete Gesamtgewinn bzw. -verlust und
+c) 
+
+den/die erfolgswirksamen Abschlussposten, in dem/denen der Gewinn oder Verlust angesetzt wird (falls nicht gesondert dargestellt).
+
+ANTEILE AN TOCHTERUNTERNEHMEN
+
+10   Ein Unternehmen hat Informationen anzugeben, die die Adressaten seines Konzernabschlusses in die Lage versetzen,
+a) 
+
+Folgendes zu verstehen:
+i) 
+
+die Zusammensetzung des Konzerns und
+ii) 
+
+den Anteil, den nicht beherrschende Anteile an den Tätigkeiten und Zahlungsströmen des Konzerns ausmachen (Paragraph 12), und
+b) 
+
+Folgendes zu beurteilen:
+i) 
+
+die Art und den Umfang erheblicher Beschränkungen seiner Möglichkeit, Zugang zu Vermögenswerten des Konzerns zu erlangen oder diese zu nutzen und Schulden des Konzerns zu begleichen (Paragraph 13),
+ii) 
+
+die Art und Änderungen der Risiken, die mit seinen Anteilen an konsolidierten strukturierten Unternehmen verbunden sind (Paragraphen 14–17),
+iii) 
+
+die Auswirkungen von Änderungen seines Eigentumsanteils an einem Tochterunternehmen, die nicht zu einem Verlust der Beherrschung führen (Paragraph 18), und
+iv) 
+
+die Auswirkungen des Verlusts der Beherrschung über ein Tochterunternehmen während der Berichtsperiode (Paragraph 19).
+
+11 Unterscheidet sich der Abschluss eines Tochterunternehmens, der bei der Aufstellung des Konzernabschlusses verwendet wird, in Bezug auf den Stichtag oder die Berichtsperiode vom Konzernabschluss (siehe Paragraphen B92 und B93 von IFRS 10), hat ein Unternehmen folgende Angaben zu machen:
+a) 
+
+den Abschlussstichtag dieses Tochterunternehmens und
+b) 
+
+den Grund für die Verwendung eines anderen Stichtags oder einer anderen Berichtsperiode.
+
+Der Anteil, den nicht beherrschende Anteile an den Tätigkeiten und Zahlungsströmen des Konzerns ausmachen
+
+12 Ein Unternehmen hat für jedes Tochterunternehmen, an dem für das berichtende Unternehmen wesentliche nicht beherrschende Anteile bestehen, folgende Angaben zu machen:
+a) 
+
+den Namen des Tochterunternehmens,
+b) 
+
+den Hauptgeschäftssitz (und das Gründungsland, falls es vom Hauptgeschäftssitz abweicht) des Tochterunternehmens,
+c) 
+
+den Teil der Eigentumsanteile, die die nicht beherrschenden Anteile ausmachen,
+d) 
+
+den Teil der Stimmrechte, die die nicht beherrschenden Anteile ausmachen, falls abweichend vom Teil der Eigentumsanteile,
+e) 
+
+den Gewinn oder Verlust der Berichtsperiode, der auf nicht beherrschende Anteile am Tochterunternehmens entfällt,
+f) 
+
+die kumulierten nicht beherrschenden Anteile am Tochterunternehmen zum Abschlussstichtag,
+g) 
+
+zusammengefasste Finanzinformationen über das Tochterunternehmen (siehe Paragraph B10).
+
+Art und Umfang erheblicher Beschränkungen
+
+13 Ein Unternehmen hat folgende Angaben zu machen:
+a) 
+
+erhebliche Beschränkungen (z. B. rechtliche, vertragliche und regulatorische Beschränkungen) seiner Möglichkeit, Zugang zu Vermögenswerten des Konzerns zu erlangen oder diese zu nutzen und Schulden des Konzerns zu begleichen, wie z. B.:
+i) 
+
+Beschränkungen, die die Möglichkeit eines Mutterunternehmens oder seiner Tochterunternehmen einschränken, Finanzmittel oder andere Vermögenswerte auf andere Unternehmen des Konzerns zu übertragen (oder von ihnen zu erhalten),
+ii) 
+
+Garantien oder andere Bestimmungen, die die Zahlung von Dividenden und anderen Kapitalausschüttungen oder die Gewährung oder Rückzahlung von Darlehen sowie Vorauszahlungen an (oder von) andere(n) Unternehmen des Konzerns einschränken können.
+b) 
+
+Art und Umfang, in dem Schutzrechte nicht beherrschender Anteile die Möglichkeit des Unternehmens, Zugang zu Vermögenswerten des Konzerns zu erlangen oder diese zu nutzen und Schulden des Konzerns zu begleichen, erheblich beschränken können (z. B. wenn ein Mutterunternehmen verpflichtet ist, vor der Begleichung seiner eigenen Schulden zuerst die Schulden eines Tochterunternehmens zu begleichen, oder wenn die Zustimmung nicht beherrschender Anteile erforderlich wird, um entweder Zugang zu den Vermögenswerten eines Tochterunternehmens zu erlangen oder ihre Schulden zu begleichen),
+c) 
+
+die Buchwerte der Vermögenswerte und Schulden, auf die sich diese Beschränkungen beziehen, im konsolidierten Abschluss.
+
+Art der Risiken, die mit den Anteilen eines Unternehmens an konsolidierten strukturierten Unternehmen verbunden sind
+
+14 Ein Unternehmen hat die Bedingungen etwaiger vertraglicher Vereinbarungen anzugeben, die das Mutterunternehmen oder seine Tochterunternehmen zur finanziellen Unterstützung eines konsolidierten strukturierten Unternehmens verpflichten könnten; dazu zählen auch Ereignisse oder Umstände, durch die das berichtende Unternehmen einen Verlust erleiden könnte (z. B. Liquiditätsvereinbarungen oder Ratingtrigger in Verbindung mit Verpflichtungen, Vermögenswerte des strukturierten Unternehmens zu erwerben oder finanzielle Unterstützung zu gewähren).
+
+15 Wenn ein Mutterunternehmen oder eines seiner Tochterunternehmen während der Berichtsperiode ein konsolidiertes strukturiertes Unternehmen ohne vertragliche Verpflichtung finanziell oder in anderer Weise unterstützt hat (z. B. durch Kauf von Vermögenswerten des strukturierten Unternehmens oder durch Kauf von von diesem ausgegebenen Instrumenten), hat das Unternehmen folgende Angaben zu machen:
+a) 
+
+Art und Höhe der gewährten Unterstützung, einschließlich Situationen, in denen das Mutterunternehmen oder seine Tochterunternehmen dem strukturierten Unternehmen bei der Beschaffung finanzieller Unterstützung behilflich war, und
+b) 
+
+die Gründe für diese Unterstützung.
+
+16 Wenn ein Mutterunternehmen oder eines seiner Tochterunternehmen während der Berichtsperiode ein zuvor nicht konsolidiertes strukturiertes Unternehmen ohne vertragliche Verpflichtung finanziell oder in anderer Weise unterstützt hat und diese Unterstützung dazu geführt hat, dass das Unternehmen das strukturierte Unternehmen beherrscht, hat das Unternehmen eine Erläuterung aller einschlägigen Faktoren vorzulegen, die zu diesem Beschluss geführt haben.
+
+17 Ein Unternehmen hat etwaige gegenwärtige Absichten, ein konsolidiertes strukturiertes Unternehmen finanziell oder in anderer Weise zu unterstützen, anzugeben, einschließlich der Absicht, dem strukturierten Unternehmen bei der Beschaffung finanzieller Unterstützung behilflich zu sein.
+
+Auswirkungen von Veränderungen des Eigentumsanteils eines Mutterunternehmens an einem Tochterunternehmen, die nicht zu einem Verlust der Beherrschung führen
+
+18 Ein Unternehmen hat eine Aufstellung vorzulegen, aus der die Auswirkungen von Veränderungen des Eigentumsanteils an einem Tochterunternehmen, die nicht zu einem Verlust der Beherrschung führen, auf das den Eigentümern des Mutterunternehmens zuzurechnende Eigenkapital hervorgehen.
+
+Auswirkungen des Verlusts der Beherrschung über ein Tochterunternehmen während der Berichtsperiode
+
+19 Ein Unternehmen hat den etwaigen Gewinn oder Verlust anzugeben, der nach Paragraph 25 von IFRS 10 berechnet wird, und
+a) 
+
+den Anteil dieses Gewinns bzw. Verlusts, der der zum beizulegenden Zeitwert erfolgenden Bewertung aller am ehemaligen Tochterunternehmen einbehaltenen Anteile zum Zeitpunkt des Verlustes der Beherrschung zuzurechnen ist, und
+b) 
+
+den/die erfolgswirksamen Abschlussposten, in dem/denen der Gewinn oder Verlust erfasst wird (falls nicht gesondert dargestellt).
+
+ANTEILE AN NICHT KONSOLIDIERTEN TOCHTERUNTERNEHMEN (INVESTMENTGESELLSCHAFTEN)
+
+19A Eine Investmentgesellschaft, die gemäß IFRS 10 die Ausnahme von der Konsolidierung anzuwenden und stattdessen ihre Beteiligung an einem Tochterunternehmen erfolgswirksam zum beizulegenden Zeitwert zu bilanzieren hat, hat diese Tatsache anzugeben.
+
+19B Eine Investmentgesellschaft hat für jedes nicht konsolidierte Tochterunternehmen Folgendes anzugeben:
+a) 
+
+den Namen des Tochterunternehmens,
+b) 
+
+den Hauptgeschäftssitz (und das Gründungsland, falls es vom Hauptgeschäftssitz abweicht) des Tochterunternehmens und
+c) 
+
+den von der Investmentgesellschaft gehaltenen Eigentumsanteil und – falls abweichend – den gehaltenen Stimmrechtsanteil.
+
+19C Ist eine Investmentgesellschaft das Mutterunternehmen einer anderen Investmentgesellschaft, so hat das Mutterunternehmen auch die in Paragraph 19B(a)–(c) verlangten Angaben für Beteiligungen zu machen, die von ihren Tochterunternehmen beherrscht werden. Diese Angaben können durch Aufnahme des Abschlusses des Tochterunternehmens (oder der Tochterunternehmen), der die vorstehend genannten Angaben enthält, in den Abschluss des Mutterunternehmens gemacht werden.
+
+19D Eine Investmentgesellschaft hat Folgendes anzugeben:
+a) 
+
+Art und Umfang aller erheblichen (z. B. aus Kreditvereinbarungen, regulatorischen Vorgaben oder vertraglichen Vereinbarungen herrührenden) Beschränkungen der Möglichkeit eines nicht konsolidierten Tochterunternehmens, Finanzmittel in Form von Bardividenden an die Investmentgesellschaft zu übertragen oder Darlehen bzw. Vorauszahlungen der Investmentgesellschaft an das nicht konsolidierte Tochterunternehmen zurückzuzahlen, und
+b) 
+
+etwaige gegenwärtige Verpflichtungen oder Absichten, ein nicht konsolidiertes Tochterunternehmen finanziell oder in anderer Weise zu unterstützen, einschließlich der Verpflichtung oder der Absicht, dem Tochterunternehmen bei der Beschaffung finanzieller Unterstützung behilflich zu sein.
+
+19E Wenn eine Investmentgesellschaft oder eines ihrer Tochterunternehmen während der Berichtsperiode ein nicht konsolidiertes Tochterunternehmen ohne vertragliche Verpflichtung finanziell oder in anderer Weise unterstützt hat (z. B. durch Kauf von Vermögenswerten des Tochterunternehmens oder durch Kauf von von diesem ausgegebenen Instrumenten oder Unterstützung des Tochterunternehmens bei der Beschaffung der finanziellen Unterstützung), hat das Unternehmen folgende Angaben zu machen:
+a) 
+
+Art und Höhe der jedem einzelnen nicht konsolidierten Tochterunternehmen gewährten Unterstützung und
+b) 
+
+die Gründe für diese Unterstützung.
+
+19F Eine Investmentgesellschaft hat die Bedingungen etwaiger vertraglicher Vereinbarungen anzugeben, die das Unternehmen oder seine nicht konsolidierten Tochterunternehmen zur finanziellen Unterstützung eines nicht konsolidierten beherrschten strukturierten Unternehmens verpflichten könnten; dazu zählen auch Ereignisse oder Umstände, durch die das berichtende Unternehmen einen Verlust erleiden könnte (z. B. Liquiditätsvereinbarungen oder Ratingtrigger in Verbindung mit Verpflichtungen, Vermögenswerte des strukturierten Unternehmens zu erwerben oder finanzielle Unterstützung zu gewähren).
+
+19G Wenn eine Investmentgesellschaft oder eines ihrer nicht konsolidierten Tochterunternehmen während der Berichtsperiode ein von der Investmentgesellschaft nicht beherrschtes, nicht konsolidiertes strukturiertes Unternehmen ohne vertragliche Verpflichtung finanziell oder in anderer Weise unterstützt hat und diese Unterstützung dazu geführt hat, dass die Investmentgesellschaft das strukturierte Unternehmen beherrscht, hat die Investmentgesellschaft eine Erläuterung aller einschlägigen Faktoren vorzulegen, die zu dem Beschluss über die Gewährung der Unterstützung geführt haben.
+
+ANTEILE AN GEMEINSCHAFTLICHEN VEREINBARUNGEN UND ASSOZIIERTEN UNTERNEHMEN
+
+20   Ein Unternehmen hat Informationen anzugeben, die seine Abschlussadressaten in die Lage versetzen, Folgendes zu beurteilen:
+a) 
+
+die Art, den Umfang und die finanziellen Auswirkungen seiner Anteile an gemeinschaftlichen Vereinbarungen und assoziierten Unternehmen, einschließlich der Art und der Auswirkungen seiner vertraglichen Beziehung zu anderen Investoren, die an der gemeinschaftlichen Führung von gemeinschaftlichen Vereinbarungen und assoziierten Unternehmen beteiligt sind oder maßgeblichen Einfluss auf diese haben (Paragraphen 21 und 22), und
+b) 
+
+die Art und die Änderungen der Risiken, die mit seinen Anteilen an Gemeinschaftsunternehmen und assoziierten Unternehmen verbunden sind (Paragraph 23).
+
+Art, Umfang und finanzielle Auswirkungen der Anteile eines Unternehmens an gemeinschaftlichen Vereinbarungen und assoziierten Unternehmen
+
+21 Ein Unternehmen hat folgende Angaben zu machen:
+a) 
+
+für jede gemeinschaftliche Vereinbarung und jedes assoziierte Unternehmen, die/das für das berichtende Unternehmen wesentlich ist:
+i) 
+
+den Namen der gemeinschaftlichen Vereinbarung oder des assoziierten Unternehmens,
+ii) 
+
+die Art der Beziehung des Unternehmens zur gemeinschaftlichen Vereinbarung oder zum assoziierten Unternehmen (z. B. mittels Beschreibung der Art der Tätigkeiten der gemeinschaftlichen Vereinbarung oder des assoziierten Unternehmens und ob sie für die Tätigkeiten des Unternehmens von strategischer Bedeutung sind),
+iii) 
+
+den Hauptgeschäftssitz (und das Gründungsland, falls es vom Hauptgeschäftssitz abweicht) der gemeinschaftlichen Vereinbarung oder des assoziierten Unternehmens,
+iv) 
+
+den Anteil des vom Unternehmen gehaltenen Eigentumsanteils oder der dividendenberechtigten Anteile und – falls abweichend – den Anteil der gehaltenen Stimmrechte (sofern anwendbar);
+b) 
+
+für jedes Gemeinschaftsunternehmen und jedes assoziierte Unternehmen, das für das berichtende Unternehmen wesentlich ist:
+i) 
+
+Angabe, ob die Beteiligung am Gemeinschaftsunternehmen oder assoziierten Unternehmen nach der Equity-Methode oder zum beizulegenden Zeitwert bewertet wird,
+ii) 
+
+zusammengefasste Finanzinformationen über das Gemeinschaftsunternehmen oder assoziierte Unternehmen gemäß den Paragraphen B12 und B13,
+iii) 
+
+falls das Gemeinschaftsunternehmen oder das assoziierte Unternehmen nach der Equity-Methode bilanziert wird, den beizulegenden Zeitwert seiner Beteiligung am Gemeinschaftsunternehmen oder assoziierten Unternehmen, sofern ein notierter Marktpreis für die Beteiligung vorhanden ist;
+c) 
+
+Finanzinformationen gemäß Paragraph B16 über die Beteiligungen des Unternehmens an Gemeinschaftsunternehmen und assoziierten Unternehmen, die für sich genommen nicht wesentlich sind:
+i) 
+
+zusammengefasst für alle für sich genommen nicht wesentlichen Gemeinschaftsunternehmen und, gesondert,
+ii) 
+
+zusammengefasst für alle für sich genommen nicht wesentlichen assoziierten Unternehmen.
+
+21A Eine Investmentgesellschaft braucht die in den Paragraphen 21(b)–21(c) verlangten Angaben nicht zu machen.
+
+22 Ein Unternehmen hat zudem Folgendes anzugeben:
+a) 
+
+Art und Umfang aller erheblichen (z. B. aus Kreditvereinbarungen, regulatorischen Vorgaben oder vertraglichen Vereinbarungen zwischen Investoren, die an der gemeinschaftlichen Führung eines Gemeinschaftsunternehmens oder eines assoziierten Unternehmens beteiligt sind oder maßgeblichen Einfluss auf diese haben, herrührenden) Beschränkungen der Möglichkeit des Gemeinschaftsunternehmens oder assoziierten Unternehmens, Finanzmittel in Form von Bardividenden auf das Unternehmen zu übertragen oder Darlehen bzw. Vorauszahlungen des Unternehmens zurückzuzahlen;
+b) 
+
+wenn sich der Abschluss eines Gemeinschaftsunternehmens oder assoziierten Unternehmens, der bei der Anwendung der Equity-Methode zugrunde gelegt wurde, in Bezug auf den Stichtag oder die Berichtsperiode von dem des Unternehmens unterscheidet,
+i) 
+
+den Abschlussstichtag dieses Gemeinschaftsunternehmens oder assoziierten Unternehmens und
+ii) 
+
+den Grund für die Verwendung eines anderen Stichtags oder einer anderen Berichtsperiode;
+c) 
+
+den nicht angesetzten Teil der Verluste eines Gemeinschaftsunternehmens oder assoziierten Unternehmens, sowohl für die Berichtsperiode als auch kumuliert, wenn das Unternehmen seinen Verlustanteil am Gemeinschaftsunternehmen oder assoziierten Unternehmen bei Anwendung der Equity-Methode nicht mehr ausweist.
+
+Mit den Anteilen eines Unternehmens an Gemeinschaftsunternehmen und assoziierten Unternehmen verbundene Risiken
+
+23 Ein Unternehmen hat folgende Angaben zu machen:
+a) 
+
+in Bezug auf seine Gemeinschaftsunternehmen bestehende Verpflichtungen, getrennt vom Betrag anderer Verpflichtungen gemäß den Paragraphen B18–B20,
+b) 
+
+gemäß IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen – es sei denn, die Verlustwahrscheinlichkeit ist sehr gering – die Eventualverbindlichkeiten in Bezug auf seine Anteile an Gemeinschaftsunternehmen oder assoziierten Unternehmen (einschließlich seines Anteils an Eventualverbindlichkeiten, die zusammen mit anderen Investoren, die an der gemeinschaftlichen Führung der Gemeinschaftsunternehmen oder assoziierten Unternehmen beteiligt sind oder maßgeblichen Einfluss auf diese haben, eingegangen wurden), und zwar getrennt vom Betrag anderer Eventualverbindlichkeiten.
+
+ANTEILE AN NICHT KONSOLIDIERTEN STRUKTURIERTEN UNTERNEHMEN
+
+24   Ein Unternehmen hat Informationen anzugeben, die seine Abschlussadressaten in die Lage versetzen,
+a) 
+
+die Art und den Umfang seiner Anteile an nicht konsolidierten strukturierten Unternehmen zu verstehen (Paragraphen 26–28) und
+b) 
+
+die Art und Änderungen der Risiken, die mit seinen Anteilen an nicht konsolidierten strukturierten Unternehmen verbunden sind, zu beurteilen (Paragraphen 29–31).
+
+25 Die in Paragraph 24(b) verlangten Informationen umfassen auch Angaben zur Risikoexponierung eines Unternehmens, die aus seinem Engagement bei nicht konsolidierten strukturierten Unternehmen in früheren Berichtsperioden herrührt (z. B. Förderung des strukturierten Unternehmens), auch wenn das Unternehmen mit dem strukturierten Unternehmen am Abschlussstichtag keine vertraglichen Beziehungen mehr unterhält.
+
+25A Eine Investmentgesellschaft braucht die in Paragraph 24 verlangten Angaben nicht für ein von ihr beherrschtes nicht konsolidiertes strukturiertes Unternehmen zu machen, für das sie die in den Paragraphen 19A–19G verlangten Angaben macht.
+
+Art der Anteile
+
+26 Ein Unternehmen hat qualitative und quantitative Informationen über seine Anteile an nicht konsolidierten strukturierten Unternehmen anzugeben, die u. a. – aber nicht ausschließlich – die Art, den Zweck, den Umfang und die Tätigkeiten des strukturierten Unternehmens sowie die Art und Weise der Finanzierung des strukturierten Unternehmens betreffen.
+
+27 Wenn ein Unternehmen ein nicht konsolidiertes strukturiertes Unternehmen gefördert hat, für das es die in Paragraph 29 verlangten Informationen nicht angibt (z. B. weil es an diesem Unternehmen zum Abschlussstichtag keine Anteile hält), hat das Unternehmen folgende Angaben zu machen:
+a) 
+
+Art und Weise, wie es ermittelt hat, welche strukturierten Unternehmen es gefördert hat,
+b) 
+
+Erträge aus diesen strukturierten Unternehmen während der Berichtsperiode, einschließlich einer Beschreibung der Arten der dargestellten Erträge, und
+c) 
+
+den Buchwert (zum Zeitpunkt der Übertragung) aller Vermögenswerte, die während der Berichtsperiode auf diese strukturierten Unternehmen übertragen wurden.
+
+28 Ein Unternehmen hat die Informationen in Paragraph 27(b) und (c) in tabellarischer Form darzustellen, es sei denn, eine anderes Format ist zweckmäßiger, und seine Fördertätigkeiten in die entsprechenden Kategorien einzuordnen (siehe Paragraphen B2–B6).
+
+Art der Risiken
+
+29 Ein Unternehmen hat das Folgende zusammengefasst in tabellarischer Form darzustellen, es sei denn, ein anderes Format ist zweckmäßiger:
+a) 
+
+die Buchwerte der in seinem Abschluss angesetzten Vermögenswerte und Schulden, die sich auf seine Anteile an nicht konsolidierten strukturierten Unternehmen beziehen;
+b) 
+
+die Posten in der Bilanz, unter denen diese Vermögenswerte und Schulden ausgewiesen werden;
+c) 
+
+den Betrag, der das maximale Verlustrisiko des Unternehmens aufgrund seiner Anteile an nicht konsolidiertem strukturierten Unternehmen am besten darstellt, einschließlich Angaben zu der Art und Weise, wie dieses maximale Verlustrisiko ermittelt wurde. Kann ein Unternehmen sein maximales Verlustrisiko aufgrund seiner Anteile an nicht konsolidiertem strukturierten Unternehmen nicht quantifizieren, hat es diese Tatsache anzugeben und die Gründe dafür zu nennen;
+d) 
+
+einen Vergleich der Buchwerte der Vermögenswerte und Schulden des Unternehmens, die sich auf seine Anteile an nicht konsolidierten strukturierten Unternehmen beziehen, und sein maximales Verlustrisiko aufgrund dieser Unternehmen.
+
+30 Wenn ein Unternehmen während der Berichtsperiode ein nicht konsolidiertes strukturiertes Unternehmen, an dem es zuvor einen Anteil gehalten hat oder derzeit noch hält, ohne vertragliche Verpflichtung finanziell in anderer Weise unterstützt hat (z. B. durch Kauf von Vermögenswerten des strukturierten Unternehmens oder durch Kauf von von diesem ausgegebenen Instrumenten), hat es folgende Angaben zu machen:
+a) 
+
+Art und Höhe der gewährten Unterstützung, einschließlich Situationen, in denen das Unternehmen dem strukturierten Unternehmen bei der Beschaffung finanzieller Unterstützung behilflich war, und
+b) 
+
+die Gründe für diese Unterstützung.
+
+31 Ein Unternehmen hat etwaige gegenwärtige Absichten, ein konsolidiertes strukturiertes Unternehmen finanziell oder in anderer Weise zu unterstützen, anzugeben, einschließlich der Absicht, dem strukturierten Unternehmen bei der Beschaffung finanzieller Unterstützung behilflich zu sein.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Erträge aus einem strukturiertem Unternehmen
+	
+
+Für die Zwecke dieses IFRS umfassen Erträge aus einem strukturierten Unternehmen unter anderem wiederkehrende und nicht wiederkehrende Entgelte, Zinsen, Dividenden, Gewinne oder Verluste aus der Neubewertung oder Ausbuchung von Anteilen an strukturierten Unternehmen und Gewinne oder Verluste aus der Übertragung von Vermögenswerten und Schulden auf das strukturierte Unternehmen.
+
+Anteil an einem anderen Unternehmen
+	
+
+Für die Zwecke dieses IFRS bezeichnet ein Anteil an einem anderen Unternehmen ein vertragliches und nichtvertragliches Engagement, durch das ein Unternehmen schwankenden Renditen aus der Tätigkeit des anderen Unternehmens ausgesetzt ist. Ein Anteil an einem anderen Unternehmen kann unter anderem durch das Halten von Eigenkapital- oder Schuldinstrumenten sowie durch andere Formen des Engagements wie die Bereitstellung von Finanzmitteln, Liquiditätshilfen, Kreditsicherheiten und Garantien nachgewiesen werden. Dazu zählen Instrumente, mit denen ein Unternehmen ein anderes Unternehmen beherrscht, an seiner gemeinschaftlichen Führung beteiligt ist oder maßgeblichen Einfluss auf das Unternehmen hat. Ein Unternehmen hält nicht notwendigerweise einen Anteil an einem anderen Unternehmen, nur weil eine typische Kunden-Lieferanten-Beziehung besteht.
+
+Die Paragraphen B7–B9 enthalten weitere Informationen über Anteile an anderen Unternehmen.
+
+Die Paragraphen B55–B57 von IFRS 10 enthalten Erläuterungen zu schwankenden Renditen.
+
+Strukturiertes Unternehmen
+	
+
+Ein Unternehmen, das so konzipiert ist, dass Stimmrechte oder ähnliche Rechte bei der Entscheidung, wer das Unternehmen beherrscht, nicht der ausschlaggebende Faktor sind, beispielsweise, wenn sich die Stimmrechte lediglich auf die Verwaltungsaufgaben beziehen und die maßgeblichen Tätigkeiten durch vertragliche Vereinbarungen geregelt werden.
+
+Die Paragraphen B22–B24 enthalten weitere Informationen über strukturierte Unternehmen.
+
+Die folgenden Begriffe werden in IAS 27 (in der 2011 geänderten Fassung), IAS 28 (in der 2011 geänderten Fassung), IFRS 10 und IFRS 11 Gemeinschaftliche Vereinbarungen definiert und werden im vorliegenden IFRS in der in den genannten IFRS angegebenen Bedeutung verwendet:
+— 
+Assoziiertes Unternehmen,
+— 
+Konzernabschluss,
+— 
+Beherrschung eines Unternehmens,
+— 
+Equity-Methode,
+— 
+Konzern,
+— 
+Investmentgesellschaft,
+— 
+Gemeinschaftliche Vereinbarung,
+— 
+Gemeinschaftliche Führung,
+— 
+Gemeinschaftliche Tätigkeit,
+— 
+Gemeinschaftsunternehmen,
+— 
+Nicht beherrschender Anteil,
+— 
+Mutterunternehmen,
+— 
+Schutzrechte,
+— 
+Maßgebliche Tätigkeiten,
+— 
+Einzelabschluss,
+— 
+Eigenständiges Vehikel,
+— 
+Maßgeblicher Einfluss,
+— 
+Tochterunternehmen.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des IFRS. Er beschreibt die Anwendung der Paragraphen 1–31 und hat die gleiche bindende Kraft wie die anderen Teile des IFRS.
+
+B1 Die Beispiele in diesem Anhang sind hypothetisch. Wenngleich einige Aspekte der Beispiele tatsächlichen Gegebenheiten ähneln könnten, müssen bei der Anwendung von IFRS 12 alle maßgeblichen Sachverhalte und Umstände bestimmter Gegebenheiten bewertet werden.
+
+ZUSAMMENFASSUNG (PARAGRAPH 4)
+
+B2 Ein Unternehmen hat mit Blick auf seine Lage zu entscheiden, wie viele Details es angeben muss, um den Informationsbedarf der Abschlussadressaten zu decken, wie viel Gewicht es auf einzelne Aspekte der Vorschriften legt und wie es die Informationen zusammenfasst. Dabei dürfen die Abschlüsse weder mit zu vielen Details überfrachtet werden, die für die Abschlussadressaten möglicherweise nicht nützlich sind, noch dürfen Informationen durch zu starke Zusammenfassung verschleiert werden.
+
+B3 Ein Unternehmen kann die in diesem IFRS verlangten Angaben im Hinblick auf Anteile an ähnlichen Unternehmen zusammenfassen, wenn eine solche Zusammenfassung mit dem Ziel der Angaben und der in Paragraph B4 genannten Anforderung im Einklang steht und die Angaben nicht verschleiert. Ein Unternehmen hat anzugeben, wie es die Anteile an ähnlichen Unternehmen zusammengefasst hat.
+
+B4 Ein Unternehmen hat die Informationen gesondert anzugeben für Anteile an
+a) 
+
+Tochterunternehmen,
+b) 
+
+Gemeinschaftsunternehmen,
+c) 
+
+gemeinschaftlichen Tätigkeiten,
+d) 
+
+assoziierten Unternehmen und
+e) 
+
+nicht konsolidierten strukturierten Unternehmen.
+
+B5 Bei der Bestimmung, ob Informationen zusammenzufassen sind, hat ein Unternehmen quantitative und qualitative Informationen zu den verschiedenen Risiko- und Ertragsmerkmalen der einzelnen Unternehmen, die es für eine Zusammenfassung in Betracht zieht, sowie die Bedeutung der einzelnen Unternehmen für das berichtende Unternehmen zu berücksichtigen. Das Unternehmen hat die Angaben in der Weise darzustellen, dass Art und Umfang seiner Anteile an diesen anderen Unternehmen für die Abschlussadressaten klar ersichtlich werden.
+
+B6 Beispiele für Ebenen der Zusammenfassung innerhalb der in Paragraph B4 genannten Unternehmenskategorien, die als zweckmäßig angesehen werden könnten, sind
+a) 
+
+Art der Tätigkeiten (z. B. Forschungs- und Entwicklungsunternehmen, Unternehmen für die revolvierende Verbriefung von Kreditkartenforderungen),
+b) 
+
+Einstufung nach Branche,
+c) 
+
+geografisches Gebiet (z. B. Land oder Region).
+
+ANTEILE AN ANDEREN UNTERNEHMEN
+
+B7 Ein Anteil an einem anderen Unternehmen bezieht sich auf ein vertragliches und nichtvertragliches Engagement, durch das das berichtende Unternehmen schwankenden Renditen aus der Tätigkeit des anderen Unternehmens ausgesetzt ist. Die Berücksichtigung von Zweck und Ausgestaltung des anderen Unternehmens kann dem berichtenden Unternehmen bei der Beurteilung helfen, ob es einen Anteil an dem anderen Unternehmen hält und folglich die in diesem IFRS verlangten Angaben zu machen hat. Bei dieser Beurteilung sind die Risiken zu berücksichtigen, die das andere Unternehmen aufgrund seiner Ausgestaltung verursacht, sowie die Risiken, die das andere Unternehmen aufgrund seiner Ausgestaltung an das berichtende Unternehmen und sonstige Parteien überträgt.
+
+B8 Durch das Halten von Instrumenten (wie z. B. von einem anderen Unternehmen emittierte Eigenkapital- oder Schuldinstrumente) oder ein anderes Engagement, das zur Absorbierung von Schwankungen führt, ist ein berichtendes Unternehmen in der Regel schwankenden Renditen aus der Tätigkeit des anderen Unternehmens ausgesetzt. Beispielsweise könnte angenommen werden, dass ein strukturiertes Unternehmen ein Kreditportfolio hält. Das strukturierte Unternehmen geht mit einem anderen Unternehmen (dem berichtenden Unternehmen) einen Credit Default Swap ein, um sich gegen den Ausfall von Zins- und Tilgungszahlungen auf die Kredite abzusichern. Das berichtende Unternehmen hat ein Engagement, durch das es schwankenden Renditen aus der Tätigkeit des strukturierten Unternehmens ausgesetzt ist, denn der Credit Default Swap absorbiert die Schwankungen der Renditen des strukturierten Unternehmens.
+
+B9 Einige Instrumente sind so konzipiert, dass sie Risiko von einem berichtenden Unternehmen auf ein anderes Unternehmen übertragen. Derlei Instrumente bewirken schwankende Renditen für das andere Unternehmen, setzen aber das berichtende Unternehmen in der Regel nicht schwankenden Renditen aus der Tätigkeit des anderen Unternehmens aus. Man stelle sich z. B. vor, ein strukturiertes Unternehmen wird gegründet, um Investoren Anlagemöglichkeiten zu eröffnen, die eine Exponierung gegenüber dem Kreditrisiko von Unternehmen Z wünschen (Unternehmen Z steht keiner der an der Vereinbarung beteiligten Partei nahe). Das strukturierte Unternehmen erhält Finanzmittel durch die Ausgabe von an das Kreditrisiko des Unternehmens Z gebundenen Papieren (Credit-Linked Notes) und investiert den Erlös in ein Portfolio aus risikolosen finanziellen Vermögenswerten. Das strukturierte Unternehmen erhält eine Exponierung gegenüber dem Kreditrisiko von Unternehmen Z, indem es mit einer Swap-Gegenpartei einen Credit Default Swap (CDS) abschließt. Durch den CDS geht das Kreditrisiko von Unternehmen Z gegen ein von der Swap-Gegenpartei gezahltes Entgelt auf das strukturierte Unternehmen über. Die Investoren des strukturierten Unternehmens erhalten eine höhere Rendite, die sowohl den Ertrag des strukturierten Unternehmens aus seinem Portfolio an Vermögenswerten als auch das CDS-Entgelt widerspiegelt. Die Swap-Gegenpartei steht mit dem strukturierten Unternehmen in keiner Verbindung, die sie schwankenden Renditen aus der Tätigkeit des strukturierten Unternehmens aussetzt, da der CDS die Schwankungen auf das strukturierte Unternehmen überträgt anstatt die Schwankungen der Renditen des strukturierten Unternehmens zu absorbieren.
+
+FINANZINFORMATIONEN FÜR TOCHTERUNTERNEHMEN, GEMEINSCHAFTSUNTERNEHMEN UND ASSOZIIERTE UNTERNEHMEN IN ZUSAMMENGEFASSTER FORM (PARAGRAPHEN 12 UND 21)
+
+B10 Für jedes Tochterunternehmen, an dem für das berichtende Unternehmen wesentliche nicht beherrschende Anteile bestehen, hat ein Unternehmen folgende Angaben zu machen:
+a) 
+
+nicht beherrschenden Anteilen zugewiesene Dividenden,
+b) 
+
+Finanzinformationen in zusammengefasster Form zu Vermögenswerten, Schulden, Gewinn oder Verlust und Zahlungsströmen des Tochterunternehmens, die die Abschlussadressaten in die Lage versetzen zu verstehen, welchen Anteil die nicht beherrschenden Anteile an den Tätigkeiten und Zahlungsströmen des Konzerns haben. Zu diesen Informationen könnten beispielsweise Angaben zu den kurzfristigen Vermögenswerten, langfristigen Vermögenswerten, kurzfristigen Schulden, langfristigen Schulden, Erlösen, Gewinn oder Verlust und zum Gesamtergebnis zählen.
+
+B11 Bei den nach Paragraph B10(b) verlangten Finanzinformationen in zusammengefasster Form handelt es sich um die Beträge vor konzerninternen Eliminierungen vorgenommen werden.
+
+B12 Für jedes Gemeinschaftsunternehmen und jedes assoziierte Unternehmen, das für das berichtende Unternehmen wesentlich ist, hat ein Unternehmen folgende Angaben zu machen:
+a) 
+
+von dem Gemeinschaftsunternehmen oder assoziierten Unternehmen erhaltene Dividenden,
+b) 
+
+Finanzinformationen in zusammengefasster Form für das Gemeinschaftsunternehmen oder assoziierte Unternehmen (siehe Paragraphen B14 und B15), die Folgendes beinhalten, ohne notwendigerweise darauf beschränkt zu sein:
+i) 
+
+kurzfristige Vermögenswerte,
+ii) 
+
+langfristige Vermögenswerte,
+iii) 
+
+kurzfristige Schulden,
+iv) 
+
+langfristige Schulden,
+v) 
+
+Erlöse,
+vi) 
+
+Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen,
+vii) 
+
+Gewinn oder Verlust nach Steuern aus aufgegebenen Geschäftsbereichen,
+viii) 
+
+sonstiges Ergebnis,
+ix) 
+
+Gesamtergebnis.
+
+B13 Zusätzlich zu den Finanzinformationen in zusammengefasster Form nach Paragraph B12 hat ein Unternehmen für jedes Gemeinschaftsunternehmen, das für das berichtende Unternehmen wesentlich ist, den Betrag folgender Posten anzugeben:
+a) 
+
+in Paragraph B12(b)(i) enthaltene Zahlungsmittel und Zahlungsmitteläquivalente,
+b) 
+
+in Paragraph B12(b)(iii) enthaltene kurzfristige finanzielle Verbindlichkeiten (mit Ausnahme von Verbindlichkeiten aus Lieferungen und Leistungen und sonstigen Verbindlichkeiten sowie Rückstellungen),
+c) 
+
+in Paragraph B12(b)(iv) enthaltene langfristige finanzielle Verbindlichkeiten (mit Ausnahme von Verbindlichkeiten aus Lieferungen und Leistungen und sonstigen Verbindlichkeiten sowie Rückstellungen),
+d) 
+
+planmäßige Abschreibungen,
+e) 
+
+Zinserträge,
+f) 
+
+Zinsaufwendungen,
+g) 
+
+Ertragsteueraufwand oder -ertrag.
+
+B14 Bei den gemäß den Paragraphen B12 und B13 dargestellten Finanzinformationen in zusammengefasster Form handelt es sich um die Beträge, die im IFRS-Abschluss des Gemeinschaftsunternehmens oder assoziierten Unternehmens enthalten sind (und nicht um den Anteil des Unternehmens an diesen Beträgen). Bilanziert ein Unternehmen seinen Anteil an Gemeinschaftsunternehmen oder assoziierten Unternehmen nach der Equity-Methode, so
+a) 
+
+sind die Beträge, die im IFRS-Abschluss des Gemeinschaftsunternehmens oder assoziierten Unternehmens enthalten sind, anzupassen, um den von dem Unternehmen im Rahmen der Equity-Methode vorgenommenen Änderungen Rechnung zu tragen, wie z. B. Anpassungen an den beizulegenden Zeitwert, die zum Zeitpunkt des Erwerbs vorgenommen wurden, und Anpassungen wegen unterschiedlicher Rechnungslegungsmethoden,
+b) 
+
+hat das Unternehmen eine Überleitungsrechnung von den dargestellten Finanzinformationen in zusammengefasster Form auf den Buchwert seines Anteils an dem Gemeinschaftsunternehmen oder assoziierten Unternehmen vorzulegen.
+
+B15 Ein Unternehmen kann die in den Paragraphen B12 und Paragraph B13 verlangten Finanzinformationen in zusammengefasster Form auf der Grundlage des Abschlusses des Gemeinschaftsunternehmens oder assoziierten Unternehmens darstellen, wenn
+a) 
+
+das Unternehmen seinen Anteil am Gemeinschaftsunternehmen oder assoziierten Unternehmen zum beizulegenden Zeitwert gemäß IAS 28 (in der 2011 geänderten Fassung) bewertet und
+b) 
+
+das Gemeinschaftsunternehmen oder assoziierte Unternehmen keinen IFRS-Abschluss aufstellt und eine Erstellung auf dieser Grundlage nicht durchführbar wäre oder mit unangemessenen Kosten verbunden wäre.
+
+In diesem Fall hat das Unternehmen anzugeben, auf welcher Grundlage die Finanzinformationen in zusammengefasster Form erstellt wurden.
+
+B16 Ein Unternehmen hat den Gesamtbuchwert seiner Anteile an sämtlichen einzeln für sich genommen unwesentlichen Gemeinschaftsunternehmen oder assoziierten Unternehmen anzugeben, die nach der Equity-Methode bilanziert werden. Ein Unternehmen hat zudem gesondert den Gesamtbetrag seines Anteils an folgenden Posten dieser Gemeinschaftsunternehmen oder assoziierten Unternehmen anzugeben:
+a) 
+
+Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen,
+b) 
+
+Gewinn oder Verlust nach Steuern aus aufgegebenen Geschäftsbereichen,
+c) 
+
+sonstiges Ergebnis,
+d) 
+
+Gesamtergebnis.
+
+Ein Unternehmen hat diese Angaben für Gemeinschaftsunternehmen und assoziierte Unternehmen getrennt zu machen.
+
+B17 Wenn ein Anteil eines Unternehmens an einem Tochterunternehmen, Gemeinschaftsunternehmen oder assoziierten Unternehmen (oder ein Teil seines Anteils an einem Gemeinschaftsunternehmen oder assoziierten Unternehmen) gemäß IFRS 5 als zur Veräußerung gehalten eingestuft ist (oder zu einer Veräußerungsgruppe gehört, die als zur Veräußerung gehalten eingestuft ist), braucht das Unternehmen für dieses Tochterunternehmen, Gemeinschaftsunternehmen oder assoziierte Unternehmen die zusammengefassten Finanzinformationen gemäß den Paragraphen B10–B16 nicht anzugeben.
+
+VERPFLICHTUNGEN FÜR GEMEINSCHAFTSUNTERNEHMEN (PARAGRAPH 23(a))
+
+B18 Ein Unternehmen hat seine gesamten Verpflichtungen in Bezug auf seine Anteile an Gemeinschaftsunternehmen anzugeben, die es zum Abschlussstichtag eingegangen ist, aber nicht angesetzt hat (einschließlich seines Anteils an den Verpflichtungen, die gemeinsam mit anderen Investoren eingegangen wurden, die an der gemeinschaftlichen Führung eines Gemeinschaftsunternehmens beteiligt sind). Bei den Verpflichtungen handelt es sich um solche, die zu einem künftigen Abfluss von Zahlungsmitteln oder anderen Ressourcen führen können.
+
+B19 Bei den nicht angesetzten Verpflichtungen, die zu einem künftigen Abfluss von Zahlungsmitteln oder anderen Ressourcen führen können, handelt es sich unter anderem um
+a) 
+
+nicht angesetzte Verpflichtungen, Finanzmittel oder Ressourcen bereitzustellen, die sich z. B. ergeben aus
+i) 
+
+Vereinbarungen zur Gründung oder zum Erwerb eines Gemeinschaftsunternehmens (die beispielsweise ein Unternehmen verpflichten, Finanzmittel über einen bestimmten Zeitraum bereitzustellen),
+ii) 
+
+von einem Gemeinschaftsunternehmen durchgeführte kapitalintensive Projekte,
+iii) 
+
+unbedingte Kaufverpflichtungen für den Bezug von Ausrüstung, Vorräten oder Dienstleistungen, die ein Unternehmen verpflichtet ist, von einem Gemeinschaftsunternehmen oder in dessen Namen zu erwerben,
+iv) 
+
+nicht angesetzte Verpflichtungen, einem Gemeinschaftsunternehmen Darlehen oder andere Finanzmittel zur Verfügung zu stellen,
+v) 
+
+nicht angesetzte Verpflichtungen, einem Gemeinschaftsunternehmen Ressourcen z. B. in Form von Vermögenswerten oder Dienstleistungen zuzuführen,
+vi) 
+
+sonstige unkündbare nicht angesetzte Verpflichtungen in Bezug auf ein Gemeinschaftsunternehmen,
+b) 
+
+nicht angesetzte Verpflichtungen, den Eigentumsanteil (oder einen Teil des Eigentumsanteils) einer anderen Partei an einem Gemeinschaftsunternehmen zu erwerben, sollte ein bestimmtes Ereignis in der Zukunft eintreten oder nicht eintreten.
+
+B20 Die Vorschriften und Beispiele der Paragraphen B18 und B19 verdeutlichen einige Arten der Angaben, die in Paragraph 18 von IAS 24 Angaben über Beziehungen zu nahestehenden Unternehmen und Personen verlangt werden.
+
+ANTEILE AN NICHT KONSOLIDIERTEN STRUKTURIERTEN UNTERNEHMEN (PARAGRAPHEN 24–31)
+
+Strukturierte Unternehmen
+
+B21 Ein strukturiertes Unternehmen ist ein Unternehmen, das so konzipiert ist, dass Stimmrechte oder ähnliche Rechte bei der Entscheidung, wer das Unternehmen beherrscht, nicht der ausschlaggebende Faktor sind, beispielsweise, wenn sich die Stimmrechte lediglich auf die Verwaltungsaufgaben beziehen und die maßgeblichen Tätigkeiten durch vertragliche Vereinbarungen geregelt werden.
+
+B22 Ein strukturiertes Unternehmen zeichnet sich oftmals durch einige oder sämtliche der nachfolgend genannten Merkmale oder Eigenschaften aus:
+a) 
+
+beschränkte Tätigkeiten,
+b) 
+
+enger und genau definierter Zweck, z. B. Vornahme eines steuereffizienten Leasinggeschäfts, Durchführung von Forschungs- und Entwicklungstätigkeiten, Bereitstellung einer Kapital- oder Finanzierungsquelle für ein Unternehmen oder Schaffung von Anlagemöglichkeiten für Investoren durch Übertragung von Risiken und Chancen, die mit den Vermögenswerten des strukturierten Unternehmens in Verbindung stehen, auf die Investoren,
+c) 
+
+unzureichendes Eigenkapital, sodass dem strukturierten Unternehmen die Finanzierung seiner Tätigkeiten nicht ohne nachrangige finanzielle Unterstützung möglich ist,
+d) 
+
+Finanzierung durch Investoren in Form von mehreren vertraglich verknüpften Instrumenten, die eine Konzentration von Kreditrisiken oder anderen Risiken bewirken (Tranchen).
+
+B23 Beispiele von Unternehmen, die als strukturierte Unternehmen angesehen werden, umfassen folgende Formen, ohne darauf beschränkt zu sein:
+a) 
+
+Verbriefungsgesellschaften,
+b) 
+
+mit Vermögenswerten unterlegte Finanzierungen,
+c) 
+
+einige Investmentfonds.
+
+B24 Ein durch Stimmrechte beherrschtes Unternehmen ist nicht einfach deshalb ein strukturiertes Unternehmen, weil es beispielsweise infolge einer Umstrukturierung Finanzmittel vonseiten Dritter erhält.
+
+Art der Risiken, die sich aus Anteilen an nicht konsolidierten strukturierten Unternehmen ergeben (Paragraphen 29–31)
+
+B25 Zusätzlich zu den in den Paragraphen 29–31 verlangten Angaben hat ein Unternehmen weitere Informationen anzugeben, die erforderlich sind, um die Angabepflichten in Paragraph 24(b) zu erfüllen.
+
+B26 Beispiele für zusätzliche Angaben, die je nach den Umständen für eine Beurteilung der Risiken, denen ein Unternehmen mit Anteilen an einem nicht konsolidierten strukturierten Unternehmen ausgesetzt ist, relevant sein könnten, sind
+a) 
+
+Bedingungen einer Vereinbarung, denen zufolge das Unternehmen verpflichtet sein könnte, einem nicht konsolidierten strukturierten Unternehmen finanzielle Unterstützung zu gewähren (z. B. Liquiditätsvereinbarungen oder Ratingtrigger im Zusammenhang mit Verpflichtungen zum Kauf von Vermögenswerten des strukturierten Unternehmens oder zur Bereitstellung finanzieller Unterstützung), einschließlich
+i) 
+
+einer Beschreibung der Ereignisse oder Umstände, die das berichtende Unternehmen einem Verlust aussetzen könnten,
+ii) 
+
+des Hinweises auf eventuelle Bedingungen, die die Verpflichtung einschränken,
+iii) 
+
+der Angabe, ob es andere Parteien gibt, die eine finanzielle Unterstützung gewähren, und wenn ja, welchen Rang die Verpflichtung des berichtenden Unternehmens im Verhältnis zu den Verpflichtungen der anderen Parteien hat,
+b) 
+
+Verluste, die dem Unternehmen während der Berichtsperiode aus seinen Anteilen an nicht konsolidierten strukturierten Unternehmen entstanden sind,
+c) 
+
+die Arten von Erträgen, die das Unternehmen während der Berichtsperiode aus seinen Anteilen an nicht konsolidierten strukturierten Unternehmen erhalten hat,
+d) 
+
+die Tatsache, ob das Unternehmen verpflichtet ist, Verluste eines nicht konsolidierten strukturierten Unternehmens vor anderen Parteien aufzufangen, die Höchstgrenze dieser Verluste für das Unternehmen und (falls relevant) die Rangfolge und Beträge potenzieller Verluste, die von Parteien getragen werden, deren Anteile dem Anteil des Unternehmens am nicht konsolidierten strukturierten Unternehmen im Rang nachgehen,
+e) 
+
+Informationen zu Liquiditätsvereinbarungen, Garantien oder anderen Verpflichtungen gegenüber Dritten, die sich auf den beizulegenden Zeitwert oder das Risiko der Anteile des Unternehmens an nicht konsolidierten strukturierten Unternehmen auswirken können,
+f) 
+
+die Schwierigkeiten, auf die ein nicht konsolidiertes strukturiertes Unternehmen bei der Finanzierung seiner Tätigkeiten während des Berichtszeitraums gestoßen ist,
+g) 
+
+im Hinblick auf die Finanzierung eines nicht konsolidierten strukturierten Unternehmens die Finanzierungsformen (z. B. Commercial Paper oder mittelfristige Schuldinstrumente) und ihre gewichtete durchschnittliche Laufzeit. Diese Informationen können unter Umständen Fälligkeitsanalysen der Vermögenswerte und der Finanzierung eines nicht konsolidierten strukturierten Unternehmens umfassen, wenn bei letzterem die Fälligkeiten der Finanzierung kürzer sind als die Fälligkeiten der Vermögenswerte.
+
+Anhang C
+
+Zeitpunkt des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil des IFRS und besitzt die gleiche Verbindlichkeit wie dessen andere Bestandteile.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+C1 Dieser IFRS ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig.
+
+C1A  Konzernabschlüsse, Gemeinschaftliche Vereinbarungen und Angaben zu Anteilen an anderen Unternehmen: Mit den Übergangsleitlinien (Änderungen an IFRS 10, IFRS 11 und IFRS 12), veröffentlicht im Juni 2012, wurden die Paragraphen C2A–C2B eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Wendet ein Unternehmen IFRS 12 auf eine frühere Berichtsperiode an, so sind auf diese frühere Periode auch diese Änderungen anzuwenden.
+
+C1B Mit der im Oktober 2012 veröffentlichten Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27) wurden Paragraph 2 und Anhang A geändert und die Paragraphen 9A–9B, 19A–19G, 21A und 25A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben und alle in der Verlautbarung enthaltenen Änderungen gleichzeitig anzuwenden.
+
+C1C Mit der im Dezember 2014 veröffentlichten Verlautbarung Investmentgesellschaften: Anwendung der Ausnahme von der Konsolidierungspflicht (Änderungen an IFRS 10, IFRS 12 und IAS 28) wurde Paragraph 6 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+C1D Durch die Jährlichen Verbesserungen an den IFRS-Standards Zyklus 2014–2016, veröffentlicht im Dezember 2016, wurde Paragraph 5A eingefügt und Paragraph B17 geändert. Diese Änderungen sind gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2017 beginnen.
+
+C2 Einem Unternehmen wird empfohlen, die in diesem IFRS verlangten Informationen vor den Geschäftsjahren beizubringen, die am oder nach dem 1. Januar 2013 beginnen. Die Darstellung einiger der in diesem IFRS verlangten Angaben verpflichtet das Unternehmen nicht, alle Vorschriften dieses IFRS einzuhalten oder IFRS 10, IFRS 11, IAS 27 (in der 2011 geänderten Fassung) und IAS 28 (in der 2011 geänderten Fassung) früher anzuwenden.
+
+C2A Ein Unternehmen muss die Angabepflichten dieses IFRS nicht auf Berichtsperioden anwenden, die vor dem Geschäftsjahr beginnen, das der erstmaligen Anwendung von IFRS 12 unmittelbar vorausgeht.
+
+C2B Die Angabepflichten in den Paragraphen 24–31 sowie die entsprechenden Anwendungsleitlinien in den Paragraphen B21–B26 dieses IFRS müssen nicht auf Berichtsperioden angewendet werden, die vor dem ersten Geschäftsjahr, auf das IFRS 12 angewendet wird, beginnen.
+
+VERWEISE AUF IFRS 9
+
+C3 Wendet ein Unternehmen diesen IFRS, aber noch nicht IFRS 9 an, sind Verweise auf IFRS 9 als Verweise auf IAS 39 Finanzinstrumente: Ansatz und Bewertung zu verstehen.

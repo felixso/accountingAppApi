@@ -1,0 +1,197 @@
+﻿INTERNATIONAL ACCOUNTING STANDARD 27
+
+Einzelabschlüsse
+
+ZIEL
+
+1 Mit diesem Standard sollen die Vorschriften festgelegt werden, die für die Bilanzierung und Darstellung von Beteiligungen an Tochterunternehmen, Gemeinschaftsunternehmen und assoziierten Unternehmen gelten, wenn ein Unternehmen einen Einzelabschluss aufstellt.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist bei der Bilanzierung von Beteiligungen an Tochterunternehmen, Gemeinschaftsunternehmen und assoziierten Unternehmen anzuwenden, wenn ein Unternehmen sich dafür entscheidet oder durch lokale Vorschriften gezwungen ist, einen Einzelabschluss aufzustellen.
+
+3 Der vorliegende Standard schreibt nicht vor, welche Unternehmen Einzelabschlüsse zu erstellen haben. Er ist anzuwenden, wenn ein Unternehmen einen Einzelabschluss aufstellt, der den International Financial Reporting Standards entspricht.
+
+DEFINITIONEN
+
+4   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Ein Konzernabschluss ist der Abschluss eines Konzerns, in dem Vermögenswerte, Schulden, Eigenkapital, Erträge, Aufwendungen und Zahlungsströme des Mutterunternehmens und seiner Tochterunternehmen so dargestellt werden, als handele es sich um ein einziges Unternehmen.
+Einzelabschlüsse sind die von einem Unternehmen aufgestellten Abschlüsse, bei denen das Unternehmen vorbehaltlich der Vorschriften dieses Standards wählen kann, ob es seine Beteiligungen an Tochterunternehmen, Gemeinschaftsunternehmen und assoziierten Unternehmen zu Anschaffungskosten, nach IFRS 9 Finanzinstrumente, oder nach der in IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen beschriebenen Equity-Methode bilanziert.
+
+5 Die folgenden Begriffe sind in Anhang A von IFRS 10 Konzernabschlüsse, Anhang A von IFRS 11 Gemeinschaftliche Vereinbarungen, und Paragraph 3 von IAS 28 definiert:
+— 
+Assoziiertes Unternehmen,
+— 
+Beherrschung eines Beteiligungsunternehmens,
+— 
+Equity-Methode,
+— 
+Konzern,
+— 
+Investmentgesellschaft,
+— 
+Gemeinschaftliche Führung,
+— 
+Gemeinschaftsunternehmen,
+— 
+Gemeinschaftsunternehmen,
+— 
+Mutterunternehmen,
+— 
+Maßgeblicher Einfluss,
+— 
+Tochterunternehmen.
+
+6 Einzelabschlüsse werden zusätzlich zu einem Konzernabschluss oder dem Abschluss eines Investors vorgelegt, der keine Beteiligungen an Tochterunternehmen, sondern Beteiligungen an assoziierten Unternehmen oder Gemeinschaftsunternehmen hält, bei dem die Beteiligungen an assoziierten Unternehmen oder Gemeinschaftsunternehmen gemäß IAS 28 anhand der Equity-Methode zu bilanzieren sind, sofern nicht die in den Paragraphen 8–8A genannten Umstände vorliegen.
+
+7 Der Abschluss eines Unternehmens, das weder ein Tochterunternehmen noch ein assoziiertes Unternehmen besitzt oder Partnerunternehmen eines Gemeinschaftsunternehmens ist, stellt keinen Einzelabschluss dar.
+
+8 Ein Unternehmen, das nach Paragraph 4(a) von IFRS 10 von der Aufstellung eines Konzernabschlusses oder nach Paragraph 17 von IAS 28 (in der 2011 geänderten Fassung) von der Anwendung der Equity-Methode befreit ist, kann einen Einzelabschluss als seinen einzigen Abschluss vorlegen.
+
+8A Eine Investmentgesellschaft, die für die laufende Berichtsperiode und für alle dargestellten Vergleichsperioden verpflichtet ist, für alle ihre Tochterunternehmen die Ausnahme von der Konsolidierung nach Paragraph 31 von IFRS 10 anzuwenden, stellt als ihren einzigen Abschluss einen Einzelabschluss auf.
+
+AUFSTELLUNG EINES EINZELABSCHLUSSES
+
+9   Ein Einzelabschluss ist mit Ausnahme der in Paragraph 10 aufgeführten Fälle gemäß allen maßgeblichen IFRS aufzustellen.
+
+10   Stellt ein Unternehmen einen Einzelabschluss auf, so hat es Beteiligungen an Tochterunternehmen, Gemeinschaftsunternehmen und assoziierten Unternehmen entweder
+a) 
+
+zu Anschaffungskosten oder
+b) 
+
+gemäß IFRS 9 oder
+c) 
+
+anhand der in IAS 28 beschriebenen Equity-Methode zu bilanzieren.
+
+Ein Unternehmen muss für alle Kategorien von Beteiligungen dieselben Rechnungslegungsmethoden anwenden. Zu Anschaffungskosten oder anhand der Equity-Methode bilanzierte Beteiligungen sind nach IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche zu bilanzieren, wenn sie als zur Veräußerung oder zur Ausschüttung gehalten eingestuft werden (oder zu einer Veräußerungsgruppe gehören, die als zur Veräußerung oder zur Ausschüttung gehalten eingestuft ist). Die Bewertung der nach IFRS 9 bilanzierten Beteiligungen wird unter diesen Umständen beibehalten.
+
+11 Entscheidet sich ein Unternehmen nach Paragraph 18 von IAS 28 (in der 2011 geänderten Fassung) dafür, seine Beteiligungen an assoziierten Unternehmen oder Gemeinschaftsunternehmen nach IFRS 9 erfolgswirksam zum beizulegenden Zeitwert zu bewerten, so hat es diese Beteiligungen in seinem Einzelabschluss in derselben Weise zu bilanzieren.
+
+11A Ist ein Mutterunternehmen nach Paragraph 31 von IFRS 10 verpflichtet, seine Beteiligung an einem Tochterunternehmen nach IFRS 9 erfolgswirksam zum beizulegenden Zeitwert zu bewerten, so hat diese Beteiligung an einem Tochterunternehmen in seinem Einzelabschluss in derselben Weise zu bilanzieren.
+
+11B Ein Mutterunternehmen, das den Status einer Investmentgesellschaft verliert oder erwirbt, hat diese Änderung seines Status ab dem Zeitpunkt, zu dem diese Änderung eintritt, wie folgt zu bilanzieren:
+a) 
+
+Wenn ein Unternehmen den Status einer Investmentgesellschaft verliert, hat es seine Beteiligung an einem Tochterunternehmen nach Paragraph 10 zu bilanzieren. Der Zeitpunkt der Statusänderung gilt als fiktives Erwerbsdatum. Bei der Bilanzierung der Beteiligung nach Paragraph 10 stellt der beizulegende Zeitwert des Tochterunternehmens zum fiktiven Erwerbsdatum die übertragene fiktive Gegenleistung dar.
+i) 
+
+[gestrichen]
+ii) 
+
+[gestrichen]
+b) 
+
+Wenn ein Unternehmen den Status einer Investmentgesellschaft erwirbt, hat es eine Beteiligung an einem Tochterunternehmen nach IFRS 9 erfolgswirksam zum beizulegenden Zeitwert zu bilanzieren. Die Differenz zwischen dem bisherigen Buchwert des Tochterunternehmens und seinem beizulegenden Zeitwert zum Zeitpunkt der Statusänderung des Investors ist als Gewinn oder Verlust erfolgswirksam zu erfassen. Der kumulierte Betrag eines etwaigen zuvor im sonstigen Ergebnis für diese Tochterunternehmen erfassten Gewinns oder Verlusts wird so behandelt, als hätte die Investmentgesellschaft diese Tochterunternehmen zum Zeitpunkt der Statusänderung veräußert.
+
+12   Dividenden aus einem Tochterunternehmen, einem Gemeinschaftsunternehmen oder einem assoziierten Unternehmen sind im Einzelabschluss des Unternehmens zu erfassen, wenn dem Unternehmen der Rechtsanspruch auf die Dividende entsteht. Die Dividende wird erfolgswirksam erfasst, sofern das Unternehmen sich nicht für die Anwendung der Equity-Methode entscheidet, bei der die Dividende als Verminderung des Buchwerts der Beteiligung erfasst wird.
+
+13 Strukturiert ein Mutterunternehmen seinen Konzern um, indem es ein neues Unternehmen als Mutterunternehmen einsetzt, und dabei
+a) 
+
+das neue Mutterunternehmen durch Ausgabe von Eigenkapitalinstrumenten im Tausch gegen bestehende Eigenkapitalinstrumente des ursprünglichen Mutterunternehmens die Beherrschung über das ursprüngliche Mutterunternehmen erlangt,
+b) 
+
+die Vermögenswerte und Schulden des neuen Konzerns und des ursprünglichen Konzerns unmittelbar vor und nach der Umstrukturierung gleich sind und
+c) 
+
+die Eigentümer des ursprünglichen Mutterunternehmens vor der Umstrukturierung unmittelbar vor und nach der Umstrukturierung die gleichen Anteile (absolut wie relativ) am Nettovermögen des ursprünglichen bzw. des neuen Konzerns halten,
+
+und das neue Mutterunternehmen seine Beteiligung am ursprünglichen Mutterunternehmen nach Paragraph 10a in seinem Einzelabschluss erfasst, so hat das neue Mutterunternehmen als Anschaffungskosten den Buchwert seiner Beteiligung an den Eigenkapitalposten anzusetzen, die zum Zeitpunkt der Umstrukturierung im Einzelabschluss des ursprünglichen Mutterunternehmens ausgewiesen sind.
+
+14 Auch ein Unternehmen, bei dem es sich nicht um ein Mutterunternehmen handelt, könnte ein neues Unternehmen als sein Mutterunternehmen einsetzen und dabei die in Paragraph 13 genannten Kriterien erfüllen. Für solche Umstrukturierungen gelten die Vorschriften des Paragraphen 13 ebenfalls. Verweise auf das „ursprüngliche Mutterunternehmen“ und den „ursprünglichen Konzern“ sind in einem solchen Fall als Verweise auf das „ursprüngliche Unternehmen“ zu verstehen.
+
+ANGABEN
+
+15   Ein Unternehmen hat bei den Angaben in seinem Einzelabschluss alle maßgeblichen IFRS, einschließlich der Vorschriften in den Paragraphen 16 und 17, anzuwenden.
+
+16   Entscheidet sich ein Mutterunternehmen nach Paragraph 4 von IFRS 10, keinen Konzernabschluss aufzustellen, und stellt es stattdessen einen Einzelabschluss auf, so muss dieser folgende Angaben enthalten:
+a) 
+
+die Tatsache, dass es sich bei dem Abschluss um einen Einzelabschluss handelt; dass von der Befreiung von der Konsolidierung Gebrauch gemacht wurde; Name und Hauptniederlassung (und Gründungsland, falls abweichend) des Unternehmens, dessen Konzernabschluss nach den Vorschriften der International Financial Reporting Standards zu Veröffentlichungszwecken erstellt wurde; und die Anschrift, unter welcher der Konzernabschluss erhältlich ist,
+b) 
+
+eine Auflistung bedeutender Beteiligungen an Tochterunternehmen, Gemeinschaftsunternehmen und assoziierten Unternehmen unter Angabe
+i) 
+
+des Namens dieser Beteiligungsunternehmen,
+ii) 
+
+der Hauptniederlassung (und Gründungsland, falls abweichend) dieser Beteiligungsunternehmen,
+iii) 
+
+seiner Beteiligungsquote (und seiner Stimmrechtsquote, falls abweichend) an diesen Beteiligungsunternehmen,
+c) 
+
+eine Beschreibung der Bilanzierungsmethode der unter (b) aufgeführten Beteiligungen.
+
+16A   Stellt eine Investmentgesellschaft, bei der es sich um ein Mutterunternehmen (jedoch kein Mutterunternehmen im Sinne von Paragraph 16) handelt, nach Paragraph 8A einen Einzelabschluss als ihren einzigen Abschluss auf, so hat sie dies anzugeben. In diesem Fall hat die Investmentgesellschaft auch die Angabepflichten für Investmentgesellschaften in IFRS 12 Angaben zu Anteilen an anderen Unternehmen zu erfüllen.
+
+17   Stellt ein Mutterunternehmen (bei dem es sich nicht um ein Mutterunternehmen im Sinne der Paragraphen 16–16A handelt) oder ein Investor, der an der gemeinschaftlichen Führung eines Beteiligungsunternehmens beteiligt ist oder einen maßgeblichen Einfluss auf ein Beteiligungsunternehmen hat, Einzelabschlüsse auf, so hat das Mutterunternehmen oder der Investor anzugeben, welche der Abschlüsse, auf die sie sich beziehen, nach IFRS 10, IFRS 11 oder IAS 28 (in der 2011 geänderten Fassung) aufgestellt wurden. Das Mutterunternehmen oder der Investor hat in seinem Einzelabschluss zusätzlich folgende Angaben zu machen:
+a) 
+
+die Tatsache, dass es sich bei den Abschlüssen um Einzelabschlüsse handelt und die Gründe, warum die Abschlüsse aufgestellt wurden, sofern nicht gesetzlich vorgeschrieben,
+b) 
+
+eine Auflistung bedeutender Beteiligungen an Tochterunternehmen, Gemeinschaftsunternehmen und assoziierten Unternehmen unter Angabe
+i) 
+
+des Namens dieser Beteiligungsunternehmen,
+ii) 
+
+der Hauptniederlassung (und Gründungsland, falls abweichend) dieser Beteiligungsunternehmen,
+iii) 
+
+seiner Beteiligungsquote (und seiner Stimmrechtsquote, falls abweichend) an diesen Beteiligungsunternehmen,
+c) 
+
+eine Beschreibung der Bilanzierungsmethode der unter (b) aufgeführten Beteiligungen.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+18 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen Standard früher an, hat es dies anzugeben und IFRS 10, IFRS 11, IFRS 12 und IAS 28 (in der 2011 geänderten Fassung) gleichzeitig anzuwenden.
+
+18A Durch die im Oktober 2012 veröffentlichte Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27) wurden die Paragraphen 5, 6, 17 und 18 geändert und die Paragraphen 8A, 11A–11B, 16A und 18B–18I eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben und alle in der Verlautbarung Investmentgesellschaften enthaltenen Änderungen gleichzeitig anzuwenden.
+
+18B Kommt ein Mutterunternehmen zum Zeitpunkt der erstmaligen Anwendung der durch die Verlautbarung Investmentgesellschaften vorgenommenen Änderungen (für die Zwecke dieses IFRS ist dies der Beginn des Geschäftsjahrs, für das diese Änderungen erstmals angewendet werden) zu dem Schluss, dass es eine Investmentgesellschaft ist, hat es auf seine Beteiligung an einem Tochterunternehmen die Paragraphen 18C–18I anzuwenden.
+
+18C Zum Zeitpunkt der erstmaligen Anwendung hat eine Investmentgesellschaft, die ihre Beteiligung an einem Tochterunternehmen bisher zu Anschaffungskosten bewertet hat, diese Beteiligung erfolgswirksam zum beizulegenden Zeitwert zu bewerten, als ob die Vorschriften dieses IFRS schon immer in Kraft gewesen wären. Die Investmentgesellschaft nimmt rückwirkend eine Anpassung für das dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgehende Geschäftsjahr sowie eine Anpassung der Gewinnrücklagen zu Beginn der unmittelbar vorausgehenden Periode um eine etwaige Differenz zwischen folgenden Werten vor:
+a) 
+
+dem bisherigen Buchwert der Beteiligung und
+b) 
+
+dem beizulegenden Zeitwert der Beteiligung des Investors an dem Tochterunternehmen.
+
+18D Zum Zeitpunkt der erstmaligen Anwendung hat eine Investmentgesellschaft, die ihre Beteiligung an einem Tochterunternehmen bisher zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet hat, diese Beteiligung auch weiterhin zum beizulegenden Zeitwert zu bewerten. Der kumulierte Betrag etwaiger Anpassungen des beizulegenden Zeitwerts, der bisher im sonstigen Ergebnis erfasst wurde, ist zu Beginn des dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgehenden Geschäftsjahrs in die Gewinnrücklagen umzugliedern.
+
+18E Zum Zeitpunkt der erstmaligen Anwendung darf eine Investmentgesellschaft ihre bisherige Bilanzierung eines Anteils an einem Tochterunternehmen, für den sie bisher die in Paragraph 10 vorgesehene Möglichkeit zur erfolgswirksamen Bewertung zum beizulegenden Zeitwert gemäß IFRS 9 in Anspruch genommen hat, nicht anpassen.
+
+18F Bis zur erstmaligen Anwendung von IFRS 13 Bewertung zum beizulegenden Zeitwert hat eine Investmentgesellschaft die beizulegenden Zeitwerte zu verwenden, die bisher den Investoren oder dem Management vorgelegt wurden, sofern diese Werte dem Betrag entsprechen, zu dem die Beteiligung am Tag der Bewertung zwischen sachverständigen, vertragswilligen und voneinander unabhängigen Geschäftspartnern zu marktüblichen Bedingungen hätte getauscht werden können.
+
+18G Ist die Bewertung einer Beteiligung an einem Tochterunternehmen gemäß den Paragraphen 18C–18F undurchführbar (im Sinne von IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler), hat eine Investmentgesellschaft die Vorschriften dieses IFRS zu Beginn der frühsten Periode anzuwenden, für die eine Anwendung der Paragraphen 18C–18F durchführbar ist; dies kann die aktuelle Berichtsperiode sein. Der Investor hat rückwirkend eine Anpassung für das Geschäftsjahr vorzunehmen, das dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgeht, es sei denn, der Beginn der frühesten Periode, für die die Anwendung dieses Paragraphen durchführbar ist, ist die aktuelle Berichtsperiode. Liegt der Zeitpunkt, zu dem die Ermittlung des beizulegenden Zeitwerts des Tochterunternehmens für die Investmentgesellschaft durchführbar ist, vor dem Beginn der unmittelbar vorausgehenden Berichtsperiode, hat der Investor zu Beginn der unmittelbar vorausgehenden Berichtsperiode eine Anpassung des Eigenkapitals um eine etwaige Differenz zwischen folgenden Werten vorzunehmen:
+a) 
+
+dem bisherigen Buchwert der Beteiligung und
+b) 
+
+dem beizulegenden Zeitwert der Beteiligung des Investors an dem Tochterunternehmen.
+
+Ist die früheste Periode, für die eine Anwendung dieses Paragraphen durchführbar ist, die aktuelle Berichtsperiode, so ist die Anpassung des Eigenkapitals zu Beginn der aktuellen Berichtsperiode zu erfassen.
+
+18H Hat eine Investmentgesellschaft vor dem Zeitpunkt der erstmaligen Anwendung der durch die Verlautbarung Investmentgesellschaften vorgenommenen Änderungen eine Beteiligung an einem Tochterunternehmen veräußert oder die Beherrschung über das Tochterunternehmen verloren, so ist sie nicht verpflichtet, für diese Beteiligung eine Anpassung der bisherigen Bilanzierung vorzunehmen.
+
+18I Ungeachtet der Verweise auf das Geschäftsjahr, das dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgeht (die „unmittelbar vorausgehende Berichtsperiode“) in den Paragraphen 18C–18G kann ein Unternehmen auch angepasste Vergleichsinformationen für frühere dargestellte Perioden vorlegen, ist dazu aber nicht verpflichtet. Legt ein Unternehmen angepasste Vergleichsinformationen für frühere Perioden vor, sind alle Verweise auf die „unmittelbar vorausgehende Berichtsperiode“ in den Paragraphen 18C–18G als die „früheste dargestellte angepasste Vergleichsperiode “ zu verstehen. Stellt ein Unternehmen für frühere Perioden keine angepassten Vergleichsinformationen dar, hat es die nicht angepassten Informationen klar zu kennzeichnen; außerdem hat es darauf hinzuweisen, dass diese Informationen auf einer anderen Grundlage beruhen, und diese Grundlage zu erläutern.
+
+18J Durch die im August 2014 veröffentlichte Verlautbarung Equity-Methode in Einzelabschlüssen (Equity Method in Separate Financial Statements) (Änderungen an IAS 27) wurden die Paragraphen 4–7, 10, 11B und 12 geändert. Diese Änderungen sind nach IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+Verweise auf IFRS 9
+
+19 Wendet ein Unternehmen diesen Standard an, aber noch nicht IFRS 9, so ist jeder Verweis auf IFRS 9 als Verweis auf IAS 39 Finanzinstrumente: Ansatz und Bewertung zu verstehen.
+
+RÜCKNAHME VON IAS 27 (2008)
+
+20 Dieser Standard wird gleichzeitig mit IFRS 10 veröffentlicht. Die beiden IFRS ersetzen zusammen IAS 27 Konzern- und Einzelabschlüsse (in der 2008 geänderten Fassung).
+
+

@@ -1,0 +1,96 @@
+﻿ SIC INTERPRETATION 29
+
+Dienstleistungskonzessionsvereinbarungen: Angaben
+
+VERWEISE
+— 
+IFRS 16 Leasingverhältnisse
+— 
+IAS 1 Darstellung des Abschlusses (überarbeitet 2007)
+— 
+IAS 16 Sachanlagen (überarbeitet 2003)
+— 
+IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen
+— 
+IAS 38 Immaterielle Vermögenswerte (überarbeitet 2004)
+— 
+IFRIC 12 Dienstleistungskonzessionsvereinbarungen
+
+FRAGESTELLUNG
+
+1 Ein Unternehmen (der Betreiber) kann mit einem anderen Unternehmen (dem Konzessionsgeber) eine Vereinbarung zur Erbringung von Dienstleistungen schließen, die der Öffentlichkeit Zugang zu wichtigen wirtschaftlichen und sozialen Einrichtungen gewähren. Der Konzessionsgeber kann ein privates Unternehmen oder eine öffentliche Einrichtung einschließlich eines staatlichen Organs sein. Beispiele für Dienstleistungskonzessionsvereinbarungen sind Vereinbarungen über Abwasserkläranlagen und Wasserversorgungssysteme, Autobahnen, Parkhäuser und -plätze, Tunnel, Brücken, Flughäfen und Fernmeldenetze. Ein Beispiel für Vereinbarungen, die keine Dienstleistungskonzessionsvereinbarungen darstellen, ist ein Unternehmen, das seine internen Dienstleistungen (z. B. die Kantine, die Gebäudeinstandhaltung, das Rechnungswesen oder Funktionsbereiche der Informationstechnologie) auslagert.
+
+2 Bei einer Dienstleistungskonzessionsvereinbarung überträgt der Konzessionsgeber dem Betreiber für die Laufzeit der Konzession normalerweise
+a) 
+
+das Recht, Dienstleistungen zu erbringen, die der Öffentlichkeit Zugang zu wichtigen wirtschaftlichen und sozialen Einrichtungen gewähren, und
+b) 
+
+in einigen Fällen das Recht, bestimmte materielle, immaterielle und/oder finanzielle Vermögenswerte zu benutzen,
+
+im Austausch dafür, dass der Betreiber
+c) 
+
+sich verpflichtet, die Dienstleistungen während der Laufzeit der Konzession entsprechend bestimmten Bedingungen zu erbringen, und
+d) 
+
+sich verpflichtet, gegebenenfalls nach Ablauf der Konzession die Rechte zurückzugeben, die er am Anfang der Laufzeit der Konzession erhalten bzw. während der Laufzeit der Konzession erworben hat.
+
+3 Das gemeinsame Merkmal aller Dienstleistungskonzessionsvereinbarungen ist, dass der Betreiber sowohl ein Recht erhält als auch die Verpflichtung eingeht, öffentliche Dienstleistungen zu erbringen.
+
+4 Diese Interpretation betrifft die Frage, welche Informationen im Anhang der Abschlüsse eines Betreibers und eines Konzessionsgebers anzugeben sind.
+
+5 Bestimmte Aspekte und Angaben im Zusammenhang mit einigen Dienstleistungskonzessionsvereinbarungen werden bereits in anderen International Financial Reporting Standards behandelt (z. B. bezieht sich IAS 16 auf den Erwerb von Sachanlagen, IFRS 16 auf das Leasing von Vermögenswerten und IAS 38 auf den Erwerb von immateriellen Vermögenswerten). Eine Dienstleistungskonzessionsvereinbarung kann aber noch zu erfüllende Verträge enthalten, die in den International Financial Reporting Standards nicht behandelt werden, es sei denn, es handelt sich um belastende Verträge, auf die IAS 37 anzuwenden ist. Daher betrifft diese Interpretation zusätzliche Angaben hinsichtlich Dienstleistungskonzessionsvereinbarungen.
+
+BESCHLUSS
+
+6 Bei der Bestimmung der angemessenen Angaben im Anhang sind alle Aspekte einer Dienstleistungskonzessionsvereinbarung zu berücksichtigen. Der Betreiber und der Konzessionsgeber haben in jeder Periode die folgenden Angaben zu machen:
+a) 
+
+eine Beschreibung der Vereinbarung,
+b) 
+
+wesentliche Bestimmungen der Vereinbarung, die den Betrag, den Zeitpunkt und die Wahrscheinlichkeit des Eintretens künftiger Zahlungsströme beeinflussen können (z. B. die Laufzeit der Konzession, die Termine für die Neufestsetzung der Gebühren und die Grundlage für Gebührenanpassungen oder Neuverhandlungen),
+c) 
+
+Art und Umfang (z. B. Menge, Laufzeit oder Betrag) von
+i) 
+
+Rechten, spezifizierte Vermögenswerte zu nutzen,
+ii) 
+
+zu erfüllenden Verpflichtungen oder Rechten auf das Erbringen von Dienstleistungen,
+iii) 
+
+Verpflichtungen, Sachanlagen zu erwerben oder zu errichten,
+iv) 
+
+Verpflichtungen, spezifizierte Vermögenswerte am Ende der Laufzeit der Konzession zu übergeben oder Ansprüche, solche zu diesem Zeitpunkt zu erhalten,
+v) 
+
+Verlängerungs- und Kündigungsoptionen und
+vi) 
+
+anderen Rechten und Verpflichtungen (z. B. Großreparaturen und -instandhaltungen),
+d) 
+
+Veränderungen der Vereinbarung während der Laufzeit der Konzession und
+e) 
+
+wie die Konzessionsvereinbarung eingestuft wurde.
+
+6A Der Betreiber hat die Erlöse und die Gewinne oder Verluste anzugeben, die im Berichtszeitraum dadurch entstanden sind, dass er im Austausch für einen finanziellen oder immateriellen Vermögenswert Bauleistungen erbracht hat.
+
+7 Die gemäß Paragraph 6 dieser Interpretation erforderlichen Angaben sind für jede einzelne Dienstleistungskonzessionsvereinbarung oder zusammenfassend für jede Gruppe von Dienstleistungskonzessionsvereinbarungen zu machen. Eine Gruppe von Dienstleistungskonzessionsvereinbarungen umfasst Dienstleistungen ähnlicher Art (z. B. Mauteinnahmen, Telekommunikationsdienstleistungen oder Abwasseraufbereitungsdienste).
+
+DATUM DES BESCHLUSSES
+
+Mai 2001
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+Diese Interpretation tritt am 31. Dezember 2001 in Kraft.
+
+Die Änderungen an den Paragraphen 6(e) und 6A sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2008 beginnen. Wendet ein Unternehmen IFRIC 12 auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderung anzuwenden.
+
+Mit dem im Januar 2016 veröffentlichten IFRS 16 wurde Paragraph 5 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.

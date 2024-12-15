@@ -1,0 +1,768 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 32
+
+Finanzinstrumente: Darstellung
+
+ZIELSETZUNG
+
+1 [gestrichen]
+
+2 Zielsetzung dieses Standards ist es, Grundsätze für die Darstellung von Finanzinstrumenten als Verbindlichkeiten oder Eigenkapital und für die Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten aufzustellen. Dies bezieht sich auf die Einstufung von Finanzinstrumenten — aus Sicht des Emittenten — als finanzielle Vermögenswerte, finanzielle Verbindlichkeiten und Eigenkapitalinstrumente, die Einstufung der damit verbundenen Zinsen, Dividenden, Verluste und Gewinne sowie die Voraussetzungen für die Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten.
+
+3 Die im vorliegenden Standard enthaltenen Grundsätze ergänzen die Grundsätze für den Ansatz und die Bewertung finanzieller Vermögenswerte und finanzieller Verbindlichkeiten in IFRS 9 Finanzinstrumente und für die diesbezüglichen Angaben in IFRS 7 Finanzinstrumente: Angaben.
+
+ANWENDUNGSBEREICH
+
+4   Dieser Standard ist von allen Unternehmen auf alle Arten von Finanzinstrumenten anzuwenden; davon ausgenommen sind
+a) 
+
+Anteile an Tochterunternehmen, assoziierten Unternehmen und Gemeinschaftsunternehmen, die gemäß IFRS 10 Konzernabschlüsse, IAS 27 Einzelabschlüsse oder IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen bilanziert werden. In einigen Fällen muss oder darf ein Unternehmen jedoch nach IFRS 10, IAS 27 oder IAS 28 einen Anteil an einem Tochterunternehmen, einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen gemäß IFRS 9 bilanzieren; in diesen Fällen gelten die Vorschriften des vorliegenden Standards. Der vorliegende Standard ist auch auf Derivate anzuwenden, die an einen Anteil an einem Tochterunternehmen, einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen gebunden sind.
+b) 
+
+Rechte und Verpflichtungen eines Arbeitgebers aus Altersversorgungsplänen, für die IAS 19 Leistungen an Arbeitnehmer gilt.
+c) 
+
+[gestrichen]
+d) 
+
+Versicherungsverträge im Sinne der Definition in IFRS 17 Versicherungsverträge oder Kapitalanlageverträge mit ermessensabhängiger Überschussbeteiligung im Anwendungsbereich von IFRS 17. Anzuwenden ist der vorliegende Standard allerdings auf
+i) 
+
+Derivate, die in Verträge im Anwendungsbereich von IFRS 17 eingebettet sind, falls das Unternehmen diese Verträge nach IFRS 9 getrennt bilanzieren muss.
+ii) 
+
+Kapitalanlagekomponenten, die von Verträgen im Anwendungsbereich von IFRS 17 abgetrennt sind, wenn IFRS 17 eine solche Abtrennung vorschreibt, es sei denn, bei der abgetrennten Kapitalanlagekomponente handelt es sich um einen Kapitalanlagevertrag mit ermessensabhängiger Überschussbeteiligung im Anwendungsbereich von IFRS 17.
+iii) 
+
+die Rechte und Pflichten eines Versicherers aus Versicherungsverträgen, die die Definition von finanziellen Garantien erfüllen, wenn der Versicherer die Verträge nach IFRS 9 ansetzt und bewertet. Der Versicherer hat jedoch IFRS 17 anzuwenden, wenn er das Wahlrecht nach Paragraph 7(e) von IFRS 17 ausübt, die Verträge nach IFRS 17 anzusetzen und zu bewerten.
+iv) 
+
+die Rechte und Pflichten eines Unternehmens, bei denen es sich um Finanzinstrumente handelt, die aus Kreditkartenverträgen oder ähnlichen Kredit- und Zahlungsmöglichkeiten bietenden Verträgen entstehen, und die ein Unternehmen ausgibt und die die Definition eines Versicherungsvertrags erfüllen, wenn das Unternehmen gemäß Paragraph 7(h) von IFRS 17 und Paragraph 2.1(e)(iv) von IFRS 9 auf diese Rechte und Pflichten IFRS 9 anwendet.
+v) 
+
+die Rechte und Pflichten eines Unternehmens, bei denen es sich um Finanzinstrumente handelt, die aus Versicherungsverträgen entstehen, die ein Unternehmen ausgibt, die den Schadenersatz im Versicherungsfall auf den Betrag begrenzen, der ansonsten erforderlich wäre, um die durch den Vertrag begründete Verpflichtung des Versicherungsnehmers zu erfüllen, wenn das Unternehmen das Wahlrecht nach Paragraph 8A von IFRS 17 ausübt, auf solche Verträge IFRS 9 anstatt IFRS 17 anzuwenden.
+e) 
+
+[gestrichen]
+f) 
+
+Finanzinstrumente, Verträge und Verpflichtungen im Zusammenhang mit anteilsbasierten Vergütungen, auf die IFRS 2 Anteilsbasierte Vergütung Anwendung findet, ausgenommen
+i) 
+
+in den Anwendungsbereich der Pararaphen 8–10 des vorliegenden Standards fallende Verträge, auf die der vorliegende Standard anzuwenden ist,
+ii) 
+
+die Paragraphen 33 und 34 des vorliegenden Standards, die auf eigene Anteile anzuwenden sind, die im Rahmen von Mitarbeiteranteilsoptionsplänen, Mitarbeiteranteilskaufplänen und allen anderen anteilsbasierten Vergütungsvereinbarungen erworben, verkauft, ausgegeben oder eingezogen werden.
+
+5–7 [gestrichen]
+
+8   Dieser Standard ist auf Verträge über den Kauf oder Verkauf eines nichtfinanziellen Postens anzuwenden, die durch einen Nettoausgleich in bar oder in anderen Finanzinstrumenten oder durch den Tausch von Finanzinstrumenten, so als handle es sich bei den Verträgen um Finanzinstrumente, erfüllt werden können; davon ausgenommen sind Verträge, die zwecks Empfang oder Lieferung nichtfinanzieller Posten gemäß dem erwarteten Einkaufs-, Verkaufs- oder Nutzungsbedarf des Unternehmens geschlossen wurden und in diesem Sinne weiter behalten werden. Dieser Standard ist allerdings auf Verträge anzuwenden, die ein Unternehmen gemäß Paragraph 2.5 von IFRS 9 Finanzinstrumente als erfolgswirksam zum beizulegenden Zeitwert bewertet designiert.
+
+9 Die Abwicklung eines Vertrags über den Kauf oder Verkauf eines nichtfinanziellen Postens durch Nettoausgleich in bar oder in anderen Finanzinstrumenten oder den Tausch von Finanzinstrumenten kann unter unterschiedlichen Rahmenbedingungen erfolgen, zu denen u. a. folgende zählen:
+a) 
+
+die Vertragsbedingungen gestatten es jedem Kontrahenten, den Vertrag durch Nettoausgleich in bar oder in anderen Finanzinstrumenten bzw. durch Tausch von Finanzinstrumenten abzuwickeln,
+b) 
+
+die Möglichkeit zu einem Nettoausgleich in bar oder in anderen Finanzinstrumenten bzw. durch Tausch von Finanzinstrumenten ist zwar nicht explizit in den Vertragsbedingungen vorgesehen, doch erfüllt das Unternehmen ähnliche Verträge für gewöhnlich durch Nettoausgleich in bar oder einem anderen Finanzinstrument bzw. durch Tausch von Finanzinstrumenten (sei es durch Abschluss gegenläufiger Verträge mit der Vertragspartei oder durch Verkauf des Vertrags vor dessen Ausübung oder Verfall),
+c) 
+
+bei ähnlichen Verträgen nimmt das Unternehmen den Vertragsgegenstand für gewöhnlich an und veräußert ihn kurz nach der Anlieferung wieder, um Gewinne aus kurzfristigen Schwankungen von Preisen oder Händlermargen zu erzielen, und
+d) 
+
+der nichtfinanzielle Posten, der Gegenstand des Vertrags ist, kann jederzeit in Zahlungsmittel umgewandelt werden.
+
+Ein Vertrag, auf den (b) oder (c) zutrifft, wird nicht zwecks Empfang oder Lieferung nichtfinanzieller Posten gemäß dem erwarteten Einkaufs-, Verkaufs- oder Nutzungsbedarf des Unternehmens geschlossen und fällt somit in den Anwendungsbereich dieses Standards. Andere Verträge, auf die Paragraph 8 zutrifft, werden im Hinblick darauf geprüft, ob sie zwecks Empfang oder Lieferung nichtfinanzieller Posten gemäß dem erwarteten Einkaufs-, Verkaufs- oder Nutzungsbedarf des Unternehmens geschlossen wurden und weiterhin zu diesem Zweck gehalten werden und somit in den Anwendungsbereich dieses Standards fallen.
+
+10 Eine geschriebene Option auf den Kauf oder Verkauf eines nichtfinanziellen Postens, der durch Nettoausgleich in bar oder in anderen Finanzinstrumenten bzw. durch Tausch von Finanzinstrumenten gemäß Paragraph 9 (a) oder (d) erfüllt werden kann, fällt in den Anwendungsbereich dieses Standards. Solch ein Vertrag kann nicht zwecks Empfang oder Lieferung eines nichtfinanziellen Postens gemäß dem erwarteten Einkaufs-, Verkaufs- oder Nutzungsbedarf des Unternehmens geschlossen werden.
+
+DEFINITIONEN (SIEHE AUCH PARAGRAPHEN A3–A23)
+
+11   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Ein Finanzinstrument ist ein Vertrag, der gleichzeitig bei dem einen Unternehmen zu einem finanziellen Vermögenswert und bei dem anderen Unternehmen zu einer finanziellen Verbindlichkeit oder einem Eigenkapitalinstrument führt.
+Finanzielle Vermögenswerte umfassen
+a) 
+
+Zahlungsmittel,
+b) 
+
+ein Eigenkapitalinstrument eines anderen Unternehmens,
+c) 
+
+ein vertragliches Recht darauf,
+i) 
+
+Zahlungsmittel oder andere finanzielle Vermögenswerte von einem anderen Unternehmen zu erhalten oder
+ii) 
+
+finanzielle Vermögenswerte oder finanzielle Verbindlichkeiten mit einem anderen Unternehmen zu für das Unternehmen potenziell vorteilhaften Bedingungen zu tauschen, oder
+d) 
+
+einen Vertrag, der in eigenen Eigenkapitalinstrumenten des Unternehmens erfüllt wird oder werden kann und bei dem es sich um Folgendes handelt:
+i) 
+
+ein nicht derivatives Finanzinstrument, durch das das Unternehmen verpflichtet ist oder verpflichtet werden kann, eine variable Anzahl eigener Eigenkapitalinstrumente des Unternehmens zu erhalten, oder
+ii) 
+
+ein derivatives Finanzinstrument, das nicht durch Austausch eines festen Betrags an Zahlungsmitteln oder anderen finanziellen Vermögenswerten gegen eine feste Anzahl eigener Eigenkapitalinstrumente des Unternehmens erfüllt wird oder werden kann. Nicht als eigene Eigenkapitalinstrumente eines Unternehmens gelten zu diesem Zweck kündbare Finanzinstrumente, die gemäß den Paragraphen 16A und 16B als Eigenkapitalinstrumente eingestuft sind, Instrumente, die das Unternehmen dazu verpflichten, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu liefern und die gemäß den Paragraphen 16C und 16D als Eigenkapitalinstrumente eingestuft sind, oder Instrumente, bei denen es sich um Verträge über den künftigen Empfang oder die künftige Lieferung von eigenen Eigenkapitalinstrumenten des Unternehmens handelt.
+Eine finanzielle Verbindlichkeit ist eine Schuld und umfasst
+a) 
+
+eine vertragliche Verpflichtung,
+i) 
+
+einem anderen Unternehmen Zahlungsmittel oder einen anderen finanziellen Vermögenswert zu liefern oder
+ii) 
+
+mit einem anderen Unternehmen finanzielle Vermögenswerte oder finanzielle Verbindlichkeiten zu für das Unternehmen potenziell nachteiligen Bedingungen zu tauschen, oder
+b) 
+
+einen Vertrag, der in eigenen Eigenkapitalinstrumenten des Unternehmens erfüllt wird oder werden kann und bei dem es sich um Folgendes handelt:
+i) 
+
+ein nicht derivatives Finanzinstrument, durch das das Unternehmen verpflichtet ist oder verpflichtet werden kann, eine variable Anzahl eigener Eigenkapitalinstrumente des Unternehmens zu liefern, oder
+ii) 
+
+ein derivatives Finanzinstrument, das nicht durch Austausch eines festen Betrags an Zahlungsmitteln oder anderen finanziellen Vermögenswerten gegen eine feste Anzahl eigener Eigenkapitalinstrumente des Unternehmens erfüllt wird oder werden kann. Rechte, Optionen oder Optionsscheine, die zum Erwerb einer festen Anzahl eigener Eigenkapitalinstrumente des Unternehmens zu einem festen Betrag in beliebiger Währung berechtigen, stellen zu diesem Zweck Eigenkapitalinstrumente dar, wenn das Unternehmen sie anteilsgemäß allen gegenwärtigen Inhabern derselben Klasse seiner eigenen nicht derivativen Eigenkapitalinstrumente anbietet. Nicht als Eigenkapitalinstrumente eines Unternehmens gelten zu diesem Zweck hingegen kündbare Finanzinstrumente, die gemäß den Paragraphen 16A und 16B als Eigenkapitalinstrumente eingestuft sind, Instrumente, die das Unternehmen dazu verpflichten, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen und die gemäß den Paragraphen 16C und 16D als Eigenkapitalinstrumente eingestuft sind, oder Instrumente, bei denen es sich um Verträge über den künftigen Empfang oder die künftige Lieferung eigener Eigenkapitalinstrumente des Unternehmens handelt.
+Abweichend davon wird ein Instrument, das der Definition einer finanziellen Verbindlichkeit entspricht, als Eigenkapitalinstrument eingestuft, wenn es alle in den Paragraphen 16A und 16B oder 16C und 16D beschriebenen Merkmale aufweist und die dort genannten Bedingungen erfüllt.
+Ein Eigenkapitalinstrument ist ein Vertrag, der einen Residualanspruch an den Vermögenswerten eines Unternehmens nach Abzug aller dazugehörigen Schulden begründet.
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+Ein kündbares Instrument ist ein Finanzinstrument, das seinen Inhaber dazu berechtigt, es gegen Zahlungsmittel oder andere finanzielle Vermögenswerte an den Emittenten zurückzugeben, oder das bei Eintreten eines ungewissen künftigen Ereignisses, bei Ableben des Inhabers oder bei dessen Eintritt in den Ruhestand automatisch an den Emittenten zurückgeht.
+
+12 Die folgenden Begriffe sind in Anhang A von IFRS 9 oder in Paragraph 9 von IAS 39 Finanzinstrumente: Ansatz und Bewertung definiert und werden im vorliegenden Standard mit den in IAS 39 und IFRS 9 angegebenen Bedeutungen verwendet:
+— 
+Fortgeführte Anschaffungskosten eines finanziellen Vermögenswerts oder einer finanziellen Verbindlichkeit,
+— 
+Ausbuchung,
+— 
+Derivat,
+— 
+Effektivzinsmethode,
+— 
+Finanzielle Garantie,
+— 
+Finanzielle Verbindlichkeit, die erfolgswirksam zum beizulegenden Zeitwert bewertet wird,
+— 
+Feste Verpflichtung,
+— 
+Künftige Transaktion,
+— 
+Wirksamkeit der Absicherung,
+— 
+Grundgeschäft,
+— 
+Sicherungsinstrument,
+— 
+Zu Handelszwecken gehalten,
+— 
+Marktüblicher Kauf oder Verkauf,
+— 
+Transaktionskosten.
+
+13 Die Begriffe „Vertrag“ und „vertraglich“ beziehen sich in diesem Standard auf eine Vereinbarung zwischen zwei oder mehr Vertragsparteien, die normalerweise aufgrund ihrer rechtlichen Durchsetzbarkeit klare, für die einzelnen Vertragsparteien kaum oder gar nicht vermeidbare wirtschaftliche Folgen hat. Verträge und damit auch Finanzinstrumente können die verschiedensten Formen annehmen und müssen nicht in Schriftform abgefasst sein.
+
+14 Der Begriff „Unternehmen“ umfasst in diesem Standard Einzelpersonen, Personengesellschaften, Kapitalgesellschaften, Treuhänder und öffentliche Institutionen.
+
+DARSTELLUNG
+
+Schulden und Eigenkapital (siehe auch Paragraphen A13–A14J und A25–A29A)
+
+15   Der Emittent eines Finanzinstruments hat das Finanzinstrument oder dessen Bestandteile beim erstmaligen Ansatz nach der wirtschaftlichen Substanz der vertraglichen Vereinbarung und den Begriffsbestimmungen für finanzielle Verbindlichkeiten, finanzielle Vermögenswerte und Eigenkapitalinstrumente entsprechend als finanzielle Verbindlichkeit, finanziellen Vermögenswert oder Eigenkapitalinstrument einzustufen.
+
+16 Wenn ein Emittent die Begriffsbestimmungen in Paragraph 11 zur Einstufung eines Finanzinstruments als Eigenkapitalinstrument oder als finanzielle Verbindlichkeit anwendet, ist nur dann ein Eigenkapitalinstrument gegeben, wenn die nachfolgenden Bedingungen (a) und (b) kumulativ erfüllt sind.
+a) 
+
+Das Finanzinstrument enthält keine vertragliche Verpflichtung,
+i) 
+
+einem anderen Unternehmen Zahlungsmittel oder einen anderen finanziellen Vermögenswert zu liefern, oder
+ii) 
+
+mit einem anderen Unternehmen finanzielle Vermögenswerte oder finanzielle Verbindlichkeiten zu potenziell nachteiligen Bedingungen für den Emittenten auszutauschen.
+b) 
+
+Kann oder wird das Finanzinstrument in eigenen Eigenkapitalinstrumenten des Emittenten erfüllt werden, handelt es sich um
+i) 
+
+ein nicht derivatives Finanzinstrument, das für den Emittenten nicht mit einer vertraglichen Verpflichtung zur Lieferung einer variablen Anzahl eigener Eigenkapitalinstrumente verbunden ist, oder
+ii) 
+
+ein Derivat, das vom Emittenten nur durch Austausch eines festen Betrags an Zahlungsmitteln oder anderen finanziellen Vermögenswerten gegen eine feste Anzahl eigener Eigenkapitalinstrumente erfüllt wird. Rechte, Optionen oder Optionsscheine, die zum Erwerb einer festen Anzahl eigener Eigenkapitalinstrumente des Unternehmens zu einem festen Betrag in beliebiger Währung berechtigen, stellen zu diesem Zweck Eigenkapitalinstrumente dar, wenn das Unternehmen sie anteilsgemäß allen gegenwärtigen Inhabern derselben Klasse seiner eigenen, nicht derivativen Eigenkapitalinstrumente anbietet. Nicht als eigene Eigenkapitalinstrumente des Emittenten gelten hingegen zu diesem Zweck Instrumente, die alle in den Paragraphen 16A und 16B oder 16C und 16D beschriebenen Merkmale aufweisen und die dort genannten Bedingungen erfüllen, sowie Instrumente, die Verträge über den künftigen Empfang oder die künftige Lieferung eigener Eigenkapitalinstrumente des Emittenten darstellen.
+
+Eine vertragliche Verpflichtung, die zum künftigen Empfang oder zur künftigen Lieferung eigener Eigenkapitalinstrumente des Emittenten führt oder führen kann, aber nicht die vorstehenden Bedingungen (a) und (b) erfüllt, ist kein Eigenkapitalinstrument; dies gilt auch, wenn die vertragliche Verpflichtung aus einem derivativen Finanzinstrument resultiert. Abweichend davon wird ein Instrument, das der Definition einer finanziellen Verbindlichkeit entspricht, als Eigenkapitalinstrument eingestuft, wenn es alle in den Paragraphen 16A und 16B oder 16C und 16D beschriebenen Merkmale aufweist und die dort genannten Bedingungen erfüllt.
+
+Kündbare Instrumente
+
+16A Der Emittent eines kündbaren Finanzinstruments ist vertraglich dazu verpflichtet, das Instrument bei Ausübung der Kündigungsoption gegen Zahlungsmittel oder einen anderen finanziellen Vermögenswert zurückzukaufen oder zurückzunehmen. Abweichend von der Definition einer finanziellen Verbindlichkeit wird ein Instrument, das mit einer solchen Verpflichtung verbunden ist, als Eigenkapitalinstrument eingestuft, wenn es alle folgenden Merkmale aufweist:
+a) 
+
+Es gibt dem Inhaber das Recht, im Falle der Liquidation des Unternehmens einen proportionalen Anteil an dessen Nettovermögen zu erhalten. Das Nettovermögen eines Unternehmens stellen die Vermögenswerte dar, die nach Abzug aller anderen Forderungen gegen das Unternehmen verbleiben. Den proportionalen Anteil erhält man, indem
+i) 
+
+das Nettovermögen des Unternehmens bei Liquidation in Einheiten gleichen Betrags unterteilt und
+ii) 
+
+dieser Betrag mit der Anzahl der vom Inhaber des Finanzinstruments gehaltenen Einheiten multipliziert wird.
+b) 
+
+Das Instrument zählt zu der Klasse von Instrumenten, die allen anderen im Rang nachgeht. Das Instrument fällt in diese Klasse, wenn es die folgenden Voraussetzungen erfüllt:
+i) 
+
+Es hat keinen Vorrang vor anderen Forderungen gegen das in Liquidation befindliche Unternehmen und
+ii) 
+
+es muss nicht in ein anderes Instrument umgewandelt werden, um in die nachrangigste Klasse von Instrumenten zu fallen.
+c) 
+
+Alle Finanzinstrumente der nachrangigsten Klasse haben dieselben Merkmale. Sie sind beispielsweise allesamt kündbar, und die Formel oder Methode zur Berechnung des Rückkaufs- oder Rücknahmepreises ist für alle Instrumente dieser Klasse gleich;
+d) 
+
+Abgesehen von der vertraglichen Verpflichtung des Emittenten, das Instrument gegen Zahlungsmittel oder einen anderen finanziellen Vermögenswert zurückzukaufen oder zurückzunehmen, ist das Instrument nicht mit der vertraglichen Verpflichtung verbunden, einem anderen Unternehmen Zahlungsmittel oder einen anderen finanziellen Vermögenswert zu liefern oder mit einem anderen Unternehmen finanzielle Vermögenswerte oder finanzielle Verbindlichkeiten zu für das Unternehmen potenziell nachteiligen Bedingungen auszutauschen, und es stellt keinen Vertrag dar, der nach Buchstabe (b) der Definition des Begriffs „finanzielle Verbindlichkeiten“ in eigenen Eigenkapitalinstrumenten des Unternehmens erfüllt wird oder werden kann.
+e) 
+
+Die für das Instrument über seine Laufzeit insgesamt erwarteten Zahlungsströme beruhen im Wesentlichen auf den Gewinnen oder Verlusten während der Laufzeit, auf Veränderungen, die in dieser Zeit bei den bilanzwirksamen Nettovermögenswerten eintreten, oder auf Veränderungen, die während der Laufzeit beim beizulegenden Zeitwert der bilanzwirksamen und –unwirksamen Nettovermögenswerte des Unternehmens zu verzeichnen sind (mit Ausnahme etwaiger Auswirkungen des Instruments selbst).
+
+16B Ein Instrument wird dann als Eigenkapitalinstrument eingestuft, wenn es alle oben genannten Merkmale aufweist und darüber hinaus der Emittent keine weiteren Finanzinstrumente oder Verträge hält, auf die Folgendes zutrifft:
+a) 
+
+die gesamten Zahlungsströme beruhen im Wesentlichen auf Gewinnen oder Verlusten, auf Veränderungen bei den bilanzwirksamen Nettovermögenswerten oder auf Veränderungen beim beizulegenden Zeitwert der bilanzwirksamen und -unwirksamen Nettovermögenswerte des Unternehmens (mit Ausnahme etwaiger Auswirkungen der Instrumente oder Verträge selbst), und
+b) 
+
+sie beschränken die Restrendite für die Inhaber des kündbaren Instruments erheblich oder legen diese fest.
+
+Nicht berücksichtigen darf das Unternehmen hierbei nichtfinanzielle Verträge, die mit dem Inhaber eines in Paragraph 16A beschriebenen Instruments geschlossen wurden und deren Konditionen denen eines entsprechenden Vertrags, der zwischen einer dritten Partei und dem emittierenden Unternehmen geschlossen werden könnte, ähnlich sind. Kann das Unternehmen nicht feststellen, ob diese Bedingung erfüllt ist, so darf es das kündbare Instrument nicht als Eigenkapitalinstrument einstufen.
+
+Instrumente oder Bestandteile derselben, die das Unternehmen dazu verpflichten, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen
+
+16C Einige Finanzinstrumente sind für das emittierende Unternehmen mit der vertraglichen Verpflichtung verbunden, einem anderen Unternehmen im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen. Die Verpflichtung entsteht entweder, weil die Liquidation gewiss ist und sich der Kontrolle des Unternehmens entzieht (wie bei Unternehmen, deren Lebensdauer von Anfang an begrenzt ist) oder ungewiss ist, dem Inhaber des Instruments aber als Option zur Verfügung steht. Abweichend von der Definition einer finanziellen Verbindlichkeit wird ein Instrument, das mit einer solchen Verpflichtung verbunden ist, als Eigenkapitalinstrument eingestuft, wenn es alle folgenden Merkmale aufweist:
+a) 
+
+Es gibt dem Inhaber das Recht, im Falle der Liquidation des Unternehmens einen proportionalen Anteil an dessen Nettovermögen zu erhalten. Das Nettovermögen eines Unternehmens stellen die Vermögenswerte dar, die nach Abzug aller anderen Forderungen gegen das Unternehmen verbleiben. Den proportionalen Anteil erhält man, indem
+i) 
+
+das Nettovermögen des Unternehmens bei Liquidation in Einheiten gleichen Betrags unterteilt und
+ii) 
+
+dieser Betrag mit der Anzahl der vom Inhaber des Finanzinstruments gehaltenen Einheiten multipliziert wird.
+b) 
+
+Das Instrument zählt zu der Klasse von Instrumenten, die allen anderen im Rang nachgeht. Das Instrument fällt in diese Klasse, wenn es die folgenden Voraussetzungen erfüllt:
+i) 
+
+Es hat keinen Vorrang vor anderen Forderungen gegen das in Liquidation befindliche Unternehmen und
+ii) 
+
+es muss nicht in ein anderes Instrument umgewandelt werden, um in die nachrangigste Klasse von Instrumenten zu fallen.
+c) 
+
+Alle Finanzinstrumente der nachrangigsten Klasse müssen für das emittierende Unternehmen mit der gleichen vertraglichen Verpflichtung verbunden sein, im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu liefern.
+
+16D Ein Instrument wird dann als Eigenkapitalinstrument eingestuft, wenn es alle oben genannten Merkmale aufweist und darüber hinaus der Emittent keine weiteren Finanzinstrumente oder Verträge hält, auf die Folgendes zutrifft:
+a) 
+
+Die gesamten Zahlungsströme beruhen im Wesentlichen auf Gewinnen oder Verlusten, auf Veränderungen bei den bilanzwirksamen Nettovermögenswerten oder auf Veränderungen beim beizulegenden Zeitwert der bilanzwirksamen und -unwirksamen Nettovermögenswerte des Unternehmens (mit Ausnahme etwaiger Auswirkungen der Instrumente oder Verträge selbst), und
+b) 
+
+sie beschränken die Restrendite für die Inhaber des kündbaren Instruments erheblich oder legen diese fest.
+
+Nicht berücksichtigen darf das Unternehmen hierbei nichtfinanzielle Verträge, die mit dem Inhaber eines in Paragraph 16C beschriebenen Instruments geschlossen wurden und deren Konditionen denen eines entsprechenden Vertrags, der zwischen einer dritten Partei und dem emittierenden Unternehmen geschlossen werden könnte, ähnlich sind. Kann das Unternehmen nicht feststellen, ob diese Bedingung erfüllt ist, so darf es das Instrument nicht als Eigenkapitalinstrument einstufen.
+
+Umgliederung von kündbaren Instrumenten und von Instrumenten, die das Unternehmen dazu verpflichten, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen
+
+16E Ein Finanzinstrument ist nach den Paragraphen 16A und 16B oder 16C und 16D ab dem Zeitpunkt als Eigenkapitalinstrument einzustufen, ab dem es alle in diesen Paragraphen beschriebenen Merkmale aufweist und die dort genannten Bedingungen erfüllt. Umzugliedern ist ein Finanzinstrument zu dem Zeitpunkt, zu dem es nicht mehr alle in diesen Paragraphen beschriebenen Merkmale aufweist oder die dort genannten Bedingungen nicht mehr kumulativ erfüllt. Nimmt ein Unternehmen beispielsweise alle von ihm emittierten nicht kündbaren Instrumente zurück und weisen sämtliche im Umlauf befindlichen kündbaren Instrumente alle in den Paragraphen 16A und 16B beschriebenen Merkmale auf und erfüllen alle dort genannten Bedingungen, so hat das Unternehmen die kündbaren Instrumente zu dem Zeitpunkt in Eigenkapitalinstrumente umzugliedern, zu dem es die nicht kündbaren Instrumente zurücknimmt.
+
+16F Die Umgliederung eines Instruments gemäß Paragraph 16E ist von dem Unternehmen wie folgt zu bilanzieren:
+a) 
+
+Ein Eigenkapitalinstrument ist zu dem Zeitpunkt in eine finanzielle Verbindlichkeit umzugliedern, zu dem es nicht mehr alle in den Paragraphen 16A und 16B oder 16C und 16D beschriebenen Merkmale aufweist oder die dort genannten Bedingungen nicht mehr erfüllt. Die finanzielle Verbindlichkeit ist zu ihrem beizulegenden Zeitwert zum Zeitpunkt der Umgliederung zu bewerten. Das Unternehmen hat jede Differenz zwischen dem Buchwert des Eigenkapitalinstruments und dem beizulegenden Zeitwert der finanziellen Verbindlichkeit zum Zeitpunkt der Umgliederung im Eigenkapital zu erfassen.
+b) 
+
+Eine finanzielle Verbindlichkeit ist zu dem Zeitpunkt in Eigenkapital umzugliedern, zu dem das Instrument alle in den Paragraphen 16A und 16B oder 16C und 16D beschriebenen Merkmale aufweist und die dort genannten Bedingungen erfüllt. Ein Eigenkapitalinstrument ist mit dem Buchwert der finanziellen Verbindlichkeit zum Zeitpunkt der Umgliederung zu bewerten.
+
+Keine vertragliche Verpflichtung zur Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten (Paragraph 16(a))
+
+17 Außer unter den in den Paragraphen 16A und 16B bzw. 16C und 16D beschriebenen Umständen ist ein wichtiger Anhaltspunkt bei der Entscheidung darüber, ob ein Finanzinstrument eine finanzielle Verbindlichkeit oder ein Eigenkapitalinstrument darstellt, das Vorliegen einer vertraglichen Verpflichtung, wonach die eine Vertragspartei (der Emittent) entweder der anderen (dem Inhaber) Zahlungsmittel oder andere finanzielle Vermögenswerte liefern oder mit dem Inhaber finanzielle Vermögenswerte oder finanzielle Verbindlichkeiten unter für den Emittenten potenziell nachteiligen Bedingungen tauschen muss. Auch wenn der Inhaber eines Eigenkapitalinstruments u. U. zum Empfang einer anteiligen Dividende oder anderer Ausschüttungen aus dem Eigenkapital berechtigt ist, unterliegt der Emittent doch keiner vertraglichen Verpflichtung zu derartigen Ausschüttungen, da von ihm die Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten an eine andere Vertragspartei nicht verlangt werden kann.
+
+18 Die Einstufung in der Bilanz des Unternehmens wird durch die wirtschaftliche Substanz eines Finanzinstruments und nicht allein durch seine rechtliche Form bestimmt. Wirtschaftliche Substanz und rechtliche Form stimmen zwar in der Regel, aber nicht immer überein. So stellen einige Finanzinstrumente rechtlich zwar Eigenkapital dar, sind aber aufgrund ihrer wirtschaftlichen Substanz Verbindlichkeiten, während andere Finanzinstrumente sowohl Merkmale von Eigenkapitalinstrumenten als auch Merkmale finanzieller Verbindlichkeiten aufweisen. Hierzu folgende Beispiele:
+a) 
+
+Ein Vorzugsanteil, der die obligatorische Rücknahme durch den Emittenten zu einem festen oder bestimmbaren Geldbetrag und zu einem festen oder bestimmbaren Zeitpunkt vorsieht oder dem Inhaber das Recht einräumt, vom Emittenten die Rücknahme des Finanzinstruments zu bzw. nach einem bestimmten Termin und zu einem festen oder bestimmbaren Geldbetrag zu verlangen, ist als finanzielle Verbindlichkeit einzustufen.
+b) 
+
+Finanzinstrumente, die den Inhaber berechtigen, sie gegen Zahlungsmittel oder andere finanzielle Vermögenswerte an den Emittenten zurückzugeben („kündbare Instrumente“), stellen mit Ausnahme der nach den Paragraphen 16A und 16B oder 16C und 16D als Eigenkapitalinstrumente eingestuften Instrumente finanzielle Verbindlichkeiten dar. Ein Finanzinstrument ist selbst dann eine finanzielle Verbindlichkeit, wenn der Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten auf der Grundlage eines Indexes oder einer anderen veränderlichen Bezugsgröße ermittelt wird. Wenn der Inhaber über das Wahlrecht verfügt, das Finanzinstrument gegen Zahlungsmittel oder andere finanzielle Vermögenswerte an den Emittenten zurückzugeben, erfüllt das kündbare Finanzinstrument die Definition einer finanziellen Verbindlichkeit, sofern es sich nicht um ein nach den Paragraphen 16A und 16B oder 16C und 16D als Eigenkapitalinstrument eingestuftes Instrument handelt. So können offene Investmentfonds, Unit Trusts, Personengesellschaften und bestimmte Genossenschaften ihre Anteilseigner bzw. Gesellschafter mit dem Recht ausstatten, ihre Anteile an dem Emittenten jederzeit gegen Zahlungsmittel in Höhe ihres jeweiligen Anteils am Eigenkapital des Emittenten einzulösen. Dies hat zur Folge, dass die Anteile von Anteilseignern oder Gesellschaftern mit Ausnahme der nach den Paragraphen 16A und 16B oder 16C und 16D als Eigenkapitalinstrumente eingestuften Instrumente als finanzielle Verbindlichkeiten klassifiziert werden. Eine Einstufung als finanzielle Verbindlichkeit schließt jedoch die Verwendung beschreibender Zusätze wie „Anspruch der Anteilseigner auf das Nettovermögen“ und „Anspruch der Anteilseigner auf Änderungen im Nettovermögen“ im Abschluss eines Unternehmens, das über kein gezeichnetes Kapital verfügt (wie dies bei einigen Investmentfonds und Unit Trusts der Fall ist, siehe erläuterndes Beispiel 7), oder die Verwendung zusätzlicher Angaben, aus denen hervorgeht, dass die Gesamtheit der von den Anteilseignern gehaltenen Anteile Posten wie Rücklagen, die der Definition von Eigenkapital entsprechen, und kündbare Finanzinstrumente, die dieser Definition nicht entsprechen, umfasst, nicht aus (siehe erläuterndes Beispiel 8).
+
+19 Kann sich ein Unternehmen bei der Erfüllung einer vertraglichen Verpflichtung nicht uneingeschränkt der Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten entziehen, so entspricht diese Verpflichtung mit Ausnahme der nach den Paragraphen 16A und 16B oder 16C und 16D als Eigenkapitalinstrumente eingestuften Instrumente der Definition einer finanziellen Verbindlichkeit. Hierzu folgende Beispiele:
+a) 
+
+Ist die Fähigkeit eines Unternehmens zur Erfüllung der vertraglichen Verpflichtung beispielsweise durch fehlenden Zugang zu Fremdwährung oder die Notwendigkeit, von einer Aufsichtsbehörde eine Zahlungsgenehmigung zu erlangen, beschränkt, so entbindet dies das Unternehmen nicht von seiner vertraglichen Verpflichtung bzw. beeinträchtigt nicht das vertragliche Recht des Inhabers bezüglich des Finanzinstruments.
+b) 
+
+Eine vertragliche Verpflichtung, die nur dann zu erfüllen ist, wenn eine Vertragspartei ihr Rückkaufsrecht in Anspruch nimmt, stellt eine finanzielle Verbindlichkeit dar, weil sich das Unternehmen in diesem Fall nicht uneingeschränkt der Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten entziehen kann.
+
+20 Ein Finanzinstrument, das nicht ausdrücklich eine vertragliche Verpflichtung zur Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten enthält, kann eine solche Verpflichtung auch indirekt über die Vertragsbedingungen begründen, Hierzu folgende Beispiele:
+a) 
+
+Ein Finanzinstrument kann eine nichtfinanzielle Verpflichtung enthalten, die nur dann zu erfüllen ist, wenn das Unternehmen keine Ausschüttung vornimmt oder das Instrument nicht zurückkauft. Kann das Unternehmen die Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten nur durch Erfüllung der nichtfinanziellen Verpflichtung vermeiden, ist das Finanzinstrument als finanzielle Verbindlichkeit einzustufen.
+b) 
+
+Ein Finanzinstrument ist auch dann eine finanzielle Verbindlichkeit, wenn das Unternehmen zur Erfüllung
+i) 
+
+Zahlungsmittel oder andere finanzielle Vermögenswerte oder
+ii) 
+
+eigene Anteile, deren Wert wesentlich höher angesetzt wird als der der Zahlungsmittel oder anderen finanziellen Vermögenswerte, liefern muss.
+
+Auch wenn das Unternehmen vertraglich nicht ausdrücklich zur Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten verpflichtet ist, wird es sich aufgrund des Werts der Anteile für einen Ausgleich in bar entscheiden. In jedem Fall wird dem Inhaber die Auszahlung eines Betrags garantiert, der der wirtschaftlichen Substanz nach mindestens dem bei Wahl einer Vertragserfüllung in bar zu entrichtenden Betrag entspricht (siehe Paragraph 21).
+
+Erfüllung in eigenen Eigenkapitalinstrumenten des Unternehmens (Paragraph 16(b))
+
+21 Der Umstand, dass ein Vertrag den Empfang oder die Lieferung von eigenen Eigenkapitalinstrumenten des Unternehmens nach sich ziehen kann, reicht allein nicht aus, um ihn als Eigenkapitalinstrument einzustufen. Ein Unternehmen kann vertraglich berechtigt oder verpflichtet sein, eine variable Anzahl eigener Anteile oder anderer Eigenkapitalinstrumente zu empfangen oder zu liefern, deren Höhe so bemessen wird, dass der beizulegende Zeitwert der zu empfangenden oder zu liefernden Eigenkapitalinstrumente des Unternehmens dem in Bezug auf das vertragliche Recht oder die vertragliche Verpflichtung festgelegten Betrag entspricht. Das vertragliche Recht oder die vertragliche Verpflichtung kann sich auf einen festen Betrag oder auf einen ganz oder teilweise in Abhängigkeit von einer anderen Variablen als dem Marktpreis der eigenen Eigenkapitalinstrumente (z. B. einem Zinssatz, einem Warenpreis oder dem Preis für ein Finanzinstrument) schwankenden Betrag beziehen. Zwei Beispiele hierfür sind (a) ein Vertrag zur Lieferung von eigenen Eigenkapitalinstrumenten eines Unternehmens im Wert von 100 WE ( 16 ) und (b) ein Vertrag zur Lieferung von eigenen Eigenkapitalinstrumenten des Unternehmens im Wert von 100 Unzen Gold. Auch wenn ein solcher Vertrag durch Lieferung von eigenen Eigenkapitalinstrumenten erfüllt werden muss oder kann, stellt er eine finanzielle Verbindlichkeit des Unternehmens dar. Es handelt sich nicht um ein Eigenkapitalinstrument, weil das Unternehmen zur Erfüllung des Vertrags eine variable Anzahl eigener Eigenkapitalinstrumente verwendet. Dementsprechend begründet der Vertrag keinen Residualanspruch an den Vermögenswerten des Unternehmens nach Abzug aller Schulden.
+
+22 Abgesehen von den in Paragraph 22A genannten Fällen ist ein Vertrag, zu dessen Erfüllung das Unternehmen eine feste Anzahl eigener Eigenkapitalinstrumente gegen einen festen Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten (erhält oder) liefert, als Eigenkapitalinstrument einzustufen. So stellt eine ausgegebene Anteilsoption, die die Vertragspartei gegen Entrichtung eines festgelegten Preises oder eines festgelegten Kapitalbetrags einer Anleihe zum Kauf einer festen Anzahl von Anteilen des Unternehmens berechtigt, ein Eigenkapitalinstrument dar. Sollte sich der beizulegende Zeitwert eines Vertrags infolge von Schwankungen der Marktzinssätze ändern, ohne dass sich dies auf die Höhe der bei Vertragserfüllung zu entrichtenden Zahlungsmittel oder anderen Vermögenswerte oder die Anzahl der zu liefernden oder zu erhaltenden Eigenkapitalinstrumente auswirkt, so schließt dies die Einstufung des Vertrags als Eigenkapitalinstrument nicht aus. Sämtliche erhaltenen Gegenleistungen (wie beispielsweise das Agio auf eine geschriebene Option oder ein Optionsschein auf die eigenen Anteile des Unternehmens) werden direkt zum Eigenkapital hinzugerechnet. Sämtliche gewährten Gegenleistungen (wie beispielsweise das auf eine erworbene Option gezahlte Agio) werden direkt vom Eigenkapital abgezogen. Änderungen des beizulegenden Zeitwerts eines Eigenkapitalinstruments sind nicht im Abschluss auszuweisen.
+
+22A Handelt es sich bei den eigenen Eigenkapitalinstrumenten des Unternehmens, die es bei Vertragserfüllung entgegenzunehmen oder zu liefern hat, um kündbare Finanzinstrumente, die alle in den Paragraphen 16A und 16B beschriebenen Merkmale aufweisen und die dort genannten Bedingungen erfüllen, oder um Instrumente, die das Unternehmen dazu verpflichten, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen und die alle in den Paragraphen 16C und 16D beschriebenen Merkmale aufweisen und die dort genannten Bedingungen erfüllen, so ist der Vertrag als finanzieller Vermögenswert bzw. finanzielle Verbindlichkeit einzustufen. Dies gilt auch für Verträge, zu deren Erfüllung das Unternehmen im Austausch gegen einen festen Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten eine feste Anzahl dieser Instrumente zu liefern hat.
+
+23 Abgesehen von den in den Paragraphen 16A und 16B oder 16C und 16D beschriebenen Umständen begründet ein Vertrag, der ein Unternehmen zum Kauf eigener Eigenkapitalinstrumente gegen Zahlungsmittel oder andere finanzielle Vermögenswerte verpflichtet, eine finanzielle Verbindlichkeit in Höhe des Barwerts des Rückzahlungsbetrags (beispielsweise in Höhe des Barwerts des Rückkaufpreises eines Termingeschäfts, des Ausübungskurses einer Option oder eines anderen Rückzahlungsbetrags). Dies ist auch dann der Fall, wenn der Vertrag selbst ein Eigenkapitalinstrument ist. Ein Beispiel hierfür ist die aus einem Termingeschäft resultierende Verpflichtung eines Unternehmens, eigene Eigenkapitalinstrumente gegen Zahlungsmittel zurückzuerwerben. Beim erstmaligen Ansatz ist die finanzielle Verbindlichkeit zum Barwert des Rückzahlungsbetrags anzusetzen und aus dem Eigenkapital umzugliedern. Anschließend wird sie gemäß IFRS 9 bewertet. Läuft der Vertrag aus, ohne dass eine Lieferung erfolgt, wird der Buchwert der finanziellen Verbindlichkeit wieder in das Eigenkapital umgegliedert. Die vertragliche Verpflichtung eines Unternehmens zum Kauf eigener Eigenkapitalinstrumente begründet auch dann eine finanzielle Verbindlichkeit in Höhe des Barwerts des Rückzahlungsbetrags, wenn die Kaufverpflichtung nur bei Ausübung des Rückgaberechts durch die Vertragspartei (z. B. durch Inanspruchnahme einer geschriebenen Verkaufsoption, welche die Vertragspartei zum Verkauf der Eigenkapitalinstrumente an das Unternehmen zu einem festen Preis berechtigt) zu erfüllen ist.
+
+24 Ein Vertrag, zu dessen Erfüllung das Unternehmen eine feste Anzahl eigener Eigenkapitalinstrumente gegen einen variablen Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten liefert oder erhält, ist als finanzieller Vermögenswert bzw. finanzielle Verbindlichkeit einzustufen. Ein Beispiel ist ein Vertrag, bei dem das Unternehmen 100 eigene Eigenkapitalinstrumente gegen Zahlungsmittel im Wert von 100 Unzen Gold liefert.
+
+Bedingte Erfüllungsvereinbarungen
+
+25 Ein Finanzinstrument kann das Unternehmen zur Lieferung von Zahlungsmitteln oder anderen Vermögenswerten oder zu einer anderen als finanzielle Verbindlichkeit einzustufenden Erfüllung verpflichten, die vom Eintreten oder Nichteintreten ungewisser künftiger Ereignisse (oder dem Ausgang ungewisser Umstände), die außerhalb der Kontrolle sowohl des Emittenten als auch des Inhabers des Instruments liegen, abhängig sind; hierzu zählen beispielsweise Änderungen eines Aktienindex, Verbraucherpreisindex, Zinssatzes oder steuerlicher Vorschriften oder die künftigen Erträge, das Periodenergebnis oder der Verschuldungsgrad des Emittenten. Der Emittent eines solchen Instruments kann sich der Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten (oder einer anderen als finanzielle Verbindlichkeit einzustufenden Erfüllung des Vertrags) nicht uneingeschränkt entziehen, sodass eine finanzielle Verbindlichkeit des Emittenten vorliegt, es sei denn,
+a) 
+
+der Teil der bedingten Erfüllungsvereinbarung, der eine Erfüllung in Zahlungsmitteln oder anderen finanziellen Vermögenswerten (oder eine andere als finanzielle Verbindlichkeit einzustufende Art der Erfüllung) erforderlich machen könnte, besteht nicht wirklich,
+b) 
+
+vom Emittenten kann nur im Falle seiner Liquidation verlangt werden, die Verpflichtung in Zahlungsmitteln oder anderen finanziellen Vermögenswerten (oder auf eine andere als finanzielle Verbindlichkeit einzustufende Weise) zu erfüllen, oder
+c) 
+
+das Instrument weist alle in den Paragraphen 16A und 16B beschriebenen Merkmale auf und erfüllt die dort genannten Bedingungen.
+
+Erfüllungswahlrecht
+
+26   Ein Derivat, das einer Vertragspartei die Art der Erfüllung freistellt (der Emittent oder Inhaber kann sich z. B. für einen Nettoausgleich in bar oder durch den Tausch von Anteilen gegen Zahlungsmittel entscheiden), stellt einen finanziellen Vermögenswert oder eine finanzielle Verbindlichkeit dar, sofern nicht alle Erfüllungsalternativen zu einer Einstufung als Eigenkapitalinstrument führen würden.
+
+27 Ein Beispiel für ein als finanzielle Verbindlichkeit einzustufendes Derivat mit Erfüllungswahlrecht ist eine Anteilsoption, bei der der Emittent die Wahl hat, ob er diese in bar oder durch den Tausch eigener Anteile gegen Zahlungsmittel erfüllt. Ähnliches gilt für einige Verträge über den Kauf oder Verkauf eines nichtfinanziellen Postens gegen eigene Eigenkapitalinstrumente des Unternehmens, die ebenfalls in den Anwendungsbereich dieses Standards fallen, da sie wahlweise durch Lieferung des nichtfinanziellen Postens oder durch einen Nettoausgleich in bar oder in anderen Finanzinstrumenten erfüllt werden können (siehe Paragraphen 8–10). Solche Verträge sind finanzielle Vermögenswerte oder finanzielle Verbindlichkeiten und keine Eigenkapitalinstrumente.
+
+Zusammengesetzte Finanzinstrumente (siehe auch Paragraphen AL30–A35 und erläuternde Beispiele 9–12)
+
+28   Der Emittent eines nicht derivativen Finanzinstruments hat anhand der Vertragsbedingungen des Finanzinstruments festzustellen, ob das Instrument sowohl eine Schuld- als auch eine Eigenkapitalkomponente enthält. Diese Komponenten sind zu trennen und gemäß Paragraph 15 als finanzielle Verbindlichkeiten, finanzielle Vermögenswerte oder Eigenkapitalinstrumente einzustufen.
+
+29 Bei einem Finanzinstrument, das (a) eine finanzielle Verbindlichkeit des Unternehmens begründet und (b) seinem Inhaber eine Option auf Umwandlung in ein Eigenkapitalinstrument des Unternehmens garantiert, sind diese beiden Komponenten vom Unternehmen getrennt zu erfassen. Wandelschuldverschreibungen oder ähnliche Instrumente, die der Inhaber in eine feste Anzahl von Stammanteilen des Unternehmens umwandeln kann, sind Beispiele für zusammengesetzte Finanzinstrumente. Aus Sicht des Unternehmens besteht ein solches Instrument aus zwei Komponenten: einer finanziellen Verbindlichkeit (einer vertraglichen Vereinbarung zur Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten) und einem Eigenkapitalinstrument (einer Kaufoption, die dem Inhaber für einen bestimmten Zeitraum das Recht auf Umwandlung in eine feste Anzahl von Stammanteilen des Unternehmens garantiert). Wirtschaftlich gesehen hat die Emission eines solchen Finanzinstruments im Wesentlichen die gleichen Auswirkungen wie die Emission eines Schuldinstruments mit Vereinbarung der Möglichkeit vorzeitiger Erfüllung, das gleichzeitig mit einem Bezugsrecht auf Stammanteilen verknüpft ist, oder die Emission eines Schuldinstruments mit abtrennbaren Optionsscheinen zum Erwerb von Anteilen. Dementsprechend hat ein Unternehmen in allen Fällen dieser Art die Schuld- und die Eigenkapitalkomponenten getrennt in seiner Bilanz auszuweisen.
+
+30 Die Einstufung der Schuld- und Eigenkapitalkomponente eines wandelbaren Instruments wird auch dann beibehalten, wenn sich die Wahrscheinlichkeit ändert, dass die Tauschoption ausgeübt wird; dies gilt auch dann, wenn die Ausübung der Tauschoption für einige Inhaber wirtschaftlich vorteilhaft erscheint. Die Inhaber handeln nicht immer in der erwarteten Weise, weil zum Beispiel die steuerlichen Folgen aus der Umwandlung bei jedem Inhaber unterschiedlich sein können. Darüber hinaus ändert sich die Wahrscheinlichkeit der Umwandlung von Zeit zu Zeit. Die vertragliche Verpflichtung des Unternehmens zu künftigen Zahlungen bleibt so lange bestehen, bis sie durch Umwandlung, Fälligkeit des Instruments oder andere Umstände getilgt ist.
+
+31 In IFRS 9 geht es um die Bewertung finanzieller Vermögenswerte und finanzieller Verbindlichkeiten. Eigenkapitalinstrumente sind Finanzinstrumente, die einen Residualanspruch an den Vermögenswerten eines Unternehmens nach Abzug aller dazugehörigen Schulden begründen. Bei der Aufteilung des erstmaligen Buchwerts eines zusammengesetzten Finanzinstruments auf die Eigen- und Schuldkomponente wird der Eigenkapitalkomponente der Restwert zugewiesen, der sich nach Abzug des getrennt für die Schuldkomponente ermittelten Betrags vom beizulegenden Zeitwert des gesamten Instruments ergibt. Der Wert der derivativen Ausstattungsmerkmale (z. B. einer Kaufoption), die in ein zusammengesetztes Finanzinstrument eingebettet sind und keine Eigenkapitalkomponente darstellen (z. B. eine Option zur Umwandlung in ein Eigenkapitalinstrument), wird der Schuldkomponente hinzugerechnet. Die Summe der Buchwerte, die beim erstmaligen Ansatz in der Bilanz für die Schuld- und die Eigenkapitalkomponente ermittelt werden, ist in jedem Fall gleich dem beizulegenden Zeitwert, der für das Finanzinstrument als Ganzes anzusetzen wäre. Durch den getrennten erstmaligen Ansatz der Komponenten des Instruments entstehen keine Gewinne oder Verluste.
+
+32 Bei dem in Paragraph 31 beschriebenen Ansatz bestimmt der Emittent einer in Stammanteile umwandelbaren Anleihe zunächst den Buchwert der Schuldkomponente, indem er den beizulegenden Zeitwert einer ähnlichen, nicht mit einer Eigenkapitalkomponente verbundenen Verbindlichkeit (einschließlich aller eingebetteten derivativen Ausstattungsmerkmale ohne Eigenkapitalcharakter) ermittelt. Der Buchwert eines Eigenkapitalinstruments, der durch die Option auf Umwandlung des Instruments in Stammanteile repräsentiert wird, ergibt sich danach durch Subtraktion des beizulegenden Zeitwerts der finanziellen Verbindlichkeit vom beizulegenden Zeitwert des gesamten zusammengesetzten Finanzinstruments.
+
+Eigene Anteile (siehe auch Paragraph AL36)
+
+33   Erwirbt ein Unternehmen seine eigenen Eigenkapitalinstrumente zurück, so sind diese Instrumente („eigene Anteile“) vom Eigenkapital abzuziehen. Weder Kauf noch Verkauf, Ausgabe oder Einziehung von eigenen Eigenkapitalinstrumenten werden erfolgswirksam erfasst. Solche eigenen Anteile können vom Unternehmen selbst oder von anderen Konzernunternehmen erworben und gehalten werden. Alle gezahlten oder erhaltenen Gegenleistungen sind direkt im Eigenkapital zu erfassen.
+
+33A Einige Unternehmen betreiben intern oder extern einen Investmentfonds, der für die Anleger Leistungen erbringt, die sich nach der Anzahl der Fondsanteile richten. Für die an diese Anleger auszuzahlenden Beträge setzen diese Unternehmen finanzielle Verbindlichkeiten an. Ebenso zeichnen einige Unternehmen Gruppen von Versicherungsverträgen mit direkter Überschussbeteiligung und halten die zugrunde liegenden Referenzwerte. Einige dieser Fonds oder zugrunde liegenden Referenzwerte umfassen eigene Anteile des Unternehmens. Ungeachtet von Paragraph 33 kann ein Unternehmen wählen, einen eigenen Anteil, der Teil eines solchen Fonds oder ein zugrunde liegender Referenzwert ist, nicht vom Eigenkapital abzuziehen, allerdings nur dann, wenn das Unternehmen seine eigenen Eigenkapitalinstrumente zu diesen Zwecken zurückerwirbt. Das Unternehmen kann stattdessen wählen, diesen eigenen Anteil weiterhin als Eigenkapital zu bilanzieren und das zurückerworbene Instrument so zu bilanzieren, als sei es ein finanzieller Vermögenswert, und dieses Instrument gemäß IFRS 9 erfolgswirksam zum beizulegenden Zeitwert zu bewerten. Diese Entscheidung ist unwiderruflich und wird für jedes Instrument einzeln getroffen. Für die Zwecke dieses Wahlrechts umfassen Versicherungsverträge auch Kapitalanlageverträge mit ermessensabhängiger Überschussbeteiligung. (Siehe IFRS 17 in Bezug auf die in diesem Paragraphen verwendeten Begriffe, die in IFRS 17 definiert sind.)
+
+34 Der Betrag der gehaltenen eigenen Anteile ist gemäß IAS 1 Darstellung des Abschlusses in der Bilanz oder im Anhang gesondert auszuweisen. Beim Rückerwerb eigener Eigenkapitalinstrumente von nahestehende Unternehmen und Personen sind die Angabepflichten gemäß IAS 24 Angaben über Beziehungen zu nahestehenden Unternehmen und Personen zu beachten.
+
+Zinsen, Dividenden, Verluste und Gewinne (siehe auch Paragraph AL37)
+
+35   Zinsen, Dividenden, Verluste und Gewinne im Zusammenhang mit Finanzinstrumenten oder einer ihrer Komponenten, die finanzielle Verbindlichkeiten darstellen, sind erfolgswirksam zu erfassen. Ausschüttungen an Inhaber eines Eigenkapitalinstruments sind vom Unternehmen direkt im Eigenkapital zu erfassen. Die Transaktionskosten einer Eigenkapitaltransaktion sind als Abzug vom Eigenkapital zu bilanzieren.
+
+35A Die Ertragsteuern im Zusammenhang mit Ausschüttungen an Inhaber eines Eigenkapitalinstruments und den Transaktionskosten einer Eigenkapitaltransaktion sind gemäß IAS 12 Ertragsteuern zu bilanzieren.
+
+36 Die Einstufung eines Finanzinstruments als finanzielle Verbindlichkeit oder als Eigenkapitalinstrument ist ausschlaggebend dafür, ob die mit diesem Instrument verbundenen Zinsen, Dividenden, Verluste und Gewinne erfolgswirksam erfasst werden. Daher sind auch Dividendenausschüttungen für als Verbindlichkeiten angesetzte Anteile genauso als Aufwand zu erfassen wie beispielsweise Zinsen für eine Anleihe. Entsprechend sind auch mit der Rücknahme oder der Refinanzierung von finanziellen Verbindlichkeiten verbundene Gewinne oder Verluste erfolgswirksam zu erfassen, während hingegen die Rücknahme oder die Refinanzierung von Eigenkapitalinstrumenten als Bewegungen im Eigenkapital abgebildet werden. Änderungen des beizulegenden Zeitwerts eines Eigenkapitalinstruments sind nicht im Abschluss auszuweisen.
+
+37 Einem Unternehmen entstehen bei Ausgabe oder Erwerb eigener Eigenkapitalinstrumente in der Regel verschiedene Kosten. Hierzu zählen beispielsweise Register- und andere behördliche Gebühren, Honorare für Rechtsberater, Wirtschaftsprüfer und andere professionelle Berater, Druckkosten und Börsenumsatzsteuern. Die Transaktionskosten einer Eigenkapitaltransaktion sind als Abzug vom Eigenkapital zu bilanzieren, soweit es sich um zusätzliche, der Eigenkapitaltransaktion einzeln zuordenbare Kosten handelt, die andernfalls vermieden worden wären. Die Kosten einer eingestellten Eigenkapitaltransaktion sind als Aufwand zu erfassen.
+
+38 Transaktionskosten, die mit der Ausgabe eines zusammengesetzten Finanzinstruments verbunden sind, sind der Schuld- und Eigenkapitalkomponente des Finanzinstruments in dem Verhältnis zuzurechnen, wie die empfangene Gegenleistung zugeordnet wurde. Transaktionskosten, die sich insgesamt auf mehr als eine Transaktion beziehen, wie Kosten eines gleichzeitigen Zeichnungsangebots für neue Anteile und für die Börsennotierung bereits ausgegebener Anteile sind anhand eines sinnvollen, bei ähnlichen Transaktionen verwendeten Schlüssels auf die einzelnen Transaktionen umzulegen.
+
+39 Der Betrag der Transaktionskosten, der in der Periode als Abzug vom Eigenkapital bilanziert wurde, ist nach IAS 1 gesondert anzugeben.
+
+40 Als Aufwendungen eingestufte Dividenden können in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis entweder mit Zinsaufwendungen für andere Verbindlichkeiten in einem Posten zusammengefasst oder gesondert ausgewiesen werden. Zusätzlich zu den Vorschriften dieses Standards sind bei Zinsen und Dividenden die Angabepflichten von IAS 1 und IFRS 7 zu beachten. Sofern jedoch, beispielsweise im Hinblick auf die steuerliche Abzugsfähigkeit, Unterschiede in der Behandlung von Dividenden und Zinsen bestehen, ist ein gesonderter Ausweis in der Darstellung/den Darstellungen von Gewinn oder Verlust und sonstigem Ergebnis wünschenswert. Bei den Angaben zu steuerlichen Einflüssen sind die Vorschriften nach IAS 12 zu erfüllen.
+
+41 Gewinne und Verluste infolge von Änderungen des Buchwerts einer finanziellen Verbindlichkeit sind selbst dann erfolgswirksam zu erfassen, wenn sie sich auf ein Instrument beziehen, das einen Residualanspruch auf die Vermögenswerte des Unternehmens im Austausch gegen Zahlungsmittel oder andere finanzielle Vermögenswerte begründet (siehe Paragraph 18(b)). Nach IAS 1 sind Gewinne und Verluste, die durch die Neubewertung eines derartigen Instruments entstehen, gesondert in der Gesamtergebnisrechnung auszuweisen, wenn dies für die Erläuterung der Ertragslage des Unternehmens relevant ist.
+
+Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten (siehe auch Paragraphen AL38A–AL38F und AL39)
+
+42   Finanzielle Vermögenswerte und Verbindlichkeiten sind nur dann zu saldieren und als Nettobetrag in der Bilanz auszuweisen, wenn ein Unternehmen
+a) 
+
+zum gegenwärtigen Zeitpunkt ein einklagbares Recht hat, die erfassten Beträge miteinander zu verrechnen, und
+b) 
+
+beabsichtigt, entweder den Ausgleich auf Nettobasis herbeizuführen, oder gleichzeitig mit der Verwertung des betreffenden Vermögenswerts die dazugehörige Verbindlichkeit abzulösen.
+
+Wenn die Übertragung eines finanziellen Vermögenswerts die Voraussetzungen für eine Ausbuchung nicht erfüllt, dürfen der übertragene Vermögenswert und die verbundene Verbindlichkeit bei der Bilanzierung nicht saldiert werden (siehe Paragraph 3.2.22 von IFRS 9).
+
+43 Finanzielle Vermögenswerte und finanzielle Verbindlichkeiten müssen diesem Standard zufolge auf Nettobasis dargestellt werden, wenn dadurch die erwarteten künftigen Zahlungsströme eines Unternehmens aus dem Ausgleich von zwei oder mehreren verschiedenen Finanzinstrumenten abgebildet werden. Wenn ein Unternehmen das Recht hat, einen einzelnen Nettobetrag zu erhalten bzw. zu zahlen und dies auch zu tun beabsichtigt, hat es tatsächlich nur einen einzigen finanziellen Vermögenswert bzw. nur eine einzige finanzielle Verbindlichkeit. In anderen Fällen werden die finanziellen Vermögenswerte und finanziellen Verbindlichkeiten entsprechend ihrer Eigenschaft als Ressource oder Verpflichtung des Unternehmens voneinander getrennt dargestellt. Ein Unternehmen hat die gemäß den Paragraphen 13B–13E von IFRS 7 für angesetzte Finanzinstrumente verlangten Informationen anzugeben, sofern diese Instrumente in den Anwendungsbereich des Paragraphen 13A von IFRS 7 fallen.
+
+44 Die Saldierung eines angesetzten finanziellen Vermögenswerts mit einer angesetzten finanziellen Verbindlichkeit einschließlich der Darstellung des Nettobetrags ist von der Ausbuchung eines finanziellen Vermögenswerts und einer finanziellen Verbindlichkeit in der Bilanz zu unterscheiden. Während die Saldierung nicht zur Erfassung von Gewinnen und Verlusten führt, hat die Ausbuchung eines Finanzinstruments aus der Bilanz nicht nur den Abgang eines bis dahin bilanzwirksamen Postens, sondern möglicherweise auch die Erfassung von Gewinnen oder Verlusten zur Folge.
+
+45 Der Anspruch auf Saldierung ist ein auf vertraglicher oder anderer Grundlage beruhendes einklagbares Recht eines Schuldners, eine Verbindlichkeit gegenüber einem Gläubiger ganz oder teilweise mit einer eigenen Forderung gegenüber diesem Gläubiger zu verrechnen oder anderweitig zu eliminieren. In außergewöhnlichen Fällen kann ein Schuldner berechtigt sein, eine Forderung gegenüber einem Dritten mit einer Verbindlichkeit gegenüber einem Gläubiger zu verrechnen, vorausgesetzt, dass zwischen allen drei Beteiligten eine eindeutige Vereinbarung über den Anspruch auf Saldierung vorliegt. Da der Anspruch auf Saldierung ein Rechtsanspruch ist, sind die Bedingungen, unter denen Saldierungsvereinbarungen gültig sind, abhängig von den Gebräuchen des Rechtskreises, in dem sie getroffen werden; daher sind im Einzelfall immer die für das Vertragsverhältnis zwischen den Parteien maßgeblichen Rechtsvorschriften zu berücksichtigen.
+
+46 Besteht ein einklagbares Recht auf Saldierung eines finanziellen Vermögenswerts mit einer finanziellen Verbindlichkeit, wirkt sich dies nicht nur auf die Rechte und Pflichten aus, die mit dem betreffenden finanziellen Vermögenswert und der betreffenden finanziellen Verbindlichkeit verbunden sind, sondern kann auch die Ausfall- und Liquiditätsrisiken des Unternehmens beeinflussen. Das Bestehen eines solchen Rechts stellt für sich genommen aber noch keine hinreichende Voraussetzung für die Saldierung von Vermögens- und Schuldposten dar. Wenn nicht die Absicht besteht, von diesem Recht auch tatsächlich Gebrauch zu machen oder die jeweiligen Forderungen und Verbindlichkeiten zum selben Zeitpunkt zu bedienen, wirkt es sich weder auf die Höhe noch auf den Zeitpunkt der künftigen Zahlungsströme eines Unternehmens aus. Beabsichtigt ein Unternehmen jedoch, von dem Anspruch auf Saldierung Gebrauch zu machen oder die jeweiligen Forderungen und Verbindlichkeiten zum selben Zeitpunkt zu bedienen, spiegelt die Nettodarstellung des Vermögenswerts und der Verbindlichkeit die Höhe und den Zeitpunkt erwarteter künftiger Zahlungsströme sowie die mit diesen Zahlungsströmen verbundenen Risiken besser wider als die Bruttodarstellung. Die bloße Absicht einer oder beider Vertragsparteien, Forderungen und Verbindlichkeiten auf Nettobasis ohne rechtlich bindende Vereinbarung auszugleichen, stellt keine ausreichende Grundlage für eine bilanzielle Saldierung dar, da die mit den einzelnen finanziellen Vermögenswerten und Verbindlichkeiten verbundenen Rechte und Pflichten unverändert fortbestehen.
+
+47 Die Absichten eines Unternehmens bezüglich der Erfüllung von einzelnen Vermögens- und Schuldposten können durch die üblichen Geschäftspraktiken, die Anforderungen der Finanzmärkte und andere Umstände beeinflusst werden, die die Fähigkeit zur Bedienung auf Nettobasis oder zur gleichzeitigen Bedienung begrenzen. Hat ein Unternehmen einen Anspruch auf Saldierung, beabsichtigt aber nicht, auf Nettobasis auszugleichen bzw. den Vermögenswert zu verwerten und gleichzeitig die Verbindlichkeit zu begleichen, werden die Auswirkungen dieses Anspruchs auf das Ausfallrisiko, dem das Unternehmen ausgesetzt ist, gemäß Paragraph 36 von IFRS 7 angegeben.
+
+48 Der gleichzeitige Ausgleich von zwei Finanzinstrumenten kann zum Beispiel durch direkten Austausch oder über eine Clearingstelle in einem organisierten Finanzmarkt erfolgen. In solchen Fällen findet tatsächlich nur ein einziger Finanzmitteltransfer statt, wobei weder ein Ausfall- noch ein Liquiditätsrisiko besteht. Erfolgt der Ausgleich über zwei voneinander getrennte (zu erhaltende bzw. zu leistende) Zahlungen, kann ein Unternehmen im Hinblick auf den vollen Betrag der betreffenden finanziellen Forderungen durchaus einem Ausfallrisiko und im Hinblick auf den vollen Betrag der finanziellen Verbindlichkeit einem Liquiditätsrisiko ausgesetzt sein. Auch wenn sie nur kurzzeitig auftreten, können solche Risikopositionen erheblich sein. Die Verwertung eines finanziellen Vermögenswerts und die Begleichung einer finanziellen Verbindlichkeit werden nur dann als gleichzeitig behandelt, wenn die Geschäftsvorfälle zum selben Zeitpunkt stattfinden.
+
+49 In den nachstehend genannten Fällen sind die in Paragraph 42 genannten Voraussetzungen im Allgemeinen nicht erfüllt, sodass eine Saldierung unangemessen ist,
+a) 
+
+wenn mehrere verschiedene Finanzinstrumente kombiniert werden, um die Merkmale eines einzelnen Finanzinstruments (eines „synthetischen Finanzinstruments“) nachzuahmen,
+b) 
+
+wenn aus Finanzinstrumenten mit gleichem Risikoprofil, aber unterschiedlichen Vertragsparteien finanzielle Vermögenswerte und Verbindlichkeiten resultieren (wie bei einem Portfolio von Termingeschäften oder anderen Derivaten),
+c) 
+
+wenn finanzielle oder andere Vermögenswerte als Sicherheit für finanzielle Verbindlichkeiten ohne Rückgriffsrecht verpfändet wurden,
+d) 
+
+wenn finanzielle Vermögenswerte von einem Schuldner zur Begleichung einer Verpflichtung in ein Treuhandverhältnis gegeben werden, ohne dass diese Vermögenswerte vom Gläubiger zum Ausgleich der Verbindlichkeit akzeptiert worden sind (beispielsweise eine Tilgungsfondsvereinbarung), oder
+e) 
+
+wenn bei Verpflichtungen, die aus Schadensereignissen entstehen, zu erwarten ist, dass diese durch Ersatzleistungen von Dritten beglichen werden, weil aus einem Versicherungsvertrag ein entsprechender Entschädigungsanspruch abgeleitet werden kann.
+
+50 Ein Unternehmen, das mit einer einzigen Vertragspartei eine Reihe von Geschäften mit Finanzinstrumenten tätigt, kann mit dieser Vertragspartei einen Globalverrechnungsvertrag schließen. Ein solcher Vertrag sieht für den Fall von Nichtzahlung oder Kündigung bei einem einzigen Instrument die sofortige Aufrechnung bzw. Abwicklung aller unter den Rahmenvertrag fallenden Finanzinstrumente vor. Solche Rahmenverträge werden für gewöhnlich von Finanzinstituten verwendet, um sich gegen Verluste aus eventuellen Insolvenzverfahren oder anderen Umständen zu schützen, die dazu führen können, dass die Vertragspartei ihren Verpflichtungen nicht nachkommen kann. Ein Globalverrechnungsvertrag schafft normalerweise nur einen bedingten Anspruch auf Saldierung, der nur dann im Rechtsweg durchgesetzt werden kann und die Verwertung oder Begleichung eines einzelnen finanziellen Vermögenswerts oder einer einzelnen finanziellen Verbindlichkeit nur dann beeinflussen kann, wenn ein tatsächlicher Zahlungsverzug oder andere Umstände vorliegen, mit denen im gewöhnlichen Geschäftsverlauf nicht zu rechnen ist. Ein Globalverrechnungsvertrag stellt für sich genommen keine Grundlage für eine Saldierung in der Bilanz dar, es sei denn, die Saldierungsvoraussetzungen gemäß Paragraph 42 sind ebenfalls erfüllt. Wenn finanzielle Vermögenswerte und finanzielle Verbindlichkeiten im Rahmen eines Globalverrechnungsvertrages nicht miteinander saldiert werden, sind die Auswirkungen des Vertrags auf das Ausfallrisiko, dem das Unternehmen ausgesetzt ist, gemäß Paragraph 36 von IFRS 7 anzugeben.
+
+51–95 [gestrichen]
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+96 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung ist zulässig. Eine Anwendung dieses Standards auf Geschäftsjahre, die vor dem 1. Januar 2005 beginnen, ist jedoch nur bei gleichzeitiger Anwendung von IAS 39 (veröffentlicht im Dezember 2003) in der im März 2004 geänderten Fassung gestattet. Wendet ein Unternehmen diesen Standard auf Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+96A Gemäß Kündbare Finanzinstrumente und bei Liquidation entstehende Verpflichtungen (im Februar 2008 veröffentlichte Änderungen an IAS 32 und IAS 1) sind Finanzinstrumente, die alle in den Paragraphen 16A und 16B oder 16C und 16D beschriebenen Merkmale aufweisen und die dort genannten Bedingungen erfüllen, als Eigenkapitalinstrumente einzustufen; darüber hinaus wurden mit dem genannten Dokument die Paragraphen 11, 16, 17–19, 22, 23, 25, AL13, AL14 und AL27 geändert und die Paragraphen 16A–16F, 22A, 96B, 96C, 97C, AL14A–AL14J und AL29A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf eine frühere Periode an, hat es dies anzugeben und gleichzeitig die entsprechenden Änderungen an IAS 1, IAS 39, IFRS 7 und IFRIC 2 anzuwenden.
+
+96B  Kündbare Finanzinstrumente und bei Liquidation entstehende Verpflichtungen sieht eine eingeschränkte Ausnahme vom Anwendungsbereich vor, die von einem Unternehmen folglich nicht analog anzuwenden ist.
+
+96C Die Einstufung von Instrumenten im Rahmen dieser Ausnahme ist auf die Bilanzierung der betreffenden Instrumente nach IAS 1, IAS 32, IAS 39, IFRS 7 und IFRS 9 zu beschränken. Im Rahmen anderer Standards, wie IFRS 2, sind die Instrumente dagegen nicht als Eigenkapitalinstrumente einzustufen.
+
+97 Dieser Standard ist rückwirkend anzuwenden.
+
+97A Durch IAS 1 (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurde Paragraph 40 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+97B Durch IFRS 3 Unternehmenszusammenschlüsse (in der 2008 überarbeiteten Fassung) wurde Paragraph 4(c) gestrichen. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IFRS 3 (überarbeitet 2008) auf eine frühere Periode an, so hat es auf diese frühere Periode auch die Änderung anzuwenden. Die Änderung ist jedoch nicht auf bedingte Gegenleistungen anzuwenden, die aus einem Unternehmenszusammenschluss stammen, bei dem der Erwerbszeitpunkt vor der Anwendung von IFRS 3 (überarbeitet 2008) liegt. Eine solche Gegenleistung ist stattdessen nach den Paragraphen 65A–65E der 2010 geänderten Fassung von IFRS 3 zu bilanzieren.
+
+97C Wendet ein Unternehmen die in Paragraph 96A genannten Änderungen an, so muss es ein zusammengesetztes Finanzinstrument, das mit der Verpflichtung verbunden ist, einer anderen Partei bei Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen, in eine Schuld- und eine Eigenkapitalkomponente aufspalten. Wenn die Schuldkomponente nicht länger aussteht, würde eine rückwirkende Anwendung dieser Änderungen an IAS 32 die Aufteilung in zwei Eigenkapitalkomponenten erfordern. Die erste wäre den Gewinnrücklagen zuzuordnen und wäre der kumulierte Zinszuwachs der Schuldkomponente. Die andere wäre die ursprüngliche Eigenkapitalkomponente. Steht die Schuldkomponente zum Zeitpunkt der Anwendung der Änderungen nicht mehr aus, so muss das Unternehmen diese beiden Komponenten folglich nicht voneinander trennen.
+
+97D Durch Verbesserungen an den IFRS, veröffentlicht im Mai 2008, wurde Paragraph 4 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderung auf eine frühere Periode an, so hat es dies anzugeben und die Änderungen an Paragraph 3 von IFRS 7, Paragraph 1 von IAS 28 und Paragraph 1 von IAS 31, veröffentlicht im Mai 2008, gleichzeitig anzuwenden. Ein Unternehmen kann die Änderungen prospektiv anwenden.
+
+97E Durch Klassifizierung von Bezugsrechten (veröffentlicht im Oktober 2009) wurden die Paragraphen 11 und 16 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Februar 2010 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+97F [gestrichen]
+
+97G Durch die Verbesserungen der IFRS, veröffentlicht im Mai 2010, wurde Paragraph 97B geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2010 beginnen. Eine frühere Anwendung ist zulässig.
+
+97H [gestrichen]
+
+97I Durch IFRS 10 und IFRS 11 Gemeinschaftliche Vereinbarungen, veröffentlicht im Mai 2011, wurden die Paragraphen 4(a) und AL29 geändert. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+97J Durch IFRS 13, veröffentlicht im Mai 2011, wurde die Definition des beizulegenden Zeitwerts in Paragraph 11 geändert und wurden die Paragraphen 23 und AL31 geändert. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+97K Durch Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurde Paragraph 40 geändert. Wendet ein Unternehmen IAS 1 (in der im Juni 2011 geänderten Fassung) an, hat es diese Änderung ebenfalls anzuwenden.
+
+97L Durch Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten (Änderungen an IAS 32), veröffentlicht im Dezember 2011, wurde Paragraph AL38 gestrichen und wurden die Paragraphen AL38A–AL38F eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Diese Änderungen sind rückwirkend anzuwenden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen ab einem früheren Zeitpunkt an, so hat es dies anzugeben und außerdem die Angaben gemäß Angaben – Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten (Änderungen an IFRS 7), veröffentlicht im Dezember 2011, zu machen.
+
+97M Mit der im Dezember 2011 veröffentlichten Verlautbarung Angaben – Saldierung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten (Änderungen an IFRS 7) wurde Paragraph 43 dahin gehend geändert, dass ein Unternehmen dazu verpflichtet wird, die in den Paragraphen 13B–13E von IFRS 7 verlangten Angaben zu angesetzten finanziellen Vermögenswerten im Anwendungsbereich des Paragraphen 13A von IFRS 7 zu machen. Diese Änderung ist auf Geschäftsjahre, die am oder nach dem 1. Januar 2013 beginnen, sowie auf Zwischenberichtsperioden innerhalb dieser Geschäftsjahre anzuwenden. Ein Unternehmen hat die durch diese Änderung verlangten Angaben rückwirkend zu machen.
+
+97N Durch die Jährlichen Verbesserungen, Zyklus 2009–2011, veröffentlicht im Mai 2012, wurden die Paragraphen 35, 37 und 39 geändert und Paragraph 35A eingefügt. Diese Änderung ist rückwirkend gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+97O Durch die im Oktober 2012 veröffentlichte Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27) wurde Paragraph 4 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung früher an, hat es alle in der Verlautbarung Investmentgesellschaften enthaltenen Änderungen gleichzeitig anzuwenden.
+
+97P [gestrichen]
+
+97Q Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurde Paragraph AL21 geändert. Wendet ein Unternehmen IFRS 15 an, ist diese Änderung ebenfalls anzuwenden.
+
+97R Durch IFRS 9 (in der im Juli 2014 veröffentlichten Fassung) wurden die Paragraphen 3, 4, 8, 12, 23, 31, 42, 96C, AL2 und AL30 geändert und die Paragraphen 97F, 97H und 97P gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+97S Durch IFRS 16 Leasingverhältnisse, veröffentlicht im Januar 2016, wurden die Paragraphen AL9 und AL10 geändert. Wendet ein Unternehmen IFRS 16 an, sind diese Änderungen ebenfalls anzuwenden.
+
+97T Durch IFRS 17, veröffentlicht im Mai 2017, wurden die Paragraphen 4, AL8 und AL36 geändert und Paragraph 33A eingefügt. Durch die im Juni 2020 veröffentlichte Verlautbarung Änderungen an IFRS 17 wurde Paragraph 4 nochmals geändert. Wendet ein Unternehmen IFRS 17 an, sind diese Änderungen ebenfalls anzuwenden.
+
+RÜCKNAHME ANDERER VERLAUTBARUNGEN
+
+98 Dieser Standard ersetzt IAS 32 Finanzinstrumente: Ansatz und Bewertung, überarbeitet im Jahr 2000 ( 17 ).
+
+99 Dieser Standard ersetzt die folgenden Interpretationen:
+a) 
+
+SIC-5 Klassifizierung von Finanzinstrumenten — Bedingte Erfüllungsvereinbarungen,
+b) 
+
+SIC-16 Gezeichnetes Kapital — Rückgekaufte eigene Eigenkapitalinstrumente (eigene Anteile) und
+c) 
+
+SIC-17 Eigenkapital — Kosten einer Eigenkapitaltransaktion.
+
+100 Dieser Standard widerruft die Entwurfsfassung der SIC-Interpretation D34 Financial Instruments — Instruments or Rights Redeemable by the Holder.
+
+Anhang
+
+ANWENDUNGSLEITLINIEN
+
+IAS 32 Finanzinstrumente: Darstellung
+
+Dieser Anhang ist integraler Bestandteil des Standards.
+
+AL1 In diesen Anwendungsleitlinien wird die Umsetzung bestimmter Aspekte des Standards erläutert.
+
+AL2 Der Standard behandelt nicht den Ansatz bzw. die Bewertung von Finanzinstrumenten. Die Vorschriften bezüglich des Ansatzes und der Bewertung von finanziellen Vermögenswerten und finanziellen Verbindlichkeiten sind in IFRS 9 dargelegt.
+
+DEFINITIONEN (PARAGRAPHEN 11–14)
+
+Finanzielle Vermögenswerte und finanzielle Verbindlichkeiten
+
+AL3 Zahlungsmittel (flüssige Mittel) stellen einen finanziellen Vermögenswert dar, weil sie das Austauschmedium und deshalb die Grundlage sind, auf der alle Geschäftsvorfälle im Abschluss bewertet und erfasst werden. Eine Einzahlung flüssiger Mittel auf ein laufendes Konto bei einer Bank oder einem ähnlichen Finanzinstitut ist ein finanzieller Vermögenswert, weil sie das vertragliche Recht des Einzahlenden darstellt, Zahlungsmittel von dem Finanzinstitut zu erhalten bzw. einen Scheck oder ein ähnliches Finanzinstrument zugunsten eines Gläubigers zur Begleichung einer finanziellen Verbindlichkeit zu verwenden.
+
+AL4 Typische Beispiele für finanzielle Vermögenswerte, die ein vertragliches Recht darstellen, zu einem künftigen Zeitpunkt Zahlungsmittel zu erhalten, und korrespondierend für finanzielle Verbindlichkeiten, die eine vertragliche Verpflichtung darstellen, zu einem künftigen Zeitpunkt Zahlungsmittel zu liefern, sind
+a) 
+
+Forderungen und Verbindlichkeiten aus Lieferungen und Leistungen,
+b) 
+
+Wechselforderungen und Wechselverbindlichkeiten,
+c) 
+
+Darlehensforderungen und Darlehensverbindlichkeiten und
+d) 
+
+Anleiheforderungen und Anleiheverbindlichkeiten.
+
+In allen Fällen steht dem vertraglichen Recht der einen Vertragspartei, Zahlungsmittel zu erhalten (oder der Verpflichtung, Zahlungsmittel abzugeben), korrespondierend die vertragliche Zahlungsverpflichtung (oder das Recht, Zahlungsmittel zu erhalten) der anderen Vertragspartei gegenüber.
+
+AL5 Andere Arten von Finanzinstrumenten sind solche, bei denen der (erwartete bzw. hingegebene) wirtschaftliche Nutzen nicht in Zahlungsmitteln, sondern in einem anderen finanziellen Vermögenswert besteht. Eine in Staatsanleihen zahlbare Wechselverbindlichkeit räumt dem Inhaber beispielsweise das vertragliche Recht ein und verpflichtet den Emittenten vertraglich zur Übergabe von Staatsanleihen und nicht von Zahlungsmitteln. Staatsanleihen sind finanzielle Vermögenswerte, weil sie eine Verpflichtung des emittierenden Staats auf Lieferung von Zahlungsmitteln darstellen. Wechsel stellen daher für den Wechselinhaber finanzielle Vermögenswerte dar, während sie für den Wechselemittenten finanzielle Verbindlichkeiten repräsentieren.
+
+AL6 Ewige Schuldinstrumente (wie beispielsweise ewige schuldrechtliche Papiere, ungesicherte Schuldverschreibungen und Schuldscheine) räumen dem Inhaber normalerweise ein vertragliches Recht darauf ein, auf unbestimmte Zeit zu festgesetzten Terminen Zinszahlungen zu erhalten. Der Inhaber hat hierbei entweder kein Recht auf Rückerhalt des Kapitalbetrags, oder er hat dieses Recht zu Bedingungen, die den Erhalt sehr unwahrscheinlich machen bzw. ihn auf einen Termin in ferner Zukunft festlegen. Ein Unternehmen kann beispielsweise ein Finanzinstrument emittieren, mit dem es sich für alle Ewigkeit zu jährlichen Zahlungen zu einem vereinbarten Zinssatz von 8 % des ausgewiesenen Nennwerts oder Kapitalbetrags von 1 000 WE ( 18 ) verpflichtet. Wenn der marktgängige Zinssatz für das Finanzinstrument bei Ausgabe 8 % beträgt, übernimmt der Emittent eine vertragliche Verpflichtung zu einer Reihe von künftigen Zinszahlungen, deren beizulegender Zeitwert (Barwert) beim erstmaligen Ansatz 1 000 WE beträgt. Der Inhaber bzw. der Emittent des Finanzinstruments hat einen finanziellen Vermögenswert bzw. eine finanzielle Verbindlichkeit.
+
+AL7 Ein vertragliches Recht auf oder eine vertragliche Verpflichtung zu Empfang, Lieferung oder Austausch von Finanzinstrumenten stellt selbst ein Finanzinstrument dar. Eine Kette von vertraglich vereinbarten Rechten oder Verpflichtungen erfüllt die Definition eines Finanzinstruments, wenn sie letztendlich zum Empfang oder zur Abgabe von Zahlungsmitteln oder zum Erwerb oder zur Emission von Eigenkapitalinstrumenten führt.
+
+AL8 Die Fähigkeit zur Wahrnehmung eines vertraglichen Rechts oder die Pflicht zur Erfüllung einer vertraglichen Verpflichtung kann unbedingt oder abhängig vom Eintreten eines künftigen Ereignisses sein. Zum Beispiel ist eine Bürgschaft ein dem Kreditgeber vertraglich eingeräumtes Recht auf Empfang von Zahlungsmitteln durch den Bürgen und eine korrespondierende vertragliche Verpflichtung des Bürgen zur Leistung einer Zahlung an den Kreditgeber, wenn der Kreditnehmer seinen Verpflichtungen nicht nachkommt. Das vertragliche Recht und die vertragliche Verpflichtung bestehen aufgrund früherer Rechtsgeschäfte oder Geschäftsvorfälle (Übernahme der Bürgschaft), selbst wenn die Fähigkeit des Kreditgebers zur Wahrnehmung seines Rechts und die Anforderung an den Bürgen, seinen Verpflichtungen nachzukommen, von einem künftigen Verzug des Kreditnehmers abhängig sind. Vom Eintreten bestimmter Ereignisse abhängige Rechte und Verpflichtungen erfüllen die Definition von finanziellen Vermögenswerten bzw. finanziellen Verbindlichkeiten, selbst wenn solche Vermögenswerte und Verbindlichkeiten nicht immer im Abschluss ausgewiesen werden. Einige dieser bedingten Rechte und Verpflichtungen können Versicherungsverträge im Anwendungsbereich von IFRS 17 sein.
+
+AL9 Ein Leasingverhältnis begründet in der Regel einen Anspruch des Leasinggebers auf Erhalt bzw. die Verpflichtung des Leasingnehmers zur Leistung einer Reihe von Zahlungen, die im Wesentlichen integrierten Tilgungs- und Zinszahlungen bei einem Darlehensvertrag entsprechen. Der Leasinggeber verbucht seine Investition als ausstehende Forderung aufgrund eines Finanzierungsleasingverhältnisses und nicht den dem Finanzierungsleasing zugrunde liegenden Vermögenswert. Somit betrachtet der Leasinggeber ein Finanzierungsleasingverhältnis als Finanzinstrument. Gemäß IFRS 16 erfasst ein Leasinggeber seinen Anspruch auf Erhalt von Leasingzahlungen im Rahmen eines Operating-Leasingverhältnisses nicht. Der Leasinggeber verbucht weiterhin den zugrunde liegenden Vermögenswert und nicht die gemäß Leasingvertrag ausstehende Forderung. Somit betrachtet der Leasinggeber ein Operating-Leasingverhältnis nicht als Finanzinstrument, außer im Hinblick auf einzelne jeweils fällige Zahlungen des Leasingnehmers.
+
+AL10 Materielle Vermögenswerte (wie Vorräte oder Sachanlagen), geleaste Vermögenswerte und immaterielle Vermögenswerte (wie Patente oder Warenrechte) gelten nicht als finanzielle Vermögenswerte. Mit der Verfügungsgewalt über materielle Vermögenswerte, geleaste Vermögenswerte und immaterielle Vermögenswerte ist zwar die Möglichkeit verbunden, Zahlungsmittelzuflüsse oder den Zufluss anderer finanzieller Vermögenswerte zu generieren, sie führt aber nicht zu einem Rechtsanspruch auf Zahlungsmittel oder andere finanzielle Vermögenswerte.
+
+AL11 Vermögenswerte (wie aktivische Abgrenzungen), bei denen der künftige wirtschaftliche Nutzen im Empfang von Waren oder Dienstleistungen und nicht im Recht auf Erhalt von Zahlungsmitteln oder anderen finanziellen Vermögenswerten besteht, sind keine finanziellen Vermögenswerte. Auch Posten wie passivische Abgrenzungen und die meisten Gewährleistungs- bzw. Garantieverpflichtungen gelten nicht als finanzielle Verbindlichkeiten, da die aus ihnen resultierenden Nutzenabflüsse in der Bereitstellung von Gütern und Dienstleistungen und nicht in einer vertraglichen Verpflichtung zur Abgabe von Zahlungsmitteln oder anderen finanziellen Vermögenswerten bestehen.
+
+AL12 Schulden oder Vermögenswerte, die nicht auf einer vertraglichen Vereinbarung basieren (wie Ertragsteuern, die aufgrund gesetzlicher Vorschriften erhoben werden), gelten nicht als finanzielle Verbindlichkeiten oder finanzielle Vermögenswerte. Die Bilanzierung von Ertragsteuern wird in IAS 12 behandelt. Auch die in IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen definierten faktischen Verpflichtungen werden nicht durch Verträge begründet und stellen keine finanziellen Verbindlichkeiten dar.
+
+Eigenkapitalinstrumente
+
+AL13 Beispiele für Eigenkapitalinstrumente sind u. a. nicht kündbare Stammanteile, einige kündbare Instrumente (siehe Paragraphen 16A und 16B), einige Instrumente, die das Unternehmen dazu verpflichten, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen (siehe Paragraphen 16C und 16D), einige Arten von Vorzugsanteilen (siehe Paragraphen AL25 und AL26) sowie Optionsscheine oder geschriebene Verkaufsoptionen, die den Inhaber zur Zeichnung oder zum Kauf einer festen Anzahl nicht kündbarer Stammanteile des emittierenden Unternehmens gegen einen festen Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten berechtigen. Die Verpflichtung eines Unternehmens, gegen einen festen Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten eine feste Anzahl eigener Eigenkapitalinstrumente auszugeben oder zu erwerben, ist (abgesehen von den in Paragraph 22A genannten Fällen) als Eigenkapitalinstrument des Unternehmens einzustufen. Wird das Unternehmen in einem solchen Vertrag jedoch zur Abgabe von Zahlungsmitteln oder anderen finanziellen Vermögenswerten verpflichtet, so entsteht (sofern es sich nicht um einen Vertrag handelt, der gemäß den Paragraphen 16A und 16B oder 16C und 16D als Eigenkapitalinstrument eingestuft ist) gleichzeitig eine Verbindlichkeit in Höhe des Barwerts des Rückzahlungsbetrags (siehe Paragraph AL27(a)). Ein Emittent nicht kündbarer Stammanteile geht eine Verbindlichkeit ein, wenn er förmliche Schritte für eine Ausschüttung einleitet und damit den Anteilseignern gegenüber rechtlich dazu verpflichtet wird. Dies kann nach einer Dividendenerklärung der Fall sein oder wenn das Unternehmen liquidiert wird und alle nach Begleichung der Schulden verbliebenen Vermögenswerte auf die Anteilseigner zu verteilen sind.
+
+AL14 Eine erworbene Kaufoption oder ein ähnlicher erworbener Vertrag, der ein Unternehmen gegen Abgabe eines festen Betrags an Zahlungsmitteln oder anderen finanziellen Vermögenswerten zum Rückkauf einer festen Anzahl eigener Eigenkapitalinstrumente berechtigt, stellt (abgesehen von den in Paragraph 22A genannten Fällen) keinen finanziellen Vermögenswert des Unternehmens dar. Stattdessen werden sämtliche für einen solchen Vertrag entrichteten Gegenleistungen vom Eigenkapital abgezogen.
+
+Klasse von Instrumenten, die allen anderen im Rang nachgeht (Paragraph 16A(b) und 16C(b))
+
+AL14A Eines der in den Paragraphen 16A und 16C genannten Merkmale ist, dass das Finanzinstrument in die Klasse von Instrumenten fällt, die allen anderen im Rang nachgeht.
+
+AL14B Bei der Entscheidung darüber, ob ein Instrument in die nachrangigste Klasse fällt, bewertet das Unternehmen den Anspruch, der im Falle der Liquidation mit diesem Instrument verbunden ist, zu den zum Zeitpunkt der Einstufung herrschenden Bedingungen. Tritt bei maßgeblichen Umständen eine Veränderung ein, so hat das Unternehmen die Einstufung zu überprüfen. Gibt ein Unternehmen beispielsweise ein anderes Finanzinstrument aus oder nimmt ein solches zurück, so kann dies die Einstufung des betreffenden Instruments in die nachrangigste Instrumentenklasse infrage stellen.
+
+AL14C Bei Liquidation des Unternehmens mit einem Vorzugsrecht verbunden zu sein, bedeutet nicht, dass das Instrument zu einem proportionalen Anteil am Nettovermögen des Unternehmens berechtigt. Im Falle der Liquidation mit einem Vorzugsrecht verbunden ist beispielsweise ein Instrument, das den Inhaber bei Liquidation nicht nur zu einem Anteil am Nettovermögen des Unternehmens, sondern auch zu einer festen Dividende berechtigt, während die anderen Instrumente in der nachrangigsten Klasse, die zu einem proportionalen Anteil am Nettovermögen berechtigen, bei Liquidation nicht mit dem gleichen Recht verbunden sind.
+
+AL14D Verfügt ein Unternehmen nur über eine Klasse von Finanzinstrumenten, so ist diese so zu behandeln, als ginge sie allen anderen im Rang nach.
+
+Für das Instrument über seine Laufzeit insgesamt erwartete Zahlungsströme (Paragraph 16A(e))
+
+AL14E Die für das Instrument über seine Laufzeit insgesamt erwarteten Zahlungsströme müssen im Wesentlichen auf den Gewinnen oder Verlusten während der Laufzeit, auf Veränderungen, die in dieser Zeit bei den bilanzwirksamen Nettovermögenswerten eintreten, oder auf Veränderungen, die während der Laufzeit beim beizulegenden Zeitwert der bilanzwirksamen und -unwirksamen Nettovermögenswerte des Unternehmens zu verzeichnen sind, beruhen. Gewinne oder Verluste sowie Veränderungen bei den bilanzwirksamen Nettovermögenswerten werden gemäß den einschlägigen IFRS bewertet.
+
+Transaktionen eines Instrumenteninhabers, der nicht Eigentümer des Unternehmens ist (Paragraphen 16A und 16C)
+
+AL14F Der Inhaber eines kündbaren Finanzinstruments oder eines Instruments, das das Unternehmen dazu verpflichtet, einer anderen Partei im Falle der Liquidation einen proportionalen Anteil an seinem Nettovermögen zu überlassen, kann in einer anderen Eigenschaft als der eines Eigentümers Transaktionen mit dem Unternehmen eingehen. So kann es sich bei dem Inhaber des Instruments auch um einen Beschäftigten des Unternehmens handeln. In diesem Fall sind bei der Beurteilung der Frage, ob das Instrument nach Paragraph 16A oder nach Paragraph 16C als Eigenkapitalinstrument einzustufen ist, nur die Zahlungsströme und die Vertragsbedingungen zu berücksichtigen, die sich auf den Inhaber des Instruments in seiner Eigenschaft als Eigentümer beziehen.
+
+AL14G Ein Beispiel hierfür ist eine Kommanditgesellschaft mit beschränkt und voll haftenden Gesellschaftern. Einige der voll haftenden Gesellschafter können dem Unternehmen gegenüber eine Garantie abgeben und dafür eine Vergütung erhalten. In solchen Fällen beziehen sich die Garantie und die damit verbundenen Zahlungsströme auf die Instrumenteninhaber in ihrer Eigenschaft als Garantiegeber und nicht als Eigentümer. Deshalb würden eine solche Garantie und die damit verbundenen Zahlungsströme nicht dazu führen, dass die voll haftenden Gesellschafter den beschränkt haftenden gegenüber als nachrangig eingestuft werden, und würden diese Garantie und die damit verbundenen Zahlungsströme bei der Beurteilung der Frage, ob die Vertragsbedingungen der Instrumente der beschränkt und voll haftenden Gesellschafter identisch sind, außer Acht gelassen.
+
+AL14H Ein weiteres Beispiel ist eine Gewinn- oder Verlustbeteiligungsvereinbarung, bei der den Instrumenteninhabern die Gewinne bzw. Verluste nach Maßgabe der im laufenden und in vorangegangenen Geschäftsjahr/en geleisteten Dienste oder getätigten Geschäftsabschlüsse zugeteilt werden. Derartige Vereinbarungen werden mit den Instrumenteninhabern in ihrer Eigenschaft als Nichteigentümer geschlossen und sollten bei der Beurteilung der Frage, ob die in den Paragraphen 16A oder 16C genannten Merkmale gegeben sind, außer Acht gelassen werden. Gewinn oder Verlustbeteiligungsvereinbarungen, bei denen den Instrumenteninhabern Gewinne oder Verluste nach Maßgabe des Nennbetrags ihrer Instrumente im Vergleich zu anderen Instrumenten derselben Klasse zugeteilt werden, sind dagegen Transaktionen, bei denen die Instrumenteninhaber in ihrer Eigenschaft als Eigentümer agieren, und sind deshalb bei der Beurteilung der Frage, ob die in den Paragraphen 16A oder 16C genannten Merkmale gegeben sind, zu berücksichtigen.
+
+AL14I Zahlungsströme und Vertragsbedingungen einer Transaktion zwischen dem Instrumenteninhaber (als Nichteigentümer) und dem emittierenden Unternehmen müssen ähnlich sein wie bei einer entsprechenden Transaktion, die zwischen einer dritten Partei und dem emittierenden Unternehmen stattfinden könnte.
+
+Keine anderen Finanzinstrumente oder Verträge über die gesamten Zahlungsströme, die die Restrendite ihrer Inhaber erheblich beschränken oder festlegen (Paragraphen 16B und 16D)
+
+AL14J Ein Finanzinstrument, das ansonsten die in den Paragraphen 16A oder 16C genannten Kriterien erfüllt, wird als Eigenkapital eingestuft, wenn das Unternehmen keine anderen Finanzinstrumente oder Verträge hält, bei denen a) die gesamten Zahlungsströme im Wesentlichen auf Gewinnen oder Verlusten, auf Veränderungen bei den bilanzwirksamen Nettovermögenswerten oder auf Veränderungen beim beizulegenden Zeitwert der bilanzwirksamen und -unwirksamen Nettovermögenswerte des Unternehmens beruhen, und die b) die Restrendite erheblich beschränken oder festlegen. Folgende Instrumente dürften, wenn sie unter handelsüblichen Vertragsbedingungen mit fremden Dritten geschlossen werden, einer Einstufung von Instrumenten, die ansonsten die in den Paragraphen 16A oder 16C genannten Kriterien erfüllen, als Eigenkapital nicht im Wege stehen:
+a) 
+
+Instrumente, deren gesamte Zahlungsströme sich im Wesentlichen auf bestimmte Vermögenswerte des Unternehmens stützen,
+b) 
+
+Instrumente, deren gesamte Zahlungsströme sich auf einen Prozentsatz der Erlöse stützen,
+c) 
+
+Verträge, mit denen einzelne Mitarbeiter eine Vergütung für ihre dem Unternehmen geleisteten Dienste erhalten sollen,
+d) 
+
+Verträge, die als Gegenleistung für erbrachte Dienste oder gelieferte Waren zur Zahlung eines unerheblichen Prozentsatzes des Gewinns verpflichten.
+
+Derivative Finanzinstrumente
+
+AL15 Finanzinstrumente umfassen originäre Instrumente (wie Forderungen, Zahlungsverpflichtungen oder Eigenkapitalinstrumente) und derivative Finanzinstrumente (wie Optionen, standardisierte und andere Termingeschäfte, Zinsswaps oder Währungsswaps). Derivative Finanzinstrumente erfüllen die Definition eines Finanzinstruments und fallen daher in den Anwendungsbereich dieses Standards.
+
+AL16 Derivative Finanzinstrumente begründen Rechte und Verpflichtungen, sodass Finanzrisiken, die in den zugrunde liegenden originären Finanzinstrumenten enthalten sind, als separate Rechte und Verpflichtungen zwischen den Vertragsparteien übertragen werden können. Zu Beginn räumen derivative Finanzinstrumente einer Vertragspartei ein vertragliches Recht auf Austausch von finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten mit der anderen Vertragspartei unter potenziell vorteilhaften Bedingungen ein bzw. verpflichten vertraglich zum Austausch von finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten mit der anderen Vertragspartei unter potenziell nachteiligen Bedingungen. Im Allgemeinen ( 19 ) führen sie bei Vertragsabschluss jedoch nicht zu einer Übertragung des zugrunde liegenden originären Finanzinstruments, und auch die Erfüllung solcher Verträge ist nicht unbedingt mit einer Übertragung des originären Finanzinstruments verknüpft. Einige Finanzinstrumente schließen sowohl ein Recht auf Austausch als auch eine Verpflichtung zum Austausch ein. Da die Bedingungen des Austauschs zu Beginn der Laufzeit des derivativen Finanzinstrumentes festgelegt werden und die Kurse auf den Finanzmärkten ständigen Veränderungen unterworfen sind, können die Bedingungen im Laufe der Zeit entweder vorteilhaft oder nachteilig werden.
+
+AL17 Eine Verkaufs- oder Kaufoption auf den Austausch finanzieller Vermögenswerte oder finanzieller Verbindlichkeiten (also anderer Finanzinstrumente als den eigenen Eigenkapitalinstrumenten des Unternehmens) räumt dem Inhaber ein Recht auf einen potenziellen künftigen wirtschaftlichen Nutzen aufgrund der Veränderungen im beizulegenden Zeitwert des Finanzinstruments ein, das dem Kontrakt zugrunde liegt. Umgekehrt geht der Stillhalter einer Option eine Verpflichtung ein, auf einen potenziellen künftigen wirtschaftlichen Nutzen zu verzichten bzw. potenzielle Verluste aufgrund der Veränderungen im beizulegenden Zeitwert des betreffenden Finanzinstrumentes zu tragen. Das vertragliche Recht des Inhabers und die Verpflichtung des Stillhalters erfüllen die definitorischen Merkmale eines finanziellen Vermögenswerts bzw. einer finanziellen Verbindlichkeit. Das einem Optionsvertrag zugrunde liegende Finanzinstrument kann ein beliebiger finanzieller Vermögenswert einschließlich Anteilen anderer Unternehmen und verzinslicher Instrumente sein. Eine Option kann den Stillhalter verpflichten, ein Schuldinstrument zu emittieren, anstatt einen finanziellen Vermögenswert zu übertragen, doch würde das dem Optionsvertrag zugrunde liegende Finanzinstrument bei Ausübung des Optionsrechts einen finanziellen Vermögenswert des Inhabers darstellen. Das Recht des Optionsinhabers auf Austausch der Vermögenswerte unter potenziell vorteilhaften Bedingungen und die Verpflichtung des Stillhalters zur Abgabe von Vermögenswerten unter potenziell nachteiligen Bedingungen sind von den zugrunde liegenden, bei Ausübung der Option auszutauschenden finanziellen Vermögenswerten zu unterscheiden. Die Art des Inhaberrechts und der Verpflichtung des Stillhalters bleiben von der Wahrscheinlichkeit der Ausübung des Optionsrechts unberührt.
+
+AL18 Ein weiteres Beispiel für ein derivatives Finanzinstrument ist ein Termingeschäft, das in sechs Monaten zu erfüllen ist und in dem ein Käufer sich verpflichtet, im Austausch gegen festverzinsliche Staatsanleihen mit einem Nennbetrag von 1 000 000 WE Zahlungsmittel im Wert von 1 000 000 WE zu liefern, und der Verkäufer sich verpflichtet, im Austausch gegen Zahlungsmittel im Wert von 1 000 000 WE festverzinsliche Staatsanleihen mit einem Nennbetrag von 1 000 000 WE zu liefern. Während des Zeitraums von sechs Monaten haben beide Vertragsparteien ein vertragliches Recht und eine vertragliche Verpflichtung zum Austausch von Finanzinstrumenten. Wenn der Marktpreis der Staatsanleihen über 1 000 000 WE steigt, sind die Bedingungen für den Käufer vorteilhaft und für den Verkäufer nachteilig; wenn der Marktpreis unter 1 000 000 WE fällt, ist das Gegenteil der Fall. Der Käufer hat ein vertragliches Recht (einen finanziellen Vermögenswert) ähnlich dem Recht aufgrund einer gehaltenen Kaufoption und eine vertragliche Verpflichtung (eine finanzielle Verbindlichkeit) ähnlich einer Verpflichtung aufgrund einer geschriebenen Verkaufsoption; der Verkäufer hat hingegen ein vertragliches Recht (einen finanziellen Vermögenswert) ähnlich dem Recht aufgrund einer gehaltenen Verkaufsoption und eine vertragliche Verpflichtung (eine finanzielle Verbindlichkeit) ähnlich einer Verpflichtung aufgrund einer geschriebenen Kaufoption. Wie bei Optionen stellen diese vertraglichen Rechte und Verpflichtungen finanzielle Vermögenswerte und finanzielle Verbindlichkeiten dar, die von den den Geschäften zugrunde liegenden Finanzinstrumenten (den auszutauschenden Staatsanleihen und Zahlungsmitteln) zu trennen und zu unterscheiden sind. Beide Vertragsparteien eines Termingeschäfts gehen eine zu einem vereinbarten Zeitpunkt zu erfüllende Verpflichtung ein, während die Erfüllung bei einem Optionsvertrag nur dann erfolgt, wenn der Inhaber der Option dies wünscht.
+
+AL19 Viele andere Arten von derivativen Finanzinstrumenten enthalten ein Recht auf bzw. eine Verpflichtung zu einem künftigen Austausch, einschließlich Zins- und Währungsswaps, Zinsobergrenzen, Collars und Zinsuntergrenzen, Darlehenszusagen, NIFs (Note Issuance Facilities) und Akkreditive. Ein Zinsswap kann als Variante eines Termingeschäfts betrachtet werden, bei dem die Vertragsparteien übereinkommen, künftig eine Reihe von Geldbeträgen auszutauschen, wobei der eine Betrag aufgrund eines variablen Zinssatzes und der andere aufgrund eines festen Zinssatzes berechnet wird. Futures-Kontrakte stellen eine weitere Variante von Termingeschäften dar, die sich hauptsächlich dadurch unterscheiden, dass die Verträge standardisiert sind und an Börsen gehandelt werden.
+
+Verträge über den Kauf oder Verkauf eines nichtfinanziellen Postens (Paragraphen 8–10)
+
+AL20 Verträge über den Kauf oder Verkauf eines nichtfinanziellen Postens erfüllen nicht die Definition eines Finanzinstruments, weil das vertragliche Recht einer Vertragspartei auf den Empfang nichtfinanzieller Vermögenswerte oder Dienstleistungen und die korrespondierende Verpflichtung der anderen Vertragspartei nicht für beide Vertragsparteien einen bestehenden Rechtsanspruch oder eine Verpflichtung auf Empfang, Lieferung oder Übertragung eines finanziellen Vermögenswerts begründen. Beispielsweise gelten Verträge, die eine Erfüllung ausschließlich durch Erhalt oder Lieferung eines nichtfinanziellen Vermögenswerts (beispielsweise eine Option, ein standardisiertes oder anderes Termingeschäft über Silber) vorsehen, nicht als Finanzinstrumente. Dies trifft auf viele Warenverträge zu. Einige Warenverträge sind der Form nach standardisiert und werden in organisierten Märkten auf ähnliche Weise wie einige derivative Finanzinstrumente gehandelt. Ein standardisiertes Warentermingeschäft kann beispielsweise sofort gegen Bargeld gekauft und verkauft werden, weil es an einer Börse zum Handel zugelassen ist und häufig den Besitzer wechseln kann. Die Vertragsparteien, die den Vertrag kaufen bzw. verkaufen, handeln allerdings im Grunde genommen mit der dem Vertrag zugrunde liegenden Ware. Die Fähigkeit, einen Warenvertrag gegen Zahlungsmittel zu kaufen bzw. zu verkaufen, die Leichtigkeit, mit der der Warenvertrag gekauft bzw. verkauft werden kann, und die Möglichkeit, einen Barausgleich mit der Verpflichtung zu vereinbaren, die Ware zu erhalten bzw. zu liefern, ändern die grundlegende Eigenschaft nicht in einer Weise, dass ein Finanzinstrument gebildet würde. Dennoch fallen einige Verträge über den Kauf oder Verkauf nichtfinanzieller Posten, die durch einen Nettoausgleich in bar oder anderen Finanzinstrumenten erfüllt werden können oder bei denen der nichtfinanzielle Posten jederzeit in Zahlungsmittel umgewandelt werden kann, in den Anwendungsbereich dieses Standards, so als handle es sich um Finanzinstrumente (siehe Paragraph 8).
+
+AL21 Sofern in IFRS 15 Erlöse aus Verträgen mit Kunden nichts anderes festgelegt ist, begründet ein Vertrag, der den Erhalt bzw. die Lieferung materieller Vermögenswerte enthält, weder einen finanziellen Vermögenswert bei der einen Vertragspartei noch eine finanzielle Verbindlichkeit bei der anderen, es sei denn, dass eine entsprechende Zahlung oder Teilzahlung auf einen Zeitpunkt nach Übertragung der materiellen Vermögenswerte verschoben wird. Dies ist beim Kauf oder Verkauf von Gütern mittels Handelskredit der Fall.
+
+AL22 Einige Verträge beziehen sich zwar auf Waren, enthalten aber keine Erfüllung durch physische Entgegennahme bzw. Lieferung von Waren. Bei diesen Verträgen erfolgt die Erfüllung durch Barzahlungen, deren Höhe anhand einer im Vertrag festgelegten Formel bestimmt wird, und nicht durch Zahlung von Festbeträgen. Der Kapitalwert einer Anleihe kann beispielsweise durch Zugrundelegung des Marktpreises für Öl berechnet werden, der bei Fälligkeit der Anleihe für eine feste Ölmenge besteht. Der Kapitalwert wird im Hinblick auf den Warenpreis indiziert, aber ausschließlich mit Zahlungsmitteln erbracht. Solche Verträge stellen Finanzinstrumente dar.
+
+AL23 Die Definition des Begriffs „Finanzinstrument“ umfasst auch Verträge, die zusätzlich zu finanziellen Vermögenswerten bzw. finanziellen Verbindlichkeiten zu nichtfinanziellen Vermögenswerten bzw. nichtfinanziellen Verbindlichkeiten führen. Solche Finanzinstrumente räumen einer Vertragspartei häufig eine Option auf Austausch eines finanziellen Vermögenswerts gegen einen nichtfinanziellen Vermögenswert ein. Eine an Öl gebundene Anleihe beispielsweise kann dem Inhaber das Recht auf Erhalt von regelmäßigen Zinszahlungen in festen zeitlichen Abständen und auf Erhalt eines festen Betrags an Zahlungsmitteln bei Fälligkeit mit der Option einräumen, den Kapitalbetrag gegen eine feste Menge an Öl einzutauschen. Ob die Ausübung einer solchen Option vorteilhaft ist, hängt davon ab, wie stark sich der beizulegende Zeitwert des Öls in Bezug auf das in der Anleihe festgesetzte Tauschverhältnis von Zahlungsmitteln gegen Öl (den Tauschpreis) verändert. Die Absichten des Anleihegläubigers, eine Option auszuüben, beeinflussen nicht die wirtschaftliche Substanz derjenigen Teile, die Vermögenswerte darstellen. Der finanzielle Vermögenswert des Inhabers und die finanzielle Verbindlichkeit des Emittenten machen die Anleihe zu einem Finanzinstrument, unabhängig von anderen Arten von Vermögenswerten und Schulden, die ebenfalls geschaffen werden.
+
+AL24 [gestrichen]
+
+DARSTELLUNG
+
+Schulden und Eigenkapital (Paragraphen 15–27)
+
+Keine vertragliche Verpflichtung zur Lieferung von Zahlungsmitteln oder anderen finanziellen Vermögenswerten (Paragraphen 17–20)
+
+AL25 Vorzugsanteile können bei der Emission mit verschiedenen Rechten ausgestattet werden. Bei der Einstufung eines Vorzugsanteils als finanzielle Verbindlichkeit oder als Eigenkapitalinstrument beurteilt ein Emittent die einzelnen Rechte, die mit dem Anteil verbunden sind, um zu bestimmen, ob er die wesentlichen Merkmale einer finanziellen Verbindlichkeit aufweist. So beinhaltet ein Vorzugsanteil, der eine Rücknahme zu einem bestimmten Zeitpunkt oder auf Wunsch des Inhabers vorsieht, eine finanzielle Verbindlichkeit, da der Emittent zur Abgabe finanzieller Vermögenswerte an den Anteilsinhaber verpflichtet ist. Auch wenn ein Emittent der vertraglich vereinbarten Rücknahmeverpflichtung von Vorzugsanteilen aus Mangel an Finanzmitteln, aufgrund einer gesetzlich vorgeschriebenen Verfügungsbeschränkung oder ungenügender Gewinne oder Rücklagen u. U. nicht nachkommen kann, wird die Verpflichtung dadurch nicht hinfällig. Eine Option des Emittenten auf Rückkauf der Anteile gegen Zahlungsmittel erfüllt nicht die Definition einer finanziellen Verbindlichkeit, da der Emittent in diesem Fall keine gegenwärtige Verpflichtung zur Übertragung finanzieller Vermögenswerte auf die Anteilseigner hat, sondern die Rücknahme der Anteile ausschließlich in seinem Ermessen liegt. Eine Verpflichtung kann allerdings entstehen, wenn der Emittent seine Option ausübt; normalerweise geschieht dies, indem er die Anteilseigner formell von der Rückkaufabsicht unterrichtet.
+
+AL26 Wenn Vorzugsanteile nicht rücknahmefähig sind, hängt die angemessene Einstufung von den anderen mit ihnen verbundenen Rechten ab. Die Einstufung erfolgt nach Maßgabe der wirtschaftlichen Substanz der vertraglichen Vereinbarungen und der Begriffsbestimmungen für finanzielle Verbindlichkeiten und Eigenkapitalinstrumente. Wenn Ausschüttungen an Inhaber kumulativer oder nichtkumulativer Vorzugsanteile im Ermessensspielraum des Emittenten liegen, gelten die Anteile als Eigenkapitalinstrumente. Nicht beeinflusst wird die Einstufung eines Vorzugsanteils als Eigenkapitalinstrument oder als finanzielle Verbindlichkeit beispielsweise durch
+a) 
+
+Ausschüttungen in der Vergangenheit,
+b) 
+
+die Absicht, künftig Ausschüttungen vorzunehmen,
+c) 
+
+eine mögliche nachteilige Auswirkung auf den Kurs der Stammanteile des Emittenten, falls keine Ausschüttungen vorgenommen werden (aufgrund von Beschränkungen hinsichtlich der Zahlung von Dividenden auf Stammanteile, wenn keine Dividenden auf Vorzugsanteile gezahlt werden),
+d) 
+
+die Höhe der Rücklagen des Emittenten,
+e) 
+
+eine Gewinn- oder Verlusterwartung des Emittenten für eine Berichtsperiode oder
+f) 
+
+die Fähigkeit oder Unfähigkeit des Emittenten, die Höhe seines Periodengewinns oder -verlusts zu beeinflussen.
+
+Erfüllung in eigenen Eigenkapitalinstrumenten des Unternehmens (Paragraphen 21–24)
+
+AL27 Die folgenden Beispiele veranschaulichen, wie die verschiedenen Arten von Verträgen über die eigenen Eigenkapitalinstrumente eines Unternehmens einzustufen sind:
+a) 
+
+Ein Vertrag, zu dessen Erfüllung das Unternehmen ohne künftige Gegenleistung eine feste Anzahl eigener Eigenkapitalinstrumente erhält oder liefert oder eine feste Anzahl eigener Anteile gegen einen festen Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten tauscht, ist (abgesehen von den in Paragraph 22A genannten Fällen) als Eigenkapitalinstrument einzustufen. Dementsprechend werden im Rahmen eines solchen Vertrags empfangene oder gezahlte Gegenleistungen direkt dem Eigenkapital zugeschrieben bzw. davon abgezogen. Ein Beispiel hierfür ist eine ausgegebene Anteilsoption, die die andere Vertragspartei gegen Zahlung eines festen Betrags an Zahlungsmitteln zum Kauf einer festen Anzahl von Anteilen des Unternehmens berechtigt. Ist das Unternehmen jedoch vertraglich verpflichtet, seine eigenen Anteile zu einem fest vereinbarten oder bestimmbaren Zeitpunkt oder auf Verlangen gegen Zahlungsmittel oder andere finanzielle Vermögenswerte zu kaufen (zurückzukaufen), hat es (abgesehen von Instrumenten, die alle in den Paragraphen 16A und 16B oder 16C und 16D beschriebenen Merkmale aufweisen und die dort genannten Bedingungen erfüllen) gleichzeitig eine finanzielle Verbindlichkeit in Höhe des Barwerts des Rückzahlungsbetrags anzusetzen. Ein Beispiel hierfür ist die Verpflichtung eines Unternehmens bei einem Termingeschäft, eine feste Anzahl eigener Anteile gegen einen festen Betrag an Zahlungsmitteln zurückzukaufen.
+b) 
+
+Die Verpflichtung eines Unternehmens zum Kauf eigener Anteile gegen Zahlungsmittel begründet (mit Ausnahme der in den Paragraphen 16A und 16B oder 16C und 16D genannten Fälle) auch dann eine finanzielle Verbindlichkeit in Höhe des Barwerts des Rückzahlungsbetrags, wenn die Anzahl der Anteile, zu deren Rückkauf das Unternehmen verpflichtet ist, nicht festgelegt ist oder die Verpflichtung nur bei Ausübung des Rückgaberechts durch die andere Vertragspartei zu erfüllen ist. Ein Beispiel für eine solche bedingte Verpflichtung ist eine ausgegebene Option, die das Unternehmen zum Rückkauf eigener Anteile verpflichtet, wenn die Vertragspartei die Option ausübt.
+c) 
+
+Ein in bar oder durch andere finanzielle Vermögenswerte erfüllter Vertrag stellt (mit Ausnahme der in den Paragraphen 16A und 16B oder 16C und 16D genannten Fälle) auch dann einen finanziellen Vermögenswert bzw. eine finanzielle Verbindlichkeit dar, wenn der zu erhaltende bzw. abzugebende Betrag an Zahlungsmitteln oder anderen finanziellen Vermögenswerten auf Änderungen des Marktpreises der eigenen Eigenkapitalinstrumente des Unternehmens beruht. Ein Beispiel hierfür ist eine Anteilsoption mit Nettobarausgleich.
+d) 
+
+Ein Vertrag, der durch eine variable Anzahl eigener Anteile des Unternehmens erfüllt wird, dessen Wert einem festen Betrag oder einem von Änderungen einer zugrunde liegenden Variablen (beispielsweise eines Warenpreises) abhängigen Betrag entspricht, stellt einen finanziellen Vermögenswert bzw. eine finanzielle Verbindlichkeit dar. Ein Beispiel hierfür ist eine geschriebene Option auf den Kauf von Gold, die bei Ausübung netto in eigenen Eigenkapitalinstrumenten des Unternehmens erfüllt wird, wobei sich die Anzahl der abzugebenden Instrumente nach dem Wert des Optionskontrakts bemisst. Ein derartiger Vertrag stellt auch dann einen finanziellen Vermögenswert bzw. eine finanzielle Verbindlichkeit dar, wenn die zugrunde liegende Variable der Kurs der eigenen Anteile des Unternehmens und nicht das Gold ist. Auch ein Vertrag, der einen Ausgleich durch eine feste Anzahl eigener Anteile des Unternehmens vorsieht, die jedoch mit unterschiedlichen Rechten ausgestattet werden, sodass der Erfüllungsbetrag einem festen Betrag oder einem auf Änderungen einer zugrunde liegenden Variablen basierenden Betrag entspricht, ist als finanzieller Vermögenswert bzw. als finanzielle Verbindlichkeit einzustufen.
+
+Bedingte Erfüllungsvereinbarungen (Paragraph 25)
+
+AL28 Besteht ein Teil einer bedingten Erfüllungsvereinbarung, der einen Ausgleich in bar oder anderen finanziellen Vermögenswerten (oder eine andere als finanzielle Verbindlichkeit einzustufende Art der Erfüllung) erforderlich machen könnte, nicht wirklich, so hat die Erfüllungsvereinbarung gemäß Paragraph 25 keinen Einfluss auf die Einstufung eines Finanzinstruments. Somit ist ein Vertrag, der nur dann in bar oder durch eine variable Anzahl eigener Anteile zu erfüllen ist, wenn ein extrem seltenes, äußert ungewöhnliches und sehr unwahrscheinliches Ereignis eintritt, als Eigenkapitalinstrument einzustufen. Auch die Erfüllung durch eine feste Anzahl eigener Anteile des Unternehmens kann unter bestimmten Umständen, die sich der Kontrolle des Unternehmens entziehen, vertraglich ausgeschlossen sein; ist das Eintreten dieser Umstände jedoch höchst unwahrscheinlich, ist eine Einstufung als Eigenkapitalinstrument angemessen.
+
+Behandlung im Konzernabschluss
+
+AL29 Im Konzernabschluss weist ein Unternehmen die nicht beherrschenden Anteile — also die Anteile Dritter am Eigenkapital und Periodenergebnis seiner Tochterunternehmen — gemäß IAS 1 und IFRS 10 aus. Bei der Einstufung eines Finanzinstruments (oder eines seiner Bestandteile) im Konzernabschluss bestimmt ein Unternehmen anhand aller zwischen den Konzernmitgliedern und den Inhabern des Instruments vereinbarten Vertragsbedingungen, ob das Instrument den Konzern als Ganzes zur Lieferung von Zahlungsmitteln oder anderer finanzieller Vermögenswerte oder zu einer anderen Art der Erfüllung verpflichtet, die eine Einstufung als Verbindlichkeit nach sich zieht. Wenn ein Tochterunternehmen in einem Konzern ein Finanzinstrument emittiert und ein Mutterunternehmen oder ein anderes Konzernunternehmen mit den Inhabern des Instruments direkt zusätzliche Vertragsbedingungen (beispielsweise eine Garantie) vereinbart, liegen die Ausschüttungen oder die Rücknahme möglicherweise nicht mehr im Ermessen des Konzerns. Auch wenn es im Einzelabschluss des Tochterunternehmens angemessen sein kann, diese zusätzlichen Bedingungen bei der Einstufung des Instruments auszuklammern, sind die Auswirkungen anderer Vereinbarungen zwischen den Konzernmitgliedern und den Inhabern des Instruments zu berücksichtigen, um zu gewährleisten, dass der Konzernabschluss die vom Konzern als Ganzem eingegangenen Verträge und Transaktionen widerspiegelt. Soweit eine derartige Verpflichtung oder Erfüllungsvereinbarung besteht, ist das Instrument (oder dessen Bestandteil, auf den sich die Verpflichtung bezieht) im Konzernabschluss als finanzielle Verbindlichkeit einzustufen.
+
+AL29A Nach den Paragraphen 16A und 16B oder 16C und 16D werden bestimmte Arten von Instrumenten, die für das Unternehmen mit einer vertraglichen Verpflichtung verbunden sind, als Eigenkapitalinstrumente eingestuft. Dies stellt eine Ausnahme von den allgemeinen Einstufungsgrundsätzen dieses Standards dar. Nicht anzuwenden ist diese Ausnahme bei der Einstufung nicht beherrschender Anteile im Konzernabschluss. Aus diesem Grund werden Instrumente, die nach den Paragraphen 16A und 16B oder den Paragraphen 16C und 16D im Einzelabschluss als Eigenkapital eingestuft sind und bei denen es sich um nicht beherrschende Anteile handelt, im Konzernabschluss als Verbindlichkeiten eingestuft.
+
+Zusammengesetzte Finanzinstrumente (Paragraphen 28–32)
+
+AL30 Paragraph 28 gilt nur für die Emittenten nicht derivativer zusammengesetzter Finanzinstrumente. Zusammengesetzte Finanzinstrumente werden in Paragraph 28 nicht aus Sicht der Inhaber behandelt. In IFRS 9 werden die Einstufung und die Bewertung von finanziellen Vermögenswerten, bei denen es sich um zusammengesetzte Finanzinstrumente handelt, aus Sicht der Inhaber behandelt.
+
+AL31 Ein typisches Beispiel für ein zusammengesetztes Finanzinstrument ist ein Schuldinstrument, das eine eingebettete Tauschoption wie in Stammanteile des Emittenten wandelbare Anleihen enthält und keine anderen Merkmale eines eingebetteten Derivats aufweist. Paragraph 28 verlangt vom Emittenten eines solchen Finanzinstruments, die Schuld- und die Eigenkapitalkomponente in der Bilanz wie folgt getrennt auszuweisen:
+a) 
+
+Die Verpflichtung des Emittenten zu regelmäßigen Zins- und Kapitalzahlungen stellt eine finanzielle Verbindlichkeit dar, die solange besteht, wie das Instrument nicht gewandelt wird. Beim erstmaligen Ansatz entspricht der beizulegende Zeitwert der Schuldkomponente dem Barwert der vertraglich festgelegten künftigen Zahlungsströme, die zum Marktzinssatz abgezinst werden, der zu diesem Zeitpunkt für Finanzinstrumente gültig ist, die einen vergleichbaren Kreditstatus haben und die bei gleichen Bedingungen zu im Wesentlichen den gleichen Zahlungsströmen führen, bei denen aber keine Tauschoption vorliegt.
+b) 
+
+Das Eigenkapitalinstrument besteht in einer eingebetteten Option auf Wandlung der Verbindlichkeit in Eigenkapital des Emittenten. Diese Option hat beim erstmaligen Ansatz auch dann einen Wert, wenn sie aus dem Geld ist.
+
+AL32 Bei Wandlung eines wandelbaren Instruments zum Fälligkeitstermin wird die Schuldkomponente ausgebucht und im Eigenkapital erfasst. Die ursprüngliche Eigenkapitalkomponente wird weiterhin als Eigenkapital geführt (kann jedoch von einem Eigenkapitalposten in einen anderen umgebucht werden). Bei der Umwandlung zum Fälligkeitstermin entsteht kein Gewinn oder Verlust.
+
+AL33 Wird ein wandelbares Instrument durch frühzeitige Rücknahme oder frühzeitigen Rückkauf, bei dem die ursprünglichen Wandlungsrechte unverändert bestehen bleiben, vor seiner Fälligkeit getilgt, werden das entrichtete Entgelt und alle Transaktionskosten für den Rückkauf oder die Rücknahme zum Zeitpunkt der Transaktion den Schuld- und Eigenkapitalkomponenten des Instruments zugeordnet. Die Aufteilung der entrichteten Entgelte und Transaktionskosten auf die beiden Komponenten muss gemäß den Paragraphen 28–32 nach derselben Methode erfolgen wie die ursprüngliche Aufteilung der vom Unternehmen bei der Emission des wandelbaren Instruments vereinnahmten Erlöse.
+
+AL34 Nach der Aufteilung des Entgelts sind alle daraus resultierenden Gewinne oder Verluste nach den für die jeweilige Komponente maßgeblichen Rechnungslegungsgrundsätzen zu behandeln:
+a) 
+
+der Gewinn oder Verlust, der sich auf die Schuldkomponente bezieht, wird erfolgswirksam erfasst, und
+b) 
+
+der Betrag des Entgelts, der sich auf die Eigenkapitalkomponente bezieht, wird im Eigenkapital erfasst.
+
+AL35 Ein Unternehmen kann die Bedingungen eines wandelbaren Instruments ändern, um eine frühzeitige Wandlung herbeizuführen, beispielsweise durch das Angebot eines günstigeren Umtauschverhältnisses oder die Zahlung eines zusätzlichen Entgelts bei Wandlung vor einem festgesetzten Termin. Die Differenz, die zum Zeitpunkt der Änderung der Bedingungen zwischen dem beizulegenden Zeitwert des Entgelts, das der Inhaber bei Wandlung des Instruments gemäß den geänderten Bedingungen erhält, und dem beizulegenden Zeitwert des Entgelts, das der Inhaber gemäß den ursprünglichen Bedingungen erhalten hätte, besteht, wird erfolgswirksam als Aufwand erfasst.
+
+Eigene Anteile (Paragraphen 33 und 34)
+
+AL36 Die eigenen Eigenkapitalinstrumente eines Unternehmens werden unabhängig vom Grund ihres Rückkaufs nicht als finanzieller Vermögenswert angesetzt. Paragraph 33 schreibt vor, dass zurückgekaufte eigene Eigenkapitalinstrumente vom Eigenkapital abzuziehen sind (aber siehe auch Paragraph 33A). Hält ein Unternehmen dagegen eigene Eigenkapitalinstrumente im Namen Dritter, wie dies etwa bei einem Finanzinstitut der Fall ist, das eigene Eigenkapitalinstrumente im Namen eines Kunden hält, liegt ein Vermittlungsgeschäft vor, sodass diese Bestände nicht in die Bilanz des Unternehmens einfließen.
+
+Zinsen, Dividenden, Verluste und Gewinne (Paragraphen 35–41)
+
+AL37 Das folgende Beispiel veranschaulicht die Anwendung des Paragraphen 35 auf ein zusammengesetztes Finanzinstrument. Es wird von der Annahme ausgegangen, dass ein nicht kumulativer Vorzugsanteil in fünf Jahren gegen Zahlungsmittel rückgabepflichtig ist, die Zahlung von Dividenden vor dem Rücknahmetermin jedoch im Ermessen des Unternehmens liegt. Ein solches Instrument ist ein zusammengesetztes Finanzinstrument, dessen Schuldkomponente dem Barwert des Rückzahlungsbetrags entspricht. Die Aufzinsung dieser Komponente wird erfolgswirksam erfasst und als Zinsaufwendungen eingestuft. Alle gezahlten Dividenden beziehen sich auf die Eigenkapitalkomponente und werden dementsprechend als Ausschüttung des Gewinns oder Verlusts erfasst. Eine ähnliche Bilanzierungsweise fände auch dann Anwendung, wenn die Rücknahme nicht obligatorisch ist, sondern auf Wunsch des Inhabers erfolgte oder die Verpflichtung bestünde, den Anteil in eine variable Anzahl von Stammanteilen umzuwandeln, deren Höhe einem festen Betrag oder einem von Änderungen einer zugrunde liegenden Variablen (beispielsweise einer Ware) abhängigen Betrag entspricht. Werden dem Rückzahlungsbetrag jedoch noch nicht gezahlte Dividenden hinzugefügt, stellt das gesamte Instrument eine Verbindlichkeit dar. In diesem Fall sind alle Dividenden als Zinsaufwendungen einzustufen.
+
+Saldierung eines finanziellen Vermögenswerts und einer finanziellen Verbindlichkeit (Paragraphen 42–50)
+
+AL38 [gestrichen]
+
+Kriterium, demzufolge ein Unternehmen „zum gegenwärtigen Zeitpunkt ein einklagbares Recht hat, die erfassten Beträge miteinander zu verrechnen“ (Paragraph 42(a))
+
+AL38A Ein Anspruch auf Saldierung kann zum gegenwärtigen Zeitpunkt bereits bestehen oder durch ein künftiges Ereignis ausgelöst werden (so kann der Anspruch beispielsweise durch das Eintreten eines künftigen Ereignisses wie eines Ausfalls, einer Insolvenz oder eines Konkurses einer der Vertragsparteien entstehen oder durchsetzbar werden). Selbst wenn der Anspruch auf Saldierung nicht von einem künftigen Ereignis abhängt, ist er möglicherweise nur im Rahmen der gewöhnlichen Geschäftstätigkeit oder nur im Falle eines Ausfalls, einer Insolvenz oder eines Konkurses einer oder sämtlicher Vertragsparteien durchsetzbar.
+
+AL38B Um das Kriterium in Paragraph 42(a) zu erfüllen, muss ein Unternehmen zum gegenwärtigen Zeitpunkt einen einklagbaren Anspruch auf Saldierung haben. Dies bedeutet, dass der Anspruch auf Saldierung
+a) 
+
+nicht von einem künftigen Ereignis abhängen darf, und
+b) 
+
+in allen nachfolgend genannten Situationen einklagbar sein muss:
+i) 
+
+im Rahmen der gewöhnlichen Geschäftstätigkeit,
+ii) 
+
+im Falle eines Ausfalls und
+iii) 
+
+im Falle einer Insolvenz oder eines Konkurses
+
+des Unternehmens und aller anderen Vertragsparteien.
+
+AL38C Art und Umfang des Anspruchs auf Saldierung, einschließlich der an die Ausübung des Anspruchs geknüpften Bedingungen und des Umstands, ob der Anspruch im Falle eines Ausfalls, einer Insolvenz oder eines Konkurses weiter fortbestehen würde, können von einer Rechtsordnung zur anderen variieren. Folglich kann nicht davon ausgegangen werden, dass der Anspruch auf Saldierung außerhalb der gewöhnlichen Geschäftstätigkeit automatisch zur Verfügung steht. So kann z. B. das Konkurs- oder Insolvenzrecht eines Landes den Anspruch auf Saldierung bei einem Konkurs oder einer Insolvenz in bestimmten Fällen untersagen oder einschränken.
+
+AL38D Bei der Feststellung, ob der Anspruch auf Saldierung im Rahmen der gewöhnlichen Geschäftstätigkeit, bei Ausfall, Insolvenz oder Konkurs des Unternehmens und aller anderen Vertragsparteien einklagbar ist (wie in Paragraph AL38B(b) festgelegt), sind die auf die Beziehungen zwischen den Parteien anwendbaren Rechtsvorschriften (wie z. B. Vertragsbestimmungen, das auf einen Vertrag anwendbare Recht oder die auf die Parteien anwendbaren Ausfall-, Insolvenz- oder Konkursvorschriften) zu berücksichtigen.
+
+Kriterium, dass ein Unternehmen „beabsichtigt, entweder den Ausgleich auf Nettobasis herbeizuführen, oder gleichzeitig mit der Verwertung des betreffenden Vermögenswerts die dazugehörige Verbindlichkeit abzulösen“ (Paragraph 42(b))
+
+AL38E Um das Kriterium in Paragraph 42(b) zu erfüllen, muss ein Unternehmen beabsichtigen, entweder den Ausgleich auf Nettobasis herbeizuführen oder gleichzeitig mit der Verwertung des betreffenden Vermögenswerts die dazugehörige Verbindlichkeit abzulösen. Das Unternehmen kann zwar einen Anspruch auf Herbeiführung eines Ausgleichs auf Nettobasis haben, aber dennoch den Vermögenswert verwerten und die Verbindlichkeit gesondert begleichen.
+
+AL38F Kann ein Unternehmen Beträge so begleichen, dass das Ergebnis tatsächlich dem Ausgleich auf Nettobasis entspricht, erfüllt das Unternehmen das Kriterium für diesen Ausgleich in Paragraph 42(b). Dieser Fall ist nur dann gegeben, wenn der Bruttoausgleichsmechanismus Merkmale aufweist, die ein Ausfall- und Liquiditätsrisiko beseitigen oder zu einem unwesentlichen Ausfall- und Liquiditätsrisiko führen und die Forderungen und Verbindlichkeiten in einem einzigen Erfüllungsprozess oder -zyklus ausgleicht. So würde beispielsweise ein Bruttoausgleichsverfahren, das sämtliche der nachfolgend genannten Merkmale aufweist, das Nettoausgleichskriterium in Paragraph 42(b) erfüllen:
+a) 
+
+finanzielle Vermögenswerte und finanzielle Verbindlichkeiten, die für eine Saldierung infrage kommen, werden zum selben Zeitpunkt zur Ausführung gegeben,
+b) 
+
+sobald die finanziellen Vermögenswerte und finanziellen Verbindlichkeiten zur Ausführung gegeben wurden, besteht für die Parteien eine Verpflichtung zum Ausgleich,
+c) 
+
+Zahlungsströme aus Vermögenswerten und Verbindlichkeiten können sich nicht ändern, sobald letztere zur Ausführung gegeben wurden (es sei denn, die Ausführung kommt nicht zustande—siehe nachfolgend (d)),
+d) 
+
+Vermögenswerte und Verbindlichkeiten, die durch Wertpapiere besichert sind, werden mittels eines Wertpapierübertragungs- oder durch ein ähnliches System ausgeglichen (z. B. Lieferung gegen Zahlung), sodass der Ausgleich für die entsprechende Forderung oder Verbindlichkeit, die durch die Wertpapiere unterlegt ist, nicht zustande kommt, wenn die Wertpapierübertragung nicht zustande kommt (und umgekehrt),
+e) 
+
+jede im Sinne von (d) nicht zustande gekommene Transaktion wird erneut zur Ausführung gegeben, bis sie ausgeglichen ist,
+f) 
+
+der Ausgleich wird von derselben Institution vorgenommen (z. B. einer Abwicklungsbank, einer Zentralbank oder einem Zentralverwahrer), und
+g) 
+
+es besteht eine untertägige Kreditlinie, die ausreichende Überziehungsbeträge zur Verfügung stellt, um die Ausführung der Zahlungen am Erfüllungstag für jede Partei zu ermöglichen, und es ist so gut wie sicher, dass diese untertägige Kreditlinie nach Inanspruchnahme wieder ausgeglichen wird.
+
+AL39 Der Standard sieht keine spezielle Behandlung für sogenannte „synthetische Finanzinstrumente“ vor, worunter Gruppen einzelner Finanzinstrumente zu verstehen sind, die erworben und gehalten werden, um die Eigenschaften eines anderen Finanzinstruments nachzuahmen. Eine variabel verzinsliche langfristige Anleihe, die mit einem Zinsswap kombiniert wird, der den Erhalt variabler Zahlungen und die Leistung fester Zahlungen enthält, synthetisiert beispielsweise eine festverzinsliche langfristige Anleihe. Jedes der einzelnen Finanzinstrumente eines „synthetischen Finanzinstruments“ stellt ein vertragliches Recht bzw. eine vertragliche Verpflichtung mit eigenen Laufzeiten und Vertragsbedingungen dar, sodass jedes Instrument für sich übertragen oder verrechnet werden kann. Jedes Finanzinstrument ist Risiken ausgesetzt, die von denen anderer Finanzinstrumente abweichen können. Wenn das eine Finanzinstrument eines „synthetischen Finanzinstruments“ ein Vermögenswert und das andere eine Schuld ist, werden diese dementsprechend nur dann auf Nettobasis in der Unternehmensbilanz saldiert und ausgewiesen, wenn sie die Saldierungskriterien in Paragraph 42 erfüllen.
+
+AL40 [gestrichen]

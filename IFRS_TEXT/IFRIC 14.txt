@@ -1,0 +1,127 @@
+﻿ IFRIC INTERPRETATION 14
+
+IAS 19 — Die Begrenzung eines leistungsorientierten Vermögenswerts, Mindestdotierungsverpflichtungen und ihre Wechselwirkung
+
+VERWEISE
+— 
+IAS 1 Darstellung des Abschlusses
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 19 Leistungen an Arbeitnehmer (in der 2011 geänderten Fassung)
+— 
+IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen
+
+HINTERGRUND
+
+1 In Paragraph 64 von IAS 19 wird die Bewertung eines Nettovermögenswerts aus einem leistungsorientierten Plan auf den jeweils niedrigeren Wert der Überdeckung des leistungsorientierten Plans und der Obergrenze für den Vermögenswert begrenzt. In Paragraph 8 von IAS 19 wird die Obergrenze für den Vermögenswert als der „Barwert eines wirtschaftlichen Nutzens in Form von Rückerstattungen aus dem Plan oder Minderungen künftiger Beitragszahlungen an den Plan“ definiert. Es sind Fragen aufgekommen, wann Rückerstattungen oder Minderungen künftiger Beitragszahlungen als verfügbar betrachtet werden sollten, vor allem dann, wenn Mindestdotierungsverpflichtungen bestehen.
+
+2 In vielen Ländern wurden Mindestdotierungsverpflichtungen festgelegt, um die Sicherheit der Zusagen für Leistungen nach Beendigung des Arbeitsverhältnisses zu erhöhen, die Mitgliedern von Plänen für Leistungen nach Beendigung des Arbeitsverhältnisses gemacht werden. Solche Verpflichtungen sehen normalerweise Mindestbeiträge vor, die über einen bestimmten Zeitraum an einen Plan zu leisten sind. Eine Mindestdotierungsverpflichtung kann daher die Fähigkeit des Unternehmens zur Minderung künftiger Beitragszahlungen einschränken.
+
+3 Außerdem kann die Bewertungsobergrenze für einen Vermögenswert aus einem leistungsorientierten Plan dazu führen, dass eine Mindestdotierungsverpflichtung belastend wird. Normalerweise würde eine Vorschrift, Beitragszahlungen an einen Plan zu leisten, keine Auswirkungen auf die Bewertung des Vermögenswerts oder der Schuld aus einem leistungsorientierten Plan haben. Dies liegt daran, dass die Beträge zum Zeitpunkt der Zahlung Planvermögen werden und damit die zusätzliche Nettoschuld null beträgt. Eine Mindestdotierungsverpflichtung begründet jedoch eine Schuld, wenn die erforderlichen Beiträge dem Unternehmen nach ihrer Zahlung nicht zur Verfügung stehen.
+
+3A Im November 2009 änderte der International Accounting Standards Board IFRIC 14, um eine unbeabsichtigte Folge der Behandlung von Beitragsvorauszahlungen in bestimmten Fällen, in denen Mindestdotierungsverpflichtungen bestehen, zu beseitigen.
+
+ANWENDUNGSBEREICH
+
+4 Diese Interpretation ist auf alle Leistungen nach Beendigung des Arbeitsverhältnisses aus leistungsorientierten Plänen und auf andere langfristig fällige Leistungen an Arbeitnehmer aus leistungsorientierten Plänen anzuwenden.
+
+5 Für die Zwecke dieser Interpretation bezeichnen Mindestdotierungsverpflichtungen alle Verpflichtungen zur Dotierung eines leistungsorientierten Plans, der Leistungen nach Beendigung des Arbeitsverhältnisses oder andere langfristig fällige Leistungen an Arbeitnehmer beinhaltet.
+
+FRAGESTELLUNGEN
+
+6 Diese Interpretation betrifft die folgenden Fragen:
+a) 
+
+Wann sollen Rückerstattungen oder Minderungen künftiger Beitragszahlungen im Sinne der in Paragraph 8 von IAS 19 definierten Obergrenze für den Vermögenswert als verfügbar betrachtet werden?
+b) 
+
+Wie kann sich eine Mindestdotierungsverpflichtung auf die Verfügbarkeit künftiger Beitragsminderungen auswirken?
+c) 
+
+Wann ist für eine Mindestdotierungsverpflichtung eine Schuld zu erfassen?
+
+BESCHLUSS
+
+Verfügbarkeit einer Rückerstattung oder Minderung künftiger Beitragszahlungen
+
+7 Die Verfügbarkeit einer Rückerstattung oder Minderung künftiger Beitragszahlungen ist nach den Bedingungen des Plans und den im Rechtskreis des Plans maßgeblichen gesetzlichen Vorschriften zu bestimmen.
+
+8 Ein wirtschaftlicher Nutzen in Form von Rückerstattungen oder Minderungen künftiger Beitragszahlungen ist verfügbar, wenn das Unternehmen diesen Nutzen zu irgendeinem Zeitpunkt während der Laufzeit des Plans oder bei Begleichung der Planschulden realisieren kann. Ein solcher wirtschaftlicher Nutzen kann insbesondere auch dann verfügbar sein, wenn er zum Abschlussstichtag nicht sofort realisierbar ist.
+
+9 Der verfügbare wirtschaftliche Nutzen ist von der beabsichtigten Verwendung der Überdeckung unabhängig. Ein Unternehmen hat den maximalen wirtschaftlichen Nutzen zu bestimmen, der aus Rückerstattungen, Minderungen künftiger Beitragszahlungen oder einer Kombination aus beidem verfügbar ist. Ein Unternehmen darf keinen wirtschaftlichen Nutzen aus einer Kombination von Rückererstattungen und Minderungen künftiger Beitragszahlungen erfassen, wenn diese auf sich gegenseitig ausschließenden Annahmen beruhen.
+
+10 Nach IAS 1 hat ein Unternehmen Angaben zu den am Abschlussstichtag bestehenden Hauptquellen von Schätzungsunsicherheiten zu machen, die ein beträchtliches Risiko dahingehend enthalten, dass eine wesentliche Anpassung des Buchwerts des in der Bilanz ausgewiesenen Nettovermögenswerts bzw. der in der Bilanz ausgewiesenen Nettoschuld erforderlich wird. Hierzu können auch Angaben zu etwaigen Einschränkungen hinsichtlich der gegenwärtigen Realisierbarkeit der Überdeckung gehören oder die Angabe, auf welcher Grundlage der verfügbare wirtschaftliche Nutzen bestimmt wurde.
+
+Als Rückerstattung verfügbarer wirtschaftlicher Nutzen
+
+Rückerstattungsanspruch
+
+11 Für ein Unternehmen, das einen unbedingten Anspruch auf eine Rückerstattung hat, ist die Rückerstattung verfügbar
+a) 
+
+während der Laufzeit des Plans unter der Annahme, dass die Planschulden nicht beglichen werden müssen, um die Rückerstattung zu erhalten (in einigen Rechtskreisen kann ein Unternehmen z. B. während der Laufzeit des Plans einen Rückerstattungsanspruch haben, der unabhängig davon besteht, ob die Planschulden beglichen sind), oder
+b) 
+
+unter der Annahme, dass die Planschulden nach und nach beglichen werden, bis alle Berechtigten aus dem Plan ausgeschieden sind, oder
+c) 
+
+unter der Annahme, dass die Planschulden vollständig durch ein einmaliges Ereignis beglichen werden (d. h. bei der Beendigung des Plans).
+
+Ein unbedingter Rückerstattungsanspruch kann unabhängig vom Deckungsgrad des Plans zum Abschlussstichtag bestehen.
+
+12 Wenn Rückerstattungsansprüche für Überdeckungen von dem Eintreten oder Nichteintreten eines oder mehrerer unsicherer zukünftiger Ereignisse abhängen, die das Unternehmen nicht vollständig beeinflussen kann, so hat das Unternehmen keinen unbedingten Anspruch und darf keinen Vermögenswert erfassen.
+
+Bewertung des wirtschaftlichen Nutzens
+
+13 Der wirtschaftliche Nutzen einer verfügbaren Rückerstattung entspricht dem Betrag der Überdeckung zum Abschlussstichtag (dem beizulegenden Zeitwert des Planvermögens abzüglich des Barwerts der leistungsorientierten Verpflichtung), auf dessen Rückerstattung das Unternehmen Anspruch hat, abzüglich aller zugehörigen Kosten. Ist eine Rückerstattung beispielsweise mit einer anderen Steuer als der Ertragsteuer belegt, so ist der Betrag der Rückerstattung abzüglich dieser Steuer zu bestimmen.
+
+14 Bei der Bewertung des verfügbaren Betrags einer Rückerstattung im Falle der Beendigung des Plans (Paragraph 11(c)) sind die dem Plan entstehenden Kosten für die Begleichung der Planschulden und die Abwicklung der Rückerstattung zu berücksichtigen. Beispielsweise hat ein Unternehmen Honorare in Abzug zu bringen, wenn diese vom Plan und nicht vom Unternehmen gezahlt werden, sowie die Kosten für etwaige Versicherungsprämien, die zur Absicherung der Schuld bei der Beendigung notwendig sind.
+
+15 Wird der Betrag einer Rückerstattung als voller Betrag oder Teil der Überdeckung und nicht als fester Betrag bestimmt, hat das Unternehmen keine Abzinsung für den Zeitwert des Geldes vorzunehmen, selbst wenn die Rückerstattung erst zu einem späteren Zeitpunkt realisiert werden kann.
+
+Als Beitragsminderung verfügbarer wirtschaftlicher Nutzen
+
+16 Besteht keine Mindestdotierungsverpflichtung für Beitragszahlungen für künftige Dienstjahre, so entspricht der als Minderung künftiger Beitragszahlungen verfügbare wirtschaftliche Nutzen dem künftigen Dienstzeitaufwand für das Unternehmen für die erwartete Laufzeit des Plans oder die erwartete Lebensdauer des Unternehmens, je nachdem, welche der beiden Perioden die kürzere ist. Nicht im künftigen Dienstzeitaufwand für das Unternehmen enthalten sind die Beiträge, die von den Arbeitnehmern geleistet werden.
+
+17 Die bei der Ermittlung des künftigen Dienstzeitaufwands zugrunde gelegten Annahmen müssen sowohl mit den Annahmen, die bei der Bestimmung der leistungsorientierten Verpflichtung herangezogen werden, als auch mit der Situation zum Abschlussstichtag nach IAS 19 vereinbar sein. Aus diesem Grund hat ein Unternehmen so lange von künftig unveränderten Leistungen des Plans auszugehen, bis dieser geändert wird, und eine unveränderte Belegschaft anzunehmen, solange es die Zahl der am Plan teilnehmenden Arbeitnehmer nicht reduziert. In letzteren Fall hat es die geplante Reduzierung der Belegschaft bei der Annahme zu berücksichtigen.
+
+Auswirkung einer Mindestdotierungsverpflichtung auf den als Minderung künftiger Beitragszahlungen verfügbaren wirtschaftlichen Nutzen
+
+18 Ein Unternehmen hat jede Mindestdotierungsverpflichtung zu einem festgelegten Zeitpunkt daraufhin zu analysieren, welche Beiträge a) zur Deckung einer bestehenden Unterschreitung der Mindestdotierungsgrenze für zurückliegende Dienstjahre und b) zur Deckung der künftigen Dienstjahre erforderlich sind.
+
+19 Beiträge zur Deckung einer bestehenden Unterschreitung der Mindestdotierungsgrenze für bereits geleistete Dienstjahre haben keinen Einfluss auf künftige Beiträge für künftige Dienstjahre. Diese können zur Erfassung einer Schuld gemäß den Paragraphen 23–26 führen.
+
+20 Unterliegen Beiträge für künftige Dienstjahre einer Mindestdotierungsverpflichtung, ist der als Minderung künftiger Beitragszahlungen verfügbare wirtschaftliche Nutzen die Summe aus
+a) 
+
+allen Beträgen, durch die sich künftige Beiträge, die im Rahmen einer Mindestdotierungsverpflichtung für künftige Dienstjahre zu entrichten sind, verringern, weil das Unternehmen eine Vorauszahlung geleistet (d. h. den Betrag vor seiner Fälligkeit gezahlt) hat, und
+b) 
+
+dem gemäß den Paragraphen 16 und 17 geschätzten künftigen Dienstzeitaufwand in jeder Periode abzüglich der geschätzten Beiträge, die im Rahmen einer Mindestdotierungsverpflichtung für künftige Dienstjahre in diesen Perioden zu entrichten wären, wenn keine Vorauszahlung gemäß Buchstabe a erfolgt wäre.
+
+21 Bei der Schätzung der im Rahmen einer Mindestdotierungsverpflichtung für künftige Dienstjahre zu entrichtenden Beiträge hat das Unternehmen die Auswirkungen etwaiger Überdeckungen zu berücksichtigen, die anhand der Mindestdotierung, aber unter Ausschluss der in Paragraph 20(a) genannten Vorauszahlung bestimmt werden. Die vom Unternehmen zugrunde gelegten Annahmen müssen mit der Mindestdotierung und für den Fall, dass in dieser Dotierung ein Faktor unberücksichtigt bleibt, sowohl mit den bei Bestimmung der leistungsorientierten Verpflichtung zugrunde gelegten Annahmen als auch mit der Situation zum Abschlussstichtag nach IAS 19 vereinbar sein. In der Schätzung sind alle Änderungen zu berücksichtigen, die sich ergeben werden, wenn das Unternehmen die Mindestbeiträge zum Fälligkeitstermin entrichtet. Nicht berücksichtigt werden dürfen dagegen Auswirkungen von Änderungen, die bezüglich der Bedingungen der Mindestdotierung erwartet werden, zum Abschlussstichtag aber noch nicht in Kraft oder vertraglich vereinbart sind.
+
+22 Falls bei der Bestimmung des in Paragraph 20(b) genannten Betrags die im Rahmen einer Mindestdotierungsverpflichtung für künftige Dienstjahre zu entrichtenden Beiträge den künftigen Dienstzeitaufwand nach IAS 19 in einer beliebigen Periode übersteigen, reduziert sich der als Minderung künftiger Beitragszahlungen verfügbare wirtschaftliche Nutzen um diesen Differenzbetrag. Der nach Paragraph 20(b) zu ermittelnde Betrag kann jedoch niemals kleiner als null sein.
+
+Fälle, in denen für eine Mindestdotierungsverpflichtung eine Schuld zu erfassen ist
+
+23 Falls ein Unternehmen im Rahmen einer Mindestdotierungsverpflichtung aufgrund einer bestehenden Unterschreitung der Mindestdotierungsgrenze zusätzliche Beiträge für bereits geleistete Dienstjahre einzuzahlen hat, muss es ermitteln, ob die zu zahlenden Beiträge nach ihrer Einzahlung in den Plan als Rückerstattungen oder Minderungen künftiger Beitragszahlungen verfügbar sein werden.
+
+24 Für zu zahlende Beiträge, die nach ihrer Einzahlung in den Plan nicht verfügbar sein werden, hat das Unternehmen zum Zeitpunkt des Entstehens der Verpflichtung eine Schuld zu erfassen. Diese Schuld führt zu einer Reduzierung des Nettovermögenswerts aus einem leistungsorientierten Plan oder zu einer Erhöhung der Nettoschuld aus einem leistungsorientierten Plan, sodass durch die Anwendung von Paragraph 64 von IAS 19 bei der Leistung der Beitragszahlungen kein Gewinn oder Verlust entstehen dürfte.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+27 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2008 beginnen. Eine frühere Anwendung ist zulässig.
+
+27A Infolge (der 2007 überarbeiteten Fassung) von IAS 1 wurde die in allen IFRS verwendete Terminologie geändert. Außerdem wurde dadurch Paragraph 26 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen die 2007 überarbeitete Fassung von IAS 1 auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+27B Mit der Verlautbarung Vorauszahlungen im Rahmen von Mindestdotierungsverpflichtungen wurden der Paragraph 3A hinzugefügt und die Paragraphen 16–18 und 20–22 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2011 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+27C Mit (der 2011 geänderten Fassung von) IAS 19 wurden die Paragraphen 1, 6, 17 und 24 geändert und die Paragraphen 25 und 26 gestrichen. Wendet ein Unternehmen IAS 19 (in der 2011 geänderten Fassung) an, so hat es diese Änderungen anzuwenden.
+
+ÜBERGANGSVORSCHRIFTEN
+
+28 Diese Interpretation ist vom Beginn der ersten Berichtsperiode, die im ersten Abschluss, für den diese Interpretation gilt, dargestellt wird, anzuwenden. Alle Anpassungen aufgrund der erstmaligen Anwendung dieser Interpretation sind in den Gewinnrücklagen zu Beginn dieser Periode zu erfassen.
+
+29 Die in den Paragraphen 3A, 16–18 und 20–22 vorgenommenen Änderungen sind mit Beginn der frühesten Vergleichsperiode, die im ersten nach dieser Interpretation erstellten Abschluss dargestellt ist, anzuwenden. Falls ein Unternehmen diese Interpretation schon vor Anwendung der Änderungen angewandt hat, hat es die aus der Anwendung der Änderungen resultierende Anpassung mit Beginn der frühesten dargestellten Vergleichsperiode in den Gewinnrücklagen zu erfassen.

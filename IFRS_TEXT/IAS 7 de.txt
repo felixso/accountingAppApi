@@ -1,0 +1,420 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 7
+
+Kapitalflussrechnung  ( 2 )
+
+ZIELSETZUNG
+
+Informationen über die Zahlungsströme eines Unternehmens vermitteln den Abschlussadressaten eine Grundlage zur Beurteilung der Fähigkeit des Unternehmens, Zahlungsmittel und Zahlungsmitteläquivalente zu erwirtschaften, sowie zur Einschätzung des Liquiditätsbedarfs des Unternehmens. Die von den Adressaten getroffenen wirtschaftlichen Entscheidungen setzen eine Einschätzung der Fähigkeit eines Unternehmens zum Erwirtschaften von Zahlungsmitteln und Zahlungsmitteläquivalenten sowie des Zeitpunkts und der Wahrscheinlichkeit des Erwirtschaftens voraus.
+
+Die Zielsetzung dieses Standards besteht darin, Informationen über die historischen Bewegungen der Zahlungsmittel und Zahlungsmitteläquivalente eines Unternehmens bereitzustellen. Diese Informationen werden durch eine Kapitalflussrechnung zur Verfügung gestellt, welche die Zahlungsströme der Berichtsperiode nach betrieblicher Tätigkeit, Investitions- und Finanzierungstätigkeit gliedert.
+
+ANWENDUNGSBEREICH
+
+1   Ein Unternehmen hat eine Kapitalflussrechnung gemäß den Vorschriften dieses Standards zu erstellen und als integralen Bestandteil des Abschlusses für jede Periode darzustellen, für die Abschlüsse aufgestellt werden.
+
+2 Dieser Standard ersetzt den im Juli 1977 verabschiedeten IAS 7 Kapitalflussrechnung.
+
+3 Die Adressaten des Abschlusses eines Unternehmens sind daran interessiert, auf welche Weise das Unternehmen Zahlungsmittel und Zahlungsmitteläquivalente erwirtschaftet und verwendet. Dies gilt unabhängig von der Art der Tätigkeiten des Unternehmens und unabhängig davon, ob Zahlungsmittel als das Produkt des Unternehmens betrachtet werden können, wie es bei einem Finanzinstitut der Fall ist. Im Grunde genommen benötigen Unternehmen Zahlungsmittel aus denselben Gründen, wie unterschiedlich ihre wesentlichen erlösbringenden Tätigkeiten auch sein mögen. Sie benötigen Zahlungsmittel zur Durchführung ihrer Tätigkeiten, zur Erfüllung ihrer finanziellen Verpflichtungen sowie zur Zahlung von Dividenden an ihre Investoren. Deshalb sind diesem Standard zufolge alle Unternehmen zur Aufstellung einer Kapitalflussrechnung verpflichtet.
+
+NUTZEN VON KAPITALFLUSSINFORMATIONEN
+
+4 In Verbindung mit den übrigen Bestandteilen des Abschlusses liefert die Kapitalflussrechnung Informationen, anhand derer die Abschlussadressaten die Änderungen im Nettovermögen eines Unternehmens und seine Finanzstruktur (einschließlich Liquidität und Solvenz) bewerten können. Weiterhin können die Adressaten die Fähigkeit des Unternehmens zur Beeinflussung der Höhe und des zeitlichen Anfalls von Zahlungsströmen bewerten, die es ihm erlaubt, auf veränderte Umstände und Möglichkeiten zu reagieren. Kapitalflussinformationen sind hilfreich für die Beurteilung der Fähigkeit eines Unternehmens, Zahlungsmittel und Zahlungsmitteläquivalente zu erwirtschaften, und ermöglichen den Abschlussadressaten die Entwicklung von Modellen zur Beurteilung und zum Vergleich des Barwerts der künftigen Zahlungsströme verschiedener Unternehmen. Darüber hinaus verbessert eine Kapitalflussrechnung die Vergleichbarkeit der Darstellung der Ertragskraft unterschiedlicher Unternehmen, da die Auswirkungen der Verwendung verschiedener Bilanzierungs- und Bewertungsmethoden für dieselben Geschäftsvorfälle und Ereignisse eliminiert werden.
+
+5 Historische Informationen über Zahlungsströme werden häufig als Indikator für den Betrag, den Zeitpunkt und die Wahrscheinlichkeit künftiger Zahlungsströme herangezogen. Außerdem sind die Informationen nützlich, um die Genauigkeit in der Vergangenheit vorgenommener Einschätzungen künftiger Zahlungsströme zu prüfen und die Beziehung zwischen der Rentabilität und dem Netto-Zahlungsstrom sowie die Auswirkungen von Preisänderungen zu untersuchen.
+
+DEFINITIONEN
+
+6   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Zahlungsmittel umfassen Barmittel und Sichteinlagen.
+Zahlungsmitteläquivalente sind kurzfristige hochliquide Finanzinvestitionen, die jederzeit in festgelegte Zahlungsmittelbeträge umgewandelt werden können und nur unwesentlichen Wertschwankungsrisiken unterliegen.
+Zahlungsströme sind Zuflüsse und Abflüsse von Zahlungsmitteln und Zahlungsmitteläquivalenten.
+Betriebliche Tätigkeiten sind die wesentlichen erlösbringenden Tätigkeiten des Unternehmens sowie andere Tätigkeiten, die nicht den Investitions- oder Finanzierungstätigkeiten zuzuordnen sind.
+Investitionstätigkeiten sind der Erwerb und die Veräußerung langfristiger Vermögenswerte und sonstiger Finanzinvestitionen, die nicht zu den Zahlungsmitteläquivalenten gehören.
+Finanzierungstätigkeiten sind Tätigkeiten, die sich auf den Umfang und die Zusammensetzung des eingebrachten Eigenkapitals und der Fremdkapitalaufnahme des Unternehmens auswirken.
+
+Zahlungsmittel und Zahlungsmitteläquivalente
+
+7 Zahlungsmitteläquivalente dienen dazu, kurzfristigen Zahlungsverpflichtungen nachkommen zu können. Sie werden gewöhnlich nicht zu Investitions- oder anderen Zwecken gehalten. Eine Finanzinvestition wird nur dann als Zahlungsmitteläquivalent eingestuft, wenn sie jederzeit in einen festgelegten Zahlungsmittelbetrag umgewandelt werden kann und nur unwesentlichen Wertschwankungsrisiken unterliegt. Aus diesem Grund gehört eine Finanzinvestition im Regelfall nur dann zu den Zahlungsmitteläquivalenten, wenn sie — gerechnet vom Erwerbszeitpunkt — eine Restlaufzeit von nicht mehr als etwa drei Monaten besitzt. Eigenkapitalbeteiligungen gehören grundsätzlich nicht zu den Zahlungsmitteläquivalenten, es sei denn, sie sind ihrem Wesen nach Zahlungsmitteläquivalente, wie beispielsweise im Fall von Vorzugsanteilen mit kurzer Restlaufzeit und festgelegtem Einlösungszeitpunkt.
+
+8 Verbindlichkeiten gegenüber Banken gehören grundsätzlich zu den Finanzierungstätigkeiten. In einigen Ländern bilden Kontokorrentkredite, die auf Anforderung rückzahlbar sind, jedoch einen integralen Bestandteil der Zahlungsmitteldisposition des Unternehmens. In diesen Fällen werden Kontokorrentkredite den Zahlungsmitteln und Zahlungsmitteläquivalenten zugerechnet. Ein Merkmal solcher Vereinbarungen mit den Banken sind häufige Schwankungen des Kontosaldos zwischen Soll- und Haben-Beständen.
+
+9 Bewegungen zwischen den Komponenten der Zahlungsmittel oder Zahlungsmitteläquivalente sind nicht als Zahlungsströme zu betrachten, da diese Komponenten Teil der Zahlungsmitteldisposition eines Unternehmens sind und nicht Teil der betrieblichen Tätigkeit, der Investitions- oder der Finanzierungstätigkeit. Zur Zahlungsmitteldisposition gehört auch die Investition überschüssiger Zahlungsmittel in Zahlungsmitteläquivalente.
+
+DARSTELLUNG DER KAPITALFLUSSRECHNUNG
+
+10   Die Kapitalflussrechnung hat Zahlungsströme der Periode zu enthalten, die nach betrieblicher Tätigkeit, Investitions- und Finanzierungstätigkeit gegliedert werden.
+
+11 Ein Unternehmen stellt die Zahlungsströme aus betrieblicher Tätigkeit, Investitions- und Finanzierungstätigkeit in einer Weise dar, die seiner jeweiligen Geschäftstätigkeit möglichst angemessen ist. Die Gliederung nach Tätigkeitsbereichen liefert Informationen, anhand derer die Adressaten die Auswirkungen dieser Tätigkeiten auf die Vermögens- und Finanzlage des Unternehmens und die Höhe seiner Zahlungsmittel und Zahlungsmitteläquivalente beurteilen können. Weiterhin können diese Informationen eingesetzt werden, um die Beziehungen zwischen diesen Tätigkeiten zu bewerten.
+
+12 Ein einziger Geschäftsvorfall umfasst unter Umständen Zahlungsströme, die unterschiedlichen Tätigkeiten zuzuordnen sind. Wenn die Rückzahlung eines Darlehens beispielsweise sowohl Zinsen als auch Tilgung umfasst, kann der Zinsanteil unter Umständen als betriebliche Tätigkeit, der Tilgungsanteil als Finanzierungstätigkeit eingestuft werden.
+
+Betriebliche Tätigkeit
+
+13 Die Zahlungsströme aus der betrieblichen Tätigkeit sind ein Schlüsselindikator dafür, in welchem Ausmaß es durch die Unternehmenstätigkeit gelungen ist, Zahlungsmittelüberschüsse zu erwirtschaften, die ausreichen, um Verbindlichkeiten zu tilgen, die Leistungsfähigkeit des Unternehmens zu erhalten, Dividenden zu zahlen und Investitionen zu tätigen, ohne dabei auf Quellen der Außenfinanzierung angewiesen zu sein. Informationen über die genauen Bestandteile der historischen Zahlungsströme aus betrieblicher Tätigkeit sind in Verbindung mit anderen Informationen von Nutzen, um künftige Zahlungsströme aus betrieblicher Tätigkeit zu prognostizieren.
+
+14 Zahlungsströme aus der betrieblichen Tätigkeit stammen in erster Linie aus der erlösbringenden Tätigkeit des Unternehmens. Daher resultieren sie im Allgemeinen aus Geschäftsvorfällen und anderen Ereignissen, die in die Ermittlung des Gewinns oder Verlusts eingehen. Es folgen einige Beispiele für Zahlungsströme aus der betrieblichen Tätigkeit:
+a) 
+
+Zahlungseingänge aus dem Verkauf von Gütern und der Erbringung von Dienstleistungen,
+b) 
+
+Zahlungseingänge aus Nutzungsentgelten, Honoraren, Provisionen und anderen Erlösen,
+c) 
+
+Auszahlungen an Lieferanten für Güter und Dienstleistungen,
+d) 
+
+Auszahlungen an und für Beschäftigte,
+e) 
+
+[gestrichen]
+f) 
+
+Zahlungen oder Rückerstattungen von Ertragsteuern, es sei denn, die Zahlungen können der Finanzierungs- und Investitionstätigkeit zugeordnet werden, und
+g) 
+
+Einzahlungen und Auszahlungen aus für Handelszwecke gehaltene Kontrakte.
+
+Einige Geschäftsvorfälle, wie der Verkauf einer Sachanlage, führen zu einem Gewinn bzw. Verlust, der sich erfolgswirksam auswirkt. Die entsprechenden Zahlungsströme sind jedoch Zahlungsströme aus der Investitionstätigkeit. Auszahlungen für die Herstellung oder für den Erwerb von Vermögenswerten, die zur Weitervermietung und zum anschließenden Verkauf gehalten werden, so wie in Paragraph 68A von IAS 16 Sachanlagen beschrieben, sind Zahlungsströme aus betrieblichen Tätigkeiten. Die Bareinnahmen aus Miete und anschließendem Verkauf dieser Vermögenswerte sind ebenfalls Zahlungsströme aus der betrieblichen Tätigkeit.
+
+15 Ein Unternehmen hält unter Umständen Wertpapiere und Anleihen zu Handelszwecken. In diesem Fall ähneln diese Posten den zur Weiterveräußerung bestimmten Vorräten. Aus diesem Grund werden Zahlungsströme aus dem Erwerb und Verkauf derartiger Wertpapiere als betriebliche Tätigkeit eingestuft. Ähnlich gelten von Finanzinstituten gewährte Kredite und Darlehen im Regelfall als betriebliche Tätigkeit, da sie mit der wesentlichen erlösbringenden Tätigkeit dieses Unternehmens in Zusammenhang stehen.
+
+Investitionstätigkeit
+
+16 Die gesonderte Angabe der Zahlungsströme aus der Investitionstätigkeit ist von Bedeutung, da die Zahlungsströme das Ausmaß angeben, in dem Ausgaben für Ressourcen getätigt wurden, die künftige Erträge und Zahlungsströme erwirtschaften sollen. Nur Ausgaben, die zu in der Bilanz angesetzten Vermögenswerten führen, können als Investitionstätigkeit eingestuft werden. Es folgen einige Beispiele für Zahlungsströme aus der Investitionstätigkeit:
+a) 
+
+Auszahlungen für die Beschaffung von Sachanlagen, immateriellen und anderen langfristigen Vermögenswerten. Hierzu zählen auch Auszahlungen für aktivierte Entwicklungskosten und für selbst erstellte Sachanlagen,
+b) 
+
+Einzahlungen aus dem Verkauf von Sachanlagen, immateriellen und anderen langfristigen Vermögenswerten,
+c) 
+
+Auszahlungen für den Erwerb von Eigenkapital oder Schuldinstrumenten anderer Unternehmen und von Anteilen an Gemeinschaftsunternehmen (sofern diese Titel nicht als Zahlungsmitteläquivalente betrachtet oder zu Handelszwecken gehalten werden),
+d) 
+
+Einzahlungen aus der Veräußerung von Eigenkapital- oder Schuldinstrumenten anderer Unternehmen und von Anteilen an Gemeinschaftsunternehmen (sofern diese Titel nicht als Zahlungsmitteläquivalente betrachtet oder zu Handelszwecken gehalten werden),
+e) 
+
+Auszahlungen für Dritten gewährte Kredite und Darlehen (mit Ausnahme der von einem Finanzinstitut gewährten Kredite und Darlehen),
+f) 
+
+Einzahlungen aus der Tilgung von Dritten gewährten Krediten und Darlehen (mit Ausnahme der von einem Finanzinstitut gewährten Kredite und Darlehen),
+g) 
+
+Auszahlungen für standardisierte und andere Termingeschäfte, Options- und Swap-Geschäfte, es sei denn, diese Kontrakte werden zu Handelszwecken gehalten oder die Auszahlungen werden als Finanzierungstätigkeit eingestuft, und
+h) 
+
+Einzahlungen aus standardisierten und anderen Termingeschäften, Options- und Swap-Geschäften, es sei denn, diese Kontrakte werden zu Handelszwecken gehalten oder die Einzahlungen werden als Finanzierungstätigkeit eingestuft.
+
+Wenn ein Kontrakt als Sicherungsbeziehung, die sich auf ein bestimmbares Grundgeschäft bezieht, bilanziert wird, werden die Zahlungsströme des Kontrakts auf dieselbe Art und Weise eingestuft wie die Zahlungsströme des Grundgeschäfts.
+
+Finanzierungstätigkeit
+
+17 Die gesonderte Angabe der Zahlungsströme aus der Finanzierungstätigkeit ist von Bedeutung, da sie für die Schätzung von Ansprüchen auf künftige Zahlungsströme der Kapitalgeber gegenüber dem Unternehmen nützlich sind. Es folgen einige Beispiele für Zahlungsströme aus der Finanzierungstätigkeit:
+a) 
+
+Einzahlungen aus der Ausgabe von Anteilen oder anderen Eigenkapitalinstrumenten,
+b) 
+
+Auszahlungen an Eigentümer zum Erwerb oder Rückkauf von (eigenen) Anteilen an dem Unternehmen,
+c) 
+
+Einzahlungen aus der Ausgabe von Schuldverschreibungen, Schuldscheinen, Anleihen und hypothekarisch unterlegten Schuldtiteln sowie aus der Aufnahme von Darlehen und Hypotheken oder aus der Aufnahme von sonstigem kurz- oder langfristigem Fremdkapital,
+d) 
+
+Auszahlungen für die Rückzahlung von Ausleihungen und
+e) 
+
+Auszahlungen von Leasingnehmern zur Tilgung von Schulden aus Leasingverträgen.
+
+DARSTELLUNG DER ZAHLUNGSSTRÖME AUS DER BETRIEBLICHEN TÄTIGKEIT
+
+18   Ein Unternehmen hat Zahlungsströme aus der betrieblichen Tätigkeit in einer der beiden folgenden Formen darzustellen:
+a) 
+
+direkte Methode, wobei die Hauptklassen der Bruttoeinzahlungen und Bruttoauszahlungen angegeben werden oder
+b) 
+
+indirekte Methode, wobei der Periodengewinn oder -verlust um Auswirkungen nicht zahlungswirksamer Geschäftsvorfälle oder Abgrenzungen von vergangenen oder künftigen betrieblichen Ein- oder Auszahlungen (einschließlich Rückstellungen) sowie um Ertrags- oder Aufwandsposten, die den Zahlungsströmen aus der Investitions- oder der Finanzierungstätigkeit zuzuordnen sind, angepasst wird.
+
+19 Unternehmen wird empfohlen, die Zahlungsströme aus der betrieblichen Tätigkeit nach der direkten Methode darzustellen. Die direkte Methode stellt Informationen zur Verfügung, welche die Schätzung künftiger Zahlungsströme erleichtern können und bei Anwendung der indirekten Methode nicht verfügbar sind. Bei Anwendung der direkten Methode können Informationen über die Hauptklassen von Bruttoeinzahlungen und Bruttoauszahlungen folgendermaßen abgeleitet werden:
+a) 
+
+aus der Buchhaltung des Unternehmens oder
+b) 
+
+durch Bereinigung der Umsatzerlöse und der Umsatzkosten (Zinsen und ähnliche Erträge sowie Zinsaufwendungen und ähnliche Aufwendungen bei einem Finanzinstitut) sowie anderer Posten der Gesamtergebnisrechnung um
+i) 
+
+Veränderungen der Periode bei den Vorräten und den Forderungen und Verbindlichkeiten aus Lieferungen und Leistungen,
+ii) 
+
+andere zahlungsunwirksame Posten und
+iii) 
+
+andere Posten, deren zahlungswirksame Auswirkungen Zahlungsströme aus der Investitions- oder Finanzierungstätigkeit darstellen.
+
+20 Bei Anwendung der indirekten Methode wird der Netto-Zahlungsstrom aus der betrieblichen Tätigkeit durch Bereinigung des Periodengewinns oder -verlusts um die folgenden Größen ermittelt:
+a) 
+
+Veränderungen der Periode bei den Vorräten und den Forderungen und Verbindlichkeiten aus Lieferungen und Leistungen,
+b) 
+
+zahlungsunwirksame Posten, wie beispielsweise planmäßige Abschreibungen, Rückstellungen, latente Steuern, unrealisierte Fremdwährungsgewinne und -verluste und nicht ausgeschüttete Gewinne von assoziierten Unternehmen, und
+c) 
+
+alle anderen Posten, deren zahlungswirksame Auswirkungen Zahlungsströme aus der Investitions- oder Finanzierungstätigkeit darstellen.
+
+Alternativ kann der Netto-Zahlungsstrom aus der betrieblichen Tätigkeit auch in der indirekten Methode durch Gegenüberstellung der Aufwendungen und Erträge aus der Gesamtergebnisrechnung sowie der Änderungen der Vorräte und der Forderungen und Verbindlichkeiten aus Lieferungen und Leistungen im Laufe der Periode dargestellt werden.
+
+DARSTELLUNG DER ZAHLUNGSSTRÖME AUS INVESTITIONS- UND FINANZIERUNGSTÄTIGKEIT
+
+21   Ein Unternehmen hat die Hauptklassen der Bruttoeinzahlungen und Bruttoauszahlungen, die aus der Investitions- und der Finanzierungstätigkeit entstehen, separat auszuweisen. Ausgenommen sind die Fälle, in denen die in den Paragraphen 22 und 24 beschriebenen Zahlungsströme saldiert ausgewiesen werden.
+
+SALDIERTE DARSTELLUNG DER ZAHLUNGSSTRÖME
+
+22   Für Zahlungsströme, die aus den folgenden betrieblichen Tätigkeiten, Investitions- oder Finanzierungstätigkeiten entstehen, ist ein saldierter Ausweis zulässig:
+a) 
+
+Einzahlungen und Auszahlungen im Namen von Kunden, wenn die Zahlungsströme eher auf Tätigkeiten des Kunden als auf Tätigkeiten des Unternehmens zurückzuführen sind, und
+b) 
+
+Einzahlungen und Auszahlungen für Posten mit großer Umschlagshäufigkeit, großen Beträgen und kurzen Laufzeiten.
+
+23 Beispiele für die in Paragraph 22(a) genannten Einzahlungen und Auszahlungen sind:
+a) 
+
+Annahme und Rückzahlung von Sichteinlagen bei einer Bank,
+b) 
+
+von einer Anlagegesellschaft für Kunden gehaltene Finanzmittel und
+c) 
+
+Mieten, die für Grundstückseigentümer eingezogen und an diese weitergeleitet werden.
+
+23A Beispiele für die in Paragraph 22(b) genannten Einzahlungen und Auszahlungen sind Einzahlungen und Auszahlungen für
+a) 
+
+Darlehensbeträge gegenüber Kreditkartenkunden,
+b) 
+
+den Kauf und Verkauf von Finanzinvestitionen und
+c) 
+
+sonstiges kurzfristiges Fremdkapital, wie beispielsweise Kredite mit einer Laufzeit von bis zu drei Monaten.
+
+24   Für Zahlungsströme aus einer der folgenden Tätigkeiten eines Finanzinstituts ist eine saldierte Darstellung möglich:
+a) 
+
+Einzahlungen und Auszahlungen für die Annahme und die Rückzahlung von Einlagen mit fester Laufzeit,
+b) 
+
+Platzierung von Einlagen bei Finanzinstituten und Rücknahme von Einlagen anderer Finanzinstitute und
+c) 
+
+Kredite und Darlehen für Kunden und die Rückzahlung dieser Kredite und Darlehen.
+
+ZAHLUNGSSTRÖME IN FREMDWÄHRUNG
+
+25   Zahlungsströme, die aus Geschäftsvorfällen in einer Fremdwährung entstehen, sind in der funktionalen Währung des Unternehmens zu erfassen, indem der Fremdwährungsbetrag mit dem zum Zahlungszeitpunkt gültigen Umrechnungskurs zwischen der funktionalen Währung und der Fremdwährung in die funktionale Währung umgerechnet wird.
+
+26   Die Zahlungsströme eines ausländischen Tochterunternehmens sind mit dem zum Zahlungszeitpunkt geltenden Wechselkurs zwischen der funktionalen Währung und der Fremdwährung in die funktionale Währung umzurechnen.
+
+27 Zahlungsströme, die in einer Fremdwährung abgewickelt werden, sind gemäß IAS 21 Auswirkungen von Wechselkursänderungen auszuweisen. Dabei ist die Verwendung eines Wechselkurses zulässig, der dem tatsächlichen Kurs in etwa entspricht. So kann beispielsweise für die Erfassung von Fremdwährungstransaktionen oder für die Umrechnung der Zahlungsströme eines ausländischen Tochterunternehmens ein gewogener Periodendurchschnittskurs verwendet werden. Eine Umrechnung der Zahlungsströme eines ausländischen Tochterunternehmens zum Kurs am Abschlussstichtag ist jedoch gemäß IAS 21 nicht zulässig.
+
+28 Nicht realisierte Gewinne und Verluste aus Wechselkursänderungen sind nicht als Zahlungsströme zu betrachten. Die Auswirkungen von Wechselkursänderungen auf Zahlungsmittel und Zahlungsmitteläquivalente, die in Fremdwährung gehalten werden oder fällig sind, werden jedoch in der Kapitalflussrechnung erfasst, um den Bestand an Zahlungsmitteln und Zahlungsmitteläquivalenten zu Beginn und am Ende der Periode abzustimmen. Dieser Betrag wird getrennt von den Zahlungsströmen aus betrieblicher Tätigkeit, Investitions- und Finanzierungstätigkeit ausgewiesen und umfasst die Differenzen etwaiger Wechselkursänderungen, die entstanden wären, wenn diese Zahlungsströme mit dem Stichtagskurs umgerechnet worden wären.
+
+29  [gestrichen]
+
+30 [gestrichen]
+
+ZINSEN UND DIVIDENDEN
+
+31   Zahlungsströme aus erhaltenen und gezahlten Zinsen und Dividenden sind jeweils gesondert anzugeben. Jede Ein- und Auszahlung ist stetig von Periode zu Periode entweder als betriebliche Tätigkeit, Investitions- oder Finanzierungstätigkeit einzustufen.
+
+32 Der Gesamtbetrag der während einer Periode gezahlten Zinsen wird in der Kapitalflussrechnung angegeben unabhängig davon, ob der Betrag erfolgswirksam erfasst oder nach IAS 23 Fremdkapitalkosten aktiviert wurde.
+
+33 Gezahlte Zinsen sowie erhaltene Zinsen und Dividenden werden bei einem Finanzinstitut im Normalfall als Zahlungsströme aus der betrieblichen Tätigkeit eingestuft. Im Hinblick auf andere Unternehmen besteht jedoch kein Einvernehmen über die Zuordnung dieser Zahlungsströme. Gezahlte Zinsen und erhaltene Zinsen und Dividenden können als Zahlungsströme aus der betrieblichen Tätigkeit eingestuft werden, da sie in die Ermittlung des Periodengewinns oder -verlusts eingehen. Alternativ können gezahlte Zinsen und erhaltene Zinsen und Dividenden als Zahlungsströme aus Finanzierungs- bzw. Investitionstätigkeit eingestuft werden, da sie Finanzierungsaufwendungen oder Erträge aus Investitionen sind.
+
+34 Gezahlte Dividenden können als Zahlungsströme aus der Finanzierungstätigkeit eingestuft werden, da es sich um Finanzierungsaufwendungen handelt. Alternativ können gezahlte Dividenden als Bestandteil der Zahlungsströme aus der betrieblichen Tätigkeit eingestuft werden, damit die Fähigkeit eines Unternehmens, Dividenden aus Zahlungsströmen aus der betrieblichen Tätigkeit zu zahlen, leichter beurteilt werden kann.
+
+ERTRAGSTEUERN
+
+35   Zahlungsströme aus Ertragsteuern sind gesondert anzugeben und als Zahlungsströme aus der betrieblichen Tätigkeit einzustufen, es sei denn, sie können bestimmten Finanzierungs- und Investitionstätigkeiten zugeordnet werden.
+
+36 Ertragsteuern entstehen aus Geschäftsvorfällen, die zu Zahlungsströmen führen, die in einer Kapitalflussrechnung als betriebliche Tätigkeit, Investitions- oder Finanzierungstätigkeit eingestuft werden. Während Investitions- oder Finanzierungstätigkeiten in der Regel der entsprechende Steueraufwand zugeordnet werden kann, ist die Bestimmung der damit verbundenen steuerbezogenen Zahlungsströme häufig nicht durchführbar, und die Zahlungsströme erfolgen unter Umständen in einer anderen Periode als die Zahlungsströme des zugrunde liegenden Geschäftsvorfalls. Aus diesem Grund werden gezahlte Steuern im Regelfall als Zahlungsströme aus der betrieblichen Tätigkeit eingestuft. Wenn die Zuordnung der steuerbezogenen Zahlungsströme zu einem Geschäftsvorfall, der zu Zahlungsströmen aus der Investitions- oder Finanzierungstätigkeit führt, jedoch praktisch möglich ist, werden die steuerbezogenen Zahlungsströme ebenso als Investitions- bzw. Finanzierungstätigkeit eingestuft. Wenn die steuerbezogenen Zahlungsströme mehr als einer Tätigkeit zugeordnet werden, wird der Gesamtbetrag der gezahlten Steuern angegeben.
+
+BETEILIGUNGEN AN TOCHTERUNTERNEHMEN, ASSOZIIERTEN UNTERNEHMEN UND GEMEINSCHAFTSUNTERNEHMEN
+
+37 Bei der Bilanzierung einer Beteiligung an einem assoziierten Unternehmen, einem Gemeinschaftsunternehmen oder einem Tochterunternehmen nach der Equity- oder der Anschaffungskostenmethode beschränkt ein Investor seine Darstellung in der Kapitalflussrechnung auf die Zahlungsströme zwischen ihm und dem Beteiligungsunternehmen, beispielsweise auf Dividenden und Kredite.
+
+38 Ein Unternehmen, das seine Anteile an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen nach der Equity-Methode bilanziert, nimmt nur die Zahlungsströme in die Kapitalflussrechnung auf, die mit seiner Beteiligung an dem assoziierten Unternehmen oder dem Gemeinschaftsunternehmen sowie den Ausschüttungen und anderen Ein- und Auszahlungen zwischen ihm und dem assoziierten Unternehmen oder dem Gemeinschaftsunternehmen in Zusammenhang stehen.
+
+ÄNDERUNGEN DER BETEILIGUNGSQUOTE AN TOCHTERUNTERNEHMEN UND SONSTIGEN GESCHÄFTSEINHEITEN
+
+39   Die Summe der Zahlungsströme aus der Erlangung oder dem Verlust der Beherrschung über Tochterunternehmen oder sonstige Geschäftseinheiten ist gesondert darzustellen und als Investitionstätigkeit einzustufen.
+
+40   Ein Unternehmen hat im Hinblick auf die Erlangung oder den Verlust der Beherrschung über Tochterunternehmen oder sonstige Geschäftseinheiten, die während der Periode erfolgten, die folgenden zusammenfassenden Angaben zu machen:
+a) 
+
+das gesamte gezahlte oder erhaltene Entgelt,
+b) 
+
+den Teil des Entgelts, der aus Zahlungsmitteln und Zahlungsmitteläquivalenten bestand,
+c) 
+
+den Betrag der Zahlungsmittel und Zahlungsmitteläquivalente der Tochterunternehmen oder sonstigen Geschäftseinheiten, über welche die Beherrschung erlangt oder verloren wurde, und
+d) 
+
+die Beträge der nach Hauptgruppen gegliederten Vermögenswerte und Schulden mit Ausnahme der Zahlungsmittel und Zahlungsmitteläquivalente der Tochterunternehmen oder sonstigen Geschäftseinheiten, über welche die Beherrschung erlangt oder verloren wurde.
+
+40A Eine Investmentgesellschaft im Sinne von IFRS 10 Konzernabschlüsse braucht die Paragraphen 40(c) bzw. 40(d) nicht auf eine Beteiligung an einem Tochterunternehmen anzuwenden, die erfolgswirksam zum beizulegenden Zeitwert zu bewerten ist.
+
+41 Die gesonderte Darstellung der Auswirkungen der Zahlungsströme aus der Erlangung oder dem Verlust der Beherrschung über Tochterunternehmen oder sonstige Geschäftseinheiten als eigenständige Posten sowie die gesonderte Angabe der Beträge der erworbenen oder veräußerten Vermögenswerte und Schulden erleichtert die Unterscheidung dieser Zahlungsströme von den Zahlungsströmen aus der übrigen betrieblichen Tätigkeit, Investitions- und Finanzierungstätigkeit. Die Auswirkungen der Zahlungsströme aus dem Verlust der Beherrschung werden nicht mit denen aus der Erlangung der Beherrschung saldiert.
+
+42 Die Summe des Betrags der als Entgelt für die Erlangung oder den Verlust der Beherrschung über Tochterunternehmen oder sonstige Geschäftseinheiten gezahlten oder erhaltenen Mittel wird in der Kapitalflussrechnung abzüglich der im Rahmen solcher Geschäftsvorfälle, Ereignisse oder veränderten Umstände erworbenen oder veräußerten Zahlungsmittel und Zahlungsmitteläquivalente ausgewiesen.
+
+42A Zahlungsströme aus Änderungen der Beteiligungsquote an einem Tochterunternehmen, die nicht in einem Verlust der Beherrschung resultieren, sind als Zahlungsströme aus der Finanzierungstätigkeit einzustufen, es sei denn, das Tochterunternehmen wird von einer Investmentgesellschaft im Sinne von IFRS 10 gehalten und muss erfolgswirksam zum beizulegenden Zeitwert bewertet werden.
+
+42B Änderungen der Beteiligungsquote an einem Tochterunternehmen, die nicht in einem Verlust der Beherrschung resultieren, wie beispielsweise ein späterer Kauf oder Verkauf von Eigenkapitalinstrumenten eines Tochterunternehmens, werden als Eigenkapitaltransaktionen bilanziert (siehe IFRS 10), es sei denn, das Tochterunternehmen wird von einer Investmentgesellschaft gehalten und muss erfolgswirksam zum beizulegenden Zeitwert bewertet werden. Demzufolge werden die daraus resultierenden Zahlungsströme genauso wie die anderen in Paragraph 17 beschriebenen Geschäftsvorfälle mit Eigentümern eingestuft.
+
+NICHT ZAHLUNGSWIRKSAME TRANSAKTIONEN
+
+43   Investitions- und Finanzierungstransaktionen, für die keine Zahlungsmittel oder Zahlungsmitteläquivalente eingesetzt werden, sind nicht Bestandteil der Kapitalflussrechnung. Solche Transaktionen sind an anderer Stelle im Abschluss derart anzugeben, dass alle notwendigen Informationen über diese Investitions- und Finanzierungstätigkeiten bereitgestellt werden.
+
+44 Viele Investitions- und Finanzierungstätigkeiten haben keine direkten Auswirkungen auf die laufenden Zahlungsströme, beeinflussen jedoch die Kapital- und Vermögensstruktur eines Unternehmens. Der Ausschluss nicht zahlungswirksamer Transaktionen aus der Kapitalflussrechnung steht mit der Zielsetzung der Kapitalflussrechnung im Einklang, da diese Posten nicht zu Zahlungsströmen in der aktuellen Berichtsperiode führen. Beispiele für nicht zahlungswirksame Transaktionen sind:
+a) 
+
+der Erwerb von Vermögenswerten durch Übernahme direkt damit verbundener Schulden oder durch ein Leasingverhältnis,
+b) 
+
+der Erwerb eines Unternehmens gegen Ausgabe von Anteilen und
+c) 
+
+die Umwandlung von Schulden in Eigenkapital.
+
+VERÄNDERUNGEN DER VERBINDLICHKEITEN AUS FINANZIERUNGSTÄTIGKEITEN
+
+44A   Ein Unternehmen hat Angaben zu machen, anhand deren die Abschlussadressaten Veränderungen der Verbindlichkeiten aus Finanzierungstätigkeiten, einschließlich Veränderungen durch Zahlungsströme und nicht zahlungswirksame Veränderungen, beurteilen können.
+
+44B Soweit zur Erfüllung der Anforderung nach Paragraph 44A erforderlich, gibt ein Unternehmen folgende Veränderungen der Verbindlichkeiten aus Finanzierungstätigkeiten an:
+a) 
+
+Veränderungen durch Zahlungsströme aus der Finanzierungtätigkeit,
+b) 
+
+Veränderungen aufgrund der Erlangung oder des Verlustes der Beherrschung über Tochterunternehmen oder sonstige Geschäftseinheiten,
+c) 
+
+die Auswirkung von Wechselkursänderungen,
+d) 
+
+Veränderungen beizulegender Zeitwerte und
+e) 
+
+sonstige Veränderungen.
+
+44C Verbindlichkeiten aus Finanzierungstätigkeiten sind Verbindlichkeiten, bei denen Zahlungsströme in der Kapitalflussrechnung bisher oder in Zukunft als Zahlungsströme aus der Finanzierungstätigkeit eingestuft werden. Die Angabepflicht nach Paragraph 44A gilt auch für Veränderungen bei finanziellen Vermögenswerten (beispielsweise Vermögenswerte zur Absicherung von Verbindlichkeiten aus Finanzierungstätigkeiten), wenn Zahlungsströme aus diesen finanziellen Vermögenswerten bisher oder in Zukunft als Zahlungsströme aus Finanzierungstätigkeiten berücksichtigt werden.
+
+44D Eine Möglichkeit zur Erfüllung der Angabepflicht nach Paragraph 44A besteht in der Bereitstellung einer Überleitungsrechnung der Eröffnungs- und Schlusssalden in der Bilanz für Verbindlichkeiten aus Finanzierungstätigkeiten, einschließlich der Veränderungen gemäß Paragraph 44B. Wenn ein Unternehmen eine solche Überleitungsrechnung veröffentlicht, macht es ausreichende Angaben, um den Abschlussadressaten eine Zuordnung der in die Überleitungsrechnung aufgenommenen Posten zur Bilanz und zur Kapitalflussrechnung zu ermöglichen.
+
+44E Liefert ein Unternehmen die nach Paragraph 44A erforderlichen Angaben in Kombination mit Angaben zu Veränderungen bei anderen Vermögenswerten und Verbindlichkeiten, so gibt es Veränderungen von Verbindlichkeiten aus Finanzierungstätigkeiten getrennt von Veränderungen dieser anderen Vermögenswerte und Verbindlichkeiten an.
+
+▼M4
+
+LIEFERANTENFINANZIERUNGSVEREINBARUNGEN
+
+44F   Ein Unternehmen hat Angaben zu seinen Lieferantenfinanzierungsvereinbarungen (wie in Paragraph 44G beschrieben) zu machen, die es den Abschlussadressaten ermöglichen, die Auswirkungen der genannten Vereinbarungen auf die Verbindlichkeiten und Zahlungsströme des Unternehmens sowie auf das Liquiditätsrisiko des Unternehmens zu beurteilen.
+
+44G Lieferantenfinanzierungsvereinbarungen sind dadurch gekennzeichnet, dass ein oder mehrere Finanzdienstleister anbieten, Beträge zu zahlen, die ein Unternehmen seinen Lieferanten schuldet, und das Unternehmen sich verpflichtet, die Finanzdienstleister zu den Bedingungen der Vereinbarungen entweder zu demselben Zeitpunkt, zu dem die Lieferanten bezahlt werden, oder zu einem späteren Zeitpunkt zu bezahlen. Diese Vereinbarungen ermöglichen dem Unternehmen – im Vergleich zum Fälligkeitsdatum der entsprechenden Rechnung – verlängerte Zahlungsfristen oder den Lieferanten des Unternehmens vorzeitige Zahlungszeitpunkte. Lieferantenfinanzierungsvereinbarungen werden häufig als Lieferkettenfinanzierung, Finanzierung von Verbindlichkeiten oder Reverse-Factoring-Vereinbarungen bezeichnet. Vereinbarungen, die ausschließlich der Verbesserung der Kreditwürdigkeit des Unternehmens dienen (z. B. finanzielle Garantien einschließlich Akkreditiven, die als Garantien verwendet werden) oder Instrumente, die das Unternehmen verwendet, um die geschuldeten Beträge direkt mit einem Lieferanten zu begleichen (z. B. Kreditkarten), sind keine Lieferantenfinanzierungsvereinbarungen.
+
+44H Um die in Paragraph 44F genannten Ziele zu erreichen, hat ein Unternehmen für seine Lieferantenfinanzierungsvereinbarungen Folgendes aggregiert anzugeben:
+a) 
+
+die Bedingungen der Vereinbarungen (z. B. verlängerte Zahlungsfristen und gestellte Sicherheiten oder Garantien). Ein Unternehmen hat jedoch die Bedingungen von Vereinbarungen, die unterschiedliche Bedingungen aufweisen, gesondert anzugeben.
+b) 
+
+zu Beginn und zum Ende der Berichtsperiode:
+i) 
+
+die Buchwerte der finanziellen Verbindlichkeiten, die Teil einer Lieferantenfinanzierungsvereinbarung sind, und die Bilanzposten, in denen diese finanziellen Verbindlichkeiten ausgewiesen werden.
+ii) 
+
+die Buchwerte der unter (i) angegebenen finanziellen Verbindlichkeiten, für die die Lieferanten bereits Zahlungen von den Finanzdienstleistern erhalten haben, und die zugehörigen Bilanzposten.
+iii) 
+
+die Bandbreite der Fälligkeitstermine (z. B. 30–40 Tage nach Rechnungsdatum) der unter (i) angegebenen finanziellen Verbindlichkeiten und vergleichbarer Verbindlichkeiten aus Lieferungen und Leistungen, die nicht Teil einer Lieferantenfinanzierungsvereinbarung sind. Vergleichbare Verbindlichkeiten aus Lieferungen und Leistungen sind beispielsweise Verbindlichkeiten aus Lieferungen und Leistungen des Unternehmens, die sich auf denselben Geschäftszweig oder denselben Rechtsraum beziehen wie die unter (i) angegebenen finanziellen Verbindlichkeiten. Sind die Bandbreiten der Fälligkeitstermine groß, hat ein Unternehmen Erläuterungen zu diesen Spannen zu geben oder zusätzliche Spannen (z. B. geschichtete Bandbreiten) anzugeben.
+c) 
+
+Art und Auswirkung von nicht zahlungswirksamen Veränderungen der Buchwerte der unter (b)(i) angegebenen finanziellen Verbindlichkeiten. Beispiele für nicht zahlungswirksame Veränderungen sind die Auswirkungen von Unternehmenszusammenschlüssen, Umrechnungsdifferenzen oder anderen Transaktionen, für die keine Zahlungsmittel oder Zahlungsmitteläquivalente eingesetzt werden (siehe Paragraph 43).
+
+▼B
+
+BESTANDTEILE DER ZAHLUNGSMITTEL UND ZAHLUNGSMITTELÄQUIVALENTE
+
+45   Ein Unternehmen hat die Bestandteile der Zahlungsmittel und Zahlungsmitteläquivalente anzugeben und eine Überleitungsrechnung zu erstellen, in der die Beträge der Kapitalflussrechnung den entsprechenden Bilanzposten gegenübergestellt werden.
+
+46 Angesichts der Vielfalt der weltweiten Praktiken zur Zahlungsmitteldisposition und der Konditionen von Kreditinstituten sowie zur Erfüllung des IAS 1 Darstellung des Abschlusses gibt ein Unternehmen die gewählte Methode für die Bestimmung der Zusammensetzung der Zahlungsmittel und Zahlungsmitteläquivalente an.
+
+47 Die Auswirkungen von Änderungen der Methode zur Bestimmung der Zusammensetzung der Zahlungsmittel und Zahlungsmitteläquivalente, wie beispielsweise eine Änderung in der Einstufung von Finanzinstrumenten, die ursprünglich dem Beteiligungsportfolio des Unternehmens zugeordnet waren, werden nach IAS 8 Rechnungslegungsmethoden, Änderungen rechnungslegungsbezogener Schätzungen und Fehler dargestellt.
+
+WEITERE ANGABEN
+
+48   Ein Unternehmen hat in Verbindung mit einer Stellungnahme des Managements den Betrag an wesentlichen Zahlungsmitteln und Zahlungsmitteläquivalenten anzugeben, die vom Unternehmen gehalten werden und über die der Konzern nicht verfügen kann.
+
+49 Unter verschiedenen Umständen kann ein Konzern nicht über Zahlungsmittel und Zahlungsmitteläquivalente eines Unternehmens verfügen. Dazu zählen beispielsweise Zahlungsmittel und Zahlungsmitteläquivalente, die von einem Tochterunternehmen in einem Land gehalten werden, in dem Devisenverkehrskontrollen oder andere gesetzliche Einschränkungen zum Tragen kommen, und das Mutterunternehmen oder andere Tochterunternehmen nicht uneingeschränkt über die Bestände verfügen können.
+
+50 Zusätzliche Angaben können für die Adressaten von Bedeutung sein, um die Finanzlage und Liquidität eines Unternehmens einschätzen zu können. Solche Angaben (in Verbindung mit einer Erläuterung des Managements) werden empfohlen und können folgende Punkte enthalten:
+a) 
+
+Betrag der nicht ausgenutzten Kreditlinien, die für die künftige betriebliche Tätigkeit und zur Erfüllung von Verpflichtungen eingesetzt werden könnten, unter Angabe aller Beschränkungen der Verwendung dieser Kreditlinien,
+b) 
+
+die Summe des Betrags der Zahlungsströme, die Erweiterungen der Betriebskapazität betreffen, im Unterschied zu den Zahlungsströmen, die zur Erhaltung der Betriebskapazität erforderlich sind, und
+c) 
+
+Betrag der Zahlungsströme aus betrieblicher Tätigkeit, aus der Investitionstätigkeit und aus der Finanzierungstätigkeit, aufgegliedert nach den einzelnen berichtspflichtigen Segmenten (siehe IFRS 8 Geschäftssegmente).
+
+51 Durch die gesonderte Angabe von Zahlungsströmen, die eine Erhöhung der Betriebskapazität betreffen, und Zahlungsströmen, die zur Erhaltung der Betriebskapazität erforderlich sind, kann der Adressat der Kapitalflussrechnung beurteilen, ob das Unternehmen ausreichende Investitionen zur Erhaltung seiner Betriebskapazität vornimmt. Nimmt das Unternehmen nur unzureichende Investitionen zur Erhaltung seiner Betriebskapazität vor, schadet es unter Umständen der künftigen Rentabilität zugunsten der kurzfristigen Liquidität und der Ausschüttungen an Eigentümer.
+
+52 Die Angabe segmentierter Zahlungsströme verhilft den Adressaten der Kapitalflussrechnung zu einem besseren Verständnis der Beziehung zwischen den Zahlungsströmen des Unternehmens als Ganzem und den Zahlungsströmen seiner Bestandteile sowie der Verfügbarkeit und Variabilität der segmentierten Zahlungsströme.
+
+▼M4
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+▼B
+
+53 Dieser Standard ist verbindlich auf Abschlüsse für Berichtsperioden anzuwenden, die am oder nach dem 1. Januar 1994 beginnen.
+
+54 Durch IAS 27 (in der 2008 geänderten Fassung) wurden die Paragraphen 39–42 geändert und die Paragraphen 42A und 42B eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IAS 27 (geändert 2008) auf eine frühere Periode an, so hat es auf diese Periode auch die genannten Änderungen anzuwenden. Diese Änderungen sind rückwirkend anzuwenden.
+
+55 Durch die Verbesserungen der IFRS, veröffentlicht im Mai 2008, wurde Paragraph 14 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben und Paragraph 68A von IAS 16 anzuwenden.
+
+56 Durch die Verbesserungen der IFRS, veröffentlicht im April 2009, wurde Paragraph 16 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2010 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderung für eine frühere Periode an, hat es dies anzugeben.
+
+57 Durch IFRS 10 und IFRS 11 Gemeinschaftliche Vereinbarungen, veröffentlicht im Mai 2011, wurden die Paragraphen 37, 38 und 42B geändert und Paragraph 50(b) wurde gestrichen. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+58 Mit der im Oktober 2012 veröffentlichten Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27) wurden die Paragraphen 42A und 42B geändert und Paragraph 40A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es alle in der Verlautbarung enthaltenen Änderungen gleichzeitig anzuwenden.
+
+59 Durch IFRS 16 Leasingverhältnisse, veröffentlicht im Januar 2016, wurden die Paragraphen 17 und 44 geändert. Wendet ein Unternehmen IFRS 16 an, sind diese Änderungen ebenfalls anzuwenden.
+
+60 Mit der im Januar 2016 veröffentlichten Änderung des IAS 7 Angabeninitiative wurden die Paragraphen 44A–44E eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2017 beginnen. Eine frühere Anwendung ist zulässig. Wenn das Unternehmen diese Änderungen erstmals anwendet, so ist es nicht verpflichtet, Vergleichsinformationen zu früheren Perioden bereitzustellen.
+
+61 Durch IFRS 17 Versicherungsverträge, veröffentlicht im Mai 2017, wurde Paragraph 14 geändert. Wendet ein Unternehmen IFRS 17 an, ist diese Änderung ebenfalls anzuwenden.
+
+▼M4
+
+62 Mit der im Mai 2023 veröffentlichten Verlautbarung Lieferantenfinanzierungsvereinbarungen wurden die Paragraphen 44F–44H eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2024 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+63 Ein Unternehmen, das die Verlautbarung Lieferantenfinanzierungsvereinbarungen anwendet, ist nicht verpflichtet, Folgendes anzugeben:
+a) 
+
+Vergleichsinformationen für Berichtsperioden, die vor Beginn des Geschäftsjahres dargestellt wurden, in der das Unternehmen diese Änderungen erstmals anwendet.
+b) 
+
+die nach Paragraph 44H(b)(ii)–(iii) anderweitig vorgeschriebenen Angaben zu Beginn des Geschäftsjahres, in dem das Unternehmen diese Änderungen erstmals anwendet.
+c) 
+
+die nach den Paragraphen 44F–44H anderweitig vorgeschriebenen Angaben für jede Zwischenberichtsperiode des Geschäftsjahres, in dem das Unternehmen diese Änderungen erstmals anwendet.

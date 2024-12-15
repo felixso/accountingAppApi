@@ -1,0 +1,99 @@
+﻿ IFRIC INTERPRETATION 21
+
+Abgaben
+
+VERWEISE
+— 
+IAS 1 Darstellung des Abschlusses
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 12 Ertragsteuern
+— 
+IAS 20 Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand
+— 
+IAS 24 Angaben über Beziehungen zu nahestehenden Unternehmen und Personen
+— 
+IAS 34 Zwischenberichterstattung
+— 
+IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen
+— 
+IFRIC 6 Verbindlichkeiten, die sich aus einer Teilnahme an einem spezifischen Markt ergeben — Elektro- und Elektronik-Altgeräte
+
+HINTERGRUND
+
+1 Die öffentliche Hand kann Unternehmen zur Entrichtung von Abgaben verpflichten. Das IFRIC wurde ersucht, den Unternehmen Leitlinien zur Bilanzierung solcher Abgaben in ihren Abschlüssen zur Verfügung zu stellen. Insbesondere sollte geklärt werden, zu welchem Zeitpunkt eine Verpflichtung zur Entrichtung einer solchen Abgabe zu erfassen ist, wenn nach IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen bilanziert wird.
+
+ANWENDUNGSBEREICH
+
+2 Diese Interpretation betrifft de Frage, wie Verpflichtungen zur Entrichtung einer Abgabe, die in den Anwendungsbereich von IAS 37 fallen, zu bilanzieren sind. Sie betrifft auch die Bilanzierung von Verpflichtungen zur Entrichtung einer Abgabe, deren Zeitpunkt und Betrag feststehen.
+
+3 Diese Interpretation betrifft nicht die Bilanzierung von Kosten, die durch die Erfassung einer Verpflichtung zur Entrichtung einer Abgabe verursacht werden. Ob für eine Verpflichtung zur Zahlung einer Abgabe ein Vermögenswert oder ein Aufwand zu erfassen ist, haben die Unternehmen auf der Grundlage anderer Standards zu entscheiden.
+
+4 Eine Abgabe im Sinne dieser Interpretation ist ein Ressourcenabfluss, der einen wirtschaftlichen Nutzen widerspiegelt und den die öffentliche Hand Unternehmen aufgrund von Rechtsvorschriften (d. h. gesetzlicher und/oder Regulierungsvorschriften) auferlegt. Dazu gehören weder
+a) 
+
+Ressourcenabflüsse, die unter andere Standards fallen (wie Ertragsteuern, die unter IAS 12 Ertragsteuern fallen), noch
+b) 
+
+Buß- oder andere Strafgelder, die bei Gesetzesverstößen verhängt werden.
+
+Der Begriff „öffentliche Hand“ bezeichnet Regierungsbehörden, Institutionen mit hoheitlichen Aufgaben und ähnliche Körperschaften, unabhängig davon, ob diese auf lokaler, nationaler oder internationaler Ebene angesiedelt sind.
+
+5 Nicht unter die Definition von Abgabe fallen Zahlungen, die ein Unternehmen im Rahmen einer vertraglichen Vereinbarung mit der öffentlichen Hand für den Erwerb eines Vermögenswerts oder für die Erbringung von Dienstleistungen entrichtet.
+
+6 Auf Verbindlichkeiten aus Emissionshandelssystemen müssen die Unternehmen diese Interpretation nicht anwenden.
+
+FRAGESTELLUNGEN
+
+7 Um klarzustellen, wie eine Verpflichtung zur Entrichtung einer Abgabe zu bilanzieren ist, werden in dieser Interpretation die folgenden Fragestellungen behandelt:
+a) 
+
+Worin besteht das Ereignis, das eine Verpflichtung zur Entrichtung einer Abgabe auslöst?
+b) 
+
+Führt der wirtschaftliche Zwang, die Geschäftstätigkeit in einer künftigen Periode fortzuführen, zu einer faktischen Verpflichtung, eine an die Geschäftstätigkeit in dieser künftigen Periode geknüpfte Abgabe zu entrichten?
+c) 
+
+Bedeutet die Prämisse der Unternehmensfortführung, dass das Unternehmen gegenwärtig zur Zahlung einer Abgabe verpflichtet ist, die an die Geschäftstätigkeit in einer künftigen Periode geknüpft ist?
+d) 
+
+Wird die Verpflichtung zur Entrichtung einer Abgabe zu einem bestimmten Zeitpunkt zu erfassen sein oder kann eine solche Verpflichtung unter bestimmten Umständen fortlaufend entstehen?
+e) 
+
+Worin besteht das Ereignis, das bei Erreichen eines Mindestschwellenwerts eine Verpflichtung zur Entrichtung einer Abgabe auslöst?
+f) 
+
+Gelten für die Erfassung einer Verpflichtung zur Entrichtung einer Abgabe im Jahresabschluss und im Zwischenbericht die gleichen Grundsätze?
+
+BESCHLUSS
+
+8 Das Ereignis, das eine Verpflichtung zur Entrichtung einer Abgabe auslöst, ist der Vorgang, an den die gesetzliche Vorschrift die Abgabe knüpft. Ist die Abgabe beispielsweise an die Erzielung von Erlösen in der laufenden Periode geknüpft und wird diese Abgabe anhand der in der vorangegangenen Periode erzielten Erlöse berechnet, so ist das verpflichtende Ereignis für diese Abgabe die Erzielung von Erlösen in der laufenden Periode. Die Erzielung von Erlösen in der vorangegangenen Periode ist für die Auslösung einer gegenwärtigen Verpflichtung zwar notwendig, aber nicht ausreichend.
+
+9 Ein Unternehmen, das wirtschaftlich dazu gezwungen ist, seine Geschäftstätigkeit in einer künftigen Periode fortzuführen, ist faktisch nicht zur Entrichtung einer an die Geschäftstätigkeit in dieser künftigen Periode geknüpften Abgabe verpflichtet.
+
+10 Die Erstellung eines Abschlusses unter der Prämisse der Unternehmensfortführung bedeutet für das Unternehmen nicht, dass es gegenwärtig zur Entrichtung einer an die Geschäftstätigkeit in einer künftigen Periode geknüpften Abgabe verpflichtet ist.
+
+11 Erstreckt sich das verpflichtende Ereignis (d. h. der Vorgang, an den die gesetzliche Vorschrift die Entrichtung der Abgabe knüpft) über einen gewissen Zeitraum, so wird die Verpflichtung zur Entrichtung dieser Abgabe fortlaufend erfasst. Handelt es sich bei dem verpflichtenden Ereignis beispielsweise um die Erzielung von Erlösen über einen gewissen Zeitraum, so wird die entsprechende Verpflichtung bei Erzielung dieser Erlöse fortlaufend erfasst.
+
+12 Ist eine Verpflichtung zur Entrichtung einer Abgabe an das Erreichen eines Mindestschwellenwerts geknüpft, so wird die aus dieser Verpflichtung resultierende Verbindlichkeit nach den in den Paragraphen 8–14 dieser Interpretation (und insbesondere in den Paragraphen 8 und 11) niedergelegten Grundsätzen bilanziert. Besteht das verpflichtende Ereignis beispielsweise im Erreichen eines auf die Geschäftstätigkeit bezogenen Mindestschwellenwerts (wie Mindesterlös, Mindestumsatz oder Mindestproduktion), so wird die entsprechende Verbindlichkeit bei Erreichen dieses Mindestschwellenwerts erfasst.
+
+13 Bei Erstellung des Zwischenberichts ist beim Ansatz nach den gleichen Grundsätzen zu verfahren wie bei Erstellung des Jahresabschlusses. Infolgedessen ist eine Verpflichtung zur Entrichtung einer Abgabe im Zwischenbericht
+a) 
+
+nicht anzusetzen, wenn am Ende der Zwischenberichtsperiode keine gegenwärtige Verpflichtung zur Entrichtung der Abgabe besteht, aber
+b) 
+
+anzusetzen, wenn am Ende der Zwischenberichtsperiode eine gegenwärtige Verpflichtung zur Entrichtung der Abgabe besteht.
+
+14 Hat das Unternehmen eine Abgabenvorauszahlung geleistet, ist aber gegenwärtig noch nicht zur Zahlung dieser Abgabe verpflichtet, so hat es einen Vermögenswert anzusetzen.
+
+Anhang A
+
+Zeitpunkt des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil der Interpretation und hat die gleiche bindende Kraft wie die anderen Teile der Interpretation.
+
+A1  Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Interpretation auf eine frühere Periode an, hat es dies anzugeben.
+
+A2  Aus der erstmaligen Anwendung dieser Interpretation resultierende Änderungen bei den Rechnungslegungsmethoden sind gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend anzuwenden.

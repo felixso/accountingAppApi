@@ -1,0 +1,256 @@
+﻿INTERNATIONAL ACCOUNTING STANDARD 28
+
+Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen
+
+ZIEL
+
+1   Ziel dieses Standards ist die Regelung der Bilanzierung von Beteiligungen an assoziierten Unternehmen und die Festlegung der Vorschriften für die Anwendung der Equity-Methode für die Bilanzierung von Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard gilt für alle Unternehmen, die als Investoren an der gemeinschaftlichen Führung eines Beteiligungsunternehmens beteiligt sind oder maßgeblichen Einfluss auf ein Beteiligungsunternehmen haben.
+
+DEFINITIONEN
+
+3   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Ein assoziiertes Unternehmen ist ein Unternehmen, auf das der Investor maßgeblichen Einfluss hat.
+Ein Konzernabschluss ist der Abschluss eines Konzerns, in dem Vermögenswerte, Schulden, Eigenkapital, Erträge, Aufwendungen und Zahlungsströme des Mutterunternehmens und seiner Tochterunternehmen so dargestellt werden, als handele es sich um ein einziges Unternehmen.
+Die Equity-Methode ist eine Bilanzierungsmethode, bei der die Beteiligung zunächst mit den Anschaffungskosten angesetzt wird, dieser Ansatz aber in der Folge um etwaige Veränderungen beim Anteil des Investors am Nettovermögen des Beteiligungsunternehmens angepasst wird. Der Gewinn oder Verlust des Investors schließt dessen Anteil am Gewinn oder Verlust des Beteiligungsunternehmens ein und das sonstige Ergebnis des Investors schließt dessen Anteil am sonstigen Ergebnis des Beteiligungsunternehmens ein.
+Eine gemeinschaftliche Vereinbarung ist eine Vereinbarung, bei der zwei oder mehr Parteien die gemeinschaftliche Führung innehaben.
+Gemeinschaftliche Führung ist die vertraglich geregelte Teilung der Beherrschung einer Vereinbarung, die nur dann gegeben ist, wenn Entscheidungen über die maßgeblichen Tätigkeiten die einstimmige Zustimmung der sich die Beherrschung teilenden Parteien erfordern.
+Ein Gemeinschaftsunternehmen ist eine gemeinschaftliche Vereinbarung, bei der die Parteien, die die gemeinschaftliche Führung der Vereinbarung innehaben, Rechte am Nettovermögen der Vereinbarung haben.
+Ein Partnerunternehmen bezeichnet einen Partner an einem Gemeinschaftsunternehmen, der an der gemeinschaftlichen Führung dieses Gemeinschaftsunternehmens beteiligt ist.
+Maßgeblicher Einfluss ist die Möglichkeit, an den finanz- und geschäftspolitischen Entscheidungen des Beteiligungsunternehmens mitzuwirken, nicht aber die Beherrschung oder die gemeinschaftliche Führung der Entscheidungsprozesse.
+
+4 Die folgenden Begriffe werden in Paragraph 4 von IAS 27 Einzelabschlüsse und in Anhang A von IFRS 10 Konzernabschlüsse definiert und im vorliegenden Standard mit der in den oben genannten IFRS angegebenen Bedeutung verwendet:
+— 
+Beherrschung eines Beteiligungsunternehmens,
+— 
+Konzern,
+— 
+Mutterunternehmen,
+— 
+Einzelabschluss,
+— 
+Tochterunternehmen.
+
+MASSGEBLICHER EINFLUSS
+
+5 Hält ein Unternehmen direkt oder indirekt (z. B. durch Tochterunternehmen) 20 % oder mehr der Stimmrechte an einem Beteiligungsunternehmen, so wird vermutet, dass ein maßgeblicher Einfluss des Unternehmens vorliegt, es sei denn, dies kann eindeutig widerlegt werden. Umgekehrt wird bei einem direkt oder indirekt (z. B. durch Tochterunternehmen) gehaltenen Stimmrechtsanteil des Unternehmens von weniger als 20 % vermutet, dass das Unternehmen nicht über maßgeblichen Einfluss verfügt, es sei denn, dieser Einfluss kann eindeutig nachgewiesen werden. Ein erheblicher Anteilsbesitz oder eine Mehrheitsbeteiligung eines anderen Investors schließen nicht notwendigerweise aus, dass ein Unternehmen über maßgeblichen Einfluss verfügt.
+
+6 Das Vorliegen eines oder mehrerer der folgenden Indikatoren lässt in der Regel auf einen maßgeblichen Einfluss des Unternehmens schließen:
+a) 
+
+Zugehörigkeit zum Geschäftsführungs- und/oder Aufsichtsorgan oder einem gleichartigen Leitungsgremium des Beteiligungsunternehmens,
+b) 
+
+Teilnahme an den Entscheidungsprozessen, einschließlich der Teilnahme an Entscheidungen über Dividenden oder sonstige Ausschüttungen,
+c) 
+
+wesentliche Geschäftsvorfälle zwischen dem Unternehmen und seinem Beteiligungsunternehmen,
+d) 
+
+Austausch von Führungspersonal oder
+e) 
+
+Bereitstellung bedeutender technischer Informationen.
+
+7 Ein Unternehmen kann Anteilsoptionsscheine, Anteilskaufoptionen, Schuld- oder Eigenkapitalinstrumente, die in Stammanteile oder in ähnliche Instrumente eines anderen Unternehmens umwandelbar sind, halten, deren Ausübung oder Umwandlung dem ausübenden Unternehmen die Möglichkeit gibt, zusätzliche Stimmrechte über die Finanz- und Geschäftspolitik eines anderen Unternehmens zu erlangen oder die Stimmrechte eines anderen Anteilseigners über diese zu beschränken (d. h. potenzielle Stimmrechte). Bei der Beurteilung der Frage, ob ein Unternehmen über maßgeblichen Einfluss verfügt, werden die Existenz und die Auswirkungen potenzieller Stimmrechte, die gegenwärtig ausgeübt oder umgewandelt werden können, einschließlich der von anderen Unternehmen gehaltenen potenziellen Stimmrechte berücksichtigt. Potenzielle Stimmrechte sind nicht als gegenwärtig ausübungsfähig oder umwandelbar anzusehen, wenn sie zum Beispiel erst zu einem künftigen Termin oder bei Eintreten eines künftigen Ereignisses ausgeübt oder umgewandelt werden können.
+
+8 Bei der Beurteilung der Frage, ob potenzielle Stimmrechte zum maßgeblichen Einfluss beitragen, prüft das Unternehmen alle Fakten und Umstände, die die potenziellen Stimmrechte beeinflussen (einschließlich der Bedingungen für die Ausübung dieser Rechte und sonstiger vertraglicher Vereinbarungen, gleich ob in der Einzelfallbetrachtung oder im Zusammenhang), mit Ausnahme der Handlungsabsichten des Managements und der finanziellen Möglichkeiten einer Ausübung oder Umwandlung dieser potenziellen Rechte.
+
+9 Ein Unternehmen verliert seinen maßgeblichen Einfluss über ein Beteiligungsunternehmen in dem Moment, in dem es die Möglichkeit verliert, an dessen finanz- und geschäftspolitischen Entscheidungsprozessen teilzuhaben. Dies kann mit oder ohne Änderung der absoluten oder relativen Eigentumsverhältnisse der Fall sein. Ein solcher Verlust kann beispielsweise eintreten, wenn ein assoziiertes Unternehmen unter die Kontrolle staatlicher Behörden, Gerichte, Zwangsverwalter oder Aufsichtsbehörden gerät. Er könnte auch das Ergebnis einer vertraglichen Vereinbarung sein.
+
+EQUITY-METHODE
+
+10 Bei der Equity-Methode wird die Beteiligung an einem assoziierten Unternehmen oder Gemeinschaftsunternehmen zunächst mit den Anschaffungskosten angesetzt. In der Folge erhöht oder verringert sich der Buchwert der Beteiligung entsprechend dem Anteil des Investors am Gewinn oder Verlust des Beteiligungsunternehmens. Der Anteil des Investors am Gewinn oder Verlust des Beteiligungsunternehmens wird im Gewinn oder Verlust des Investors erfasst. Vom Beteiligungsunternehmen empfangene Ausschüttungen vermindern den Buchwert der Beteiligung. Änderungen des Buchwerts können auch aufgrund von Änderungen der Beteiligungsquote des Investors notwendig sein, welche sich aufgrund von Änderungen im sonstigen Ergebnis des Beteiligungsunternehmens ergeben. Solche Änderungen entstehen unter anderem infolge einer Neubewertung von Sachanlagevermögen und aus der Umrechnung von Fremdwährungsabschlüssen. Der Anteil des Investors an diesen Änderungen wird im sonstigen Ergebnis des Investors erfasst (siehe IAS 1 Darstellung des Abschlusses).
+
+11 Werden Erträge auf Basis der erhaltenen Dividenden angesetzt, so spiegelt dies unter Umständen nicht in angemessener Weise die Erträge wider, die ein Investor aus einer Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen erzielt hat, da die Dividenden u. U. nur unzureichend in Relation zur Ertragskraft des assoziierten Unternehmens oder des Gemeinschaftsunternehmens stehen. Da der Investor in die gemeinschaftliche Führung des Beteiligungsunternehmens involviert ist oder über maßgeblichen Einfluss auf das Beteiligungsunternehmen verfügt, hat er ein Interesse an der Ertragskraft des assoziierten Unternehmens oder des Gemeinschaftsunternehmens und demzufolge an der Verzinsung des eingesetzten Kapitals. Diese Beteiligung an der Ertragskraft bilanziert der Investor, indem er den Umfang seines Abschlusses um seinen Anteil am Gewinn oder Verlust eines solchen Beteiligungsunternehmens erweitert. Dementsprechend bietet die Anwendung der Equity-Methode mehr Informationen über das Nettovermögen und den Gewinn oder Verlust des Investors.
+
+12 Wenn potenzielle Stimmrechte oder sonstige Derivate mit potenziellen Stimmrechten bestehen, wird der Anteil eines Unternehmens an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen lediglich auf Grundlage der bestehenden Beteiligungsquote und nicht unter Berücksichtigung der möglichen Ausübung oder Umwandlung potenzieller Stimmrechte oder sonstiger derivativer Instrumente bestimmt, es sei denn, Paragraph 13 findet Anwendung.
+
+13 In einigen Fällen hat ein Unternehmen dem wirtschaftlichen Gehalt nach ein Eigentumsrecht infolge einer Transaktion, die ihm Zugang zu den mit einem Eigentumsanteil verbundenen wirtschaftlichen Erfolgen verschafft. Unter diesen Umständen wird der dem Unternehmen zugewiesene Anteil unter Berücksichtigung der letztlichen Ausübung dieser potenziellen Stimmrechte und sonstigen derivativen Instrumente festgelegt, aufgrund deren das Unternehmen derzeit Zugang zu den wirtschaftlichen Erfolgen hat.
+
+14 IFRS 9 Finanzinstrumente findet keine Anwendung auf Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen, deren Bilanzierung nach der Equity-Methode erfolgt. Wenn Instrumente mit potenziellen Stimmrechten ihrem wirtschaftlichen Gehalt nach derzeit Zugang zu den mit einem Eigentumsanteil an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen verbundenen wirtschaftlichen Erfolgen verschaffen, unterliegen die Instrumente nicht IFRS 9. In allen anderen Fällen werden Instrumente mit potenziellen Stimmrechten an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen nach IFRS 9 bilanziert.
+
+14A Ein Unternehmen wendet IFRS 9 zudem auf sonstige Finanzinstrumente an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen an, auf die die Equity-Methode nicht angewendet wird. Hierzu gehören langfristige Anteile, die dem wirtschaftlichen Gehalt nach der Nettoinvestition des Unternehmens in das assoziierte Unternehmen oder das Gemeinschaftsunternehmen zuzuordnen sind (siehe Paragraph 38). Bevor ein Unternehmen Paragraph 38 und die Paragraphen 40–43 des vorliegenden Standards anwendet, wendet es auf solche langfristigen Anteile IFRS 9 an. Bei der Anwendung von IFRS 9 berücksichtigt das Unternehmen keine Änderungen des Buchwerts der langfristigen Anteile, die sich aus der Anwendung des vorliegenden Standards ergeben.
+
+15 Sofern eine Beteiligung oder ein Teil einer Beteiligung an einem assoziierten Unternehmen oder Gemeinschaftsunternehmens nach IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche nicht als zur Veräußerung gehalten eingestuft wurde, ist die Beteiligung oder ein zurückbehaltener Teil der Beteiligung, der nicht als zur Veräußerung gehalten eingestuft wurde, als langfristiger Vermögenswert einzustufen.
+
+ANWENDUNG DER EQUITY-METHODE
+
+16 Ein Unternehmen, das in die gemeinschaftliche Führung eines Beteiligungsunternehmens involviert ist oder maßgeblichen Einfluss auf ein Beteiligungsunternehmen hat, hat seine Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen nach der Equity-Methode zu bilanzieren, es sei denn, die Beteiligung fällt unter die Ausnahmeregelung nach den Paragraphen 17–19.
+
+Ausnahmen von der Anwendung der Equity-Methode
+
+17 Ein Unternehmen muss die Equity-Methode nicht auf seine Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen anwenden, wenn das Unternehmen ein Mutterunternehmen ist, das nach der Ausnahme vom Anwendungsbereich gemäß Paragraph 4a von IFRS 10 von der Aufstellung eines Konzernabschlusses befreit ist oder wenn alle folgenden Punkte zutreffen:
+a) 
+
+Das Unternehmen ist ein hundertprozentiges Tochterunternehmen oder ein teilweise im Eigentum eines anderen Unternehmens stehendes Tochterunternehmen und die anderen Eigentümer, einschließlich der nicht stimmberechtigten, sind darüber unterrichtet, dass das Unternehmen die Equity-Methode nicht anwendet, und erheben dagegen keine Einwände.
+b) 
+
+Die Schuld- oder Eigenkapitalinstrumente des Unternehmens werden an keinem öffentlichen Markt (einer inländischen oder ausländischen Wertpapierbörse oder am Freiverkehrsmarkt, einschließlich lokaler und regionaler Märkte) gehandelt.
+c) 
+
+Das Unternehmen hat seine Abschlüsse nicht zum Zweck der Emission von Finanzinstrumenten jeglicher Kategorie an einem öffentlichen Markt bei einer Börsenaufsicht oder sonstigen Aufsichtsbehörde eingereicht oder beabsichtigt dies zu tun.
+d) 
+
+Das oberste oder ein zwischengeschaltetes Mutterunternehmen des Unternehmens stellt einen IFRS-konformen Abschluss auf, der veröffentlicht wird und in dem Tochtergesellschaften entweder konsolidiert oder nach IFRS 10 erfolgswirksam zum beizulegenden Zeitwert bewertet werden.
+
+18 Wenn eine Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen direkt oder indirekt von einem Unternehmen gehalten wird, bei dem es sich um eine Wagniskapital-Organisation, einen offenen Investmentfonds, einen Unit Trust oder ein ähnliches Unternehmen, einschließlich einer fondsgebundenen Versicherung, handelt, kann das Unternehmen diese Beteiligung erfolgswirksam zum beizulegenden Zeitwert nach IFRS 9 bewerten. Ein Beispiel für eine fondsgebundene Versicherung sind Fonds, die von einem Unternehmen als zugrunde liegende Posten für eine Gruppe von Versicherungsverträgen mit direkter Überschussbeteiligung gehalten werden. Für die Zwecke dieses Wahlrechts umfassen Versicherungsverträge auch Kapitalanlageverträge mit ermessensabhängiger Überschussbeteiligung. Diese Entscheidung ist für jedes assoziierte Unternehmen oder Gemeinschaftsunternehmen bei dessen erstmaligem Ansatz gesondert zu treffen. (Siehe IFRS 17 Versicherungsverträge in Bezug auf die in diesem Paragraphen verwendeten Begriffe, die in diesem Standard definiert sind.)
+
+19 Hält ein Unternehmen eine Beteiligung an einem assoziierten Unternehmen, von der ein Teil indirekt über ein Unternehmen gehalten wird, bei dem es sich um eine Wagniskapital-Organisation, einen Investmentfonds, einen Unit Trust oder ähnliche Unternehmen, einschließlich fondsgebundener Versicherungen, handelt, kann sich das Unternehmen dafür entscheiden, diesen Teil der Beteiligung am assoziierten Unternehmen erfolgswirksam zum beizulegenden Zeitwert nach IFRS 9 zu bewerten, unabhängig davon, ob die Wagniskapital-Organisation, der Investmentfonds, der Unit Trust oder ähnliche Unternehmen, einschließlich fondsgebundener Versicherungen, maßgeblichen Einfluss auf diesen Teil der Beteiligung haben. Entscheidet sich das Unternehmen für diesen Ansatz, hat es die Equity-Methode auf den verbleibenden Teil seiner Beteiligung an einem assoziierten Unternehmen anzuwenden, der nicht von einer Wagniskapital-Organisation, einem Investmentfonds, einem Unit Trust oder ähnlichen Unternehmen, einschließlich fondsgebundener Versicherungen, gehalten wird.
+
+Einstufung als „zur Veräußerung gehalten“
+
+20 Ein Unternehmen hat IFRS 5 auf eine Beteiligung oder einen Teil einer Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen anzuwenden, die/der die Kriterien für die Einstufung als „zur Veräußerung gehalten“ erfüllt. Jeder zurückbehaltene Teil einer Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen, der nicht als zur „zur Veräußerung gehalten“ eingestuft wurde, ist nach der Equity-Methode zu bilanzieren, bis dass der Teil, der als „zur Veräußerung gehalten“ eingestuft wurde, veräußert wird. Nach der Veräußerung hat ein Unternehmen jeden zurückbehaltenen Anteil an einem assoziierten Unternehmen oder Gemeinschaftsunternehmen nach IFRS 9 zu bilanzieren, es sei denn, bei dem zurückbehaltenen Anteil handelt es sich weiterhin um ein assoziiertes Unternehmen oder ein Gemeinschaftsunternehmen; in diesem Fall wendet das Unternehmen die Equity-Methode an.
+
+21 Wenn eine Beteiligung oder ein Teil einer Beteiligung an einem assoziierten Unternehmen oder Gemeinschaftsunternehmen, die/der bisher unter die Einstufung „zur Veräußerung gehalten“ fiel, die hierfür erforderlichen Kriterien nicht mehr erfüllt, muss sie/er ab dem Zeitpunkt, ab dem sie/er als „zur Veräußerung gehalten“ eingestuft wurde, rückwirkend nach der Equity-Methode bilanziert werden. Die Abschlüsse für die Perioden seit der Einstufung als „zur Veräußerung gehalten“ sind entsprechend anzupassen.
+
+Beendigung der Anwendung der Equity-Methode
+
+22   Ein Unternehmen hat die Anwendung der Equity-Methode ab dem Zeitpunkt, an dem es sich bei seiner Beteiligung nicht mehr um eine Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen handelt, in folgender Weise zu beenden:
+a) 
+
+Wird die Beteiligung zu einer Beteiligung an einem Tochterunternehmen, bilanziert das Unternehmen seine Beteiligung nach IFRS 3 Unternehmenszusammenschlüsse und IFRS 10.
+b) 
+
+Handelt es sich beim zurückbehaltenen Anteil am ehemaligen assoziierten Unternehmen oder Gemeinschaftsunternehmen um einen finanziellen Vermögenswert, hat das Unternehmen den zurückbehaltenen Anteil zum beizulegenden Zeitwert zu bewerten. Der beizulegende Zeitwert des zurückbehaltenen Anteils entspricht seinem beizulegenden Zeitwert beim erstmaligen Ansatz als finanzieller Vermögenswert nach IFRS 9. Das Unternehmen hat eine etwaige Differenz zwischen den folgenden Werten erfolgswirksam zu erfassen:
+i) 
+
+dem beizulegenden Zeitwert eines etwaigen zurückbehaltenen Anteils und etwaige Erlöse aus der Veräußerung eines Teils des Anteils an dem assoziierten Unternehmen oder Gemeinschaftsunternehmen und
+ii) 
+
+dem Buchwert der Beteiligung zum Zeitpunkt der Beendigung der Anwendung der Equity-Methode.
+c) 
+
+Beendet ein Unternehmen die Anwendung der Equity-Methode, hat es alle in Bezug auf diese Beteiligung bisher im sonstigen Ergebnis erfassten Beträge auf derselben Grundlage zu bilanzieren wie für den Fall, dass das Beteiligungsunternehmen die dazugehörigen Vermögenswerte und Schulden direkt veräußert hätte.
+
+23 Falls daher ein zuvor vom Beteiligungsunternehmen im sonstigen Ergebnis erfasster Gewinn oder Verlust bei der Veräußerung der dazugehörigen Vermögenswerte oder Schulden erfolgswirksam umgegliedert würde, gliedert das Unternehmen den Gewinn oder Verlust erfolgswirksam um (als einen Umgliederungsbetrag), wenn es die Anwendung der Equity-Methode beendet. Hat z. B. ein assoziiertes Unternehmen oder ein Gemeinschaftsunternehmen kumulierte Umrechnungsdifferenzen aus der Tätigkeit eines ausländischen Geschäftsbetriebs und beendet das Unternehmen die Anwendung der Equity-Methode, hat das Unternehmen den zuvor im sonstigen Ergebnis erfassten Gewinn oder Verlust in Bezug auf den ausländischen Geschäftsbetrieb erfolgswirksam umzugliedern.
+
+24   Wird eine Beteiligung an einem assoziierten Unternehmen zu einer Beteiligung an einem Gemeinschaftsunternehmen oder eine Beteiligung an einem Gemeinschaftsunternehmen zu einer Beteiligung an einem assoziierten Unternehmen, wendet das Unternehmen die Equity-Methode weiterhin an und bewertet den zurückbehaltenen Anteil nicht neu.
+
+Änderungen der Beteiligungsquote
+
+25 Wenn sich die Beteiligungsquote eines Unternehmens an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen verringert hat, die Beteiligung aber weiterhin als Beteiligung an einem assoziierten Unternehmen bzw. Gemeinschaftsunternehmen eingestuft wird, hat das Unternehmen den Teil des zuvor im sonstigen Ergebnis erfassten Gewinns oder Verlusts, der auf die Verringerung der Beteiligungsquote entfällt, erfolgswirksam umzugliedern, wenn dieser Gewinn oder Verlust bei Veräußerung der dazugehörigen Vermögenswerte und Schulden erfolgswirksam umzugliedern wäre.
+
+Verfahren der Equity-Methode
+
+26 Viele der für die Anwendung der Equity-Methode sachgerechten Verfahren ähneln den in IFRS 10 beschriebenen Konsolidierungsverfahren. Außerdem werden die Ansätze, die den Konsolidierungsverfahren beim Erwerb eines Tochterunternehmens zugrunde liegen, auch bei der Bilanzierung des Erwerbs einer Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen übernommen.
+
+27 Der Anteil eines Konzerns an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen ist die Summe der vom Mutterunternehmen und seinen Tochterunternehmen daran gehaltenen Anteile. Die von den anderen assoziierten Unternehmen oder Gemeinschaftsunternehmen des Konzerns gehaltenen Anteile bleiben für diese Zwecke unberücksichtigt. Wenn ein assoziiertes Unternehmen oder ein Gemeinschaftsunternehmen Tochterunternehmen, assoziierte Unternehmen oder Gemeinschaftsunternehmen besitzt, sind bei der Anwendung der Equity-Methode der Gewinn oder Verlust, das sonstige Ergebnis und das Nettovermögen zu berücksichtigen, wie sie im Abschluss des assoziierten Unternehmens oder des Gemeinschaftsunternehmens (einschließlich dessen Anteils am Gewinn oder Verlust, sonstigen Ergebnis und Nettovermögen seiner assoziierten Unternehmen und Gemeinschaftsunternehmen) nach etwaigen Anpassungen zur Anwendung einheitlicher Rechnungslegungsmethoden (siehe Paragraphen 35 und 36A) ausgewiesen werden.
+
+28 Gewinne und Verluste aus „Upstream“- und „Downstream“-Transaktionen zwischen einem Unternehmen (einschließlich seiner konsolidierten Tochterunternehmen) und seinem assoziierten Unternehmen oder Gemeinschaftsunternehmen sind im Abschluss des Unternehmens nur entsprechend den Anteilen unabhängiger Investoren am assoziierten Unternehmen oder Gemeinschaftsunternehmen zu erfassen. „Upstream“-Transaktionen sind beispielsweise Verkäufe von Vermögenswerten eines assoziierten Unternehmens oder eines Gemeinschaftsunternehmens an den Investor. „Downstream“-Transaktionen sind beispielsweise Verkäufe oder Einlagen von Vermögenswerten eines Investors an bzw. in sein assoziiertes Unternehmen oder Gemeinschaftsunternehmen. Der Anteil des Investors am Gewinn oder Verlust des assoziierten Unternehmens oder Gemeinschaftsunternehmens aus solchen Transaktionen wird eliminiert.
+
+29 Lassen „Downstream“-Transaktionen darauf schließen, dass der Nettoveräußerungswert der zu veräußernden oder einzubringenden Vermögenswerte abgenommen hat oder eine Wertminderung dieser Vermögenswerte eingetreten ist, sind diese Verluste vom Investor in voller Höhe anzusetzen. Lassen „Upstream“-Transaktionen darauf schließen, dass der Nettoveräußerungswert der zu erwerbenden Vermögenswerte abgenommen hat oder eine Wertminderung dieser Vermögenswerte eingetreten ist, hat der Investor seinen Anteil an diesen Verlusten anzusetzen.
+
+30 Die Einlage eines nichtmonetären Vermögenswerts in ein assoziiertes Unternehmen oder ein Gemeinschaftsunternehmen im Austausch für einen Eigenkapitalanteil an dem assoziierten Unternehmen oder Gemeinschaftsunternehmen ist nach Paragraph 28 zu bilanzieren, es sei denn, der Einlage fehlt es an wirtschaftlicher Substanz im Sinne dieses in IAS 16 Sachanlagen erläuterten Begriffs. Fehlt es einer solchen Einlage an wirtschaftlicher Substanz, wird der Gewinn oder Verlust als nicht realisiert betrachtet und nicht ausgewiesen, es sei denn, Paragraph 31 findet ebenfalls Anwendung. Solche nicht realisierten Gewinne und Verluste sind gegen die nach der Equity-Methode bilanzierte Beteiligung zu verrechnen und dürfen in der Konzernbilanz des Unternehmens oder der Bilanz des Unternehmens, in der die Beteiligungen nach der Equity-Methode bilanziert werden, nicht als erfolgsneutral abgegrenzte Gewinne oder Verluste dargestellt werden.
+
+31 Erhält ein Unternehmen über einen Eigenkapitalanteil an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen hinaus monetäre oder nichtmonetäre Vermögenswerte, weist das Unternehmen den Teil des sich aus der nichtmonetären Einlage ergebenden Gewinns oder Verlusts, der sich auf die erhaltenen monetären oder nichtmonetären Vermögenswerte bezieht, in voller Höhe erfolgswirksam aus.
+
+32 Eine Beteiligung wird von dem Zeitpunkt an nach der Equity-Methode bilanziert, ab dem die Kriterien eines assoziierten Unternehmens oder eines Gemeinschaftsunternehmens erfüllt sind. Bei dem Beteiligungserwerb ist jede Differenz zwischen den Anschaffungskosten der Beteiligung und dem Anteil des Unternehmens am beizulegenden Nettozeitwert der identifizierbaren Vermögenswerte und Schulden des Beteiligungsunternehmens wie folgt zu bilanzieren:
+a) 
+
+Der mit einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen verbundene Geschäfts- oder Firmenwert ist im Buchwert der Beteiligung enthalten. Die planmäßige Abschreibung dieses Geschäfts- oder Firmenwerts ist untersagt.
+b) 
+
+Jeder Betrag, um den der Anteil des Unternehmens am beizulegenden Nettozeitwert der identifizierbaren Vermögenswerte und Schulden des Beteiligungsunternehmens die Anschaffungskosten der Beteiligung übersteigt, ist bei der Bestimmung des Anteils des Unternehmens am Gewinn oder Verlust des assoziierten Unternehmens oder des Gemeinschaftsunternehmens in der Periode, in der die Beteiligung erworben wurde, als Ertrag enthalten.
+
+Der Anteil des Unternehmens an den vom assoziierten Unternehmen oder vom Gemeinschaftsunternehmen nach Erwerb verzeichneten Gewinnen oder Verlusten wird sachgerecht angepasst, um beispielsweise die planmäßige Abschreibung zu berücksichtigen, die bei abschreibungsfähigen Vermögenswerten auf der Basis ihrer beizulegenden Zeitwerte zum Erwerbszeitpunkt berechnet wird. Gleiches gilt für vom assoziierten Unternehmen oder Gemeinschaftsunternehmen erfasste Wertminderungsaufwendungen, z. B. für den Geschäfts- oder Firmenwert oder für Sachanlagen.
+
+33   Das Unternehmen verwendet bei der Anwendung der Equity-Methode den letzten verfügbaren Abschluss des assoziierten Unternehmens oder des Gemeinschaftsunternehmens. Weicht der Abschlussstichtag des Unternehmens von dem des assoziierten Unternehmens oder des Gemeinschaftsunternehmens ab, muss das assoziierte Unternehmen oder das Gemeinschaftsunternehmen zur Verwendung durch das Unternehmen einen Zwischenabschluss auf den Stichtag des Unternehmens aufstellen, es sei denn, dies ist undurchführbar.
+
+34   Wird nach Paragraph 33 der bei der Anwendung der Equity-Methode herangezogene Abschluss eines assoziierten Unternehmens oder eines Gemeinschaftsunternehmens zu einem vom Unternehmen abweichenden Stichtag aufgestellt, so sind für die Auswirkungen bedeutender Geschäftsvorfälle oder anderer Ereignisse, die zwischen diesem Stichtag und dem Abschlussstichtag des Unternehmens eingetreten sind, Anpassungen vorzunehmen. In jedem Fall darf der Zeitraum zwischen dem Abschlussstichtag des assoziierten Unternehmens oder des Gemeinschaftsunternehmens und dem Abschlussstichtag des Unternehmens nicht mehr als drei Monate betragen. Die Länge der Berichtsperioden und die Abweichungen zwischen den Abschlussstichtagen müssen von Periode zu Periode gleich bleiben.
+
+35   Bei der Aufstellung des Abschlusses des Unternehmens sind für gleichartige Geschäftsvorfälle und Ereignisse unter ähnlichen Umständen einheitliche Rechnungslegungsmethoden anzuwenden.
+
+36 Wenn ein assoziiertes Unternehmen oder ein Gemeinschaftsunternehmen für gleichartige Geschäftsvorfälle und Ereignisse unter ähnlichen Umständen andere Rechnungslegungsmethoden anwendet als das Unternehmen, sind für den Fall, dass der Abschluss des assoziierten Unternehmens oder des Gemeinschaftsunternehmens vom Unternehmen für die Anwendung der Equity-Methode herangezogen wird, die Rechnungslegungsmethoden an diejenigen des Unternehmens anzupassen, es sei denn, Paragraph 36A findet Anwendung.
+
+36A Besitzt ein Unternehmen, das selbst keine Investmentgesellschaft ist, Anteile an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen, das eine Investmentgesellschaft ist, kann es ungeachtet der Bestimmung in Paragraph 36 bei der Anwendung der Equity-Methode die Bewertung zum beizulegenden Zeitwert, die diese Investmentgesellschaft (assoziiertes Unternehmen oder Gemeinschaftsunternehmen) bei ihren Anteilen an Tochtergesellschaften vornimmt, beibehalten. Diese Entscheidung ist für jede Investmentgesellschaft (assoziiertes Unternehmen oder Gemeinschaftsunternehmen) gesondert zu treffen a) zu dem Zeitpunkt des erstmaligen Ansatzes der Investmentgesellschaft (assoziiertes Unternehmen oder Gemeinschaftsunternehmen), b) zu dem Zeitpunkt, zu dem das assoziierte Unternehmen oder das Gemeinschaftsunternehmen eine Investmentgesellschaft wird, oder c) zu dem Zeitpunkt, zu dem die Investmentgesellschaft (assoziiertes Unternehmen oder Gemeinschaftsunternehmen) erstmals ein Mutterunternehmen wird – je nachdem, welcher dieser Zeitpunkte der späteste ist.
+
+37 Falls ein assoziiertes Unternehmen oder ein Gemeinschaftsunternehmen kumulative Vorzugsanteile ausgegeben hat, die von anderen Parteien als dem Unternehmen gehalten werden und als Eigenkapital ausgewiesen sind, berechnet das Unternehmen seinen Anteil an Gewinn oder Verlust nach Abzug der Dividende auf diese Vorzugsanteile, unabhängig davon, ob ein Dividendenbeschluss vorliegt.
+
+38 Wenn der Anteil eines Unternehmens an den Verlusten eines assoziierten Unternehmens oder eines Gemeinschaftsunternehmens dem Wert seines Anteils an dem assoziierten Unternehmen oder Gemeinschaftsunternehmen entspricht oder diesen übersteigt, erfasst das Unternehmen keine weiteren Verlustanteile. Der Wert des Anteils an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen ist der nach der Equity-Methode ermittelte Buchwert der Beteiligung an dem assoziierten Unternehmen oder dem Gemeinschaftsunternehmen zuzüglich sämtlicher langfristigen Anteile, die dem wirtschaftlichen Gehalt nach der Nettoinvestition des Unternehmens in das assoziierte Unternehmen oder das Gemeinschaftsunternehmen zuzuordnen sind. So stellt ein Posten, dessen Abwicklung auf absehbare Zeit weder geplant noch wahrscheinlich ist, seinem wirtschaftlichen Gehalt nach eine Erhöhung der Beteiligung an dem assoziierten Unternehmen oder dem Gemeinschaftsunternehmen dar. Solche Posten können Vorzugsanteile und langfristige Forderungen oder Darlehen einschließen, nicht aber Forderungen und Verbindlichkeiten aus Lieferungen und Leistungen oder langfristige Forderungen, für die angemessene Sicherheiten bestehen, wie etwa besicherte Kredite. Verluste, die nach der Equity-Methode erfasst werden und die Beteiligung des Unternehmens am Stammkapital übersteigen, werden den anderen Bestandteilen des Anteils des Unternehmens am assoziierten Unternehmen oder Gemeinschaftsunternehmen in umgekehrter Rangreihenfolge (d. h. ihrer Priorität bei der Liquidierung) zugeordnet.
+
+39 Nachdem der Wert des Anteils des Unternehmens auf null reduziert ist, werden zusätzliche Verluste nur in dem Umfang berücksichtigt und als Schuld angesetzt, wie das Unternehmen rechtliche oder faktische Verpflichtungen eingegangen ist oder Zahlungen für das assoziierte Unternehmen oder das Gemeinschaftsunternehmen geleistet hat. Weist das assoziierte Unternehmen oder das Gemeinschaftsunternehmen zu einem späteren Zeitpunkt Gewinne aus, berücksichtigt das Unternehmen seinen Anteil an den Gewinnen erst dann, wenn der Gewinnanteil die noch nicht erfassten anteiligen Verluste abdeckt.
+
+Wertminderungsaufwand
+
+40 Nach Anwendung der Equity-Methode, einschließlich der Berücksichtigung von Verlusten des assoziierten Unternehmens oder des Gemeinschaftsunternehmens gemäß Paragraph 38, hat das Unternehmen unter Anwendung der Paragraphen 41A–41C zu bestimmen, ob objektive Anhaltspunkte für eine Wertminderung der Nettoinvestition in das assoziierte Unternehmen oder Gemeinschaftsunternehmen vorliegen.
+
+41 [gestrichen]
+
+41A Die Nettoinvestition in ein assoziiertes Unternehmen oder Gemeinschaftsunternehmen ist nur dann wertgemindert und es fallen nur dann Wertminderungsaufwendungen an, wenn infolge eines oder mehrerer Ereignisse, die nach dem erstmaligen Ansatz der Nettoinvestition eingetreten sind („Verlustereignis“), ein objektiver Anhaltspunkt für eine Wertminderung vorliegt und dieses Verlustereignis (diese Verlustereignisse) eine verlässlich schätzbare Auswirkung auf die geschätzten künftigen Zahlungsströme aus der Nettoinvestition hat (haben). Möglicherweise lässt sich nicht ein einzelnes, singuläres Ereignis als Grund für die Wertminderung identifizieren. Vielmehr könnte ein Zusammentreffen mehrerer Ereignisse die Wertminderung verursacht haben. Erwartete Verluste aus künftigen Ereignissen dürfen ungeachtet der Wahrscheinlichkeit ihres Eintretens nicht erfasst werden. Als objektive Anhaltspunkte für eine Wertminderung der Nettoinvestition gelten auch beobachtbare Daten zu den folgenden Verlustereignissen, von denen das Unternehmen Kenntnis erlangt:
+a) 
+
+erhebliche finanzielle Schwierigkeiten des assoziierten Unternehmens oder Gemeinschaftsunternehmens,
+b) 
+
+ein Vertragsbruch wie beispielsweise ein Zahlungsausfall oder -verzug durch das assoziierte Unternehmen oder Gemeinschaftsunternehmen,
+c) 
+
+Zugeständnisse, die das Unternehmen gegenüber dem assoziierten Unternehmen oder Gemeinschaftsunternehmen aus wirtschaftlichen oder rechtlichen Gründen im Zusammenhang mit den finanziellen Schwierigkeiten des assoziierten Unternehmens oder Gemeinschaftsunternehmens macht, ansonsten aber nicht gewähren würde,
+d) 
+
+es wird wahrscheinlich, dass das assoziierte Unternehmen oder Gemeinschaftsunternehmen in Insolvenz oder ein sonstiges Sanierungsverfahren geht, oder
+e) 
+
+der durch finanzielle Schwierigkeiten des assoziierten Unternehmens oder Gemeinschaftsunternehmens bedingte Wegfall eines aktiven Markts für die Nettoinvestition.
+
+41B Der Wegfall eines aktiven Markts infolge der Einstellung des öffentlichen Handels mit Eigenkapital- oder Finanzinstrumenten des assoziierten Unternehmens oder Gemeinschaftsunternehmens ist kein Anhaltspunkt für eine Wertminderung. Eine Herabstufung des Bonitätsratings eines assoziierten Unternehmens oder Gemeinschaftsunternehmens oder ein Rückgang des beizulegenden Zeitwerts des assoziierten Unternehmens oder Gemeinschaftsunternehmens ist an sich noch kein Anhaltspunkt für eine Wertminderung, kann aber zusammen mit anderen verfügbaren Informationen ein Anhaltspunkt für eine Wertminderung sein.
+
+41C Zusätzlich zu den in Paragraph 41A genannten Arten von Ereignissen sind auch Informationen über signifikante Änderungen mit nachteiligen Folgen, die in dem technologischen, marktbezogenen, wirtschaftlichen oder rechtlichen Umfeld, in welchem das assoziierte Unternehmen oder Gemeinschaftsunternehmen tätig ist, eingetreten sind, ein objektiver Anhaltspunkt für eine Wertminderung der Nettoinvestition in die Eigenkapitalinstrumente des assoziierten Unternehmens oder Gemeinschaftsunternehmens, der anzeigt, dass die Anschaffungskosten der Investition in das Eigenkapitalinstrument möglicherweise nicht zurückerlangt werden können. Ein signifikanter oder länger anhaltender Rückgang des beizulegenden Zeitwerts einer Finanzinvestition in ein Eigenkapitalinstrument unter dessen Anschaffungskosten ist ebenfalls ein objektiver Anhaltspunkt für eine Wertminderung.
+
+42 Da der im Buchwert einer Nettoinvestition in ein assoziiertes Unternehmen oder Gemeinschaftsunternehmen enthaltene Geschäfts- oder Firmenwert nicht getrennt ausgewiesen wird, wird er nicht gemäß den Vorschriften für die Überprüfung auf Wertminderung beim Geschäfts- oder Firmenwert nach IAS 36 Wertminderung von Vermögenswerten separat auf Wertminderung geprüft. Stattdessen wird der gesamte Buchwert der Beteiligung nach IAS 36 als ein einziger Vermögenswert auf Wertminderung geprüft, indem sein erzielbarer Betrag (der höhere der beiden Beträge aus Nutzungswert und beizulegendem Zeitwert abzüglich Veräußerungskosten) mit dem Buchwert immer dann verglichen wird, wenn sich bei der Anwendung der Paragraphen 41A–41C Hinweise darauf ergeben, dass die Nettoinvestition wertgemindert sein könnte. Ein Wertminderungsaufwand, der unter diesen Umständen erfasst wird, wird keinem Vermögenswert zugeordnet und somit auch nicht dem Geschäfts- oder Firmenwert, der Teil des Buchwerts der Nettoinvestition in das assoziierte Unternehmen oder das Gemeinschaftsunternehmen ist. Folglich wird jede Wertaufholung nach IAS 36 in dem Umfang erfasst, in dem der erzielbare Betrag der Nettoinvestition anschließend steigt. Bei der Bestimmung des Nutzungswerts der Nettoinvestition schätzt ein Unternehmen
+a) 
+
+seinen Anteil am Barwert der geschätzten künftigen Zahlungsströme, die von dem assoziierten Unternehmen oder Gemeinschaftsunternehmen voraussichtlich erwirtschaftet werden, einschließlich der Zahlungsströme aus den Tätigkeiten des assoziierten Unternehmens oder Gemeinschaftsunternehmens und der Erlöse aus der endgültigen Veräußerung der Beteiligung, oder
+b) 
+
+den Barwert der geschätzten künftigen Zahlungsströme, die aus den Dividenden der Beteiligung und ihrer endgültigen Veräußerung resultieren.
+
+Bei sachgemäßen Annahmen führen beide Methoden zu demselben Ergebnis.
+
+43 Der für eine Beteiligung an einem assoziierten Unternehmen oder einem Gemeinschaftsunternehmen erzielbare Betrag wird für jedes assoziierte Unternehmen oder Gemeinschaftsunternehmen einzeln bestimmt, es sei denn, ein einzelnes assoziiertes Unternehmen oder Gemeinschaftsunternehmen erzeugt keine Mittelzuflüsse aus der fortgesetzten Nutzung, die von denen anderer Vermögenswerte des Unternehmens die Beteiligung haltenden Unternehmens größtenteils unabhängig sind.
+
+EINZELABSCHLUSS
+
+44 Eine Beteiligung an einem assoziierten Unternehmen oder Gemeinschaftsunternehmen ist im Einzelabschluss eines Unternehmens nach Paragraph 10 von IAS 27 (in der 2011 geänderten Fassung) zu bilanzieren.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+45 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen Standard früher an, hat es dies anzugeben und IFRS 10, IFRS 11 Gemeinschaftliche Vereinbarungen, IFRS 12 Angaben zu Anteilen an anderen Unternehmen und IAS 27 (in der 2011 geänderten Fassung) gleichzeitig anzuwenden.
+
+45A Durch IFRS 9 in der im Juli 2014 veröffentlichen Fassung wurden die Paragraphen 40–42 geändert und die Paragraphen 41A–41C eingefügt. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+45B Mit der im August 2014 veröffentlichten Verlautbarung Equity-Methode in Einzelabschlüssen (Equity Method in Separate Financial Statements) (Änderungen an IAS 27) wurde Paragraph 25 geändert. Diese Änderung ist nach IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+45D Mit der im Dezember 2014 veröffentlichten Verlautbarung Investmentgesellschaften: Anwendung der Ausnahme von der Konsolidierungspflicht (Änderungen an IFRS 10, IFRS 12 und IAS 28) wurden die Paragraphen 17, 27 und 36 geändert und Paragraph 36A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+45E Durch die Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2014–2016, veröffentlicht im Dezember 2016, wurden die Paragraphen 18 und 36A geändert. Diese Änderungen sind nach IAS 8 rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2018 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+45F Durch IFRS 17, veröffentlicht im Mai 2017, wurde Paragraph 18 geändert. Wendet ein Unternehmen IFRS 17 an, ist diese Änderung ebenfalls anzuwenden.
+
+45G Mit der im Oktober 2017 veröffentlichten Verlautbarung Langfristige Anteile an assoziierten Unternehmen und Gemeinschaftsunternehmen wurde Paragraph 14A eingefügt und Paragraph 41 gestrichen. Diese Änderungen sind mit Ausnahme der Darlegungen in den Paragraphen 45H–45K auf Geschäftsjahre, die am oder nach dem 1. Januar 2019 beginnen, nach IAS 8 rückwirkend anzuwenden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben.
+
+45H Ein Unternehmen, das die Änderungen in Paragraph 45G erstmals bei der erstmaligen Anwendung von IFRS 9 anwendet, hat auf die in Paragraph 14A beschriebenen langfristigen Anteile die Übergangsvorschriften von IFRS 9 anzuwenden.
+
+45I Ein Unternehmen, das die Änderungen in Paragraph 45G erstmals nach der erstmaligen Anwendung von IFRS 9 anwendet, wendet die in IFRS 9 festgelegten Übergangsvorschriften an, die für die Anwendung der Vorschriften von Paragraph 14A auf langfristige Anteile erforderlich sind. Dabei sind Verweise auf den Zeitpunkt der erstmaligen Anwendung in IFRS 9 als Bezugnahmen auf den Beginn des Geschäftsjahrs zu verstehen, in dem das Unternehmen die Änderungen erstmals anwendet (Zeitpunkt der erstmaligen Anwendung der Änderungen). Das Unternehmen ist nicht verpflichtet, frühere Berichtsperioden anzupassen, um der Anwendung der Änderungen Rechnung zu tragen. Das Unternehmen darf frühere Berichtsperioden nur anpassen, wenn dabei keine nachträglichen Erkenntnisse verwendet werden.
+
+45J Ein Unternehmen, das die Änderungen in Paragraph 45G erstmals anwendet und nach IFRS 4 Versicherungsverträge die vorübergehende Befreiung von der Anwendung von IFRS 9 in Anspruch nimmt, ist nicht verpflichtet, frühere Berichtsperioden anzupassen, um der Anwendung der Änderungen Rechnung zu tragen. Das Unternehmen darf frühere Berichtsperioden nur anpassen, wenn dabei keine nachträglichen Erkenntnisse verwendet werden.
+
+45K Passt ein Unternehmen frühere Berichtsperioden in Anwendung des Paragraphen 45I oder 45J nicht an, so erfasst es zum Zeitpunkt der ersten Anwendung der Änderungen in der Eröffnungsbilanz der Gewinnrücklagen (oder, falls angemessen, einer anderen Eigenkapitalkategorie) eine etwaige Differenz zwischen
+a) 
+
+dem bisherigen Buchwert der in Paragraph 14A beschriebenen langfristigen Anteile zu diesem Zeitpunkt und
+b) 
+
+dem Buchwert dieser langfristigen Anteile zu diesem Zeitpunkt.
+
+Verweise auf IFRS 9
+
+46 Wendet ein Unternehmen diesen Standard, aber noch nicht IFRS 9 an, so ist jeder Verweis auf IFRS 9 als Verweis auf IAS 39 verstehen.
+
+RÜCKNAHME VON IAS 28 (2003)
+
+47 Dieser Standard ersetzt IAS 28 Anteile an assoziierten Unternehmen (in der 2003 überarbeiteten Fassung).

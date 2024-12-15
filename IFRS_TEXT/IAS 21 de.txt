@@ -1,0 +1,333 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 21
+
+Auswirkungen von Wechselkursänderungen
+
+ZIELSETZUNG
+
+1 Für ein Unternehmen gibt es zwei Möglichkeiten, ausländische Geschäftsbeziehungen einzugehen. Entweder in Form von Geschäftsvorfällen in Fremdwährung oder in Form ausländischer Geschäftsbetriebe. Außerdem kann ein Unternehmen seinen Abschluss in einer Fremdwährung darstellen. Ziel dieses Standards ist es zu regeln, wie Fremdwährungstransaktionen und ausländische Geschäftsbetriebe in den Abschluss eines Unternehmens einzubeziehen sind und wie ein Abschluss in eine Darstellungswährung umzurechnen ist.
+
+2 Die grundsätzliche Fragestellung lautet, welcher Wechselkurs/welche Wechselkurse heranzuziehen sind und wie die Auswirkungen von Wechselkursänderungen im Abschluss zu berücksichtigen sind.
+
+ANWENDUNGSBEREICH
+
+3   Dieser Standard ist anzuwenden auf ( 13 )
+a) 
+
+die Bilanzierung von Geschäftsvorfällen und Salden in Fremdwährungen, mit Ausnahme von Geschäftsvorfällen und Salden, die sich auf Derivate beziehen, welche in den Anwendungsbereich von IFRS 9 Finanzinstrumente fallen,
+b) 
+
+die Umrechnung der Vermögens-, Finanz- und Ertragslage ausländischer Geschäftsbetriebe, die durch Vollkonsolidierung oder durch die Equity-Methode in den Abschluss des Unternehmens einbezogen sind, und
+c) 
+
+die Umrechnung der Vermögens-, Finanz- und Ertragslage eines Unternehmens in eine Darstellungswährung.
+
+4 IFRS 9 ist auf viele Fremdwährungsderivate anzuwenden, die folglich aus dem Anwendungsbereich des vorliegenden Standards ausgeschlossen sind. Alle Fremdwährungsderivate, die nicht in den Anwendungsbereich von IFRS 9 fallen (z. B. einige Fremdwährungsderivate, die in andere Verträge Kontrakte sind), fallen dagegen in den Anwendungsbereich des vorliegenden Standards. Der vorliegende Standard ist ferner anzuwenden, wenn ein Unternehmen Beträge im Zusammenhang mit Derivaten von seiner funktionalen Währung in seine Darstellungswährung umrechnet.
+
+5 Dieser Standard gilt nicht für die Bilanzierung von Sicherungsgeschäften für Fremdwährungsposten, einschließlich der Absicherung einer Nettoinvestition in einen ausländischen Geschäftsbetrieb. Für die Bilanzierung von Sicherungsgeschäften ist IFRS 9 maßgeblich.
+
+6 Der vorliegende Standard ist auf die Darstellung des Abschlusses eines Unternehmens in einer Fremdwährung anzuwenden und beschreibt, welche Anforderungen der daraus resultierende Abschluss erfüllen muss, um als mit den International Financial Reporting Standards (IFRS) übereinstimmend bezeichnet werden zu können. Bei Fremdwährungsumrechnungen von Finanzinformationen, die diese Anforderungen nicht erfüllen, legt dieser Standard die anzugebenden Informationen fest.
+
+7 Nicht anzuwenden ist dieser Standard auf die Darstellung der Zahlungsströme aus Fremdwährungstransaktionen in einer Kapitalflussrechnung oder die Umrechnung der Zahlungsströme eines ausländischen Geschäftsbetriebs (siehe dazu IAS 7 Kapitalflussrechnung).
+
+DEFINITIONEN
+
+8   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Der Stichtagskurs ist der Kassakurs einer Währung am Abschlussstichtag.
+Eine Umrechnungsdifferenz ist die Differenz, die sich ergibt, wenn die gleiche Anzahl von Währungseinheiten zu unterschiedlichen Wechselkursen in eine andere Währung umgerechnet wird.
+Der Wechselkurs ist das Umtauschverhältnis zwischen zwei Währungen.
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+Eine Fremdwährung ist jede Währung außer der funktionalen Währung des berichtenden Unternehmens.
+Ein ausländischer Geschäftsbetrieb ist ein Tochterunternehmen, ein assoziiertes Unternehmen, eine gemeinschaftliche Vereinbarung oder eine Niederlassung des berichtenden Unternehmens, dessen/deren Geschäftstätigkeit in einem anderen Land angesiedelt ist oder in einer anderen Währung ausgeübt wird oder sich auf ein anderes Land oder eine andere Währung als die des berichtenden Unternehmens erstreckt.
+Die funktionale Währung ist die Währung des primären Wirtschaftsumfelds, in dem das Unternehmen tätig ist.
+Ein Konzern ist ein Mutterunternehmen mit allen seinen Tochterunternehmen.
+Monetäre Posten sind gehaltene Währungseinheiten sowie Vermögenswerte und Schulden, für die das Unternehmen eine feste oder bestimmbare Anzahl von Währungseinheiten erhält oder zahlen muss.
+Eine Nettoinvestition in einen ausländischen Geschäftsbetrieb ist die Höhe des Anteils des berichtenden Unternehmens am Nettovermögen dieses Geschäftsbetriebs.
+Die Darstellungswährung ist die Währung, in der die Abschlüsse dargestellt werden.
+Der Kassakurs ist der Wechselkurs bei sofortiger Ausführung.
+
+Ausführungen zu den Definitionen
+
+Funktionale Währung
+
+9 Das primäre Wirtschaftsumfeld eines Unternehmens ist normalerweise das Umfeld, in dem es hauptsächlich Zahlungsmittel erwirtschaftet und aufwendet. Bei der Bestimmung seiner funktionalen Währung hat ein Unternehmen die folgenden Faktoren zu berücksichtigen:
+a) 
+
+die Währung,
+i) 
+
+die den größten Einfluss auf die Verkaufspreise seiner Güter und Dienstleistungen hat (dies ist häufig die Währung, in der die Verkaufspreise der Waren und Dienstleistungen angegeben und abgerechnet werden), und
+ii) 
+
+des Landes, dessen Wettbewerbskräfte und Bestimmungen für die Verkaufspreise seiner Waren und Dienstleistungen ausschlaggebend sind,
+b) 
+
+die Währung, die den größten Einfluss auf die Lohn-, Material- und sonstigen mit der Bereitstellung der Güter und Dienstleistungen zusammenhängenden Kosten hat (dies ist häufig die Währung, in der diese Kosten angegeben und abgerechnet werden.)
+
+10 Die folgenden Faktoren können ebenfalls Anhaltspunkte für die funktionale Währung eines Unternehmens geben:
+a) 
+
+die Währung, in der Mittel aus Finanzierungstätigkeiten (z. B. Ausgabe von Schuldverschreibungen oder Eigenkapitalinstrumenten) generiert werden,
+b) 
+
+die Währung, in der Einnahmen aus betrieblicher Tätigkeit normalerweise einbehalten werden.
+
+11 Bei der Bestimmung der funktionalen Währung eines ausländischen Geschäftsbetriebs und der Entscheidung, ob dessen funktionale Währung mit der des berichtenden Unternehmens identisch ist (in diesem Kontext entspricht das berichtende Unternehmen dem Unternehmen, das den ausländischen Geschäftsbetrieb als Tochterunternehmen, Niederlassung, assoziiertes Unternehmen oder gemeinschaftliche Vereinbarung unterhält), werden die folgenden Faktoren herangezogen:
+a) 
+
+ob die Tätigkeit des ausländischen Geschäftsbetriebs als erweiterter Bestandteil des berichtenden Unternehmens oder weitgehend unabhängig ausgeübt wird. Ersteres ist beispielsweise der Fall, wenn der ausländische Geschäftsbetrieb ausschließlich vom berichtenden Unternehmen eingeführte Güter verkauft und die erzielten Einnahmen wieder an dieses zurückleitet. Dagegen ist ein Geschäftsbetrieb als weitgehend unabhängig zu bezeichnen, wenn er überwiegend in seiner Landeswährung Zahlungsmittel und andere monetäre Posten ansammelt, Aufwendungen tätigt, Erträge erwirtschaftet und Fremdkapital aufnimmt.
+b) 
+
+ob die Geschäftsvorfälle mit dem berichtenden Unternehmen bezogen auf das Gesamtgeschäftsvolumen des ausländischen Geschäftsbetriebs ein großes oder geringes Gewicht haben.
+c) 
+
+ob sich die Zahlungsströme aus der Tätigkeit des ausländischen Geschäftsbetriebs direkt auf die Zahlungsströme des berichtenden Unternehmens auswirken und jederzeit dorthin zurückgeleitet werden können.
+d) 
+
+ob die Zahlungsströme aus der Tätigkeit des ausländischen Geschäftsbetriebs ausreichen, um vorhandene und im Rahmen des normalen Geschäftsgangs erwartete Schuldverpflichtungen zu bedienen, ohne dass hierfür Mittel vom berichtenden Unternehmen bereitgestellt werden.
+
+12 Wenn sich aus den obigen Indikatoren kein einheitliches Bild ergibt und die funktionale Währung nicht klar ersichtlich ist, bestimmt die Geschäftsleitung nach eigenem Ermessen die funktionale Währung, welche die wirtschaftlichen Auswirkungen der zugrunde liegenden Geschäftsvorfälle, Ereignisse und Umstände am glaubwürdigsten darstellt. Dabei berücksichtigt die Geschäftsleitung vorrangig die in Paragraph 9 genannten primären Faktoren und erst dann die Indikatoren in den Paragraphen 10 und 11, die als zusätzliche unterstützende Anhaltspunkte zur Bestimmung der funktionalen Währung eines Unternehmens dienen sollen.
+
+13 Die funktionale Währung eines Unternehmens spiegelt die zugrunde liegenden Geschäftsvorfälle, Ereignisse und Umstände wider, die für das Unternehmen relevant sind. Daraus folgt, dass eine funktionale Währung nach ihrer Ermittlung nur dann geändert wird, wenn sich diese zugrunde liegenden Geschäftsvorfälle, Ereignisse und Umstände geändert haben.
+
+14 Handelt es sich bei der funktionalen Währung um die Währung eines Hochinflationslandes, werden die Abschlüsse des Unternehmens gemäß IAS 29 Rechnungslegung in Hochinflationsländern angepasst. Ein Unternehmen kann eine Anpassung gemäß IAS 29 nicht dadurch umgehen, dass es beispielsweise eine andere funktionale Währung festlegt als die, die nach dem vorliegenden Standard ermittelt würde (z. B. die funktionale Währung des Mutterunternehmens).
+
+Nettoinvestition in einen ausländischen Geschäftsbetrieb
+
+15 Ein Unternehmen kann monetäre Posten in Form einer ausstehenden Forderung oder Verbindlichkeit gegenüber einem ausländischen Geschäftsbetrieb haben. Ein Posten, dessen Abwicklung auf absehbare Zeit weder geplant noch wahrscheinlich ist, stellt im Wesentlichen einen Teil der Nettoinvestition in diesen ausländischen Geschäftsbetrieb dar und wird gemäß den Paragraphen 32 und 33 behandelt. Zu solchen monetären Posten können langfristige Forderungen oder Darlehen, nicht jedoch Forderungen oder Verbindlichkeiten aus Lieferungen und Leistungen gezählt werden.
+
+15A Bei dem Unternehmen, das über einen monetären Posten in Form einer ausstehenden Forderung oder Verbindlichkeit gegenüber einem in Paragraph 15 beschriebenen ausländischen Geschäftsbetrieb verfügt, kann es sich um jede Tochtergesellschaft des Konzerns handeln. Zum Beispiel: Ein Unternehmen hat zwei Tochtergesellschaften A und B, wobei B ein ausländischer Geschäftsbetrieb ist. Tochtergesellschaft A gewährt Tochtergesellschaft B einen Kredit. Die Forderung von Tochtergesellschaft A gegenüber Tochtergesellschaft B würde einen Teil der Nettoinvestition des Unternehmens in Tochtergesellschaft B darstellen, wenn die Rückzahlung des Darlehens auf absehbare Zeit weder geplant noch wahrscheinlich ist. Dies würde auch dann gelten, wenn die Tochtergesellschaft A selbst ein ausländischer Geschäftsbetrieb wäre.
+
+Monetäre Posten
+
+16 Das wesentliche Merkmal eines monetären Postens ist das Recht auf Erhalt (oder Verpflichtung zur Zahlung) einer festen oder bestimmbaren Anzahl von Währungseinheiten. Dazu zählen beispielsweise bar auszuzahlende Renten und andere Leistungen an Arbeitnehmer; bar zu begleichende Verpflichtungen; Leasingverbindlichkeiten; und Bardividenden, die als Verbindlichkeit erfasst werden. Auch ein Vertrag über den Erhalt (oder die Lieferung) einer variablen Anzahl von eigenen Eigenkapitalinstrumenten des Unternehmens oder einer variablen Menge von Vermögenswerten, bei denen der zu erhaltende (oder zu zahlende) beizulegende Zeitwert einer festen oder bestimmbaren Anzahl von Währungseinheiten entspricht, ist als monetärer Posten anzusehen. Umgekehrt besteht das wesentliche Merkmal eines nicht monetären Postens darin, dass er mit keinerlei Recht auf Erhalt (bzw. keinerlei Verpflichtung zur Zahlung) einer festen oder bestimmbaren Anzahl von Währungseinheiten verbunden ist. Dazu zählen beispielsweise Vorauszahlungen für Güter und Dienstleistungen; Geschäfts- oder Firmenwert; immaterielle Vermögenswerte; Vorräte; Sachanlagen; Nutzungsrechte; sowie Verpflichtungen, die durch nicht monetäre Vermögenswerte erfüllt werden.
+
+ZUSAMMENFASSUNG DES IN DIESEM STANDARD VORGESCHRIEBENEN ANSATZES
+
+17 Bei der Erstellung des Abschlusses ermittelt jedes Unternehmen — unabhängig davon, ob es sich um ein konzernunverbundenes Unternehmen, ein Unternehmen mit ausländischem Geschäftsbetrieb (z. B. ein Mutterunternehmen) oder einen ausländischen Geschäftsbetrieb (z. B. ein Tochterunternehmen oder eine Niederlassung) handelt — gemäß den Paragraphen 9–14 seine funktionale Währung. Das Unternehmen rechnet die Fremdwährungsposten in die funktionale Währung um und weist die Auswirkungen einer solchen Umrechnung gemäß den Paragraphen 20–37 und 50 aus.
+
+18 Viele berichtende Unternehmen bestehen aus mehreren Einzelunternehmen (so umfasst ein Konzern ein Mutterunternehmen und ein oder mehrere Tochterunternehmen). Verschiedene Arten von Unternehmen, ob Mitglieder eines Konzerns oder sonstige Unternehmen, können Beteiligungen an assoziierten Unternehmen oder gemeinschaftlichen Vereinbarungen haben. Sie können auch Niederlassungen unterhalten. Es ist erforderlich, dass die Vermögens-, Finanz- und Ertragslage jedes einzelnen Unternehmens, das in das berichtende Unternehmen integriert ist, in die Währung umgerechnet wird, in der das berichtende Unternehmen seinen Abschluss darstellt. Dieser Standard gestattet es einem berichtenden Unternehmen, seine Darstellungswährung (oder -währungen) frei zu wählen. Die Vermögens-, Finanz- und Ertragslage jedes einzelnen Unternehmens innerhalb des berichtenden Unternehmens, dessen funktionale Währung von der Darstellungswährung abweicht, ist gemäß den Paragraphen 38–50 umzurechnen.
+
+19 Dieser Standard gestattet es auch einem konzernunverbundenen Unternehmen, das einen Abschluss erstellt, oder einem Unternehmen, das einen Einzelabschluss nach IAS 27 Einzelabschlüsse erstellt, den Abschluss in jeder beliebigen Währung (oder Währungen) darzustellen. Weicht die Darstellungswährung eines Unternehmens von seiner funktionalen Währung ab, ist seine Vermögens-, Finanz- und Ertragslage ebenfalls gemäß den Paragraphen 38–50 in die Darstellungswährung umzurechnen.
+
+BILANZIERUNG VON FREMDWÄHRUNGSTRANSAKTIONEN IN DER FUNKTIONALEN WÄHRUNG
+
+Erstmaliger Ansatz
+
+20 Eine Fremdwährungstransaktion ist ein Geschäftsvorfall, dessen Wert in einer Fremdwährung angegeben ist oder der die Erfüllung in einer Fremdwährung erfordert, einschließlich Geschäftsvorfällen, die auftreten, wenn ein Unternehmen
+a) 
+
+Güter oder Dienstleistungen kauft oder verkauft, deren Preise in einer Fremdwährung angegeben sind,
+b) 
+
+Mittel aufnimmt oder verleiht, wobei der Wert der Verbindlichkeiten oder Forderungen in einer Fremdwährung angegeben ist, oder
+c) 
+
+auf sonstige Weise Vermögenswerte erwirbt oder veräußert oder Schulden eingeht oder begleicht, deren Wert in einer Fremdwährung angegeben ist.
+
+21   Die Fremdwährungstransaktion ist erstmalig in der funktionalen Währung anzusetzen, indem der Fremdwährungsbetrag mit dem am jeweiligen Tag des Geschäftsvorfalls gültigen Kassakurs zwischen der funktionalen Währung und der Fremdwährung umgerechnet wird.
+
+22 Der Tag des Geschäftsvorfalls ist der Tag, an dem der Geschäftsvorfall erstmals gemäß den IFRS ansetzbar ist. Aus praktischen Erwägungen wird häufig ein Kurs verwendet, der einen Näherungswert für den aktuellen Kurs am Tag des Geschäftsvorfalls darstellt. So kann beispielsweise der Durchschnittskurs einer Woche oder eines Monats für alle Geschäftsvorfälle in der jeweiligen Fremdwährung verwendet werden. Bei stark schwankenden Wechselkursen ist jedoch die Verwendung von Durchschnittskursen für einen Zeitraum unangemessen.
+
+Bilanzierung in Folgeperioden
+
+23   Zu jedem Abschlussstichtag sind
+a) 
+
+monetäre Posten in einer Fremdwährung zum Stichtagskurs umzurechnen,
+b) 
+
+nicht monetäre Posten, die zu historischen Anschaffungs- oder Herstellungskosten in einer Fremdwährung bewertet wurden, zum Kurs am Tag des Geschäftsvorfalls umzurechnen und
+c) 
+
+nicht monetäre Posten, die zu ihrem beizulegenden Zeitwert in einer Fremdwährung bewertet wurden, zu dem Kurs umzurechnen, der am Tag der Ermittlung des beizulegenden Zeitwerts gültig war.
+
+24 Der Buchwert eines Postens wird in Verbindung mit anderen einschlägigen Standards ermittelt. Beispielsweise können Sachanlagen zum beizulegenden Zeitwert oder zu den historischen Anschaffungs- oder Herstellungskosten gemäß IAS 16 Sachanlagen bewertet werden. Unabhängig davon, ob der Buchwert zu den historischen Anschaffungs- oder Herstellungskosten oder zum beizulegenden Zeitwert bestimmt wird, hat bei einer Ermittlung dieses Werts in einer Fremdwährung eine Umrechnung in die funktionale Währung gemäß diesem Standard zu erfolgen.
+
+25 Der Buchwert einiger Posten wird durch den Vergleich von zwei oder mehr Beträgen ermittelt. Beispielsweise entspricht der Buchwert von Vorräten gemäß IAS 2 Vorräte den Anschaffungs- bzw. Herstellungskosten oder dem Nettoveräußerungswert, je nachdem, welcher dieser Beträge der niedrigere ist. Auf ähnliche Weise wird gemäß IAS 36 Wertminderung von Vermögenswerten ein Vermögenswert, bei dem ein Anhaltspunkt für eine Wertminderung vorliegt, zum Buchwert vor einer Erfassung des möglichen Wertminderungsaufwands oder zu seinem erzielbaren Betrag angesetzt, je nachdem, welcher von beiden der niedrigere ist. Handelt es sich dabei um einen nicht monetären Vermögenswert, der in einer Fremdwährung bewertet wird, ergibt sich der Buchwert aus einem Vergleich zwischen
+a) 
+
+den Anschaffungs- oder Herstellungskosten oder gegebenenfalls dem Buchwert, die bzw. der zum Wechselkurs am Tag der Ermittlung dieses Werts umgerechnet werden bzw. wird (d. h. zum Kurs am Tag des Geschäftsvorfalls bei einem Posten, der zu den historischen Anschaffungs- oder Herstellungskosten bewertet wird), und
+b) 
+
+dem Nettoveräußerungswert oder gegebenenfalls dem erzielbaren Betrag, der zum Wechselkurs am Tag der Ermittlung dieses Werts umgerechnet wird (d. h. zum Stichtagskurs am Abschlussstichtag).
+
+Dieser Vergleich kann dazu führen, dass ein Wertminderungsaufwand in der funktionalen Währung, nicht aber in der Fremdwährung erfasst wird oder umgekehrt.
+
+26 Sind mehrere Wechselkurse verfügbar, wird der Kurs verwendet, zu dem die zukünftigen Zahlungsströme, die durch den Geschäftsvorfall oder Saldo dargestellt werden, hätten abgerechnet werden können, wenn sie am Bewertungsstichtag stattgefunden hätten. Sollte der Umtausch zwischen zwei Währungen vorübergehend ausgesetzt sein, ist der erste darauf folgende Kurs zu verwenden, zu dem ein Umtausch wieder möglich war.
+
+Erfassung von Umrechnungsdifferenzen
+
+27 Wie in den Paragraphen 3(a) und 5 angemerkt, werden Sicherungsgeschäfte für Fremdwährungsposten gemäß IFRS 9 bilanziert. Bei der Bilanzierung von Sicherungsgeschäften ist ein Unternehmen verpflichtet, bestimmte Umrechnungsdifferenzen anders zu behandeln, als es den Bestimmungen dieses Standards entspricht. IFRS 9 verlangt beispielsweise, dass Umrechnungsdifferenzen bei monetären Posten, die als Sicherungsinstrumente zum Zweck der Absicherung von Zahlungsströmen eingesetzt werden, in dem Umfang der Wirksamkeit des Sicherungsgeschäfts zunächst im sonstigen Ergebnis zu erfassen sind.
+
+28   Umrechnungsdifferenzen, die sich aus dem Umstand ergeben, dass monetäre Posten zu einem anderen Kurs abgewickelt oder umgerechnet werden als dem, zu dem sie bei der erstmaligen Erfassung während der Berichtsperiode oder in früheren Abschlüssen umgerechnet wurden, sind mit Ausnahme der in Paragraph 32 beschriebenen Fälle in der Berichtsperiode, in der diese Differenzen entstehen, erfolgswirksam zu erfassen.
+
+29 Eine Umrechnungsdifferenz ergibt sich, wenn bei monetären Posten aus einer Fremdwährungstransaktion am Tag des Geschäftsvorfalls und am Tag der Abwicklung unterschiedliche Wechselkurse bestehen. Erfolgt die Abwicklung des Geschäftsvorfalls innerhalb derselben Bilanzierungsperiode wie die erstmalige Erfassung, wird die Umrechnungsdifferenz in dieser Periode berücksichtigt. Wird der Geschäftsvorfall jedoch in einer späteren Bilanzierungsperiode abgewickelt, so wird die Umrechnungsdifferenz, die in jeder dazwischen liegenden Periode bis zur Periode, in welcher der Ausgleich erfolgt, erfasst wird, durch die Änderungen der Wechselkurse während der Periode bestimmt.
+
+30   Wird ein Gewinn oder Verlust aus einem nicht monetären Posten im sonstigen Ergebnis erfasst, ist jeder Umrechnungsbestandteil dieses Gewinns oder Verlusts ebenfalls im sonstigen Ergebnis zu erfassen. Umgekehrt gilt: Wird ein Gewinn oder Verlust aus einem nicht monetären Posten erfolgswirksam erfasst, ist jeder Umrechnungsbestandteil dieses Gewinns oder Verlusts ebenfalls erfolgswirksam zu erfassen.
+
+31 Andere IFRS schreiben die Erfassung von Gewinnen und Verlusten im sonstigen Ergebnis vor. Beispielsweise besteht nach IAS 16 die Verpflichtung, bestimmte Gewinne und Verluste aus der Neubewertung von Sachanlagen im sonstigen Ergebnis zu erfassen. Wird ein solcher Vermögenswert in einer Fremdwährung bewertet, ist der neubewertete Betrag gemäß Paragraph 23(c) zum Kurs am Tag der Wertermittlung umzurechnen, was zu einer Umrechnungsdifferenz führt, die ebenfalls im sonstigen Ergebnis zu erfassen ist.
+
+32   Umrechnungsdifferenzen aus einem monetären Posten, der Teil einer Nettoinvestition des berichtenden Unternehmens in einen ausländischen Geschäftsbetrieb ist (siehe Paragraph 15), sind im Einzelabschluss des berichtenden Unternehmens oder gegebenenfalls im Einzelabschluss des ausländischen Geschäftsbetriebs erfolgswirksam zu erfassen. In dem Abschluss, der den ausländischen Geschäftsbetrieb und das berichtende Unternehmen enthält (z. B. dem Konzernabschluss, wenn der ausländische Geschäftsbetrieb ein Tochterunternehmen ist), werden solche Umrechnungsdifferenzen zunächst im sonstigen Ergebnis erfasst und bei einer Veräußerung der Nettoinvestition gemäß Paragraph 48 aus dem Eigenkapital erfolgswirksam umgegliedert.
+
+33 Wenn ein monetärer Posten Teil einer Nettoinvestition des berichtenden Unternehmens in einen ausländischen Geschäftsbetrieb ist und in der funktionalen Währung des berichtenden Unternehmens angegeben wird, ergeben sich in den Einzelabschlüssen des ausländischen Geschäftsbetriebs Umrechnungsdifferenzen gemäß Paragraph 28. Wird ein solcher Posten in der funktionalen Währung des ausländischen Geschäftsbetriebs angegeben, entsteht im Einzelabschluss des berichtenden Unternehmens eine Umrechnungsdifferenz gemäß Paragraph 28. Wird ein solcher Posten in einer anderen Währung als der funktionalen Währung des berichtenden Unternehmens oder des ausländischen Geschäftsbetriebs angegeben, entstehen im Einzelabschluss des berichtenden Unternehmens und in den Einzelabschlüssen des ausländischen Geschäftsbetriebs Umrechnungsdifferenzen gemäß Paragraph 28. Derartige Umrechnungsdifferenzen werden in den Abschlüssen, die den ausländischen Geschäftsbetrieb und das berichtende Unternehmen umfassen (d. h. Abschlüssen, in denen der ausländische Geschäftsbetrieb konsolidiert oder nach der Equity-Methode bilanziert wird), im sonstigen Ergebnis erfasst.
+
+34 Führt ein Unternehmen seine Bücher und Aufzeichnungen in einer anderen Währung als seiner funktionalen Währung, sind bei der Erstellung seines Abschlusses alle Beträge gemäß den Paragraphen 20–26 in die funktionale Währung umzurechnen. Daraus ergeben sich die gleichen Beträge in der funktionalen Währung, wie wenn die Posten ursprünglich in der funktionalen Währung erfasst worden wären. Beispielsweise werden monetäre Posten zum Stichtagskurs und nicht monetäre Posten, die zu den historischen Anschaffungs- oder Herstellungskosten bewertet werden, zum Wechselkurs am Tag des Geschäftsvorfalls, der zu ihrer Erfassung geführt hat, in die funktionale Währung umgerechnet.
+
+Wechsel der funktionalen Währung
+
+35   Bei einem Wechsel der funktionalen Währung hat das Unternehmen die für die neue funktionale Währung geltenden Umrechnungsverfahren prospektiv ab dem Zeitpunkt des Wechsels anzuwenden.
+
+36 Wie in Paragraph 13 erwähnt, spiegelt die funktionale Währung eines Unternehmens die zugrunde liegenden Geschäftsvorfälle, Ereignisse und Umstände wider, die für das Unternehmen relevant sind. Daraus folgt, dass eine funktionale Währung nach ihrer Ermittlung nur dann geändert werden kann, wenn sich diese zugrunde liegenden Geschäftsvorfälle, Ereignisse und Umstände geändert haben. Ein Wechsel der funktionalen Währung kann beispielsweise dann angebracht sein, wenn sich die Währung, die den größten Einfluss auf die Verkaufspreise der Güter und Dienstleistungen eines Unternehmens hat, ändert.
+
+37 Die Auswirkungen eines Wechsels der funktionalen Währung werden prospektiv bilanziert. Das bedeutet, dass ein Unternehmen alle Posten zum Kurs am Tag des Wechsels in die neue funktionale Währung umrechnet. Die daraus resultierenden umgerechneten Beträge der nicht monetären Vermögenswerte werden als historische Anschaffungs- oder Herstellungskosten dieser Posten behandelt. Umrechnungsdifferenzen aus der Umrechnung eines ausländischen Geschäftsbetriebs, die bisher gemäß den Paragraphen 32 und 39(c) im sonstigen Ergebnis erfasst wurden, werden erst bei dessen Veräußerung aus dem Eigenkapital erfolgswirksam umgegliedert.
+
+VERWENDUNG EINER ANDEREN DARSTELLUNGSWÄHRUNG ALS DER FUNKTIONALEN WÄHRUNG
+
+Umrechnung in die Darstellungswährung
+
+38 Ein Unternehmen kann seinen Abschluss in jeder beliebigen Währung (oder Währungen) darstellen. Weicht die Darstellungswährung von der funktionalen Währung des Unternehmens ab, ist seine Vermögens-, Finanz- und Ertragslage in die Darstellungswährung umzurechnen. Beispielsweise gibt ein Konzern, der aus mehreren Einzelunternehmen mit verschiedenen funktionalen Währungen besteht, die Vermögens-, Finanz- und Ertragslage der einzelnen Unternehmen in einer gemeinsamen Währung an, sodass ein Konzernabschluss aufgestellt werden kann.
+
+39   Die Vermögens-, Finanz- und Ertragslage eines Unternehmens, dessen funktionale Währung keine Währung eines Hochinflationslandes ist, wird nach folgenden Verfahren in eine andere Darstellungswährung umgerechnet:
+a) 
+
+Vermögenswerte und Schulden sind für jede vorgelegte Bilanz (d. h. einschließlich Vergleichsinformationen) zum jeweiligen Abschlussstichtagskurs umzurechnen,
+b) 
+
+Erträge und Aufwendungen sind für jede Darstellung von Gewinn oder Verlust und sonstigem Ergebnis (d. h. einschließlich Vergleichsinformationen) zum Wechselkurs am Tag des Geschäftsvorfalls umzurechnen, und
+c) 
+
+alle sich ergebenden Umrechnungsdifferenzen sind im sonstigen Ergebnis zu erfassen.
+
+40 Aus praktischen Erwägungen wird zur Umrechnung von Ertrags- und Aufwandsposten häufig ein Kurs verwendet, der einen Näherungswert für den Umrechnungskurs am Tag des Geschäftsvorfalls darstellt, beispielsweise der Durchschnittskurs einer Periode. Bei stark schwankenden Wechselkursen ist jedoch die Verwendung von Durchschnittskursen für einen Zeitraum unangemessen.
+
+41 Die in Paragraph 39(c) genannten Umrechnungsdifferenzen ergeben sich aus
+a) 
+
+der Umrechnung von Erträgen und Aufwendungen zu den Wechselkursen an den Tagen der Geschäftsvorfälle und der Vermögenswerte und Schulden zum Stichtagskurs und
+b) 
+
+der Umrechnung des Eröffnungsbilanzwerts des Nettovermögens zu einem Stichtagskurs, der vom vorherigen Stichtagskurs abweicht.
+
+Diese Umrechnungsdifferenzen werden nicht erfolgswirksam erfasst, weil die Veränderungen bei den Wechselkursen nur einen geringen oder überhaupt keinen direkten Einfluss auf den gegenwärtigen und künftigen operativen Cashflow haben. Der kumulierte Betrag der Umrechnungsdifferenzen wird bis zum Abgang des ausländischen Geschäftsbetriebs in einem separaten Bestandteil des Eigenkapitals ausgewiesen. Beziehen sich die Umrechnungsdifferenzen auf einen ausländischen Geschäftsbetrieb, der konsolidiert wird, jedoch nicht vollständig im Eigentum des Mutterunternehmens steht, so sind die kumulierten Umrechnungsdifferenzen, die aus nicht beherrschenden Anteilen stammen und diesen zuzurechnen sind, diesen nicht beherrschenden Anteilen zuzuweisen und als Teil derer in der Konzernbilanz anzusetzen.
+
+42   Die Vermögens-, Finanz- und Ertragslage eines Unternehmens, dessen funktionale Währung die Währung eines Hochinflationslandes ist, wird nach folgenden Verfahren in eine andere Darstellungswährung umgerechnet:
+a) 
+
+Alle Beträge (d. h. Vermögenswerte, Schulden, Eigenkapitalposten, Erträge und Aufwendungen, einschließlich Vergleichsinformationen) sind zum Stichtagskurs der letzten Bilanz umzurechnen, mit folgender Ausnahme:
+b) 
+
+Bei der Umrechnung von Beträgen in die Währung eines Nicht-Hochinflationslandes sind als Vergleichswerte die Beträge heranzuziehen, die im betreffenden Vorjahresabschluss als Beträge des aktuellen Jahres ausgewiesen wurden (d. h. es erfolgt keine Anpassung zur Berücksichtigung späterer Preis- oder Wechselkursänderungen).
+
+43   Handelt es sich bei der funktionalen Währung eines Unternehmens um die Währung eines Hochinflationslandes, hat das Unternehmen seinen Abschluss gemäß IAS 29 anzupassen, bevor es die in Paragraph 42 beschriebene Umrechnungsmethode anwendet; davon ausgenommen sind Vergleichsbeträge, die in die Währung eines Nicht-Hochinflationslandes umgerechnet werden (siehe Paragraph 42(b)). Wenn ein bisheriges Hochinflationsland nicht mehr als solches eingestuft wird und das Unternehmen seinen Abschluss nicht mehr gemäß IAS 29 anpasst, sind als historische Anschaffungs- oder Herstellungskosten für die Umrechnung in die Darstellungswährung die an das Preisniveau angepassten Beträge maßgeblich, die zu dem Zeitpunkt galten, an dem das Unternehmen mit der Anpassung seines Abschlusses aufgehört hat.
+
+Umrechnung eines ausländischen Geschäftsbetriebs
+
+44 Die Paragraphen 45–47 sind zusätzlich zu den Paragraphen 38–43 anzuwenden, wenn die Vermögens-, Finanz- und Ertragslage eines ausländischen Geschäftsbetriebs in eine Darstellungswährung umgerechnet wird, damit der ausländische Geschäftsbetrieb durch Vollkonsolidierung oder durch die Equity-Methode in den Abschluss des berichtenden Unternehmens einbezogen werden kann.
+
+45 Die Einbeziehung der Vermögens-, Finanz- und Ertragslage eines ausländischen Geschäftsbetriebs in den Abschluss des berichtenden Unternehmens folgt den üblichen Konsolidierungsverfahren. Dazu zählen etwa die Eliminierung konzerninterner Salden und konzerninterne Transaktionen eines Tochterunternehmens (siehe IFRS 10 Konzernabschlüsse). Ein konzerninterner monetärer Vermögenswert (oder eine konzerninterne monetäre Verbindlichkeit), ob kurzfristig oder langfristig, darf jedoch nur dann mit einem entsprechenden konzerninternen Vermögenswert (oder einer konzerninternen Verbindlichkeit) verrechnet werden, wenn das Ergebnis von Währungsschwankungen im Konzernabschluss ausgewiesen wird. Dies ist deshalb der Fall, weil der monetäre Posten eine Verpflichtung darstellt, eine Währung in eine andere umzuwandeln, und das berichtende Unternehmen einen Gewinn oder Verlust aus Währungsschwankungen zu verzeichnen hat. Demgemäß wird eine derartige Umrechnungsdifferenz im Konzernabschluss des berichtenden Unternehmens weiter erfolgswirksam erfasst, es sei denn, sie stammt aus Umständen, die in Paragraph 32 beschrieben wurden; in diesen Fällen wird sie bis zur Veräußerung des ausländischen Geschäftsbetriebs im sonstigen Ergebnis erfasst und in einem separaten Bestandteil des Eigenkapitals kumuliert.
+
+46 Wird der Abschluss eines ausländischen Geschäftsbetriebs zu einem anderen Stichtag als dem des berichtenden Unternehmens aufgestellt, so erstellt dieser ausländische Geschäftsbetrieb häufig einen zusätzlichen Abschluss auf den Stichtag des berichtenden Unternehmens. Ist dies nicht der Fall, so kann gemäß IFRS 10 ein abweichender Stichtag verwendet werden, sofern die Differenz nicht größer als drei Monate ist und Anpassungen für die Auswirkungen aller bedeutenden Geschäftsvorfälle oder Ereignisse vorgenommen werden, die zwischen den abweichenden Stichtagen eingetreten sind. In einem solchen Fall werden die Vermögenswerte und Schulden des ausländischen Geschäftsbetriebs zum Wechselkurs am Abschlussstichtag des ausländischen Geschäftsbetriebs umgerechnet. Treten bis zum Abschlussstichtag des berichtenden Unternehmens erhebliche Wechselkursänderungen ein, so werden diese gemäß IFRS 10 angepasst. Derselbe Ansatz gilt für die Anwendung der Equity-Methode auf assoziierte Unternehmen und Gemeinschaftsunternehmen gemäß IAS 28 (in der 2011 geänderten Fassung).
+
+47   Jeglicher im Zusammenhang mit dem Erwerb eines ausländischen Geschäftsbetriebs entstehende Geschäfts- oder Firmenwert und sämtliche am beizulegenden Zeitwert ausgerichteten Anpassungen des Buchwerts der Vermögenswerte und Schulden, die aus dem Erwerb dieses ausländischen Geschäftsbetriebs resultieren, sind als Vermögenswerte und Schulden des ausländischen Geschäftsbetriebs zu behandeln. Sie werden daher in der funktionalen Währung des ausländischen Geschäftsbetriebs angegeben und sind gemäß den Paragraphen 39 und 42 zum Stichtagskurs umzurechnen.
+
+Abgang oder Teilabgang eines ausländischen Geschäftsbetriebs
+
+48   Beim Abgang eines ausländischen Geschäftsbetriebs sind die entsprechenden kumulierten Umrechnungsdifferenzen, die bis zu diesem Zeitpunkt im sonstigen Ergebnis erfasst und in einem separaten Bestandteil des Eigenkapitals kumuliert wurden, in derselben Periode, in der auch der Gewinn oder Verlust aus dem Abgang erfasst wird, erfolgswirksam umzugliedern (als Umgliederungsbetrag) (siehe IAS 1 Darstellung des Abschlusses (überarbeitet 2007)).
+
+48A Zusätzlich zum Abgang des gesamten Anteils eines Unternehmens an einem ausländischen Geschäftsbetrieb werden folgende Teilabgänge als Abgänge bilanziert,
+a) 
+
+wenn der Teilabgang mit einem Verlust der Beherrschung eines Tochterunternehmens, zu dem ein ausländischer Geschäftsbetrieb gehört, einhergeht, unabhängig davon, ob das Unternehmen nach dem Teilabgang einen nicht beherrschenden Anteil am ehemaligen Tochterunternehmen zurückbehält, und
+b) 
+
+wenn es sich bei dem zurückbehaltenen Anteil nach dem Teilabgang eines Anteils an einer gemeinschaftlichen Vereinbarung oder nach dem Teilabgang eines Anteils an einem assoziierten Unternehmen, zu dem ein ausländischer Geschäftsbetrieb gehört, um einen finanziellen Vermögenswert handelt, zu dem ein ausländischer Geschäftsbetrieb gehört.
+
+48B Beim Abgang eines Tochterunternehmens, zu dem ein ausländischer Geschäftsbetrieb gehört, sind die kumulierten zu diesem ausländischen Geschäftsbetrieb gehörenden Umrechnungsdifferenzen, die den nicht beherrschenden Anteilen zugeordnet waren, auszubuchen, aber nicht erfolgswirksam umzugliedern.
+
+48C   Bei einem Teilabgang eines Tochterunternehmens, zu dem ein ausländischer Geschäftsbetrieb gehört, ist der entsprechende Anteil an den kumulierten Umrechnungsdifferenzen, die im sonstigen Ergebnis erfasst sind, den nicht beherrschenden Anteilen an diesem ausländischen Geschäftsbetrieb wieder zuzuordnen. Bei allen anderen Teilabgängen eines ausländischen Geschäftsbetriebs hat das Unternehmen nur den entsprechenden Anteil der kumulierten Umrechnungsdifferenzen, der im sonstigen Ergebnis erfasst war, erfolgswirksam umzugliedern.
+
+48D Ein Teilabgang eines Anteils eines Unternehmens an einem ausländischen Geschäftsbetrieb ist jegliche Verringerung der Beteiligungsquote eines Unternehmens an einem ausländischen Geschäftsbetrieb; davon ausgenommen sind jene in Paragraph 48A dargestellten Verringerungen, die als Abgänge bilanziert werden.
+
+49 Ein Unternehmen kann seinen Anteil an einem ausländischen Geschäftsbetrieb durch Verkauf, Liquidation, Kapitalrückzahlung oder Aufgabe der Gesamtheit oder eines Teils des Geschäftsbetriebs ganz oder teilweise abgeben. Eine außerplanmäßige Abschreibung des Buchwerts eines ausländischen Geschäftsbetriebs aufgrund eigener Verluste oder aufgrund einer vom Investor erfassten Wertminderung ist nicht als Teilabgang zu betrachten. Folglich wird auch kein Teil der Umrechnungsgewinne oder -verluste, die im sonstigen Ergebnis erfasst sind, zum Zeitpunkt der außerplanmäßigen Abschreibung erfolgswirksam umgegliedert.
+
+STEUERLICHE AUSWIRKUNGEN SÄMTLICHER UMRECHNUNGSDIFFERENZEN
+
+50 Gewinne und Verluste aus Fremdwährungstransaktionen sowie Umrechnungsdifferenzen aus der Umrechnung der Vermögens-, Finanz- und Ertragslage eines Unternehmens (einschließlich eines ausländischen Geschäftsbetriebs) können steuerliche Auswirkungen haben, die gemäß IAS 12 Ertragsteuern bilanziert werden.
+
+ANGABEN
+
+51   Die Bestimmungen zur funktionalen Währung in den Paragraphen 53 und 55–57 beziehen sich im Falle eines Konzerns auf die funktionale Währung des Mutterunternehmens.
+
+52   Ein Unternehmen hat Folgendes anzugeben:
+a) 
+
+den Betrag der Umrechnungsdifferenzen, der erfolgswirksam erfasst wurde; davon ausgenommen sind Umrechnungsdifferenzen aus Finanzinstrumenten, die gemäß IFRS 9 erfolgswirksam zum beizulegenden Zeitwert bewertet werden, und
+b) 
+
+den Saldo der Umrechnungsdifferenzen, der im sonstigen Ergebnis erfasst und in einem separaten Bestandteil des Eigenkapitals kumuliert wurde, und eine Überleitungsrechnung des Betrags solcher Umrechnungsdifferenzen zum Beginn und am Ende der Berichtsperiode.
+
+53   Wenn die Darstellungswährung nicht der funktionalen Währung entspricht, ist dieser Umstand zusammen mit der Nennung der funktionalen Währung und einer Begründung für die Verwendung einer abweichenden Währung anzugeben.
+
+54   Bei einem Wechsel der funktionalen Währung des berichtenden Unternehmens oder eines wesentlichen ausländischen Geschäftsbetriebs sind dieser Umstand und die Gründe anzugeben, die zur Umstellung der funktionalen Währung geführt haben.
+
+55   Stellt ein Unternehmen seinen Abschluss in einer anderen Währung als seiner funktionalen Währung dar, darf es den Abschluss nur dann als mit den IFRS übereinstimmend bezeichnen, wenn dieser sämtliche Vorschriften aller anzuwendenden IFRS, einschließlich der in den Paragraphen 39 und 42 dargelegten Umrechnungsmethode erfüllt.
+
+56 Ein Unternehmen stellt seinen Abschluss oder andere Finanzinformationen mitunter in einer anderen Währung als seiner funktionalen Währung dar, ohne die Anforderungen von Paragraph 55 zu erfüllen. Beispielsweise kommt es vor, dass ein Unternehmen nur ausgewählte Posten seines Abschlusses in eine andere Währung umrechnet. Oder ein Unternehmen, dessen funktionale Währung nicht die Währung eines Hochinflationslandes ist, rechnet seinen Abschluss in eine andere Währung um, indem es für alle Posten den letzten Stichtagskurs verwendet. Derartige Umrechnungen entsprechen nicht den IFRS, und es sind die in Paragraph 57 genannten Angaben erforderlich.
+
+57   Stellt ein Unternehmen seinen Abschluss oder andere Finanzinformationen in einer anderen Währung als seiner funktionalen oder seiner Darstellungswährung dar und werden die Anforderungen von Paragraph 55 nicht erfüllt, so hat das Unternehmen
+a) 
+
+die Informationen deutlich als zusätzliche Informationen zu kennzeichnen, um sie von den mit den IFRS übereinstimmenden Informationen zu unterscheiden,
+b) 
+
+die Währung anzugeben, in der die zusätzlichen Informationen dargestellt werden, und
+c) 
+
+die funktionale Währung des Unternehmens und die verwendete Umrechnungsmethode zur Ermittlung der zusätzlichen Informationen anzugeben.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+58 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen Standard auf Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+58A Durch die im Dezember 2005 veröffentlichte Änderung an IAS 21 Nettoinvestition in einen ausländischen Geschäftsbetrieb wurde Paragraph 15A eingefügt und Paragraph 33 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2006 beginnen. Eine frühere Anwendung wird empfohlen.
+
+59 Ein Unternehmen hat Paragraph 47 prospektiv auf alle Erwerbe anzuwenden, die nach Beginn der Berichtsperiode, in der dieser Standard erstmalig angewendet wird, stattfinden. Eine rückwirkende Anwendung des Paragraphen 47 auf frühere Erwerbe ist zulässig. Beim Erwerb eines ausländischen Geschäftsbetriebs, der prospektiv behandelt wird, jedoch vor dem Zeitpunkt der erstmaligen Anwendung dieses Standards stattgefunden hat, darf das Unternehmen keine Anpassung der Vorjahre vornehmen und kann daher, sofern angemessen, den Geschäfts- oder Firmenwert und die Anpassungen an den beizulegenden Zeitwert im Zusammenhang mit diesem Erwerb als Vermögenswerte und Schulden des Unternehmens und nicht als Vermögenswerte und Schulden des ausländischen Geschäftsbetriebs behandeln. Der Geschäfts- oder Firmenwert und die Anpassungen an den beizulegenden Zeitwert sind daher bereits in der funktionalen Währung des berichtenden Unternehmens angegeben, oder es handelt sich um nicht monetäre Fremdwährungsposten, die zu dem zum Zeitpunkt des Erwerbs geltenden Wechselkurs umgerechnet werden.
+
+60 Alle anderen Änderungen, die sich aus der Anwendung dieses Standards ergeben, sind gemäß den Vorschriften von IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler zu bilanzieren.
+
+60A Durch IAS 1 (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 27, 30–33, 37, 39, 41, 45, 48 und 52 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+60B Mit der 2008 geänderten Fassung von IAS 27 wurden die Paragraphen 48A–48D eingefügt und Paragraph 49 geändert. Diese Änderungen sind prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IAS 27 (geändert 2008) auf eine frühere Periode an, sind auch die Änderungen auf diese frühere Periode anzuwenden.
+
+60C [gestrichen]
+
+60D Durch die Verbesserungen der IFRS, veröffentlicht im Mai 2010, wurde Paragraph 60B geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2010 beginnen. Eine frühere Anwendung ist zulässig.
+
+60E [gestrichen]
+
+60F Durch IFRS 10 und IFRS 11 Gemeinschaftliche Vereinbarungen, veröffentlicht im Mai 2011, wurden die Paragraphen 3(b), 8, 11, 18, 19, 33, 44–46 und 48A geändert. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+60G Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Definition des beizulegenden Zeitwerts in Paragraph 8 und der Paragraph 23 geändert. Wendet ein Unternehmen IFRS 13 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+60H Durch Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurde Paragraph 39 geändert. Wendet ein Unternehmen IAS 1 (in der im Juni 2011 geänderten Fassung) an, ist diese Änderung ebenfalls anzuwenden.
+
+60I [gestrichen]
+
+60J Durch IFRS 9, veröffentlicht im Juli 2014, wurden die Paragraphen 3, 4, 5, 27 und 52 geändert und die Paragraphen 60C, 60E und 60I gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+60K Durch IFRS 16 Leasingverhältnisse, veröffentlicht im Januar 2016, wurde Paragraph 16 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+RÜCKNAHME ANDERER VERLAUTBARUNGEN
+
+61 Dieser Standard ersetzt IAS 21 Auswirkungen von Wechselkursänderungen (überarbeitet 1993).
+
+62 Dieser Standard ersetzt die folgenden Interpretationen:
+a) 
+
+SIC-11 Fremdwährung — Aktivierung von Verlusten aus erheblichen Währungsabwertungen,
+b) 
+
+SIC-19 Berichtswährung — Bewertung und Darstellung von Abschlüssen gemäß IAS 21 und IAS 29 und
+c) 
+
+SIC-30 Berichtswährung — Umrechnung von der Bewertungs- in die Darstellungswährung.

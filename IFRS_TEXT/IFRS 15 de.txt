@@ -1,0 +1,1484 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 15
+
+Erlöse aus Verträgen mit Kunden
+
+ZIELSETZUNG
+
+1   In diesem Standard sollen die Grundsätze festgelegt werden, nach denen ein Unternehmen den Abschlussadressaten nützliche Informationen über Art, Höhe, Zeitpunkt und Unsicherheit von Erlösen und Zahlungsströmen aus einem Vertrag mit einem Kunden zur Verfügung zu stellen hat.
+
+Erreichung der Zielsetzung
+
+2 Das Kernprinzip dieses Standards, mit dem das in Paragraph 1 genannte Ziel erreicht werden soll, besteht darin, dass ein Unternehmen — um die Übertragung der zugesagten Güter oder Dienstleistungen auf den Kunden abzubilden — die Erlöse in Höhe der Gegenleistung erfassen muss, die es im Austausch für diese Güter oder Dienstleistungen voraussichtlich erhalten wird.
+
+3 Bei der Anwendung dieses Standards hat ein Unternehmen den vertraglichen Bestimmungen sowie allen relevanten Fakten und Umständen Rechnung zu tragen. Das Unternehmen muss diesen Standard auf ähnlich ausgestaltete Verträge und unter ähnlichen Umständen einheitlich anwenden, was auch für den Einsatz etwaiger praktischer Behelfe gilt.
+
+4 Dieser Standard regelt die Bilanzierung eines einzelnen Vertrags mit einem Kunden. Behelfsweise kann ein Unternehmen diesen Standard jedoch auch auf ein Portfolio ähnlich ausgestalteter Verträge (oder Leistungsverpflichtungen) anwenden, wenn es nach vernünftigem Ermessen davon ausgehen kann, dass es keine wesentlichen Auswirkungen auf den Abschluss hat, ob es diesen Standard auf das Portfolio oder die einzelnen Verträge (oder Leistungsverpflichtungen) innerhalb dieses Portfolios anwendet. Bei der Bilanzierung eines Portfolios hat ein Unternehmen Schätzungen und Annahmen zugrunde zu legen, die die Größe und die Zusammensetzung des Portfolios widerspiegeln.
+
+ANWENDUNGSBEREICH
+
+5 Dieser Standard ist auf alle Verträge mit Kunden anzuwenden, außer auf
+a) 
+
+Leasingverträge, die in den Anwendungsbereich von IFRS 16 Leasingverhältnisse fallen,
+b) 
+
+Verträge, die in den Anwendungsbereich von IFRS 17 Versicherungsverträge fallen. Ein Unternehmen kann jedoch von seinem Wahlrecht Gebrauch machen, IFRS 15 auf Versicherungsverträge anzuwenden, deren primärer Zweck gemäß Paragraph 8 von IFRS 17 in der Erbringung von Dienstleistungen gegen ein festes Entgelt besteht,
+c) 
+
+Finanzinstrumente und andere vertragliche Rechte oder Verpflichtungen, die in den Anwendungsbereich von IFRS 9 Finanzinstrumente, IFRS 10 Konzernabschlüsse, IFRS 11 Gemeinschaftliche Vereinbarungen, IAS 27 Einzelabschlüsse und/oder IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen fallen, und
+d) 
+
+nichtmonetäre Tauschgeschäfte zwischen Unternehmen derselben Sparte, die Verkäufe an Kunden oder potenzielle Kunden erleichtern sollen. Vom Anwendungsbereich dieses Standards ausgenommen wäre beispielsweise ein Vertrag zwischen zwei Ölgesellschaften, die einen Tausch von Rohöl vereinbaren, um die Nachfrage ihrer Kunden an verschiedenen Standorten zeitnah decken zu können.
+
+6 Dieser Standard ist nur auf Verträge anzuwenden (bei denen es sich nicht um einen der in Paragraph 5 genannten Verträge handelt) und deren Vertragsparteien Kunden sind. Ein Kunde ist eine Partei, die mit einem Unternehmen vertraglich vereinbart hat, im Austausch für eine Gegenleistung Güter oder Dienstleistungen aus der gewöhnlichen Geschäftstätigkeit des Unternehmens zu erhalten. So wäre eine Vertragspartei beispielsweise dann nicht als Kunde zu betrachten, wenn sie mit dem Unternehmen vertraglich die Teilnahme an einer Tätigkeit oder einem Prozess (z. B. die Entwicklung eines Vermögenswerts im Rahmen einer Kooperationsvereinbarung) vereinbart hätte, bei der/dem die Vertragsparteien die Risiken und den Nutzen aus dieser Tätigkeit oder diesem Prozess teilen, anstatt ein Ergebnis aus der gewöhnlichen Geschäftstätigkeit des Unternehmens zu erhalten.
+
+7 Ein Vertrag mit einem Kunden kann teilweise in den Anwendungsbereich dieses Standards und teilweise in den Anwendungsbereich anderer, in Paragraph 5 aufgeführter Standards fallen.
+a) 
+
+Enthalten die anderen Standards Vorgaben zur Separierung und/oder erstmaligen Bewertung eines oder mehrerer Vertragsteile, so hat das Unternehmen zuerst die Separierungs- und/oder Bewertungsvorschriften dieser Standards anzuwenden. Das Unternehmen hat vom Transaktionspreis den Betrag des Vertragsteils (oder der Vertragsteile) in Abzug zu bringen, der (die) erstmals gemäß anderer Standards bewertet wird (werden), und hat bei der Verteilung des (ggf.) verbleibenden Betrags des Transaktionspreises auf die einzelnen in den Anwendungsbereich dieses Standards fallenden Leistungsverpflichtungen sowie auf andere gemäß Paragraph 7(b) ermittelte Vertragsteile die Paragraphen 73–86 anzuwenden.
+b) 
+
+Enthalten die anderen Standards keine Vorgaben zur Separierung und/oder erstmaligen Bewertung eines oder mehrerer Vertragsteile, so hat das Unternehmen zur Separierung und/oder erstmaligen Bewertung des Vertragsteils (oder der Vertragsteile) den vorliegenden Standard anzuwenden.
+
+8 Dieser Standard regelt die Bilanzierung der zusätzlichen Kosten, die einem Unternehmen im Zusammenhang mit der Anbahnung und Erfüllung eines Vertrags mit einem Kunden entstehen und die nicht in den Anwendungsbereich eines anderen Standards fallen (siehe Paragraphen 91–104). Das Unternehmen hat diese Paragraphen nur auf Kosten anzuwenden, die im Zusammenhang mit einem in den Anwendungsbereich dieses Standards fallenden Vertrags (oder Teil eines Vertrags) mit einem Kunden anfallen.
+
+ERFASSUNG
+
+Identifizierung des Vertrags
+
+9   Ein Unternehmen darf einen in den Anwendungsbereich dieses Standards fallenden Vertrag mit einem Kunden nur bilanziell erfassen, wenn alle folgenden Kriterien erfüllt sind:
+a) 
+
+die Vertragsparteien haben dem Vertrag (schriftlich, mündlich oder gemäß anderer Geschäftsgepflogenheiten) zugestimmt und zugesagt, ihre vertraglichen Pflichten zu erfüllen,
+b) 
+
+das Unternehmen kann für jede Vertragspartei feststellen, welche Rechte diese hinsichtlich der zu übertragenden Güter oder Dienstleistungen besitzt,
+c) 
+
+das Unternehmen kann die Zahlungsbedingungen für die zu übertragenden Güter oder Dienstleistungen feststellen,
+d) 
+
+der Vertrag hat wirtschaftliche Substanz (d. h. das Risiko, der Zeitpunkt oder die Höhe der künftigen Zahlungsströme des Unternehmens dürfte sich infolge des Vertrags ändern), und
+e) 
+
+es ist wahrscheinlich, dass das Unternehmen die Gegenleistung, auf die es im Austausch für die auf den Kunden zu übertragenden Güter oder Dienstleistungen Anspruch hat, erhalten wird. Bei der Bewertung, ob der Erhalt einer Gegenleistung wahrscheinlich ist, berücksichtigt das Unternehmen nur die Fähigkeit und die Absicht des Kunden zur Zahlung des entsprechenden Betrags bei Fälligkeit. Bei variabler Gegenleistung kann der Betrag, der dem Unternehmen als Gegenleistung zusteht, auch niedriger sein als der im Vertrag angegebene Preis, da das Unternehmen dem Kunden einen Preisnachlass gewähren kann (siehe Paragraph 52).
+
+10 Ein Vertrag ist eine Vereinbarung zwischen zwei oder mehr Parteien, die durchsetzbare Rechte und Pflichten begründet. Die Durchsetzbarkeit vertraglicher Rechte und Pflichten ist eine Rechtsfrage. Verträge können schriftlich oder mündlich geschlossen werden oder durch die Geschäftsgepflogenheiten eines Unternehmens impliziert sein. Gepflogenheiten und Verfahren für den Abschluss von Verträgen mit Kunden sind von Rechtsraum zu Rechtsraum, Branche zu Branche und Unternehmen zu Unternehmen unterschiedlich. Selbst innerhalb eines Unternehmens können sie variieren (und beispielsweise von der Kundenkategorie oder der Art der zugesagten Güter oder Dienstleistungen abhängen). Wenn ein Unternehmen bestimmt, ob und wann eine Vereinbarung mit einem Kunden durchsetzbare Rechte und Pflichten begründet, muss es diese Gepflogenheiten und Verfahren berücksichtigen.
+
+11 Einige Verträge mit Kunden haben möglicherweise keine feste Laufzeit und können von beiden Seiten jederzeit gekündigt oder geändert werden. Andere Verträge verlängern sich möglicherweise automatisch in den im Vertrag festgelegten Abständen. Dieser Standard ist auf die Laufzeit des Vertrags (d. h. den Vertragszeitraum) anzuwenden, während der die Vertragsparteien durchsetzbare Rechte und Pflichten besitzen.
+
+12 Für die Zwecke der Anwendung dieses Standards liegt kein Vertrag vor, wenn jede Vertragspartei das Recht hat, den noch von keiner Seite erfüllten Vertrag ohne Entschädigung der anderen Seite (oder Seiten) einseitig zu kündigen. Ein Vertrag ist dann als von keiner Seite erfüllt zu betrachten, wenn die beiden folgenden Kriterien erfüllt sind:
+a) 
+
+das Unternehmen hat noch keine der zugesagten Güter oder Dienstleistungen auf den Kunden übertragen und
+b) 
+
+das Unternehmen hat die Gegenleistung für die zugesagten Güter oder Dienstleistungen noch nicht erhalten und auch noch kein Anrecht darauf.
+
+13 Erfüllt ein Vertrag mit einem Kunden bei Vertragsabschluss die in Paragraph 9 genannten Kriterien, so muss ein Unternehmen nicht erneut beurteilen, ob diese Kriterien erfüllt sind, es sei denn, es gibt einen Hinweis darauf, dass bei den Fakten und Umständen eine erhebliche Änderung eingetreten ist. Wenn sich beispielsweise die Fähigkeit eines Kunden zur Zahlung der Gegenleistung erheblich verschlechtert, müsste das Unternehmen erneut beurteilen, ob der Erhalt der Gegenleistung, die ihm im Austausch für die noch auf den Kunden zu übertragenden Güter oder Dienstleistungen zusteht, wahrscheinlich ist.
+
+14 Wenn ein Vertrag mit einem Kunden die in Paragraph 9 genannten Kriterien nicht erfüllt, muss das Unternehmen kontinuierlich prüfen, ob diese Kriterien zu einem späteren Zeitpunkt erfüllt sind.
+
+15 Wenn ein Vertrag mit einem Kunden die in Paragraph 9 genannten Kriterien nicht erfüllt und das Unternehmen von dem Kunden eine Gegenleistung erhält, darf es die erhaltene Gegenleistung nur dann als Erlös erfassen, wenn
+a) 
+
+das Unternehmen keine Güter oder Dienstleistungen mehr auf den Kunden übertragen muss und die gesamte oder die im Wesentlichen gesamte vom Kunden zugesagte Gegenleistung erhalten hat und diese nicht zurückerstattet werden muss oder
+b) 
+
+der Vertrag beendet wurde und die vom Kunden erhaltene Gegenleistung nicht zurückerstattet werden muss.
+
+16 Eine von einem Kunden erhaltene Gegenleistung ist als Verbindlichkeit zu erfassen, bis einer der in Paragraph 15 genannten Fälle eintritt oder bis die in Paragraph 9 genannten Kriterien zu einem späteren Zeitpunkt erfüllt sind (siehe Paragraph 14). Je nach Fakten und Umständen im Zusammenhang mit dem Vertrag stellt die erfasste Verbindlichkeit die Verpflichtung des Unternehmens dar, entweder künftig Güter oder Dienstleistungen zu übertragen oder die erhaltene Gegenleistung zurückzuerstatten. In beiden Fällen ist die Verbindlichkeit mit der vom Kunden erhaltenen Gegenleistung anzusetzen.
+
+Zusammenfassung von Verträgen
+
+17 Zwei oder mehr Verträge, die gleichzeitig oder in geringem Zeitabstand mit ein und demselben Kunden (oder diesem nahestehenden Unternehmen und Personen) geschlossen werden, sind zusammenzufassen und als ein einziger Vertrag zu bilanzieren, wenn mindestens eines der folgenden Kriterien erfüllt ist:
+a) 
+
+die Verträge werden als Paket mit dem gleichen wirtschaftlichen Zweck ausgehandelt,
+b) 
+
+die Höhe der in einem der Verträge zugesagten Gegenleistung hängt vom Preis oder von der Erfüllung des anderen Vertrags ab oder
+c) 
+
+die in den Verträgen zugesagten Güter oder Dienstleistungen (oder einige der in den Verträgen jeweils zugesagten Güter oder Dienstleistungen) stellen gemäß den Paragraphen 22–30 eine einzige Leistungsverpflichtung dar.
+
+Vertragsänderungen
+
+18 Eine Vertragsänderung ist eine Änderung des Vertragsumfangs und/oder -preises, der alle Vertragsparteien zustimmen. In einigen Branchen und Rechtsräumen werden Vertragsänderungen auch als Änderungsauftrag, Variation oder Ergänzung bezeichnet. Eine Vertragsänderung liegt vor, wenn die Vertragsparteien einer Änderung zustimmen, mit der entweder neue durchsetzbare Rechte und Verpflichtungen der Vertragsparteien begründet oder die bestehenden abgeändert werden. Die Zustimmung zu einer Vertragsänderung kann schriftlich oder mündlich erfolgen oder durch die Geschäftsgepflogenheiten des Unternehmens impliziert sein. Haben die Vertragsparteien einer Vertragsänderung nicht zugestimmt, hat das Unternehmen diesen Standard so lange weiter auf den bestehenden Vertrag anzuwenden, bis der Vertragsänderung zugestimmt wurde.
+
+19 Eine Vertragsänderung kann selbst dann vorliegen, wenn die Vertragsparteien über Umfang und/oder Preis der Änderung uneinig sind oder einer Änderung des Vertragsumfangs zwar zugestimmt, die entsprechende Preisänderung aber noch nicht festgelegt haben. Wenn ein Unternehmen bestimmt, ob die durch eine Änderung begründeten oder geänderten Rechte und Pflichten durchsetzbar sind, hat es allen maßgeblichen Fakten und Umständen, einschließlich der Vertragsbedingungen und anderer Nachweise, Rechnung zu tragen. Haben die Vertragsparteien einer Änderung des Vertragsumfangs zugestimmt, die entsprechende Preisänderung aber noch nicht festgelegt, hat das Unternehmen die durch die Änderung bedingte Änderung des Transaktionspreises gemäß den Paragraphen 50–54 (Schätzung der variablen Gegenleistung) und den Paragraphen 56–58 (Einschränkungen bei der Schätzung variabler Gegenleistungen) zu schätzen.
+
+20 Ein Unternehmen hat eine Vertragsänderung als separaten Vertrag zu bilanzieren, wenn die beiden folgenden Voraussetzungen erfüllt sind:
+a) 
+
+der Vertragsumfang nimmt zu, da die vertraglichen Zusagen um eigenständig abgrenzbare Güter oder Dienstleistungen (im Sinne der Paragraphen 26–30) erweitert werden, und
+b) 
+
+der vertraglich vereinbarte Preis erhöht sich um die Gegenleistung, die dem Einzelverkaufspreis des Unternehmens für die zugesagten zusätzlichen Güter oder Dienstleistungen entspricht, wobei entsprechende Anpassungen dieses Preises aufgrund der Fakten und Umstände des jeweiligen Vertrags zu berücksichtigen sind. So kann ein Unternehmen einem Kunden beispielsweise einen Preisnachlass für zusätzliche Güter oder Dienstleistungen gewähren und den Einzelverkaufspreis entsprechend anpassen, weil dem Unternehmen keine vertriebsspezifischen Kosten entstehen, die beim Verkauf ähnlicher Güter oder Dienstleistungen an einen Neukunden anfallen würden.
+
+21 Wird eine Vertragsänderung nicht als separater Vertrag gemäß Paragraph 20 bilanziert, hat das Unternehmen die zum Zeitpunkt der Vertragsänderung noch nicht übertragenen zugesagten Güter oder Dienstleistungen (d. h. die noch ausstehenden zugesagten Güter oder Dienstleistungen) auf eine der folgenden Arten zu bilanzieren:
+a) 
+
+Sind die noch ausstehenden Güter oder Dienstleistungen von den Gütern oder Dienstleistungen abgrenzbar, die am oder vor dem Tag der Vertragsänderung übertragen worden sind, hat es die Vertragsänderung als Beendigung des bestehenden und Begründung eines neuen Vertrags zu bilanzieren. Die Höhe der Gegenleistung, die den noch ausstehenden Leistungsverpflichtungen (oder den noch ausstehenden eigenständig abgrenzbaren Gütern oder Dienstleistungen in einer einzigen Leistungsverpflichtung gemäß Paragraph 22(b)) zugeordnet wird, ist die Summe aus:
+i) 
+
+der vom Kunden zugesagten Gegenleistung (einschließlich der vom Kunden bereits erhaltenen Beträge), die bei der Schätzung des Transaktionspreises berücksichtigt wurde und nicht als Erlös erfasst worden ist, und
+ii) 
+
+der im Rahmen der Vertragsänderung zugesagten Gegenleistung.
+b) 
+
+Sind die noch ausstehenden Güter oder Dienstleistungen nicht eigenständig abgrenzbar und deshalb einer einzigen Leistungsverpflichtung zuzuordnen, die zum Zeitpunkt der Vertragsänderung zum Teil erfüllt ist, hat das Unternehmen die Vertragsänderung so zu bilanzieren als wäre sie Bestandteil des bestehenden Vertrags. Die Auswirkung der Vertragsänderung auf den Transaktionspreis und den vom Unternehmen im Hinblick auf die vollständige Erfüllung einer Leistungsverpflichtung gemessenen Leistungsfortschritt wird als Erlösanpassung (d. h. entweder als Erhöhung oder als Verringerung des Erlöses) zum Zeitpunkt der Vertragsänderung erfasst (d. h. die Erlösanpassung erfolgt insoweit auf kumulierter Basis).
+c) 
+
+Sind die noch ausstehenden Güter oder Dienstleistungen eine Kombination aus den unter den Buchstaben a und b genannten, hat das Unternehmen die Auswirkungen der Änderung auf die noch nicht erfüllten (oder teilweise erfüllten) Leistungsverpflichtungen des geänderten Vertrags gemäß den Zielsetzungen dieses Paragraphen zu bilanzieren.
+
+Identifizierung der Leistungsverpflichtungen
+
+22   Bei Vertragsabschluss hat das Unternehmen die in einem Vertrag mit einem Kunden zugesagten Güter oder Dienstleistungen zu prüfen und Leistungsverpflichtungen zu identifizieren, wenn auf den Kunden Folgendes übertragen werden soll:
+a) 
+
+ein eigenständig abgrenzbares Gut bzw. eine eigenständig abgrenzbare Dienstleistung oder ein eigenständig abgrenzbares Bündel aus Gütern oder Dienstleistungen; oder
+b) 
+
+eine Reihe eigenständig abgrenzbarer Güter oder Dienstleistungen, die im Wesentlichen gleich sind und nach dem gleichen Muster auf den Kunden übertragen werden (siehe Paragraph 23).
+
+23 Eine Reihe eigenständig abgrenzbarer Güter oder Dienstleistungen wird nach dem gleichen Muster auf den Kunden übertragen, wenn die beiden folgenden Kriterien erfüllt sind:
+a) 
+
+jedes eigenständig abgrenzbare Gut oder jede eigenständig abgrenzbare Dienstleistung der Reihe, deren Übertragung auf den Kunden das Unternehmen zugesagt hat, erfüllt die in Paragraph 35 genannten Kriterien für eine über einen bestimmten Zeitraum zu erfüllende Leistungsverpflichtung und
+b) 
+
+die Fortschritte, die das Unternehmen bis zur vollständigen Erfüllung der Leistungsverpflichtung, jedes eigenständig abgrenzbare Gut oder jede eigenständig abgrenzbare Dienstleistung in der Reihe auf den Kunden zu übertragen, erzielt, werden gemäß den Paragraphen 39–40 nach der gleichen Methode gemessen.
+
+In Verträgen mit Kunden enthaltene Zusagen
+
+24 Im Allgemeinen werden die Güter oder Dienstleistungen, deren Übertragung auf den Kunden das Unternehmen zusagt, im Vertrag mit dem Kunden ausdrücklich aufgeführt. Dennoch müssen die in einem Vertrag mit einem Kunden identifizierten Leistungsverpflichtungen nicht auf die in diesem Vertrag ausdrücklich genannten Güter oder Dienstleistungen beschränkt sein. Dies ist darin begründet, dass ein Vertrag mit einem Kunden Zusagen enthalten kann, die aufgrund von Geschäftsgepflogenheiten, veröffentlichten Leitlinien oder spezifischen Aussagen eines Unternehmens beim Kunden zum Zeitpunkt des Vertragsabschlusses die gerechtfertigte Erwartung wecken, dass das Unternehmen ein Gut oder eine Dienstleistung auf den Kunden überträgt.
+
+25 Aktivitäten, die das Unternehmen zur Vertragserfüllung zwingend durchführen muss, deren Zweck aber nicht darin besteht, ein Gut oder eine Dienstleistung auf den Kunden zu übertragen, zählen nicht zu den Leistungsverpflichtungen. So kann es beispielsweise erforderlich sein, dass ein Dienstleister zur Begründung eines Vertrags verschiedene administrative Aufgaben ausführen muss. Bei der Ausführung dieser Aufgaben wird keine Dienstleistung auf den Kunden übertragen. Somit stellen diese Aktivitäten zur Begründung eines Vertrags keine Leistungsverpflichtung dar.
+
+Eigenständig abgrenzbare Güter oder Dienstleistungen
+
+26 Je nach Vertrag können zugesagte Güter oder Dienstleistungen u. a. Folgendes umfassen:
+a) 
+
+den Verkauf der von einem Unternehmen produzierten Güter (z. B. Bestände eines Fertigungsunternehmens),
+b) 
+
+den Weiterverkauf von Gütern, die ein Unternehmen erworben hat (z. B. Ware eines Einzelhändlers),
+c) 
+
+den Weiterverkauf von Rechten an Gütern oder Dienstleistungen, die ein Unternehmen erworben hat (z. B. den Weiterverkauf eines Tickets durch ein als Prinzipal agierendes Unternehmen, siehe die Paragraphen B34–B38),
+d) 
+
+die Ausführung einer vertraglich vereinbarten Aufgabe (bzw. vertraglich vereinbarter Aufgaben) für einen Kunden,
+e) 
+
+die Zusage, laufend für die Bereitstellung von Gütern oder Dienstleistungen bereitzustehen (z. B. nicht spezifizierte Software-Aktualisierungen vorzunehmen, sofern und sobald sie verfügbar sind) oder Güter oder Dienstleistungen für einen Kunden bereitzuhalten, der diese nutzen kann, wie und wann er möchte,
+f) 
+
+das Erbringen einer Dienstleistung für einen Dritten, mit der die Übertragung von Gütern oder Dienstleistungen auf einen Kunden herbeigeführt wird (z. B. die Tätigkeit als Agent für einen Dritten, siehe die Paragraphen B34–B38),
+g) 
+
+die Gewährung von Rechten an in der Zukunft bereitzustellenden Gütern oder Dienstleistungen, die ein Kunde weiterveräußern oder wiederum seinem Kunden bereitstellen kann (z. B. wenn ein Unternehmen, das ein Produkt an einen Einzelhändler verkauft, zusagt, ein weiteres Gut oder eine weitere Dienstleistung auf eine Person zu übertragen, die das Produkt vom Einzelhändler erwirbt),
+h) 
+
+den Bau, die Herstellung oder die Entwicklung eines Vermögenswerts im Auftrag eines Kunden,
+i) 
+
+die Gewährung von Lizenzen (siehe Paragraphen B52–B63) und
+j) 
+
+die Gewährung von Optionen zum Erwerb zusätzlicher Güter oder Dienstleistungen (wenn diese Optionen dem Kunden ein wesentliches Recht verschaffen, siehe die Paragraphen B39–B43).
+
+27 Ein einem Kunden zugesagtes Gut oder eine einem Kunden zugesagte Dienstleistung ist dann eigenständig abgrenzbar, wenn die beiden folgenden Kriterien erfüllt sind:
+a) 
+
+der Kunde kann aus dem Gut oder der Dienstleistung entweder gesondert oder zusammen mit anderen, für ihn jederzeit verfügbaren Ressourcen einen Nutzen ziehen (d. h. das Gut oder die Dienstleistung ist geeignet, eigenständig abgegrenzt zu werden) und
+b) 
+
+die Zusage des Unternehmens, das Gut oder die Dienstleistung auf den Kunden zu übertragen, ist von anderen Zusagen aus dem Vertrag trennbar (d. h., die Zusage zur Übertragung des Guts oder der Dienstleistung lässt sich im Rahmen des Vertrags eigenständig abgrenzen).
+
+28 Ein Kunde kann gemäß Paragraph 27(a) aus einem Gut oder einer Dienstleistung einen Nutzen ziehen, wenn das Gut oder die Dienstleistung genutzt, verbraucht, für mehr als den Schrottwert veräußert oder auf eine andere Weise, die einen wirtschaftlichen Nutzen erzeugt, gehalten werden kann. Bei einigen Gütern oder Dienstleistungen kann der Kunde aus den Gütern oder Dienstleistungen selbst einen Nutzen ziehen. Bei anderen Gütern oder Dienstleistungen kann der Kunde aus den Gütern oder Dienstleistungen nur in Verbindung mit anderen jederzeit verfügbaren Ressourcen einen Nutzen ziehen. Eine jederzeit verfügbare Ressource ist ein Gut oder eine Dienstleistung, das oder die (vom Unternehmen oder einem anderen Unternehmen) separat veräußert wird, oder eine Ressource, die der Kunde bereits vom Unternehmen (einschließlich Güter oder Dienstleistungen, die das Unternehmen im Rahmen des Vertrags bereits auf den Kunden übertragen hat) oder aus anderen Transaktionen oder Ereignissen erhalten hat. Dass der Kunde aus den Gütern oder Dienstleistungen selbst oder aus den Gütern oder Dienstleistungen in Verbindung mit anderen jederzeit verfügbaren Ressourcen einen Nutzen ziehen kann, kann durch verschiedene Faktoren nachgewiesen werden. So deutet beispielsweise der Umstand, dass ein Unternehmen ein Gut oder eine Dienstleistung regelmäßig separat veräußert, darauf hin, dass der Kunde aus diesem Gut bzw. dieser Dienstleistung selbst oder in Verbindung mit anderen jederzeit verfügbaren Ressourcen einen Nutzen ziehen kann.
+
+29 Bei der Beurteilung, ob die Zusagen eines Unternehmens zur Übertragung von Gütern oder Dienstleistungen auf den Kunden gemäß Paragraph 27(b) von anderen Zusagen trennbar sind, soll bestimmt werden, ob die jeweilige Zusage im Rahmen des Vertrags darin besteht, diese Güter oder Dienstleistungen einzeln zu übertragen, oder aber auf die Übertragung eines oder mehrerer kombinierter Posten abzielt, in den bzw. die die zugesagten Güter oder Dienstleistungen eingeflossen sind. Nachstehend eine nicht erschöpfende Liste von Faktoren, die darauf hindeuten, dass zwei oder mehr Zusagen zur Übertragung von Gütern oder Dienstleistungen auf einen Kunden nicht von anderen Zusagen trennbar sind:
+a) 
+
+Das Unternehmen erbringt eine erhebliche Integrationsleistung, um die Güter oder Dienstleistungen mit anderen vertraglich zugesagten Gütern oder Dienstleistungen zu einem Bündel aus Gütern oder Dienstleistungen zusammenzufassen, damit das mit dem Kunden vertraglich vereinbarte kombinierte Endergebnis bzw. die mit dem Kunden vertraglich vereinbarten kombinierten Endergebnisse erzielt wird/werden. Das heißt, dass das Unternehmen die Güter oder Dienstleistungen zur Herstellung oder Lieferung des vom Kunden gewünschten kombinierten Endergebnisses/der vom Kunden gewünschten kombinierten Endergebnisse nutzt. Ein kombiniertes Endergebnis kann mehrere Phasen, Elemente oder Einheiten umfassen.
+b) 
+
+Eines oder mehrere der Güter oder Dienstleistungen führt/führen zu einer erheblichen Änderung oder Anpassung eines oder mehrerer vertraglich zugesagten Güter oder Dienstleistungen oder wird/werden durch ein oder mehrere vertraglich zugesagte Güter oder Dienstleistungen erheblich geändert oder angepasst.
+c) 
+
+Die Güter oder Dienstleistungen sind in hohem Maße voneinander abhängig oder miteinander verbunden. Das heißt, dass jedes dieser Güter oder jede dieser Dienstleistungen erheblich von einem/einer oder mehreren der anderen Güter oder Dienstleistungen im Vertrag beeinflusst wird. Beispielsweise gibt es Fälle, in denen zwei oder mehrere Güter oder Dienstleistungen einander erheblich beeinflussen, weil das Unternehmen, wenn es die Güter und Dienstleistungen einzeln und unabhängig voneinander übertragen würde, seine Zusage nicht erfüllen könnte.
+
+30 Ist ein zugesagtes Gut oder eine zugesagte Dienstleistung nicht eigenständig abgrenzbar, hat das Unternehmen diese so lange mit anderen zugesagten Gütern oder Dienstleistungen zusammenzufassen, bis ein eigenständig abgrenzbares Bündel aus Gütern oder Dienstleistungen entsteht. In einigen Fällen führt dies dazu, dass das Unternehmen alle in einem Vertrag zugesagten Güter oder Dienstleistungen als eine einzige Leistungsverpflichtung bilanziert.
+
+Erfüllung der Leistungsverpflichtungen
+
+31   Wenn (oder sobald) das Unternehmen durch Übertragung eines zugesagten Guts oder einer zugesagten Dienstleistung (d. h. eines Vermögenswerts) auf einen Kunden eine Leistungsverpflichtung erfüllt, hat es einen Erlös zu erfassen. Als übertragen gilt ein Vermögenswert, wenn (oder sobald) der Kunde die Verfügungsgewalt über diesen Vermögenswert erlangt.
+
+32 Für jede gemäß den Paragraphen 22–30 identifizierte Leistungsverpflichtung hat ein Unternehmen bei Vertragsabschluss zu bestimmen, ob es diese (gemäß den Paragraphen 35–37) über einen bestimmten Zeitraum oder (gemäß Paragraph 38) zu einem bestimmten Zeitpunkt erfüllen wird. Kommt ein Unternehmen einer Leistungsverpflichtung nicht über einen bestimmten Zeitraum nach, wird sie zu einem bestimmten Zeitpunkt erfüllt.
+
+33 Güter und Dienstleistungen sind Vermögenswerte, auch wenn (wie bei vielen Dienstleistungen der Fall) nur vorübergehend bei Erhalt und Nutzung. Unter Verfügungsgewalt über einen Vermögenswert ist die Fähigkeit zu verstehen, seine Nutzung zu bestimmen und im Wesentlichen den verbleibenden Nutzen aus ihm zu ziehen. Dies schließt auch die Fähigkeit ein, andere Unternehmen daran zu hindern, seine Nutzung zu bestimmen und Nutzen aus ihm zu ziehen. Der Nutzen eines Vermögenswerts besteht in den potenziellen Zahlungsströmen (Zuflüsse oder verminderte Abflüsse), die ein Unternehmen auf verschiedenste Weise direkt oder indirekt erhalten kann, u. a. indem es
+a) 
+
+den Vermögenswert zur Erzeugung von Gütern oder Erbringung von Dienstleistungen (einschließlich öffentlicher Dienstleistungen) nutzt,
+b) 
+
+den Vermögenswert zur Aufwertung anderer Vermögenswerte nutzt,
+c) 
+
+den Vermögenswert zur Begleichung von Verbindlichkeiten oder Verringerung von Aufwendungen nutzt,
+d) 
+
+den Vermögenswert veräußert oder tauscht,
+e) 
+
+den Vermögenswert zur Besicherung eines Darlehens verpfändet oder
+f) 
+
+den Vermögenswert hält.
+
+34 Bei der Bewertung, ob ein Kunde die Verfügungsgewalt über einen Vermögenswert erhält, hat ein Unternehmen etwaige Rückkaufvereinbarungen zu berücksichtigen (siehe Paragraphen B64–B76).
+
+Leistungsverpflichtungen, die über einen bestimmten Zeitraum erfüllt werden
+
+35 Ein Unternehmen überträgt die Verfügungsgewalt über ein Gut oder eine Dienstleistung über einen bestimmten Zeitraum (und erfüllt somit eine Leistungsverpflichtung und erfasst den Erlös über einen bestimmten Zeitraum), wenn eines der folgenden Kriterien erfüllt ist:
+a) 
+
+der Kunde erhält und nutzt die vom Unternehmen erbrachte Leistung, während diese erbracht wird (siehe Paragraphen B3 und B4),
+b) 
+
+durch die Leistung des Unternehmens wird ein Vermögenswert erstellt oder verbessert (z. B. unfertige Leistung) und der Kunde erlangt die Verfügungsgewalt über den Vermögenswert, während dieser erstellt oder verbessert wird (siehe Paragraph B5), oder
+c) 
+
+durch die Leistung des Unternehmens wird ein Vermögenswert erstellt, der keine alternativen Nutzungsmöglichkeiten für das Unternehmen aufweist (siehe Paragraph 36), und das Unternehmen hat einen Rechtsanspruch auf Bezahlung der bereits erbrachten Leistungen (siehe Paragraph 37).
+
+36 Ein durch die Leistung eines Unternehmens erstellter Vermögenswert hat keinen alternativen Nutzen für ein Unternehmen, wenn das Unternehmen entweder vertraglichen Beschränkungen unterliegt, die es davon abhalten, den Vermögenswert während seiner Erstellung oder Verbesserung umstandslos für einen alternativen Nutzen zu bestimmen, oder wenn es praktischen Beschränkungen unterliegt, die es davon abhalten, für den Vermögenswert nach seiner Fertigstellung umstandslos einen alternativen Nutzen zu bestimmen. Ob ein Vermögenswert einen alternativen Nutzen für das Unternehmen hat, wird bei Vertragsabschluss beurteilt. Nach Vertragsabschluss darf das Unternehmen die Beurteilung des alternativen Nutzens eines Vermögenswerts nicht aktualisieren, es sei denn, die Vertragsparteien stimmen einer Vertragsänderung, mit der die Leistungsverpflichtung wesentlich geändert wird, zu. Die Paragraphen B6–B8 enthalten Leitlinien für die Beurteilung, ob ein Vermögenswert einen alternativen Nutzen für ein Unternehmen hat.
+
+37 Bei der Bewertung, ob es einen Rechtsanspruch auf Erhalt einer Zahlung für die bereits erbrachten Leistungen gemäß Paragraph 35(c) besitzt, hat ein Unternehmen die Vertragsbedingungen sowie alle für den Vertrag geltenden Rechtsvorschriften zu berücksichtigen. Der Anspruch auf Erhalt einer Zahlung für bereits erbrachte Leistungen muss nicht zwingend in einem festen Betrag bestehen. Allerdings muss das Unternehmen für den Fall, dass der Kunde oder eine andere Partei den Vertrag aus anderen Gründen als der Nichterfüllung der vom Unternehmen zugesagten Leistung kündigt, während der Laufzeit des Vertrags jederzeit Anspruch auf einen Betrag haben, der zumindest eine Vergütung für die bereits erbrachten Leistungen darstellt. Die Paragraphen B9–B13 enthalten Leitlinien für die Beurteilung der Frage, ob ein durchsetzbarer Zahlungsanspruch besteht und ob dieser das Unternehmen tatsächlich dazu berechtigt, für die bereits erbrachten Leistungen bezahlt zu werden.
+
+Leistungsverpflichtungen, die zu einem bestimmten Zeitpunkt erfüllt werden
+
+38 Wird eine Leistungsverpflichtung nicht gemäß den Paragraphen 35–37 über einen bestimmten Zeitraum erfüllt, so erfüllt das Unternehmen die Leistungsverpflichtung zu einem bestimmten Zeitpunkt. Zur Bestimmung des Zeitpunkts, zu dem ein Kunde die Verfügungsgewalt über einen zugesagten Vermögenswert erlangt und das Unternehmen eine Leistungsverpflichtung erfüllt, hat das Unternehmen den Vorschriften zur Verfügungsgewalt in den Paragraphen 31–34 Rechnung zu tragen. Zusätzlich dazu hat das Unternehmen u. a. folgende Indikatoren für die Übertragung der Verfügungsgewalt zu berücksichtigen:
+a) 
+
+Das Unternehmen hat gegenwärtig einen Anspruch auf Erhalt einer Zahlung für den Vermögenswert: Ist ein Kunde gegenwärtig dazu verpflichtet, für einen Vermögenswert zu zahlen, kann dies ein Indikator dafür sein, dass der Kunde im Gegenzug die Fähigkeit erhalten hat, die Nutzung des Vermögenswerts zu bestimmen und im Wesentlichen den verbleibenden Nutzen aus dem Vermögenswert zu ziehen.
+b) 
+
+Der Kunde hat ein Eigentumsrecht an dem Vermögenswert: Eigentum an einem Vermögenswert kann ein Indikator dafür sein, welche Vertragspartei in der Lage ist, die Nutzung des Vermögenswerts zu bestimmen und im Wesentlichen den verbleibenden Nutzen aus dem Vermögenswert zu ziehen oder den Zugang anderer zu diesem Nutzen zu beschränken. Daher kann die Übertragung des Eigentumsrechts an einem Vermögenswert ein Indikator dafür sein, dass der Kunde die Verfügungsgewalt über den Vermögenswert erlangt hat. Behält ein Unternehmen das Eigentum nur, um sich gegen einen Zahlungsausfall des Kunden abzusichern, hindert dieses Eigentumsrecht des Unternehmens den Kunden nicht daran, die Verfügungsgewalt über den Vermögenswert zu erlangen.
+c) 
+
+Das Unternehmen hat den physischen Besitz des Vermögenswerts übertragen: Ist ein Vermögenswert im physischen Besitz des Kunden, kann dies ein Indikator dafür sein, dass der Kunde die Nutzung des Vermögenswerts bestimmen und im Wesentlichen den verbleibenden Nutzen aus dem Vermögenswert ziehen oder den Zugang anderer zu diesem Nutzen beschränken kann. Doch muss physischer Besitz nicht immer gleichbedeutend mit Verfügungsgewalt über den Vermögenswert sein. So kann sich der Vermögenswert bei einigen Rückkauf- und Kommissionsvereinbarungen zwar physisch im Besitz des Kunden befinden, die Verfügungsgewalt über den Vermögenswert aber beim Unternehmen liegen. Bei sogenannten Bill-and-hold-Vereinbarungen kann sich der Vermögenswert dagegen physisch im Besitz des Unternehmens befinden, die Verfügungsgewalt aber beim Kunden liegen. Die Paragraphen B64–B76, B77–B78 und B79–B82 enthalten Leitlinien für die Bilanzierung von Rückkauf-, Kommissions- und Bill-and-hold-Vereinbarungen.
+d) 
+
+Die mit dem Eigentum an dem Vermögenswert verbundenen erheblichen Risiken und Chancen liegen beim Kunden: Die Übertragung der mit dem Eigentum an dem Vermögenswert verbundenen erheblichen Risiken und Chancen auf den Kunden kann ein Indikator dafür sein, dass der Kunde die Fähigkeit erhalten hat, die Nutzung des Vermögenswerts zu bestimmen und im Wesentlichen den verbleibenden Nutzen aus dem Vermögenswert zu ziehen. Bei der Bewertung der mit dem Eigentum an einem zugesagten Vermögenswert verbundenen Risiken und Chancen hat das Unternehmen jedoch jegliche Risiken außer Acht zu lassen, die zusätzlich zu der Verpflichtung zur Übertragung des Vermögenswerts eine separate Leistungsverpflichtung begründen. So kann ein Unternehmen beispielsweise die Verfügungsgewalt über einen Vermögenswert bereits auf einen Kunden übertragen, eine zusätzliche Leistungsverpflichtung, wie die Ausführung von Wartungsarbeiten für den übertragenen Vermögenswert, aber noch nicht erfüllt haben.
+e) 
+
+Der Kunde hat den Vermögenswert abgenommen: Die Abnahme eines Vermögenswerts durch den Kunden kann ein Indikator dafür sein, dass dieser die Fähigkeit erhalten hat, die Nutzung des Vermögenswerts zu bestimmen und im Wesentlichen den verbleibenden Nutzen aus dem Vermögenswert zu ziehen. Zur Einschätzung der Auswirkungen einer im Vertrag enthaltenen Abnahmeklausel auf den Zeitpunkt, zu dem die Verfügungsgewalt über einen Vermögenswert übertragen wird, hat ein Unternehmen den Leitlinien in den Paragraphen B83–B86 Rechnung zu tragen.
+
+Bestimmung des Leistungsfortschritts im Hinblick auf die vollständige Erfüllung einer Leistungsverpflichtung
+
+39 Bei jeder Leistungsverpflichtung, die gemäß den Paragraphen 35–37 über einen bestimmten Zeitraum erfüllt wird, hat ein Unternehmen den über einen bestimmten Zeitraum erzielten Erlös zu erfassen, indem es den Leistungsfortschritt im Hinblick auf die vollständige Erfüllung dieser Leistungsverpflichtung ermittelt. Bei der Bestimmung des Leistungsfortschritts wird das Ziel verfolgt, die Leistung des Unternehmens bei der Übertragung der Verfügungsgewalt über die einem Kunden zugesagten Güter oder Dienstleistungen darzustellen (d. h. darzustellen, inwieweit das Unternehmen seiner Leistungsverpflichtung nachkommt).
+
+40 Bei jeder Leistungsverpflichtung, die über einen bestimmten Zeitraum erfüllt wird, hat das Unternehmen den Leistungsfortschritt nach der gleichen Methode zu bestimmen, wobei diese Methode konsistent auf ähnliche Leistungsverpflichtungen und in ähnlichen Umständen anzuwenden ist. Am Ende jeder Berichtsperiode hat ein Unternehmen erneut zu messen, welche Fortschritte es bei einer über einen bestimmten Zeitraum vollständig zu erfüllenden Leistungsverpflichtung erzielt hat.
+
+Methoden zur Messung des Leistungsfortschritts
+
+41 Zur Messung des Leistungsfortschritts eignen sich u. a. output- und inputbasierte Methoden. Die Paragraphen B14–B19 enthalten Leitlinien im Hinblick darauf, wie output- und inputbasierte Methoden zur Messung des Fortschritts eines Unternehmens bei der vollständigen Erfüllung einer Leistungsverpflichtung eingesetzt werden können. Wenn ein Unternehmen die zur Fortschrittsmessung geeignete Methode bestimmt, hat es der Art des Guts oder der Dienstleistung Rechnung zu tragen, deren Übertragung auf den Kunden es zugesagt hat.
+
+42 Bei der Anwendung einer Methode zur Messung des Leistungsfortschritts hat ein Unternehmen von der Messung des Leistungsfortschritts alle Güter und Dienstleistungen auszunehmen, bei denen es die Verfügungsgewalt nicht auf einen Kunden überträgt. Umgekehrt hat ein Unternehmen in die Messung des Leistungsfortschritts alle Güter und Dienstleistungen einzubeziehen, bei denen es die Verfügungsgewalt bei Erfüllung der betreffenden Leistungsverpflichtung auf einen Kunden überträgt.
+
+43 Da sich Umstände im Laufe der Zeit ändern, hat ein Unternehmen seine Fortschrittsmessung an etwaige Änderungen beim Ergebnis der Leistungsverpflichtung anzupassen. Solche Änderungen bei der Messung des Leistungsfortschritts eines Unternehmens sind gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler als Änderung einer Schätzung zu bilanzieren.
+
+Angemessene Fortschrittsmaße
+
+44 Ein Unternehmen darf den Erlös einer über einen bestimmten Zeitraum erfüllten Leistungsverpflichtung nur dann erfassen, wenn es seinen Fortschritt im Hinblick auf die vollständige Erfüllung der Leistungsverpflichtung angemessen messen kann. Dies ist nur dann der Fall, wenn das Unternehmen über die für eine geeignete Fortschrittsmessmethode erforderlichen verlässlichen Informationen verfügt.
+
+45 Unter bestimmten Umständen (zum Beispiel in den frühen Vertragsphasen) kann es einem Unternehmen unmöglich sein, das Ergebnis einer Leistungsverpflichtung angemessen zu bewerten, das Unternehmen aber davon ausgehen, dass es die bei Erfüllung der Leistungsverpflichtung angefallenen Kosten erstattet bekommen kann. In diesem Fall darf das Unternehmen den Erlös nur im Umfang der Kosten erfassen, die bis zu dem Zeitpunkt angefallen sind, zu dem es das Ergebnis der Leistungsverpflichtung angemessen bewerten kann.
+
+BEWERTUNG
+
+46   Wenn (oder sobald) eine Leistungsverpflichtung erfüllt wird, hat das Unternehmen als Erlös den dieser Leistungsverpflichtung zugeordneten Transaktionspreis zu erfassen (der keine gemäß den Paragraphen 56–58 Einschränkungen unterliegenden Schätzungen variabler Gegenleistungen enthalten darf).
+
+Bestimmung des Transaktionspreises
+
+47   Bei der Bestimmung des Transaktionspreises hat ein Unternehmen die Vertragsbedingungen und seine Geschäftsgepflogenheiten zu berücksichtigen. Der Transaktionspreis ist die Gegenleistung, die ein Unternehmen im Austausch für die Übertragung zugesagter Güter oder Dienstleistungen auf einen Kunden voraussichtlich erhalten wird. Hiervon ausgenommen sind Beträge, die im Namen Dritter eingezogen werden (z. B. Umsatzsteuer). Die in einem Vertrag mit einem Kunden zugesagte Gegenleistung kann feste oder variable Beträge oder beides enthalten.
+
+48 Die Art, der Zeitpunkt und die Höhe einer vom Kunden zugesagten Gegenleistung wirkt sich auf die Schätzung des Transaktionspreises aus. Bei der Bestimmung des Transaktionspreises hat ein Unternehmen den Auswirkungen aller folgenden Faktoren Rechnung zu tragen:
+a) 
+
+variable Gegenleistungen (siehe Paragraphen 50–55 und 59),
+b) 
+
+Einschränkungen bei der Schätzung variabler Gegenleistungen (siehe Paragraphen 56–58),
+c) 
+
+Vorliegen einer erheblichen Finanzierungskomponente im Vertrag (siehe Paragraphen 60–65),
+d) 
+
+nicht zahlungswirksame Gegenleistungen (siehe Paragraphen 66–69) und
+e) 
+
+an einen Kunden zu zahlende Gegenleistungen (siehe Paragraphen 70–72).
+
+49 Zur Bestimmung des Transaktionspreises hat das Unternehmen davon auszugehen, dass die Güter oder Dienstleistungen wie vertraglich zugesagt auf den Kunden übertragen werden und dass der Vertrag nicht gekündigt, verlängert oder geändert wird.
+
+Variable Gegenleistung
+
+50 Enthält eine vertraglich zugesagte Gegenleistung eine variable Komponente, so hat das Unternehmen die Höhe der Gegenleistung, die ihm im Austausch für die Übertragung der zugesagten Güter oder Dienstleistungen auf einen Kunden zusteht, zu bestimmen.
+
+51 Die Höhe der Gegenleistung kann aufgrund von Skonti, Rabatten, Rückerstattungen, Gutschriften, Preisnachlässen, Anreizen, Leistungsprämien, Strafzuschlägen o. Ä. variieren. Ebenfalls variieren kann die zugesagte Gegenleistung, wenn der Anspruch auf die Gegenleistung vom Eintreten oder Nichteintreten eines künftigen Ereignisses abhängig ist. So ist eine Gegenleistung zum Beispiel dann variabel, wenn ein Produkt mit Rückgaberecht verkauft wurde oder wenn ein fester Betrag bei Erreichen eines bestimmten Leistungsziels als Leistungsprämie zugesagt wurde.
+
+52 Der variable Charakter der von einem Kunden zugesagten Gegenleistung kann ausdrücklich im Vertrag festgelegt sein. Ebenfalls als variabel ist die Gegenleistung in einem der folgenden Fälle anzusehen:
+a) 
+
+Der Kunde hat aufgrund der Geschäftsgepflogenheiten, veröffentlichten Grundsätze oder spezifischen Aussagen des Unternehmens die gerechtfertigte Erwartung, dass das Unternehmen als Gegenleistung einen Betrag akzeptiert, der unter dem im Vertrag genannten Preis liegt. Es wird also davon ausgegangen, dass das Unternehmen einen Preisnachlass anbieten wird. Dieses Angebot kann je nach Land, Branche oder Kunde als Skonto, Rabatt, Rückerstattung oder Gutschrift bezeichnet werden.
+b) 
+
+Andere Fakten und Umstände deuten darauf hin, dass das Unternehmen bei Abschluss des Vertrags mit dem Kunden beabsichtigt, diesem einen Preisnachlass anzubieten.
+
+53 Die Höhe einer variablen Gegenleistung ist von dem Unternehmen nach einer der beiden folgenden Methoden zu schätzen, je nachdem, welche von beiden das Unternehmen zu diesem Zweck für die beste hält:
+a) 
+
+Erwartungswertmethode: Der Erwartungswert ist die Summe der wahrscheinlichkeitsgewichteten Beträge aus einer Vielzahl möglicher Beträge für die Gegenleistung. Hat ein Unternehmen eine große Anzahl ähnlich ausgestalteter Verträge geschlossen, kann der Erwartungswert eine angemessene Schätzung der variablen Gegenleistung darstellen.
+b) 
+
+Wahrscheinlichster Betrag: Der wahrscheinlichste Betrag ist der Einzelbetrag mit der höchsten Eintrittswahrscheinlichkeit aus einer Vielzahl möglicher Gegenleistungen (d. h., das wahrscheinlichste der Ergebnisse des Vertrags). Der wahrscheinlichste Betrag kann eine angemessene Schätzung der variablen Gegenleistung darstellen, wenn der Vertrag lediglich zwei mögliche Ergebnisse hat (das Unternehmen beispielsweise eine Leistungsprämie erhält oder nicht).
+
+54 Wenn das Unternehmen die Auswirkungen einer Unsicherheit auf die Höhe der ihm zustehenden variablen Gegenleistung schätzt, hat es die gewählte Methode durchgehend auf den gesamten Vertrag anzuwenden. Darüber hinaus hat das Unternehmen alle ihm ohne unangemessenen Aufwand zur Verfügung stehenden Informationen (historische, aktuelle sowie Prognosen) einzubeziehen und eine angemessene Anzahl möglicher Gegenleistungen zu ermitteln. Die Informationen, die ein Unternehmen zur Schätzung der variablen Gegenleistung heranzieht, sollten im Allgemeinen die Informationen sein, die das Management des Unternehmens im Rahmen des Angebotsprozesses sowie bei der Festlegung der Preise der zugesagten Güter und Dienstleistungen verwendet.
+
+Rückerstattungsverbindlichkeiten
+
+55 Eine Rückerstattungsverbindlichkeit ist zu erfassen, wenn ein Unternehmen von einem Kunden eine Gegenleistung erhält und erwartet, dass es dem Kunden diese Gegenleistung ganz oder teilweise zurückerstatten wird. Eine Rückerstattungsverbindlichkeit wird in Höhe der erhaltenen (oder zu erhaltenden) Gegenleistung bewertet, die dem Unternehmen voraussichtlich nicht zusteht (d. h. mit den nicht im Transaktionspreis enthaltenen Beträgen). Die Rückerstattungsverbindlichkeit (und die entsprechende Änderung des Transaktionspreises und damit auch der Vertragsverbindlichkeit) ist am Ende jeder Berichtsperiode im Hinblick auf geänderte Umstände zu aktualisieren. Bei der Bilanzierung einer Rückerstattungsverbindlichkeit bei einem Verkauf mit Rückgaberecht hat das Unternehmen die in den Paragraphen B20–B27 enthaltenden Leitlinien anzuwenden.
+
+Einschränkungen bei der Schätzung variabler Gegenleistungen
+
+56 Ein Unternehmen darf eine gemäß Paragraph 53 geschätzte variable Gegenleistung nur dann ganz oder teilweise in den Transaktionspreis einbeziehen, wenn hochwahrscheinlich ist, dass es bei den erfassten kumulierten Erlösen nicht zu einer erheblichen Stornierung kommt, sobald die Unsicherheit in Verbindung mit der variablen Gegenleistung nicht mehr besteht.
+
+57 Wenn das Unternehmen beurteilt, ob es hochwahrscheinlich ist, dass es bei den erfassten kumulierten Erlösen zu keiner erheblichen Stornierung kommt, sobald die Unsicherheit in Verbindung mit der variablen Gegenleistung nicht mehr besteht, hat es sowohl die Wahrscheinlichkeit als auch das Ausmaß der Erlösstornierung in Betracht zu ziehen. Die Wahrscheinlichkeit oder das Ausmaß der Erlösstornierung könnte sich u. a. erhöhen, wenn
+a) 
+
+die Gegenleistung in hohem Maße von externen Faktoren abhängt, wie Marktvolatilität, Ermessensentscheidungen oder Handlungen Dritter, Wetterbedingungen oder hohem Alterungsrisiko der zugesagten Güter oder Dienstleistungen,
+b) 
+
+die Unsicherheit über die Höhe der Gegenleistung voraussichtlich über einen längeren Zeitraum anhalten wird,
+c) 
+
+die Erfahrungen des Unternehmens mit ähnlichen Vertragsarten (oder sonstige Nachweise) begrenzt sind oder diese Erfahrungen (oder sonstigen Nachweise) nur geringe Aussagekraft für Prognosen besitzen,
+d) 
+
+es Geschäftspraxis des Unternehmens ist, eine Vielzahl von Preisnachlässen anzubieten oder die Zahlungsbedingungen ähnlicher Verträge unter ähnlichen Umständen zu ändern,
+e) 
+
+der Vertrag eine Vielzahl unterschiedlich hoher Gegenleistungen νοrsieht.
+
+58 Zur Bilanzierung von Gegenleistungen in Form von umsatz- oder nutzungsbasiertem Nutzungsentgelt im Austausch für lizenziertes geistiges Eigentum hat das Unternehmen Paragraph B63 anzuwenden.
+
+Neubewertung variabler Gegenleistungen
+
+59 Um ein getreues Bild der Umstände am Ende der Berichtsperiode und der während dieser Periode eingetretenen Veränderungen zu vermitteln, muss ein Unternehmen am Abschlussstichtag den geschätzten Transaktionspreis (sowie seine Beurteilung, ob die Schätzung der variablen Gegenleistung Einschränkungen unterliegt) aktualisieren. Änderungen des Transaktionspreises hat das Unternehmen gemäß den Paragraphen 87–90 zu bilanzieren.
+
+Vorliegen einer erheblichen Finanzierungskomponente
+
+60 Bei der Bestimmung des Transaktionspreises hat ein Unternehmen die zugesagte Gegenleistung um den Zeitwert des Geldes anzupassen, wenn der zwischen den Vertragsparteien (entweder explizit oder implizit) vereinbarte Zeitpunkt der Zahlungen der Übertragung der Güter oder Dienstleistungen auf den Kunden für den Kunden oder das Unternehmen einen erheblichen Finanzierungsnutzen darstellt. In einem solchen Fall enthält der Vertrag eine erhebliche Finanzierungskomponente. Eine erhebliche Finanzierungskomponente kann unabhängig davon vorliegen, ob die Finanzierungszusage explizit im Vertrag enthalten oder durch die von den Vertragsparteien vereinbarten Zahlungsbedingungen impliziert ist.
+
+61 Der Zweck der Anpassung der zugesagten Gegenleistung um eine erhebliche Finanzierungskomponente besteht für ein Unternehmen darin, Erlöse in einer Höhe zu erfassen, die den Preis widerspiegelt, den der Kunde gezahlt hätte, wenn er die zugesagten Güter oder Dienstleistungen bei (oder unmittelbar nach) der Übertragung auf ihn bar beglichen hätte (d. h. den Barverkaufspreis). Wenn ein Unternehmen beurteilt, ob ein Vertrag eine Finanzierungskomponente enthält und diese für den Vertrag erheblich ist, hat es allen relevanten Fakten und Umständen Rechnung zu tragen. Dazu zählen auch die beiden folgenden Faktoren:
+a) 
+
+die etwaige Differenz zwischen der Höhe der zugesagten Gegenleistung und dem Barverkaufspreis der zugesagten Güter oder Dienstleistungen und
+b) 
+
+der kombinierte Effekt aus
+i) 
+
+der erwarteten Zeitspanne zwischen der Übertragung der zugesagten Güter oder Dienstleistungen auf den Kunden und der Bezahlung dieser Güter und Dienstleistungen durch den Kunden und
+ii) 
+
+den marktüblichen Zinssätzen.
+
+62 Keine erhebliche Finanzierungskomponente enthält ein Vertrag mit einem Kunden ungeachtet der in Paragraph 61 beschriebenen Beurteilung in den nachstehend genannten Fällen:
+a) 
+
+Der Kunde hat die Güter oder Dienstleistungen im Voraus bezahlt, und der Zeitpunkt der Übertragung dieser Güter und Dienstleistungen liegt im Ermessen des Kunden.
+b) 
+
+Ein wesentlicher Teil der vom Kunden zugesagten Gegenleistung ist variabel, wobei Höhe oder Zeitpunkt dieser Gegenleistung davon abhängen, ob ein künftiges Ereignis, auf das der Kunde oder das Unternehmen keinen wesentlichen Einfluss hat, eintritt oder ausbleibt (dies ist beispielsweise der Fall, wenn die Gegenleistung in einem umsatzbasierten Nutzungsentgelt besteht).
+c) 
+
+Die Differenz zwischen der zugesagten Gegenleistung und dem Barverkaufspreis des Guts oder der Dienstleistung (gemäß Paragraph 61) ist nicht in der Bereitstellung einer Finanzierungskomponente für den Kunden oder das Unternehmen begründet, und die Differenz zwischen diesen beiden Beträgen steht zur Ursache dieser Differenz in einem angemessenen Verhältnis. So könnten beispielsweise die Zahlungsbedingungen den Kunden oder das Unternehmen davor schützen, dass die jeweils andere Partei alle oder einen Teil ihrer vertraglichen Pflichten nicht angemessen erfüllt.
+
+63 Aus praktischen Gründen kann ein Unternehmen darauf verzichten, die Höhe der zugesagten Gegenleistung um die Auswirkungen aus einer erheblichen Finanzierungskomponente anzupassen, wenn es bei Vertragsabschluss erwartet, dass die Zeitspanne zwischen der Übertragung eines zugesagten Guts oder einer zugesagten Dienstleistung auf den Kunden und der Bezahlung dieses Guts oder dieser Dienstleistung durch den Kunden maximal ein Jahr beträgt.
+
+64 Zur Erreichung des in Paragraph 61 genannten Ziels hat ein Unternehmen, wenn es die zugesagte Gegenleistung um die Auswirkungen aus einer erheblichen Finanzierungskomponente anpasst, den Abzinsungssatz zu verwenden, der bei einem zum Zeitpunkt des Vertragsabschlusses vereinbarten gesonderten Finanzierungsgeschäft anzuwenden wäre. Dieser Satz müsste der Kreditwürdigkeit des Kreditnehmers in diesem Vertragsverhältnis entsprechen und allen etwaigen, vom Kunden oder dem Unternehmen gestellten Sicherheiten Rechnung tragen, wozu auch im Rahmen des Vertrags übertragene Vermögenswerte zählen. Diesen Satz kann das Unternehmen bestimmen, indem es den Satz ermittelt, zu dem der Nominalbetrag der zugesagten Gegenleistung auf den Preis abgezinst wird, den der Kunde bei (oder unmittelbar nach) der Übertragung der Güter oder Dienstleistungen auf ihn bar zahlen würde. Nach Vertragsabschluss darf ein Unternehmen den Abzinsungssatz nicht um Zinssatzänderungen oder andere Umstände (wie eine Änderung der Beurteilung der Ausfallrisikoeigenschaften des Kunden) anpassen.
+
+65 In der Gesamtergebnisrechnung hat ein Unternehmen die Auswirkungen einer Finanzierung (Zinserträge oder -aufwendungen) getrennt von den Erlösen aus Verträgen mit Kunden darzustellen. Zinserträge oder -aufwendungen werden nur erfasst, wenn bei der Bilanzierung eines Vertrags mit einem Kunden ein Vertragsvermögenswert (oder eine Forderung) oder eine Vertragsverbindlichkeit erfasst wird.
+
+Nicht zahlungswirksame Gegenleistungen
+
+66 Um bei Verträgen, bei denen ein Kunde eine nicht zahlungswirksame Gegenleistung zusagt, den Transaktionspreis zu bestimmen, hat ein Unternehmen die nicht zahlungswirksamen Gegenleistungen (oder die Zusage nicht zahlungswirksamer Gegenleistungen) zum beizulegenden Zeitwert zu bewerten.
+
+67 Kann ein Unternehmen den beizulegenden Zeitwert der nicht zahlungswirksamen Gegenleistung nicht angemessen schätzen, so hat es die Gegenleistung indirekt anhand des Einzelverkaufspreises der im Austausch für die Gegenleistung dem Kunden (oder der Kundenkategorie) zugesagten Güter oder Dienstleistungen zu bemessen.
+
+68 Bei bestimmten Arten von Gegenleistungen kann der beizulegende Zeitwert der nicht zahlungswirksamen Gegenleistung Schwankungen unterliegen (so kann sich beispielsweise der Preis eines Anteils, den ein Kunde einem Unternehmen liefern muss, ändern). Ist eine Schwankung des beizulegenden Zeitwerts der von einem Kunden zugesagten nicht zahlungswirksamen Gegenleistung nicht durch die Art der Gegenleistung bedingt (auch die Unternehmensleistung könnte die Ursache sein), hat das Unternehmen die Anforderungen der Paragraphen 56–58 einzuhalten.
+
+69 Bringt ein Kunde Güter oder Dienstleistungen (wie Material, Ausrüstung oder Arbeitskräfte) ein, um einem Unternehmen die Vertragserfüllung zu erleichtern, hat das Unternehmen zu beurteilen, ob es die Verfügungsgewalt über die eingebrachten Güter oder Dienstleistungen erhält. Ist dies der Fall, hat das Unternehmen die eingebrachten Güter oder Dienstleistungen als nicht zahlungswirksame Gegenleistung des Kunden zu bilanzieren.
+
+An einen Kunden zu zahlende Gegenleistungen
+
+70 An einen Kunden zu zahlende Gegenleistungen umfassen Barbeträge, die ein Unternehmen an einen Kunden (oder an andere Parteien, die die Güter oder Dienstleistungen des Unternehmens über den Kunden beziehen) zahlt oder voraussichtlich zahlen wird. An einen Kunden zu zahlende Gegenleistungen umfassen darüber hinaus auch Gutschriften oder andere Posten (zum Beispiel Gutscheine), die mit Beträgen verrechnet werden können, die dem Unternehmen (oder anderen Parteien, die die Güter oder Dienstleistungen des Unternehmens über den Kunden beziehen) zustehen. An einen Kunden zu zahlende Gegenleistungen hat das Unternehmen als eine Verringerung des Transaktionspreises und damit auch der Erlöse zu erfassen, es sei denn, die Zahlung an den Kunden erfolgt im Austausch für ein vom Kunden auf das Unternehmen übertragenes, eigenständig abgrenzbares Gut oder eine vom Kunden auf das Unternehmen übertragene, eigenständig abgrenzbare Dienstleistung (siehe die Paragraphen 26–30). Schließt die an den Kunden zu zahlende Gegenleistung einen variablen Betrag ein, hat das Unternehmen den Transaktionspreis gemäß den Paragraphen 50–58 zu schätzen (und dabei zu beurteilen, ob die Schätzung der variablen Gegenleistung Einschränkungen unterliegt).
+
+71 Handelt es sich bei der an einen Kunden zu zahlenden Gegenleistung um die Bezahlung eines vom Kunden gelieferten, eigenständig abgrenzbaren Guts oder einer vom Kunden erbrachten, eigenständig abgrenzbaren Dienstleistung, hat das Unternehmen den Kauf des Guts oder der Dienstleistung auf die gleiche Weise zu bilanzieren wie Käufe von seinen Zulieferern. Übersteigt die an den Kunden zu zahlende Gegenleistung den beizulegenden Zeitwert des vom Kunden erhaltenen, eigenständig abgrenzbaren Guts oder der vom Kunden erhaltenen, eigenständig abgrenzbaren Dienstleistung, hat das Unternehmen diese Differenz als Verringerung des Transaktionspreises zu bilanzieren. Kann das Unternehmen den beizulegenden Zeitwert des vom Kunden erhaltenen Guts oder der vom Kunden erbrachten Dienstleistung nicht angemessen schätzen, hat es die gesamte an den Kunden zu zahlende Gegenleistung als Verringerung des Transaktionspreises zu bilanzieren.
+
+72 Wird die an einen Kunden zu zahlende Gegenleistung als Verringerung des Transaktionspreises bilanziert, hat das Unternehmen folglich die Verringerung der Erlöse zu erfassen, wenn (oder sobald) das spätere der beiden folgenden Ereignisse eintritt:
+a) 
+
+das Unternehmen erfasst die Erlöse in Verbindung mit der Übertragung der entsprechenden Güter oder Dienstleistungen auf den Kunden und
+b) 
+
+das Unternehmen zahlt die Gegenleistung oder sagt deren Zahlung zu (selbst wenn diese von einem künftigen Ereignis abhängt). Diese Zusage kann durch die Geschäftsgepflogenheiten des Unternehmens impliziert sein.
+
+Aufteilung des Transaktionspreises auf die Leistungsverpflichtungen
+
+73   Bei der Aufteilung des Transaktionspreises besteht das Ziel für das Unternehmen darin, den Transaktionspreis in einer Höhe auf die einzelnen Leistungsverpflichtungen (oder die einzelnen eigenständig abgrenzbaren Güter oder Dienstleistungen) aufzuteilen, die der Gegenleistung entspricht, die ein Unternehmen im Austausch für die Übertragung der zugesagten Güter oder Dienstleistungen auf einen Kunden voraussichtlich erhalten wird.
+
+74 Um dieses Ziel zu erreichen, hat das Unternehmen den Transaktionspreis auf Basis der relativen Einzelverkaufspreise im Sinne der Paragraphen 76–80 auf die einzelnen im Vertrag identifizierten Leistungsverpflichtungen aufzuteilen. Davon ausgenommen sind Preisnachlässe (Paragraphen 81–83) und Gegenleistungen mit variablen Beträgen (Paragraphen 84–86).
+
+75 Bei Verträgen mit nur einer Leistungsverpflichtung finden die Paragraphen 76–86 keine Anwendung. Die Paragraphen 84–86 können jedoch anwendbar sein, wenn ein Unternehmen zusagt, eine Reihe eigenständig abgrenzbarer, gemäß Paragraph 22(b) als eine einzige Leistungsverpflichtung identifizierte Güter oder Dienstleistungen zu übertragen, und die zugesagte Gegenleistung variable Beträge enthält.
+
+Aufteilung auf Basis der Einzelverkaufspreise
+
+76 Um den Transaktionspreis auf Basis der relativen Einzelverkaufspreise auf die einzelnen Leistungsverpflichtungen aufzuteilen, hat das Unternehmen bei Vertragsabschluss den Einzelverkaufspreis des oder der jeder Leistungsverpflichtung des Vertrags zugrunde liegenden eigenständig abgrenzbaren Guts bzw. Dienstleistung zu bestimmen und den Transaktionspreis proportional zu diesen Einzelverkaufspreisen aufzuteilen.
+
+77 Der Einzelverkaufspreis ist der Preis, zu dem ein Unternehmen einem Kunden ein zugesagtes Gut oder eine zugesagte Dienstleistung separat verkaufen würde. Der beste Anhaltspunkt für einen Einzelverkaufspreis ist der beobachtbare Preis, zu dem das Unternehmen das betreffende Gut oder die betreffende Dienstleistung separat unter ähnlichen Umständen an ähnliche Kunden verkauft. Ein vertraglich festgelegter Preis oder ein Listenpreis eines Guts oder einer Dienstleistung kann der Einzelverkaufspreis dieses Guts oder dieser Dienstleistung sein (sollte aber nicht automatisch als solcher angesehen werden).
+
+78 Ist der Einzelverkaufspreis nicht direkt beobachtbar, hat das Unternehmen ihn auf den Betrag zu schätzen, der sich ergibt, wenn der Transaktionspreis entsprechend dem in Paragraph 73 genannten Ziel der Aufteilung aufgeteilt wird. Bei der Schätzung des Einzelverkaufspreises hat das Unternehmen alle ihm ohne unangemessenen Aufwand zur Verfügung stehenden Informationen (einschließlich Marktbedingungen, unternehmensspezifischer Faktoren oder Informationen zum Kunden oder zur Kundenkategorie) zu berücksichtigen. Dabei muss das Unternehmen auf möglichst viele beobachtbare Eingangsparameter zurückgreifen und die gewählten Schätzmethoden unter vergleichbaren Umständen einheitlich anwenden.
+
+79 Geeignete Methoden zur Schätzung des Einzelverkaufspreises eines Guts oder einer Dienstleistung sind unter anderem folgende:
+a) 
+
+Adjusted-market-assessment-Ansatz: Das Unternehmen analysiert den Markt, auf dem es seine Güter und Dienstleistungen vertreibt, und schätzt, welchen Preis ein Kunde auf diesem Markt für diese Güter oder Dienstleistungen zu zahlen bereit ist. Bei diesem Ansatz kann das Unternehmen auch die Preise heranziehen, die Konkurrenten für ähnliche Güter oder Dienstleistungen verlangen, und diese gegebenenfalls anhand der eigenen Kosten und Margen anpassen.
+b) 
+
+Expected-cost-plus-a-margin-Ansatz: Das Unternehmen schätzt die voraussichtlichen Kosten für die Erfüllung einer Leistungsverpflichtung und schlägt dann für das betreffende Gut oder die betreffende Dienstleistung eine angemessene Marge auf.
+c) 
+
+Residualwertansatz: Das Unternehmen schätzt den Einzelverkaufspreis auf der Grundlage des gesamten Transaktionspreises abzüglich der Summe der beobachtbaren Einzelverkaufspreise anderer in dem Vertrag zugesagter Güter oder Dienstleistungen. Der Residualwertansatz darf jedoch nur dann zur Schätzung des Einzelverkaufspreises eines Guts oder einer Dienstleistung gemäß Paragraph 78 verwendet werden, wenn eines der folgenden Kriterien erfüllt ist:
+i) 
+
+das Unternehmen verkauft das gleiche Gut oder die gleiche Dienstleistung (gleichzeitig oder in geringen Zeitabständen) zu sehr unterschiedlichen Preisen an verschiedene Kunden (d. h., der Verkaufspreis schwankt in hohem Maße, da sich aus vergangenen Transaktionen oder anderen beobachtbaren Anhaltspunkten kein repräsentativer Einzelverkaufspreis ableiten lässt) oder
+ii) 
+
+das Unternehmen hat für dieses Gut oder diese Dienstleistung noch keinen Preis bestimmt und das Gut oder die Dienstleistung wurde in der Vergangenheit noch nicht separat verkauft (d. h., der Verkaufspreis ist unsicher).
+
+80 Ist der Einzelverkaufspreis von mindestens zwei dieser Güter oder Dienstleistungen sehr schwankend oder unsicher, müssen diese Ansätze zur Schätzung des Einzelverkaufspreises der vertraglich zugesagten Güter oder Dienstleistungen möglicherweise kombiniert werden. So kann ein Unternehmen beispielsweise bei zugesagten Gütern oder Dienstleistungen mit stark schwankenden oder unsicheren Einzelverkaufspreisen zur Schätzung des aggregierten Einzelverkaufspreises nach dem Residualwertansatz verfahren und dann zur Schätzung des Einzelverkaufspreises des jeweiligen Guts oder der jeweiligen Dienstleistung unter Zugrundelegung des nach dem Residualwertansatz bestimmten aggregierten Einzelverkaufspreises auf eine andere Methode zurückgreifen. Wenn ein Unternehmen zur Schätzung des Einzelverkaufspreises jedes einzelnen vertraglich zugesagten Guts oder jeder einzelnen vertraglich zugesagten Dienstleistung verschiedene Methoden kombiniert, so hat es zu beurteilen, ob die Aufteilung des Transaktionspreises auf diese geschätzten Einzelverkaufspreise mit dem in Paragraph 73 genannten Ziel der Aufteilung und den in Paragraph 78 genannten Anforderungen an die Schätzung von Einzelverkaufspreisen in Einklang steht.
+
+Zuordnung von Preisnachlässen
+
+81 Ein Preisnachlass für den Erwerb eines Bündels von Gütern oder Dienstleistungen liegt dann vor, wenn die Summe der Einzelverkaufspreise dieser vertraglich zugesagten Güter oder Dienstleistungen die vertraglich zugesagte Gegenleistung übersteigt. Ein Unternehmen hat einen Preisnachlass anteilig auf alle Leistungsverpflichtungen innerhalb eines Vertrags aufzuteilen, es sei denn, es liegen nach Paragraph 82 beobachtbare Anhaltspunkte dafür vor, dass sich der Preisnachlass lediglich auf eine oder mehrere einzelne Leistungsverpflichtungen dieses Vertrags bezieht. Die anteilige Aufteilung des Preisnachlasses richtet sich nach der Aufteilung des Transaktionspreises auf die einzelnen Leistungsverpflichtungen, die das Unternehmen auf Basis der relativen Einzelverkaufspreise der zugrunde liegenden Güter oder Dienstleistungen vorgenommen hat.
+
+82 Ein Preisnachlass ist vollständig einer oder mehreren Leistungsverpflichtungen des Vertrags zuzuordnen, wenn alle folgenden Kriterien erfüllt sind:
+a) 
+
+das Unternehmen veräußert jedes vertraglich vereinbarte eigenständig abgrenzbare Gut oder jede vertraglich vereinbarte eigenständig abgrenzbare Dienstleistung (bzw. jedes Bündel abgrenzbarer Güter oder Dienstleistungen) regelmäßig separat,
+b) 
+
+das Unternehmen veräußert darüber hinaus ein (oder mehrere) Bündel aus einigen dieser eigenständig abgrenzbaren Güter oder Dienstleistungen separat und gewährt dabei einen Preisnachlass auf die Einzelverkaufspreise der Güter oder Dienstleistungen jedes Bündels und
+c) 
+
+der Preisnachlass, der jedem der unter Buchstabe b beschriebenen Bündel aus Gütern oder Dienstleistungen zuzuordnen ist, entspricht im Wesentlichen dem vertraglich vereinbarten Preisnachlass, und eine Analyse der Güter oder Dienstleistungen in jedem Bündel liefert beobachtbare Anhaltspunkte für die Leistungsverpflichtung (oder Leistungsverpflichtungen), der (denen) der gesamte vertragliche Preisnachlass zuzuordnen ist.
+
+83 Wird ein Preisnachlass gemäß Paragraph 82 vollständig einer oder mehreren Leistungsverpflichtungen des Vertrags zugeordnet, hat das Unternehmen die Zuordnung vorzunehmen, bevor es den Einzelverkaufspreis eines Guts oder einer Dienstleistung gemäß Paragraph 79(c) nach dem Residualwertansatz schätzt.
+
+Zuordnung variabler Gegenleistungen
+
+84 Eine vertraglich zugesagte variable Gegenleistung kann dem gesamten Vertrag zuzuordnen sein oder einem bestimmten Vertragsbestandteil, beispielsweise
+a) 
+
+einer oder mehreren, aber nicht allen Leistungsverpflichtungen des Vertrags (so kann eine Prämie beispielsweise davon abhängig sein, ob das Unternehmen ein zugesagtes Gut oder eine zugesagte Dienstleistung innerhalb eines bestimmten Zeitraums überträgt) oder
+b) 
+
+einer oder mehreren, aber nicht allen eigenständig abgrenzbaren Gütern oder Dienstleistungen, die aus einer Reihe eigenständig abgrenzbarer Güter oder Dienstleistungen zugesagt wurden, die gemäß Paragraph 22(b) Teil einer einzigen Leistungsverpflichtung sind (beispielsweise bei einem zweijährigen Reinigungsdienstleistungsvertrag, bei dem sich die zugesagte Gegenleistung im zweiten Jahr in Abhängigkeit von einem bestimmten Inflationsindex erhöht).
+
+85 Das Unternehmen hat einen variablen Betrag (sowie etwaige spätere Änderungen dieses Betrags) vollständig einer Leistungsverpflichtung oder einem eigenständig abgrenzbaren Gut oder einer eigenständig abgrenzbaren Dienstleistung, das oder die gemäß Paragraph 22(b) Teil einer einzigen Leistungsverpflichtung ist, zuzuordnen, wenn die beiden folgenden Kriterien erfüllt sind:
+a) 
+
+die Konditionen der variablen Zahlung sind auf die Bemühungen des Unternehmens um Erfüllung der Leistungsverpflichtung oder Übertragung des eigenständig abgrenzbaren Guts oder der eigenständig abgrenzbaren Dienstleistung (oder auf eine spezifische Folge dieser Erfüllung oder Übertragung) abgestimmt und
+b) 
+
+in Anbetracht sämtlicher vertraglicher Leistungsverpflichtungen und Zahlungsbedingungen steht die vollständige Zuordnung des variablen Teils der Gegenleistung zu der Leistungsverpflichtung oder zu dem eigenständig abgrenzbaren Gut oder der eigenständig abgrenzbaren Dienstleistung mit dem in Paragraph 73 genannten Ziel der Aufteilung in Einklang.
+
+86 Der verbleibende Teil des Transaktionspreises, der die in Paragraph 85 genannten Kriterien nicht erfüllt, ist nach den Paragraphen 73–83 aufzuteilen.
+
+Änderungen des Transaktionspreises
+
+87 Nach Vertragsabschluss kann sich der Transaktionspreis aus unterschiedlichen Gründen ändern, beispielsweise durch das Eintreten unsicherer Ereignisse oder anderweitig geänderter Umstände, durch die sich die Höhe der Gegenleistung, die ein Unternehmen im Austausch für die zugesagten Güter oder Dienstleistungen voraussichtlich erhalten wird, ändert.
+
+88 Alle etwaigen späteren Änderungen des Transaktionspreises sind den vertraglichen Leistungsverpflichtungen auf der gleichen Basis zuzuordnen wie bei Vertragsabschluss. Wenn sich die Einzelverkaufspreise nach Vertragsabschluss ändern, darf das Unternehmen den Transaktionspreis nicht neu zuordnen. Die einer erfüllten Leistungsverpflichtung zugeordneten Beträge sind in der Periode, in der sich der Transaktionspreis ändert, als Erlös bzw. Erlösminderung zu erfassen.
+
+89 Eine Änderung des Transaktionspreises darf nur dann vollständig einer oder mehreren, aber nicht allen Leistungsverpflichtungen oder eigenständig abgrenzbaren Gütern oder Dienstleistungen, die gemäß Paragraph 22(b) Teil einer einzigen Leistungsverpflichtung sind und im Rahmen einer Reihe eigenständig abgrenzbarer Güter oder Dienstleistungen zugesagt wurden, zugeordnet werden, wenn die in Paragraph 85 genannten Kriterien für die Zuordnung variabler Gegenleistungen erfüllt sind.
+
+90 Eine aus einer Vertragsänderung resultierende Änderung des Transaktionspreises ist nach den Paragraphen 18–21 zu bilanzieren. Kommt es nach einer Vertragsänderung zu einer Änderung des Transaktionspreises, hat das Unternehmen jedoch nach den Paragraphen 87–89 zu verfahren, wenn es diese Änderung den Umständen entsprechend auf eine der folgenden Weisen zuordnet:
+a) 
+
+Das Unternehmen hat die Änderung des Transaktionspreises den vor der Vertragsänderung identifizierten Leistungsverpflichtungen zuzuordnen, wenn und soweit diese Änderung einer vor der Änderung zugesagten variablen Gegenleistung zugeordnet werden kann und die Änderung gemäß Paragraph 21(a) bilanziert wird.
+b) 
+
+In allen anderen Fällen, in denen die Änderung nicht als separater Vertrag gemäß Paragraph 20 bilanziert wurde, hat das Unternehmen die Änderung des Transaktionspreises den Leistungsverpflichtungen des geänderten Vertrags (d. h. den unmittelbar nach der Änderung unerfüllten oder teilweise unerfüllten Leistungsverpflichtungen) zuzuordnen.
+
+VERTRAGSKOSTEN
+
+Zusätzliche Kosten bei der Anbahnung eines Vertrags
+
+91   Die bei der Anbahnung eines Vertrags mit einem Kunden anfallenden zusätzlichen Kosten sind als Vermögenswert zu aktivieren, wenn das Unternehmen davon ausgeht, dass diese Kosten erstattet werden.
+
+92 Die bei der Anbahnung eines Vertrags mit einem Kunden anfallenden zusätzlichen Kosten sind Kosten, die dem Unternehmen ohne den Abschluss des Vertrags nicht entstanden wären (beispielsweise eine Verkaufsprovision).
+
+93 Bei der Vertragsanbahnung anfallende Kosten, die auch ohne Vertragsabschluss entstanden wären, sind zum Zeitpunkt ihres Entstehens als Aufwand zu erfassen, es sei denn, sie sind unabhängig davon, ob der Vertrag geschlossen wird oder nicht, ausdrücklich dem Kunden anzulasten.
+
+94 Behelfsweise kann das Unternehmen die zusätzlichen Kosten einer Vertragsanbahnung bei ihrem Entstehen als Aufwand erfassen, wenn der Abschreibungszeitraum des Vermögenswerts, den das Unternehmen anderenfalls erfasst hätte, nicht mehr als ein Jahr beträgt.
+
+Vertragserfüllungskosten
+
+95   Fallen die bei Erfüllung eines Vertrags mit einem Kunden entstehenden Kosten nicht in den Anwendungsbereich eines anderen Standards (wie IAS 2 Vorräte, IAS 16 Sachanlagen oder IAS 38 Immaterielle Vermögenswerte), darf das Unternehmen sie nur dann als Vermögenswert aktivieren, wenn sie alle nachstehend genannten Kriterien erfüllen:
+a) 
+
+die Kosten hängen unmittelbar mit einem bestehenden Vertrag oder einem erwarteten Vertrag, den das Unternehmen konkret bestimmen kann, zusammen (z. B. Kosten in Verbindung mit Leistungen, die bei Verlängerung eines bestehenden Vertrags zu erbringen sind, oder Kosten für die Entwicklung eines Vermögenswerts, der im Rahmen eines bestimmten, noch nicht gebilligten Vertrags übertragen werden soll),
+b) 
+
+die Kosten führen zur Schaffung von Ressourcen oder zur Verbesserung der Ressourcen des Unternehmens, die künftig zur (fortgesetzten) Erfüllung von Leistungsverpflichtungen genutzt werden, und
+c) 
+
+es wird eine Kostenerstattung erwartet.
+
+96 Wenn Kosten für die Erfüllung eines Vertrags mit einem Kunden in den Anwendungsbereich eines anderen Standards fallen, sind diese nach diesem anderen Standard zu bilanzieren.
+
+97 Als Kosten, die unmittelbar mit einem Vertrag (oder einem bestimmten erwarteten Vertrag) zusammenhängen, sind alle folgenden zu betrachten:
+a) 
+
+Lohneinzelkosten (wie Löhne und Gehälter von Mitarbeitern, die die zugesagten Dienstleistungen direkt für den Kunden erbringen),
+b) 
+
+Materialeinzelkosten (z. B. Vorräte, die zur Erbringung der zugesagten Dienstleistungen für einen Kunden verwendet werden),
+c) 
+
+zugerechnete Gemeinkosten, die unmittelbar mit dem Vertrag oder den vertraglichen Tätigkeiten zusammenhängen (wie Kosten für die Organisation und Überwachung der Vertragserfüllung, Versicherungskosten sowie die planmäßige Abschreibung von Werkzeugen, Gegenständen der Betriebs- und Geschäftsausstattung und Nutzungsrechten, die im Rahmen der Vertragserfüllung verwendet werden),
+d) 
+
+Kosten, für die der Vertrag ausdrücklich vorsieht, dass sie dem Kunden anzulasten sind, und
+e) 
+
+sonstige Kosten, die nur angefallen sind, weil das Unternehmen den Vertrag geschlossen hat (wie Zahlungen an Unterauftragnehmer).
+
+98 Folgende Kosten sind zum Zeitpunkt ihres Entstehens als Aufwand zu erfassen:
+a) 
+
+Betriebs- und Verwaltungskosten (ausgenommen Kosten, für die der Vertrag ausdrücklich vorsieht, dass sie dem Kunden anzulasten sind; in diesem Fall sind die Kosten anhand von Paragraph 97 zu bewerten),
+b) 
+
+Kosten für Materialabfälle, Löhne oder andere zur Vertragserfüllung eingesetzte Ressourcen, die nicht im vertraglich vereinbarten Preis berücksichtigt wurden,
+c) 
+
+Kosten im Zusammenhang mit bereits erfüllten (oder teilweise erfüllten) Leistungsverpflichtungen aus dem Vertrag (d. h. Kosten, die sich auf in der Vergangenheit erbrachte Leistungen beziehen) und
+d) 
+
+Kosten, bei denen das Unternehmen nicht unterscheiden kann, ob sie sich auf noch nicht erfüllte oder bereits erfüllte (oder teilweise erfüllte) Leistungsverpflichtungen beziehen.
+
+Planmäßige Abschreibung und Wertminderung
+
+99 Gemäß Paragraph 91 oder 95 aktivierte Kosten sind planmäßig in Abhängigkeit davon abzuschreiben, wie die Güter oder Dienstleistungen, auf die sich die Kosten beziehen, auf den Kunden übertragen werden. Aktivierte Kosten können sich auch auf Güter oder Dienstleistungen beziehen, die im Rahmen eines bestimmten erwarteten Vertrags (wie in Paragraph 95(a) beschrieben) übertragen werden sollen.
+
+100 Bei einer erheblichen Änderung des vom Unternehmen erwarteten zeitlichen Ablaufs der Übertragung der Güter oder Dienstleistungen auf den Kunden hat das Unternehmen die planmäßige Abschreibung entsprechend anzupassen. Eine solche Änderung ist gemäß IAS 8 als Änderung einer rechnungslegungsbezogenen Schätzung zu bilanzieren.
+
+101 Ein Wertminderungsaufwand ist vom Unternehmen erfolgswirksam zu erfassen, wenn der Buchwert der gemäß Paragraph 91 oder 95 aktivierten Kosten höher ist als:
+a) 
+
+der verbleibende Teil der Gegenleistung, den das Unternehmen im Austausch für die Güter oder Dienstleistungen, auf die sich die aktivierten Kosten beziehen, erwartet, abzüglich
+b) 
+
+der Kosten, die unmittelbar mit der Lieferung der Güter oder der Erbringung der Dienstleistungen zusammenhängen und nicht als Aufwand erfasst wurden (siehe Paragraph 97).
+
+102 Für die Zwecke der Anwendung des Paragraphen 101 hat das Unternehmen zur Bestimmung der Höhe der von ihm erwarteten Gegenleistung nach den Grundsätzen für die Bestimmung des Transaktionspreises zu verfahren (davon ausgenommen sind die in den Paragraphen 56–58 genannten Einschränkungen bei der Schätzung variabler Gegenleistungen) und diesen Betrag um die Auswirkungen der Ausfallrisikoeigenschaft des Kunden anzupassen.
+
+103 Bevor ein Unternehmen für gemäß Paragraph 91 oder 95 aktivierte Kosten einen Wertminderungsaufwand erfasst, hat es alle jenen Wertminderungsaufwendungen für aktivierte Kosten zu erfassen, die mit dem Vertrag zusammenhängen und nach einem anderen Standard (wie IAS 2, IAS 16 und IAS 38) erfasst werden. Nach Durchführung des in Paragraph 101 erläuterten Werthaltigkeitstests ist der daraus resultierende Buchwert der gemäß Paragraph 91 oder 95 als Vermögenswert aktivierten Kosten in den Buchwert der zahlungsmittelgenerierenden Einheit, zu der der Vermögenswert gehört, einzubeziehen, um auf diese zahlungsmittelgenerierende Einheit IAS 36 Wertminderung von Vermögenswerten anwenden zu können.
+
+104 Das Unternehmen hat eine vollständige oder teilweise Aufholung eines in früheren Perioden gemäß Paragraph 101 erfassten Wertminderungsaufwands erfolgswirksam zu erfassen, wenn die Bedingungen für die Wertminderung nicht mehr vorliegen oder sich verbessert haben. Der erhöhte Buchwert des Vermögenswerts darf nicht über den Betrag hinausgehen, der (nach Berücksichtigung der planmäßigen Abschreibung) bestimmt worden wäre, wenn in einer früheren Periode kein Wertminderungsaufwand erfasst worden wäre.
+
+DARSTELLUNG
+
+105   Hat eine der Parteien ihre vertraglichen Verpflichtungen erfüllt, so hat das Unternehmen den Vertrag in der Bilanz als Vertragsvermögenswert oder Vertragsverbindlichkeit auszuweisen, je nachdem, ob das Unternehmen seine Leistung erbracht oder der Kunde die Zahlung geleistet hat. Jeder unbedingte Anspruch auf Erhalt einer Gegenleistung ist vom Unternehmen gesondert als Forderung auszuweisen.
+
+106 Zahlt der Kunde eine Gegenleistung oder hat das Unternehmen vor Übertragung des Guts oder der Dienstleistung auf den Kunden einen unbedingten Anspruch auf eine bestimmte Gegenleistung (d. h. eine Forderung), so hat das Unternehmen den Vertrag als Vertragsverbindlichkeit auszuweisen, sobald die Zahlung geleistet oder fällig wird (je nachdem, welches von beidem früher eintritt). Eine Vertragsverbindlichkeit ist die Verpflichtung des Unternehmens, Güter oder Dienstleistungen auf den Kunden zu übertragen, für die es von diesem eine Gegenleistung erhalten hat (bzw. erwartet, weil diese bereits fällig ist).
+
+107 Kommt das Unternehmen seinen vertraglichen Verpflichtungen durch Übertragung von Gütern oder Dienstleistungen auf den Kunden nach, bevor dieser die Gegenleistung zahlt oder diese fällig ist, hat das Unternehmen den Vertrag abzüglich aller als Forderung ausgewiesenen Beträge als Vertragsvermögenswert auszuweisen. Ein Vertragsvermögenswert ist der Anspruch des Unternehmens auf Gegenleistung im Austausch für Güter oder Dienstleistungen, die es auf den Kunden übertragen hat. Ob ein Vertragsvermögenswert wertgemindert ist, ist gemäß IFRS 9 zu überprüfen. Bei einem Vertragsvermögenswert ist die Wertminderung auf die gleiche Weise zu bewerten, darzustellen und anzugeben wie bei einem in den Anwendungsbereich von IFRS 9 fallenden finanziellen Vermögenswert (siehe auch Paragraph 113(b)).
+
+108 Eine Forderung ist der unbedingte Anspruch des Unternehmens auf Gegenleistung. Ein unbedingter Anspruch auf Gegenleistung liegt vor, wenn die Fälligkeit automatisch durch Zeitablauf eintritt. So hat ein Unternehmen beispielsweise selbst dann eine Forderung zu erfassen, wenn es aktuell einen Anspruch auf Bezahlung hat, der Betrag zu einem künftigen Zeitpunkt aber rückerstattet werden muss. Forderungen sind nach IFRS 9 zu bilanzieren. Beim erstmaligen Ansatz einer Forderung aus einem Vertrag mit einem Kunden sind alle etwaigen Unterschiede zwischen der Bewertung der Forderung nach IFRS 9 und dem entsprechenden Erlös als Aufwand (z. B. als Wertminderungsaufwand) zu erfassen.
+
+109 Zwar werden in diesem Standard die Begriffe „Vertragsvermögenswert“ und „Vertragsverbindlichkeit“ verwendet, die Unternehmen aber nicht daran gehindert, diese Posten in ihrer Bilanz anders zu umschreiben. Macht ein Unternehmen von dieser Möglichkeit Gebrauch, hat es den Abschlussadressaten ausreichende Informationen vorzulegen, die diesen eine Unterscheidung zwischen Forderungen und Vertragsvermögenswerten ermöglichen.
+
+ANGABEN
+
+110   Ziel der Angabevorschriften ist es, dass die Unternehmen ausreichende Informationen vorlegen, sodass die Abschlussadressaten sich ein Bild von Art, Höhe, Zeitpunkt und Unsicherheit von Erlösen und Zahlungsströmen aus Verträgen mit Kunden machen können. Damit dieses Ziel erreicht wird, hat das Unternehmen qualitative und quantitative Angaben zu allen folgenden Punkten vorzulegen:
+a) 
+
+zu seinen Verträgen mit Kunden (siehe Paragraphen 113–122),
+b) 
+
+zu allen erheblichen Ermessensentscheidungen (einschließlich aller etwaigen Änderungen dieser Ermessensentscheidungen), die es bei der Anwendung dieses Standards auf diese Verträge getroffen hat, (siehe Paragraphen 123–126) und
+c) 
+
+zu sämtlichen gemäß Paragraph 91 oder 95 aktivierten Kosten, die im Rahmen der Vertragsanbahnung oder im Zusammenhang mit der Erfüllung eines Vertrags mit einem Kunden entstanden sind (siehe Paragraphen 127–128).
+
+111 Das Unternehmen prüft, welcher Detaillierungsgrad zur Erreichung des mit den Angabepflichten verfolgten Ziels erforderlich ist und welcher Stellenwert den einzelnen Anforderungen beizumessen ist. Die Angaben sind in aggregierter Form oder aufgeschlüsselt vorzulegen, damit nützliche Angaben weder durch Einbeziehung eines großen Teils unbedeutender Einzelheiten noch durch Aggregierung von Bestandteilen mit unterschiedlichen Merkmalen verschleiert werden.
+
+112 Das Unternehmen muss keine Informationen gemäß diesem Standard vorlegen, wenn es diese bereits im Rahmen eines anderen Standards bereitgestellt hat.
+
+Verträge mit Kunden
+
+113 Das Unternehmen hat für die Berichtsperiode alle folgenden Beträge anzugeben, es sei denn, diese werden gemäß anderer Standards gesondert in der Gesamtergebnisrechnung ausgewiesen:
+a) 
+
+erfasste Erlöse aus Verträgen mit Kunden, die das Unternehmen getrennt von seinen sonstigen Erlösquellen angeben muss, und
+b) 
+
+alle (gemäß IFRS 9) erfassten Wertminderungsaufwendungen auf alle Forderungen oder Vertragsvermögenswerte aus den Verträgen mit Kunden, die das Unternehmen getrennt von den Wertminderungsaufwendungen aus anderen Verträgen ausweisen muss.
+
+Aufschlüsselung von Erlösen
+
+114 Erfasste Erlöse aus Verträgen mit Kunden sind vom Unternehmen in Kategorien aufzuschlüsseln, die den Einfluss wirtschaftlicher Faktoren auf Art, Höhe, Zeitpunkt und Unsicherheit der Erlöse und Zahlungsströme widerspiegeln. Bei der Festlegung der Kategorien zur Aufschlüsselung der Erlöse hat das Unternehmen die in den Paragraphen B87–B89 enthaltenen Leitlinien anzuwenden.
+
+115 Ferner hat das Unternehmen den Abschlussadressaten ausreichende Informationen im Hinblick darauf zur Verfügung zu stellen, in welcher Beziehung die (gemäß Paragraph 114) aufgeschlüsselten Erlösangaben zu den Erlösangaben stehen, die das Unternehmen, wenn es IFRS 8 Geschäftssegmente anwendet, für jedes berichtspflichtige Segment bereitstellt.
+
+Vertragssalden
+
+116 Das Unternehmen hat alle folgenden Angaben zu machen:
+a) 
+
+Eröffnungs- und Schlusssalden von Forderungen, Vertragsvermögenswerten und Vertragsverbindlichkeiten aus Verträgen mit Kunden, sofern diese nicht anderweitig separat ausgewiesen werden,
+b) 
+
+in der Berichtsperiode erfasste Erlöse, die zu Beginn der Periode im Saldo der Vertragsverbindlichkeiten enthalten waren, und
+c) 
+
+in der Berichtsperiode erfasste Erlöse aus Leistungsverpflichtungen, die in früheren Perioden erfüllt (oder teilweise erfüllt) worden sind (wie Änderungen des Transaktionspreises).
+
+117 Das Unternehmen hat darzulegen, wie sich der Zeitpunkt der Erfüllung seiner Leistungsverpflichtungen (siehe Paragraph 119(a)) zum üblichen Zahlungszeitraum (siehe Paragraph 119(b)) verhält und wie diese Faktoren sich auf die Salden von Vertragsvermögenswerten und -verbindlichkeiten auswirken. Dabei kann das Unternehmen qualitative Daten heranziehen.
+
+118 Erhebliche Änderungen bei den Salden von Vertragsvermögenswerten und Vertragsverbindlichkeiten in der Berichtsperiode sind vom Unternehmen zu erläutern. Diese Erläuterung muss qualitative und quantitative Angaben umfassen. Beispiele für Änderungen der Salden von Vertragsvermögenswerten und Vertragsverbindlichkeiten eines Unternehmens sind:
+a) 
+
+durch Unternehmenszusammenschlüsse bedingte Änderungen,
+b) 
+
+kumulative Anpassungen der Erlöse, die sich auf den entsprechenden Vertragsvermögenswert oder die entsprechende Vertragsverbindlichkeit auswirken, einschließlich Anpassungen, die sich aus einer Änderung der Bestimmung des Leistungsfortschritts, einer Änderung der Schätzung des Transaktionspreises (sowie etwaiger Änderungen bei der Beurteilung, ob eine Schätzung der variablen Gegenleistung Einschränkungen unterliegt) oder einer Vertragsänderung ergeben,
+c) 
+
+Wertminderung eines Vertragsvermögenswerts,
+d) 
+
+Änderung des Zeitrahmens, bis ein Anspruch auf Erhalt einer Gegenleistung unbedingt wird (d. h., bis ein Vertragsvermögenswert in die Forderungen umgegliedert wird), und
+e) 
+
+Änderung des Zeitrahmens, bis eine Leistungsverpflichtung erfüllt wird (d. h., bis Erlöse aus einer Vertragsverbindlichkeit erfasst werden).
+
+Leistungsverpflichtungen
+
+119 Das Unternehmen hat Angaben über seine Leistungsverpflichtungen aus Verträgen mit Kunden zur Verfügung zu stellen, wozu auch alle folgenden Beschreibungen zählen:
+a) 
+
+der Zeitpunkt, zu dem das Unternehmen seine Leistungsverpflichtungen normalerweise erfüllt (z. B. bei Versand, bei Lieferung, bei Erbringung der Dienstleistungen oder bei Abschluss der Dienstleistungen), einschließlich des Zeitpunkts, zu dem das Unternehmen seine Leistungsverpflichtungen im Rahmen einer Bill-and-hold-Vereinbarung erfüllt,
+b) 
+
+die wesentlichen Zahlungsbedingungen (z. B., wann die Zahlung normalerweise fällig ist, ob der Vertrag eine erhebliche Finanzierungskomponente enthält, ob die Höhe der Gegenleistung variabel ist und ob die Schätzung der variablen Gegenleistung normalerweise Einschränkungen gemäß den Paragraphen 56–58 unterliegt),
+c) 
+
+die Art der Güter oder Dienstleistungen, deren Übertragung das Unternehmen zugesagt hat, wobei auf Leistungsverpflichtungen, bei denen ein Dritter mit der Übertragung der Güter oder Dienstleistungen beauftragt wird (d. h., wenn das Unternehmen als Agent handelt), gesondert hinzuweisen ist,
+d) 
+
+Rücknahme-, Rückerstattungs- und ähnliche Verpflichtungen und
+e) 
+
+Arten von Garantien und damit verbundene Verpflichtungen.
+
+Den verbleibenden Leistungsverpflichtungen zugeordneter Transaktionspreis
+
+120 Das Unternehmen hat zu seinen verbleibenden Leistungsverpflichtungen Folgendes anzugeben:
+a) 
+
+die Gesamthöhe des Transaktionspreises, der den zum Ende der Berichtsperiode nicht (oder teilweise nicht) erfüllten Leistungsverpflichtungen zugeordnet wird, und
+b) 
+
+eine Erläuterung, wann das Unternehmen mit der Erfassung des gemäß Buchstabe a angegebenen Betrags als Erlös rechnet, wobei die Erläuterung in einer der folgenden Formen zu erfolgen hat:
+i) 
+
+auf quantitativer Basis unter Verwendung der Zeitbänder, die für die Laufzeit der verbleibenden Leistungsverpflichtungen am besten geeignet sind, oder
+ii) 
+
+durch Verwendung qualitativer Informationen.
+
+121 Behelfsweise kann das Unternehmen bei einer Leistungsverpflichtung von den in Paragraph 120 geforderten Angaben absehen, wenn eine der folgenden Bedingungen erfüllt ist:
+a) 
+
+die Leistungsverpflichtung ist Teil eines Vertrags mit einer erwarteten ursprünglichen Laufzeit von maximal einem Jahr oder
+b) 
+
+das Unternehmen erfasst die Erlöse aus der erfüllten Leistungsverpflichtung gemäß Paragraph B16.
+
+122 Das Unternehmen hat qualitativ darzulegen, ob es von dem praktischen Behelf nach Paragraph 121 Gebrauch macht und eine etwaige Gegenleistung aus Verträgen mit Kunden nicht im Transaktionspreis und somit auch nicht in den nach Paragraph 120 vorgelegten Angaben enthalten ist. So enthält eine Schätzung des Transaktionspreises beispielsweise keine geschätzten Beträge variabler Gegenleistungen, die Einschränkungen unterliegen (siehe Paragraphen 56–58).
+
+Erhebliche Ermessensentscheidungen bei der Anwendung dieses Standards
+
+123 Das Unternehmen hat die bei der Anwendung dieses Standards getroffenen und geänderten Ermessensentscheidungen anzugeben, die die Bestimmung von Höhe und Zeitpunkt der Erlöse aus Verträgen mit Kunden erheblich beeinflussen. Darzulegen sind insbesondere die Ermessensentscheidungen samt etwaiger Änderungen, die getroffen wurden, um
+a) 
+
+den Zeitpunkt der Erfüllung der Leistungsverpflichtungen zu bestimmen (siehe Paragraphen 124–125) und
+b) 
+
+den Transaktionspreis sowie die Beträge, die den Leistungsverpflichtungen zugeordnet werden, zu bestimmen (siehe Paragraph 126).
+
+Bestimmung des Zeitpunkts der Erfüllung der Leistungsverpflichtungen
+
+124 Bei Leistungsverpflichtungen, die das Unternehmen über einen bestimmten Zeitraum erfüllt, ist Folgendes anzugeben:
+a) 
+
+nach welchen Methoden Erlöse erfasst werden (beispielsweise eine Beschreibung der verwendeten output- oder inputbasierten Methoden samt der Art und Weise ihrer Anwendung) und
+b) 
+
+inwiefern die verwendeten Methoden ein getreues Bild der Übertragung der Güter oder Dienstleistungen vermitteln.
+
+125 Bei Leistungsverpflichtungen, die zu einem bestimmten Zeitpunkt erfüllt werden, hat das Unternehmen anzugeben, welche erheblichen Ermessensentscheidungen es bei der Beurteilung des Zeitpunkts, zu dem der Kunde die Verfügungsgewalt über das Gut oder die Dienstleistung erlangt, getroffen hat.
+
+Bestimmung des Transaktionspreises und der Beträge, die den Leistungsverpflichtungen zugeordnet werden
+
+126 Das Unternehmen hat Angaben zu den Methoden, Eingangsparametern und Annahmen zu machen, die herangezogen werden, um
+a) 
+
+den Transaktionspreis zu bestimmen; dies umfasst u. a. die Schätzung der variablen Gegenleistung, die Anpassung der Gegenleistung um den Zeitwert des Geldes und die Bewertung nicht zahlungswirksamer Gegenleistungen,
+b) 
+
+zu beurteilen, ob eine Schätzung der variablen Gegenleistung Einschränkungen unterliegt,
+c) 
+
+den Transaktionspreis zuzuordnen; dies umfasst die Schätzung der Einzelverkaufspreise zugesagter Güter oder Dienstleistungen und gegebenenfalls die Zuordnung von Preisnachlässen und variablen Gegenleistungen zu einem spezifischen Teil des Vertrags, und
+d) 
+
+Rücknahme-, Rückerstattungs- und ähnliche Verpflichtungen zu bewerten.
+
+Bei Erfüllung oder Anbahnung eines Vertrags mit einem Kunden aktivierte Kosten
+
+127 Das Unternehmen hat darzulegen,
+a) 
+
+welche Ermessensentscheidungen es getroffen hat, um die Höhe der Kosten zu bestimmen, die (gemäß Paragraph 91 oder 95) bei der Anbahnung oder Erfüllung eines Vertrags mit einem Kunden entstanden sind, und
+b) 
+
+nach welcher Methode es verfährt, um für jede Berichtsperiode den Abschreibungsbetrag zu bestimmen.
+
+128 Das Unternehmen hat alle folgenden Angaben zu machen:
+a) 
+
+die Schlusssalden der bei Anbahnung oder Erfüllung eines Vertrags mit einem Kunden (gemäß Paragraph 91 oder 95) aktivierten Kosten, aufgeschlüsselt nach den wichtigsten Vermögenswertkategorien (z. B. Kosten für die Vertragsanbahnung, Vorvertragskosten und Einrichtungskosten), und
+b) 
+
+die Höhe der Abschreibungsbeträge sowie alle etwaigen in der Berichtsperiode erfassten Wertminderungsaufwendungen.
+
+Praktische Behelfe
+
+129 Entscheidet sich ein Unternehmen zur Anwendung eines der in Paragraph 63 (Vorliegen einer erheblichen Finanzierungskomponente) oder Paragraph 94 (Zusätzliche Kosten bei der Anbahnung eines Vertrags) enthaltenen praktischen Behelfe, hat es dies anzugeben.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des Standards.
+
+Vertrag
+	
+
+Eine Vereinbarung zwischen zwei oder mehr Parteien, die durchsetzbare Rechte und Pflichten begründet.
+
+Vertragsvermögenswert
+	
+
+Der Rechtsanspruch eines Unternehmens auf eine Gegenleistung für von ihm an einen Kunden übertragene Güter oder Dienstleistungen, sofern dieser Anspruch nicht allein an den Zeitablauf geknüpft ist (beispielsweise das künftige Ergebnis des Unternehmens).
+
+Vertragsverbindlichkeit
+	
+
+Die Verpflichtung eines Unternehmens, einem Kunden Güter oder Dienstleistungen zu übertragen, für die es von diesem eine Gegenleistung empfangen (bzw. noch zu empfangen) hat.
+
+Kunde
+	
+
+Eine Partei, die mit einem Unternehmen einen Vertrag über den Erhalt von Gütern und Dienstleistungen aus der gewöhnlichen Geschäftstätigkeit des Unternehmens im Austausch für eine Gegenleistung geschlossen hat.
+
+Ertrag
+	
+
+Zunahme des wirtschaftlichen Nutzens während der Bilanzierungsperiode in Form von Zuflüssen oder Wertsteigerungen von Vermögenswerten oder einer Verringerung von Schulden, durch die sich das Eigenkapital unabhängig von Einlagen der Anteilseigner erhöht.
+
+Leistungsverpflichtung
+	
+
+Die in einem Vertrag mit einem Kunden enthaltene Zusage, auf den Kunden Folgendes zu übertragen:
+a) 
+
+ein eigenständig abgrenzbares Gut bzw. eine eigenständig abgrenzbare Dienstleistung oder ein eigenständig abgrenzbares Bündel aus Gütern oder Dienstleistungen; oder
+b) 
+
+eine Reihe eigenständig abgrenzbarer Güter oder Dienstleistungen, die im Wesentlichen gleich sind und nach dem gleichen Muster auf den Kunden übertragen werden.
+
+Erlös
+	
+
+Ertrag aus der gewöhnlichen Geschäftstätigkeit eines Unternehmens.
+
+Einzelverkaufspreis (eines Guts oder einer Dienstleistung)
+	
+
+Preis, zu dem ein Unternehmen einem Kunden ein zugesagtes Gut oder eine zugesagte Dienstleistung einzeln verkaufen würde.
+
+Transaktionspreis (im Rahmen eines Vertrags mit einem Kunden)
+	
+
+Gegenleistung, die ein Unternehmen im Austausch für die Übertragung zugesagter Güter oder Dienstleistungen auf einen Kunden voraussichtlich erhalten wird. Hiervon ausgenommen sind Beträge, die im Namen Dritter eingezogen werden.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des Standards. Er beschreibt die Anwendung der Paragraphen 1–129 und hat die gleiche bindende Kraft wie die anderen Teile des Standards.
+
+B1 Die vorliegenden Anwendungsleitlinien sind wie folgt aufgebaut:
+a) 
+
+Leistungsverpflichtungen, die über einen bestimmten Zeitraum erfüllt werden (Paragraphen B2–B13),
+b) 
+
+Methoden zur Bestimmung des Leistungsfortschritts im Hinblick auf die vollständige Erfüllung einer Leistungsverpflichtung (Paragraphen B14–B19),
+c) 
+
+Verkauf mit Rückgaberecht (Paragraphen B20–B27),
+d) 
+
+Garantien und Gewährleistungen (Paragraphen B28–B33),
+e) 
+
+Überlegungen zur Konstellation Prinzipal oder Agent (Paragraphen B34–B38),
+f) 
+
+Optionen des Kunden für den Erwerb zusätzlicher Güter oder Dienstleistungen (Paragraphen B39–B43),
+g) 
+
+nicht geltend gemachte Ansprüche des Kunden (Paragraphen B44–B47),
+h) 
+
+nicht rückerstattungsfähige, im Voraus zahlbare Entgelte (sowie einige damit zusammenhängende Kosten) (Paragraphen B48–B51),
+i) 
+
+Lizenzerteilung (Paragraphen B52–B63),
+j) 
+
+Rückkaufvereinbarungen (Paragraphen B64–B76),
+k) 
+
+Kommissionsvereinbarungen (Paragraphen B77–B78),
+l) 
+
+Bill-and-hold-Vereinbarungen (Paragraphen B79–B82),
+m) 
+
+Abnahme durch den Kunden (Paragraphen B83–B86) und
+n) 
+
+Aufschlüsselung der Erlöse (Paragraphen B87–B89).
+
+Leistungsverpflichtungen, die über einen bestimmten Zeitraum erfüllt werden
+
+B2 Nach Paragraph 35 erfüllt ein Unternehmen eine Leistungsverpflichtung über einen bestimmten Zeitraum, wenn eines der folgenden Kriterien erfüllt ist:
+a) 
+
+der Kunde erhält und nutzt die vom Unternehmen erbrachte Leistung, während diese erbracht wird (siehe Paragraphen B3 und B4),
+b) 
+
+durch die Leistung des Unternehmens wird ein Vermögenswert erstellt oder verbessert (z. B. unfertige Leistung) und der Kunde erlangt die Verfügungsgewalt über den Vermögenswert, während dieser erstellt oder verbessert wird (siehe Paragraph B5), oder
+c) 
+
+durch die Leistung des Unternehmens wird ein Vermögenswert erstellt, der keine alternativen Nutzungsmöglichkeiten für das Unternehmen aufweist (siehe Paragraphen B6–B8), und das Unternehmen hat einen Rechtsanspruch auf Bezahlung der bereits erbrachten Leistungen (siehe Paragraphen B9–B13).
+
+Dem Kunden fließt der Nutzen aus der Leistung des Unternehmens zu und er nutzt gleichzeitig die Leistung, während diese erbracht wird (Paragraph 35(a))
+
+B3 Für einige Arten von Leistungsverpflichtungen ist die Beurteilung, ob einem Kunden der Nutzen aus der Leistung eines Unternehmens zufließt und er diese Leistung gleichzeitig nutzt, während das Unternehmen die Leistung erbringt, eindeutig. Beispiele hierfür sind unter anderem routinemäßige oder wiederkehrende Dienstleistungen (z. B. Reinigungsleistungen), bei denen direkt ersichtlich ist, dass dem Kunden der Nutzen aus der Leistung des Unternehmens zufließt und er die Leistung nutzt, während sie erbracht wird.
+
+B4 Bei anderen Arten von Leistungsverpflichtungen ist es für ein Unternehmen unter Umständen nicht leicht ersichtlich, ob einem Kunden der Nutzen aus der Leistung des Unternehmens zufließt und er die Leistung gleichzeitig nutzt, während sie erbracht wird. In einem solchen Fall wird eine Leistungsverpflichtung über einen bestimmten Zeitraum erfüllt, wenn ein Unternehmen zu dem Ergebnis gelangt, dass ein anderes Unternehmen die bisherige Arbeit des Unternehmens im Wesentlichen nicht erneut erbringen müsste, wenn dieses andere Unternehmen die verbleibende Leistungsverpflichtung gegenüber dem Kunden erfüllen würde. Bei der Bestimmung, ob ein anderes Unternehmen die Arbeit, die das Unternehmen bisher erbracht hat, im Wesentlichen nicht erneut erbringen müsste, hat das Unternehmen von den beiden folgenden Annahmen auszugehen:
+a) 
+
+Vernachlässigung potenzieller vertraglicher oder praktischer Einschränkungen, die das Unternehmen daran hindern könnten, die verbliebene Leistungsverpflichtung auf ein anderes Unternehmen zu übertragen, und
+b) 
+
+Annahme, dass ein anderes Unternehmen, das die verbleibende Leistungsverpflichtung erfüllt, keinen Nutzen aus einem Vermögenswert ziehen würde, über den das Unternehmen gegenwärtig die Verfügungsgewalt hat und über den das Unternehmen weiter die Verfügungsgewalt hätte, wenn die Leistungsverpflichtung auf ein anderes Unternehmen übertragen würde.
+
+Der Kunde besitzt die Verfügungsgewalt über einen Vermögenswert, während dieser erstellt oder verbessert wird (Paragraph 35(b))
+
+B5 Um bestimmen zu können, ob ein Kunde im Sinne von Paragraph 35(b) die Verfügungsgewalt über einen Vermögenswert besitzt, während dieser erstellt oder verbessert wird, hat das Unternehmen die in den Paragraphen 31–34 und 38 enthaltenen Vorschriften zur Verfügungsgewalt zu beachten. Der Vermögenswert, der erstellt oder verbessert wird (z. B. unfertige Leistung), kann materiell oder immateriell sein.
+
+Durch die Leistung des Unternehmens wird ein Vermögenswert erstellt, der keine alternativen Nutzungsmöglichkeiten für das Unternehmen aufweist (Paragraph 35(c))
+
+B6 Bei der Beurteilung, ob ein Vermögenswert einen alternativen Nutzen für ein Unternehmen gemäß Paragraph 36 aufweist, muss das Unternehmen die Auswirkungen vertraglicher und praktischer Einschränkungen berücksichtigen, die es an der umstandslosen Bestimmung eines anderen Nutzens für diesen Vermögenswert hindern können, z. B. seine Veräußerung an einen anderen Kunden. Die Möglichkeit einer Kündigung des Vertrags mit dem Kunden ist keine relevante Überlegung bei der Beurteilung, ob das Unternehmen umstandslos einen anderen Nutzen für den Vermögenswert bestimmen kann.
+
+B7 Damit ein Vermögenswert keinen alternativen Nutzen für das Unternehmen besitzt, muss die vertragliche Einschränkung der Fähigkeit des Unternehmens, einen anderen Nutzen für diesen Vermögenswert zu bestimmen, wesentlich sein. Eine vertragliche Einschränkung ist dann wesentlich, wenn ein Kunde seine Ansprüche auf den zugesagten Vermögenswert durchsetzen kann, sollte das Unternehmen versuchen, einen anderen Nutzen für den Vermögenswert zu bestimmen. Eine vertragliche Einschränkung ist hingegen nicht wesentlich, wenn ein Vermögenswert beispielsweise weitgehend mit anderen Vermögenswerten austauschbar ist, die das Unternehmen an einen anderen Kunden übertragen kann, ohne damit den Vertrag zu brechen und ohne dass dadurch Kosten in beträchtlicher Höhe entstehen, die in Verbindung mit diesem Vertrag sonst nicht entstanden wären.
+
+B8 Eine praktische Einschränkung der Fähigkeit des Unternehmens, einen anderen Nutzen für einen Vermögenswert zu bestimmen, besteht dann, wenn dem Unternehmen durch die Bestimmung eines anderen Nutzens für den Vermögenswert beträchtliche wirtschaftliche Verluste entstünden. Ein beträchtlicher wirtschaftlicher Verlust entsteht beispielsweise, wenn das Unternehmen entweder beträchtliche Kosten für die Überarbeitung des Vermögenswerts aufwenden muss oder den Vermögenswert nur mit einem beträchtlichen Verlust verkaufen kann. So gibt es für ein Unternehmen praktische Einschränkungen, einen anderen Nutzen für Vermögenswerte zu bestimmen, wenn diese Vermögenswerte entweder speziell für einen bestimmten Kunden konzipiert wurden oder sich in abgelegenen Gegenden befinden.
+
+Anspruch auf Bezahlung der bereits erbrachten Leistungen (Paragraph 35(c))
+
+B9 Nach Paragraph 37 hat ein Unternehmen einen Anspruch auf Bezahlung der bereits erbrachten Leistungen, wenn es Anspruch auf einen Betrag hat, der es mindestens für seine bereits erbrachten Leistungen vergütet, falls der Kunde oder eine andere Partei den Vertrag aus anderen Gründen als der Nichterfüllung der vom Unternehmen zugesagten Leistung kündigt. Ein Betrag, der ein Unternehmen für seine bereits erbrachten Leistungen vergütet, ist eine Zahlung, die dem Verkaufspreis der bisher übertragenen Güter und Dienstleistungen annähernd entspricht (z. B. Erstattung der dem Unternehmen bei der Erfüllung seiner Leistungsverpflichtung entstandenen Kosten zzgl. einer angemessenen Gewinnmarge) und nicht nur eine Entschädigung für den dem Unternehmen potenziell entgangenen Gewinn im Falle der Vertragsbeendigung darstellt. Eine angemessene Gewinnmarge muss dabei nicht der für den Fall der planmäßigen Vertragserfüllung erwarteten Gewinnmarge entsprechen, jedoch sollte das Unternehmen Anspruch auf eine Vergütung in Höhe eines der folgenden Beträge haben:
+a) 
+
+ein Teil der erwarteten Gewinnmarge aus dem Vertrag, der angemessen den Leistungsfortschritt des Unternehmens im Rahmen des Vertrags vor seiner Kündigung durch den Kunden (oder eine andere Partei) widerspiegelt, oder
+b) 
+
+falls die vertragsspezifische Marge höher ist als die vom Unternehmen aus ähnlichen Verträgen üblicherweise generierte Rendite: eine angemessene Rendite auf die Kapitalkosten des Unternehmens für ähnliche Verträge (oder die typische operative Marge des Unternehmens für ähnliche Verträge).
+
+B10 Der Zahlungsanspruch eines Unternehmens für die bereits erbrachten Leistungen muss kein aktueller unbedingter Zahlungsanspruch sein. In vielen Fällen wird ein Unternehmen einen unbedingten Zahlungsanspruch nur bei Erreichen eines vorab vereinbarten Leistungsziels oder bei vollständiger Erfüllung der Leistungsverpflichtung haben. Bei der Beurteilung, ob es einen Anspruch auf Bezahlung für die bereits erbrachten Leistungen hat, muss das Unternehmen berücksichtigen, ob es einen Rechtsanspruch auf Einforderung oder Einbehalt einer Zahlung für die bereits erbrachten Leistungen hat, wenn der Vertrag vor vollständiger Erfüllung aus anderen Gründen als der Nichterfüllung der vom Unternehmen zugesagten Leistung gekündigt wird.
+
+B11 Bei manchen Verträgen hat ein Kunde möglicherweise nur zu bestimmten Zeitpunkten während der Vertragslaufzeit ein Recht zur Vertragskündigung oder aber gar kein Kündigungsrecht. Kündigt ein Kunde einen Vertrag, ohne zu diesem Zeitpunkt ein Kündigungsrecht zu haben (einschließlich bei Nichterfüllung seiner eigenen Vertragszusagen), so ist das Unternehmen möglicherweise gemäß Vertrag (oder gemäß Gesetz) dazu berechtigt, die im Vertrag zugesagten Güter oder Dienstleistungen weiter auf den Kunden zu übertragen und vom Kunden zu fordern, im Austausch für diese Güter oder Dienstleistungen die zugesagte Gegenleistung zu zahlen. In solchen Fällen hat das Unternehmen einen Zahlungsanspruch für die bereits erbrachten Leistungen, da es berechtigt ist, seine Verpflichtungen weiter gemäß dem Vertrag zu erfüllen und vom Kunden im Austausch die Erfüllung seiner Verpflichtungen (darunter die Zahlung der zugesagten Gegenleistung) zu fordern.
+
+B12 Bei der Beurteilung, ob es einen Rechtsanspruch auf Bezahlung der bereits erbrachten Leistungen hat, muss das Unternehmen die Vertragsbedingungen sowie diesen gegebenenfalls vorgehende oder diese ergänzende gesetzliche Vorschriften oder Präzedenzfälle berücksichtigen. Hierfür prüft das Unternehmen unter anderem,
+a) 
+
+ob es aufgrund des geltenden Rechts, aufgrund der gängigen Verwaltungspraxis oder aufgrund bestehender Präzedenzfälle Anspruch auf Bezahlung der bereits erbrachten Leistungen hat, auch wenn dies im Vertrag mit dem Kunden nicht ausdrücklich vorgesehen ist,
+b) 
+
+ob nach den relevanten Präzedenzfällen davon auszugehen ist, dass die unter vergleichbaren Verträgen entstandenen vergleichbaren Ansprüche auf Bezahlung der bereits erbrachten Leistungen keine rechtlich bindende Wirkung entfalten, oder
+c) 
+
+ob seine Geschäftsgepflogenheiten (bisheriger Verzicht, derartige Zahlungsansprüche geltend zu machen) es implizieren, dass dieser Rechtsanspruch in diesem rechtlichen Umfeld nicht durchgesetzt werden kann. Ungeachtet der Möglichkeit, dass das Unternehmen bei ähnlichen Verträgen auf seinen Zahlungsanspruch verzichtet, bleibt sein Anspruch auf Bezahlung der bereits erbrachten Leistungen bestehen, wenn der Anspruch auf Bezahlung der bereits erbrachten Leistungen im Vertrag mit dem Kunden festgelegt ist.
+
+B13 Ein in einem Vertrag festgelegter Zahlungsplan ist nicht automatisch ein Indikator für den Zahlungsanspruch des Unternehmens für die bereits erbrachte Leistung. Zwar sind in einem vertraglich vereinbarten Zahlungsplan die Zeitpunkte und die Höhe der vom Kunden zu zahlenden Gegenleistungen festgelegt, doch lässt sich daraus nicht unbedingt ein Zahlungsanspruch des Unternehmens für die bereits erbrachte Leistung ableiten. So kann der Vertrag beispielsweise vorsehen, dass die vom Kunden erhaltene Gegenleistung aus anderen Gründen als der Nichterfüllung der vom Unternehmen vertraglich zugesagten Leistungen erstattet werden muss.
+
+Methoden zur Bestimmung des Leistungsfortschritts im Hinblick auf die vollständige Erfüllung einer Leistungsverpflichtung
+
+B14 Zur Bestimmung des Leistungsfortschritts, den das Unternehmen im Sinne der Paragraphen 35–37 im Hinblick auf die vollständige Erfüllung einer Leistungsverpflichtung über einen bestimmten Zeitraum erzielt hat, können unter anderem folgende Methoden angewandt werden:
+a) 
+
+outputbasierte Methoden (siehe Paragraphen B15–B17) und
+b) 
+
+inputbasierte Methoden (siehe Paragraphen B18–B19).
+
+Outputbasierte Methoden
+
+B15 Bei outputbasierten Methoden werden die Erlöse auf Basis der direkten Ermittlung des Werts erfasst, den die bisher übertragenen Güter oder Dienstleistungen für den Kunden im Verhältnis zu den verbleibenden vertraglich zugesagten Gütern oder Dienstleistungen darstellen. Zu den outputbasierten Methoden zählen Methoden wie die Messung der bereits erbrachten Leistungen und die Ermittlung der erzielten Ergebnisse, erreichten Leistungsziele, abgelaufenen Zeit und erstellten oder gelieferten Einheiten. Bei der Beurteilung, ob das Unternehmen eine outputbasierte Methode zur Bestimmung seines Leistungsfortschritts anwenden soll, hat es zu berücksichtigen, ob der gewählte Output ein getreues Bild der bisher erbrachten Leistungen des Unternehmens im Hinblick auf die vollständige Erfüllung der Leistungsverpflichtung vermittelt. Eine outputbasierte Methode vermittelt kein getreues Bild der Leistung des Unternehmens, wenn der gewählte Output einige der Güter oder Dienstleistungen, für die die Verfügungsgewalt auf den Kunden übertragen wurde, nicht abbildet. Beispielsweise vermitteln outputbasierte Methoden, die auf erstellten oder gelieferten Einheiten basieren, kein getreues Bild des Leistungsfortschritts eines Unternehmens im Hinblick auf die Erfüllung seiner Leistungsverpflichtung, wenn durch die Leistung des Unternehmens zum Ende der Berichtsperiode unfertige Leistungen oder fertige Erzeugnisse in der Verfügungsgewalt des Kunden erstellt wurden, die im ermittelten Output nicht enthalten sind.
+
+B16 Als praktischer Behelf kann ein Unternehmen, das Anspruch auf eine Gegenleistung von einem Kunden hat, deren Höhe direkt dem Wert entspricht, den die vom Unternehmen bereits erbrachten Leistungen für den Kunden haben (z. B. ein Dienstleistungsvertrag, bei dem ein Unternehmen einen festen Betrag für jede geleistete Stunde in Rechnung stellt), Erlöse in Höhe des Betrags erfassen, den das Unternehmen in Rechnung stellen darf.
+
+B17 Der Nachteil der outputbasierten Methoden ist, dass die zur Bestimmung des Leistungsfortschritts verwendeten Outputs unter Umständen nicht unmittelbar beobachtbar sind und das Unternehmen die zu ihrer Anwendung notwendigen Informationen unter Umständen nur zu unverhältnismäßig hohen Kosten beschaffen kann. Daher kann eine inputbasierte Methode angezeigt sein.
+
+Inputbasierte Methoden
+
+B18 Bei inputbasierten Methoden werden die Erlöse auf Basis der Anstrengungen oder Inputs erfasst, die das Unternehmen zur Erfüllung einer Leistungsverpflichtung bisher aufgewandt hat (z. B. verbrauchte Ressourcen, aufgewendete Arbeitsstunden, entstandene Kosten, vergangene Zeit oder Maschinennutzung in Stunden) im Verhältnis zu den Anstrengungen oder Inputs, die insgesamt zur Erfüllung dieser Leistungsverpflichtung erwartet werden. Erfolgen die Anstrengungen oder Inputs des Unternehmens gleichmäßig über den Zeitraum der Leistungserbringung, so kann es für das Unternehmen angemessen sein, die Erlöse linear zu erfassen.
+
+B19 Ein Nachteil der inputbasierten Methoden ist, dass es unter Umständen keine direkte Beziehung zwischen den Inputs des Unternehmens und der Übertragung der Verfügungsgewalt über Güter oder Dienstleistungen auf den Kunden gibt. Daher muss das Unternehmen bei der inputbasierten Methode die Auswirkungen von Inputs ausnehmen, die Im Sinne der Bestimmung des Leistungsfortschritts nach Paragraph 39 kein getreues Bild der Leistung des Unternehmens bei der Übertragung der Verfügungsgewalt über Güter oder Dienstleistungen auf den Kunden darstellen. Beispielsweise kann bei der Verwendung einer inputbasierten Methode eine Anpassung der Bestimmung des Leistungsfortschritts erforderlich sein, wenn die Methode auf Kosten beruht und
+a) 
+
+die entstandenen Kosten nicht zum Leistungsfortschritt im Hinblick auf die Erfüllung der Leistungsverpflichtung des Unternehmens beitragen; so darf das Unternehmen keinen Erlös auf der Grundlage entstandener Kosten erfassen, die beträchtlichen Ineffizienzen bei der Leistung des Unternehmens geschuldet sind, welche im vertraglich vereinbarten Preis nicht widergespiegelt sind (z. B. Kosten für unerwartete Mengen verschwendeter Materialien, Arbeit oder anderer Ressourcen, die zur Erfüllung der Leistungsverpflichtung angefallen sind),
+b) 
+
+die entstandenen Kosten nicht zum Leistungsfortschritt im Hinblick auf die Erfüllung der Leistungsverpflichtung des Unternehmens im Verhältnis stehen; in solchen Fällen kann es erforderlich sein, die inputbasierte Methode so anzupassen, dass Erlöse nur in Höhe der bei der betreffenden Leistungserbringung entstandenen Kosten erfasst werden, um die Leistung des Unternehmens bestmöglich abzubilden; beispielsweise kann es ein getreues Bild der Leistung eines Unternehmens sein, Erlöse in einer Höhe zu erfassen, die den Kosten eines zur Erfüllung der Leistungsverpflichtung genutzten Gutes entspricht, wenn das Unternehmen bei Vertragsabschluss erwartet, dass alle folgenden Bedingungen erfüllt sind:
+i) 
+
+das Gut ist nicht eigenständig abgrenzbar,
+ii) 
+
+es wird erwartet, dass der Kunde die Verfügungsgewalt über das Gut deutlich vor Erhalt der in Verbindung mit dem Gut stehenden Dienstleistungen erlangt,
+iii) 
+
+die Kosten des übertragenen Gutes sind im Verhältnis zu den insgesamt für die vollständige Erfüllung der Leistungsverpflichtung erwarteten Kosten beträchtlich und
+iv) 
+
+das Unternehmen beschafft das Gut von einem Dritten und ist nicht in erheblichem Maße in die Konzeption und Herstellung des Gutes involviert (handelt aber gemäß den Paragraphen B34–B38 als Prinzipal).
+
+Verkauf mit Rückgaberecht
+
+B20 Bei bestimmten Verträgen überträgt das Unternehmen die Verfügungsgewalt für ein Produkt auf einen Kunden und räumt diesem gleichzeitig das Recht ein, das Produkt aus verschiedenen Gründen (beispielsweise Unzufriedenheit mit dem Produkt) gegen eine beliebige Kombination der folgenden Leistungen zurückzugeben:
+a) 
+
+vollständige oder teilweise Rückerstattung der gezahlten Gegenleistung,
+b) 
+
+Gutschrift auf dem Unternehmen bereits geschuldete oder künftig zustehende Beträge und
+c) 
+
+Umtausch gegen ein anderes Produkt.
+
+B21 Bei einer Übertragung von Produkten mit Rückgaberecht (sowie von bestimmten Dienstleistungen, die vorbehaltlich einer Rückerstattung geleistet werden) erfasst das Unternehmen alle folgenden Elemente:
+a) 
+
+Erlöse für die übertragenen Produkte in Höhe der Gegenleistung, die dem Unternehmen voraussichtlich zusteht (d. h. für die Produkte, mit deren Rückgabe gerechnet wird, werden keine Erlöse erfasst),
+b) 
+
+eine Rückerstattungsverbindlichkeit und
+c) 
+
+einen Vermögenswert (und die entsprechende Anpassung der Umsatzkosten) für sein Recht, bei Begleichung der Rückerstattungsverbindlichkeit Produkte vom Kunden wiederzuerlangen.
+
+B22 Die Zusage des Unternehmens, ein Produkt während der Rückgabefrist zurückzunehmen, wird nicht als Leistungsverpflichtung erfasst, da bereits die Verpflichtung zur Rückerstattung erfasst wird.
+
+B23 Zur Bestimmung der Höhe der Gegenleistung, die dem Unternehmen voraussichtlich zusteht, (d. h. ohne die Produkte, deren Rückgabe zu erwarten ist) hat das Unternehmen die Bestimmungen der Paragraphen 47–72 (einschließlich der Bestimmungen bezüglich Einschränkungen bei der Schätzung der variablen Gegenleistung nach den Paragraphen 56–58) anzuwenden. Für sämtliche erhaltenen (oder noch zu erhaltenden) Beträge, die dem Unternehmen voraussichtlich nicht zustehen, erfasst es die Erlöse nicht zum Zeitpunkt der Übertragung der Produkte auf den Kunden, sondern es erfasst die entsprechenden erhaltenen (oder noch zu erhaltenden) Beträge als Rückerstattungsverbindlichkeit. Am Ende jeder Berichtsperiode muss das Unternehmen die Bewertung der Beträge, die ihm voraussichtlich im Austausch für die übertragenen Produkte zustehen, anpassen und den Transaktionspreis — und damit auch den erfassten Erlös — entsprechend korrigieren.
+
+B24 Das Unternehmen passt die Bewertung der Rückerstattungsverbindlichkeit am Ende jedes Berichtszeitraums an die geänderten Erwartungen im Hinblick auf die Rückerstattungsbeträge an. Das Unternehmen erfasst die entsprechende Anpassung als Erlös (oder als Erlösminderung).
+
+B25 Ein Vermögenswert, der für das Recht des Unternehmens, bei Begleichung der Rückerstattungsverbindlichkeit Produkte vom Kunden wiederzuerlangen, erfasst wird, wird bei seinem erstmaligen Ansatz mit dem vorherigen Buchwert des Produkts (z. B. als Vorrat) abzüglich der erwarteten Kosten für seine Wiedererlangung (einschließlich potenzieller Wertminderungen der wiedererlangten Produkte) bewertet. Am Ende jeder Berichtsperiode muss das Unternehmen die Bewertung des Vermögenswerts in Anbetracht der geänderten Erwartungen im Hinblick auf die zurückzugebenden Produkte anpassen. Das Unternehmen weist den Vermögenswert gesondert von der Rückerstattungsverbindlichkeit aus.
+
+B26 Tauschvorgänge, bei denen Kunden ein Produkt gegen ein gleichartiges, qualitativ gleichwertiges Erzeugnis in gleichem Zustand tauschen, das zum gleichen Preis verkauft wird (beispielsweise bei einem Tausch gegen eine andere Farbe oder Größe), sind nicht als Rückgaben im Sinne dieses Standards anzusehen.
+
+B27 Verträge, bei denen ein Kunde ein fehlerhaftes gegen ein funktionsfähiges Produkt tauschen kann, sind gemäß den Garantie- und Gewährleistungsleitlinien der Paragraphen B28–B33 zu bewerten.
+
+Garantien und Gewährleistungen
+
+B28 In Verbindung mit dem Verkauf von Produkten (Güter oder Dienstleistungen) gewähren Unternehmen häufig auch Garantien oder Gewährleistungen (die vertraglich vereinbart, gesetzlich vorgeschrieben oder nach den Geschäftsgepflogenheiten des Unternehmens üblich sein können). Solche Garantie- bzw. Gewährleistungsverpflichtungen können je nach Branche und Vertrag von sehr verschiedener Art sein. Einige Garantie- bzw. Gewährleistungsverpflichtungen sichern dem Kunden zu, dass das betreffende Produkt den vertraglich vereinbarten Spezifikationen entspricht und deshalb so funktionieren wird, wie es von den Vertragsparteien vorgesehen wurde (assurance-type warranties). Andere Garantie- bzw. Gewährleistungsverpflichtungen bieten dem Kunden eine Leistung, die über die Zusicherung hinausgeht, dass das Produkt den vereinbarten Spezifikationen entspricht (service-type warranties).
+
+B29 Wenn der Kunde wählen kann, ob er die Gewährleistungsverpflichtung separat erwerben möchte (z. B. bei separat in Rechnung gestellten oder verhandelten Garantien), stellt diese eine eigenständig abgrenzbare Dienstleistung dar, da das Unternehmen dem Kunden diese Dienstleistung zusätzlich zur Lieferung des Produkts, das die im Vertrag vereinbarten Funktionsmerkmale besitzt, zusichert. In diesem Fall bilanziert das Unternehmen die zugesagte Gewährleistungsverpflichtung als Leistungsverpflichtung im Sinne der Paragraphen 22–30 und ordnet dieser Leistungsverpflichtung gemäß den Paragraphen 73–86 einen Teil des Transaktionspreises zu.
+
+B30 Wenn dem Kunden nicht die Möglichkeit gegeben wird, die Gewährleistungsverpflichtung separat zu erwerben, bilanziert das Unternehmen die Gewährleistungsverpflichtung gemäß IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen, es sei denn, die zugesicherte Gewährleistungsverpflichtung oder ein Teil der zugesicherten Gewährleistungsverpflichtung stellt für den Kunden eine Leistung dar, die über die Zusicherung hinausgeht, dass das Produkt den vereinbarten Spezifikationen entspricht.
+
+B31 Bei der Beurteilung, ob eine Gewährleistungs- oder Garantieverpflichtung für einen Kunden eine zusätzliche Leistung darstellt, die über die Zusicherung, dass das gelieferte Produkt den vertraglich vereinbarten Spezifikationen entspricht, hinausgeht, hat das Unternehmen unter anderem folgende Faktoren zu berücksichtigen:
+a) 
+
+ob die Gewährleistungs- bzw. Garantieverpflichtung gesetzlich vorgeschrieben ist; wenn das Unternehmen gesetzlich verpflichtet ist, seinen Kunden eine Gewährleistung/Garantie einzuräumen, deutet das Vorhandensein des entsprechenden Gesetzes darauf hin, dass es sich nicht um eine Leistungsverpflichtung handelt, da derartige Vorschriften in der Regel dazu dienen, Kunden vor dem mit dem Kauf schadhafter Produkte verbundenen Risiko zu schützen,
+b) 
+
+die Dauer der Gewährleistungs- bzw. Garantiefrist; je länger die Gewährleistungs- bzw. Garantiefrist, desto größer die Wahrscheinlichkeit, dass es sich um eine Leistungsverpflichtung handelt, da die Gewährleistungs-/Garantiezusage mit höherer Wahrscheinlichkeit eine über die Zusicherung, dass das gelieferte Produkt den vertraglich vereinbarten Spezifikationen entspricht, hinausgehende Leistung darstellt,
+c) 
+
+die Art der Leistungen, die das Unternehmen zusagt; wenn ein Unternehmen besondere Leistungen (z. B. einen Retourentransport für ein schadhaftes Produkt) erbringen muss, um zusichern zu können, dass ein Produkt die vereinbarten Spezifikationen erfüllt, ist es unwahrscheinlich, dass dadurch eine Leistungsverpflichtung begründet wird.
+
+B32 Wenn eine Gewährleistungs- oder Garantieverpflichtung oder ein Teil einer Gewährleistungs- oder Garantieverpflichtung für einen Kunden eine zusätzliche Leistung darstellt, die über die Zusicherung, dass das Produkt den vereinbarten Spezifikationen entspricht, hinausgeht, ist die zugesagte Leistung eine Leistungsverpflichtung. Daher ordnet das Unternehmen den Transaktionspreis dem Produkt und der Dienstleistung zu. Bietet das Unternehmen eine Gewährleistungs- oder Garantieverpflichtung an, die sowohl eine assurance-type warranty als auch eine service-type warranty beinhaltet, bei denen eine getrennte Bilanzierung schwierig ist, hat das Unternehmen beide zusammen als eine einzige Leistungsverpflichtung zu bilanzieren.
+
+B33 Wenn das Unternehmen laut Gesetz für Schäden, die von seinen Produkten verursacht werden, finanziell haftet, handelt es sich dabei nicht um eine Leistungsverpflichtung. Beispielsweise kann ein Hersteller seine Produkte in einem Land verkaufen, in dem der Hersteller laut Gesetz für jegliche Schäden (beispielsweise an persönlichem Eigentum) haftet, die vom Verbraucher bei bestimmungsgemäßer Nutzung des Produkts verursacht werden. Ebenso sind Zusagen eines Unternehmens, den Kunden für etwaige Schäden und Ansprüche aus Patent-, Urheber-, Marken- oder sonstigen Rechtsverletzungen seiner Produkte zu entschädigen, keine Leistungsverpflichtungen. Das Unternehmen hat derartige Verpflichtungen gemäß IAS 37 zu bilanzieren.
+
+Überlegungen zur Konstellation Prinzipal oder Agent
+
+B34 Wenn eine andere Partei an der Lieferung von Gütern oder an der Erbringung von Dienstleistungen an den Kunden beteiligt ist, hat das Unternehmen die Art seiner Zusage zu bestimmen und festzustellen, ob seine Leistungsverpflichtung darin besteht, die Güter selbst zu liefern oder die Dienstleistungen selbst zu erbringen (und es damit als Prinzipal auftritt) oder darin, diese andere Partei mit der Lieferung der Güter oder der Erbringung der Dienstleistungen zu beauftragen (und das Unternehmen damit als Agent auftritt). Das Unternehmen bestimmt für jedes dem Kunden zugesagte spezifische Gut oder jede dem Kunden zugesagte spezifische Dienstleistung, ob es in diesem Fall als Prinzipal oder Agent tätig ist. Unter einem spezifischen Gut oder einer spezifischen Dienstleistung ist ein eigenständig abgrenzbares Gut oder eine eigenständig abgrenzbare Dienstleistung (oder ein eigenständig abgrenzbares Bündel von Gütern oder Dienstleistungen) zu verstehen, das/die dem Kunden zu liefern oder für diesen zu erbringen ist (siehe Paragraphen 27–30). Sieht ein Vertrag mit einem Kunden mehr als ein spezifisches Gut oder mehr als eine spezifische Dienstleistung vor, kann das Unternehmen bei einigen spezifischen Gütern oder Dienstleistungen als Prinzipal und bei anderen spezifischen Gütern oder Dienstleistungen als Agent tätig sein.
+
+B34A Um die Art seiner Zusage zu bestimmen (siehe Paragraph B34), hat das Unternehmen
+a) 
+
+die spezifischen Güter oder Dienstleistungen, die dem Kunden zu liefern bzw. für ihn zu erbringen sind (und bei denen es sich auch um ein Recht auf ein von einer anderen Partei zu lieferndes Gut oder eine von einer anderen Partei zu erbringende Dienstleistung handeln kann (siehe Paragraph 26)), zu identifizieren und
+b) 
+
+für jedes spezifische Gut oder jede spezifische Dienstleistung zu beurteilen, ob es vor Übertragung auf den Kunden die Verfügungsgewalt (im Sinne von Paragraph 33) über dieses Gut oder diese Dienstleistung besitzt.
+
+B35 Besitzt das Unternehmen die Verfügungsgewalt über ein spezifisches Gut oder eine spezifische Dienstleistung, bevor diese/s auf einen Kunden übertragen wird, ist es als Prinzipal tätig. Erlangt ein Unternehmen jedoch nur vorübergehend das Eigentumsrecht an einem spezifischen Gut, bevor dieses auf den Kunden übergeht, so besitzt es nicht zwangsläufig die Verfügungsgewalt. Als Prinzipal kann das Unternehmen seiner Leistungsverpflichtung, d. h. seiner Verpflichtung zur Lieferung des spezifischen Guts oder zur Erbringung der spezifischen Dienstleistung selbst nachkommen oder eine andere Partei (beispielsweise einen Unterauftragnehmer) damit beauftragen, die Leistungsverpflichtung ganz oder teilweise in seinem Namen zu erfüllen.
+
+B35A Wenn eine andere Partei an der Lieferung von Gütern oder der Erbringung von Dienstleistungen an einen Kunden beteiligt ist, so erlangt ein Unternehmen, das als Prinzipal auftritt, die Verfügungsgewalt über
+a) 
+
+ein Gut oder einen anderen Vermögenswert der anderen Partei, das bzw. den es dann auf den Kunden überträgt,
+b) 
+
+ein Recht auf eine von der anderen Partei zu erbringende Dienstleistung, das das Unternehmen in die Lage versetzt, diese Partei anzuweisen, die Dienstleistung in seinem Namen für den Kunden zu erbringen, oder
+c) 
+
+ein Gut oder eine Dienstleistung der anderen Partei, das bzw. die es dann bei Lieferung des spezifischen Guts an oder Erbringung der spezifischen Dienstleistung für den Kunden mit anderen Gütern oder Dienstleistungen kombiniert. Erbringt das Unternehmen beispielsweise eine erhebliche Integrationsleistung, indem es die von einer anderen Partei gelieferten Güter oder erbrachten Dienstleistungen in das/die dem Kunden vertraglich zugesagte spezifische Gut bzw. spezifische Dienstleistung integriert (siehe Paragraph 29(a)), so besitzt es vor der Übertragung an den Kunden die Verfügungsgewalt über das spezifische Gut oder die spezifische Dienstleistung. Dies ist darin begründet, dass das Unternehmen zuerst die Verfügungsgewalt über die Inputs für die spezifischen Güter oder Dienstleistungen erlangt (wozu auch Güter oder Dienstleistungen anderer Parteien zählen) und diese dann zur Erzeugung des kombinierten Outputs, d. h. des speziellen Guts oder der speziellen Dienstleistung, nutzt.
+
+B35B Wenn (oder sobald) ein Unternehmen, das als Prinzipal auftritt, eine Leistungsverpflichtung erfüllt, erfasst es als Erlös die Gesamtgegenleistung, die es im Austausch für die Übertragung der spezifischen Güter oder Dienstleistungen erwartet.
+
+B36 Das Unternehmen ist Agent, wenn seine Leistungsverpflichtung darin besteht, eine andere Partei mit der Lieferung des spezifischen Guts oder der Erbringung der spezifischen Dienstleistung zu beauftragen. Als Agent besitzt das Unternehmen die Verfügungsgewalt über ein von einer anderen Partei geliefertes spezifisches Gut oder eine von einer anderen Partei erbrachte spezifische Dienstleistung so lange nicht, wie dieses Gut oder diese Dienstleistung nicht auf den Kunden übertragen ist. Wenn (oder sobald) ein Unternehmen, das als Agent auftritt, eine Leistungsverpflichtung erfüllt, erfasst es als Erlös die Gebühr oder Provision, die es im Austausch für die Beauftragung der anderen Partei mit der Lieferung der speziellen Güter oder der Erbringung der speziellen Dienstleistungen erwartet. Die Gebühr oder Provision des Unternehmens ist gegebenenfalls der Teil der Gegenleistung, den das Unternehmen behält, nachdem es der anderen Partei die für die Lieferung der Güter oder die Erbringung der Dienstleistungen erhaltene Gegenleistung ausbezahlt hat.
+
+B37 Zu den Indikatoren, die darauf hindeuten, dass ein Unternehmen vor der Übertragung eines spezifischen Guts oder einer spezifischen Dienstleistung auf den Kunden die Verfügungsgewalt über dieses Gut bzw. diese Dienstleistung besitzt (und somit als Prinzipal anzusehen ist (siehe Paragraph B35)) zählen unter anderem folgende:
+a) 
+
+für die Erfüllung der Zusage, das spezifische Gut zu liefern oder die spezifische Dienstleistung zu erbringen, ist primär das Unternehmen verantwortlich; hierzu zählt in der Regel die Verantwortung dafür, dass das spezifische Gut oder die spezifische Dienstleistung vom Kunden akzeptiert wird (wie die primäre Verantwortung dafür, dass das Gut oder die Dienstleistung den Spezifikationen des Kunden entspricht); wenn für die Erfüllung der Zusage, das spezifische Gut zu liefern oder die spezifische Dienstleistung zu erbringen, primär das Unternehmen verantwortlich ist, kann dies darauf hindeuten, dass die andere an der Lieferung des spezifischen Guts oder der Erbringung der spezifischen Dienstleistung beteiligte Partei im Auftrag des Unternehmens tätig ist,
+b) 
+
+das Unternehmen trägt vor der Übertragung des spezifischen Guts oder der spezifischen Dienstleistung auf einen Kunden oder nach Übertragung der Verfügungsgewalt auf den Kunden (z. B. wenn dieser ein Rückgaberecht hat) ein Bestandsrisiko; wenn das Unternehmen z. B. vor Anbahnung eines Vertrags mit einem Kunden das spezifische Gut oder die spezifische Dienstleistung erhält oder sich zu dessen bzw. deren Erhalt verpflichtet, kann dies darauf hindeuten, dass es vor der Übertragung auf den Kunden die Nutzung des Guts oder der Dienstleistung bestimmen und im Wesentlichen den verbleibenden Nutzen daraus ziehen kann,
+c) 
+
+das Unternehmen verfügt bei der Festlegung des Preises für das spezifische Gut oder die spezifische Dienstleistung über Ermessensspielraum; wird der Preis, den der Kunde für das spezifische Gut oder die spezifische Dienstleistung zahlt, vom Unternehmen festgelegt, kann dies darauf hindeuten, dass das Unternehmen die Nutzung des Guts oder der Dienstleistung bestimmen und im Wesentlichen den verbleibenden Nutzen daraus ziehen kann; in einigen Fällen kann allerdings der Agent bei der Preisfestsetzung über Ermessensspielraum verfügen; so verfügt der Agent z. B. möglicherweise über eine gewisse Flexibilität bei der Preisfestsetzung, damit er aus seiner Leistung, andere Parteien mit der Lieferung von Gütern oder der Erbringung von Dienstleistungen zu beauftragen, zusätzliche Erlöse ziehen kann.
+
+B37A Die in Paragraph B37 aufgeführten Indikatoren können je nach Art des spezifischen Guts oder der spezifischen Dienstleistung und je nach Vertragsbedingungen für die Beurteilung, ob ein Unternehmen die Verfügungsgewalt besitzt, mehr oder weniger relevant sein. Auch können bei anderen Verträgen andere Indikatoren überzeugendere Anhaltspunkte liefern.
+
+B38 Tritt eine andere Partei in die Leistungsverpflichtungen und vertraglichen Rechte des Unternehmens ein, sodass dieses nicht mehr zur Übertragung des spezifischen Guts oder der spezifischen Dienstleistung auf den Kunden verpflichtet (und somit kein Prinzipal mehr) ist, darf das Unternehmen für diese Leistungsverpflichtung keine Erlöse erfassen. Stattdessen hat es zu prüfen, ob es Erlöse dafür erfassen soll, dass es seiner Verpflichtung zur Anbahnung eines Vertrags für die andere Partei nachkommt (d. h. ob es als Agent auftritt).
+
+Optionen des Kunden für den Erwerb zusätzlicher Güter oder Dienstleistungen
+
+B39 Optionen des Kunden für den kostenlosen oder vergünstigten Erwerb zusätzlicher Güter oder Dienstleistungen gibt es in zahlreichen Formen, beispielsweise in Form von Kaufanreizen, Treueprämien (oder -punkten), Vertragsverlängerungsoptionen oder sonstigen Preisnachlässen auf später zu erwerbende Güter oder Dienstleistungen.
+
+B40 Räumt das Unternehmen einem Kunden in einem Vertrag die Option für den Erwerb zusätzlicher Güter oder Dienstleistungen ein, so ergibt sich aus dieser Option nur dann eine vertragliche Leistungsverpflichtung, wenn die Option dem Kunden ein wesentliches Recht gewährt, das dieser ohne den Abschluss dieses Vertrags nicht erhalten würde (beispielsweise ein Preisnachlass, der über den Rabatten liegt, die dieser Kundenkategorie in dieser Region oder auf diesem Markt üblicherweise für gleichartige Güter oder Dienstleistungen gewährt werden). Wenn die Option dem Kunden ein wesentliches Recht gewährt, so entsteht eine Situation, in der der Kunde das Unternehmen im Voraus für später zu erwerbende Güter oder Dienstleistungen vergütet und das Unternehmen die entsprechenden Erlöse dann erfasst, wenn diese Güter oder Dienstleistungen übertragen werden oder wenn die Option ausläuft.
+
+B41 Wenn einem Kunden die Option eingeräumt wird, zusätzliche Güter oder Dienstleistungen zu einem Preis zu erwerben, der dem Einzelverkaufspreis für diese Güter oder Dienstleistungen entspricht, so gewährt diese Option dem Kunden kein wesentliches Recht, selbst wenn diese Option nur aufgrund des Abschlusses des vorherigen Vertrags ausgeübt werden kann. In solchen Fällen ist das Angebot des Unternehmens als Werbeangebot einzustufen und erst dann gemäß dem vorliegenden Standard zu bilanzieren, wenn der Kunde die Option für den Erwerb der zusätzlichen Güter oder Dienstleistungen ausübt.
+
+B42 Nach Paragraph 74 hat das Unternehmen den Transaktionspreis auf Basis der relativen Einzelverkaufspreise auf die einzelnen Leistungsverpflichtungen aufzuteilen. Ist der Einzelverkaufspreis der Option des Kunden für den Erwerb zusätzlicher Güter oder Dienstleistungen nicht direkt beobachtbar, hat das Unternehmen diesen Preis zu schätzen. Diese Schätzung muss dem Preisnachlass Rechnung tragen, den der Kunde erhält, wenn er die Option ausübt, und die beiden folgenden Faktoren berücksichtigen:
+a) 
+
+jeglichen Preisnachlass, den der Kunde erhalten könnte, ohne die Option auszuüben, und
+b) 
+
+die Wahrscheinlichkeit, dass die Option ausgeübt wird.
+
+B43 Wenn dem Kunden mit der Option ein wesentliches Recht für den zukünftigen Erwerb von Gütern oder Dienstleistungen gewährt wird, die den ursprünglichen Gütern oder Dienstleistungen des Vertrags vergleichbar sind und gemäß den Bedingungen des ursprünglichen Vertrags geliefert bzw. erbracht werden, so kann das Unternehmen anstatt den Einzelverkaufspreis der Option zu schätzen behelfsweise den Transaktionspreis auf Basis der voraussichtlich zu liefernden Güter oder zu erbringenden Dienstleistungen und der hierfür erwarteten Gegenleistung auf die Güter oder Dienstleistungen der Option aufteilen. Solche Optionen kommen in der Regel einer Vertragsverlängerung gleich.
+
+Nicht geltend gemachte Ansprüche des Kunden
+
+B44 Nach Paragraph 106 hat das Unternehmen nach Erhalt einer Vorauszahlung eines Kunden für seine Leistungsverpflichtung, die darin besteht, Güter oder Dienstleistungen (künftig) auf den Kunden zu übertragen, eine Vertragsverbindlichkeit in Höhe des durch den Kunden vorausgezahlten Betrags zu erfassen. Das Unternehmen hat die Vertragsverbindlichkeit auszubuchen (und Erlöse zu erfassen), wenn es diese Güter oder Dienstleistungen überträgt und somit seine Leistungsverpflichtung erfüllt.
+
+B45 Eine nicht rückerstattungsfähige Vorauszahlung, die ein Kunde an das Unternehmen leistet, räumt dem Kunden einen Anspruch auf den künftigen Erhalt eines Guts oder einer Dienstleistung ein (und verpflichtet das Unternehmen, die künftige Übertragung eines Guts oder einer Dienstleistung vorzusehen). Allerdings machen Kunden ihre vertraglichen Ansprüche nicht immer in vollem Umfang geltend. Die Nichtinanspruchnahme von Guthaben wird auch als „breakage“ bezeichnet.
+
+B46 Geht das Unternehmen bei einer Vertragsverbindlichkeit davon aus, dass ein Kunde seine Ansprüche nicht vollständig geltend macht, hat es den entsprechenden Betrag proportional zum Muster der vom Kunden geltend gemachten Ansprüche als Erlös zu erfassen. Anderenfalls hat es den erwarteten Betrag aus einer Nichtinanspruchnahme dann als Erlös zu erfassen, wenn die Wahrscheinlichkeit, dass der Kunde seine verbleibenden Ansprüche geltend macht, als sehr gering einzustufen ist. Bei der Beurteilung, ob ein Kunde seine Ansprüche voraussichtlich nicht vollständig geltend machen wird, hat das Unternehmen die in den Paragraphen 56–58 enthaltenen Bestimmungen zu Einschränkungen bei der Schätzung variabler Gegenleistungen zu beachten.
+
+B47 Für jede erhaltene Gegenleistung, die nicht geltend gemachten Ansprüchen eines Kunden zuzuordnen ist und die das Unternehmen nach geltendem Eigentumsrecht an einen Dritten, z. B. eine staatliche Stelle, weiterleiten muss, hat das Unternehmen eine Verbindlichkeit (und keinen Erlös) zu erfassen.
+
+Nicht rückerstattungsfähige, im Voraus zahlbare Entgelte (sowie einige damit zusammenhängende Kosten)
+
+B48 Bei einigen Verträgen stellt das Unternehmen dem Kunden bei oder in zeitlicher Nähe zum Vertragsabschluss ein nicht rückerstattungsfähiges, im Voraus zahlbares Entgelt in Rechnung. Beispiele hierfür sind Aufnahmegebühren in Fitnessclubs, Anschlussgebühren bei Telekommunikationsverträgen, Einrichtungsgebühren bei einigen Dienstleistungsverträgen und Anfangsgebühren bei bestimmten Lieferverträgen.
+
+B49 Um die in solchen Verträgen enthaltenen Leistungsverpflichtungen zu bestimmen, hat das Unternehmen zu beurteilen, ob sich das Entgelt auf die Übertragung eines zugesagten Guts oder einer zugesagten Dienstleistung bezieht. Auch wenn sich ein nicht rückerstattungsfähiges, im Voraus zahlbares Entgelt auf eine Tätigkeit bezieht, die das Unternehmen zur Erfüllung des Vertrags bei oder in zeitlicher Nähe zum Vertragsabschluss ausführen muss, hat diese Tätigkeit in vielen Fällen nicht die Übertragung eines zugesagten Guts oder einer zugesagten Dienstleistung auf den Kunden zur Folge (siehe Paragraph 25). Stattdessen ist dieses Entgelt eine Vorauszahlung für künftige Güter oder Dienstleistungen und muss deshalb bei Bereitstellung dieser Güter oder Erbringung dieser Dienstleistungen als Erlös erfasst werden. Räumt das Unternehmen dem Kunden eine Möglichkeit zur Vertragsverlängerung ein und verleiht diese Möglichkeit dem Kunden ein wesentliches Recht gemäß Paragraph B40, geht der Zeitraum der Erlöserfassung über den ursprünglichen Vertragszeitraum hinaus.
+
+B50 Bezieht sich das nicht rückerstattungsfähige, im Voraus zahlbare Entgelt auf ein Gut oder eine Dienstleistung, hat das Unternehmen zu beurteilen, ob dieses Gut oder diese Dienstleistung als separate Leistungsverpflichtung gemäß den Paragraphen 22–30 zu bilanzieren ist.
+
+B51 Das Unternehmen kann ein nicht rückerstattungsfähiges Entgelt zum Teil als Vergütung für die durch die Begründung eines Vertrags (oder andere, in Paragraph 25 beschriebene administrative Aufgaben) verursachten Kosten in Rechnung stellen. Sofern diese Aktivitäten zur Begründung des Vertrags nicht als Leistungsverpflichtung angesehen werden können, darf das Unternehmen sie (wie auch die damit verbundenen Kosten) nicht in die Messung des Leistungsfortschritts gemäß Paragraph B19 einbeziehen, weil sie nicht die Übertragung von Dienstleistungen auf den Kunden widerspiegeln. Das Unternehmen hat zu beurteilen, ob die zur Begründung des Vertrags entstandenen Kosten gemäß Paragraph 95 als Vermögenswert zu aktivieren sind.
+
+Lizenzerteilung
+
+B52 Eine Lizenz gibt einem Kunden das Recht auf Nutzung des geistigen Eigentums eines Unternehmens. Lizenzen für geistiges Eigentum können u. a. Folgendes zum Gegenstand haben:
+a) 
+
+Software und Technologie,
+b) 
+
+Filme, Musik und andere Medien und Formen der Unterhaltung,
+c) 
+
+Franchise-Rechte und
+d) 
+
+Patente, Markenzeichen und Urheberrechte.
+
+B53 Das Unternehmen kann einem Kunden neben der Erteilung einer Lizenz oder mehrerer Lizenzen auch die Übertragung von Gütern oder Dienstleistungen zusagen. Diese Zusagen können ausdrücklich im Vertrag enthalten oder aber durch die Geschäftsgepflogenheiten, öffentlichen oder spezifischen Aussagen eines Unternehmens impliziert sein (siehe Paragraph 24). Wird in einem Vertrag mit einem Kunden neben der Übertragung von Gütern oder Dienstleistungen auch die Erteilung einer Lizenz oder mehrerer Lizenzen zugesagt, so verfährt das Unternehmen zur Identifizierung der einzelnen Leistungsverpflichtungen des Vertrags wie bei anderen Vertragsarten nach den Paragraphen 22–30.
+
+B54 Ist die Zusage der Lizenzerteilung nicht gemäß den Paragraphen 26–30 von anderen im Vertrag zugesagten Gütern oder Dienstleistungen abgrenzbar, hat das Unternehmen sie mit den anderen zugesagten Gütern oder Dienstleistungen als eine einzige Leistungsverpflichtung zu bilanzieren. Nicht von anderen im Vertrag zugesagten Gütern oder Dienstleistungen abgrenzbare Lizenzen umfassen unter anderem:
+a) 
+
+Lizenzen, die fester Bestandteil eines materiellen Guts sind und für dessen Funktion unverzichtbar sind, und
+b) 
+
+Lizenzen, die der Kunde nur in Verbindung mit einer dazugehörigen Dienstleistung nutzen kann (wie einem von dem Unternehmen erbrachten Online-Dienst, der dem Kunden über die Lizenz den Zugriff auf Inhalte ermöglicht).
+
+B55 Ist die Lizenz nicht eigenständig abgrenzbar, hat das Unternehmen nach den Paragraphen 31–38 zu bestimmen, ob die Leistungsverpflichtung (die die zugesagte Lizenz einschließt) über einen bestimmten Zeitraum oder zu einem bestimmten Zeitpunkt erfüllt wird.
+
+B56 Ist die Zusage der Lizenzerteilung von den anderen im Vertrag zugesagten Gütern oder Dienstleistungen abgrenzbar und somit als separate Leistungsverpflichtung anzusehen, hat das Unternehmen zu bestimmen, ob die Lizenz zu einem bestimmten Zeitpunkt oder über einen bestimmten Zeitraum auf den Kunden übertragen wird. Wenn das Unternehmen diese Bestimmung vornimmt, hat es zu berücksichtigen, ob die zugesagte Lizenz dem Kunden entweder
+a) 
+
+ein Recht auf Zugriff auf sein geistiges Eigentum — mit Stand über den gesamten Lizensierungszeitraum — einräumt oder
+b) 
+
+ein Recht auf Nutzung seines geistigen Eigentums — mit Stand zum Zeitpunkt der Lizenzerteilung — einräumt.
+
+Bestimmung der Art der Zusage
+
+B57 [gestrichen]
+
+B58 Die vom Unternehmen abgegebene Zusage zur Lizenzerteilung stellt eine Zusage zur Gewährung eines Rechts auf Zugang zu geistigem Eigentum des Unternehmens dar, wenn alle folgenden Bedingungen erfüllt sind:
+a) 
+
+der Vertrag sieht vor oder der Kunde kann nach vernünftigem Ermessen davon ausgehen, dass das Unternehmen Aktivitäten durchführen wird, die sich in erheblichem Maße auf das geistige Eigentum, an dem der Kunde Rechte hält, auswirken (siehe Paragraphen B59 und B59A),
+b) 
+
+durch die mit der Lizenz gewährten Rechte ist der Kunde unmittelbar von allen positiven oder negativen Auswirkungen der in Paragraph B58(a) genannten Aktivitäten betroffen und
+c) 
+
+mit der Durchführung solcher Aktivitäten wird weder ein Gut noch eine Dienstleistung auf den Kunden übertragen (siehe Paragraph 25).
+
+B59 Zu den möglichen Indikatoren, bei deren Vorliegen der Kunde nach vernünftigem Ermessen davon ausgehen kann, dass das Unternehmen Aktivitäten durchführen wird, die sich in erheblichem Maße auf das geistige Eigentum auswirken, zählen die Geschäftsgepflogenheiten, öffentlichen oder spezifischen Aussagen des Unternehmens. Haben das Unternehmen und der Kunde ein gemeinsames wirtschaftliches Interesse (z. B. eine umsatzabhängige Lizenzgebühr) in Bezug auf das geistige Eigentum, an dem der Kunde Rechte hält, ist dies ein weiterer möglicher (wenn auch nicht zwingender) Indikator dafür, dass der Kunde nach vernünftigem Ermessen von der Durchführung solcher Aktivitäten durch das Unternehmen ausgehen kann.
+
+B59A Die Aktivitäten des Unternehmens wirken sich in erheblichem Maße auf das geistige Eigentum, an dem der Kunde Rechte hält, aus, wenn entweder
+a) 
+
+davon auszugehen ist, dass diese Aktivitäten die Form (beispielsweise die Konzeption oder den Inhalt) oder die Funktion (beispielsweise die Fähigkeit zur Ausführung einer Funktion oder Aufgabe) des geistigen Eigentums in erheblichem Maße ändern, oder
+b) 
+
+die Fähigkeit des Kunden, Nutzen aus dem geistigen Eigentum zu ziehen, sich im Wesentlichen aus diesen Aktivitäten ableitet oder davon abhängig ist. So leitet sich beispielsweise der Nutzen einer Marke häufig von den laufenden Aktivitäten des Unternehmens, die den Wert des geistigen Eigentums fördern oder erhalten, ab oder ist von diesen abhängig.
+
+Wenn das geistige Eigentum, an dem der Kunde Rechte hält, eine erhebliche eigenständige Funktion aufweist, leitet sich auch ein wesentlicher Teil des Nutzens dieses geistigen Eigentums von dieser Funktion ab. Folglich wirken sich die Aktivitäten des Unternehmens in diesem Fall nicht in erheblichem Maße auf die Fähigkeit des Kunden aus, den Nutzen aus diesem geistigen Eigentum zu ziehen, es sei denn, seine Form oder Funktion werden durch diese Aktivitäten in erheblichem Maße geändert. Beispiele für geistiges Eigentum, das häufig eine erhebliche eigenständige Funktion aufweist, sind Software, chemische Verbindungen oder Arzneimittelrezepturen sowie Medieninhalte (wie Filme, Fernsehshows und Musikaufnahmen).
+
+B60 Sind die in Paragraph B58 genannten Bedingungen erfüllt, ist die Zusage zur Lizenzerteilung als eine über einen bestimmten Zeitraum erfüllte Leistungsverpflichtung zu bilanzieren, da der Nutzen, der mit dem Zugang zum geistigen Eigentum des Unternehmens verbunden ist, dem Kunden zufließt und er die Leistung gleichzeitig nutzt, während diese erbracht wird (siehe Paragraph 35(a)). Zur Auswahl einer angemessenen Methode zur Messung des Leistungsfortschritts im Hinblick auf die vollständige Erfüllung dieser Leistungsverpflichtung hat das Unternehmen nach den Paragraphen 39–45 zu verfahren.
+
+B61 Sind die in Paragraph B58 genannten Bedingungen nicht erfüllt, besteht die Zusage des Unternehmens darin, dem Kunden ein Recht auf Nutzung seines geistigen Eigentums — mit Stand (in Form und Funktion) zum Zeitpunkt der Lizenzerteilung — einzuräumen. Dies bedeutet, dass der Kunde zum Zeitpunkt der Lizenzerteilung die Nutzung der Lizenz bestimmen und im Wesentlichen den verbleibenden Nutzen daraus ziehen kann. Sagt das Unternehmen das Recht auf Nutzung seines geistigen Eigentums zu, ist diese Zusage als eine zu einem bestimmten Zeitpunkt erfüllte Leistungsverpflichtung zu bilanzieren. Den Zeitpunkt, zu dem die Lizenz auf den Kunden übertragen wird, hat das Unternehmen nach Paragraph 38 zu bestimmen. Allerdings können Erlöse aus einer Lizenz, die zur Nutzung des geistigen Eigentums des Unternehmens berechtigt, nicht vor Beginn des Zeitraums erfasst werden, in dem der Kunde die Lizenz verwenden und den Nutzen daraus ziehen kann. Beginnt z. B. ein Software-Lizenzzeitraum, bevor das Unternehmen dem Kunden den Code übermittelt (oder auf anderem Wege zur Verfügung stellt), der die sofortige Nutzung der Software ermöglicht, darf das Unternehmen den Erlös nicht vor der Übermittlung (oder anderweitigen Bereitstellung) dieses Codes erfassen.
+
+B62 Bei der Beurteilung, ob eine Lizenz ein Recht auf Zugang zu geistigem Eigentum des Unternehmens oder ein Recht auf Nutzung von geistigem Eigentum des Unternehmens gewährt, darf ein Unternehmen die folgenden Faktoren nicht einbeziehen:
+a) 
+
+zeitliche Beschränkungen, geografische Beschränkungen oder Nutzungsbeschränkungen; solche Beschränkungen stellen Merkmale der zugesagten Lizenz dar, legen aber nicht fest, ob das Unternehmen seine Leistungsverpflichtung zu einem bestimmten Zeitpunkt oder über einen bestimmten Zeitraum erfüllt,
+b) 
+
+eigene Zusicherungen, dass es in Bezug auf das geistige Eigentum über ein gültiges Patent verfügt und dieses vor unberechtigter Nutzung schützen wird; die Zusage, ein Patentrecht zu schützen, stellt keine Leistungsverpflichtung dar, da diese Schutzmaßnahmen dazu dienen, den Wert des geistigen Eigentums des Unternehmens zu schützen, und dem Kunden die Sicherheit geben, dass die übertragene Lizenz die vertraglich zugesagten Lizenzkonditionen erfüllt.
+
+Umsatz- oder nutzungsabhängige Lizenzgebühren
+
+B63 Unbeschadet der Vorschriften der Paragraphen 56–59 darf das Unternehmen für umsatz- oder nutzungsabhängige Lizenzgebühren, die im Austausch für eine Lizenz an geistigem Eigentum zugesagt wurden, Erlöse nur dann erfassen, wenn (oder sobald) das spätere der beiden folgenden Ereignisse eintritt:
+a) 
+
+der Umsatz bzw. die Nutzung tritt ein und
+b) 
+
+die Leistungsverpflichtung, der die umsatz- oder nutzungsabhängigen Lizenzgebühren ganz oder teilweise zugeordnet wurden, wurde vollständig (oder teilweise) erfüllt.
+
+B63A Die in Paragraph B63 genannte Vorschrift im Hinblick auf umsatz- oder nutzungsabhängige Lizenzgebühren gilt für Fälle, in denen die Lizenzgebühr ausschließlich oder vorwiegend eine Lizenz zur Nutzung geistigen Eigentums betrifft (Letzteres kann beispielsweise der Fall sein, wenn das Unternehmen nach vernünftigem Ermessen davon ausgehen kann, dass der Kunde der Lizenz einen erheblich höheren Wert zuschreibt als den anderen Gütern oder Dienstleistungen, auf die sich die Lizenzgebühr bezieht).
+
+B63B Ist die in Paragraph B63A genannte Vorschrift erfüllt, ist der Erlös aus einer umsatz- oder nutzungsabhängigen Lizenzgebühr zur Gänze gemäß Paragraph B63 zu erfassen. Ist die in Paragraph B63A genannte Vorschrift nicht erfüllt, gelten für die umsatz- oder nutzungsabhängige Lizenzgebühr die in den Paragraphen 50–59 enthaltenen Vorschriften für variable Gegenleistungen.
+
+Rückkaufvereinbarungen
+
+B64 Eine Rückkaufvereinbarung ist ein Vertrag, mit dem das Unternehmen einen Vermögenswert verkauft und außerdem (im Rahmen desselben oder eines anderen Vertrags) zusagt oder sich die Option einräumt, den Vermögenswert zurückzuerwerben. Der zurückerworbene Vermögenswert kann der Vermögenswert sein, der ursprünglich an den Kunden verkauft wurde, ein Vermögenswert, der diesem Vermögenswert im Wesentlichen gleicht, oder ein anderer Vermögenswert, dessen Bestandteil der ursprünglich verkaufte Vermögenswert ist.
+
+B65 Die drei häufigsten Formen der Rückkaufvereinbarung sind:
+a) 
+
+eine Verpflichtung des Unternehmens zum Rückkauf des Vermögenswerts (ein Termingeschäft),
+b) 
+
+ein Recht des Unternehmens auf Rückkauf des Vermögenswerts (eine Kaufoption) und
+c) 
+
+eine Verpflichtung des Unternehmens, den Vermögenswert auf Anfrage des Kunden zurückzuerwerben (eine Verkaufsoption).
+
+Termingeschäfte und Kaufoptionen
+
+B66 Ist das Unternehmen zum Rückkauf des Vermögenswerts verpflichtet oder berechtigt (Termingeschäft oder Kaufoption), erlangt der Kunde — selbst wenn er physisch im Besitz des Vermögenswerts ist — nicht die Verfügungsgewalt über den Vermögenswert, da er nur eingeschränkt in der Lage ist, die Nutzung des Vermögenswerts zu bestimmen und im Wesentlichen den verbleibenden Nutzen daraus zu ziehen. Das Unternehmen muss den Vertrag deshalb auf eine der beiden folgenden Arten bilanzieren:
+a) 
+
+als Leasingverhältnis gemäß IFRS 16 Leasingverhältnisse, wenn das Unternehmen berechtigt oder verpflichtet ist, den Vermögenswert zu einem Betrag zurückzuerwerben, der unter dem ursprünglichen Verkaufspreis liegt, es sei denn, der Vertrag ist Teil einer Sale-and-Leaseback-Transaktion; ist der Vertrag Teil einer Sale-and-Leaseback-Transaktion, hat das Unternehmen den Vermögenswert weiterhin auszuweisen und für jede vom Kunden empfangene Gegenleistung eine finanzielle Verbindlichkeit zu erfassen; die finanzielle Verbindlichkeit hat das Unternehmen gemäß IFRS 9 zu bilanzieren; oder
+b) 
+
+als Finanzierungsvereinbarung gemäß Paragraph B68, wenn das Unternehmen berechtigt oder verpflichtet ist, den Vermögenswert zu einem Betrag zurückzuerwerben, der dem ursprünglichen Verkaufspreis entspricht oder darüber liegt.
+
+B67 Wenn das Unternehmen den Rückkaufpreis mit dem Verkaufspreis vergleicht, hat es den Zeitwert des Geldes zu berücksichtigen.
+
+B68 Handelt es sich bei der Rückkaufvereinbarung um eine Finanzierungsvereinbarung, hat das Unternehmen den Vermögenswert weiterhin auszuweisen und zusätzlich für jede vom Kunden empfangene Gegenleistung eine finanzielle Verbindlichkeit zu erfassen. Die Differenz zwischen der vom Kunden empfangenen Gegenleistung und der an den Kunden zu zahlenden Gegenleistung ist als Zinsaufwendung sowie gegebenenfalls als Verwaltungs- oder Haltekosten (z. B. Versicherung) zu erfassen.
+
+B69 Wird die Option nicht ausgeübt und verfällt, hat das Unternehmen die Verbindlichkeit auszubuchen und den entsprechenden Erlös zu erfassen.
+
+Verkaufsoptionen
+
+B70 Ist das Unternehmen verpflichtet, den Vermögenswert auf Anfrage des Kunden zu einem Preis unter dem ursprünglichen Verkaufspreis zurückzuerwerben (Verkaufsoption), hat es bei Vertragsabschluss zu beurteilen, ob es für den Kunden einen erheblichen wirtschaftlichen Anreiz zur Ausübung dieses Rechts gibt. Übt der Kunde dieses Recht aus, hat dies zur Folge, dass er dem Unternehmen effektiv eine Gegenleistung für das Recht zahlt, einen spezifizierten Vermögenswert für einen bestimmten Zeitraum zu nutzen. Hat der Kunde einen erheblichen wirtschaftlichen Anreiz zur Ausübung dieses Rechts, hat das Unternehmen die Vereinbarung deshalb als Leasingverhältnis gemäß IFRS 16 zu bilanzieren, es sei denn, der Vertrag ist Teil einer Sale-and-Leaseback-Transaktion. Ist der Vertrag Teil einer Sale-and-Leaseback-Transaktion, hat das Unternehmen den Vermögenswert weiterhin auszuweisen und für jede vom Kunden empfangene Gegenleistung eine finanzielle Verbindlichkeit zu erfassen. Die finanzielle Verbindlichkeit hat das Unternehmen gemäß IFRS 9 zu bilanzieren.
+
+B71 Bei der Bestimmung, ob es für einen Kunden einen erheblichen wirtschaftlichen Anreiz zur Ausübung seines Rechts gibt, hat das Unternehmen verschiedene Faktoren zu berücksichtigen. Dazu zählen unter anderem das Verhältnis zwischen dem Rückkaufpreis und dem für den Zeitpunkt des Rückkaufs erwarteten Marktwert des Vermögenswerts sowie die bis zum Erlöschen des Rechts verbleibende Zeit. Wird beispielsweise davon ausgegangen, dass der Rückkaufpreis erheblich über dem Marktwert des Vermögenswerts liegen wird, kann dies ein Indikator dafür sein, dass der Kunde einen erheblichen wirtschaftlichen Anreiz zur Ausübung der Verkaufsoption hat.
+
+B72 Gibt es für den Kunden keinen erheblichen wirtschaftlichen Anreiz, sein Recht zu einem Preis unter dem ursprünglichen Verkaufspreis des Vermögenswerts auszuüben, hat das Unternehmen die Vereinbarung wie einen in den Paragraphen B20–B27 beschriebenen Verkauf eines Produkts mit Rückgaberecht zu bilanzieren.
+
+B73 Ist der Rückkaufpreis des Vermögenswerts gleich dem ursprünglichen Verkaufspreis oder höher als dieser und liegt er über dem erwarteten Marktwert, so handelt es sich bei dem Vertrag effektiv um eine Finanzierungsvereinbarung, die gemäß Paragraph B68 zu bilanzieren ist.
+
+B74 Ist der Rückkaufpreis des Vermögenswerts gleich dem ursprünglichen Verkaufspreis oder höher als dieser und liegt er unter dem erwarteten Marktwert oder entspricht diesem, und hat der Kunde keinen erheblichen wirtschaftlichen Anreiz zur Ausübung seines Rechts, so hat das Unternehmen die Vereinbarung wie einen in den Paragraphen B20–B27 beschriebenen Verkauf eines Produkts mit Rückgaberecht zu bilanzieren.
+
+B75 Wenn das Unternehmen den Rückkaufpreis mit dem Verkaufspreis vergleicht, hat es den Zeitwert des Geldes zu berücksichtigen.
+
+B76 Wird die Option nicht ausgeübt und verfällt, hat das Unternehmen die Verbindlichkeit auszubuchen und den entsprechenden Erlös zu erfassen.
+
+Kommissionsvereinbarungen
+
+B77 Liefert ein Unternehmen einem Dritten (wie einem Händler oder einem Vertriebsunternehmen) ein Produkt zum Verkauf an Endkunden, hat das Unternehmen zu beurteilen, ob dieser Dritte zum Zeitpunkt der Lieferung die Verfügungsgewalt über das Produkt erlangt hat. Erlangt der Dritte nicht die Verfügungsgewalt über das Produkt, wurde es möglicherweise im Rahmen einer Kommissionsvereinbarung an den Dritten geliefert. Wenn der Dritte das gelieferte Produkt im Rahmen einer Kommissionsvereinbarung erhält, darf das Unternehmen bei Lieferung des Produkts an den Dritten keine Erlöse erfassen.
+
+B78 Zu den Indikatoren, die darauf hindeuten, dass eine Vereinbarung als Kommissionsvereinbarung anzusehen ist, zählen unter anderem folgende:
+a) 
+
+das Unternehmen besitzt die Verfügungsgewalt über das Produkt, bis ein spezifisches Ereignis, wie der Verkauf des Produkts an einen Kunden des Händlers, eintritt oder ein festgelegter Zeitraum abläuft,
+b) 
+
+das Unternehmen kann die Rückgabe des Produkts verlangen oder das Produkt auf einen Dritten (z. B. einen anderen Händler) übertragen und
+c) 
+
+der Händler ist nicht bedingungslos verpflichtet, für das Produkt eine Zahlung zu leisten (es kann jedoch eine Einlage von ihm verlangt werden).
+
+Bill-and-hold-Vereinbarungen
+
+B79 Eine Bill-and-hold-Vereinbarung ist ein Vertrag, bei dem das Unternehmen einem Kunden ein Produkt in Rechnung stellt, jedoch im physischen Besitz des Produkts bleibt, bis es zu einem späteren Zeitpunkt auf den Kunden übertragen wird. Ein Kunde könnte das Unternehmen beispielsweise um Abschluss eines solchen Vertrags bitten, da ihm zum gegebenen Zeitpunkt die notwendigen Lagerkapazitäten fehlen oder es in seiner Fertigung zu Verzögerungen gekommen ist.
+
+B80 Das Unternehmen hat zu bestimmen, wann es seine Leistungsverpflichtung zur Übertragung eines Produkts erfüllt, und zu diesem Zweck zu beurteilen, wann der Kunde die Verfügungsgewalt über das Produkt erlangt (siehe Paragraph 38). Bei manchen Verträgen wird die Verfügungsgewalt je nach Vertragsbedingungen (einschließlich Liefer- und Versandbedingungen) entweder bei Anlieferung des Produkts am Standort des Kunden oder bei seinem Versand übertragen. Bei anderen Verträgen hingegen erlangt der Kunde die Verfügungsgewalt über das Produkt auch dann, wenn es sich im physischen Besitz des Unternehmens befindet. In diesem Fall kann der Kunde die Nutzung des Produkts bestimmen und im Wesentlichen den verbleibenden Nutzen aus ihm ziehen, obwohl er entschieden hat, von der Ausübung seines Rechts auf physische Inbesitznahme des Produkts abzusehen. Das Unternehmen hat folglich nicht die Verfügungsgewalt über das Produkt, sondern bietet dem Kunden Verwahrungsleistungen für seinen Vermögenswert.
+
+B81 Damit ein Kunde im Rahmen einer Bill-and-hold-Vereinbarung die Verfügungsgewalt über ein Produkt erlangt, müssen neben der Anwendung der in Paragraph 38 enthaltenen Vorschriften alle folgenden Kriterien erfüllt sein:
+a) 
+
+es muss ein wesentlicher Grund für die Bill-and-hold-Vereinbarung vorliegen (z. B. der Abschluss der Vereinbarung erfolgt auf Anfrage des Kunden),
+b) 
+
+das Produkt muss für sich genommen als dem Kunden gehörend identifiziert werden können,
+c) 
+
+das Produkt muss für die physische Übertragung auf den Kunden bereit sein und
+d) 
+
+das Unternehmen darf nicht die Möglichkeit haben, das Produkt selbst zu nutzen oder einem anderen Kunden zur Verfügung zu stellen.
+
+B82 Erfasst das Unternehmen Erlöse aus dem Verkauf eines Produkts im Rahmen einer Bill-and-hold-Vereinbarung, muss es klären, ob es noch verbleibende Leistungsverpflichtungen (z. B. für Verwahrungsleistungen) gemäß den Paragraphen 22–30 hat, denen es einen Teil des Transaktionspreises gemäß den Paragraphen 73–86 zuordnen muss.
+
+Abnahme durch den Kunden
+
+B83 Gemäß Paragraph 38(e) kann die Abnahme eines Vermögenswerts durch den Kunden ein Indikator dafür sein, dass der Kunde die Verfügungsgewalt über den Vermögenswert erlangt hat. Kundenabnahmeklauseln ermöglichen es dem Kunden, einen Vertrag zu stornieren, oder verpflichten das Unternehmen, Abhilfe zu schaffen, sollte ein Gut oder eine Dienstleistung nicht die vereinbarten Spezifikationen erfüllen. Das Unternehmen muss solche Klauseln bei der Beurteilung, ob ein Kunde die Verfügungsgewalt über ein Gut oder eine Dienstleistung erlangt hat, berücksichtigen.
+
+B84 Kann das Unternehmen objektiv feststellen, dass die Verfügungsgewalt über ein Gut oder eine Dienstleistung gemäß den vertraglich vereinbarten Spezifikationen auf den Kunden übertragen wurde, so handelt es sich bei der Abnahme durch den Kunden um eine reine Formalität, die die Feststellung des Unternehmens, ob der Kunde die Verfügungsgewalt über das Gut oder die Dienstleistung erlangt hat, nicht beeinflusst. Basiert die Kundenabnahmeklausel beispielsweise darauf, dass bestimmte Größen- und Gewichtsmerkmale eingehalten werden, so kann das Unternehmen bereits vor Erhalt der Bestätigung der Abnahme durch den Kunden feststellen, ob diese Vorgaben eingehalten wurden. Verfügt das Unternehmen über Erfahrung mit Verträgen für ähnliche Güter oder Dienstleistungen, kann diese als Nachweis dafür herangezogen werden, dass das dem Kunden gelieferte Gut oder die für den Kunden erbrachte Dienstleistung die vertraglich vereinbarten Spezifikationen erfüllt. Wird der Erlös bereits vor der Abnahme durch den Kunden erfasst, muss das Unternehmen trotzdem prüfen, ob noch Leistungsverpflichtungen (wie die Installation von Ausrüstung) verbleiben, und beurteilen, ob diese gesondert zu bilanzieren sind.
+
+B85 Kann das Unternehmen dagegen nicht objektiv feststellen, dass das dem Kunden gelieferte Gut oder die für den Kunden erbrachte Dienstleistung den vertraglich vereinbarten Spezifikationen entspricht, dann steht erst nach Erhalt der Bestätigung der Abnahme durch den Kunden fest, ob der Kunde die Verfügungsgewalt erlangt hat, denn in diesem Fall lässt sich vorher nicht feststellen, ob der Kunde die Nutzung des Guts oder der Dienstleistung bestimmen und im Wesentlichen den verbleibenden Nutzen daraus ziehen kann.
+
+B86 Liefert das Unternehmen ein Produkt zu Test- oder Beurteilungszwecken an einen Kunden, und muss der Kunde die Gegenleistung nicht vor Ende des Testzeitraums zahlen, so geht die Verfügungsgewalt über das Produkt erst dann auf den Kunden über, wenn er das Produkt abnimmt oder der Testzeitraum endet.
+
+Aufschlüsselung der Erlöse
+
+B87 Nach Paragraph 114 hat das Unternehmen Erlöse aus Verträgen mit Kunden in Kategorien aufzuschlüsseln, die den Einfluss wirtschaftlicher Faktoren auf Art, Höhe, Zeitpunkt und Unsicherheit der Erlöse und Zahlungsströme widerspiegeln. Inwieweit die Erlöse des Unternehmens für die Zwecke dieser Angabevorschrift aufzuschlüsseln sind, hängt deshalb von den Fakten und Umständen seiner Verträge mit Kunden ab. Einige Unternehmen benötigen möglicherweise mehrere Kategorien, um das in Paragraph 114 genannte Ziel der Erlösaufschlüsselung zu erreichen. Für andere Unternehmen reicht hierfür möglicherweise eine einzige Kategorie.
+
+B88 Wenn das Unternehmen die Kategorie (oder Kategorien) wählt, die es für die Aufschlüsselung seiner Erlöse verwenden will, berücksichtigt es die Art und Weise, wie es seine Erlöse für andere Zwecke darstellt, und insbesondere alle folgenden Angaben:
+a) 
+
+Angaben außerhalb des Abschlusses (beispielsweise in Gewinnmeldungen, Jahresberichten oder Präsentationen für Anleger),
+b) 
+
+Angaben, anhand derer der Hauptentscheidungsträger regelmäßig die Finanz- und Ertragslage von Geschäftssegmenten beurteilt, und
+c) 
+
+andere Angaben, die mit den unter den Buchstaben a und b genannten Informationen vergleichbar sind und vom Unternehmen oder von den Abschlussadressaten dazu verwendet werden, die Finanz- und Ertragslage des Unternehmens zu beurteilen oder über die Ressourcenallokation zu entscheiden.
+
+B89 Beispiele für mögliche geeignete Kategorien sind unter anderem:
+a) 
+
+die Art der Güter oder Dienstleistungen (z. B. die wichtigsten Produktlinien),
+b) 
+
+das geografische Gebiet (z. B. Land oder Region),
+c) 
+
+der Markt oder die Art des Kunden (z. B. staatliche oder privatwirtschaftliche Kunden),
+d) 
+
+die Art des Vertrags (z. B. Festpreis oder Vergütung auf Zeit- und Materialbasis),
+e) 
+
+die Vertragslaufzeit (z. B. kurz- oder langfristige Verträge),
+f) 
+
+der Zeitpunkt der Übertragung der Güter oder Dienstleistungen (z. B. Übertragung zu einem bestimmten Zeitpunkt oder Übertragung über einen bestimmten Zeitraum) und
+g) 
+
+der Vertriebskanal (z. B. direkter Verkauf an Verbraucher oder Vertrieb über Zwischenhändler).
+
+Anhang C
+
+Zeitpunkt des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil des Standards und hat die gleiche bindende Kraft wie die anderen Teile des Standards.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+C1 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2018 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen Standard früher an, hat es dies anzugeben.
+
+C1A Mit dem im Januar 2016 veröffentlichten IFRS 16 Leasingverhältnisse wurden die Paragraphen 5, 97, B66 und B70 geändert. Wendet das Unternehmen IFRS 16 an, so hat es diese Änderungen anzuwenden.
+
+C1B Mit den im April 2016 veröffentlichten Klarstellungen zu IFRS 15 Erlöse aus Verträgen mit Kunden wurden die Paragraphen 26, 27, 29, B1, B34–B38, B52–B53, B58, C2, C5 und C7 geändert, Paragraph B57 gestrichen und die Paragraphen B34A, B35A, B35B, B37A, B59A, B63A, B63B, C7A und C8A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2018 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+C1C Mit dem im Mai 2017 veröffentlichten IFRS 17 wurde Paragraph 5 geändert. Wendet das Unternehmen IFRS 17 an, so hat es diese Änderung anzuwenden.
+
+ÜBERGANGSVORSCHRIFTEN
+
+C2 Für die Zwecke der in den Paragraphen C3–C8A enthaltenen Übergangsvorschriften gilt Folgendes:
+a) 
+
+Zeitpunkt der erstmaligen Anwendung ist der Beginn der Berichtsperiode, in der das Unternehmen diesen Standard zum ersten Mal anwendet, und
+b) 
+
+ein erfüllter Vertrag ist ein Vertrag, bei dem das Unternehmen alle gemäß IAS 11 Fertigungsaufträge, IAS 18 Umsatzerlöse sowie den dazugehörigen Interpretationen identifizierten Güter und Dienstleistungen übertragen hat.
+
+C3 Dieser Standard ist nach einer der beiden folgenden Methoden anzuwenden:
+a) 
+
+rückwirkende Anwendung auf jede gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler dargestellte frühere Berichtsperiode, vorbehaltlich der in Paragraph C5 genannten praktischen Behelfe, oder
+b) 
+
+rückwirkende Anwendung mit Erfassung der kumulierten Anpassungsbeträge aus der Erstanwendung zum Zeitpunkt der erstmaligen Anwendung gemäß den Paragraphen C7–C8.
+
+C4 Ungeachtet der in Paragraph 28 von IAS 8 enthaltenden Anforderungen braucht das Unternehmen, wenn es den Standard nach Paragraph C3(a) rückwirkend anwendet, die in Paragraph 28(f) von IAS 8 vorgesehenen Beträge lediglich für die dem Geschäftsjahr, in dem der Standard zum ersten Mal angewandt wird, „unmittelbar vorausgehende Berichtsperiode“ anzugeben. Das Unternehmen kann diese Angaben für die laufende Berichtsperiode oder für frühere Vergleichsperioden vorlegen, ist dazu aber nicht verpflichtet.
+
+C5 Bei rückwirkender Anwendung dieses Standards nach Paragraph C3(a) kann das Unternehmen auf einen oder mehrere der folgenden praktischen Behelfe zurückgreifen:
+a) 
+
+für erfüllte Verträge muss das Unternehmen keine Anpassungen vornehmen, wenn diese
+i) 
+
+innerhalb desselben Geschäftsjahres beginnen und enden oder
+ii) 
+
+zu Beginn der frühesten dargestellten Periode bereits erfüllt waren,
+b) 
+
+bei erfüllten Verträgen, die eine variable Gegenleistung beinhalten, kann das Unternehmen den Transaktionspreis zum Zeitpunkt der Vertragserfüllung ansetzen, anstatt die Höhe der variablen Gegenleistung in den Vergleichsperioden zu schätzen,
+c) 
+
+bei Verträgen, die vor Beginn der frühesten dargestellten Periode geändert wurden, muss das Unternehmen keine rückwirkende Anpassung gemäß den Paragraphen 20–21 vornehmen, um den Vertragsänderungen Rechnung zu tragen; stattdessen hat es in den nachstehend genannten Fällen die aggregierte Auswirkung sämtlicher vor Beginn der frühesten dargestellten Periode vorgenommen Änderungen zu berücksichtigen:
+i) 
+
+wenn es ermittelt, welche Leistungsverpflichtungen erfüllt und welche nicht erfüllt sind,
+ii) 
+
+wenn es den Transaktionspreis bestimmt, und
+iii) 
+
+wenn es den Transaktionspreis auf die erfüllten und nicht erfüllten Leistungsverpflichtungen aufteilt,
+d) 
+
+in Bezug auf alle vor dem Zeitpunkt der erstmaligen Anwendung dargestellten Berichtsperioden ist das Unternehmen ist nicht verpflichtet, den Betrag des Transaktionspreises, der den verbleibenden Leistungsverpflichtungen zugeordnet wurde, anzugeben oder zu erklären, wann es mit der Erfassung dieses Betrags als Erlös rechnet (siehe Paragraph 120).
+
+C6 Greift das Unternehmen auf einen der in Paragraph C5 aufgeführten praktischen Behelfe zurück, so hat es diesen in allen dargestellten Berichtsperioden konsistent auf alle Verträge anzuwenden. Darüber hinaus hat das Unternehmen anzugeben,
+a) 
+
+welche praktischen Behelfe es angewandt hat und
+b) 
+
+soweit dies nach vernünftigem Ermessen möglich ist, in welcher Höhe sich die Anwendung jedes einzelnen praktischen Behelfs voraussichtlich auswirkt.
+
+C7 Beschließt das Unternehmen, diesen Standard gemäß Paragraph C3(b) rückwirkend anzuwenden, muss es die kumulierte Auswirkung der erstmaligen Anwendung des Standards in der Berichtsperiode, in die der Zeitpunkt der Erstanwendung fällt, als Anpassung des Eröffnungssaldos der Gewinnrücklagen (oder ggf. anderer Eigenkapitalkomponenten) erfassen. Bei dieser Übergangsmethode kann das Unternehmen beschließen, den Standard nur auf solche Verträge rückwirkend anzuwenden, die zum Zeitpunkt der Erstanwendung (z. B. 1. Januar 2018 für Unternehmen, deren Geschäftsjahr am 31. Dezember endet) noch nicht erfüllt waren.
+
+C7A Unternehmen, die diesen Standard gemäß Paragraph C3(b) rückwirkend anwenden, können zudem den in Paragraph C5(c) dargelegten praktischen Behelf anwenden, und zwar entweder
+a) 
+
+auf alle vor Beginn der frühesten dargestellten Periode vorgenommenen Vertragsänderungen oder
+b) 
+
+auf alle vor der erstmaligen Anwendung vorgenommenen Vertragsänderungen.
+
+Greift ein Unternehmen auf diesen praktischen Behelf zurück, hat es diesen konsistent auf alle Verträge anzuwenden und die in Paragraph C6 vorgeschriebenen Angaben zu machen.
+
+C8 Wird dieser Standard gemäß Paragraph C3(b) rückwirkend angewandt, muss das Unternehmen in der Berichtsperiode, in die der Zeitpunkt der Erstanwendung fällt, die beiden folgenden zusätzlichen Angaben machen:
+a) 
+
+für jeden einzelnen betroffenen Abschlussposten den aus der Anwendung dieses Standards resultierenden Anpassungsbetrag, der sich im Vergleich zu den vor der Änderung geltenden Bestimmungen in IAS 11, IAS 18 und den dazugehörigen Interpretationen ergibt, und
+b) 
+
+Erläuterung der Gründe für die in Buchstabe a identifizierten erheblichen Änderungen.
+
+C8A Die Klarstellungen zu IFRS 15 (siehe Paragraph C1B) sind gemäß IAS 8 rückwirkend anzuwenden. Bei der rückwirkenden Anwendung der Änderungen sind diese anzuwenden, als seien sie schon zum Zeitpunkt der erstmaligen Anwendung im IFRS 15 enthalten gewesen. Folglich wenden die Unternehmen die Änderungen gemäß den Paragraphen C2–C8 nicht auf Berichtsperioden oder Verträge an, auf die IFRS 15 keine Anwendung findet. Wendet das Unternehmen z. B. IFRS 15 gemäß Paragraph C3(b) nur auf Verträge an, die zum Zeitpunkt der erstmaligen Anwendung nicht erfüllt waren, so erfasst es zum Zeitpunkt der erstmaligen Anwendung des IFRS 15 in Bezug auf die erfüllten Verträge keine Anpassungen, um diese Änderungen einzubeziehen.
+
+Verweise auf IFRS 9
+
+C9 Wendet das Unternehmen diesen Standard an, bevor es IFRS 9 Finanzinstrumente anwendet, ist jeder Verweis auf IFRS 9 in diesem Standard als Verweis auf IAS 39 Finanzinstrumente: Ansatz und Bewertung zu verstehen.
+
+RÜCKNAHME ANDERER STANDARDS
+
+C10 Dieser Standard ersetzt die folgenden Standards und Interpretationen:
+a) 
+
+IAS 11 Fertigungsaufträge,
+b) 
+
+IAS 18 Umsatzerlöse,
+c) 
+
+IFRIC 13 Kundenbindungsprogramme,
+d) 
+
+IFRIC 15 Verträge über die Errichtung von Immobilien,
+e) 
+
+IFRIC 18 Übertragung von Vermögenswerten durch einen Kunden und
+f) 
+
+SIC-31 Umsatzerlöse — Tausch von Werbedienstleistungen.

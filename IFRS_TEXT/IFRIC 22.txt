@@ -1,0 +1,82 @@
+﻿ IFRIC INTERPRETATION 22
+
+Fremdwährungstransaktionen und im Voraus erbrachte oder erhaltene Gegenleistungen
+
+VERWEISE
+— 
+Rahmenkonzept für die Finanzberichterstattung  ( 73 )
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 21 Auswirkungen von Wechselkursänderungen
+
+HINTERGRUND
+
+1 Nach Paragraph 21 von IAS 21 Auswirkungen von Wechselkursänderungen ist das Unternehmen verpflichtet, eine Fremdwährungstransaktion erstmalig in der funktionalen Währung anzusetzen, indem es den Fremdwährungsbetrag mit dem am jeweiligen Tag des Geschäftsvorfalls gültigen Kassakurs zwischen der funktionalen Währung und der Fremdwährung umrechnet. Nach Paragraph 22 von IAS 21 ist der Tag des Geschäftsvorfalls der Tag, an dem der Geschäftsvorfall erstmals gemäß den IFRS (im Folgenden „Standards“) ansetzbar ist.
+
+2 Wenn ein Unternehmen eine Gegenleistung in Fremdwährung im Voraus erbringt oder erhält, setzt es im Allgemeinen einen nichtmonetären Vermögenswert oder eine nichtmonetäre Verbindlichkeit an, bevor der zugehörige Vermögenswert, Aufwand oder Ertrag erfasst wird ( 74 ). Der zugehörige Vermögenswert, Aufwand oder Ertrag (oder ein Teil davon) entspricht dem Betrag, der gemäß den anwendbaren Standards bei der Ausbuchung des nichtmonetären Vermögenswerts oder der nichtmonetären Verbindlichkeit aus der im Voraus erbrachten oder erhaltenen Gegenleistung erfasst wird.
+
+3 Das IFRIC wurde ersucht, Leitlinien zu der Frage zur Verfügung zu stellen, wie bei der Erfassung von Erlösen gemäß den Paragraphen 21–22 von IAS 21 der „Tag des Geschäftsvorfalls“ zu bestimmen sei. Dabei ging es um den konkreten Fall, dass ein Unternehmen bei Erhalt einer Gegenleistung im Voraus eine nichtmonetäre Verbindlichkeit erfasste, bevor es den zugehörigen Erlös ansetzte. Bei seinen Beratungen stellte das IFRIC fest, dass im Voraus erhaltene oder erbrachte Gegenleistungen in Fremdwährung nicht auf Umsatztransaktionen beschränkt sind. Daher beschloss das IFRIC klarzustellen, wie der Tag des Geschäftsvorfalls festzulegen ist, der für die Bestimmung des Wechselkurses für die erstmalige Erfassung des zugehörigen Vermögenswerts, Aufwands oder Ertrags zugrunde zu legen ist, wenn ein Unternehmen eine Gegenleistung in Fremdwährung im Voraus erhält oder erbringt.
+
+ANWENDUNGSBEREICH
+
+4 Diese Interpretation gilt für Fremdwährungstransaktionen (oder einen Teil davon), wenn ein Unternehmen einen nichtmonetären Vermögenswert oder eine nichtmonetäre Verbindlichkeit für eine im Voraus erbrachte oder erhaltene Gegenleistung ansetzt, bevor es den zugehörigen Vermögenswert, Aufwand oder Ertrag (oder einen Teil davon) erfasst.
+
+5 Diese Interpretation gilt nicht, wenn ein Unternehmen die zugehörigen Vermögenswerte, Aufwendungen oder Erträge beim erstmaligen Ansatz
+a) 
+
+zum beizulegenden Zeitwert bewertet oder
+b) 
+
+zum beizulegenden Zeitwert der Gegenleistung, die zu einem anderen Zeitpunkt als dem Zeitpunkt des erstmaligen Ansatzes des nichtmonetären Vermögenswerts oder der nichtmonetären Verbindlichkeit erbracht oder erhalten wurde, (beispielsweise bei der Bewertung des Geschäfts- oder Firmenwerts gemäß IFRS 3 Unternehmenszusammenschlüsse) bewertet.
+
+6 Die Anwendung dieser Interpretation ist für die Unternehmen nicht verpflichtend bei
+a) 
+
+Ertragsteuern oder
+b) 
+
+Versicherungsverträgen (einschließlich Rückversicherungsverträgen), die es ausgibt, und Rückversicherungsverträgen, die es hält.
+
+FRAGESTELLUNG
+
+7 Diese Interpretation betrifft die Frage, wie bei der Ausbuchung eines nichtmonetären Vermögenswerts oder einer nichtmonetären Verbindlichkeit für die im Voraus erbrachte oder erhaltene Gegenleistung in Fremdwährung der Tag des Geschäftsvorfalls festzulegen ist, der für die Bestimmung des Wechselkurses für die erstmalige Erfassung des zugehörigen Vermögenswerts, Aufwands oder Ertrags (oder eines Teils davon) heranzuziehen ist.
+
+BESCHLUSS
+
+8 In Anwendung der Paragraphen 21–22 von IAS 21 ist der Tag des Geschäftsvorfalls zum Zweck der Bestimmung des Wechselkurses, der für die erstmalige Erfassung des zugehörigen Vermögenswerts, Aufwands oder Ertrags (oder eines Teils davon) zu verwenden ist, der Zeitpunkt, zu dem ein Unternehmen erstmalig einen nichtmonetären Vermögenswert oder eine nichtmonetäre Verbindlichkeit für die im Voraus erbrachte oder erhaltene Gegenleistung ansetzt.
+
+9 Werden mehrere Gegenleistungen im Voraus erbracht oder erhalten, so bestimmt das Unternehmen für jede im Voraus erbrachte oder erhaltene Gegenleistung den Tag des Geschäftsvorfalls.
+
+Anhang A
+
+Zeitpunkt des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil von IFRIC 22 und hat die gleiche bindende Kraft wie die anderen Teile von IFRIC 22.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+A1 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2018 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Interpretation auf eine frühere Periode an, hat es dies anzugeben.
+
+ÜBERGANGSVORSCHRIFTEN
+
+A2 Erstanwender wenden diese Interpretation wie folgt an:
+a) 
+
+rückwirkend unter Anwendung von IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler oder
+b) 
+
+vorausschauend auf alle in den Anwendungsbereich dieser Interpretation fallenden Vermögenswerte, Aufwendungen und Erträge, die zu oder nach einem der folgenden Zeitpunkte erstmals erfasst werden:
+i) 
+
+Beginn der Berichtsperiode, auf die das Unternehmen die Interpretation erstmals anwendet, oder
+ii) 
+
+Beginn einer vorhergehenden Berichtsperiode, die im Abschluss derjenigen Berichtsperiode, auf die das Unternehmen die Interpretation erstmals anwendet, als Vergleichsinformation dargestellt wird.
+
+A3 Wendet das Unternehmen Paragraph A2(b) an, so wendet es die Interpretation bei der erstmaligen Anwendung auf Vermögenswerte, Aufwendungen und Erträge an, die zu oder nach Beginn einer Berichtsperiode gemäß Paragraph A2(b)(i) oder (ii), in der es nichtmonetäre Vermögenswerte oder nichtmonetäre Verbindlichkeiten für vor diesem Zeitpunkt erbrachte oder erhaltene Gegenleistungen erfasst hat, erstmals angesetzt werden.
+
+Anhang B
+
+Die in diesem Anhang enthaltene Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2018 beginnen. Wendet ein Unternehmen diese Interpretation früher an, so hat es auch diese Änderung für jene frühere Periode anzuwenden.
+

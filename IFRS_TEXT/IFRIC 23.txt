@@ -1,0 +1,148 @@
+﻿ IFRIC INTERPRETATION 23
+
+Unsicherheit bezüglich der ertragsteuerlichen Behandlung
+
+VERWEISE
+— 
+IAS 1 Darstellung des Abschlusses
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 10 Ereignisse nach dem Abschlussstichtag
+— 
+IAS 12 Ertragsteuern
+
+HINTERGRUND
+
+1 IAS 12 Ertragsteuern enthält Vorschriften in Bezug auf tatsächliche und latente Steueransprüche und Steuerschulden. Die Vorschriften von IAS 12 sind auf der Grundlage der geltenden Steuerrechtsvorschriften anzuwenden.
+
+2 Wie das Steuerrecht auf einen bestimmten Geschäftsvorfall oder Umstand anzuwenden ist, lässt sich möglicherweise nicht immer eindeutig bestimmen. Ob eine bestimmte steuerliche Behandlung nach dem Steuerrecht akzeptiert werden kann, ist möglicherweise solange nicht bekannt, bis die zuständige Steuerbehörde oder ein Gericht eine Entscheidung fällt. Daher kann sich die Anfechtung einer bestimmten steuerlichen Behandlung oder deren Prüfung durch die Steuerbehörde auf die Bilanzierung der tatsächlichen oder latenten Steueransprüche oder Steuerschulden des Unternehmens auswirken.
+
+3 In dieser Interpretation werden die folgenden Begriffe verwendet:
+a) 
+
+„steuerliche Behandlung“ bezeichnet die Behandlung, die ein Unternehmen bei seinen Ertragsteuererklärungen verwendet hat oder zu verwenden beabsichtigt,
+b) 
+
+„Steuerbehörde“ bezeichnet die Stelle oder Stellen, die entscheidet bzw. entscheiden, ob eine steuerliche Behandlung nach dem Steuerrecht akzeptiert werden kann; dies schließt auch Gerichte ein,
+c) 
+
+„unsichere steuerliche Behandlung“ bezeichnet eine steuerliche Behandlung, bei der unsicher ist, ob die zuständige Steuerbehörde sie nach dem Steuerrecht akzeptieren wird; so ist beispielsweise die Entscheidung des Unternehmens, in einem Steuerhoheitsgebiet keine Ertragsteuer zu erklären oder bestimmte Erträge nicht im zu versteuernden Gewinn zu erfassen, eine unsichere steuerliche Behandlung, solange unsicher ist, ob diese Behandlung nach dem Steuerrecht akzeptiert werden kann.
+
+ANWENDUNGSBEREICH
+
+4 Mit dieser Interpretation wird geklärt, wie die in IAS 12 festgelegten Ansatz- und Bewertungsvorschriften anzuwenden sind, wenn Unsicherheit bezüglich der ertragsteuerlichen Behandlung besteht. Das Unternehmen hat in solchen Fällen seine tatsächlichen und latenten Steueransprüche und Steuerschulden unter Anwendung der Vorschriften von IAS 12 anzusetzen und zu bewerten und dafür die nach Maßgabe dieser Interpretation ermittelten Werte des zu versteuernden Gewinns (bzw. steuerlichen Verlusts), der steuerlichen Basis, der ungenutzten steuerlichen Verluste und Steuergutschriften sowie der Steuersätze zugrunde zu legen.
+
+FRAGESTELLUNGEN
+
+5 Im Falle von Unsicherheit bezüglich der ertragsteuerlichen Behandlung regelt diese Interpretation,
+a) 
+
+ob das Unternehmen unsichere steuerliche Behandlungen gesondert zu berücksichtigen hat,
+b) 
+
+welche Annahmen das Unternehmen bezüglich der Prüfung der steuerlichen Behandlung durch die Steuerbehörde zugrunde zu legen hat,
+c) 
+
+wie das Unternehmen den zu versteuernden Gewinn (den steuerlichen Verlust), die steuerliche Basis, die ungenutzten steuerlichen Verluste und Steuergutschriften und die Steuersätze zu bestimmen hat, und
+d) 
+
+wie das Unternehmen geänderte Fakten und Umstände zu berücksichtigen hat.
+
+BESCHLUSS
+
+Gesonderte Berücksichtigung unsicherer steuerlicher Behandlungen
+
+6 Bei der Frage, ob eine unsichere steuerliche Behandlung gesondert oder zusammen mit einer oder mehreren anderen unsicheren steuerlichen Behandlungen zu berücksichtigen ist, wählt das Unternehmen diejenige Option, die sich im Hinblick auf die voraussichtliche Auflösung der Unsicherheit besser eignet. Zur Bestimmung der Option, die sich im Hinblick auf die voraussichtliche Auflösung der Unsicherheit besser eignet, kann das Unternehmen beispielsweise berücksichtigen, a) wie es seine Ertragssteuererklärungen erstellt und seine steuerlichen Behandlungen begründet oder b) wie die Steuerbehörde nach Einschätzung des Unternehmens die Prüfung vornehmen und die dabei möglicherweise festgestellten Probleme lösen wird.
+
+7 Fasst das Unternehmen in Anwendung von Paragraph 6 mehrere unsichere steuerliche Behandlungen zusammen, so bezeichnet der Ausdruck „unsichere steuerliche Behandlung“ in dieser Interpretation die gesamte Gruppe dieser unsicheren steuerlichen Behandlungen.
+
+Prüfung durch die Steuerbehörde
+
+8 Bei der Beurteilung, ob und wie sich eine unsichere steuerliche Behandlung auf die Bestimmung des zu versteuernden Gewinns (bzw. steuerlichen Verlusts), der steuerlichen Basis, der ungenutzten steuerlichen Verluste und Steuergutschriften und der Steuersätze auswirkt, hat das Unternehmen davon auszugehen, dass die Steuerbehörde sämtliche Beträge prüfen wird, zu deren Prüfung sie befugt ist, und dass sie für deren Prüfung über sämtliche einschlägigen Informationen verfügt.
+
+Bestimmung des zu versteuernden Gewinns (steuerlichen Verlusts), der steuerlichen Basis, der ungenutzten steuerlichen Verluste und Steuergutschriften und der Steuersätze
+
+9 Das Unternehmen hat zu beurteilen, ob es wahrscheinlich ist, dass die Steuerbehörde eine unsichere steuerliche Behandlung akzeptiert.
+
+10 Ist es nach Einschätzung des Unternehmens wahrscheinlich, dass die Steuerbehörde eine unsichere steuerliche Behandlung akzeptiert, so hat das Unternehmen den zu versteuernden Gewinn (steuerlichen Verlust), die steuerliche Basis, die ungenutzten steuerlichen Verluste und Steuergutschriften und die Steuersätze gemäß der steuerlichen Behandlung zu bestimmen, die es in seinen Ertragsteuererklärungen verwendet hat bzw. zu verwenden beabsichtigt.
+
+11 Ist es nach Einschätzung des Unternehmens unwahrscheinlich, dass die Steuerbehörde eine unsichere steuerliche Behandlung akzeptiert, so hat das Unternehmen bei der Bestimmung des zu versteuernden Gewinns (steuerlichen Verlusts), der steuerlichen Basis, der ungenutzten steuerlichen Verluste und Steuergutschriften und der Steuersätze die Auswirkung der Unsicherheit zu berücksichtigen. Zur Berücksichtigung der Auswirkung der Unsicherheit hat das Unternehmen auf jede unsichere steuerliche Behandlung diejenige der beiden folgenden Methoden anzuwenden, die sich seiner Einschätzung nach im Hinblick auf die voraussichtliche Auflösung der Unsicherheit besser eignet:
+a) 
+
+Methode des wahrscheinlichsten Betrags — derjenige Betrag, der innerhalb der Vielzahl möglicher Ergebnisse am wahrscheinlichsten ist; diese Methode eignet sich möglicherweise besser für die Vorhersage der Auflösung der Unsicherheit, wenn die möglichen Ergebnisse binär sind oder sich auf einen Wert konzentrieren,
+b) 
+
+Erwartungswertmethode — die Summe der wahrscheinlichkeitsgewichteten Beträge innerhalb der Vielzahl möglicher Ergebnisse; diese Methode eignet sich möglicherweise besser für die Vorhersage der Auflösung der Unsicherheit, wenn es eine Vielzahl möglicher Ergebnisse gibt, die weder binär sind noch sich auf einen Wert konzentrieren.
+
+12 Wenn sich eine unsichere steuerliche Behandlung sowohl auf tatsächliche als auch auf latente Steuern auswirkt (wenn sie sich z. B. sowohl auf den zu versteuernden Gewinn, auf dessen Grundlage die tatsächliche Steuer ermittelt wird, als auch auf die steuerliche Basis, die zur Ermittlung der latenten Steuern herangezogen wird, auswirkt), hat das Unternehmen für beide Steuern konsistente Ermessensentscheidungen zu fällen und Schätzungen vorzunehmen.
+
+Geänderte Fakten und Umstände
+
+13 Falls sich die einer Ermessensentscheidung oder Schätzung zugrunde liegenden Fakten oder Umstände ändern oder Informationen bekannt werden, die sich auf diese Ermessensentscheidung oder Schätzung auswirken, hat das Unternehmen die nach Maßgabe dieser Interpretation erforderliche Ermessensentscheidung oder Schätzung zu überprüfen. Geänderte Fakten und Umstände können beispielsweise bewirken, dass das Unternehmen hinsichtlich der voraussichtlich akzeptierten steuerlichen Behandlung zu einer anderen Schlussfolgerung und/oder hinsichtlich der von ihm geschätzten Auswirkung der Unsicherheit zu einem anderen Ergebnis gelangt. Die Paragraphen A1–A3 enthalten Leitlinien für die Berücksichtigung geänderter Fakten und Umstände.
+
+14 Das Unternehmen hat die Auswirkungen von geänderten Fakten und Umständen oder von neuen Informationen gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler als Änderung einer rechnungslegungsbezogenen Schätzung zu erfassen. Das Unternehmen hat IAS 10 Ereignisse nach dem Abschlussstichtag anzuwenden, um zu beurteilen, ob es sich bei einer nach dem Abschlussstichtag eingetretenen Änderung um ein zu berücksichtigendes oder nicht zu berücksichtigendes Ereignis handelt.
+
+Anhang A
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil von IFRIC 23 und hat die gleiche bindende Kraft wie die anderen Teile von IFRIC 23.
+
+GEÄNDERTE FAKTEN UND UMSTÄNDE (PARAGRAPH 13)
+
+A1 Bei der Anwendung von Paragraph 13 dieser Interpretation hat das Unternehmen die Relevanz und Auswirkung der geänderten Fakten und Umstände oder neuen Informationen vor dem Hintergrund des anwendbaren Steuerrechts zu beurteilen. Beispielsweise könnte ein bestimmtes Ereignis dazu führen, dass eine in Bezug auf eine steuerliche Behandlung getroffene Ermessensentscheidung oder vorgenommene Schätzung neu zu bewerten ist, während dies bei einer anderen steuerlichen Behandlung, die anderen Steuerrechtsvorschriften unterliegt, nicht der Fall sein mag.
+
+A2 Beispiele für geänderte Fakten und Umstände oder neue Informationen, die je nach den Umständen eine Neubewertung einer Ermessensentscheidung oder einer Schätzung nach dieser Interpretation erforderlich machen, sind unter anderem:
+a) 
+
+Prüfungen oder Maßnahmen einer Steuerbehörde wie:
+i) 
+
+die Genehmigung oder Ablehnung der Steuerbehörde in Bezug auf die vom Unternehmen verwendete steuerliche Behandlung oder eine ähnliche steuerliche Behandlung,
+ii) 
+
+die Information darüber, dass die Steuerbehörde eine von einem anderen Unternehmen verwendete ähnliche steuerliche Behandlung genehmigt oder abgelehnt hat, und
+iii) 
+
+die Information über den bei einer ähnlichen steuerlichen Behandlung erhaltenen oder gezahlten Betrag,
+b) 
+
+Änderungen bei den von der Steuerbehörde festgelegten Vorschriften,
+c) 
+
+das Ende der Befugnis der Steuerbehörde im Hinblick auf die Prüfung oder erneute Prüfung einer steuerlichen Behandlung.
+
+A3 Der alleinige Umstand, dass eine Steuerbehörde eine steuerliche Behandlung weder genehmigt noch abgelehnt hat, ist eher nicht als eine Änderung der Fakten und Umstände oder als neue Information anzusehen, die sich auf die nach Maßgabe dieser Interpretation erforderlichen Ermessensentscheidungen oder Schätzungen auswirkt.
+
+ANGABEN
+
+A4 Im Falle von Unsicherheit bezüglich der ertragsteuerlichen Behandlung hat das Unternehmen zu bestimmen, ob es
+a) 
+
+in Anwendung von Paragraph 122 von IAS 1 Darstellung des Abschlusses die Ermessensentscheidungen angibt, die es bei der Bestimmung des zu versteuernden Gewinns (bzw. steuerlichen Verlusts), der steuerlichen Basis, der ungenutzten steuerlichen Verluste und Steuergutschriften und der Steuersätze getroffen hat, und
+b) 
+
+in Anwendung der Paragraphen 125–129 von IAS 1 Angaben zu den Annahmen und Schätzungen macht, die es bei der Bestimmung des zu versteuernden Gewinns (bzw. steuerlichen Verlusts), der steuerlichen Basis, der ungenutzten steuerlichen Verluste und Steuergutschriften und der Steuersätze zugrunde gelegt hat.
+
+A5 Ist es nach Einschätzung des Unternehmens wahrscheinlich, dass die Steuerbehörde eine unsichere steuerliche Behandlung akzeptiert, so hat das Unternehmen festzulegen, ob es die potenzielle Auswirkung der Unsicherheit in Anwendung von Paragraph 88 von IAS 12 als steuerbezogene Eventualverbindlichkeit bzw. -forderung ausweist.
+
+Anhang B
+
+Zeitpunkt des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil von IFRIC 23 und hat die gleiche bindende Kraft wie die anderen Teile von IFRIC 23.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+B1 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2019 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Interpretation auf eine frühere Periode an, hat es dies anzugeben.
+
+ÜBERGANGSVORSCHRIFTEN
+
+B2 Erstanwender wenden diese Interpretation wie folgt an:
+a) 
+
+rückwirkend unter Anwendung von IAS 8, wenn dies ohne Verwendung nachträglicher Erkenntnisse möglich ist, oder
+b) 
+
+rückwirkend mit Erfassung der kumulierten Auswirkungen der erstmaligen Anwendung der Interpretation zum Zeitpunkt der Erstanwendung; wählt das Unternehmen diese Übergangsregelung, so hat es keine Anpassung von Vergleichsinformationen vorzunehmen; stattdessen bilanziert es die kumulierte Auswirkung der erstmaligen Anwendung der Interpretation als Anpassung des Eröffnungssaldos der Gewinnrücklagen (oder – soweit sachgerecht – einer sonstigen Eigenkapitalkomponente); Zeitpunkt der erstmaligen Anwendung ist der Beginn der Berichtsperiode, in der das Unternehmen diese Interpretation zum ersten Mal anwendet.

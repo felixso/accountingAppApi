@@ -1,0 +1,44 @@
+﻿ IFRIC INTERPRETATION 7
+
+Anwendung des Anpassungsansatzes nach IAS 29 Rechnungslegung in Hochinflationsländern
+
+VERWEISE
+— 
+IAS 12 Ertragsteuern
+— 
+IAS 29 Rechnungslegung in Hochinflationsländern
+
+HINTERGRUND
+
+1 Mit dieser Interpretation werden Leitlinien für die Anwendung von IAS 29 auf eine Berichtsperiode festgelegt, in der ein Unternehmen feststellt, dass in dem Land seiner funktionalen Währung Hochinflation herrscht ( 65 ), sofern dieses Land in der vorhergehenden Berichtsperiode nicht als hochinflationär anzusehen war, und folglich seinen Abschluss gemäß IAS 29 anpasst.
+
+FRAGESTELLUNGEN
+
+2 Diese Interpretation betrifft die folgenden Fragen:
+a) 
+
+Wie ist die Vorschrift in Paragraph 8 von IAS 29 („… in der am Abschlussstichtag geltenden Maßeinheit auszudrücken …“) auszulegen, wenn ein Unternehmen diesen Standard anwendet?
+b) 
+
+Wie sollte ein Unternehmen latente Steuern in der Eröffnungsbilanz in seinem angepassten Abschluss bilanzieren?
+
+BESCHLUSS
+
+3 In der Berichtsperiode, in der ein Unternehmen feststellt, dass in dem Land seiner funktionalen Währung Hochinflation herrscht, obwohl dies in der vorhergehenden Berichtsperiode nicht der Fall war, hat das Unternehmen IAS 29 so anzuwenden, als wäre dieses Land zuvor bereits hochinflationär gewesen. Folglich sind nichtmonetäre Posten, die zu den historischen Anschaffungs- und Herstellungskosten bewertet werden, in der Eröffnungsbilanz der frühesten im Abschluss dargestellten Berichtsperiode so anzupassen, dass den Auswirkungen der Inflation ab dem Zeitpunkt, zu dem die Vermögenswerte erworben und die Verbindlichkeiten eingegangen oder übernommen wurden, bis zum Abschlussstichtag Rechnung getragen wird. Für nichtmonetäre Posten, die in der Eröffnungsbilanz mit Beträgen angesetzt wurden, die zu einem anderen Zeitpunkt als dem des Erwerbs der Vermögenswerte oder des Eingehens der Verbindlichkeiten bestimmt wurden, muss die Anpassung stattdessen den Auswirkungen der Inflation ab dem Zeitpunkt, zu dem die Buchwerte bestimmt wurden, bis zum Abschlussstichtag Rechnung tragen.
+
+4 Am Abschlussstichtag werden latente Steuern nach IAS 12 erfasst und bewertet. Für die Eröffnungsbilanz der Berichtsperiode werden die Beträge der latenten Steuern jedoch wie folgt ermittelt:
+a) 
+
+das Unternehmen bewertet die latenten Steuern nach IAS 12 neu, nachdem es die nominalen Buchwerte der nichtmonetären Posten zum Zeitpunkt der Eröffnungsbilanz der Berichtsperiode durch Anwendung der zu diesem Zeitpunkt geltenden Maßeinheit angepasst hat,
+b) 
+
+die nach Buchstabe a neu bewerteten latenten Steuern werden vom Zeitpunkt der Eröffnungsbilanz der Berichtsperiode bis zum Abschlussstichtag dieser Berichtsperiode an die Änderung der Maßeinheit angepasst.
+
+Für die Berichtsperiode, in der das Unternehmen IAS 29 anwendet, verwendet es im angepassten Abschluss für alle Vergleichsperioden, die es dort darstellt, zur Anpassung der latenten Steuern in der Eröffnungsbilanz den unter den Buchstaben a und b genannten Ansatz.
+
+5 Nachdem ein Unternehmen seinen Abschluss angepasst hat, werden im Abschluss der späteren Berichtsperiode alle Zahlen einschließlich der latenten Steuern angepasst, indem für diese folgende Berichtsperiode der angepasste Abschluss der vorherigen Berichtsperiode nur um die Änderung der Maßeinheit angepasst wird.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+6 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. März 2006 beginnen. Eine frühere Anwendung wird empfohlen. Wenn ein Unternehmen diese Interpretation für Berichtsperioden anwendet, die vor dem 1. März 2006 beginnen, so ist diese Tatsache anzugeben.
+

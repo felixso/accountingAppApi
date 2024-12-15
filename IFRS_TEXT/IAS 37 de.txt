@@ -1,0 +1,499 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 37
+
+Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen
+
+ZIELSETZUNG
+
+Zielsetzung dieses Standards ist es sicherzustellen, dass auf Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen angemessene Ansatzkriterien und Bewertungsgrundlagen angewandt werden und dass der Anhang ausreichende Angaben enthält, die den Abschlussadressaten die Beurteilung von Art, Fälligkeit und Höhe derselben ermöglichen.
+
+ANWENDUNGSBEREICH
+
+1   Dieser Standard ist von allen Unternehmen auf die Bilanzierung und Bewertung von Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen anzuwenden; hiervon ausgenommen sind
+a) 
+
+diejenigen, die aus noch zu erfüllenden Verträgen resultieren, es sei denn, der Vertrag ist belastend, und
+b) 
+
+[gestrichen]
+c) 
+
+diejenigen, die von einem anderen Standard abgedeckt werden.
+
+2 Nicht anzuwenden ist dieser Standard auf Finanzinstrumente (einschließlich Garantien), die in den Anwendungsbereich von IFRS 9 Finanzinstrumente fallen.
+
+3 Noch zu erfüllende Verträge sind Verträge, bei denen beide Parteien ihre Verpflichtungen in keiner Weise oder teilweise zu gleichen Teilen erfüllt haben. Dieser Standard ist nicht auf noch zu erfüllende Verträge anzuwenden, es sei denn, diese sind belastend.
+
+4 [gestrichen]
+
+5 Wenn ein anderer Standard eine bestimmte Art von Rückstellung, Eventualverbindlichkeit oder Eventualforderung behandelt, hat ein Unternehmen den betreffenden Standard anstelle dieses Standards anzuwenden. So werden zum Beispiel bestimmte Rückstellungsarten in Standards zu folgenden Themen behandelt:
+a) 
+
+[gestrichen]
+b) 
+
+Ertragsteuern (siehe IAS 12 Ertragsteuern);
+c) 
+
+Leasingverhältnisse (siehe IFRS 16 Leasingverhältnisse). Dieser Standard gilt jedoch für alle Leasingverhältnisse, die vor dem Bereitstellungsdatum gemäß der Definition in IFRS 16 belastend werden. Dieser Standard gilt außerdem für kurzfristige Leasingverhältnisse und Leasingverhältnisse, bei denen der zugrunde liegende Vermögenswert von geringem Wert ist, die gemäß Paragraph 6 von IFRS 16 bilanziert werden und die belastend geworden sind;
+d) 
+
+Leistungen an Arbeitnehmer (siehe IAS 19 Leistungen an Arbeitnehmer);
+e) 
+
+Versicherungsverträge und andere Verträge im Anwendungsbereich von IFRS 17 Versicherungsverträge;
+f) 
+
+bedingte Gegenleistung eines Erwerbers bei einem Unternehmenszusammenschluss (siehe IFRS 3 Unternehmenszusammenschlüsse) und
+g) 
+
+Erlöse aus Verträgen mit Kunden (siehe IFRS 15 Erlöse aus Verträgen mit Kunden). Da IFRS 15 aber keine Vorschriften für belastende oder belastend gewordene Verträge mit Kunden enthält, gilt für solche Verträge der vorliegende Standard.
+
+6 [gestrichen]
+
+7 Der vorliegende Standard definiert Rückstellungen als Schulden, die bezüglich ihrer Fälligkeit oder ihrer Höhe ungewiss sind. In einigen Ländern wird der Begriff „Rückstellungen“ auch im Zusammenhang mit Posten wie Abschreibungen, Wertminderung von Vermögenswerten und Wertberichtigungen von zweifelhaften Forderungen verwendet: dies sind Anpassungen der Buchwerte von Vermögenswerten; sie werden im vorliegenden Standard nicht behandelt.
+
+8 Andere Standards legen fest, ob Ausgaben als Vermögenswerte oder als Aufwendungen behandelt werden. Diese Frage wird im vorliegendem Standard nicht behandelt. Entsprechend wird eine Aktivierung der bei der Bildung der Rückstellung angesetzten Aufwendungen durch diesen Standard weder verboten noch vorgeschrieben.
+
+9 Dieser Standard ist auf Rückstellungen für Restrukturierungsmaßnahmen (einschließlich aufgegebene Geschäftsbereiche) anzuwenden. Wenn eine Restrukturierungsmaßnahme der Definition eines aufgegebenen Geschäftsbereichs entspricht, können zusätzliche Angaben nach IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche erforderlich werden.
+
+DEFINITIONEN
+
+10   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Eine Rückstellung ist eine Schuld, die bezüglich ihrer Fälligkeit oder ihrer Höhe ungewiss ist.
+Eine Schuld  ( 26 ) ist eine gegenwärtige Verpflichtung des Unternehmens, die aus Ereignissen der Vergangenheit entsteht und deren Erfüllung für das Unternehmen mit einem Abfluss von Ressourcen mit wirtschaftlichem Nutzen verbunden sein dürfte.
+Ein verpflichtendes Ereignis ist ein Ereignis, das zu einer rechtlichen oder faktischen Verpflichtung führt, zu deren Erfüllung es für das Unternehmen keine realistische Alternative gibt.
+Eine rechtliche Verpflichtung ist eine Verpflichtung, die sich ableitet aus
+a) 
+
+einem Vertrag (aufgrund seiner expliziten oder impliziten Bedingungen),
+b) 
+
+Rechtsvorschriften oder
+c) 
+
+sonstigen unmittelbaren Auswirkungen von Rechtsvorschriften.
+Eine faktische Verpflichtung ist eine aus den Handlungen eines Unternehmens entstehende Verpflichtung, wenn
+a) 
+
+das Unternehmen durch sein bisher übliches Geschäftsgebaren, öffentlich angekündigte Maßnahmen oder eine ausreichend spezifische, aktuelle Aussage anderen Parteien gegenüber die Übernahme gewisser Verpflichtungen zum Ausdruck gebracht hat und
+b) 
+
+das Unternehmen dadurch bei den anderen Parteien eine gerechtfertigte Erwartung geweckt hat, dass es diesen Verpflichtungen nachkommt.
+Eine Eventualverbindlichkeit ist
+a) 
+
+eine mögliche Verpflichtung, die aus Ereignissen der Vergangenheit entsteht und deren Existenz durch das Eintreten oder Nichteintreten eines oder mehrerer unsicherer künftiger Ereignisse, die nicht vollständig unter der Kontrolle des Unternehmens stehen, erst noch bestätigt wird, oder
+b) 
+
+eine gegenwärtige Verpflichtung, die aus Ereignissen der Vergangenheit entsteht, jedoch nicht angesetzt wird, weil
+i) 
+
+ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen zur Erfüllung dieser Verpflichtung nicht wahrscheinlich ist oder
+ii) 
+
+die Höhe der Verpflichtung nicht ausreichend verlässlich bestimmt werden kann.
+Eine Eventualforderung ist ein möglicher Vermögenswert, der aus Ereignissen der Vergangenheit entsteht und dessen Existenz durch das Eintreten oder Nichteintreten eines oder mehrerer unsicherer künftiger Ereignisse, die nicht vollständig unter der Kontrolle des Unternehmens stehen, erst noch bestätigt wird.
+Ein belastender Vertrag ist ein Vertrag, bei dem die unvermeidbaren Kosten zur Erfüllung der vertraglichen Verpflichtungen höher sind als der erwartete wirtschaftliche Nutzen.
+Eine Restrukturierungsmaßnahme ist ein Programm, das vom Management geplant und kontrolliert wird und entweder
+a) 
+
+das von dem Unternehmen abgedeckte Geschäftsfeld oder
+b) 
+
+die Art, in der dieses Geschäft durchgeführt wird, wesentlich verändert.
+
+Rückstellungen und sonstige Schulden
+
+11 Rückstellungen können dadurch von sonstigen Schulden, wie z. B. Verbindlichkeiten aus Lieferungen und Leistungen sowie abgegrenzten Schulden unterschieden werden, dass bei ihnen Unsicherheiten hinsichtlich des Zeitpunkts oder der Höhe der zu ihrer Erfüllung künftig erforderlichen Ausgaben bestehen. Als Beispiel:
+a) 
+
+Verbindlichkeiten aus Lieferungen und Leistungen sind Schulden zur Zahlung von erhaltenen oder gelieferten Gütern oder Dienstleistungen, die vom Lieferanten in Rechnung gestellt oder formal vereinbart wurden, und
+b) 
+
+abgegrenzte Schulden sind Schulden zur Zahlung von erhaltenen oder gelieferten Gütern oder Dienstleistungen, die weder bezahlt wurden, noch vom Lieferanten in Rechnung gestellt oder formal vereinbart wurden. Hierzu gehören auch Mitarbeitern geschuldete Beträge (zum Beispiel im Zusammenhang mit der Abgrenzung von Urlaubsgeldern). Auch wenn die Höhe oder der zeitliche Anfall der abgegrenzten Schulden mitunter geschätzt werden muss, ist die Unsicherheit im Allgemeinen deutlich geringer als bei Rückstellungen.
+
+Abgegrenzte Schulden werden häufig als Teil der Verbindlichkeiten aus Lieferungen und Leistungen und sonstige Verbindlichkeiten ausgewiesen, wohingegen der Ausweis von Rückstellungen separat erfolgt.
+
+Beziehung zwischen Rückstellungen und Eventualverbindlichkeiten
+
+12 Im Allgemeinen betrachtet sind alle Rückstellungen als eventual anzusehen, da sie hinsichtlich ihrer Fälligkeit oder ihrer Höhe ungewiss sind. Nach der Definition dieses Standards wird der Begriff „eventual“ jedoch für Schulden und Vermögenswerte verwendet, die nicht angesetzt werden, weil sie durch das Eintreten oder Nichteintreten eines oder mehrerer unsicherer künftiger Ereignisse bedingt sind, die nicht vollständig unter der Kontrolle des Unternehmens stehen. Des Weiteren wird der Begriff „Eventualverbindlichkeit“ für Schulden verwendet, die die Ansatzkriterien nicht erfüllen.
+
+13 Dieser Standard unterscheidet zwischen
+a) 
+
+Rückstellungen — die als Schulden angesetzt werden (unter der Annahme, dass eine verlässliche Schätzung möglich ist), da sie gegenwärtige Verpflichtungen sind und zur Erfüllung der Verpflichtungen ein Abfluss von Mitteln mit wirtschaftlichem Nutzen wahrscheinlich ist, und
+b) 
+
+Eventualverbindlichkeiten — die nicht als Schulden angesetzt werden, da sie entweder
+i) 
+
+mögliche Verpflichtungen sind, weil die Verpflichtung des Unternehmens, die zu einem Abfluss von Ressourcen mit wirtschaftlichem Nutzen führen kann, noch bestätigt werden muss, oder
+ii) 
+
+gegenwärtige Verpflichtungen sind, die nicht den Ansatzkriterien dieses Standards genügen (entweder, weil ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen zur Erfüllung dieser Verpflichtungen nicht wahrscheinlich ist oder weil die Höhe der Verpflichtung nicht ausreichend verlässlich geschätzt werden kann).
+
+ANSATZ
+
+Rückstellungen
+
+14   Eine Rückstellung ist dann anzusetzen, wenn
+a) 
+
+einem Unternehmen aus einem Ereignis der Vergangenheit eine gegenwärtige Verpflichtung (rechtlich oder faktisch) entstanden ist,
+b) 
+
+der Abfluss von Ressourcen mit wirtschaftlichem Nutzen zur Erfüllung dieser Verpflichtung wahrscheinlich ist und
+c) 
+
+eine verlässliche Schätzung der Höhe der Verpflichtung möglich ist.
+
+Sind diese Bedingungen nicht erfüllt, ist keine Rückstellung anzusetzen.
+
+Gegenwärtige Verpflichtung
+
+15   Vereinzelt gibt es Fälle, in denen unklar ist, ob eine gegenwärtige Verpflichtung existiert. In diesen Fällen führt ein Ereignis der Vergangenheit zu einer gegenwärtigen Verpflichtung, wenn unter Berücksichtigung aller verfügbaren Anhaltspunkte mehr für das Bestehen einer gegenwärtigen Verpflichtung zum Abschlussstichtag als dagegen spricht.
+
+16 In fast allen Fällen wird es eindeutig sein, ob ein Ereignis der Vergangenheit zu einer gegenwärtigen Verpflichtung geführt hat. In Ausnahmefällen, zum Beispiel in einem Rechtsstreit, kann strittig sein, ob bestimmte Ereignisse eingetreten sind oder diese zu einer gegenwärtigen Verpflichtung geführt haben. In diesem Fall bestimmt ein Unternehmen unter Berücksichtigung aller verfügbaren Anhaltspunkte, einschließlich z. B. der Meinung von Sachverständigen, ob zum Abschlussstichtag eine gegenwärtige Verpflichtung besteht. Die zugrunde liegenden Anhaltspunkte umfassen alle zusätzlichen durch Ereignisse nach dem Abschlussstichtag entstandenen Anhaltspunkte. Auf der Grundlage dieser Anhaltspunkte
+a) 
+
+setzt das Unternehmen eine Rückstellung an (sofern die Ansatzkriterien erfüllt sind), wenn zum Abschlussstichtag mehr für das Bestehen einer gegenwärtigen Verpflichtung als dagegen spricht, und
+b) 
+
+gibt das Unternehmen eine Eventualverbindlichkeit an, wenn mehr Gründe für das Nichtbestehen einer gegenwärtigen Verpflichtung zum Abschlussstichtag sprechen als dagegen, es sei denn, ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen ist sehr unwahrscheinlich (siehe Paragraph 86).
+
+Ereignis der Vergangenheit
+
+17 Ein Ereignis der Vergangenheit, das zu einer gegenwärtigen Verpflichtung führt, wird als verpflichtendes Ereignis bezeichnet. Ein Ereignis ist ein verpflichtendes Ereignis, wenn ein Unternehmen keine realistische Alternative zur Erfüllung der durch dieses Ereignis entstandenen Verpflichtung hat. Das ist nur der Fall,
+a) 
+
+wenn die Erfüllung einer Verpflichtung rechtlich durchgesetzt werden kann, oder
+b) 
+
+wenn, im Falle einer faktischen Verpflichtung, das Ereignis (das aus einer Handlung des Unternehmens bestehen kann) gerechtfertigte Erwartungen bei anderen Parteien hervorruft, dass das Unternehmen die Verpflichtung erfüllen wird.
+
+18 Abschlüsse befassen sich mit der Vermögens- und Finanzlage eines Unternehmens zum Abschlussstichtag und nicht mit der möglichen künftigen Lage. Für Aufwendungen der künftigen Geschäftstätigkeit wird daher keine Rückstellung angesetzt. In der Bilanz eines Unternehmens werden ausschließlich Schulden angesetzt, die zum Abschlussstichtag bestehen.
+
+19 Rückstellungen werden nur für diejenigen aus Ereignissen der Vergangenheit entstandenen Verpflichtungen angesetzt, die unabhängig von den künftigen Handlungen (z. B. der künftigen Geschäftstätigkeit) eines Unternehmens bestehen. Beispiele für solche Verpflichtungen sind Strafgelder oder Kosten für die Beseitigung unrechtmäßiger Umweltschäden; diese beiden Fälle würden unabhängig von den künftigen Handlungen des Unternehmens bei Erfüllung zu einem Abfluss von Ressourcen mit wirtschaftlichem Nutzen führen. Entsprechend setzt ein Unternehmen eine Rückstellung für die Kosten der Beseitigung einer Ölanlage oder eines Kernkraftwerkes insoweit an, als das Unternehmen zur Beseitigung bereits entstandener Schäden verpflichtet ist. Dagegen kann ein Unternehmen aufgrund von wirtschaftlichem Druck oder Rechtsvorschriften Ausgaben planen oder vornehmen müssen, um seine Betriebstätigkeit künftig in einer bestimmten Weise zu ermöglichen (zum Beispiel die Installation von Rauchfiltern in einer bestimmten Fabrikart). Da das Unternehmen diese Ausgaben durch seine künftigen Handlungen vermeiden kann, zum Beispiel durch Änderung der Verfahren, hat es keine gegenwärtige Verpflichtung für diese künftigen Ausgaben und bildet auch keine Rückstellung.
+
+20 Eine Verpflichtung betrifft immer eine andere Partei, gegenüber der die Verpflichtung besteht. Die Kenntnis oder Identifikation der Partei, gegenüber der die Verpflichtung besteht, ist jedoch nicht notwendig — sie kann sogar gegenüber der Öffentlichkeit in ihrer Gesamtheit bestehen. Da eine Verpflichtung immer eine Zusage an eine andere Partei beinhaltet, entsteht durch eine Entscheidung des Managements bzw. eines Aufsichtsorgans noch keine faktische Verpflichtung zum Abschlussstichtag, wenn diese nicht den davon betroffenen Parteien vor dem Abschlussstichtag ausreichend ausführlich mitgeteilt wurde, sodass die Mitteilung eine gerechtfertigte Erwartung bei den Betroffenen hervorgerufen hat, dass das Unternehmen seinen Verpflichtungen nachkommt.
+
+21 Ein Ereignis, das nicht unverzüglich zu einer Verpflichtung führt, kann aufgrund von Gesetzesänderungen oder Handlungen des Unternehmens (zum Beispiel eine ausreichend spezifische öffentliche Aussage) zu einem späteren Zeitpunkt zu einer Verpflichtung führen. Beispielsweise kann zum Zeitpunkt der Verursachung von Umweltschäden keine Verpflichtung zur Beseitigung der Folgen bestehen. Die Verursachung der Schäden wird jedoch zu einem verpflichtenden Ereignis, wenn ein neues Gesetz die Beseitigung bestehender Schäden vorschreibt oder das Unternehmen öffentlich die Verantwortung für die Beseitigung in einer Weise übernimmt, dass dadurch eine faktische Verpflichtung entsteht.
+
+22 Wenn einzelne Bestimmungen eines Gesetzesentwurfs noch nicht endgültig feststehen, besteht eine Verpflichtung nur dann, wenn die Verabschiedung des Gesetzesentwurfs so gut wie sicher ist. Für die Zwecke dieses Standards wird eine solche Verpflichtung als rechtliche Verpflichtung behandelt. Aufgrund unterschiedlicher Verfahren bei der Verabschiedung von Gesetzen kann hier kein einzelnes Ereignis spezifiziert werden, bei dem die Verabschiedung eines Gesetzes so gut wie sicher ist. In vielen Fällen dürfte es nicht möglich sein, die tatsächliche Verabschiedung eines Gesetzes mit Sicherheit vorherzusagen, solange es nicht verabschiedet ist.
+
+Wahrscheinlicher Abfluss von Ressourcen mit wirtschaftlichem Nutzen
+
+23 Damit eine Schuld die Voraussetzungen für den Ansatz erfüllt, muss nicht nur eine gegenwärtige Verpflichtung existieren, auch der Abfluss von Ressourcen mit wirtschaftlichem Nutzen muss im Zusammenhang mit der Erfüllung der Verpflichtung wahrscheinlich sein. Für die Zwecke dieses Standards ( 27 ) wird ein Abfluss von Ressourcen oder ein anderes Ereignis als wahrscheinlich angesehen, wenn mehr dafür als dagegen spricht, d. h. die Wahrscheinlichkeit, dass das Ereignis eintritt, ist größer als die Wahrscheinlichkeit, dass es nicht eintritt. Ist die Existenz einer gegenwärtigen Verpflichtung nicht wahrscheinlich, so gibt das Unternehmen eine Eventualverbindlichkeit an, es sei denn, ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen ist sehr unwahrscheinlich (siehe Paragraph 86).
+
+24 Bei einer Vielzahl ähnlicher Verpflichtungen (z. B. Produktgarantien oder Ähnlichem) wird die Wahrscheinlichkeit eines Mittelabflusses bestimmt, indem die Gruppe der Verpflichtungen als Ganzes betrachtet wird. Auch wenn die Wahrscheinlichkeit eines Abflusses im Einzelfall gering sein dürfte, kann ein Abfluss von Ressourcen zur Erfüllung dieser Gruppe von Verpflichtungen insgesamt durchaus wahrscheinlich sein. Ist dies der Fall, wird eine Rückstellung angesetzt (sofern die anderen Ansatzkriterien erfüllt sind).
+
+Verlässliche Schätzung der Verpflichtung
+
+25 Die Verwendung von Schätzungen ist ein wesentlicher Bestandteil bei der Aufstellung von Abschlüssen und beeinträchtigt nicht deren Verlässlichkeit. Dies gilt insbesondere im Falle von Rückstellungen, die naturgemäß in höherem Maße unsicher sind als die meisten anderen Bilanzposten. Von äußerst seltenen Fällen abgesehen dürfte ein Unternehmen in der Lage sein, ein Spektrum möglicher Ergebnisse zu bestimmen und daher auch eine Schätzung der Verpflichtung vornehmen zu können, die für den Ansatz einer Rückstellung ausreichend verlässlich ist.
+
+26 In äußerst seltenen Fällen kann eine bestehende Schuld nicht angesetzt werden, und zwar dann, wenn keine verlässliche Schätzung möglich ist. Diese Schuld wird als Eventualverbindlichkeit angegeben (siehe Paragraph 86).
+
+Eventualverbindlichkeiten
+
+27   Ein Unternehmen darf keine Eventualverbindlichkeit ansetzen.
+
+28 Eine Eventualverbindlichkeit ist nach Paragraph 86 anzugeben, es sei denn, die Möglichkeit eines Abflusses von Ressourcen mit wirtschaftlichem Nutzen ist sehr unwahrscheinlich.
+
+29 Haftet ein Unternehmen gesamtschuldnerisch für eine Verpflichtung, wird der Teil der Verpflichtung, dessen Übernahme durch andere Parteien erwartet wird, als Eventualverbindlichkeit behandelt. Das Unternehmen setzt eine Rückstellung für den Teil der Verpflichtung an, für den ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen wahrscheinlich ist; dies gilt nicht in den äußerst seltenen Fällen, in denen keine verlässliche Schätzung möglich ist.
+
+30 Eventualverbindlichkeiten können sich anders entwickeln als ursprünglich erwartet. Daher werden sie laufend daraufhin beurteilt, ob ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen wahrscheinlich geworden ist. Ist ein Abfluss von künftigem wirtschaftlichem Nutzen für einen zuvor als Eventualverbindlichkeit behandelten Posten wahrscheinlich geworden, so wird eine Rückstellung im Abschluss der Berichtsperiode angesetzt, in der die Änderung in Bezug auf die Wahrscheinlichkeit eintritt (mit Ausnahme der äußerst seltenen Fälle, in denen keine verlässliche Schätzung möglich ist).
+
+Eventualforderungen
+
+31   Ein Unternehmen darf keine Eventualforderungen ansetzen.
+
+32 Eventualforderungen entstehen normalerweise aus ungeplanten oder unerwarteten Ereignissen, durch die dem Unternehmen die Möglichkeit eines Zuflusses von wirtschaftlichem Nutzen entsteht. Ein Beispiel ist ein Anspruch, den ein Unternehmen in einem gerichtlichen Verfahren mit unsicherem Ausgang durchzusetzen versucht.
+
+33 Eventualforderungen werden nicht im Abschluss angesetzt, da dadurch Erträge angesetzt würden, die möglicherweise nie realisiert werden. Ist die Realisation von Erträgen jedoch so gut wie sicher, ist der betreffende Vermögenswert nicht mehr als Eventualforderung anzusehen und dessen Ansatz angemessen.
+
+34 Eventualforderungen sind nach Paragraph 89 anzugeben, wenn der Zufluss wirtschaftlichen Nutzens wahrscheinlich ist.
+
+35 Eventualforderungen werden laufend beurteilt, um sicherzustellen, dass etwaige Entwicklungen im Abschluss angemessen widergespiegelt werden. Wenn ein Zufluss wirtschaftlichen Nutzens so gut wie sicher geworden ist, werden der Vermögenswert und der diesbezügliche Ertrag im Abschluss des Berichtszeitraums erfasst, in dem die Änderung eintritt. Ist ein Zufluss wirtschaftlichen Nutzens wahrscheinlich geworden, gibt das Unternehmen eine Eventualforderung an (siehe Paragraph 89).
+
+BEWERTUNG
+
+Bestmögliche Schätzung
+
+36   Der als Rückstellung angesetzte Betrag stellt die bestmögliche Schätzung der Ausgabe dar, die zur Erfüllung der gegenwärtigen Verpflichtung zum Abschlussstichtag erforderlich ist.
+
+37 Die bestmögliche Schätzung der zur Erfüllung der gegenwärtigen Verpflichtung erforderlichen Ausgabe ist der Betrag, den das Unternehmen bei vernünftiger Betrachtung zur Erfüllung der Verpflichtung zum Abschlussstichtag oder zur Übertragung der Verpflichtung auf einen Dritten zu diesem Termin zahlen müsste. Oft dürfte die Erfüllung oder Übertragung einer Verpflichtung zum Abschlussstichtag unmöglich oder über die Maßen teuer sein. Die Schätzung des vom Unternehmen bei vernünftiger Betrachtung zur Erfüllung oder zur Übertragung der Verpflichtung zu zahlenden Betrags stellt trotzdem die bestmögliche Schätzung der zur Erfüllung der gegenwärtigen Verpflichtung zum Abschlussstichtag erforderlichen Ausgaben dar.
+
+38 Die Schätzungen von Ergebnis und finanzieller Auswirkung hängen von Beurteilungen nach Ermessen des Managements, zusammen mit Erfahrungswerten aus ähnlichen Transaktionen und, gelegentlich, unabhängigen Sachverständigengutachten ab. Die zugrunde liegenden Anhaltspunkte umfassen alle zusätzlichen, durch Ereignisse nach dem Abschlussstichtag entstandenen Anhaltspunkte.
+
+39 Unsicherheiten in Bezug auf den als Rückstellung anzusetzenden Betrag werden in Abhängigkeit von den Umständen unterschiedlich behandelt. Wenn die zu bewertende Rückstellung eine große Anzahl von Positionen umfasst, wird die Verpflichtung durch Gewichtung aller möglichen Ergebnisse mit den damit verbundenen Wahrscheinlichkeiten geschätzt. Dieses statistische Schätzungsverfahren wird als Erwartungswertmethode bezeichnet. Daher wird je nach Eintrittswahrscheinlichkeit eines Verlustbetrags, zum Beispiel 60 Prozent oder 90 Prozent, eine unterschiedlich hohe Rückstellung gebildet. Bei einer Bandbreite möglicher Ergebnisse, innerhalb derer die Wahrscheinlichkeit der einzelnen Punkte gleich groß ist, wird der Mittelpunkt der Bandbreite verwendet.
+
+Beispiel
+
+Ein Unternehmen verkauft Güter mit einer Gewährleistung, nach der Kunden eine Erstattung der Reparaturkosten für Produktionsfehler erhalten, die innerhalb der ersten sechs Monate nach Kauf entdeckt werden. Bei kleineren Fehlern an allen verkauften Produkten würden Reparaturkosten in Höhe von 1 Million entstehen. Bei größeren Fehlern an allen verkauften Produkten würden Reparaturkosten in Höhe von 4 Millionen entstehen. Erfahrungswert und künftige Erwartungen des Unternehmens deuten darauf hin, dass 75 Prozent der verkauften Güter keine Fehler haben werden, 20 Prozent kleinere Fehler und 5 Prozent größere Fehler aufweisen dürften. Nach Paragraph 24 bestimmt ein Unternehmen die Wahrscheinlichkeit eines Abflusses der Verpflichtungen aus Gewährleistungen insgesamt.
+
+Der Erwartungswert für die Reparaturkosten beträgt:
+
+(75 % von null) + (20 % von 1 Mio.) + (5 % von 4 Mio.) = 400 000
+
+40 Wenn eine einzelne Verpflichtung bewertet wird, dürfte das jeweils wahrscheinlichste Ergebnis die bestmögliche Schätzung der Schuld darstellen. Aber auch in einem derartigen Fall betrachtet das Unternehmen die Möglichkeit anderer Ergebnisse. Wenn andere mögliche Ergebnisse entweder größtenteils über oder größtenteils unter dem wahrscheinlichsten Ergebnis liegen, ist die bestmögliche Schätzung ein höherer bzw. niedrigerer Betrag. Ein Beispiel: Wenn ein Unternehmen einen schwerwiegenden Fehler in einer großen, für einen Kunden gebauten Anlage beheben muss und das einzeln betrachtete, wahrscheinlichste Ergebnis sein mag, dass die Reparatur beim ersten Versuch erfolgreich ist und 1 000 kostet, wird dennoch eine höhere Rückstellung gebildet, wenn ein wesentliches Risiko besteht, dass weitere Reparaturen erforderlich sein werden.
+
+41 Die Bewertung der Rückstellung erfolgt vor Steuern, da die steuerlichen Konsequenzen von Rückstellungen und Veränderungen von Rückstellungen in IAS 12 behandelt werden.
+
+Risiken und Unsicherheiten
+
+42   Bei der bestmöglichen Schätzung einer Rückstellung sind die unvermeidbar mit vielen Ereignissen und Umständen verbundenen Risiken und Unsicherheiten zu berücksichtigen.
+
+43 Risiko beschreibt die Unsicherheit zukünftiger Entwicklungen. Eine Risikoanpassung kann den Betrag erhöhen, mit dem eine Schuld bewertet wird. Bei einer Beurteilung nach Ermessen unter unsicheren Umständen ist Vorsicht angebracht, damit Erträge bzw. Vermögenswerte nicht überbewertet und Aufwendungen bzw. Schulden nicht unterbewertet werden. Unsicherheiten rechtfertigen jedoch nicht die Bildung übermäßiger Rückstellungen oder eine vorsätzliche Überbewertung von Schulden. Wenn zum Beispiel die prognostizierten Kosten eines besonders nachteiligen Ergebnisses vorsichtig ermittelt werden, so wird dieses Ergebnis nicht absichtlich so behandelt, als sei es wahrscheinlicher als es tatsächlich ist. Sorgfalt ist notwendig, um die doppelte Berücksichtigung von Risiken und Unsicherheiten und die daraus resultierende Überbewertung einer Rückstellung zu vermeiden.
+
+44 Die Angabe von Unsicherheiten im Zusammenhang mit der Höhe der Ausgaben wird in Paragraph 85(b) behandelt.
+
+Barwert
+
+45   Bei einer wesentlichen Wirkung des Zinseffekts ist eine Rückstellung in Höhe des Barwerts der im Zusammenhang mit der Erfüllung der Verpflichtung erwarteten Ausgaben anzusetzen.
+
+46 Aufgrund des Zinseffekts sind Rückstellungen für bald nach dem Abschlussstichtag erfolgende Mittelabflüsse belastender als diejenigen für Mittelabflüsse in derselben Höhe zu einem späteren Zeitpunkt. Wenn die Wirkung wesentlich ist, werden Rückstellungen daher abgezinst.
+
+47   Der Abzinsungssatz ist/Die Abzinsungssätze sind ein Satz/Sätze vor Steuern, der/die die aktuellen Markterwartungen im Hinblick auf den Zinseffekt sowie die für die Schuld spezifischen Risiken widerspiegelt/widerspiegeln. Risiken, an die die Schätzungen künftiger Zahlungsströme angepasst wurden, dürfen keine Auswirkung auf den Abzinsungssatz/die Abzinsungssätze haben.
+
+Künftige Ereignisse
+
+48   Künftige Ereignisse, die den zur Erfüllung einer Verpflichtung erforderlichen Betrag beeinflussen können, sind bei der Höhe einer Rückstellung zu berücksichtigen, sofern es ausreichende objektive Anhaltspunkte für deren Eintreten gibt.
+
+49 Erwartete künftige Ereignisse können bei der Bewertung von Rückstellungen von besonderer Bedeutung sein. Ein Unternehmen kann beispielsweise der Ansicht sein, dass die Kosten für Aufräumarbeiten bei Stilllegung eines Standorts durch künftige technologische Veränderungen reduziert werden. Der angesetzte Betrag berücksichtigt eine angemessene Einschätzung technisch geschulter, objektiver Dritter und berücksichtigt alle verfügbaren Anhaltspunkte für zum Zeitpunkt der Aufräumarbeiten verfügbare Technologien. Daher sind beispielsweise die mit der zunehmenden Erfahrung bei Anwendung gegenwärtiger Technologien erwarteten Kostenminderungen oder die erwarteten Kosten für die Anwendung gegenwärtiger Technologien auf — verglichen mit den vorher ausgeführten Arbeiten — größere und komplexere Aufräumarbeiten zu berücksichtigen. Ein Unternehmen trifft jedoch keine Annahmen hinsichtlich der Entwicklung einer vollständig neuen Technologie für Aufräumarbeiten, wenn dies nicht durch ausreichend objektive Anhaltspunkte gestützt wird.
+
+50 Die Wirkung möglicher neuer Rechtsvorschriften wird bei der Bewertung gegenwärtiger Verpflichtungen berücksichtigt, wenn ausreichend objektive Anhaltspunkte vorliegen, dass die Verabschiedung der Rechtsvorschriften so gut wie sicher ist. Die Vielzahl von Situationen in der Praxis macht die Festlegung eines einzelnen Ereignisses, das in jedem Fall ausreichend objektive Anhaltspunkte liefern würde, unmöglich. Die Anhaltspunkte müssen sich sowohl auf die Rechtsvorschriften als auch darauf, dass eine zeitnahe Verabschiedung und Umsetzung so gut wie sicher ist, erstrecken. In vielen Fällen dürften bis zur Verabschiedung der neuen Rechtsvorschriften keine ausreichenden objektiven Anhaltspunkte vorliegen.
+
+Erwarteter Abgang von Vermögenswerten
+
+51   Gewinne aus dem erwarteten Abgang von Vermögenswerten sind bei der Bildung einer Rückstellung nicht zu berücksichtigen.
+
+52 Gewinne aus dem erwarteten Abgang von Vermögenswerten werden bei der Bildung einer Rückstellung nicht berücksichtigt; dies gilt selbst dann, wenn der erwartete Abgang eng mit dem Ereignis verbunden ist, aufgrund dessen die Rückstellung gebildet wird. Stattdessen erfasst das Unternehmen Gewinne aus dem erwarteten Abgang von Vermögenswerten zu dem Zeitpunkt, der in dem für die betreffenden Vermögenswerte maßgeblichen Standard vorgesehen ist.
+
+ERSTATTUNGEN
+
+53   Wenn erwartet wird, dass die zur Erfüllung einer zurückgestellten Verpflichtung erforderlichen Ausgaben ganz oder teilweise von einer anderen Partei erstattet werden, ist die Erstattung nur dann zu erfassen, wenn es so gut wie sicher ist, dass das Unternehmen die Erstattung bei Erfüllung der Verpflichtung erhält. Die Erstattung ist als separater Vermögenswert zu behandeln. Der für die Erstattung angesetzte Betrag darf die Höhe der Rückstellung nicht übersteigen.
+
+54   In der Gesamtergebnisrechnung kann der Aufwand zur Bildung einer Rückstellung nach Abzug der Erstattung netto erfasst werden.
+
+55 In einigen Fällen kann ein Unternehmen von einer anderen Partei ganz oder teilweise die Zahlung der zur Erfüllung der zurückgestellten Verpflichtung erforderlichen Ausgaben erwarten (beispielsweise aufgrund von Versicherungsverträgen, Entschädigungsklauseln oder Gewährleistungen von Lieferanten). Entweder erstattet die andere Partei die vom Unternehmen gezahlten Beträge oder sie zahlt diese direkt.
+
+56 In den meisten Fällen bleibt das Unternehmen für den gesamten entsprechenden Betrag haftbar, sodass es den gesamten Betrag begleichen muss, falls die Zahlung durch Dritte aus irgendeinem Grunde nicht erfolgt. In dieser Situation wird eine Rückstellung in voller Höhe der Schuld und ein separater Vermögenswert für die erwartete Erstattung angesetzt, wenn es so gut wie sicher ist, dass das Unternehmen die Erstattung bei Begleichung der Schuld erhalten wird.
+
+57 In einigen Fällen ist das Unternehmen bei Nichtzahlung Dritter für die entsprechenden Kosten nicht haftbar. In diesem Fall hat das Unternehmen keine Schuld für diese Kosten und sie werden nicht in die Rückstellung einbezogen.
+
+58 Wie in Paragraph 29 dargelegt, ist eine Verpflichtung, für die ein Unternehmen gesamtschuldnerisch haftet, in dem Maße eine Eventualverbindlichkeit, in dem eine Erfüllung der Verpflichtung durch andere Parteien erwartet wird.
+
+ANPASSUNG DER RÜCKSTELLUNGEN
+
+59   Rückstellungen sind zu jedem Abschlussstichtag zu prüfen und anzupassen, damit sie die aktuell bestmögliche Schätzung widerspiegeln. Wenn es nicht mehr wahrscheinlich ist, dass mit der Erfüllung der Verpflichtung ein Abfluss von Ressourcen mit wirtschaftlichem Nutzen verbunden ist, ist die Rückstellung aufzulösen.
+
+60 Bei Abzinsung spiegelt sich der Zeitablauf in der periodischen Erhöhung des Buchwerts einer Rückstellung wider. Diese Erhöhung wird als Fremdkapitalkosten erfasst.
+
+VERBRAUCH VON RÜCKSTELLUNGEN
+
+61   Eine Rückstellung ist nur für Ausgaben zu verbrauchen, für die sie ursprünglich gebildet wurde.
+
+62 Gegen die ursprüngliche Rückstellung dürfen nur Ausgaben aufgerechnet werden, für die sie auch gebildet wurde. Die Aufrechnung einer Ausgabe gegen eine für einen anderen Zweck gebildete Rückstellung würde die Wirkung zweier unterschiedlicher Ereignisse verbergen.
+
+ANWENDUNG DER BILANZIERUNGS- UND BEWERTUNGSVORSCHRIFTEN
+
+Künftige betriebliche Verluste
+
+63   Im Zusammenhang mit künftigen betrieblichen Verlusten sind keine Rückstellungen anzusetzen.
+
+64 Künftige betriebliche Verluste entsprechen nicht der Definition einer Schuld nach Paragraph 10 und den in Paragraph 14 dargelegten allgemeinen Ansatzkriterien für Rückstellungen.
+
+65 Die Erwartung künftiger betrieblicher Verluste ist ein Anzeichen für eine mögliche Wertminderung bestimmter Vermögenswerte des Geschäftsbereichs. Ein Unternehmen prüft diese Vermögenswerte nach IAS 36 Wertminderung von Vermögenswerten auf Wertminderung.
+
+Belastende Verträge
+
+66   Hat ein Unternehmen einen belastenden Vertrag, ist die gegenwärtige vertragliche Verpflichtung als Rückstellung anzusetzen und zu bewerten.
+
+67 Zahlreiche Verträge (beispielsweise einige Standard-Kaufaufträge) können ohne Zahlung einer Entschädigung an eine andere Partei storniert werden; daher besteht in diesen Fällen keine Verpflichtung. Andere Verträge begründen sowohl Rechte als auch Verpflichtungen für jede Vertragspartei. Wenn die Umstände dazu führen, dass ein solcher Vertrag belastend wird, fällt der Vertrag unter den Anwendungsbereich dieses Standards und es besteht eine anzusetzende Schuld. Noch zu erfüllende Verträge, die nicht belastend sind, fallen nicht in den Anwendungsbereich dieses Standards.
+
+68 Dieser Standard definiert einen belastenden Vertrag als einen Vertrag, bei dem die unvermeidbaren Kosten zur Erfüllung der vertraglichen Verpflichtungen höher sind als der daraus erwartete wirtschaftliche Nutzen. Die unvermeidbaren Kosten unter einem Vertrag spiegeln den Mindestbetrag der bei Ausstieg aus dem Vertrag anfallenden Nettokosten wider; diese stellen den niedrigeren Betrag aus den Kosten der Erfüllung und etwaigen aus der Nichterfüllung resultierenden Entschädigungszahlungen oder Strafgeldern dar.
+
+68A Die Kosten der Erfüllung eines Vertrags umfassen die Kosten, die dem Vertrag einzeln zuordenbar sind. Die Kosten, die einem Vertrag einzeln zuordenbar sind, umfassen sowohl
+a) 
+
+die durch die Erfüllung dieses Vertrags verursachten zusätzlichen Kosten – wie direkte Lohn- und Materialkosten – als auch
+b) 
+
+die Zuweisung weiterer der Vertragserfüllung einzeln zuordenbarer Kosten – wie z. B. die anteilige Abschreibung einer unter anderem zur Vertragserfüllung genutzten Sachanlage.
+
+69 Bevor eine gesonderte Rückstellung für einen belastenden Vertrag gebildet wird, erfasst ein Unternehmen jeglichen Wertminderungsaufwand für die im Rahmen der Vertragserfüllung verwendeten Vermögenswerte (siehe IAS 36).
+
+Restrukturierungsmaßnahmen
+
+70 Die folgenden als Beispiel angeführten Ereignisse können unter die Definition einer Restrukturierungsmaßnahme fallen:
+a) 
+
+Verkauf oder Beendigung eines Geschäftszweigs,
+b) 
+
+die Stilllegung von Standorten in einem Land oder einer Region oder die Verlegung von Geschäftstätigkeiten von einem Land oder einer Region in ein anderes bzw. eine andere,
+c) 
+
+Änderungen in der Struktur des Managements, z. B. Auflösung einer Managementebene, und
+d) 
+
+grundsätzliche Reorganisation mit wesentlichen Auswirkungen auf Art und Schwerpunkt der Geschäftstätigkeit des Unternehmens.
+
+71 Eine Rückstellung für Restrukturierungskosten wird nur angesetzt, wenn die in Paragraph 14 aufgeführten allgemeinen Ansatzkriterien für Rückstellungen erfüllt sind. In den Paragraphen 72–83 ist dargelegt, wie die allgemeinen Ansatzkriterien auf Restrukturierungen anzuwenden sind.
+
+72   Eine faktische Verpflichtung zur Restrukturierung entsteht nur, wenn ein Unternehmen
+a) 
+
+einen detaillierten, formalen Restrukturierungsplan hat, in dem zumindest die folgenden Angaben enthalten sind:
+i) 
+
+der betroffene Geschäftsbereich oder Teil eines Geschäftsbereichs,
+ii) 
+
+die wichtigsten betroffenen Standorte,
+iii) 
+
+Standort, Funktion und ungefähre Anzahl der Arbeitnehmer, die für die Beendigung ihres Beschäftigungsverhältnisses eine Abfindung erhalten werden,
+iv) 
+
+die entstehenden Ausgaben sowie
+v) 
+
+der Umsetzungszeitpunkt des Plans, und
+b) 
+
+bei den Betroffenen durch den Beginn der Umsetzung des Plans oder die Ankündigung seiner wesentlichen Bestandteile den Betroffenen gegenüber eine gerechtfertigte Erwartung geweckt hat, dass die Restrukturierungsmaßnahmen durchgeführt werden.
+
+73 Anhaltspunkte für den Beginn der Umsetzung eines Restrukturierungsplans in einem Unternehmen wären beispielsweise die Demontage einer Anlage oder der Verkauf von Vermögenswerten oder die öffentliche Ankündigung der Hauptpunkte des Plans. Eine öffentliche Ankündigung eines detaillierten Restrukturierungsplans stellt nur dann eine faktische Verpflichtung zur Restrukturierung dar, wenn sie in einer Weise und so detailliert (d. h. unter Angabe der Hauptpunkte im Plan) erfolgt, dass sie bei anderen Parteien, z. B. Kunden, Lieferanten und Mitarbeitern (oder deren Vertretern) gerechtfertigte Erwartungen hervorruft, dass das Unternehmen die Restrukturierung durchführen wird.
+
+74 Voraussetzung dafür, dass ein Plan durch die Bekanntgabe an die Betroffenen zu einer faktischen Verpflichtung führt, ist, dass der Beginn der Umsetzung zum frühestmöglichen Zeitpunkt geplant ist und in einem Zeitrahmen vollzogen wird, der bedeutende Änderungen am Plan unwahrscheinlich erscheinen lässt. Wenn der Beginn der Restrukturierungsmaßnahmen erst nach einer längeren Verzögerung erwartet wird oder ein unverhältnismäßig langer Zeitraum für die Durchführung vorgesehen ist, ist es unwahrscheinlich, dass der Plan bei anderen die gerechtfertigte Erwartung einer gegenwärtigen Absicht des Unternehmens zur Restrukturierung weckt, denn der Zeitrahmen gestattet dem Unternehmen, Änderungen am Plan vorzunehmen.
+
+75 Allein durch einen Restrukturierungsbeschluss des Managements oder eines Aufsichtsorgans vor dem Abschlussstichtag entsteht noch keine faktische Verpflichtung zum Abschlussstichtag, sofern das Unternehmen nicht vor dem Abschlussstichtag
+a) 
+
+mit der Umsetzung des Restrukturierungsplans begonnen hat oder
+b) 
+
+den Betroffenen gegenüber die Hauptpunkte des Restrukturierungsplans ausreichend detailliert angekündigt hat, um in diesen eine gerechtfertigte Erwartung zu wecken, dass die Restrukturierung von dem Unternehmen durchgeführt wird.
+
+Wenn ein Unternehmen mit der Umsetzung eines Restrukturierungsplans erst nach dem Abschlussstichtag beginnt oder den Betroffenen die Hauptpunkte erst nach dem Abschlussstichtag ankündigt, ist eine Angabe gemäß IAS 10 Ereignisse nach dem Abschlussstichtag erforderlich, sofern die Restrukturierung wesentlich ist und unter normalen Umständen davon auszugehen ist, dass ihre Nichtangabe die von den Hauptadressaten eines Abschlusses für allgemeine Zwecke, der Finanzinformationen zum berichtenden Unternehmen enthält, getroffenen Entscheidungen beeinflusst.
+
+76 Auch wenn allein durch die Entscheidung des Managements noch keine faktische Verpflichtung entstanden ist, kann, zusammen mit anderen früheren Ereignissen, eine Verpflichtung aus einer solchen Entscheidung entstehen. Beispielsweise können Verhandlungen über Abfindungszahlungen mit Arbeitnehmervertretern oder Verhandlungen zum Verkauf von Geschäftsbereichen mit Käufern unter dem Vorbehalt der Zustimmung des Aufsichtsorgans abgeschlossen werden. Nachdem die Zustimmung erteilt und den anderen Parteien mitgeteilt wurde, hat das Unternehmen eine faktische Verpflichtung zur Restrukturierung, wenn die Bedingungen in Paragraph 72 erfüllt sind.
+
+77 In einigen Ländern liegt die letztliche Entscheidungsbefugnis bei einem Organ, in dem auch Vertreter anderer Interessen als die des Managements (z. B. Arbeitnehmer) vertreten sind, oder eine Bekanntgabe gegenüber diesen Vertretern kann vor der Entscheidung dieses Organs erforderlich sein. Da eine Entscheidung durch ein solches Organ die Bekanntgabe an die genannten Vertreter erfordert, kann hieraus eine faktische Verpflichtung zur Restrukturierung resultieren.
+
+78   Aus dem Verkauf von Geschäftsbereichen entsteht erst dann eine Verpflichtung, wenn das Unternehmen den Verkauf verbindlich abgeschlossen hat, d. h. ein bindender Kaufvertrag existiert.
+
+79 Auch wenn das Unternehmen eine Entscheidung zum Verkauf eines Geschäftsbereichs getroffen und diese Entscheidung öffentlich angekündigt hat, kann der Verkauf nicht als verpflichtend angesehen werden, solange kein Käufer identifiziert wurde und kein bindender Kaufvertrag existiert. Bevor nicht ein bindender Kaufvertrag besteht, kann das Unternehmen seine Meinung noch ändern und wird tatsächlich andere Maßnahmen ergreifen müssen, wenn kein Käufer zu akzeptablen Bedingungen gefunden werden kann. Wenn der Verkauf eines Geschäftsbereichs im Rahmen einer Restrukturierung geplant ist, werden die Vermögenswerte des Geschäftsbereichs nach IAS 36 auf Wertminderung geprüft. Wenn ein Verkauf nur Teil einer Restrukturierung darstellt, kann für die anderen Teile der Restrukturierung eine faktische Verpflichtung entstehen, bevor ein bindender Kaufvertrag existiert.
+
+80   Eine Restrukturierungsrückstellung darf nur die direkt im Zusammenhang mit der Restrukturierung entstehenden Ausgaben enthalten, die sowohl
+a) 
+
+zwangsläufig im Zuge der Restrukturierung entstehen als auch
+b) 
+
+nicht mit den laufenden Tätigkeiten des Unternehmens im Zusammenhang stehen.
+
+81 Eine Restrukturierungsrückstellung enthält keine Aufwendungen für
+a) 
+
+Umschulung oder Versetzung weiterbeschäftigter Mitarbeiter,
+b) 
+
+Marketing oder
+c) 
+
+Investitionen in neue Systeme und Vertriebsnetze.
+
+Diese Ausgaben entstehen für die künftige Geschäftstätigkeit und stellen zum Abschlussstichtag keine Restrukturierungsverpflichtungen dar. Solche Ausgaben werden auf derselben Grundlage erfasst, als wären sie unabhängig von einer Restrukturierung entstanden.
+
+82 Bis zum Tag einer Restrukturierung entstehende, identifizierbare künftige betriebliche Verluste werden nicht als Rückstellung behandelt, es sei denn sie stehen mit einem belastenden Vertrag im Sinne des Paragraphen 10 im Zusammenhang.
+
+83 Gemäß Paragraph 51 sind Gewinne aus dem erwarteten Abgang von Vermögenswerten bei der Bewertung einer Restrukturierungsrückstellung nicht zu berücksichtigen; dies gilt selbst, wenn der Verkauf der Vermögenswerte als Teil der Restrukturierung geplant ist.
+
+ANGABEN
+
+84   Ein Unternehmen hat für jede Gruppe von Rückstellungen die folgenden Angaben zu machen:
+a) 
+
+den Buchwert zu Beginn und zum Ende der Berichtsperiode,
+b) 
+
+zusätzliche, in der Berichtsperiode gebildete Rückstellungen, einschließlich der Erhöhung von bestehenden Rückstellungen,
+c) 
+
+während der Berichtsperiode verwendete (d. h. entstandene und gegen die Rückstellung verrechnete) Beträge,
+d) 
+
+nicht verwendete Beträge, die während der Berichtsperiode aufgelöst wurden, und
+e) 
+
+die Erhöhung des während der Berichtsperiode aufgrund des Zeitablaufs abgezinsten Betrags und die Auswirkung von Änderungen des Abzinsungssatzes.
+
+Vergleichsinformationen sind nicht erforderlich.
+
+85   Ein Unternehmen hat für jede Gruppe von Rückstellungen die folgenden Angaben zu machen:
+a) 
+
+eine kurze Beschreibung der Art der Verpflichtung sowie der erwarteten Zeitpunkte resultierender Abflüsse von wirtschaftlichem Nutzen;
+b) 
+
+die Angabe von Unsicherheiten hinsichtlich des Betrags oder der Zeitpunkte dieser Abflüsse. Falls die Angabe von adäquaten Informationen erforderlich ist, hat ein Unternehmen die wesentlichen Annahmen für künftige Ereignisse nach Paragraph 48 anzugeben und
+c) 
+
+die Höhe aller erwarteten Erstattungen unter Angabe der Höhe der Vermögenswerte, die für die jeweilige erwartete Erstattung angesetzt wurden.
+
+86   Sofern die Möglichkeit eines Abflusses bei der Erfüllung nicht sehr unwahrscheinlich ist, hat ein Unternehmen für jede Gruppe von Eventualverbindlichkeiten zum Abschlussstichtag eine kurze Beschreibung der Eventualverbindlichkeit und, falls durchführbar, die folgenden Angaben zu machen:
+a) 
+
+eine Schätzung der finanziellen Auswirkungen, bewertet nach den Paragraphen 36–52,
+b) 
+
+die Angabe von Unsicherheiten hinsichtlich des Betrags oder der Zeitpunkte von Abflüssen und
+c) 
+
+die Möglichkeit einer Erstattung.
+
+87 Bei der Bestimmung, welche Rückstellungen oder Eventualverbindlichkeiten zu einer Gruppe zusammengefasst werden können, muss überlegt werden, ob die Positionen ihrer Art nach ausreichend ähnlich sind, sodass eine zusammenfassende Angabe die Vorschriften der Paragraphen 85(a) und (b) und 86(a) und (b) erfüllen würde. Es kann daher angebracht sein, Beträge für Gewährleistungen für unterschiedliche Produkte als eine Rückstellungsgruppe zu behandeln; es wäre jedoch nicht angebracht, Beträge für normale Gewährleistungsrückstellungen und Beträge, die Gegenstand eines Rechtsstreits sind, als eine Gruppe von Rückstellungen zu behandeln.
+
+88 Wenn aus denselben Umständen eine Rückstellung und eine Eventualverbindlichkeit entstehen, erfolgt die nach den Paragraphen 84–86 erforderliche Angabe durch das Unternehmen in einer Art und Weise, die den Zusammenhang zwischen der Rückstellung und der Eventualverbindlichkeit aufzeigt.
+
+89   Ist ein Zufluss von wirtschaftlichem Nutzen wahrscheinlich, so hat ein Unternehmen eine kurze Beschreibung der Art der Eventualforderungen zum Abschlussstichtag und, wenn durchführbar, eine Schätzung der finanziellen Auswirkungen, bewertet auf der Grundlage der Vorschriften für Rückstellungen in den Paragraphen 36–52 anzugeben.
+
+90 Es ist wichtig, dass bei Angaben zu Eventualforderungen irreführende Angaben zur Wahrscheinlichkeit des Entstehens von Erträgen vermieden werden.
+
+91   Werden nach den Paragraphen 86 und 89 erforderliche Angaben aus Gründen der Undurchführbarkeit nicht gemacht, so ist dies anzugeben.
+
+92   In äußerst seltenen Fällen kann die teilweise oder vollständige Angabe von Informationen nach den Paragraphen 84–89 die Lage des Unternehmens in einem mit anderen Parteien geführten Rechtsstreit über den Gegenstand der Rückstellungen, Eventualverbindlichkeiten oder Eventualforderungen ernsthaft beeinträchtigen. In diesen Fällen muss das Unternehmen die Angaben nicht machen, es hat jedoch den allgemeinen Charakter des Rechtsstreits darzulegen, sowie die Tatsache, dass gewisse Angaben nicht gemacht wurden und die Gründe dafür.
+
+ÜBERGANGSVORSCHRIFTEN
+
+93   Die Auswirkungen der Anwendung dieses Standards zum Zeitpunkt seines Inkrafttretens (oder früher) ist als eine Berichtigung des Eröffnungsbilanzwerts der Gewinnrücklagen in der Berichtsperiode zu erfassen, in der der Standard erstmals angewendet wird. Unternehmen wird empfohlen, jedoch nicht zwingend vorgeschrieben, die Anpassung der Eröffnungsbilanz der Gewinnrücklagen für die früheste angegebene Berichtsperiode vorzunehmen und die Vergleichsinformationen anzupassen. Falls Vergleichsinformationen nicht angepasst werden, ist die anzugeben.
+
+94 [gestrichen]
+
+94A Durch die im Mai 2020 veröffentlichte Verlautbarung Belastende Verträge — Kosten für die Erfüllung eines Vertrags wurde Paragraph 68A eingefügt und Paragraph 69 geändert. Ein Unternehmen hat diese Änderungen auf Verträge anzuwenden, bei denen es zu Beginn des Geschäftsjahrs, in der es die Änderungen erstmals anwendet (dem Zeitpunkt der erstmaligen Anwendung), noch nicht alle seine Verpflichtungen erfüllt hat. Vergleichsinformationen sind nicht anzupassen. Stattdessen hat das Unternehmen die kumulierte Auswirkung der erstmaligen Anwendung der Änderungen als Berichtigung des Eröffnungsbilanzwerts für die Gewinnrücklagen (oder eine andere als sachgerecht angesehene Eigenkapitalkomponente) zum Zeitpunkt der erstmaligen Anwendung zu erfassen.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+95 Dieser Standard ist verbindlich auf Jahresabschlüsse eines am oder nach dem 1. Juli 1999 beginnenden Geschäftsjahrs anzuwenden. Eine frühere Anwendung wird empfohlen. Wenn ein Unternehmen diesen Standard auf Berichtsperioden an, die vor dem 1. Juli 1999 beginnen, hat es dies anzugeben.
+
+96 [gestrichen]
+
+97 [gestrichen]
+
+98 [gestrichen]
+
+99 Durch die im Dezember 2013 veröffentlichten Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2010–2012, wurde aufgrund der Änderung von IFRS 3 Paragraph 5 geändert. Ein Unternehmen hat diese Änderung prospektiv auf Unternehmenszusammenschlüsse anzuwenden, für die die Änderung von IFRS 3 gilt.
+
+100 Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurde Paragraph 5 geändert und Paragraph 6 gestrichen. Wendet ein Unternehmen IFRS 15 an, sind diese Änderungen ebenfalls anzuwenden.
+
+101 Durch IFRS 9 (in der im Juli 2014 veröffentlichten Fassung) wurde Paragraph 2 geändert und wurden die Paragraphen 97 und 98 gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+102 Durch IFRS 16, veröffentlicht im Januar 2016, wurde Paragraph 5 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+103 Durch IFRS 17, veröffentlicht im Mai 2017, wurde Paragraph 5 geändert. Wendet ein Unternehmen IFRS 17 an, ist diese Änderung ebenfalls anzuwenden.
+
+104 Durch die im Oktober 2018 veröffentlichte Verlautbarung Definition von „wesentlich“ (Änderungen an IAS 1 und IAS 8) wurde Paragraph 75 geändert. Diese Änderungen sind prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben. Wendet ein Unternehmen die geänderte Definition von „wesentlich“ in Paragraph 7 von IAS 1 und in den Paragraphen 5 und 6 von IAS 8 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+105 Durch die im Mai 2020 veröffentlichte Verlautbarung Belastende Verträge — Kosten für die Erfüllung eines Vertrags wurden die Paragraphen 68A und 94A eingefügt und Paragraph 69 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2022 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben.

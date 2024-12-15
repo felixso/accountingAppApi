@@ -1,0 +1,83 @@
+﻿ IFRIC INTERPRETATION 19
+
+Tilgung finanzieller Verbindlichkeiten durch Eigenkapitalinstrumente
+
+VERWEISE
+— 
+Rahmenkonzept für die Aufstellung und Darstellung von Abschlüssen  ( 71 )
+— 
+IFRS 2 Anteilsbasierte Vergütung
+— 
+IFRS 3 Unternehmenszusammenschlüsse
+— 
+IFRS 9 Finanzinstrumente
+— 
+IFRS 13 Bewertung zum beizulegenden Zeitwert
+— 
+IAS 1 Darstellung des Abschlusses
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 32 Finanzinstrumente: Darstellung
+
+HINTERGRUND
+
+1 Der Schuldner und der Gläubiger können die Bedingungen einer finanziellen Verbindlichkeit neu aushandeln und dabei vereinbaren, dass der Schuldner die Verbindlichkeit durch Ausgabe von Eigenkapitalinstrumenten an den Gläubiger ganz oder teilweise tilgt. Transaktionen dieser Art werden zuweilen als „Debt-For-Equity-Swaps“ bezeichnet. Das IFRIC wurde ersucht, Leitlinien für die Bilanzierung solcher Transaktionen zur Verfügung zu stellen.
+
+ANWENDUNGSBEREICH
+
+2 Diese Interpretation betrifft die Frage, wie ein Unternehmen zu bilanzieren hat, wenn die Bedingungen einer finanziellen Verbindlichkeit neu ausgehandelt werden und dabei beschlossen wird, dass das Unternehmen zur vollständigen oder teilweisen Tilgung dieser Verbindlichkeit Eigenkapitalinstrumente an den Gläubiger ausgibt. Sie betrifft nicht die Bilanzierung des Gläubigers.
+
+3 Das Unternehmen darf diese Interpretation nicht auf Transaktionen anwenden, bei denen
+a) 
+
+der Gläubiger gleichzeitig auch direkter oder indirekter Anteilseigner ist und in dieser Eigenschaft handelt,
+b) 
+
+der Gläubiger und das Unternehmen vor und nach der Transaktion von derselben Partei/denselben Parteien beherrscht werden und die Transaktion ihrem wirtschaftlichen Gehalt nach eine Kapitalausschüttung des Unternehmens oder eine Kapitaleinlage in das Unternehmen einschließt,
+c) 
+
+die Möglichkeit einer Tilgung durch Ausgabe von Eigenkapitalinstrumenten bereits in den ursprünglichen Bedingungen der finanziellen Verbindlichkeit vorgesehen waren.
+
+FRAGESTELLUNGEN
+
+4 Diese Interpretation betrifft die folgenden Fragen:
+a) 
+
+Sind die von einem Unternehmen zur vollständigen oder teilweisen Tilgung einer finanziellen Verbindlichkeit ausgegebenen Eigenkapitalinstrumente als „gezahltes Entgelt“ im Sinne von Paragraph 3.3.3 von IFRS 9 anzusehen?
+b) 
+
+Wie hat das Unternehmen die zur Tilgung der finanziellen Verbindlichkeit ausgegebenen Eigenkapitalinstrumente beim erstmaligen Ansatz zu bewerten?
+c) 
+
+Wie hat das Unternehmen etwaige Differenzen zwischen dem Buchwert der getilgten finanziellen Verbindlichkeit und dem Betrag, der bei der erstmaligen Bewertung der ausgegebenen Eigenkapitalinstrumente angesetzt wird, zu erfassen?
+
+BESCHLUSS
+
+5 Eigenkapitalinstrumente, die das Unternehmen zur vollständigen oder teilweisen Tilgung einer finanziellen Verbindlichkeit an einen Gläubiger ausgibt, sind gezahltes Entgelt im Sinne von Paragraph 3.3.3 von IFRS 9. Nach Paragraph 3.3.1 von IFRS 9 darf das Unternehmen eine finanzielle Verbindlichkeit (oder einen Teil derselben) erst ausbuchen, wenn sie getilgt ist.
+
+6 Eigenkapitalinstrumente, die zur vollständigen oder teilweisen Tilgung einer finanziellen Verbindlichkeit an einen Gläubiger ausgegeben werden, sind bei ihrem erstmaligen Ansatz zum beizulegenden Zeitwert zu bewerten, es sei denn, dieser lässt sich nicht verlässlich ermitteln.
+
+7 Lässt sich der beizulegende Zeitwert der ausgegebenen Eigenkapitalinstrumente nicht verlässlich ermitteln, so sind sie mit dem beizulegenden Zeitwert der getilgten finanziellen Verbindlichkeit anzusetzen. Schließt eine getilgte finanzielle Verbindlichkeit eine kurzfristig abrufbare finanzielle Verbindlichkeit (wie eine Sichteinlage) ein, ist bei der Bestimmung ihres beizulegenden Zeitwerts Paragraph 47 von IFRS 13 außer Acht zu lassen.
+
+8 Wird nur ein Teil der finanziellen Verbindlichkeit getilgt, hat das Unternehmen zu beurteilen, ob sich aus einem Teil des gezahlten Entgelts eine Änderung der Bedingungen des noch ausstehenden Teils der Verbindlichkeit ergibt. Ist dies der Fall, hat das Unternehmen das gezahlte Entgelt auf den getilgten und den noch ausstehenden Teil der Verbindlichkeit aufzuteilen. Bei dieser Aufteilung hat das Unternehmen alle relevanten Fakten und Umstände der Transaktion zu berücksichtigen.
+
+9 Nach Paragraph 3.3.3 von IFRS 9 ist die Differenz zwischen dem Buchwert der getilgten finanziellen Verbindlichkeit (bzw. des getilgten Teils derselben) und dem gezahlten Entgelt erfolgswirksam zu erfassen. Die ausgegebenen Eigenkapitalinstrumente sind zu dem Zeitpunkt, zu dem die finanzielle Verbindlichkeit (oder ein Teil derselben) getilgt wird, erstmals zu bewerten und anzusetzen.
+
+10 Wird nur ein Teil der finanziellen Verbindlichkeit getilgt, so ist das Entgelt nach Paragraph 8 aufzuteilen. Bei der Beurteilung der Frage, ob sich eine wesentliche Änderung der Bedingungen der noch ausstehenden Verbindlichkeit ergibt, ist der Teil des Entgelts, der der noch ausstehenden Verbindlichkeit zugewiesen wird, zu berücksichtigen. Ergibt sich eine wesentliche Änderung der noch ausstehenden Verbindlichkeit, so hat das Unternehmen die Änderung nach Paragraph 3.3.2 von IFRS 9 als Tilgung der ursprünglichen Verbindlichkeit und Ansatz einer neuen Verbindlichkeit zu bilanzieren.
+
+11 Das Unternehmen hat gemäß den Paragraphen 9 und 10 angesetzte Gewinne oder Verluste als gesonderte Bilanzposten erfolgswirksam zu erfassen oder im Anhang auszuweisen.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+12 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2010 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Interpretation auf Berichtsperioden an, die vor dem 1. Juli 2010 beginnen, hat es dies anzugeben.
+
+13 Gemäß IAS 8 hat das Unternehmen eine Änderung der Rechnungslegungsmethode ab dem Beginn der frühesten dargestellten Vergleichsperiode anzuwenden.
+
+14 [gestrichen]
+
+15 Mit dem im Mai 2011 veröffentlichten IFRS 13 wurde Paragraph 7 geändert. Wendet das Unternehmen IFRS 13 an, so hat es diese Änderung anzuwenden.
+
+16 [gestrichen]
+
+17 Mit dem im Juli 2014 veröffentlichten IFRS 9 wurden die Paragraphen 4, 5, 7, 9 und 10 geändert und die Paragraphen 14 und 16 gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.

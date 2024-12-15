@@ -1,0 +1,1275 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 10
+
+Konzernabschlüsse
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses IFRS ist die Festlegung von Grundsätzen für die Darstellung und Aufstellung von Konzernabschlüssen, wenn ein Unternehmen ein oder mehrere andere Unternehmen beherrscht.
+
+Erreichen der Zielsetzung
+
+2 Um die in Paragraph 1 genannte Zielsetzung zu erreichen,
+a) 
+
+verpflichtet dieser IFRS ein Unternehmen (das Mutterunternehmen), das ein oder mehrere andere Unternehmen (Tochterunternehmen) beherrscht, zur Vorlage eines Konzernabschlusses,
+b) 
+
+definiert dieser IFRS den Grundsatz der Beherrschung und legt Beherrschung als Grundlage der Konsolidierung fest,
+c) 
+
+regelt dieser IFRS, wie der Grundsatz der Beherrschung anzuwenden ist, um festzustellen, ob ein Investor ein Beteiligungsunternehmen beherrscht und es somit konsolidieren muss,
+d) 
+
+enthält dieser IFRS die Bilanzierungsvorschriften für die Aufstellung von Konzernabschlüssen und
+e) 
+
+definiert dieser IFRS den Begriff der Investmentgesellschaft und legt eine Ausnahme von der Konsolidierung bestimmter Tochterunternehmen einer Investmentgesellschaft fest.
+
+3 Nicht behandelt werden in diesem IFRS die Bilanzierungsvorschriften für Unternehmenszusammenschlüsse und deren Auswirkungen auf die Konsolidierung, einschließlich eines aus einem Unternehmenszusammenschluss hervorgehenden Geschäfts- oder Firmenwerts (siehe IFRS 3 Unternehmenszusammenschlüsse).
+
+ANWENDUNGSBEREICH
+
+4 Ein Unternehmen, das ein Mutterunternehmen ist, muss einen Konzernabschluss aufstellen. Dieser IFRS ist mit folgenden Ausnahmen auf alle Unternehmen anzuwenden:
+a) 
+
+Ein Mutterunternehmen muss keinen Konzernabschluss aufstellen, wenn es alle nachfolgend genannten Bedingungen erfüllt:
+i) 
+
+es ist ein hundertprozentiges Tochterunternehmen oder ein teilweise im Besitz eines anderen Unternehmens stehendes Tochterunternehmen und seine anderen Eigentümer, einschließlich der nicht stimmberechtigten, sind darüber unterrichtet, dass das Mutterunternehmen keinen Konzernabschluss aufstellt, und erheben dagegen keine Einwände,
+ii) 
+
+seine Schuld- oder Eigenkapitalinstrumente werden an keinem öffentlichen Markt (einer inländischen oder ausländischen Wertpapierbörse oder im Freiverkehr, einschließlich lokaler und regionaler Märkte) gehandelt,
+iii) 
+
+es hat seine Abschlüsse weder bei einer Wertpapieraufsichtsbehörde noch einer sonstigen Regulierungsbehörde zwecks Emission beliebiger Kategorien von Instrumenten an einem öffentlichen Markt eingereicht oder ist im Begriff, dies zu tun, und
+iv) 
+
+sein oberstes oder ein zwischengeschaltetes Mutterunternehmen stellt einen IFRS-konformen Abschluss auf, der veröffentlicht wird und in dem Tochtergesellschaften entweder konsolidiert oder gemäß diesem IFRS erfolgswirksam zum beizulegenden Zeitwert bewertet werden.
+b) 
+
+[gestrichen].
+c) 
+
+[gestrichen].
+
+4A Dieser IFRS gilt nicht für Pläne für Leistungen nach Beendigung des Beschäftigungsverhältnisses oder andere langfristige Leistungen an Arbeitnehmer, auf die IAS 19 Leistungen an Arbeitnehmer Anwendung findet.
+
+4B Ein Mutterunternehmen, das eine Investmentgesellschaft ist, muss keinen Konzernabschluss aufstellen, wenn es gemäß Paragraph 31 dieses IFRS dazu verpflichtet ist, all seine Tochterunternehmen erfolgswirksam zum beizulegenden Zeitwert zu bewerten.
+
+BEHERRSCHUNG
+
+5   Ein Investor hat unabhängig von der Art seines Engagements bei einem Unternehmen (dem Beteiligungsunternehmen) zu bestimmen, ob er ein Mutterunternehmen ist, und zu diesem Zweck zu beurteilen, ob er das Beteiligungsunternehmen beherrscht.
+
+6   Ein Investor beherrscht ein Beteiligungsunternehmen, wenn er aufgrund seines Engagements bei dem Unternehmen schwankenden Renditen ausgesetzt ist oder Anrechte darauf hat und die Fähigkeit besitzt, diese Renditen durch seine Verfügungsgewalt über das Beteiligungsunternehmen zu beeinflussen.
+
+7   Ein Investor beherrscht ein Beteiligungsunternehmen folglich nur dann, wenn er kumulativ über Folgendes verfügt:
+a) 
+
+die Verfügungsgewalt über das Beteiligungsunternehmen (siehe Paragraphen 10–14),
+b) 
+
+das Risiko von oder Anrechte an schwankenden Renditen aus seinem Engagement bei dem Beteiligungsunternehmen (siehe Paragraphen 15 und 16) und
+c) 
+
+die Fähigkeit, durch Ausübung seiner Verfügungsgewalt über das Beteiligungsunternehmen die Höhe seiner Renditen zu beeinflussen (siehe Paragraphen 17 und 18).
+
+8 Bei der Beurteilung, ob er ein Beteiligungsunternehmen beherrscht, hat der Investor sämtliche Fakten und Umstände zu berücksichtigen. Weisen Fakten und Umstände darauf hin, dass sich eines oder mehrere der in Paragraph 7 aufgeführten drei Elemente der Beherrschung verändert haben, muss der Investor erneut beurteilen, ob das Beteiligungsunternehmen von ihm beherrscht wird (siehe Paragraphen B80–B85).
+
+9 Eine gemeinsame Beherrschung eines Beteiligungsunternehmens durch zwei oder mehr Investoren liegt vor, wenn diese bei der Lenkung der maßgeblichen Tätigkeiten zusammenwirken müssen. Da kein Investor die Tätigkeiten ohne Mitwirkung der anderen Investoren lenken kann, liegt in derartigen Fällen keine Beherrschung durch einen einzelnen Investor vor. In einem solchen Fall würde jeder Investor seinen Anteil am Beteiligungsunternehmen gemäß den maßgeblichen IFRS, wie IFRS 11 Gemeinschaftliche Vereinbarungen, IAS 28 Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen oder IFRS 9 Finanzinstrumente bilanzieren.
+
+Verfügungsgewalt
+
+10 Ein Investor besitzt Verfügungsgewalt über ein Beteiligungsunternehmen, wenn er aufgrund bestehender Rechte gegenwärtig über die Fähigkeit verfügt, die maßgeblichen Tätigkeiten, d. h. die Tätigkeiten, die die Renditen des Beteiligungsunternehmens signifikant beeinflussen, zu lenken.
+
+11 Verfügungsgewalt ergibt sich aus Rechten. Die Beurteilung der Verfügungsgewalt kann vergleichsweise einfach sein. Dies trifft beispielsweise zu, wenn sich die Verfügungsgewalt über ein Beteiligungsunternehmen unmittelbar und allein aus den Stimmrechten ableitet, die Eigenkapitalinstrumente wie Aktien gewähren. Hier ist eine Bewertung mittels Berücksichtigung der Stimmrechte aus den betreffenden Kapitalbeteiligungen möglich. In anderen Fällen kann die Beurteilung komplexer sein und die Berücksichtigung mehrerer Faktoren verlangen. Dies trifft beispielsweise zu, wenn sich Verfügungsgewalt aus einer oder mehreren vertraglichen Vereinbarung(en) ergibt.
+
+12 Ein Investor, der die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten hat, besitzt Verfügungsgewalt auch dann, wenn er seine Weisungsrechte noch nicht wahrgenommen hat. Nachweise dafür, dass der Investor maßgebliche Tätigkeiten gelenkt hat, können bei der Feststellung helfen, ob der Investor Verfügungsgewalt hat, sind für sich genommen aber kein schlüssiger Beleg dafür, dass der Investor Verfügungsgewalt über ein Beteiligungsunternehmen hat.
+
+13 Verfügen zwei oder mehr Investoren jeweils über Rechte, die ihnen die einseitige Fähigkeit verleihen, unterschiedliche maßgebliche Tätigkeiten zu lenken, so hat derjenige Investor Verfügungsgewalt über das Beteiligungsunternehmen, der die gegenwärtige Fähigkeit zur Lenkung derjenigen Tätigkeiten besitzt, die die Renditen des Beteiligungsunternehmens am signifikantesten beeinflussen.
+
+14 Ein Investor kann selbst dann die Verfügungsgewalt über ein Beteiligungsunternehmen besitzen, wenn andere Unternehmen aufgrund bestehender Rechte gegenwärtig über die Fähigkeit zur Mitbestimmung der maßgeblichen Tätigkeiten verfügen, z. B. wenn ein anderes Unternehmen maßgeblichen Einfluss hat. Verfügt ein Investor lediglich über Schutzrechte, kann er jedoch keine Verfügungsgewalt über ein Beteiligungsunternehmen ausüben (siehe Paragraphen B26–B28) und beherrscht dieses daher auch nicht.
+
+Renditen
+
+15 Ein Investor ist schwankenden Renditen aus seinem Engagement bei dem Beteiligungsunternehmen ausgesetzt oder besitzt Anrechte darauf, wenn die mit seinem Engagement erzielten Renditen aufgrund der Ertragskraft des Beteiligungsunternehmens schwanken können. Die Renditen des Investors können ausschließlich positiv, ausschließlich negativ oder sowohl positiv als auch negativ sein.
+
+16 Auch wenn ein Beteiligungsunternehmen von nur einem Investor beherrscht werden kann, können die Renditen des Beteiligungsunternehmens auf mehrere Parteien entfallen. So können beispielsweise die Inhaber nicht beherrschender Anteile an den Gewinnen oder Ausschüttungen eines Beteiligungsunternehmens beteiligt sein.
+
+Verknüpfung zwischen Verfügungsgewalt und Renditen
+
+17 Ein Investor beherrscht ein Beteiligungsunternehmen, wenn er nicht nur die Verfügungsgewalt über das Beteiligungsunternehmen hat und aus seinem Engagement bei dem Beteiligungsunternehmen schwankenden Renditen ausgesetzt ist oder Anrechte darauf besitzt, sondern wenn er darüber hinaus seine Verfügungsgewalt auch dazu nutzen kann, seine Renditen aus dem Engagement bei dem Beteiligungsunternehmen zu beeinflussen.
+
+18 Ein Investor mit Entscheidungsbefugnissen hat folglich zu bestimmen, ob er ein Prinzipal oder Agent ist. Eine Beherrschung des Beteiligungsunternehmens liegt nicht vor, wenn ein Investor, der gemäß den Paragraphen B58–B72 als Agent gilt, die an ihn delegierten Entscheidungsbefugnisse ausübt.
+
+RECHNUNGSLEGUNGSVORSCHRIFTEN
+
+19   Ein Mutterunternehmen hat bei der Aufstellung eines Konzernabschlusses auf gleichartige Transaktionen und sonstige Ereignisse unter ähnlichen Umständen einheitliche Rechnungslegungsmethoden anzuwenden.
+
+20 Ein Beteiligungsunternehmen wird ab dem Zeitpunkt, zu dem der Investor die Beherrschung über das Beteiligungsunternehmen erlangt, bis zu dem Zeitpunkt, zu dem die Beherrschung durch den Investor endet, in den Konzernabschluss einbezogen.
+
+21 Leitlinien für die Aufstellung von Konzernabschlüssen sind in den Paragraphen B86–B93 enthalten.
+
+Nicht beherrschende Anteile
+
+22 Ein Mutterunternehmen hat nicht beherrschende Anteile in der Konzernbilanz innerhalb des Eigenkapitals, aber getrennt vom Eigenkapital der Eigentümer des Mutterunternehmens auszuweisen.
+
+23 Änderungen bei der Beteiligungsquote eines Mutterunternehmens an einem Tochterunternehmen, die nicht zu einem Verlust der Beherrschung über das Tochterunternehmen führen, sind Eigenkapitaltransaktionen (d. h. Transaktionen mit Eigentümern, die in ihrer Eigenschaft als Eigentümer handeln).
+
+24 Leitlinien für die Bilanzierung nicht beherrschender Anteile im Konzernabschluss sind in den Paragraphen B94–B96 enthalten.
+
+Verlust der Beherrschung
+
+25 Verliert ein Mutterunternehmen die Beherrschung über ein Tochterunternehmen, hat es
+a) 
+
+die Vermögenswerte und Schulden des ehemaligen Tochterunternehmens aus der Konzernbilanz auszubuchen.
+b) 
+
+jede zurückbehaltene Beteiligung an dem ehemaligen Tochterunternehmen zu dem zum Zeitpunkt des Verlustes der Beherrschung gültigen beizulegenden Zeitwert anzusetzen. In den Folgeperioden sind die Beteiligung sowie alle Beträge, die es dem ehemaligen Tochterunternehmen schuldet oder von diesem beansprucht, gemäß den maßgeblichen IFRS zu bilanzieren. Dieser beizulegende Zeitwert ist als der beizulegende Zeitwert beim erstmaligen Ansatz eines finanziellen Vermögenswerts gemäß IFRS 9 oder, soweit sachgerecht, als Anschaffungskosten beim erstmaligen Ansatz einer Beteiligung an einem assoziierten oder Gemeinschaftsunternehmen zu betrachten.
+c) 
+
+den mit dem Verlust der Beherrschung verbundenen Gewinn oder Verlust, der dem ehemaligen beherrschenden Anteil zuzurechnen ist, zu erfassen.
+
+26 Leitlinien für die Bilanzierung des Verlustes der Beherrschung sind in den Paragraphen B97–B99 enthalten.
+
+FESTSTELLUNG, OB ES SICH BEI EINEM UNTERNEHMEN UM EINE INVESTMENTGESELLSCHAFT HANDELT
+
+27   Ein Mutterunternehmen muss feststellen, ob es eine Investmentgesellschaft ist. Eine Investmentgesellschaft ist ein Unternehmen, das
+a) 
+
+von einem oder mehreren Investoren Mittel zu dem Zweck erhält, für diese(n) Investor(en) Kapitalanlagedienstleistungen zu erbringen,
+b) 
+
+sich gegenüber seinem Investor bzw. seinen Investoren verpflichtet, dass sein Geschäftszweck in der Anlage von Mitteln zum alleinigen Zweck der Erreichung von Wertsteigerungen oder der Erwirtschaftung von Kapitalerträgen oder beidem besteht, und
+c) 
+
+die Ertragskraft so gut wie aller seiner Beteiligungen auf Basis des beizulegenden Zeitwerts bewertet und beurteilt.
+
+Entsprechende Anwendungsleitlinien sind in den Paragraphen B85A–B85M enthalten.
+
+28 Ein Unternehmen hat bei der Beurteilung, ob es die Definition in Paragraph 27 erfüllt, zu prüfen, ob es die folgenden typischen Merkmale einer Investmentgesellschaft aufweist:
+a) 
+
+es hält mehr als eine Beteiligung (siehe Paragraphen B85O–B85P),
+b) 
+
+es hat mehr als einen Investor (siehe Paragraphen B85Q–B85S),
+c) 
+
+seine Investoren sind keine ihm nahestehenden Unternehmen oder Personen (siehe Paragraphen B85T–B85U) und
+d) 
+
+es hat Eigentumsanteile in Form von Eigenkapitalanteilen oder ähnlichen Anteilen (siehe Paragraphen B85V–B85W).
+
+Das Fehlen eines oder mehrerer dieser typischen Merkmale steht der Einstufung eines Unternehmens als Investmentgesellschaft nicht zwangsläufig entgegen. Eine Investmentgesellschaft, die nicht alle dieser typischen Merkmale aufweist, macht die in Paragraph 9A von IFRS 12 Angaben zu Anteilen an anderen Unternehmen verlangten zusätzlichen Angaben.
+
+29 Wenn Fakten und Umstände darauf hinweisen, dass bei einem oder mehreren der drei in Paragraph 27 beschriebenen Elemente der Definition einer Investmentgesellschaft oder bei den in Paragraph 28 beschriebenen typischen Merkmalen einer Investmentgesellschaft Änderungen eingetreten sind, hat das Mutterunternehmen erneut zu beurteilen, ob es eine Investmentgesellschaft ist.
+
+30 Ein Mutterunternehmen, das keine Investmentgesellschaft mehr ist oder eine Investmentgesellschaft wird, hat die Änderung seines Status prospektiv ab dem Zeitpunkt zu bilanzieren, zu dem diese Änderung eingetreten ist (siehe Paragraphen B100–B101).
+
+INVESTMENTGESELLSCHAFTEN: AUSNAHME VON DER KONSOLIDIERUNG
+
+31   Mit Ausnahme des in Paragraph 32 beschriebenen Falls darf eine Investmentgesellschaft ihre Tochterunternehmen nicht konsolidieren oder IFRS 3 anwenden, wenn sie die Beherrschung über ein anderes Unternehmen erlangt. Stattdessen hat sie eine Beteiligung an einem Tochterunternehmen gemäß IFRS 9 erfolgswirksam zum beizulegenden Zeitwert zu bewerten. ( 59 )
+
+32 Hat eine Investmentgesellschaft ein Tochterunternehmen, das selbst keine Investmentgesellschaft ist und dessen Hauptgeschäftszweck und -tätigkeit darin besteht, Dienstleistungen im Zusammenhang mit den Kapitalanlagetätigkeiten der Investmentgesellschaft zu erbringen (siehe Paragraphen B85C–B85E), so hat sie dieses Tochterunternehmen ungeachtet der Bestimmung in Paragraph 31 gemäß den Paragraphen 19–26 zu konsolidieren und auf den Erwerb eines solchen Tochterunternehmens die Vorschriften von IFRS 3 anzuwenden.
+
+33 Das Mutterunternehmen einer Investmentgesellschaft hat – sofern es nicht selbst eine Investmentgesellschaft ist – alle von ihm beherrschten Unternehmen zu konsolidieren, einschließlich solcher, die von einem Tochterunternehmen, das selbst Investmentgesellschaft ist, beherrscht werden.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Konzernabschluss
+	
+
+Der Abschluss eines Konzerns, in dem Vermögenswerte, Schulden, Eigenkapital, Erträge, Aufwendungen und Zahlungsströme des Mutterunternehmens und seiner Tochterunternehmen so dargestellt werden, als handle es sich um ein einziges Unternehmen.
+
+Beherrschung eines Beteiligungsunternehmens
+	
+
+Ein Investor beherrscht ein Beteiligungsunternehmen, wenn er aufgrund seines Engagements bei dem Beteiligungsunternehmen schwankenden Renditen ausgesetzt ist bzw. Anrechte auf diese besitzt und die Fähigkeit hat, diese Renditen durch seine Verfügungsgewalt über das Beteiligungsunternehmen zu beeinflussen.
+
+Entscheidungsträger
+	
+
+Ein Unternehmen mit Entscheidungsbefugnissen, das als Prinzipal oder Agent für andere Parteien auftritt.
+
+Konzern
+	
+
+Ein Mutterunternehmen und seine Tochterunternehmen.
+
+Investmentgesellschaft
+	
+
+Ein Unternehmen, das
+a) 
+
+von einem oder mehreren Investoren Mittel zu dem Zweck erhält, für diese(n) Investor(en) Kapitalanlagedienstleistungen zu erbringen,
+b) 
+
+sich gegenüber seinem Investor bzw. seinen Investoren verpflichtet, dass sein Geschäftszweck in der Anlage von Mitteln zum alleinigen Zweck der Erreichung von Wertsteigerungen oder der Erwirtschaftung von Kapitalerträgen oder beidem besteht, und
+c) 
+
+die Ertragskraft so gut wie aller seiner Beteiligungen auf Basis des beizulegenden Zeitwerts bewertet und beurteilt.
+
+Nicht beherrschender Anteil
+	
+
+Das Eigenkapital eines Tochterunternehmens, das einem Mutterunternehmen weder unmittelbar noch mittelbar zugeordnet werden kann.
+
+Mutterunternehmen
+	
+
+Ein Unternehmen, das ein oder mehrere Unternehmen beherrscht.
+
+Verfügungsgewalt
+	
+
+Die gegenwärtige Fähigkeit, die maßgeblichen Tätigkeiten aufgrund bestehender Rechte zu lenken.
+
+Schutzrechte
+	
+
+Rechte, mit denen die Interessen des Inhabers dieser Rechte geschützt werden sollen, ohne ihm die Verfügungsgewalt über das Unternehmen zu verleihen, auf das sich diese Rechte beziehen.
+
+Maßgebliche Tätigkeiten
+	
+
+Maßgebliche Tätigkeiten im Sinne dieses IFRS sind Tätigkeiten des Beteiligungsunternehmens, die die Renditen des Beteiligungsunternehmens signifikant beeinflussen.
+
+Abberufungsrechte
+	
+
+Rechte, dem Entscheidungsträger seine Entscheidungsbefugnis zu entziehen.
+
+Tochterunternehmen
+	
+
+Ein Unternehmen, das von einem anderen Unternehmen beherrscht wird.
+
+Die folgenden Begriffe sind in IFRS 11, IFRS 12 Angaben zu Anteilen an anderen Unternehmen, IAS 28 (in der 2011 geänderten Fassung) oder IAS 24 Angaben über Beziehungen zu nahestehenden Unternehmen und Personen definiert und werden in diesem IFRS in der dort angegebenen Bedeutung verwendet:
+— 
+Assoziiertes Unternehmen,
+— 
+Anteile an einem anderen Unternehmen,
+— 
+Gemeinschaftsunternehmen,
+— 
+Management in Schlüsselpositionen,
+— 
+Nahestehende Unternehmen und Personen,
+— 
+Maßgeblicher Einfluss.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des IFRS. Er erläutert die Anwendung der Paragraphen 1–33 und hat die gleiche bindende Kraft wie die anderen Teile des IFRS.
+
+B1 Die Beispiele in diesem Anhang stellen hypothetische Situationen dar. Auch wenn einige Aspekte in realen Sachverhalten vorkommen können, müssen bei der Anwendung von IFRS 10 alle Fakten und Umstände des jeweiligen Sachverhalts beurteilt werden.
+
+BEURTEILUNG, OB BEHERRSCHUNG VORLIEGT
+
+B2 Will ein Investor bestimmen, ob er ein Beteiligungsunternehmen beherrscht, muss er beurteilen, ob alles Folgende auf ihn zutrifft:
+a) 
+
+er hat die Verfügungsgewalt über das Beteiligungsunternehmen,
+b) 
+
+er ist schwankenden Renditen aus seinem Engagement bei dem Beteiligungsunternehmen ausgesetzt oder hat Anrechte darauf und
+c) 
+
+er ist in der Lage, durch Ausübung seiner Verfügungsgewalt über das Beteiligungsunternehmen die Höhe der Renditen des Beteiligungsunternehmens zu beeinflussen.
+
+B3 Die Berücksichtigung folgender Faktoren kann diese Feststellung erleichtern:
+a) 
+
+Zweck und Ausgestaltung des Beteiligungsunternehmens (siehe Paragraphen B5–B8),
+b) 
+
+welches die maßgeblichen Tätigkeiten sind und wie Entscheidungen über diese Tätigkeiten getroffen werden (siehe Paragraphen B11–B13),
+c) 
+
+ob der Investor aufgrund seiner Rechte die gegenwärtige Fähigkeit besitzt, die maßgeblichen Tätigkeiten zu lenken (siehe Paragraphen B14–B54),
+d) 
+
+ob der Investor aus seinem Engagement bei dem Beteiligungsunternehmen schwankenden Renditen ausgesetzt ist oder Anrechte darauf hat (siehe Paragraphen B55–B57) und
+e) 
+
+ob der Investor in der Lage ist, durch Ausübung seiner Verfügungsgewalt über das Beteiligungsunternehmen die Höhe der Renditen des Beteiligungsunternehmens zu beeinflussen (siehe Paragraphen B58–B72).
+
+B4 Bei der Beurteilung, ob er ein Beteiligungsunternehmen beherrscht, hat ein Investor die Art seiner Beziehung zu anderen Parteien zu berücksichtigen (siehe Paragraphen B73–B75).
+
+Zweck und Ausgestaltung eines Beteiligungsunternehmens
+
+B5 Bei der Beurteilung, ob er ein Beteiligungsunternehmen beherrscht, hat ein Investor den Zweck und die Ausgestaltung des Beteiligungsunternehmens zu berücksichtigen, um die maßgeblichen Tätigkeiten zu ermitteln und festzustellen, wie Entscheidungen über diese Tätigkeiten gefällt werden, wer die gegenwärtige Fähigkeit zur Lenkung dieser Tätigkeiten besitzt und wer die Rendite aus diesen Tätigkeiten erhält.
+
+B6 Bei der Berücksichtigung von Zweck und Ausgestaltung eines Beteiligungsunternehmens kann klar sein, dass das Beteiligungsunternehmen über Eigenkapitalinstrumente beherrscht wird, die dem Inhaber anteilige Stimmrechte geben, wie beispielsweise Stammaktien am Beteiligungsunternehmen. Sofern keine Zusatzvereinbarungen vorliegen, die den Entscheidungsprozess verändern, konzentriert sich die Beurteilung der Beherrschung in diesem Fall auf die Frage, welche Partei gegebenenfalls genügend Stimmrechte ausüben kann, um die Geschäfts- und Finanzpolitik des Beteiligungsunternehmens zu bestimmen (siehe Paragraphen B34–B50). Im einfachsten Fall und sofern keine anderen Faktoren eine Rolle spielen, wird das Beteiligungsunternehmen von dem Investor beherrscht, der die Mehrheit dieser Stimmrechte besitzt.
+
+B7 In komplexeren Fällen kann es zur Feststellung, ob ein Investor ein Beteiligungsunternehmen beherrscht, erforderlich sein, einige oder alle der in Paragraph B3 genannten anderen Faktoren zu berücksichtigen.
+
+B8 Ein Beteiligungsunternehmen kann so ausgestaltet sein, dass die Stimmrechte bei der Entscheidung, wer das Unternehmen beherrscht, nicht der ausschlaggebende Faktor sind, beispielsweise wenn sich Stimmrechte nur auf administrative Aufgaben beziehen und die maßgeblichen Tätigkeiten durch vertragliche Vereinbarungen bestimmt werden. In solchen Fällen muss der Investor bei der Beurteilung des Zwecks und der Ausgestaltung des Beteiligungsunternehmens auch berücksichtigen, welchen Risiken das Beteiligungsunternehmen durch seine Ausgestaltung ausgesetzt ist, welche Risiken durch die Ausgestaltung auf die Parteien mit einem Engagement bei dem Beteiligungsunternehmen übertragen wurden und ob der Investor einigen oder allen dieser Risiken unterliegt. Hierbei sind nicht nur Abwärtsrisiken, sondern auch mögliche Aufwärtsrisiken zu berücksichtigen.
+
+Verfügungsgewalt
+
+B9 Für die Verfügungsgewalt über ein Beteiligungsunternehmen muss ein Investor über bestehende Rechte verfügen, die ihn gegenwärtig zur Lenkung der maßgeblichen Tätigkeiten befähigen. Bei der Beurteilung der Verfügungsgewalt sind nur substanzielle Rechte sowie Rechte, die keine Schutzrechte sind, zu berücksichtigen (siehe Paragraphen B22–B28).
+
+B10 Die Feststellung, ob ein Investor Verfügungsgewalt besitzt, hängt davon ab, worin die maßgeblichen Tätigkeiten bestehen, wie Entscheidungen über diese Tätigkeiten getroffen werden und welche Rechte der Investor und andere Parteien in Bezug auf das Beteiligungsunternehmen haben.
+
+Maßgebliche Tätigkeiten und Lenkung der maßgeblichen Tätigkeiten
+
+B11 Bei vielen Beteiligungsunternehmen werden die Renditen durch eine Reihe von Geschäfts- und Finanztätigkeiten signifikant beeinflusst. Beispiele für Tätigkeiten, die abhängig von den jeweiligen Umständen maßgebliche Tätigkeiten sein können, sind unter anderem:
+a) 
+
+Verkauf und Kauf von Waren oder Dienstleistungen,
+b) 
+
+Verwaltung finanzieller Vermögenswerte während ihrer Laufzeit (auch im Verzugsfall),
+c) 
+
+Auswahl, Erwerb oder Veräußerung von Vermögenswerten,
+d) 
+
+Erforschung und Entwicklung neuer Produkte oder Verfahren und
+e) 
+
+Festlegung von Finanzierungsstrukturen oder Mittelbeschaffung.
+
+B12 Beispiele für Entscheidungen über maßgebliche Tätigkeiten sind unter anderem:
+a) 
+
+Geschäfts- und Finanzentscheidungen des Beteiligungsunternehmens, einschließlich der Festlegung von Budgets und
+b) 
+
+Ernennung und Vergütung des Managements in Schlüsselpositionen oder der Dienstleister eines Beteiligungsunternehmens sowie Beendigung ihrer Dienstleistungen oder Anstellung.
+
+B13 In einigen Fällen können Tätigkeiten sowohl vor als auch nach dem Eintreten besonderer Umstände oder eines bestimmten Ereignisses maßgebliche Tätigkeiten sein. Verfügen zwei oder mehr Investoren über die gegenwärtige Fähigkeit, die maßgeblichen Tätigkeiten zu lenken, und finden diese Tätigkeiten zu unterschiedlichen Zeitpunkten statt, müssen die Investoren bestimmen, wer von ihnen die Fähigkeit zur Lenkung derjenigen Tätigkeiten besitzt, die diese Renditen am signifikantesten beeinflussen. Dies muss mit der Behandlung gleichzeitiger Entscheidungsbefugnisse übereinstimmen (siehe Paragraph 13). Wenn sich relevante Fakten oder Umstände im Laufe der Zeit ändern, müssen die Investoren diese Beurteilung im Laufe der Zeit erneut überprüfen.
+
+Anwendungsbeispiele
+
+Beispiel 1
+
+Zwei Investoren gründen ein Beteiligungsunternehmen für die Entwicklung und Vermarktung eines medizinischen Produkts. Der eine Investor ist für die Entwicklung und Einholung der aufsichtsbehördlichen Zulassung des medizinischen Produkts verantwortlich. Zu dieser Verantwortung gehört die einseitige Fähigkeit, alle Entscheidungen im Zusammenhang mit der Produktentwicklung und aufsichtsrechtlichen Zulassung zu treffen. Sobald das Produkt von der Aufsichtsbehörde zugelassen wird, übernimmt der andere Investor seine Herstellung und Vermarktung – dieser Investor besitzt die einseitige Fähigkeit, alle Entscheidungen über die Herstellung und Vermarktung des Projekts zu treffen. Wenn alle Tätigkeiten – d. h. sowohl die Entwicklung und die Einholung der aufsichtsbehördlichen Zulassung als auch die Herstellung und Vermarktung des medizinischen Produkts – maßgebliche Tätigkeiten sind, muss jeder Investor feststellen, ob er die Fähigkeit zur Lenkung derjenigen Tätigkeiten hat, die die Renditen des Beteiligungsunternehmens am signifikantesten beeinflussen. Dementsprechend muss jeder Investor beurteilen, ob die Entwicklung und die Einholung der aufsichtsbehördlichen Zulassung oder die Herstellung und Vermarktung des medizinischen Produkts die Tätigkeit mit dem signifikantesten Einfluss auf die Rendite des Beteiligungsunternehmens ist, und ob er in der Lage ist, diese Tätigkeit zu lenken. Bei der Bestimmung, welcher Investor Verfügungsgewalt hat, würden die Investoren Folgendes berücksichtigen:
+a) 
+
+den Zweck und die Ausgestaltung des Beteiligungsunternehmens,
+b) 
+
+die Faktoren, die für die Gewinnmarge, die Umsatzerlöse und den Wert des Beteiligungsunternehmens sowie den Wert des medizinischen Produkts ausschlaggebend sind,
+c) 
+
+die Auswirkungen der Entscheidungsbefugnisse der einzelnen Investoren bezüglich der unter b genannten Faktoren auf die Rendite des Beteiligungsunternehmens und
+d) 
+
+den Umfang, in dem die Investoren dem Risiko schwankender Renditen ausgesetzt sind.
+
+In diesem konkreten Beispiel würden die Investoren zudem Folgendes berücksichtigen:
+e) 
+
+die Unsicherheit, ob die aufsichtsbehördliche Zulassung erteilt wird, und den damit verbundenen erforderlichen Aufwand (unter Berücksichtigung der bisherigen Erfahrungen des Investors mit der erfolgreichen Entwicklung medizinischer Produkte und der Einholung der erforderlichen aufsichtsbehördlichen Zulassung) und
+f) 
+
+welcher Investor nach dem erfolgreichen Abschluss der Entwicklungsphase die Verfügungsmacht über das medizinische Produkt besitzt.
+
+Beispiel 2
+
+Es wird eine Investmentgesellschaft (das Beteiligungsunternehmen) gegründet, die mit einem von einem Investor gehaltenen Schuldinstrument (Schuldinstrument-Investor) und den von einer Reihe anderer Investoren gehaltenen Eigenkapitalinstrumenten finanziert wird. Die Eigenkapitaltranche ist so ausgelegt, dass die ersten Verluste aufgefangen werden und eine etwaige verbleibende Rendite des Beteiligungsunternehmens ihr zufließt. Einer der Eigenkapitalinvestoren, der 30 Prozent des Eigenkapitals hält, ist zugleich der Vermögensverwalter. Das Beteiligungsunternehmen erwirbt mit seinen Mitteln ein Portfolio von finanziellen Vermögenswerten und setzt sich damit dem Ausfallrisiko aus, das mit dem möglichen Ausfall der Tilgungs- und Zinszahlungen auf die Vermögenswerte verbunden ist. Die Transaktion wird an den Schuldinstrument-Investor als eine Anlage vermarktet, die aufgrund der Art dieser Vermögenswerte und weil die Eigenkapitaltranche die ersten Verluste des Beteiligungsunternehmens auffängt, nur mit einem minimalen Ausfallrisiko für die Vermögenswerte im Portfolio behaftet ist. Die Rendite des Beteiligungsunternehmens wird durch die Verwaltung seines Vermögensportfolios signifikant beeinflusst. Hierzu gehören Entscheidungen über Auswahl, Erwerb und Veräußerung der Vermögenswerte nach den Portfolio-Richtlinien sowie die Vorgehensweise bei Ausfall von Vermögenswerten des Portfolios. All diese Tätigkeiten werden vom Vermögensverwalter ausgeübt, bis die Ausfälle einen bestimmten Anteil des Portfoliowerts erreichen (d. h. wenn der Wert des Portfolios so weit gesunken ist, dass die Eigenkapitaltranche des Beteiligungsunternehmen verbraucht ist). Ab diesem Zeitpunkt werden die Vermögenswerte von einem fremden Treuhänder nach den Weisungen des Schuldinstrument-Investors verwaltet. Die maßgebliche Tätigkeit des Beteiligungsunternehmens ist die Verwaltung seines Portfolios an Vermögenswerten. Der Vermögensverwalter kann die maßgeblichen Tätigkeiten so lange lenken, bis die ausgefallenen Vermögenswerte den festgelegten Anteil am Portfoliowert erreicht haben. Der Schuldinstrument-Investor kann die maßgeblichen Tätigkeiten ab dem Augenblick lenken, in dem der Wert der ausgefallenen Vermögenswerte diesen festgelegten Anteil am Portfoliowert übersteigt. Der Vermögensverwalter und der Schuldtitelinvestor müssen jeweils ermitteln, ob sie in der Lage sind, die Tätigkeiten mit dem signifikantesten Einfluss auf die Rendite des Beteiligungsunternehmens zu lenken. Hierbei sind auch der Zweck und die Ausgestaltung des Beteiligungsunternehmens sowie der Umfang, in dem jede Partei dem Risiko schwankender Renditen ausgesetzt ist, zu berücksichtigen.
+
+Rechte, die einem Investor die Verfügungsgewalt über ein Beteiligungsunternehmen geben
+
+B14 Verfügungsgewalt ergibt sich aus Rechten. Um die Verfügungsgewalt über ein Beteiligungsunternehmen zu besitzen, muss ein Investor aufgrund bestehender Rechte gegenwärtig zur Lenkung der maßgeblichen Tätigkeiten in der Lage sein. Die Rechte, die einem Investor Verfügungsgewalt geben, können je nach Beteiligungsunternehmen unterschiedlich sein.
+
+B15 Beispiele für Rechte, die einem Investor einzeln oder zusammengenommen Verfügungsgewalt geben können, sind u. a.:
+a) 
+
+Rechte in Form von Stimmrechten (oder potenziellen Stimmrechten) bei einem Beteiligungsunternehmen (siehe Paragraphen B34–B50),
+b) 
+
+Rechte zur Ernennung, Umbesetzung oder Abberufung von Mitgliedern des Managements in Schlüsselpositionen beim Beteiligungsunternehmen, die in der Lage sind, die maßgeblichen Tätigkeiten zu lenken,
+c) 
+
+Rechte zur Ernennung oder Abberufung eines anderen Unternehmens, das die maßgeblichen Tätigkeiten lenkt,
+d) 
+
+Rechte zur Anweisung des Beteiligungsunternehmens, Transaktionen zugunsten des Investors abzuschließen oder gegen Änderungen an solchen Transaktionen Einspruch zu erheben, und
+e) 
+
+andere Rechte (z. B. in einem Geschäftsführungsvertrag festgelegte Entscheidungsbefugnisse), die dem Inhaber die Fähigkeit verleihen, die maßgeblichen Tätigkeiten zu lenken.
+
+B16 Wenn ein Beteiligungsunternehmen eine Reihe von Geschäfts- und Finanztätigkeiten mit signifikantem Einfluss auf seine Rendite durchführt und permanent substanzielle Entscheidungen bezüglich dieser Tätigkeiten erforderlich sind, beruht die Verfügungsgewalt eines Investors im Allgemeinen auf Stimmrechten oder ähnlichen Rechten, entweder einzeln oder zusammen mit anderen Vereinbarungen.
+
+B17 Wenn Stimmrechte die Renditen eines Beteiligungsunternehmens nicht signifikant beeinflussen können, was beispielsweise dann der Fall ist, wenn sich die Stimmrechte nur auf administrative Aufgaben beziehen, die Lenkung der maßgeblichen Tätigkeiten aber durch vertragliche Vereinbarungen geregelt wird, muss der Investor anhand dieser vertraglichen Vereinbarungen beurteilen, ob er über ausreichende Rechte verfügt, um die Verfügungsgewalt über das Beteiligungsunternehmen zu haben. Hierfür muss der Investor den Zweck und die Ausgestaltung des Beteiligungsunternehmens (siehe Paragraphen B5–B8) sowie die Vorschriften der Paragraphen B51–B54 in Verbindung mit den Paragraphen B18–B20 berücksichtigen.
+
+B18 Unter bestimmten Umständen lässt sich möglicherweise nur schwer bestimmen, ob die Rechte eines Investors ausreichen, um ihm Verfügungsgewalt über ein Beteiligungsunternehmen zu geben. Um in solchen Fällen eine Beurteilung der Verfügungsgewalt zu ermöglichen, hat der Investor zu prüfen, ob er über die praktische Fähigkeit zur einseitigen Lenkung der maßgeblichen Tätigkeiten verfügt. Dabei werden unter anderem die folgenden Faktoren berücksichtigt, die bei gemeinsamer Betrachtung mit seinen Rechten und den in den Paragraphen B19 und B20 genannten Indikatoren ein Anhaltspunkt dafür sein können, dass die Rechte des Investors für Verfügungsgewalt über das Beteiligungsunternehmen ausreichen:
+a) 
+
+Der Investor kann beim Beteiligungsunternehmen das Management in Schlüsselpositionen, das die Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten hat, ernennen oder genehmigen, ohne dass er das vertragliche Recht dazu besitzt.
+b) 
+
+Der Investor kann das Beteiligungsunternehmen anweisen, wesentliche Transaktionen zu seinen Gunsten abzuschließen oder gegen Änderungen an solchen Transaktionen Einspruch erheben, ohne dass er das vertragliche Recht dazu besitzt.
+c) 
+
+Der Investor kann auf das Nominierungsverfahren für die Wahl der Mitglieder des Leitungsorgans des Beteiligungsunternehmens oder den Erhalt von Stimmrechtsvollmachten von anderen Stimmrechtsinhabern einen dominierenden Einfluss ausüben.
+d) 
+
+Die Mitglieder des Managements in Schlüsselpositionen beim Beteiligungsunternehmen sind dem Investor nahe stehende Personen (z. B. wenn der Chief Executive Officer des Beteiligungsunternehmens gleichzeitig der Chief Executive Officer des Investors ist).
+e) 
+
+Bei den Mitgliedern des Leitungsorgans des Beteiligungsunternehmens handelt es sich mehrheitlich um dem Investor nahe stehende Personen.
+
+B19 Mitunter gibt es Anhaltspunkte dafür, dass der Investor in einer besonderen Beziehung zum Beteiligungsunternehmen steht, was vermuten lässt, dass er mehr als nur einen passiven Eigentumsanteil am Beteiligungsunternehmen hält. Ein einzelner Indikator oder eine bestimmte Kombination von Indikatoren bedeutet nicht zwangsläufig, dass das Kriterium der Verfügungsgewalt erfüllt ist. Hat der Investor jedoch mehr als nur einen passiven Eigentumsanteil am Beteiligungsunternehmen, kann dies ein Anhaltspunkt dafür sein, dass er in Verbindung damit weitere Rechte besitzt, die ausreichen, um ihm die Verfügungsgewalt zu geben, oder einen substanziellen Hinweis auf die vorhandene Verfügungsgewalt über ein Beteiligungsunternehmen liefern. Folgende Sachverhalte lassen beispielsweise vermuten, dass der Investor mehr als nur einen passiven Eigentumsanteil am Beteiligungsunternehmen hält und können in Kombination mit anderen Rechten auf Verfügungsgewalt hindeuten:
+a) 
+
+Die Mitglieder des Managements in Schlüsselpositionen beim Beteiligungsunternehmen, die über die Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten verfügen, sind gegenwärtige oder frühere Mitarbeiter des Investors.
+b) 
+
+Die Geschäftstätigkeit des Beteiligungsunternehmens ist vom Investor abhängig, wie in den folgenden Fällen:
+i) 
+
+das Beteiligungsunternehmen hängt bei der Finanzierung eines wesentlichen Teils seiner Geschäftstätigkeit vom Investor ab,
+ii) 
+
+der Investor garantiert einen wesentlichen Teil der Verpflichtungen des Beteiligungsunternehmens,
+iii) 
+
+das Beteiligungsunternehmen ist bei kritischen Dienstleistungen, Technologien, Belieferungen oder Rohstoffen vom Investor abhängig,
+iv) 
+
+der Investor hat die Verfügungsgewalt über Vermögenswerte wie Lizenzen oder Marken, die für die Geschäftstätigkeit des Beteiligungsunternehmens von kritischer Bedeutung sind,
+v) 
+
+das Beteiligungsunternehmen ist in Bezug auf das Management in Schlüsselpositionen vom Investor abhängig, beispielsweise wenn das Personal des Investors Fachwissen über die Geschäftstätigkeit des Beteiligungsunternehmens besitzt.
+c) 
+
+Ein wesentlicher Teil der Tätigkeiten des Beteiligungsunternehmens wird unter Mitwirkung oder im Namen des Investors ausgeführt.
+d) 
+
+Das Risiko des Investors aus den Renditen aus seinem Engagement bei dem Beteiligungsunternehmen oder seine Anrechte darauf sind überproportional höher als seine Stimmrechte oder anderen ähnlichen Rechte. Es kann z. B. Fälle geben, in denen der Investor die Anrechte oder das Risiko in Bezug auf mehr als die Hälfte der Renditen des Beteiligungsunternehmens hält bzw. trägt, aber weniger als die Hälfte der Stimmrechte des Beteiligungsunternehmens besitzt.
+
+B20 Je größer die Anrechte auf Renditen bzw. je höher das Risiko schwankender Renditen aus seinem Engagement bei einem Beteiligungsunternehmen, desto höher der Anreiz für den Investor, Rechte zu erwerben, die ausreichen, um ihm die Verfügungsgewalt zu geben. Ein hohes Risiko aufgrund von Renditeschwankungen ist deshalb ein Indikator dafür, dass der Investor eventuell die Verfügungsgewalt hat. Der Umfang des Risikos des Investors ist per se jedoch nicht entscheidend dafür, ob ein Investor die Verfügungsgewalt über das Beteiligungsunternehmen besitzt.
+
+B21 Werden die Faktoren in Paragraph B18 und die Indikatoren in den Paragraphen B19 und B20 gemeinsam mit den Rechten des Investors betrachtet, ist den in Paragraph 18 beschriebenen Anhaltspunkten für das Vorliegen von Verfügungsgewalt größeres Gewicht beizumessen.
+
+Substanzielle Rechte
+
+B22 Bei der Beurteilung, ob er über die Verfügungsgewalt verfügt, berücksichtigt ein Investor nur substanzielle Rechte in Bezug auf das Beteiligungsunternehmen (die von ihm und anderen gehalten werden). Ein Recht ist substanziell, wenn der Inhaber dieses Recht praktisch ausüben kann.
+
+B23 Die Feststellung, ob Rechte substanziell sind, erfordert eine Ermessensausübung, bei der sämtliche Fakten und Umstände zu berücksichtigen sind. Hierzu gehören unter anderem folgende Faktoren:
+a) 
+
+ob es (wirtschaftliche oder andere) Barrieren gibt, die den (oder die) Inhaber an der Ausübung der Rechte hindern. Beispiele für solche Barrieren sind unter anderem:
+i) 
+
+finanzielle Strafen und Anreize, die den Inhaber daran hindern (oder ihn davon abhalten), seine Rechte auszuüben,
+ii) 
+
+ein Ausübungs- oder Umwandlungspreis, der eine finanzielle Barriere schafft, die den Inhaber daran hindert (oder ihn davon abhält), seine Rechte auszuüben,
+iii) 
+
+Vertragsbedingungen, die eine Ausübung der Rechte unwahrscheinlich machen, wie Bedingungen, die den Zeitpunkt der Ausübung eng eingrenzen,
+iv) 
+
+das Fehlen eines ausdrücklichen, angemessenen Mechanismus in den Gründungsunterlagen eines Beteiligungsunternehmens oder in den maßgeblichen Gesetzen oder Verordnungen, der dem Inhaber die Ausübung seiner Rechte ermöglichen würde,
+v) 
+
+die fehlende Möglichkeit des Rechteinhabers, die zur Ausübung seiner Rechte notwendigen Informationen zu beschaffen,
+vi) 
+
+betriebliche Barrieren oder Anreize, die den Inhaber daran hindern (oder ihn davon abhalten), seine Rechte auszuüben (z. B. wenn es keine anderen Manager gibt, die bereit oder in der Lage wären, spezielle Dienstleistungen zu erbringen oder die Dienstleistungen zu erbringen und andere Anteile des amtierenden Managers zu übernehmen),
+vii) 
+
+gesetzliche oder aufsichtsrechtliche Vorschriften, die den Inhaber an der Ausübung seiner Rechte hindern (z. B. wenn ein ausländischer Investor seine Rechte nicht ausüben darf).
+b) 
+
+wenn die Ausübung von Rechten die Zustimmung von mehr als einer Partei erfordert oder die Rechte von mehr als einer Partei gehalten werden, ob ein Mechanismus vorhanden ist, der diesen Parteien in der Praxis die Möglichkeit gibt, ihre Rechte gemeinsam auszuüben, wenn sie dies wünschen? Fehlt ein solcher Mechanismus, ist dies ein Indikator dafür, dass die Rechte möglicherweise nicht substanziell sind. Je mehr Parteien der Ausübung der Rechte zustimmen müssen, desto geringer die Wahrscheinlichkeit, dass diese Rechte substanziell sind. Ein Geschäftsführungs- und/oder Aufsichtsorgan, dessen Mitglieder vom Entscheidungsträger unabhängig sind, kann jedoch für zahlreiche Investoren als ein Mechanismus dienen, um ihre Rechte gemeinsam auszuüben. Von einem unabhängigen Geschäftsführungs- und/oder Aufsichtsorgan ausübbare Abberufungsrechte dürften deshalb eher substanziell sein als die gleichen Rechte, die einzeln von einer großen Anzahl von Investoren ausgeübt werden können.
+c) 
+
+ob die Partei(en), die im Besitz der Rechte ist/sind, von der Ausübung dieser Rechte profitieren würde(n). So hat beispielsweise der Inhaber potenzieller Stimmrechte an einem Beteiligungsunternehmen (siehe Paragraphen B47–B50) den Ausübungs- oder Umwandlungspreis des Instruments zu berücksichtigen. Die Vertragsbedingungen potenzieller Stimmrechte sind mit höherer Wahrscheinlichkeit substanziell, wenn das Instrument im Geld ist oder der Investor aus anderen Gründen (z. B. durch die Realisierung von Synergien zwischen ihm und dem Beteiligungsunternehmen) von der Ausübung oder Umwandlung des Instruments profitieren würde.
+
+B24 Um substanziell zu sein, müssen Rechte auch dann ausübbar sein, wenn Entscheidungen über die Lenkung der maßgeblichen Tätigkeiten getroffen werden müssen. Normalerweise müssen die Rechte gegenwärtig ausübbar sein, um als substanziell angesehen werden zu können. Mitunter können Rechte aber auch substanziell sein, obwohl sie gegenwärtig nicht ausgeübt werden können.
+
+Anwendungsbeispiele
+
+Beispiel 3
+
+Das Beteiligungsunternehmen hält Jahreshauptversammlungen ab, auf denen Entscheidungen über die Lenkung der maßgeblichen Tätigkeiten getroffen werden. Die nächste ordentliche Hauptversammlung findet in acht Monaten statt. Anteilseigner, die einzeln oder gemeinsam mindestens 5 Prozent der Stimmrechte halten, können jedoch eine außerordentliche Versammlung einberufen, um die bestehenden Richtlinien für die maßgeblichen Tätigkeiten zu ändern. Aufgrund der vorgeschriebenen Benachrichtigung der anderen Anteilseigner kann eine solche Versammlung allerdings frühestens in 30 Tagen stattfinden. Die Richtlinien für die maßgeblichen Tätigkeiten können nur auf außerordentlichen oder ordentlichen Hauptversammlungen geändert werden. Hierzu gehört auch die Genehmigung wesentlicher Vermögenswertverkäufe sowie die Tätigung oder Veräußerung erheblicher Investitionen.
+
+Die vorstehend beschriebene Sachlage trifft auf die folgenden Beispiele 3A–3D zu. Jedes Beispiel wird isoliert betrachtet.
+
+Beispiel 3A
+
+Ein Investor hält die Mehrheit der Stimmrechte an einem Beteiligungsunternehmen. Die Stimmrechte des Investors sind substanziell, weil er Entscheidungen über die Lenkung der maßgeblichen Tätigkeiten dann treffen kann, wenn sie erforderlich sind. Der Umstand, dass der Investor seine Stimmrechte erst in 30 Tagen ausüben kann, nimmt ihm nicht die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten ab dem Augenblick, an dem er die Anteile erwirbt.
+
+Beispiel 3B
+
+Ein Investor ist Partei eines Termingeschäfts zum Erwerb der Anteilsmehrheit am Beteiligungsunternehmen. Der Erfüllungstag des Termingeschäfts ist in 25 Tagen. Die derzeitigen Anteilseigner können die aktuellen Richtlinien für die maßgeblichen Tätigkeiten nicht ändern, da eine außerordentliche Versammlung frühestens in 30 Tagen – also nach Abwicklung des Termingeschäfts – abgehalten werden kann. Der Investor hat damit im Wesentlichen die gleichen Rechte wie der Mehrheitsanteilseigner im Beispiel 3A (d. h. der Investor, der den Terminkontrakt hält, kann Entscheidungen über die Lenkung der maßgeblichen Tätigkeiten dann treffen, wenn sie erforderlich sind). Der Terminkontrakt des Investors ist ein substanzielles Recht, das ihm bereits vor der Abwicklung des Termingeschäfts die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten verleiht.
+
+Beispiel 3C
+
+Ein Investor hält eine substanzielle Option auf den Erwerb der Anteilsmehrheit am Beteiligungsunternehmen, die in 25 Tagen ausübbar und weit im Geld ist. Hier würde man zu der gleichen Schlussfolgerung gelangen wie in Beispiel 3B.
+
+Beispiel 3D
+
+Ein Investor ist Partei eines Termingeschäfts zum Erwerb der Anteilsmehrheit am Beteiligungsunternehmen, wobei er keine weiteren verwandten Rechte am Beteiligungsunternehmen hat. Der Erfüllungstag des Termingeschäfts ist in sechs Monaten. Im Gegensatz zu den oben beschriebenen Beispielen verfügt der Investor nicht über die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten. Gegenwärtig sind es die derzeitigen Anteilseigner, die die maßgeblichen Tätigkeiten lenken können, weil sie die aktuellen Richtlinien für die maßgeblichen Tätigkeiten vor der Abwicklung des Termingeschäfts ändern können.
+
+B25 Von anderen Parteien ausübbare substanzielle Rechte können einen Investor daran hindern, das Beteiligungsunternehmen, auf das sich diese Rechte beziehen, zu beherrschen. Solche substanziellen Rechte sind nicht an die Bedingung geknüpft, dass die Inhaber Beschlüsse einleiten können. Solange diese Rechte keine reinen Schutzrechte sind (siehe Paragraphen B26–B28), können substanzielle Rechte anderer Parteien den Investor an der Beherrschung des Beteiligungsunternehmens hindern. Dies gilt selbst dann, wenn diese Rechte ihren Inhabern nur die gegenwärtige Fähigkeit zur Genehmigung oder Blockierung von Entscheidungen über die maßgeblichen Tätigkeiten verleihen.
+
+Schutzrechte
+
+B26 Bei der Beurteilung, ob er aufgrund von Rechten die Verfügungsgewalt über ein Beteiligungsunternehmen hat, muss der Investor prüfen, ob es sich bei seinen Rechten und den Rechten anderer um Schutzrechte handelt. Schutzrechte beziehen sich auf grundlegende Veränderungen bei den Tätigkeiten eines Beteiligungsunternehmens oder gelten unter außergewöhnlichen Umständen. Doch stellen nicht alle Rechte, die unter außergewöhnlichen Umständen gelten oder vom Eintreten bestimmter Ereignisse abhängig sind, Schutzrechte dar (siehe Paragraphen B13 und B53).
+
+B27 Da Schutzrechte darauf ausgelegt sind, die Interessen ihres Inhabers zu schützen, ohne diesem die Verfügungsgewalt über das Beteiligungsunternehmen zu geben, auf das sich diese Rechte beziehen, kann ein Investor, der nur Schutzrechte hält, weder die Verfügungsgewalt über ein Beteiligungsunternehmen haben noch verhindern, dass eine andere Partei die Verfügungsgewalt über das Beteiligungsunternehmen hat (siehe Paragraph 14).
+
+B28 Beispiele für solche Schutzrechte sind unter anderem:
+a) 
+
+das Recht eines Kreditgebers, einen Kreditnehmer in der Durchführung von Tätigkeiten einzuschränken, die das Ausfallrisiko des Kreditnehmers signifikant zum Nachteil des Kreditgebers verändern könnten,
+b) 
+
+das Recht einer Partei mit einem nicht beherrschenden Anteil an einem Beteiligungsunternehmen auf Genehmigung von Investitionen, die über den im Rahmen der gewöhnlichen Geschäftstätigkeit erforderlichen Umfang hinausgehen, oder auf Genehmigung von Eigenkapital- oder Schuldinstrumente-Emissionen,
+c) 
+
+das Recht eines Kreditgebers, die Vermögenswerte eines Kreditnehmers zu verwerten, wenn dieser die festgelegten Kreditrückzahlungsbedingungen nicht einhält.
+
+Franchiseverträge
+
+B29 Franchiseverträge, bei denen das Beteiligungsunternehmen Franchisenehmer ist, räumen dem Franchisegeber häufig Rechte ein, mit denen die Franchisemarke geschützt werden soll. In Franchiseverträgen erhalten die Franchisegeber normalerweise einige Entscheidungsbefugnisse hinsichtlich der Geschäftstätigkeit des Franchisenehmers.
+
+B30 Im Allgemeinen schränken die Rechte des Franchisegebers nicht die Fähigkeit anderer Parteien ein, Entscheidungen mit signifikantem Einfluss auf die Rendite des Franchisenehmers zu treffen. Ebensowenig erhält der Franchisegeber durch seine Rechte aus Franchiseverträgen zwangsläufig die gegenwärtige Fähigkeit zur Lenkung der Tätigkeiten, die die Rendite des Franchisenehmers signifikant beeinflussen.
+
+B31 Es muss unterschieden werden zwischen der gegenwärtigen Fähigkeit, Entscheidungen mit signifikantem Einfluss auf die Rendite des Franchisenehmers, und der Fähigkeit, Entscheidungen zum Schutz der Franchisemarke zu treffen. Der Franchisegeber hat keine Verfügungsgewalt über den Franchisenehmer, wenn andere Parteien aufgrund bestehender Rechte gegenwärtig über die Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten des Franchisenehmers verfügen.
+
+B32 Durch den Abschluss des Franchisevertrags hat der Franchisenehmer die einseitige Entscheidung getroffen, seine Geschäftstätigkeit gemäß den Bedingungen der Franchisevereinbarung, aber auf eigene Rechnung auszuüben.
+
+B33 Die Verfügungsgewalt über so grundlegende Entscheidungen wie die Wahl der Rechtsform und der Finanzierungsstruktur des Franchisenehmers können bei anderen Parteien als dem Franchisegeber liegen und die Rendite des Franchisenehmers signifikant beeinflussen. Je geringer die finanzielle Unterstützung durch den Franchisegeber und je geringer sein Risiko aus schwankenden Renditen des Franchisenehmers ist, desto höher ist die Wahrscheinlichkeit, dass der Franchisegeber nur Schutzrechte besitzt.
+
+Stimmrechte
+
+B34 Häufig verfügt ein Investor aufgrund von Stimmrechten oder ähnlichen Rechten über die gegenwärtige Fähigkeit, die maßgeblichen Tätigkeiten zu lenken. Ein Investor berücksichtigt die Vorschriften in diesem Abschnitt (Paragraphen B35–B50), wenn die maßgeblichen Tätigkeiten eines Beteiligungsunternehmens durch Stimmrechte gelenkt werden.
+
+Verfügungsgewalt mit Stimmrechtsmehrheit
+
+B35 Ein Investor, der mehr als die Hälfte der Stimmrechte an einem Beteiligungsunternehmen hält, hat in den folgenden Fällen die Verfügungsgewalt, sofern nicht Paragraph B36 oder Paragraph B37 zutreffen:
+a) 
+
+die maßgeblichen Tätigkeiten werden durch ein Votum des Inhabers der Stimmrechtsmehrheit gelenkt oder
+b) 
+
+die Mehrheit der Mitglieder des Leitungsorgans, das die maßgeblichen Tätigkeiten lenkt, wird durch ein Votum des Inhabers der Stimmrechtsmehrheit ernannt.
+
+Stimmrechtsmehrheit, aber keine Verfügungsgewalt
+
+B36 Ein Investor, der mehr als die Hälfte der Stimmrechte an einem Beteiligungsunternehmen hält, hat nur dann die Verfügungsgewalt über das Beteiligungsunternehmen, wenn seine Stimmrechte gemäß den Paragraphen B22–B25 substanziell sind und ihm die gegenwärtige Fähigkeit verleihen, die maßgeblichen Tätigkeiten zu lenken, was häufig durch Festlegung der Geschäfts- und Finanzpolitik erfolgt. Wenn ein anderes Unternehmen aufgrund bestehender Rechte zur Lenkung der maßgeblichen Tätigkeiten berechtigt ist und es sich bei diesem Unternehmen nicht um einen Agenten des Investors handelt, hat der Investor nicht die Verfügungsgewalt über das Beteiligungsunternehmen.
+
+B37 Ein Investor hat selbst dann, wenn er die Stimmrechtsmehrheit am Beteiligungsunternehmen besitzt, nicht die Verfügungsgewalt über das Beteiligungsunternehmen, wenn diese Stimmrechte nicht substanziell sind. Beispielsweise kann ein Investor, der mehr als die Hälfte der Stimmrechte an einem Beteiligungsunternehmen besitzt, nicht die Verfügungsgewalt haben, wenn die maßgeblichen Tätigkeiten den Weisungen einer staatlichen Stelle, eines Gerichts, eines Zwangs- oder Konkursverwalters, eines Liquidators oder einer Aufsichtsbehörde unterliegen.
+
+Verfügungsgewalt ohne Stimmrechtsmehrheit
+
+B38 Ein Investor kann die Verfügungsgewalt haben, selbst wenn er nicht die Mehrheit der Stimmrechte an einem Beteiligungsunternehmen hält. Die Verfügungsgewalt eines Investors ohne die Stimmrechtsmehrheit an einem Beteiligungsunternehmen kann beispielsweise basieren auf
+a) 
+
+einer vertraglichen Vereinbarung zwischen dem Investor und anderen Stimmrechtsinhabern (siehe Paragraph B39),
+b) 
+
+Rechten aus anderen vertraglichen Vereinbarungen (siehe Paragraph B40),
+c) 
+
+den Stimmrechten des Investors (siehe Paragraphen B41–B45),
+d) 
+
+potenziellen Stimmrechten (siehe Paragraphen B47–B50) oder
+e) 
+
+einer Kombination aus (a)–(d).
+
+Vertragliche Vereinbarung mit anderen Stimmrechtsinhabern
+
+B39 Ein Investor kann aufgrund einer vertraglichen Vereinbarung zwischen ihm und anderen Stimmrechtsinhabern das Recht haben, genügend Stimmrechte auszuüben, um die Verfügungsgewalt zu erlangen, selbst wenn er ohne die vertragliche Vereinbarung nicht über genügend Stimmrechte für die Verfügungsgewalt verfügen würde. Eine vertragliche Vereinbarung könnte jedoch sicherstellen, dass der Investor genügend andere Stimmrechtsinhaber anweisen kann, so abzustimmen, dass er Entscheidungen über die maßgeblichen Tätigkeiten treffen kann.
+
+Rechte aus anderen vertraglichen Vereinbarungen
+
+B40 Ein Investor kann auch aufgrund anderer Entscheidungsbefugnisse in Verbindung mit Stimmrechten die gegenwärtige Fähigkeit haben, die maßgeblichen Tätigkeiten zu lenken. Beispielsweise können die in einer vertraglichen Vereinbarung festgelegten Rechte in Verbindung mit Stimmrechten ausreichen, um einem Investor die gegenwärtige Fähigkeit zu verleihen, die Herstellungsprozesse eines Beteiligungsunternehmens oder andere Geschäfts- oder Finanztätigkeiten eines Beteiligungsunternehmens, die die Rendite des Beteiligungsunternehmens signifikant beeinflussen, zu lenken. Ohne andere Rechte führt die wirtschaftliche Abhängigkeit eines Beteiligungsunternehmens vom Investor (wie in der Beziehung eines Lieferanten zu seinem Hauptkunden) nicht dazu, dass der Investor die Verfügungsgewalt über das Beteiligungsunternehmen hat.
+
+Die Stimmrechte des Investors
+
+B41 Ein Investor ohne Stimmrechtsmehrheit verfügt dann über ausreichende Rechte, die ihm die Verfügungsgewalt geben, wenn er über die praktische Fähigkeit verfügt, die maßgeblichen Tätigkeiten einseitig zu lenken.
+
+B42 Bei der Beurteilung, ob die Stimmrechte eines Investors ausreichen, um ihm die Verfügungsgewalt zu geben, berücksichtigt der Investor alle Fakten und Umstände, so u. a.:
+a) 
+
+den Umfang der in seinem Besitz befindlichen Stimmrechte im Verhältnis zu Umfang und Streuung der Stimmrechte anderer Stimmrechtsinhaber. Dabei ist Folgendes zu beachten:
+i) 
+
+je mehr Stimmrechte ein Investor besitzt, desto größer die Wahrscheinlichkeit, dass er über bestehende Rechte verfügt, die ihm die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten verleihen,
+ii) 
+
+je mehr Stimmrechte ein Investor im Verhältnis zu anderen Stimmrechtsinhabern besitzt, desto größer die Wahrscheinlichkeit, dass er über bestehende Rechte verfügt, die ihm die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten verleihen,
+iii) 
+
+je mehr Parteien gemeinsam handeln müssten, um den Investor zu überstimmen, desto größer die Wahrscheinlichkeit, dass der Investor über bestehende Rechte verfügt, die ihm die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten verleihen.
+b) 
+
+potenzielle Stimmrechte, die sich im Besitz des Investors, anderer Stimmrechtsinhaber oder sonstiger Parteien befinden (siehe Paragraphen B47–B50),
+c) 
+
+Rechte aus anderen vertraglichen Vereinbarungen (siehe Paragraph B40) und
+d) 
+
+weitere Fakten und Umstände, die darauf hinweisen, dass der Investor gegenwärtig in der Lage ist oder nicht in der Lage ist, die maßgeblichen Tätigkeiten zu den Zeitpunkten, zu denen Entscheidungen getroffen werden müssen, unter Berücksichtigung des Abstimmungsverhaltens bei früheren Haupt- bzw. Gesellschafterversammlungen zu lenken.
+
+B43 Wenn die maßgeblichen Tätigkeiten per Mehrheitsbeschluss bestimmt werden und ein Investor erheblich mehr Stimmrechte als jeder andere Stimmrechtsinhaber oder jede organisierte Gruppe von Stimmrechtsinhabern hält und der übrige Anteilsbesitz breit gestreut ist, kann es nach alleiniger Berücksichtigung der in Paragraph B42(a)–(c) genannten Faktoren eindeutig sein, dass der Investor die Verfügungsgewalt über das Beteiligungsunternehmen hat.
+
+Anwendungsbeispiele
+
+Beispiel 4
+
+Ein Investor erwirbt 48 Prozent der Stimmrechte an einem Beteiligungsunternehmen. Die übrigen Stimmrechte werden von mehreren Tausend Anteilseignern gehalten, von denen keiner mehr als 1 Prozent der Stimmrechte besitzt. Keiner der Anteilseigner hat vereinbart, sich mit anderen Anteilseignern zu beraten oder gemeinsame Entscheidungen zu treffen. Bei der Beurteilung des Anteils der zu erwerbenden Stimmrechte gelangte der Investor mit Blick auf die relative Größe der anderen Anteilsbestände zu dem Schluss, dass ein Anteil von 48 Prozent für die Verfügungsgewalt ausreichen würde. In diesem Fall wird die Schlussfolgerung, dass der Stimmrechtsanteil ausreichend dominant ist, um das Kriterium der Verfügungsgewalt zu erfüllen, auf Basis der absoluten Größe des Anteilsbesitzes des Investors und der relativen Größe der anderen Anteilsbestände gezogen, ohne dass weitere Anhaltspunkte für die Verfügungsgewalt berücksichtigt werden müssen.
+
+Beispiel 5
+
+Investor A hält 40 Prozent der Stimmrechte an einem Beteiligungsunternehmen und zwölf andere Investoren halten je 5 Prozent. Investor A hat aufgrund einer Anteilseignervereinbarung das Recht auf Ernennung und Abberufung des für die Lenkung der maßgeblichen Tätigkeiten verantwortlichen Managements sowie zur Festlegung von dessen Vergütung. Zur Änderung der Vereinbarung ist eine Zweidrittelmehrheit der Anteilseigner erforderlich. In diesem Fall kommt Investor A zu dem Schluss, dass sich aus der absoluten Größe seines Anteilsbesitzes und der relativen Größe der anderen Anteilsbestände allein nicht schlüssig ableiten lässt, ob er über ausreichende Rechte verfügt, um die Verfügungsgewalt zu haben. Investor A stellt jedoch fest, dass sein vertragliches Recht auf Ernennung, Abberufung und Festlegung der Vergütung des Managements ausreicht, um zu dem Schluss zu gelangen, dass er die Verfügungsgewalt über das Beteiligungsunternehmen besitzt. Die Tatsache, dass Investor A dieses Recht möglicherweise nicht ausgeübt hat, oder die Wahrscheinlichkeit, dass Investor A von seinem Recht auf Auswahl, Ernennung oder Abberufung des Managements Gebrauch macht, sind bei der Beurteilung, ob Investor A die Verfügungsgewalt besitzt, nicht zu berücksichtigen.
+
+B44 In anderen Fällen kann nach alleiniger Berücksichtigung der in Paragraph B42(a)–(c) aufgeführten Faktoren klar sein, dass ein Investor nicht die Verfügungsgewalt besitzt.
+
+Anwendungsbeispiel
+
+Beispiel 6
+
+Investor A hält 45 Prozent der Stimmrechte an einem Beteiligungsunternehmen. Zwei weitere Investoren halten je 26 Prozent. Die restlichen Stimmrechte entfallen auf drei weitere Anteilseigner, die je 1 Prozent halten. Es bestehen keine weiteren Vereinbarungen, die sich auf den Entscheidungsprozess auswirken. In diesem Fall reicht die Größe des Stimmrechtsanteils von Investor A im Verhältnis zu den anderen Anteilsbeständen aus, um zu dem Schluss zu gelangen, dass Investor A nicht die Verfügungsgewalt hat. Nur zwei andere Investoren müssten kooperieren, um Investor A daran zu hindern, die maßgeblichen Tätigkeiten des Beteiligungsunternehmens zu lenken.
+
+B45 Die in Paragraph B42(a)–(c) aufgeführten Faktoren reichen für sich genommen eventuell nicht für eine Schlussfolgerung aus. Ist ein Investor sich nach Berücksichtigung dieser Faktoren unsicher, ob er die Verfügungsgewalt besitzt, muss er zusätzliche Fakten und Umstände heranziehen, z. B. ob aus dem Abstimmungsverhalten bei früheren Hauptversammlungen ersichtlich ist, dass andere Anteilseigner eher passiv sind. Dazu gehört auch die Beurteilung der Faktoren in Paragraph B18 und der Indikatoren in den Paragraphen B19 und B20. Je weniger Stimmrechte der Investor hält und je weniger Parteien kooperieren müssen, um den Investor zu überstimmen, desto mehr würde bei der Beurteilung, ob die Rechte des Investors für die Verfügungsgewalt ausreichen, das Gewicht auf die zusätzlichen Fakten und Umstände gelegt. Werden die in den Paragraphen B18–B20 genannten Fakten und Umstände zusammen mit den Rechten des Investors betrachtet, sind die Anhaltspunkte für das Vorliegen von Verfügungsgewalt in Paragraph B18 stärker zu gewichten als die Indikatoren in den Paragraphen B19 und B20.
+
+Anwendungsbeispiele
+
+Beispiel 7
+
+Ein Investor hält 45 Prozent der Stimmrechte an einem Beteiligungsunternehmen. Elf weitere Anteilseigner halten je 5 Prozent. Keiner der Anteilseigner hat vertraglich vereinbart, sich mit anderen zu beraten oder gemeinsame Entscheidungen zu treffen. In diesem Fall lässt sich aus der Größe des Anteilsbesitzes des Investors und der relativen Größe der anderen Anteilsbestände allein nicht schlüssig ableiten, ob der Investor über ausreichende Rechte für Verfügungsgewalt verfügt. Es müssen weitere Fakten und Umstände berücksichtigt werden, die möglicherweise darauf hinweisen, dass der Investor die Verfügungsgewalt hat oder dass er sie nicht hat.
+
+Beispiel 8
+
+Ein Investor hält 35 Prozent der Stimmrechte an einem Beteiligungsunternehmen. Drei andere Anteilseigner halten je 5 Prozent. Die restlichen Stimmrechte werden von zahlreichen anderen Anteilseignern gehalten, von denen keiner mehr als 1 Prozent der Stimmrechte besitzt. Keiner der Anteilseigner hat vereinbart, sich mit anderen zu beraten oder gemeinsame Entscheidungen zu treffen. Entscheidungen über die maßgeblichen Tätigkeiten des Beteiligungsunternehmens müssen mit einer Mehrheit der in der Hauptversammlung jeweils abgegebenen Stimmen genehmigt werden. In den letzten Hauptversammlungen haben 75 Prozent der Stimmberechtigten des Beteiligungsunternehmens ihre Stimme abgegeben. In diesem Fall weist die aktive Beteiligung der anderen Anteilseigner auf den letzten Hauptversammlungen darauf hin, dass der Investor nicht über die praktische Fähigkeit zur einseitigen Lenkung der maßgeblichen Tätigkeiten verfügen würde. Dies gilt unabhängig davon, ob der Investor die maßgeblichen Tätigkeiten gelenkt hat, weil eine ausreichende Anzahl anderer Anteilseigner genauso abgestimmt hat wie er.
+
+B46 Ist nach Berücksichtigung der in Paragraph B42(a)–(d) aufgeführten Faktoren nicht eindeutig, dass der Investor die Verfügungsgewalt hat, wird das Beteiligungsunternehmen vom Investor nicht beherrscht.
+
+Potenzielle Stimmrechte
+
+B47 Bei der Beurteilung der Beherrschung berücksichtigt ein Investor seine potenziellen Stimmrechte sowie die potenziellen Stimmrechte anderer Parteien, um festzustellen, ob er die Verfügungsgewalt hat. Potenzielle Stimmrechte sind Rechte auf den Erhalt von Stimmrechten an einem Beteiligungsunternehmen. Dies können Rechte sein, die aus wandelbaren Instrumenten oder Optionen einschließlich Termingeschäften entstehen. Diese potenziellen Stimmrechte werden nur berücksichtigt, wenn sie substanziell sind (siehe Paragraphen B22–B25).
+
+B48 Bei der Berücksichtigung potenzieller Stimmrechte muss ein Investor den Zweck und die Ausgestaltung des Instruments sowie den Zweck und die Ausgestaltung eines etwaigen anderen Engagements des Investors beim Beteiligungsunternehmen betrachten. Hierzu gehört eine Beurteilung der verschiedenen Vertragsbedingungen des Instruments sowie der offensichtlichen Erwartungen, Motive und Gründe, die den Investor bewogen haben, diesen Bedingungen zuzustimmen.
+
+B49 Verfügt der Investor außerdem über Stimmrechte oder andere Entscheidungsbefugnisse in Bezug auf die Tätigkeiten des Beteiligungsunternehmens, beurteilt er, ob ihm diese Rechte in Verbindung mit potenziellen Stimmrechten die Verfügungsgewalt geben.
+
+B50 Ein Investor kann allein aufgrund substanzieller potenzieller Stimmrechte in Kombination mit anderen Rechten die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten besitzen. Beispielsweise ist dies wahrscheinlich der Fall, wenn ein Investor 40 Prozent der Stimmrechte an einem Beteiligungsunternehmen hält und gemäß Paragraph B23 substanzielle Rechte aus Optionen für den Erwerb von weiteren 20 Prozent der Stimmrechte hat.
+
+Anwendungsbeispiele
+
+Beispiel 9
+
+Investor A hält 70 Prozent der Stimmrechte an einem Beteiligungsunternehmen. Investor B hat 30 Prozent der Stimmrechte sowie eine Option für den Erwerb der Hälfte der Stimmrechte von Investor A. Die Option kann in den nächsten zwei Jahren zu einem festen Preis ausgeübt werden, der weit aus dem Geld ist (und im betreffenden Zweijahreszeitraum voraussichtlich weiter sein wird). Investor A übt seine Stimmrechte aus und lenkt aktiv die maßgeblichen Tätigkeiten des Beteiligungsunternehmens. In einem solchen Fall erfüllt Investor A wahrscheinlich das Kriterium der Verfügungsgewalt, weil er über die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten zu verfügen scheint. Obgleich Investor B gegenwärtig ausübbare Optionen über den Kauf zusätzlicher Stimmrechte besitzt (bei deren Ausübung er die Mehrheit der Stimmrechte an dem Beteiligungsunternehmen erhielte), sind die mit diesen Optionen verknüpften Bedingungen so beschaffen, dass die Optionen nicht als substanziell angesehen werden.
+
+Beispiel 10
+
+Investor A und zwei weitere Investoren halten je ein Drittel der Stimmrechte an einem Beteiligungsunternehmen. Die Geschäftstätigkeit des Beteiligungsunternehmens ist eng mit Investor A verbunden. Zusätzlich zu den Eigenkapitalinstrumenten des Beteiligungsunternehmens hält Investor A Schuldinstrumente, die jederzeit zu einem festen Preis, der aus dem Geld (aber nicht weit aus dem Geld) ist, in Stammaktien des Beteiligungsunternehmens umgewandelt werden können. Bei einer Umwandlung der Schuldinstrumente würde Investor A 60 Prozent der Stimmrechte am Beteiligungsunternehmen halten. Investor A würde von der Realisierung von Synergien profitieren, wenn die Schuldinstrumente in Stammaktien umgewandelt würden. Investor A hat die Verfügungsgewalt über das Beteiligungsunternehmen, weil er Stimmrechte sowie substanzielle potenzielle Stimmrechte am Beteiligungsunternehmen hält, die ihm die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten geben.
+
+Verfügungsgewalt in Fällen, in denen Stimm- oder ähnliche Rechte keinen signifikanten Einfluss auf die Renditen des Beteiligungsunternehmens haben
+
+B51 Bei der Beurteilung von Zweck und Ausgestaltung eines Beteiligungsunternehmens (siehe Paragraphen B5–B8) muss ein Investor das Engagement und die Entscheidungen berücksichtigen, die bei der Gründung des Beteiligungsunternehmens im Rahmen von dessen Ausgestaltung getroffen wurden. Außerdem muss er beurteilen, ob die Transaktionsbedingungen und Merkmale des Engagements ihn mit genügend Rechten ausstatten, um ihm die Verfügungsgewalt zu geben. Ein Engagement an der Ausgestaltung eines Beteiligungsunternehmens allein reicht für den Investor nicht aus, um das Beteiligungsunternehmen zu beherrschen. Ein Engagement bei der Ausgestaltung kann aber darauf hinweisen, dass der Investor Gelegenheit zur Erlangung von Rechten hatte, die ausreichen, um ihm die Verfügungsgewalt über das Beteiligungsunternehmen zu geben.
+
+B52 Darüber hinaus hat ein Investor vertragliche Vereinbarungen wie bei der Gründung des Beteiligungsunternehmens festgelegte Kauf-, Verkaufs- und Liquidationsrechte zu berücksichtigen. Beziehen sich diese vertraglichen Vereinbarungen auf Tätigkeiten, die eng mit denen des Beteiligungsunternehmens verbunden sind, so sind diese Aktivitäten von ihrem wirtschaftlichen Gehalt her ein Bestandteil der Gesamttätigkeit des Beteiligungsunternehmens, auch wenn sie möglicherweise außerhalb der rechtlichen Sphäre des Beteiligungsunternehmens stattfinden. Daher sind explizite oder implizite Entscheidungsbefugnisse, die in eng mit dem Beteiligungsunternehmen verbundene vertragliche Vereinbarungen eingebettet sind, bei der Beurteilung der Verfügungsgewalt über ein Beteiligungsunternehmen als maßgebliche Tätigkeiten zu betrachten.
+
+B53 Bei einigen Beteiligungsunternehmen kommen maßgebliche Tätigkeiten nur vor, wenn bestimmte Umstände oder Ereignisse eintreten. Das Beteiligungsunternehmen kann so ausgestaltet sein, dass seine Tätigkeiten und Renditen vorab festgelegt sind, es sei denn, dass bzw. bis diese bestimmten Umstände oder Ereignisse eintreten. In diesem Fall können nur die bei Eintreten dieser Umstände oder Ereignisse getroffenen Entscheidungen über die Tätigkeiten des Beteiligungsunternehmens dessen Rendite signifikant beeinflussen und somit maßgebliche Tätigkeiten sein. Diese Umstände oder Ereignisse müssen nicht eingetreten sein, damit ein Investor, der diese Entscheidungen treffen kann, die Verfügungsgewalt besitzt. Die Tatsache, dass die Entscheidungsbefugnis vom Eintreten bestimmter Umstände oder Ereignisse abhängig ist, macht diese Rechte für sich genommen nicht zu Schutzrechten.
+
+Anwendungsbeispiele
+
+Beispiel 11
+
+Die einzige Geschäftstätigkeit eines Beteiligungsunternehmens besteht seinen Gründungsunterlagen zufolge darin, Forderungen aufzukaufen und für seine Investoren laufend abzuwickeln. Die laufende Abwicklung umfasst die Einziehung und Weiterleitung fälliger Kapital- und Zinszahlungen. Bei Ausfall einer Forderung verkauft das Beteiligungsunternehmen die Forderung automatisch an einen Investor, wie in einer Verkaufsvereinbarung zwischen dem Investor und dem Beteiligungsunternehmen gesondert vereinbart wurde. Die einzige maßgebliche Tätigkeit ist die Verwaltung der Forderungen bei Ausfall, da dies die einzige Tätigkeit ist, die die Rendite des Beteiligungsunternehmens signifikant beeinflussen kann. Die Verwaltung der Forderungen vor einem Ausfall ist keine maßgebliche Tätigkeit, da hierfür keine substanziellen Entscheidungen notwendig sind, die die Rendite des Beteiligungsunternehmens signifikant beeinflussen könnten. Die Tätigkeiten vor einem Ausfall sind vorab festgelegt und beschränken sich auf die Einziehung fälliger Zahlungen und deren Weiterleitung an die Investoren. Daher ist bei der Beurteilung der Gesamttätigkeiten des Beteiligungsunternehmens, die dessen Rendite signifikant beeinflussen, nur das Recht des Investors, die Forderungen bei Ausfall zu verwalten, zu berücksichtigen. In diesem Bespiel wird durch die Ausgestaltung des Beteiligungsunternehmens sichergestellt, dass der Investor die Entscheidungsbefugnis über die Tätigkeiten, die die wirtschaftlichen Erfolge signifikant beeinflussen, zu dem einzigen Zeitpunkt besitzt, zu dem eine solche Entscheidungsbefugnis erforderlich ist. Die Bedingungen der Verkaufsvereinbarung sind ein Bestandteil der Gesamttransaktion und der Gründung des Beteiligungsunternehmens. Daher lassen die Bedingungen der Verkaufsvereinbarung zusammen mit den Gründungsunterlagen des Beteiligungsunternehmens den Schluss zu, dass der Investor die Verfügungsgewalt über das Beteiligungsunternehmen besitzt, auch wenn er die Forderungen erst bei Ausfall in Besitz nimmt und die ausgefallenen Forderungen außerhalb der rechtlichen Sphäre des Beteiligungsunternehmens verwaltet.
+
+Beispiel 12
+
+Die Vermögenswerte eines Beteiligungsunternehmens bestehen ausschließlich aus Forderungen. Bei einer Beurteilung von Zweck und Ausgestaltung des Beteiligungsunternehmens wird festgestellt, dass die einzige maßgebliche Tätigkeit darin besteht, die Forderungen bei einem Ausfall zu verwalten. Die Verfügungsgewalt über das Beteiligungsunternehmen hat die Partei, die die ausgefallenen Forderungen verwalten kann, unabhängig davon, ob ein Schuldner tatsächlich ausgefallen ist.
+
+B54 Ein Investor kann eine explizite oder implizite Verpflichtung haben, dafür zu sorgen, dass ein Beteiligungsunternehmen weiterhin wie vorgesehen tätig ist. Eine solche Verpflichtung kann das Risiko des Investors aus Renditeschwankungen vergrößern und damit für ihn den Anreiz erhöhen, ausreichende Rechte zu erlangen, um die Verfügungsgewalt zu erhalten. Eine Verpflichtung, dafür zu sorgen, dass ein Beteiligungsunternehmen wie vorgesehen tätig ist, kann daher ein Indikator dafür sein, dass der Investor die Verfügungsgewalt besitzt, verleiht ihm aber für sich genommen keine Verfügungsgewalt und verhindert auch nicht, dass eine andere Partei die Verfügungsgewalt hat.
+
+Risiko durch oder Anrechte auf schwankende Renditen aus einem Beteiligungsunternehmen
+
+B55 Bei der Beurteilung, ob er ein Beteiligungsunternehmen beherrscht, bestimmt der Investor, ob er aufgrund seines Engagements bei dem Beteiligungsunternehmen dem Risiko schwankender Renditen ausgesetzt ist oder Anrechte darauf hat.
+
+B56 Schwankende Renditen sind Renditen, die nicht festgelegt sind und je nach Ertragskraft eines Beteiligungsunternehmens variieren können. Schwankende Renditen können ausschließlich positiv, ausschließlich negativ oder sowohl positiv als auch negativ sein (siehe Paragraph 15). Ein Investor beurteilt anhand des wirtschaftlichen Gehalts der Vereinbarung und unabhängig von der rechtlichen Form der Renditen, ob und wie variabel die Renditen aus einem Beteiligungsunternehmen sind. So kann ein Investor zum Beispiel eine Anleihe mit festen Zinszahlungen halten. Die festen Zinszahlungen stellen für die Zwecke dieses IFRS schwankende Renditen dar, weil sie dem Ausfallrisiko unterliegen und den Investor dem Ausfallrisiko des Anleiheemittenten aussetzen. Der Umfang der Schwankungen (d. h. wie stark sich diese Renditen verändern) hängt vom Ausfallrisiko der Anleihe ab. Auch festgelegte erfolgsabhängige Vergütungen für die Verwaltung der Vermögenswerte eines Beteiligungsunternehmens stellen schwankende Renditen dar, weil der Investor dadurch dem Erfolgsrisiko des Beteiligungsunternehmens ausgesetzt ist. Der Umfang der Schwankungen hängt von der Fähigkeit des Beteiligungsunternehmens ab, ausreichende Erträge zu erwirtschaften, um die Vergütung zu zahlen.
+
+B57 Beispiele für Renditen sind u. a.:
+a) 
+
+Dividenden, andere Ausschüttungen eines Beteiligungsunternehmens von wirtschaftlichem Nutzen (z. B. Zinsen aus vom Beteiligungsunternehmen ausgegebenen Schuldverschreibungen) sowie Änderungen im Wert der Beteiligung des Investors an dem betreffenden Beteiligungsunternehmen.
+b) 
+
+Vergütung für die Bedienung der Vermögenswerte oder Schulden eines Beteiligungsunternehmens, Entgelte und Verlustrisiko in Verbindung mit der Gewährung von Krediten oder Liquiditätshilfen, Residualansprüche an den Vermögenswerten und Schulden eines Beteiligungsunternehmens bei dessen Liquidation, steuerliche Vorteile und Zugang zu künftiger Liquidität aufgrund des Engagements des Investors bei einem Beteiligungsunternehmen.
+c) 
+
+Renditen, die anderen Anteilseignern nicht zur Verfügung stehen. Ein Investor könnte seine Vermögenswerte beispielsweise in Kombination mit den Vermögenswerten des Beteiligungsunternehmens verwenden. Dies könnte in der Zusammenfassung betrieblicher Funktionen bestehen, um Skalenerträge oder Kosteneinsparungen zu erzielen, seltene Produkte zu beziehen, Zugang zu geschütztem Know-how zu erhalten oder einige Geschäftstätigkeiten oder Vermögenswerte zu beschränken, um den Wert der anderen Vermögenswerte des Investors zu erhöhen.
+
+Verknüpfung zwischen Verfügungsgewalt und Renditen
+
+Delegierte Verfügungsgewalt
+
+B58 Wenn ein Investor mit Entscheidungsbefugnissen (ein Entscheidungsträger) beurteilt, ob er ein Beteiligungsunternehmen beherrscht, muss er ermitteln, ob er ein Prinzipal oder ein Agent ist. Er muss außerdem ermitteln, ob ein anderes Unternehmen mit Entscheidungsbefugnissen als Agent für ihn handelt. Ein Agent ist eine Partei, die hauptsächlich beauftragt wurde, im Namen und zugunsten einer oder mehrerer anderer Partei(en) (des Prinzipals/der Prinzipalen) zu handeln, und das Beteiligungsunternehmen daher nicht beherrscht, wenn sie ihre Entscheidungsbefugnis ausübt (siehe Paragraphen 17 und 18). Die Verfügungsgewalt eines Prinzipals kann also mitunter von einem Agenten gehalten und von diesem, allerdings im Namen des Prinzipals, ausgeübt werden. Ein Entscheidungsträger ist nicht allein deswegen ein Agent, weil andere Parteien einen Nutzen aus den von ihm getroffenen Entscheidungen ziehen können.
+
+B59 Ein Investor kann seine Entscheidungsbefugnis für bestimme Angelegenheiten oder für alle maßgeblichen Tätigkeiten an einen Agenten delegieren. Bei der Beurteilung, ob er ein Beteiligungsunternehmen beherrscht, hat der Investor die an seinen Agenten delegierten Entscheidungsbefugnisse so zu behandeln, als würden sie direkt von ihm selbst gehalten. Gibt es mehrere Prinzipale, muss jeder Prinzipal anhand der Vorschriften der Paragraphen B5–B54 beurteilen, ob er die Verfügungsgewalt über das Beteiligungsunternehmen besitzt. Leitlinien für die Feststellung, ob ein Entscheidungsträger Agent oder Prinzipal ist, sind in den Paragraphen B60–B72 enthalten.
+
+B60 Bei der Beurteilung, ob er ein Agent ist, hat ein Entscheidungsträger die Gesamtbeziehung zwischen ihm, dem geführten Beteiligungsunternehmen und anderen Parteien mit einem Engagement bei dem Beteiligungsunternehmen zu berücksichtigen. Hierzu gehören insbesondere alle folgenden Faktoren:
+a) 
+
+der Umfang seiner Entscheidungsbefugnis über das Beteiligungsunternehmen (Paragraphen B62 und B63),
+b) 
+
+die Rechte anderer Parteien (Paragraphen B64–B67),
+c) 
+
+die Vergütung, auf die er gemäß der/den Vergütungsvereinbarung(en) Anspruch hat (Paragraphen B68–B70),
+d) 
+
+der Umfang, in dem der Entscheidungsträger dem Risiko schwankender Renditen aus anderen Anteilen ausgesetzt ist, die er am Beteiligungsunternehmen hält (Paragraphen B71 und B72).
+
+Die einzelnen Faktoren sind je nach den besonderen Fakten und Umständen unterschiedlich zu gewichten.
+
+B61 Um zu bestimmen, ob ein Entscheidungsträger ein Agent ist, müssen alle in Paragraph B60 aufgeführten Faktoren ausgewertet werden, es sei denn, eine einzelne Partei verfügt über substanzielle Rechte, den Entscheidungsträger abzuberufen (Abberufungsrechte), und diese Abberufung kann ohne Grund erfolgen (siehe Paragraph B65).
+
+Umfang der Entscheidungsbefugnis
+
+B62 Der Umfang der Entscheidungsbefugnis eines Entscheidungsträgers wird anhand folgender Faktoren beurteilt:
+a) 
+
+der Tätigkeiten, die gemäß der/den Entscheidungsvereinbarung(en) zulässig und gesetzlich festgelegt sind, und
+b) 
+
+des Ermessensspielraums, über den der Entscheidungsträger bei seinen Entscheidungen über diese Tätigkeiten verfügt.
+
+B63 Ein Entscheidungsträger muss den Zweck und die Ausgestaltung des Beteiligungsunternehmens, die Risiken, denen das Beteiligungsunternehmen aufgrund seiner Ausgestaltung ausgesetzt ist, die Risiken, die aufgrund seiner Ausgestaltung an die beteiligten Parteien übertragen werden, und den Umfang des Engagements des Entscheidungsträgers bei der Ausgestaltung des Beteiligungsunternehmens berücksichtigen. Wenn ein Entscheidungsträger beispielsweise erheblichen Anteil an der Ausgestaltung des Beteiligungsunternehmens hat (u. a. bei der Festlegung des Umfangs der Entscheidungsbefugnis), kann dies darauf hinweisen, dass er Gelegenheit und Anreiz hatte, Rechte zu erlangen, die ihm die Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten verleihen.
+
+Rechte anderer Parteien
+
+B64 Substanzielle Rechte anderer Parteien können die Fähigkeit des Entscheidungsträgers zur Lenkung der maßgeblichen Tätigkeiten eines Beteiligungsunternehmens beeinträchtigen. Substanzielle Abberufungsrechte oder andere Rechte können ein Hinweis darauf sein, dass der Entscheidungsträger ein Agent ist.
+
+B65 Besitzt eine einzelne Partei substanzielle Abberufungsrechte und kann sie den Entscheidungsträger ohne Grund abberufen, ist dies an sich ausreichend, um zu dem Schluss zu gelangen, dass der Entscheidungsträger ein Agent ist. Besitzen mehrere Parteien solche Rechte (und kann keine einzelne Partei den Entscheidungsträger ohne Zustimmung der anderen Parteien abberufen), lässt sich daraus allein nicht schlüssig ableiten, dass ein Entscheidungsträger hauptsächlich im Namen und zugunsten anderer handelt. Außerdem gilt: je größer die Anzahl der Parteien, die kooperieren müssen, um die Rechte auf Abberufung eines Entscheidungsträgers auszuüben, und je größer der Umfang und die damit verbundene Variabilität der anderen wirtschaftlichen Interessen des Entscheidungsträgers (z. B. Vergütung und andere Interessen) ist, desto weniger Gewicht sollte auf diesen Faktor gelegt werden.
+
+B66 Bei der Beurteilung, ob ein Entscheidungsträger ein Agent ist, sind substanzielle Rechte anderer Parteien, die den Ermessensspielraum des Entscheidungsträgers einschränken, auf die gleiche Weise wie Abberufungsrechte zu betrachten. So ist beispielsweise ein Entscheidungsträger, der für seine Handlungen die Zustimmung einer kleinen Anzahl anderer Parteien einholen muss, im Allgemeinen ein Agent. (Weitere Leitlinien zu Rechten und der Frage, ob diese substanziell sind, sind in den Paragraphen B22–B25 enthalten.)
+
+B67 Bei der Berücksichtigung der Rechte anderer Parteien sind auch etwaige vom Geschäftsführungs- und/oder Aufsichtsorgan (oder einem anderen Leitungsgremium) eines Beteiligungsunternehmens ausübbaren Rechte und ihre Auswirkung auf die Entscheidungsbefugnis einzubeziehen (siehe Paragraph B23(b)).
+
+Vergütung
+
+B68 Je höher und variabler die Vergütung des Entscheidungsträgers im Verhältnis zu der aus den Tätigkeiten des Beteiligungsunternehmens erwarteten Rendite, desto höher die Wahrscheinlichkeit, dass der Entscheidungsträger ein Prinzipal ist.
+
+B69 Bei der Bestimmung, ob er ein Prinzipal oder ein Agent ist, muss der Entscheidungsträger außerdem berücksichtigen, ob folgende Bedingungen zutreffen:
+a) 
+
+seine Vergütung ist den erbrachten Leistungen angemessen.
+b) 
+
+Die Vergütungsvereinbarung enthält nur Vertragsbedingungen oder Beträge, die in Vereinbarungen über ähnliche Leistungen und fachliche Qualifikationen zwischen voneinander unabhängigen Geschäftspartnern üblich sind.
+
+B70 Ein Entscheidungsträger kann nur dann ein Agent sein, wenn die in Paragraph B69(a) und (b) aufgeführten Bedingungen zutreffen. Eine Erfüllung dieser Bedingungen lässt für sich genommen jedoch nicht den Schluss zu, dass ein Entscheidungsträger ein Agent ist.
+
+Risiko schwankender Renditen aus anderen Anteilen
+
+B71 Ein Entscheidungsträger, der andere Anteile an einem Beteiligungsunternehmen hält (z. B. Finanzinvestitionen in das Beteiligungsunternehmen getätigt hat oder Garantien für die Leistungserfüllung des Beteiligungsunternehmens stellt) muss bei der Beurteilung, ob er ein Agent ist, das für ihn bestehende Risiko schwankender Renditen aus diesen Anteilen berücksichtigen. Das Halten anderer Anteile an einem Beteiligungsunternehmen weist darauf hin, dass der Entscheidungsträger möglicherweise ein Prinzipal ist.
+
+B72 Bei der Beurteilung, in welchem Umfang er dem Risiko schwankender Renditen aus anderen Anteilen am Beteiligungsunternehmen ausgesetzt ist, hat der Entscheidungsträger Folgendes zu berücksichtigen:
+a) 
+
+je größer der Umfang und die damit verbundene Variabilität seiner wirtschaftlichen Interessen bei Gesamtbetrachtung seiner Vergütung und anderer Interessen ist, desto wahrscheinlicher ist der Entscheidungsträger ein Prinzipal.
+b) 
+
+ob, sich der Umfang, in dem er dem Risiko schwankender Renditen ausgesetzt ist, von dem anderer Investoren unterscheidet, und wenn ja, ob dies sein Handeln beeinflussen könnte. Dies könnte zum Beispiel dann der Fall sein, wenn der Entscheidungsträger nachrangige Anteile an einem Beteiligungsunternehmen hält oder diesem andere Formen der Kreditbesicherung zur Verfügung stellt.
+
+Der Entscheidungsträger hat sein Risiko im Verhältnis zur gesamten Variabilität der Renditen des Beteiligungsunternehmens zu beurteilen. Diese Beurteilung erfolgt hauptsächlich auf Basis der Renditen, die aus den Tätigkeiten des Beteiligungsunternehmens erwartet werden. Dabei darf jedoch nicht das maximale Risiko aus der Variabilität der Renditen des Beteiligungsunternehmens, das sich für den Entscheidungsträger aus anderen von ihm gehaltenen Anteilen ergibt, außer Acht gelassen werden.
+
+Anwendungsbeispiele
+
+Beispiel 13
+
+Ein Entscheidungsträger (Fondsmanager) gründet, vermarktet und verwaltet einen öffentlich gehandelten, regulierten Fonds nach eng definierten Parametern, die gemäß den für ihn geltenden örtlichen Gesetzen und Verordnungen im Anlagemandat festgelegt sind. Der Fonds wurde bei Anlegern als Anlage in ein diversifiziertes Portfolio von Eigenkapitaltiteln öffentlich gehandelter Unternehmen vermarktet. Innerhalb der definierten Parameter liegt es im Ermessen des Fondsmanagers, in welche Vermögenswerte er investiert. Der Fondsmanager hat anteilig 10 Prozent in den Fonds investiert und erhält für seine Leistungen eine marktbasierte Vergütung in Höhe von 1 Prozent des Nettovermögens des Fonds. Die Vergütung ist den erbrachten Leistungen angemessen. Der Fondsmanager ist über seine Anlage von 10 Prozent hinaus in keiner Weise verpflichtet, Verluste auszugleichen. Der Fonds ist nicht zur Einrichtung eines unabhängigen Geschäftsführungs- und/oder Aufsichtsorgans verpflichtet und hat dies auch nicht getan. Die Anleger besitzen keine substanziellen Rechte, die sich auf die Entscheidungsbefugnis des Fondsmanagers auswirken würden, können aber innerhalb bestimmter vom Fonds festgelegter Grenzen eine Rücknahme ihrer Anteile verlangen.
+
+Obgleich der Fondsmanager die im Anlagemandat festgelegten Parameter und die aufsichtsrechtlichen Vorschriften beachten muss, besitzt er Entscheidungsbefugnisse, die ihm die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten des Fonds geben. Die Anleger haben keine substanziellen Rechte, die sich auf die Entscheidungsbefugnis des Fondsmanagers auswirken könnten. Der Fondsmanager erhält für seine Leistungen eine marktübliche Vergütung, die den erbrachten Leistungen angemessen ist, und hat außerdem eine anteilige Investition in den Fonds getätigt. Durch seine Vergütung und seine Investition ist der Fondsmanager den schwankenden Renditen aus den Fondstätigkeiten ausgesetzt, ohne dass dadurch ein so signifikantes Risiko entsteht, dass dies ein Hinweis darauf wäre, dass der Fondsmanager ein Prinzipal ist.
+
+In diesem Beispiel weist das für den Fondsmanager bestehende Risiko schwankender Renditen aus dem Fonds zusammen mit seiner Entscheidungsbefugnis innerhalb eingeschränkter Parameter darauf hin, dass er ein Agent ist. Der Fondsmanager gelangt folglich zu dem Schluss, dass er den Fonds nicht beherrscht.
+
+Beispiel 14
+
+Ein Entscheidungsträger gründet, vermarktet und verwaltet einen Fonds, der Anlagemöglichkeiten für zahlreiche Investoren bietet. Der Entscheidungsträger (Fondsmanager) muss Entscheidungen im besten Interesse aller Anleger sowie im Einklang mit den für den Fonds maßgeblichen Verträgen treffen. Trotzdem hat der Fondsmanager weitreichende Entscheidungsfreiheit. Er erhält für seine Leistungen eine marktübliche Vergütung in Höhe von 1 Prozent des verwalteten Vermögens und 20 Prozent aller Fondsgewinne, wenn ein bestimmtes Gewinnniveau erreicht wird. Die Vergütung ist den erbrachten Leistungen angemessen.
+
+Obgleich der Fondsmanager Entscheidungen im besten Interesse aller Investoren treffen muss, verfügt er über weitreichende Entscheidungsbefugnis, um die maßgeblichen Tätigkeiten des Fonds zu lenken. Er erhält feste und erfolgsabhängige Vergütungen, die den erbrachten Leistungen angemessen sind. Außerdem werden die Interessen des Fondsmanagers durch die Vergütung mit denen der anderen Investoren in Einklang gebracht (den Wert des Fonds zu steigern), ohne dass er dadurch einem so signifikanten Risiko schwankender Renditen aus den Tätigkeiten des Fonds ausgesetzt wird, dass die Vergütung für sich genommen darauf hinweisen würde, dass der Fondsmanager ein Prinzipal ist.
+
+Die vorstehend beschriebene Sachlage und Analyse trifft auf die folgenden Beispiele 14A–14C zu. Jedes Beispiel wird isoliert betrachtet.
+
+Beispiel 14A
+
+Der Fondsmanager hat außerdem eine Investition von 2 Prozent in den Fonds getätigt, die seine Interessen mit denen der anderen Investoren in Einklang bringt. Der Fondsmanager ist über seine Anlage von 2 Prozent hinaus in keiner Weise verpflichtet, Verluste auszugleichen. Die Anleger können den Fondsmanager mit einfacher Stimmenmehrheit abberufen, allerdings nur bei Vertragsverletzung.
+
+Die Anlage des Fondsmanagers von 2 Prozent erhöht dessen Risiko schwankender Renditen aus den Fondstätigkeiten, ohne dass dadurch ein so signifikantes Risiko entsteht, dass dies ein Hinweis darauf wäre, dass der Fondsmanager ein Prinzipal ist. Die Rechte der anderen Anleger auf Abberufung des Fondsmanagers werden als Schutzrechte betrachtet, da sie nur bei Vertragsverletzung ausgeübt werden können. In diesem Beispiel hat der Fondsmanager zwar weitreichende Entscheidungsbefugnis und ist aufgrund seiner Anteile und seiner Vergütung Risiken durch Renditeschwankungen ausgesetzt, der Umfang seines Risikos weist aber darauf hin, dass er ein Agent ist. Der Fondsmanager gelangt folglich zu dem Schluss, dass er den Fonds nicht beherrscht.
+
+Beispiel 14B
+
+Der Fondsmanager hat eine substanziellere anteilige Investition in den Fonds getätigt, ist aber über diese Investition hinaus in keiner Weise verpflichtet, Verluste auszugleichen. Die Anleger können den Fondsmanager mit einfacher Stimmenmehrheit abberufen, allerdings nur bei Vertragsverletzung.
+
+In diesem Beispiel werden die Rechte der anderen Anleger auf Abberufung des Fondsmanagers als Schutzrechte betrachtet, da sie nur bei Vertragsverletzung ausgeübt werden können. Obgleich der Fondsmanager feste und erfolgsabhängige Vergütungen erhält, die den erbrachten Leistungen angemessen sind, könnte durch die Kombination aus der Investition des Fondsmanagers und seiner Vergütung ein so signifikantes Risiko schwankender Renditen aus den Fondstätigkeiten entstehen, dass dies ein Hinweis darauf ist, dass der Fondsmanager ein Prinzipal ist. Je größer der Umfang und die damit verbundene Variabilität der wirtschaftlichen Interessen des Fondsmanagers (bei Gesamtbetrachtung seiner Vergütung und anderen Anteile), desto mehr Gewicht würde der Fondsmanager bei der Analyse auf diese wirtschaftlichen Interessen legen und desto wahrscheinlicher ist der Fondsmanager ein Prinzipal.
+
+So könnte der Fondsmanager beispielsweise nach Berücksichtigung seiner Vergütung und der anderen Faktoren eine Investition von 20 Prozent für ausreichend halten, um zu dem Schluss zu gelangen, dass er den Fonds beherrscht. Unter anderen Umständen (z. B. wenn die Vergütung oder andere Faktoren anders sind) könnte Beherrschung jedoch bei einem anderen Investitionsniveau vorliegen.
+
+Beispiel 14C
+
+Der Fondsmanager hat eine anteilige Investition von 20 Prozent in den Fonds getätigt, ist aber über diese Investition hinaus in keiner Weise verpflichtet, Verluste auszugleichen. Der Fonds hat einen Verwaltungsrat, dessen Mitglieder vom Fondsmanager unabhängig sind und von den anderen Anlegern ernannt werden. Der Verwaltungsrat ernennt den Fondsmanager jährlich. Sollte der Verwaltungsrat beschließen, den Vertrag des Fondsmanagers nicht zu verlängern, könnten die vom Fondsmanager erbrachten Leistungen von anderen Managern aus der Branche erbracht werden.
+
+Obgleich der Fondsmanager feste und erfolgsabhängige Vergütungen erhält, die den erbrachten Leistungen angemessen sind, entsteht durch die Kombination der 20-prozentigen Investition des Fondsmanagers und seiner Vergütung ein so signifikantes Risiko schwankender Renditen aus den Tätigkeiten des Fonds, dass dies ein Hinweis darauf ist, dass der Fondsmanager ein Prinzipal ist. Allerdings besitzen die Anleger substanzielle Rechte auf Abberufung des Fondsmanagers – der Verwaltungsrat stellt einen Mechanismus bereit, der gewährleistet, dass die Anleger den Fondsmanager auf ihren Beschluss hin abberufen können.
+
+In diesem Beispiel legt der Fondsmanager in seiner Analyse größeres Gewicht auf die substanziellen Abberufungsrechte. Obgleich der Fondsmanager weitreichende Entscheidungsbefugnis besitzt und aufgrund seiner Vergütung und Investition dem Risiko schwankender Renditen aus dem Fonds ausgesetzt ist, weisen die substanziellen Rechte der anderen Investoren folglich darauf hin, dass der Fondsmanager ein Agent ist. Der Fondsmanager gelangt daher zu dem Schluss, dass er den Fonds nicht beherrscht.
+
+Beispiel 15
+
+Für den Kauf eines Portfolios festverzinslicher, durch Vermögenswerte besicherter Wertpapiere (Asset Backed Securities - ABS) wird ein Beteiligungsunternehmen gegründet, das durch festverzinsliche Schuld- und Eigenkapitalinstrumente finanziert wird. Die Eigenkapitalinstrumente sind so strukturiert, dass die Schuldinstrument-Investoren vor ersten Verlusten geschützt sind und eventuell verbleibende Renditen den Eigenkapitalinstrumenten des Beteiligungsunternehmens zufließen. Diese Transaktion wurde an potenzielle Schuldinstrument-Investoren als eine Anlage in ein ABS-Portfolio vermarktet, das einem mit dem möglichen Ausfall der Emittenten der ABS im Portfolio verbundenen Kreditrisiko und einem mit der Verwaltung des Portfolios verbundenen Zinsänderungsrisiko unterliegt. Bei Gründung stellen die Eigenkapitalinstrumente 10 Prozent des Werts der erworbenen Vermögenswerte dar. Ein Entscheidungsträger (der Vermögensverwalter) verwaltet das aktive Anlageportfolio, indem er Anlageentscheidungen innerhalb der im Verkaufsprospekt des Beteiligungsunternehmens festgelegten Parameter trifft. Für diese Leistungen erhält er eine marktbasierte feste Vergütung (d. h. 1 Prozent des verwalteten Vermögens) und eine erfolgsabhängige Vergütung (d. h. 10 Prozent des Gewinns), wenn die Gewinne des Beteiligungsunternehmens eine festgelegte Höhe übersteigen. Die Vergütung ist den erbrachten Leistungen angemessen. Der Vermögensverwalter hält 35 Prozent des Eigenkapitals des Beteiligungsunternehmens.
+
+Die restlichen 65 Prozent des Eigenkapitals sowie sämtliche Schuldinstrumente befinden sich im Streubesitz einer großen Anzahl nicht nahestehender Drittinvestoren. Der Vermögensverwalter kann ohne Grund durch einfachen Mehrheitsbeschluss der anderen Anleger abberufen werden.
+
+Der Vermögensverwalter erhält feste und erfolgsabhängige Vergütungen, die den erbrachten Leistungen angemessen sind. Durch die Vergütung werden die Interessen des Fondsmanagers mit denen der anderen Anlegerin Einklang gebracht, den Wert des Fonds zu steigern. Aufgrund seines Eigenkapitalanteils von 35 Prozent und seiner Vergütung ist der Vermögensverwalter dem Risiko schwankender Renditen aus den Tätigkeiten des Fonds ausgesetzt.
+
+Obgleich er innerhalb der im Verkaufsprospekt des Beteiligungsunternehmens festgelegten Parameter handelt, verfügt der Vermögensverwalter über die gegenwärtige Fähigkeit, Anlageentscheidungen mit signifikanten Einfluss auf die Rendite des Beteiligungsunternehmens zu treffen – die Abberufungsrechte der anderen Anleger fallen bei der Analyse kaum ins Gewicht, da sie von einer Vielzahl breit gestreuter Anleger gehalten werden. In diesem Beispiel legt der Vermögensverwalter größeres Gewicht auf das Risiko schwankender Renditen des Fonds, dem er aufgrund seines Eigenkapitalanteils ausgesetzt ist, der den Schuldinstrumenten im Rang nachgeht. Durch den 35-prozentigen Eigenkapitalanteil entsteht ein signifikantes Nachrangrisiko in Bezug auf die Verluste und Rechte an den Renditen des Beteiligungsunternehmens, das darauf hinweist, dass der Vermögensverwalter ein Prinzipal ist. Der Vermögensverwalter gelangt daher zu dem Schluss, dass er das Beteiligungsunternehmen beherrscht.
+
+Beispiel 16
+
+Ein Entscheidungsträger (der Sponsor) sponsert einen Multi-Seller Conduit, der kurzfristige Schuldinstrumente an nicht nahestehende Drittinvestoren begibt. Diese Transaktion wurde potenziellen Anlegern gegenüber als ein Investment in ein Portfolio erstklassig bewerteter Vermögenswerte mit mittlerer Laufzeit vermarktet, das mit einem minimalen Kreditrisiko aufgrund des möglichen Ausfalls der Emittenten der Vermögenswerte im Portfolio verbunden ist. Verschiedene Verkäufer verkaufen dem Conduit Portfolios mit hochwertigen mittelfristigen Forderungen. Jeder Verkäufer betreut das an den Conduit verkaufte Forderungsportfolio und verwaltet Forderungen bei Ausfall gegen eine marktbasierte Servicegebühr. Außerdem sorgt jeder Verkäufer durch eine Übersicherung der auf den Conduit übertragenen Forderungen dafür, dass sein Forderungsportfolio gegen erste Zahlungsausfälle abgesichert ist. Der Sponsor legt die Vertragsbedingungen des Conduits fest und führt dessen Geschäfte gegen eine marktbasierte Vergütung. Die Vergütung ist den erbrachten Leistungen angemessen. Der Sponsor genehmigt die Verkäufer, die für einen Verkauf an den Conduit zugelassen werden, genehmigt die vom Conduit anzukaufenden Forderungen und trifft Entscheidungen über dessen Finanzierung. Der Sponsor muss im besten Interesse aller Anleger handeln.
+
+Der Sponsor hat Anspruch auf verbleibende Renditen des Conduits und stellt diesem außerdem Kreditbesicherungen und Liquiditätslinien zur Verfügung. Mit der vom Sponsor bereitgestellten Kreditbesicherung werden Verluste bis in Höhe von 5 Prozent aller Vermögenswerte des Conduits kompensiert, nachdem Verluste von den Verkäufern aufgefangen worden sind. Die Liquiditätslinien können nicht für ausgefallene Forderungen in Anspruch genommen werden. Die Anleger besitzen keine substanziellen Rechte, die sich auf die Entscheidungsbefugnis des Sponsors auswirken könnten.
+
+Auch wenn der Sponsor für seine Leistungen eine marktbasierte Vergütung erhält, die den erbrachten Leistungen angemessen ist, ist er aufgrund seiner Anrechte auf verbleibende Renditen des Conduits und aufgrund der Bereitstellung von Kreditbesicherungen und Liquiditätslinien dem Risiko schwankender Renditen aus den Tätigkeiten des Conduits ausgesetzt (d. h. der Conduit ist dadurch, dass er kurzfristige Schuldinstrumente zur Finanzierung mittelfristiger Forderungen nutzt, einem Liquiditätsrisiko ausgesetzt). Zwar hat jeder Verkäufer Entscheidungsbefugnisse, die den Wert der Vermögenswerte des Conduits beeinflussen, doch besitzt der Sponsor eine weitreichende Entscheidungsbefugnis, die ihm die gegenwärtige Fähigkeit zur Lenkung der Tätigkeiten mit dem signifikantesten Einfluss auf die Rendite des Conduits verleihen (d. h. der Sponsor hat die Vertragsbedingungen des Conduits festgelegt, kann Entscheidungen über die Vermögenswerte (die angekauften Forderungen und die Verkäufer dieser Forderungen zu genehmigen) und die Finanzierung des Konsortiums treffen (für das regelmäßig neues Kapital gefunden werden muss)). Durch seinen Anspruch auf die verbleibenden Renditen des Konsortiums und die Gewährung von Kreditbesicherungen und Liquiditätslinien ist der Sponsor dem Risiko schwankender Renditen aus den Tätigkeiten des Conduits ausgesetzt, das sich von dem anderer Anleger unterscheidet. Dieses Risiko ist folglich ein Hinweis darauf, dass der Sponsor ein Prinzipal ist. Der Sponsor gelangt daher zu dem Schluss, dass er den Conduit beherrscht. Die Verpflichtung des Sponsors, im besten Interesse aller Anleger zu handeln, schließt nicht aus, dass er ein Prinzipal ist.
+
+Beziehung zu anderen Parteien
+
+B73 Bei der Beurteilung, ob eine Beherrschung vorliegt, hat ein Investor die Art seiner Beziehungen zu anderen Parteien zu berücksichtigen und festzustellen, ob diese in seinem Namen handeln (d. h. „De-Facto-Agenten“ sind). Die Bestimmung, ob andere Parteien als De-Facto-Agenten handeln, verlangt Ermessensausübung. Dabei ist nicht nur die Art der Beziehung zu berücksichtigen, sondern auch, wie diese Parteien untereinander und mit dem Investor interagieren.
+
+B74 Mit einer solchen Beziehung muss nicht unbedingt eine vertragliche Vereinbarung einhergehen. Eine Partei ist De-Facto-Agent, wenn der Investor oder diejenigen, die seine Tätigkeiten lenken, die betreffende Partei anweisen können, im Namen des Investors zu handeln. In solchen Fällen hat der Investor bei der Beurteilung, ob er ein Beteiligungsunternehmen beherrscht, die Entscheidungsbefugnisse seines De-Facto-Agenten sowie sein indirektes Risiko von oder seine Anrechte an schwankenden Renditen über den De-facto-Agenten zusammen mit seinen eigenen Risiken und Rechten zu berücksichtigen.
+
+B75 Es folgen einige Beispiele für andere Parteien, die aufgrund der Art ihrer Beziehung als De-Facto-Agenten für den Investor handeln könnten:
+a) 
+
+dem Investor nahe stehende Personen und Unternehmen,
+b) 
+
+eine Partei, die ihre Anteile am Beteiligungsunternehmen durch eine Einlage oder ein Darlehen vom Investor erhalten hat,
+c) 
+
+eine Partei, die sich verpflichtet hat, ihre Anteile am Beteiligungsunternehmen ohne vorherige Genehmigung des Investors nicht zu veräußern, zu übertragen oder zu belasten (außer in Fällen, in denen der Investor und die andere Partei das Recht auf vorherige Genehmigung haben und die Rechte auf Bedingungen beruhen, die zwischen vertragswilligen, voneinander unabhängigen Parteien im gegenseitigen Einvernehmen vereinbart wurden),
+d) 
+
+eine Partei, die ihre Geschäftstätigkeit nicht ohne eine nachrangige finanzielle Unterstützung des Investors finanzieren kann,
+e) 
+
+ein Beteiligungsunternehmen, bei dem die Mehrheit der Mitglieder des Leitungsorgans oder des Managements in Schlüsselpositionen mit denen des Investors identisch ist.
+f) 
+
+eine Partei, die eine enge Geschäftsbeziehung zum Investor unterhält, wie z. B. eine Beziehung zwischen einem professionellen Dienstleister und einem seiner wichtigsten Kunden.
+
+Beherrschung gewisser Vermögenswerte
+
+B76 Ein Investor muss berücksichtigen, ob er einen Teil eines Beteiligungsunternehmens als fiktives separates Unternehmen behandelt, und falls ja, ob er das fiktive separate Unternehmen beherrscht.
+
+B77 Ein Investor hat einen Teil eines Beteiligungsunternehmens nur dann als fiktive eigenständige Einheit zu behandeln, wenn folgende Bedingung erfüllt ist:
+Gewisse Vermögenswerte des Beteiligungsunternehmens (und etwaige zugehörige Kreditbesicherungen) sind die einzige Zahlungsquelle für festgelegte Schulden oder festgelegte sonstige Anteile am Beteiligungsunternehmen. Abgesehen von den Parteien mit der festgelegten Schuld haben keine weiteren Parteien Rechte oder Verpflichtungen im Zusammenhang mit den festgelegten Vermögenswerten oder den verbleibenden Zahlungsströmen aus diesen Vermögenswerten. Dem wirtschaftlichen Gehalt nach können die Renditen aus den gewissen Vermögenswerten nicht vom verbleibenden Beteiligungsunternehmen verwendet werden und die Schulden der fiktiven eigenständigen Einheit sind nicht aus den Vermögenswerten des verbleibenden Beteiligungsunternehmens zu begleichen. Alle Vermögenswerte, Schulden und das Eigenkapital dieser fiktiven eigenständigen Einheit sind dem wirtschaftlichen Gehalt nach gegenüber dem gesamten Beteiligungsunternehmen isoliert. Eine solche fiktive eigenständige Einheit wird häufig auch als „Silo“ bezeichnet.
+
+B78 Ist die in Paragraph B77 genannte Bedingung erfüllt, muss der Investor die Tätigkeiten mit signifikantem Einfluss auf die Rendite der fiktiven eigenständigen Einheit ermitteln und feststellen, wie diese Tätigkeiten gelenkt werden. Auf diese Weise kann er dann beurteilen, ob er den betreffenden Teil des Beteiligungsunternehmens beherrscht. Bei der Beurteilung der Beherrschung der fiktiven eigenständigen Einheit muss der Investor außerdem abwägen, ob er aufgrund seines Engagements bei der fiktiven eigenständigen Einheit ein Risiko aus oder Anrechte an schwankenden Renditen hat und ob er in der Lage ist, seine Verfügungsgewalt über den betreffenden Teil des Beteiligungsunternehmens dazu einzusetzen, die Höhe der Renditen des Beteiligungsunternehmens zu beeinflussen.
+
+B79 Beherrscht der Investor die fiktive eigenständige Einheit, muss er den betreffenden Teil des Beteiligungsunternehmens konsolidieren. In diesen Fall schließen andere Parteien bei der Beurteilung der Beherrschung sowie der Konsolidierung des Beteiligungsunternehmens den betreffenden Teil des Beteiligungsunternehmens aus.
+
+Fortlaufende Beurteilung
+
+B80 Weisen Fakten und Umstände darauf hin, dass sich eines oder mehrere der in Paragraph 7 aufgeführten drei Elemente der Beherrschung verändert haben, muss der Investor erneut beurteilen, ob er ein Beteiligungsunternehmen beherrscht.
+
+B81 Tritt bei der Art und Weise, in der die Verfügungsgewalt über ein Beteiligungsunternehmen ausgeübt werden kann, eine Veränderung ein, muss sich dies in der Art und Weise, wie der Investor seine Verfügungsgewalt über das Beteiligungsunternehmen beurteilt, widerspiegeln. Beispielsweise können Veränderungen bei Entscheidungsbefugnissen bedeuten, dass die maßgeblichen Tätigkeiten nicht mehr über Stimmrechte gelenkt werden, sondern dass stattdessen andere Vereinbarungen wie z. B. Verträge mit einer oder mehreren anderen Partei(en) die gegenwärtige Fähigkeit zur Lenkung der maßgeblichen Tätigkeiten verleihen.
+
+B82 Ein Ereignis kann die Ursache dafür sein, dass ein Investor die Verfügungsgewalt über ein Beteiligungsunternehmen erlangt oder verliert, ohne dass der Investor selbst an dem betreffenden Ereignis beteiligt ist. Ein Investor kann zum Beispiel die Verfügungsgewalt über ein Beteiligungsunternehmen erlangen, weil Entscheidungsbefugnisse einer oder mehrerer anderer Partei(en), die den Investor zuvor an der Beherrschung des Beteiligungsunternehmens gehindert haben, ausgelaufen sind.
+
+B83 Ein Investor berücksichtigt außerdem Veränderungen, die sich auf sein Risiko aus oder seine Anrechte an veränderlichen Renditen aus seinem Engagement bei der Beteiligungsgesellschaft auswirken. Beispielsweise kann ein Investor, der Verfügungsgewalt über ein Beteiligungsunternehmen hat, die Beherrschung über das Beteiligungsunternehmen verlieren, wenn er kein Anrecht auf den Empfang von Renditen oder kein Risiko durch Verpflichtungen mehr hat, weil der Investor Paragraph 7(b) nicht mehr erfüllt (z. B. wenn ein Vertrag über die Gewährung erfolgsabhängiger Vergütungen gekündigt wird).
+
+B84 Ein Investor muss prüfen, ob sich seine Beurteilung, dass er als Agent bzw. Prinzipal handelt, geändert hat. Veränderungen in der Gesamtbeziehung zwischen dem Investor und anderen Parteien können bedeuten, dass der Investor nicht mehr als Agent handelt, obwohl dies bislang der Fall war, und umgekehrt. Treten z. B. bei den Rechten des Investors oder anderer Parteien Veränderungen ein, hat der Investor seinen Status als Prinzipal oder Agent erneut zu prüfen.
+
+B85 Die anfängliche Beurteilung der Beherrschung oder des Status als Prinzipal oder Agent wird sich nicht einfach nur aufgrund einer Veränderung der Marktbedingungen ändern (z.B. einer Veränderung der marktabhängigen Rendite des Beteiligungsunternehmens). Anders verhält es sich, wenn die Veränderung bei den Marktbedingungen zu einer Veränderung bei einem oder mehreren der in Paragraph 7 aufgeführten Beherrschungselementen oder einer Änderung des allgemeinen Verhältnisses zwischen Prinzipal und Agent führt.
+
+FESTSTELLUNG, OB ES SICH BEI EINEM UNTERNEHMEN UM EINE INVESTMENTGESELLSCHAFT HANDELT
+
+B85A Wenn ein Unternehmen beurteilt, ob es eine Investmentgesellschaft ist, hat es alle Fakten und Umstände einschließlich seines Zwecks und seiner Ausgestaltung zu berücksichtigen. Ein Unternehmen, das die in Paragraph 27 aufgeführten drei Elemente der Definition einer Investmentgesellschaft erfüllt, gilt als Investmentgesellschaft. Diese Elemente der Definition werden in den Paragraphen B85B–B85M näher erläutert.
+
+Geschäftszweck
+
+B85B Nach der Definition einer Investmentgesellschaft hat deren Geschäftszweck allein in der Anlage von Mitteln zur Erreichung von Wertsteigerungen oder Investmenterträgen (wie Dividenden, Zinsen oder Mieteinnahmen) oder beidem zu bestehen. Aufschluss über den Geschäftszweck einer Investmentgesellschaft geben normalerweise Unterlagen, in denen die Anlageziele des Unternehmens dargelegt werden, wie Zeichnungsprospekte, Veröffentlichungen und sonstige Unternehmens- oder Gesellschaftsunterlagen. Weiterer Anhaltspunkte sind unter anderem, wie sich das Unternehmen gegenüber anderen (z. B. potenziellen Investoren oder Beteiligungsunternehmen) präsentiert; so kann ein Unternehmen seine Geschäftstätigkeit beispielsweise als mittelfristig angelegte Investitionstätigkeit zum Zwecke der Wertsteigerung darstellen. Dagegen verfolgt ein Unternehmen, das sich als Investor präsentiert, dessen Ziel darin besteht, gemeinsam mit seinen Beteiligungsunternehmen Produkte zu entwickeln, zu produzieren oder zu vermarkten, einen Geschäftszweck, der mit dem einer Investmentgesellschaft unvereinbar ist, da es sowohl mit seiner Entwicklungs-, Produktions- oder Vermarktungstätigkeit als auch mit seinen Beteiligungen Erträge erzielt (siehe Paragraph B85I).
+
+B85C Eine Investmentgesellschaft kann gegenüber Dritten oder ihren Investoren direkt oder über ein Tochterunternehmen anlagebezogene Dienstleistungen (z. B. Anlageberatungs-, Anlagemanagement-, Anlageunterstützungs- oder Verwaltungsdienstleistungen) erbringen, selbst wenn diese Tätigkeiten für die Investmentgesellschaft von wesentlicher Bedeutung sind; allerdings muss die Gesellschaft weiterhin der Definition einer Investmentgesellschaft entsprechen.
+
+B85D Eine Investmentgesellschaft kann sich auch direkt oder über ein Tochterunternehmen an den folgenden anlagebezogenen Tätigkeiten beteiligen, wenn diese auf die Maximierung der mit ihren Beteiligungsunternehmen erzielten Rendite (Wertsteigerungen oder Investmenterträge) ausgerichtet sind und keine gesonderte substanzielle Geschäftstätigkeit oder gesonderte substanzielle Ertragsquelle der Investmentgesellschaft darstellen:
+a) 
+
+Erbringung von Managementdienstleistungen und strategischer Beratung für ein Beteiligungsunternehmen und
+b) 
+
+finanzielle Unterstützung eines Beteiligungsunternehmens z. B. in Form von Darlehen, Kapitalzusagen oder Garantien.
+
+B85E Hat eine Investmentgesellschaft ein Tochterunternehmen, das selbst keine Investmentgesellschaft ist und dessen Hauptgeschäftszweck und -tätigkeit darin besteht, für sie oder für andere anlagebezogene Dienstleistungen oder Tätigkeiten zu erbringen, die sich auf die in den Paragraphen B85C–B85D genannte Investitionstätigkeit der Investmentgesellschaft beziehen, so muss sie dieses Tochterunternehmen gemäß Paragraph 32 konsolidieren. Ist das Tochterunternehmen, das die anlagebezogenen Dienstleistungen oder Tätigkeiten erbringt, selbst eine Investmentgesellschaft, muss das Mutterunternehmen der Investmentgesellschaft diese gemäß Paragraph 31 erfolgswirksam zum beizulegenden Zeitwert bewerten.
+
+Ausstiegsstrategien
+
+B85F Die Investitionspläne eines Unternehmens geben auch Aufschluss über seinen Geschäftszweck. Ein Merkmal, in dem sich eine Investmentgesellschaft von anderen Unternehmen unterscheidet, besteht darin, dass eine Investmentgesellschaft nicht die Absicht hat, ihre Investitionen unbegrenzt zu halten, sondern sie lediglich über einen befristeten Zeitraum hält. Da Eigenkapitalbeteiligungen und Investitionen in nichtfinanzielle Vermögenswerte potenziell unbegrenzt gehalten werden können, muss eine Investmentgesellschaft über eine Ausstiegsstrategie verfügen, in der dokumentiert ist, wie das Unternehmen aus so gut wie allen seinen Kapitalbeteiligungen und Investitionen in nichtfinanzielle Vermögenswerte Wertsteigerungen realisieren will. Eine Investmentgesellschaft muss außerdem eine Ausstiegsstrategie für alle Schuldinstrumente haben, die potenziell unbegrenzt gehalten werden können, wie unbefristete Fremdkapitalbeteiligungen. Die Investmentgesellschaft muss nicht für jede einzelne Investition gesonderte Ausstiegsstrategien dokumentieren, sondern sollte verschiedene potenzielle Strategien für unterschiedliche Arten oder Portfolien von Investitionen einschließlich eines stichhaltigen Zeitrahmens für den Ausstieg aufstellen. Ausstiegsmechanismen, die nur bei Eintreten eines Kündigungsgrunds (z. B. Vertragsverletzung oder Nichterfüllung) greifen, gelten für den Zweck dieser Beurteilung nicht als Ausstiegsstrategien.
+
+B85G Die Ausstiegsstrategien können je nach Art der Investition variieren. Für Private Equity-Investments kann sich als Ausstiegsstrategien beispielsweise ein Börsengang (IPO), eine Privatplatzierung (Private Placement), ein Unternehmensverkauf (Trade Sale), die Ausschüttung von Eigentumsanteilen an den Beteiligungsunternehmen (an die Investoren) und die Veräußerung von Vermögenswerten (einschließlich der Veräußerung der Vermögenswerte eines Beteiligungsunternehmens mit dessen anschließender Liquidation) anbieten. Für Eigenkapitalinstrumente, die am Kapitalmarkt gehandelt werden, kommt z. B. eine Privatplatzierung oder die Veräußerung am Kapitalmarkt als Ausstiegsstrategie in Betracht. Bei Immobilieninvestitionen könnte eine Ausstiegsstrategie z. B. die Veräußerung der Immobilie durch Immobilienhändler oder auf dem freien Markt beinhalten.
+
+B85H Eine Investmentgesellschaft kann eine Beteiligung an einer anderen Investmentgesellschaft halten, die aus rechtlichen, regulatorischen, steuerlichen oder ähnlichen geschäftlichen Gründen zusammen mit dem Unternehmen gegründet wird. In diesem Fall benötigt die investierende Investmentgesellschaft keine Ausstiegsstrategie für diese Investition, sofern die Investmentgesellschaft, die das Beteiligungsunternehmen ist, über eine angemessene Ausstiegsstrategie für seine Investitionen verfügt.
+
+Erträge aus Beteiligungen
+
+B85I Die Investitionen eines Unternehmens dienen nicht allein der Erwirtschaftung von Wertsteigerungen oder Investmenterträgen oder beidem, wenn das Unternehmen oder ein anderes Mitglied des Konzerns, dem das Unternehmen angehört (d. h. des Konzerns, der vom obersten Mutterunternehmen der Investmentgesellschaft beherrscht wird) einen anderen Nutzen aus den Investitionen des Unternehmens zieht oder anstrebt, der anderen, dem Beteiligungsunternehmen nicht nahestehenden Unternehmen oder Personen, nicht zugutekommt. Bei einem solchen Nutzen kann es sich z. B. um Folgendes handeln:
+a) 
+
+Erwerb, Nutzung, Tausch oder Verwertung der Verfahren, Vermögenswerte oder Technologien eines Beteiligungsunternehmens. Dies wäre unter anderem dann der Fall, wenn das Unternehmen oder ein anderes Konzernmitglied überproportionale oder exklusive Rechte zum Erwerb von Vermögenswerten, Technologie, Produkten oder Dienstleistungen eines Beteiligungsunternehmens besitzt, beispielsweise in Form einer Kaufoption auf einen Vermögenswert eines Beteiligungsunternehmens, wenn die Entwicklung des Vermögenswerts als erfolgreich betrachtet wird;
+b) 
+
+gemeinschaftliche Vereinbarungen (im Sinne von IFRS 11) oder andere Vereinbarungen zwischen dem Unternehmen oder einem anderen Konzernmitglied und einem Beteiligungsunternehmen über die Entwicklung, Produktion, Vermarktung oder Lieferung von Produkten oder Dienstleistungen;
+c) 
+
+von einem Beteiligungsunternehmen gestellte finanzielle Garantien oder Vermögenswerte, die als Sicherheit für Kreditvereinbarungen des Unternehmens oder eines anderen Konzernmitglieds dienen (allerdings könnte eine Investmentgesellschaft eine Investition in ein Beteiligungsunternehmen nach wie vor als Sicherheit für eigene Fremdkapitalaufnahmen nutzen);
+d) 
+
+eine von einem dem Unternehmen nahestehenden Unternehmen oder einer dem Unternehmen nahestehenden Person gehaltene Kaufoption, die diese berechtigt, von jenem Unternehmen oder einem anderen Konzernmitglied einen Eigentumsanteil an einem Beteiligungsunternehmen des Unternehmens zu erwerben;
+e) 
+
+folgende Transaktionen zwischen dem Unternehmen oder einem anderen Konzernmitglied und einem Beteiligungsunternehmen mit Ausnahme des in Paragraph B85J genannten Falls:
+i) 
+
+Transaktionen zu Konditionen, die anderen Unternehmen, die weder dem Unternehmen, einem anderen Konzernmitglied noch einem Beteiligungsunternehmen nahestehen, nicht angeboten werden,
+ii) 
+
+Transaktionen, die nicht zum beizulegenden Zeitwert getätigt werden, oder
+iii) 
+
+auf die ein wesentlicher Anteil der Geschäftstätigkeit des Beteiligungsunternehmens oder des Unternehmens einschließlich der Geschäftstätigkeit anderer Konzerngesellschaften entfällt.
+
+B85J Eine Investmentgesellschaft kann die Strategie verfolgen, sich an mehr als einem Beteiligungsunternehmen der gleichen Branche, des gleichen Marktes oder geografischen Gebiets zu beteiligen, um von Synergien zu profitieren, die die Wertsteigerungen und Investmenterträge aus diesen Beteiligungsunternehmen erhöhen. Unbeschadet des Paragraphe B85I(e) hat der Umstand, dass solche Beteiligungsunternehmen untereinander Handel treiben, nicht zwangsläufig zur Folge, dass das Unternehmen nicht als Investmentgesellschaft eingestuft werden kann.
+
+Bewertung zum beizulegenden Zeitwert
+
+B85K Ein wesentliches Element der Definition einer Investmentgesellschaft besteht darin, dass sie die Ertragskraft so gut wie aller ihrer Investments anhand des beizulegenden Zeitwerts bewertet und beurteilt, da dies zu relevanteren Informationen führt als beispielsweise die Konsolidierung ihrer Tochterunternehmen oder die Bilanzierung ihrer Anteile an assoziierten Unternehmen oder Gemeinschaftsunternehmen nach der Equity-Methode. Um nachzuweisen, dass sie dieses Element der Definition erfüllt, geht eine Investmentgesellschaft wie folgt vor:
+a) 
+
+sie legt den Investoren Angaben zum beizulegenden Zeitwert vor und bewertet nahezu all ihre Investments in ihren Abschlüssen zum beizulegenden Zeitwert, wann immer dies nach den IFRS erforderlich oder zulässig ist, und
+b) 
+
+sie verwendet bei der internen Berichterstattung an Mitglieder des Managements in Schlüsselpositionen des Unternehmens (im Sinne von IAS 24) Angaben auf Basis von beizulegenden Zeitwerten, die diese als vorrangiges Kriterium für die Bewertung der Ertragskraft so gut wie all ihrer Investitionen und für ihre Investitionsentscheidungen nutzen.
+
+B85L Zur Erfüllung der Vorschrift in Paragraph B85K(a) würde eine Investmentgesellschaft
+a) 
+
+das Wahlrecht in Anspruch nehmen, als Finanzinvestition gehaltene Immobilien nach dem Modell des beizulegenden Zeitwerts in IAS 40 Als Finanzinvestition gehaltene Immobilien zu bilanzieren,
+b) 
+
+für ihre Beteiligungen an assoziierten Unternehmen und Gemeinschaftsunternehmen die in IAS 28 vorgesehene Ausnahme von der Anwendung der Equity-Methode in Anspruch nehmen, und
+c) 
+
+ihre finanziellen Vermögenswerte nach den Vorschriften von IFRS 9 zum beizulegenden Zeitwert bewerten.
+
+B85M Eine Investmentgesellschaft kann einige nicht als Investition gehaltene Vermögenswerte wie die Betriebs- und Geschäftsausstattung der Hauptverwaltung oder ähnliche Vermögenswerte und auch finanzielle Verbindlichkeiten haben. Die Bewertung zum beizulegenden Zeitwert als Element der Definition einer Investmentgesellschaft in Paragraph 27(c) bezieht sich auf die Beteiligungen einer Investmentgesellschaft. Folglich muss eine Investmentgesellschaft ihre nicht als Investition gehaltenen Vermögenswerte oder ihre Verbindlichkeiten nicht zum beizulegenden Zeitwert bewerten.
+
+Typische Merkmale einer Investmentgesellschaft
+
+B85N Wenn ein Unternehmen bestimmt, ob es der Definition einer Investmentgesellschaft entspricht, hat es zu berücksichtigen, ob es deren typische Merkmale aufweist (siehe Paragraph 28). Wenn eines oder mehrere dieser typischen Merkmale nicht gegeben ist/sind, bedeutet dies nicht zwangsläufig, dass das Unternehmen nicht als Investmentgesellschaft eingestuft werden kann, weist aber darauf hin, dass die Feststellung, ob das Unternehmen eine Investmentgesellschaft ist, eine zusätzliche Ermessensausübung erfordert.
+
+Mehr als eine Beteiligung
+
+B85O Eine Investmentgesellschaft hält in der Regel mehrere Beteiligungen, um ihr Risiko zu streuen und ihre Renditen zu maximieren. Ein Portfolio von Beteiligungen kann direkt oder indirekt gehalten werden, z. B. über eine einzige Beteiligung an einer anderen Investmentgesellschaft, die selbst mehrere Beteiligungen hält.
+
+B85P Es kann vorkommen, dass ein Unternehmen nur eine einzige Beteiligung hält. Das bedeutet jedoch nicht zwangsläufig, dass das Unternehmen nicht die Definition einer Investmentgesellschaft erfüllt. So kann eine Investmentgesellschaft beispielsweise in folgenden Fällen nur ein einziges Investment halten:
+a) 
+
+sie befindet sich in der Anlaufphase und hat noch keine geeigneten Beteiligungen ermittelt und folglich ihren Investitionsplan zum Erwerb mehrerer Beteiligungen noch nicht umgesetzt,
+b) 
+
+sie hat veräußerte Beteiligungen noch nicht durch andere Beteiligungen ersetzt,
+c) 
+
+sie wurde mit dem Ziel gegründet, die Mittel der Investoren zu bündeln und in eine einzige Beteiligung zu investieren, zu denen die Investoren einzeln keinen Zugang hätten (z. B. weil der erforderliche Mindestanlagebetrag für einen einzelnen Investor zu hoch ist), oder
+d) 
+
+sie befindet sich in Liquidation.
+
+Mehr als ein Investor
+
+B85Q In der Regel hat eine Investmentgesellschaft mehrere Investoren, die ihre Mittel zusammenlegen, um Zugang zu Kapitalanlagedienstleistungen und Anlagemöglichkeiten zu erhalten, die ihnen einzeln möglicherweise nicht zur Verfügung stünden. Bei mehreren Investoren ist es weniger wahrscheinlich, dass das Unternehmen oder andere Mitglieder des Konzerns, zu dem das Unternehmen gehört, einen anderen Nutzen als Wertsteigerungen oder Investmenterträge erlangen würden (siehe Paragraph B85I).
+
+B85R Alternativ kann eine Investmentgesellschaft von einem bzw. für einen einzelnen Investor gegründet werden, der die Interessen einer größeren Gruppe von Investoren (z. B. eines Pensionsfonds, eines Investmentfonds in staatlichem Eigentum oder einer Familienstiftung) vertritt oder unterstützt.
+
+B85S Es kann jedoch auch vorkommen, dass das Unternehmen vorübergehend nur einen Investor hat. So kann eine Investmentgesellschaft beispielsweise in folgenden Fällen nur einen einzigen Investor haben:
+a) 
+
+sie befindet sich in der Phase ihres Börsengangs mit noch nicht abgelaufener Erstemissionsfrist und sucht aktiv nach geeigneten Investoren,
+b) 
+
+sie hat noch keine geeigneten Investoren für zurückgenommene Eigentumsanteile gefunden oder
+c) 
+
+sie befindet sich in Liquidation.
+
+Nicht nahestehende Investoren
+
+B85T In der Regel verwaltet eine Investmentgesellschaft Mittel mehrerer Investoren, bei denen es sich nicht um nahestehende Unternehmen und Personen (im Sinne von IAS 24) des Unternehmens oder anderer Mitglieder des Konzerns, dem das Unternehmen angehört, handelt. Durch die Präsenz ihr nicht nahestehender Investoren ist es weniger wahrscheinlich, dass sie oder andere Mitglieder des Konzerns, dem sie angehört, aus dem Investment einen anderen Nutzen zieht als Wertsteigerungen oder Investmenterträge (siehe Paragraph B85I).
+
+B85U Allerdings kann eine Gesellschaft auch dann als Investmentgesellschaft eingestuft werden, wenn ihre Investoren ihr nahestehende Unternehmen oder Personen sind. Beispielsweise kann eine Investmentgesellschaft für eine bestimmte Gruppe ihrer Mitarbeiter (wie das Management in Schlüsselpositionen) oder (einen) andere ihr nahestehende(n) Investor(en) einen gesonderten „parallelen“ Fonds auflegen, der die Beteiligungen des Hauptfonds nachbildet. Dieser „parallele“ Fonds könnte als Investmentgesellschaft eingestuft werden, selbst wenn all seine Investoren nahestehende Unternehmen oder Personen sind.
+
+Eigentumsanteile
+
+B85V Eine Investmentgesellschaft ist in der Regel eine eigenständige juristische Einheit, muss dies aber nicht sein. Die Eigentumsanteile an der Investmentgesellschaft sind in der Regel als Eigenkapital oder eigenkapitalähnliche Rechte (z. B. Gesellschafteranteile) strukturiert, denen ein proportionaler Anteil am Nettovermögen der Investmentgesellschaft zugeordnet ist. Unterschiedliche Klassen von Investoren, die teilweise nur Rechte an bestimmten Beteiligungen oder Gruppen von Beteiligungen oder unterschiedliche proportionale Anteile am Nettovermögen haben, schließen jedoch nicht aus, dass ein Unternehmen als Investmentgesellschaft eingestuft werden kann.
+
+B85W Darüber hinaus kann ein Unternehmen mit erheblichen Eigentumsanteilen in Form von Schuldtiteln, die gemäß anderen maßgeblichen IFRS nicht die Definition von Eigenkapital erfüllen, trotzdem die Kriterien einer Investmentgesellschaft erfüllen, sofern die Inhaber der Schuldtitel infolge von Veränderungen des beizulegenden Zeitwerts des Nettovermögens der Gesellschaft schwankenden Renditen ausgesetzt sind.
+
+RECHNUNGSLEGUNGSVORSCHRIFTEN
+
+Konsolidierungsverfahren
+
+B86 Im Konzernabschluss
+a) 
+
+werden gleichartige Posten der Vermögenswerte, der Schulden, des Eigenkapitals, der Erträge, der Aufwendungen und der Zahlungsströme des Mutterunternehmens mit denen der Tochterunternehmen zusammengefasst.
+b) 
+
+werden der Buchwert der Beteiligung des Mutterunternehmens an jedem Tochterunternehmen und der Anteil des Mutterunternehmens am Eigenkapital jedes Tochterunternehmens verrechnet (eliminiert) (siehe IFRS 3, wo dargelegt wird, wie ein resultierender Geschäfts- oder Firmenwert zu bilanzieren ist).
+c) 
+
+werden konzerninterne Vermögenswerte und Schulden, Eigenkapital, Erträge, Aufwendungen und Zahlungsströme im Zusammenhang mit Transaktionen zwischen Konzernunternehmen in voller Höhe eliminiert (Gewinne oder Verluste aus konzerninternen Transaktionen, die als Vermögenswerte erfasst werden, wie Vorräte und Anlagevermögen, werden in voller Höhe eliminiert). Konzerninterne Verluste können auf eine Wertminderung hinweisen, die im Konzernabschluss erfasst werden muss. IAS 12 Ertragssteuern gilt für temporäre Differenzen, die sich aus der Eliminierung von Gewinnen und Verlusten aus konzerninternen Transaktionen ergeben.
+
+Einheitliche Rechnungslegungsmethoden
+
+B87 Verwendet ein Konzernmitglied für gleichartige Transaktionen und Ereignisse unter ähnlichen Umständen andere Rechnungslegungsmethoden als im Konzernabschluss, ist der Abschluss dieses Konzernunternehmens bei der Aufstellung des Konzernabschlusses entsprechend anzupassen, um Übereinstimmung mit den Rechnungslegungsmethoden des Konzerns zu gewährleisten.
+
+Bewertung
+
+B88 Ein Unternehmen bezieht die Erträge und Aufwendungen eines Tochterunternehmens ab dem Zeitpunkt, zu dem es die Beherrschung erlangt, bis zu dem Zeitpunkt, an dem seine Beherrschung über das Tochterunternehmen endet, in den Konzernabschluss ein. Erträge und Aufwendungen des Tochterunternehmens basieren auf den Werten der Vermögenswerte und Schulden, die zum Erwerbszeitpunkt im Konzernabschluss angesetzt werden. So basieren beispielsweise planmäßige Abschreibungen, die in der Konzern-Gesamtergebnisrechnung nach dem Erwerbszeitpunkt erfasst werden, auf den beizulegenden Zeitwerten der im Konzernabschluss zum Erwerbszeitpunkt angesetzten abschreibungsfähigen Vermögenswerte.
+
+Potenzielle Stimmrechte
+
+B89 Bestehen potenzielle Stimmrechte oder andere Derivate, die potenzielle Stimmrechte enthalten, wird der Anteil am Gewinn oder Verlust oder an Veränderungen des Eigenkapitals, der bei Aufstellung des Konzernabschlusses dem Mutterunternehmen bzw. den nicht beherrschenden Anteilen zugeordnet wird, ausschließlich auf Grundlage der bestehenden Beteiligungsquote bestimmt. Er spiegelt nicht die mögliche Ausübung oder Umwandlung potenzieller Stimmrechte und anderer Derivate wider, es sei denn, es gilt Paragraph B90.
+
+B90 Unter bestimmten Umständen hat ein Unternehmen infolge einer Transaktion, die ihm gegenwärtig Zugriff auf die mit einem Eigentumsanteil verbundene Rendite gewährt, der wirtschaftlichen Substanz nach einen bestehenden Eigentumsanteil. In einem solchen Fall wird der dem Mutterunternehmen und den nicht beherrschenden Anteilen zuzuordnende Anteil bei der Aufstellung des Konzernabschlusses unter Berücksichtigung der letztendlichen Ausübung jener potenziellen Stimmrechte und anderen Derivate ermittelt, die dem Unternehmen gegenwärtig Zugriff auf die Renditen verschaffen.
+
+B91 IFRS 9 gilt nicht für Anteile an Tochterunternehmen, die konsolidiert werden. Gewähren Instrumente mit potenziellen Stimmrechten ihrem wirtschaftlichen Gehalt nach gegenwärtig Zugriff auf die mit einem Eigentumsanteil an einem Tochterunternehmen verbundene Rendite, unterliegen die Instrumente nicht den Vorschriften von IFRS 9. In allen anderen Fällen werden Instrumente mit potenziellen Stimmrechten an einem Tochterunternehmen nach IFRS 9 bilanziert.
+
+Abschlussstichtag
+
+B92 Die bei Aufstellung des Konzernabschlusses verwendeten Abschlüsse des Mutterunternehmens und seiner Tochterunternehmen müssen denselben Stichtag haben. Haben Mutter- und Tochterunternehmen nicht den gleichen Abschlussstichtag, erstellt das Tochterunternehmen zu Konsolidierungszwecken zusätzliche Finanzinformationen auf den Stichtag des Mutterunternehmens, damit das Mutterunternehmen die Finanzangaben des Tochterunternehmens konsolidieren kann, sofern dies nicht undurchführbar ist.
+
+B93 Sollte dies undurchführbar sein, hat das Mutterunternehmen die Finanzinformationen des Tochterunternehmens anhand des jüngsten Abschlusses des Tochterunternehmens zu konsolidieren, der im Hinblick auf die Auswirkungen bedeutender Transaktionen und Ereignisse, die zwischen diesem Abschlussstichtag und dem Konzernabschlussstichtag eingetreten sind, angepasst wird. Der Zeitraum zwischen dem Abschlussstichtag des Tochterunternehmens und dem Stichtag des Konzernabschlusses darf auf keinen Fall mehr als drei Monate betragen und die Zeiträume zwischen den Abschlussstichtagen dürfen sich von einem Berichtszeitraum zum nächsten nicht ändern.
+
+Nicht beherrschende Anteile
+
+B94 Ein Unternehmen hat den Gewinn oder Verlust und jedweden Bestandteil des sonstigen Ergebnisses den Eigentümern des Mutterunternehmens und den nicht beherrschenden Anteilen zuzuordnen. Dies gilt selbst dann, wenn dies dazu führt, dass die nicht beherrschenden Anteile einen Negativsaldo aufweisen.
+
+B95 Hat ein Tochterunternehmen kumulative Vorzugsaktien ausgegeben, die als Eigenkapital eingestuft sind und zu den nicht beherrschenden Anteilen gehören, hat das Unternehmen seinen Anteil am Gewinn oder Verlust nach Berücksichtigung der Vorzugsdividende auf diese Vorzugsaktien zu berechnen, unabhängig davon, ob ein Dividendenbeschluss vorliegt.
+
+Veränderungen bei der Beteiligungsquote nicht beherrschender Anteile
+
+B96 Wenn sich die Beteiligungsquote nicht beherrschender Anteile am Eigenkapital ändert, muss ein Unternehmen die Buchwerte der beherrschenden und nicht beherrschenden Anteile anpassen, sodass sie die Veränderungen bei ihren relativen Anteilen am Tochterunternehmen widerspiegeln. Das Unternehmen hat jede Differenz zwischen dem Betrag, um den die nicht beherrschenden Anteile angepasst werden, und dem beizulegenden Zeitwert der gezahlten oder erhaltenen Gegenleistung unmittelbar im Eigenkapital zu erfassen und den Eigentümern des Mutterunternehmens zuzuordnen.
+
+Verlust der Beherrschung
+
+B97 Ein Mutterunternehmen könnte die Beherrschung über ein Tochterunternehmen mit zwei oder mehr Vereinbarungen (Transaktionen) verlieren. Mitunter weisen die Umstände jedoch darauf hin, dass mehrere Vereinbarungen als eine einzige Transaktion bilanziert werden sollten. Bei der Bestimmung, ob Vereinbarungen als eine einzige Transaktion zu bilanzieren sind, hat ein Mutterunternehmen alle Bedingungen dieser Vereinbarungen und deren wirtschaftliche Auswirkungen zu berücksichtigen. Treffen einer oder mehrere der folgenden Punkte zu, weist dies darauf hin, dass das Mutterunternehmen mehrere Vereinbarungen als eine einzige Transaktion bilanzieren sollte:
+a) 
+
+die Vereinbarungen werden zeitgleich oder unter gegenseitiger Berücksichtigung geschlossen,
+b) 
+
+sie bilden eine einzige Transaktion mit dem Zweck, insgesamt eine wirtschaftliche Auswirkung zu erzielen,
+c) 
+
+der Abschluss einer Vereinbarung hängt vom Abschluss von mindestens einer weiteren Vereinbarung ab,
+d) 
+
+eine Vereinbarung hat für sich genommen keine wirtschaftliche Berechtigung, im Zusammenhang mit anderen Vereinbarungen aber schon. Ein Beispiel hierfür wäre, wenn eine unter dem Marktpreis liegende Veräußerung von Anteilen durch eine spätere über dem Marktpreis liegende Veräußerung kompensiert würde.
+
+B98 Verliert ein Mutterunternehmen die Beherrschung über ein Tochterunternehmen, so hat es
+a) 
+
+Folgendes auszubuchen:
+i) 
+
+die Vermögenswerte (einschließlich des Geschäfts- und Firmenwerts) und Schulden des Tochterunternehmens zu ihrem Buchwert am Tag des Beherrschungsverlusts und
+ii) 
+
+den Buchwert aller nicht beherrschenden Anteile an dem ehemaligen Tochterunternehmen zu dem Zeitpunkt, zu dem die Beherrschung verloren geht (dazu gehören auch alle diesen zuzuordnenden Bestandteile des sonstigen Ergebnisses).
+b) 
+
+und Folgendes zu erfassen:
+i) 
+
+den beizulegenden Zeitwert der gegebenenfalls erhaltenen Gegenleistung aus der Transaktion, aus den Ereignissen oder Umständen, die zu dem Verlust der Beherrschung geführt haben,
+ii) 
+
+wenn die Transaktion, das Ereignis oder die Umstände, die zum Verlust der Beherrschung geführt haben, mit einer Verteilung der Anteile des Tochterunternehmens an die Eigentümer, die in ihrer Eigenschaft als Eigentümer handeln, verbunden sind, diese Verteilung der Anteile, und
+iii) 
+
+jede Beteiligung, die es am ehemaligen Tochterunternehmen behält, zu dem zum Zeitpunkt des Verlustes der Beherrschung beizulegenden Zeitwert.
+c) 
+
+die Beträge, die in Bezug auf das Tochterunternehmen auf der in Paragraph B99 beschriebenen Grundlage im sonstigen Ergebnis erfasst wurden, erfolgswirksam bzw. direkt in die Gewinnrücklagen umzugliedern, wenn dies von anderen IFRS verlangt wird,
+d) 
+
+jede daraus resultierende Differenz als einen dem Mutterunternehmen zuzurechnenden Gewinn bzw. Verlust erfolgswirksam zu erfassen.
+
+B99 Verliert ein Mutterunternehmen die Beherrschung des Tochterunternehmens, hat es alle zuvor für dieses Tochterunternehmen im sonstigen Ergebnis ausgewiesenen Beträge auf der gleichen Grundlage zu bilanzieren, die auch bei einer unmittelbaren Veräußerung der entsprechenden Vermögenswerte oder Schulden durch das Mutterunternehmen vorgeschrieben wäre. Würde daher ein zuvor im sonstigen Ergebnis erfasster Gewinn oder Verlust bei Veräußerung der dazugehörigen Vermögenswerte oder Schulden erfolgswirksam umgegliedert, hat das Mutterunternehmen den Gewinn oder Verlust erfolgswirksam (als Umgliederungsbetrag) umzugliedern, wenn es die Beherrschung des Tochterunternehmens verliert. Würde eine Neubewertungsrücklage, die zuvor im sonstigen Ergebnis erfasst worden ist, bei Veräußerung des Vermögenswerts direkt in die Gewinnrücklagen umgegliedert, hat das Mutterunternehmen die Neubewertungsrücklage direkt in die Gewinnrücklagen umzugliedern, wenn es die Beherrschung des Tochterunternehmens verliert.
+
+BILANZIERUNG EINER ÄNDERUNG DES STATUS ALS INVESTMENTGESELLSCHAFT
+
+B100 Wenn ein Unternehmen keine Investmentgesellschaft mehr ist, hat es auf alle Tochterunternehmen, die bis dahin gemäß Paragraph 31 erfolgswirksam zum beizulegenden Zeitwert bewertet wurden, IFRS 3 anzuwenden. Der Zeitpunkt der Statusänderung gilt als angenommener Erwerbszeitpunkt. Bei der Bewertung eines etwaigen Geschäfts- und Firmenwerts oder eines Gewinns aus einem Erwerb zu einem Preis unter Marktwert, der sich aus dem angenommenen Erwerb ergibt, ist der beizulegende Zeitwert des Tochterunternehmens zum angenommenen Erwerbszeitpunkt der Ersatz für die übertragene Gegenleistung. Alle Tochterunternehmen sind ab dem Zeitpunkt der Statusänderung gemäß den Paragraphen 19–24 dieses IFRS zu konsolidieren.
+
+B101 Wenn ein Unternehmen eine Investmentgesellschaft wird, hat es ab dem Zeitpunkt der Statusänderung die Konsolidierung seiner Tochterunternehmen einzustellen. Eine Ausnahme bilden Tochterunternehmen, die nach Paragraph 32 weiterhin konsolidiert werden müssen. Die Investmentgesellschaft hat die Vorschriften der Paragraphen 25 und 26 auf nicht mehr konsolidierte Tochterunternehmen anzuwenden, so als hätte sie zu diesem Zeitpunkt die Beherrschung über diese Tochterunternehmen verloren.
+
+Anhang C
+
+Zeitpunkt des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil des IFRS und hat die gleiche bindende Kraft wie die anderen Teile des IFRS.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+C1 Dieser IFRS ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen IFRS früher an, hat es dies anzugeben und gleichzeitig IFRS 11, IFRS 12, IAS 27 Einzelabschlüsse und IAS 28 (in der 2011 geänderten Fassung) anzuwenden.
+
+C1A Durch Konzernabschlüsse, Gemeinsame Vereinbarungen und Angaben zu Anteilen an anderen Unternehmen: Übergangsleitlinien (Änderungen an IFRS 10, IFRS 11 und IFRS 12), veröffentlicht im Juni 2012, wurden die Paragraphen C2–C6 geändert und die Paragraphen C2A–C2B, C4A–C4C, C5A und C6A–C6B eingefügt. Diese Änderungen sind erstmals auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Wendet ein Unternehmen IFRS 10 auf ein früheres Geschäftsjahr an, sind auf dieses frühere Geschäftsjahr auch diese Änderungen anzuwenden.
+
+C1B Durch Investmentgesellschaften (Änderungen an IFRS 10, IFRS 12 und IAS 27), veröffentlicht im Oktober 2012, wurden die Paragraphen 2, 4, C2A, C6A und Anhang A geändert und die Paragraphen 27–33, B85A–B85W, B100–B101 und C3A–C3F eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben und alle in der Verlautbarung Investmentgesellschaften enthaltenen Änderungen gleichzeitig anzuwenden.
+
+C1D Durch Investmentgesellschaften: Anwendung der Ausnahme von der Konsolidierungspflicht (Änderungen an IFRS 10, IFRS 12 und IAS 28), veröffentlicht im Dezember 2014, wurden die Paragraphen 4, 32, B85C, B85E und C2A geändert und die Paragraphen 4A und 4B eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf ein früheres Geschäftsjahr an, hat es dies anzugeben.
+
+ÜBERGANGSVORSCHRIFTEN
+
+C2 Dieser IFRS ist gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend anzuwenden, es sei denn, die Festlegungen in den Paragraphen C2A–C6 treffen zu.
+
+C2A Unbeschadet der Vorschriften in Paragraph 28 von IAS 8 braucht ein Unternehmen bei der erstmaligen Anwendung dieses IFRS und, falls später, bei der erstmaligen Anwendung der an diesem IFRS durch die Verlautbarungen Investmentgesellschaften und Investmentgesellschaften: Anwendung der Ausnahme von der Konsolidierungspflicht vorgenommenen Änderungen für das Geschäftsjahr, das der erstmaligen Anwendung dieses IFRS unmittelbar vorausgeht (die „unmittelbar vorangegangene Periode“), nur die quantitativen Informationen gemäß Paragraph 28(f) von IAS 8 darzustellen. Ein Unternehmen kann diese Angaben auch für die Berichtsperiode oder für frühere Vergleichsperioden darstellen, ist dazu aber nicht verpflichtet.
+
+C2B Für die Zwecke dieses IFRS ist der Zeitpunkt der erstmaligen Anwendung der Beginn des Geschäftsjahrs, für das dieser IFRS erstmals angewendet wird.
+
+C3 Bei der erstmaligen Anwendung braucht ein Unternehmen seine bisherige Rechnungslegung nicht anzupassen in Bezug auf sein Engagement bei:
+a) 
+
+Unternehmen, die zu diesem Zeitpunkt gemäß IAS 27 Konzern- und Einzelabschlüsse und SIC-12 Konsolidierung – Zweckgesellschaften konsolidiert würden und gemäß diesem IFRS weiterhin konsolidiert werden, oder
+b) 
+
+Unternehmen, die zu diesem Zeitpunkt gemäß IAS 27 und SIC-12 konsolidiert würden und gemäß diesem IFRS nicht konsolidiert werden.
+
+C3A Bei der erstmaligen Anwendung hat ein Unternehmen ausgehend von den zu diesem Zeitpunkt vorliegenden Fakten und Umständen zu beurteilen, ob es eine Investmentgesellschaft ist. Wenn ein Unternehmen zum Zeitpunkt der erstmaligen Anwendung zu dem Schluss gelangt, dass es eine Investmentgesellschaft ist, hat es anstelle der Paragraphen C5–C5A die Paragraphen C3B–C3F anzuwenden.
+
+C3B Mit der Ausnahme von Tochterunternehmen, die gemäß Paragraph 32 konsolidiert werden (für die die Paragraphen C3 und C6 bzw. gegebenenfalls C4–C4C gelten), hat eine Investmentgesellschaft ihre Beteiligungen an den einzelnen Tochterunternehmen erfolgswirksam zum beizulegenden Zeitwert zu bewerten, so als hätten die Vorschriften dieses IFRS schon immer gegolten. Die Investmentgesellschaft hat sowohl für das Geschäftsjahr unmittelbar vor dem Zeitpunkt der erstmaligen Anwendung als auch für das Eigenkapital zu Beginn der unmittelbar vorangegangenen Periode rückwirkende Anpassungen bezüglich einer etwaigen Differenz zwischen
+a) 
+
+dem bisherigen Buchwert des Tochterunternehmens und
+b) 
+
+dem beizulegenden Zeitwert der Beteiligung der Investmentgesellschaft an dem Tochterunternehmen vorzunehmen.
+
+Der kumulierte Betrag etwaiger Anpassungen des beizulegenden Zeitwerts, die bisher im sonstigen Ergebnis erfasst wurden, ist zu Beginn des unmittelbar vor dem Zeitpunkt der erstmaligen Anwendung liegenden Geschäftsjahrs in die Gewinnrücklagen umzugliedern.
+
+C3C Bis zur erstmaligen Anwendung von IFRS 13 Bewertung zum beizulegenden Zeitwert hat eine Investmentgesellschaft die beizulegenden Zeitwerte zu verwenden, die den Investoren oder dem Management bisher vorgelegt wurden, sofern diese Werte dem Betrag entsprechen, zu dem die Beteiligung zum Bewertungszeitpunkt zwischen sachverständigen, vertragswilligen und voneinander unabhängigen Geschäftspartnern unter marktüblichen Bedingungen hätte getauscht werden können.
+
+C3D Ist die Bewertung einer Beteiligung an einem Tochterunternehmen gemäß den Paragraphen C3B–C3C undurchführbar (im Sinne von IAS 8), hat eine Investmentgesellschaft die Vorschriften dieses IFRS zu Beginn der frühesten Periode anzuwenden, für die eine Anwendung der Paragraphen C3B–C3C durchführbar ist. Dies kann die aktuelle Berichtsperiode sein. Der Investor hat für das Geschäftsjahr, das dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgeht, rückwirkende Anpassungen vorzunehmen, es sei denn, der Beginn der frühesten Periode, für die die Anwendung dieses Paragraphen durchführbar ist, ist die aktuelle Berichtsperiode. In diesem Fall ist die Anpassung des Eigenkapitals zu Beginn der Berichtsperiode zu erfassen.
+
+C3E Hat eine Investmentgesellschaft vor dem Zeitpunkt der erstmaligen Anwendung dieses IFRS eine Beteiligung an einem Tochterunternehmen veräußert oder die Beherrschung über das Tochterunternehmen verloren, so muss sie die bisherige Bilanzierung dieses Tochterunternehmens nicht anpassen.
+
+C3F Wendet ein Unternehmen die Änderungen in Investmentgesellschaften auf eine Periode nach der erstmaligen Anwendung von IFRS 10 an, sind die Verweise auf den „Zeitpunkt der erstmaligen Anwendung“ in den Paragraphen C3A–C3E als „Beginn des Geschäftsjahrs, für das die Änderungen in Investmentgesellschaften (Änderungen an IFRS 10, IFRS 12 und IAS 27) (veröffentlicht im Oktober 2012) erstmals angewendet werden“ zu verstehen.
+
+C4 Kommt ein Investor bei erstmaliger Anwendung dieses IFRS zu dem Schluss, dass er ein Beteiligungsunternehmen zu konsolidieren hat, das gemäß IAS 27 und SIC-12 nicht konsolidiert wurde, hat er Folgendes zu tun:
+a) 
+
+Handelt es sich bei dem Beteiligungsunternehmen um einen Geschäftsbetrieb (im Sinne von IFRS 3 Unternehmenszusammenschlüsse), hat er die Vermögenswerte, Schulden und nicht beherrschenden Anteile an dem zuvor nicht konsolidierten Beteiligungsunternehmen so zu bewerten, als wäre das Beteiligungsunternehmen ab dem Zeitpunkt, an dem der Investor nach Maßgabe der Vorschriften dieses IFRS die Beherrschung über das Beteiligungsunternehmen erlangt hat, konsolidiert worden (und wäre folglich als Erwerb gemäß IFRS 3 bilanziert worden). Der Investor hat für das Geschäftsjahr, das der erstmaligen Anwendung dieses IFRS unmittelbar vorausgeht, rückwirkende Anpassungen vorzunehmen. Liegt der Zeitpunkt, zu dem die Beherrschung erlangt wurde, vor dem Beginn der unmittelbar vorangegangenen Periode, hat der Investor eine etwaige Differenz zwischen den folgenden Beträgen als Anpassung des Eigenkapitals zu Beginn der unmittelbar vorangegangenen Periode zu erfassen:
+i) 
+
+dem Betrag der angesetzten Vermögenswerte, Schulden und nicht beherrschenden Anteile und
+ii) 
+
+bisherigen Buchwert des Engagements des Investors bei dem Beteiligungsunternehmen.
+b) 
+
+Handelt es sich bei dem Beteiligungsunternehmen nicht um einen Geschäftsbetrieb (im Sinne von IFRS 3), hat er die Vermögenswerte, Schulden und nicht beherrschenden Anteile des bisher nicht konsolidierten Beteiligungsunternehmens so zu bewerten, als wäre das Beteiligungsunternehmen ab dem Zeitpunkt, an dem der Investor nach Maßgabe der Vorschriften dieses IFRS die Beherrschung über das Beteiligungsunternehmen erlangt hat, konsolidiert worden (unter Verwendung der in IFRS 3 beschriebenen Erwerbsmethode, jedoch ohne Ansatz von Geschäfts- oder Firmenwert für das Beteiligungsunternehmen). Der Investor hat für das Geschäftsjahr, das der erstmaligen Anwendung dieses IFRS unmittelbar vorausgeht, rückwirkende Anpassungen vorzunehmen. Liegt der Zeitpunkt, zu dem die Beherrschung erlangt wurde, vor dem Beginn der unmittelbar vorangegangenen Periode, hat der Investor eine etwaige Differenz zwischen den folgenden Beträgen als Anpassung des Eigenkapitals zu Beginn der unmittelbar vorangegangenen Periode zu erfassen:
+i) 
+
+dem Betrag der angesetzten Vermögenswerte, Schulden und nicht beherrschenden Anteile und
+ii) 
+
+dem bisherigen Buchwert des Engagements des Investors bei dem Beteiligungsunternehmen.
+
+C4A Ist eine Bewertung der Vermögenswerte, Schulden und nicht beherrschenden Anteile eines Beteiligungsunternehmens nach Paragraph C4(a) oder (b) nicht durchführbar (im Sinne von IAS 8), hat der Investor Folgendes zu tun:
+a) 
+
+Wenn es sich bei dem Beteiligungsunternehmen um einen Geschäftsbetrieb handelt, muss er die Vorschriften von IFRS 3 zum angenommenen Erwerbszeitpunkt anwenden. Der angenommene Erwerbszeitpunkt ist der Beginn der frühesten Periode, für die eine Anwendung von Paragraph C4(a) durchführbar ist. Dies kann die aktuelle Berichtsperiode sein.
+b) 
+
+Wenn es sich bei dem Beteiligungsunternehmen nicht um einen Gewerbebetrieb handelt, muss er zum angenommenen Erwerbszeitpunkt die in IFRS 3 beschriebene Erwerbsmethode anwenden, jedoch ohne einen Geschäfts- oder Firmenwert anzusetzen. Der angenommene Erwerbszeitpunkt ist der Beginn der frühesten Periode, für die die Anwendung von Paragraph C4(b) durchführbar ist. Dies kann die aktuelle Berichtsperiode sein.
+
+Der Investor hat für das Geschäftsjahr, das der erstmaligen Anwendung unmittelbar vorausgeht, rückwirkende Anpassungen vorzunehmen, es sei denn, der Beginn der frühesten Periode, für die eine Anwendung dieses Paragraphen durchführbar ist, ist die aktuelle Berichtsperiode. Liegt der angenommene Erwerbszeitpunkt vor dem Beginn der unmittelbar vorangegangenen Periode, hat der Investor eine etwaige Differenz zwischen den folgenden Beträgen als Anpassung des Eigenkapitals zu Beginn der unmittelbar vorangegangenen Periode zu erfassen:
+c) 
+
+dem Betrag der angesetzten Vermögenswerte, Schulden und nicht beherrschenden Anteile und
+d) 
+
+dem bisherigen Buchwert des Engagements des Investors bei dem Beteiligungsunternehmen.
+
+Ist die früheste Periode, für die eine Anwendung dieses Paragraphen durchführbar ist, die aktuelle Berichtsperiode, so ist die Anpassung des Eigenkapitals zu Beginn des aktuellen Berichtszeitraums zu erfassen.
+
+C4B Wendet ein Investor die Paragraphen C4–C4A an und liegt der Zeitpunkt, zu dem die Beherrschung gemäß diesem IFRS erlangt wurde, nach dem Zeitpunkt des Inkrafttretens von IFRS 3 in der 2008 geänderten Fassung (IFRS 3 (2008)), bezieht sich der Verweis auf IFRS 3 in den Paragraphen C4 und C4A auf IFRS 3 (2008). Wurde die Beherrschung vor dem Zeitpunkt des Inkrafttretens von IFRS 3 (2008) erlangt, hat ein Investor entweder IFRS 3 (2008) oder IFRS 3 (veröffentlicht 2004) anzuwenden.
+
+C4C Wendet ein Investor die Paragraphen C4–C4A an und liegt der Zeitpunkt, zu dem die Beherrschung gemäß diesem IFRS erlangt wurde, nach dem Zeitpunkt des Inkrafttretens von IAS 27 in der 2008 geänderten Fassung (IAS 27 (2008)), wendet der Investor die Anforderungen dieses IFRS auf alle Geschäftsjahre an, in denen das Beteiligungsunternehmen gemäß den Paragraphen C4 und C4A rückwirkend konsolidiert wurde. Wurde die Beherrschung vor dem Zeitpunkt des Inkrafttretens von IAS 27 (2008) erlangt, wendet der Investor entweder
+a) 
+
+die Vorschriften dieses IFRS auf alle Perioden an, in denen das Beteiligungsunternehmen gemäß den Paragraphen C4 und C4A rückwirkend konsolidiert wurde, oder
+b) 
+
+die Vorschriften von IAS 27 in der 2003 veröffentlichten Fassung (IAS 27 (2003)) für die Perioden vor dem Inkrafttreten von IAS 27 (2008) und für die Folgeperioden die Vorschriften dieses IFRS an.
+
+C5 Kommt ein Investor bei erstmaliger Anwendung dieses IFRS zu dem Schluss, dass er ein Beteiligungsunternehmen, das gemäß IAS 27 und SIC-12 konsolidiert wurde, nicht mehr konsolidieren wird, hat er seinen Anteil am Beteiligungsunternehmen mit dem Betrag zu bewerten, der ermittelt worden wäre, wenn die Vorschriften des vorliegenden IFRS zu dem Zeitpunkt in Kraft gewesen wären, als er sein Engagement bei dem Beteiligungsunternehmen aufnahm (aber im Sinne dieses IFRS nicht die Beherrschung darüber erlangte) bzw. seine Beherrschung über das Unternehmen verlor. Der Investor hat für das Geschäftsjahr, das der erstmaligen Anwendung dieses IFRS unmittelbar vorausgeht, rückwirkende Anpassungen vorzunehmen. Liegt der Zeitpunkt, zu dem der Investor sein Engagement bei dem Beteiligungsunternehmen begann (aber im Sinne dieses IFRS nicht die Beherrschung darüber erlangte) bzw. seine Beherrschung über das Unternehmen verlor, vor dem Beginn der unmittelbar vorausgehenden Periode, hat der Investor eine etwaige Differenz zwischen den beiden folgenden Beträgen als Anpassung des Eigenkapitals zu Beginn der unmittelbar vorangegangenen Periode zu erfassen:
+a) 
+
+dem bisherigen Buchwert der Vermögenswerte, Schulden und nicht beherrschenden Anteile und
+b) 
+
+dem angesetzten Betrag seines Anteils am Beteiligungsunternehmen.
+
+C5A Ist eine Bewertung des Anteils am Beteiligungsunternehmen gemäß Paragraph C5 nicht durchführbar (im Sinne von IAS 8), hat der Investor die Vorschriften des vorliegenden IFRS zu Beginn der frühesten Periode anzuwenden, für die eine Anwendung von Paragraph C5 durchführbar ist. Dies kann die aktuelle Berichtsperiode sein. Der Investor hat für das Geschäftsjahr, das der erstmaligen Anwendung unmittelbar vorausgeht, rückwirkende Anpassungen vorzunehmen, es sei denn, der Beginn der frühesten Periode, für die eine Anwendung dieses Paragraphen durchführbar ist, ist die aktuelle Berichtsperiode. Liegt der Zeitpunkt, zu dem der Investor sein Engagement bei dem Beteiligungsunternehmen begann (aber im Sinne dieses IFRS nicht die Beherrschung darüber erlangte) bzw. seine Beherrschung über das Unternehmen verlor, vor dem Beginn der unmittelbar vorausgehenden Periode, hat der Investor eine etwaige Differenz zwischen den beiden folgenden Beträgen als Anpassung des Eigenkapitals zu Beginn der unmittelbar vorangegangenen Periode zu erfassen:
+a) 
+
+dem bisherigen Buchwert der Vermögenswerte, Schulden und nicht beherrschenden Anteile und
+b) 
+
+dem angesetzten Betrag seines Anteils am Beteiligungsunternehmen.
+
+Ist die früheste Periode, für die eine Anwendung dieses Paragraphen durchführbar ist, die aktuelle Berichtsperiode, so ist die Anpassung des Eigenkapitals zu Beginn des aktuellen Berichtszeitraums zu erfassen.
+
+C6 Bei den Paragraphen 23, 25, B94 und B96–B99 handelt es sich um 2008 vorgenommene Änderungen an IAS 27, die in IFRS 10 übernommen wurden. Außer in Fällen, in denen ein Unternehmen Paragraph C3 anwendet oder zur Anwendung der Paragraphen C4–C5A verpflichtet ist, sind die Vorschriften in den genannten Paragraphen wie folgt anzuwenden:
+a) 
+
+Ein Unternehmen darf keine Gewinn- oder Verlustzuweisungen für Berichtsperioden anpassen, die vor der erstmaligen Anwendung der Änderung in Paragraph B94 liegen.
+b) 
+
+Die Vorschriften in den Paragraphen 23 und B96 für die Bilanzierung von Veränderungen der Beteiligungsquote an einem Tochterunternehmen nach Übernahme der Beherrschung sind nicht auf Veränderungen anzuwenden, die vor der erstmaligen Anwendung jener Änderungen eingetreten sind.
+c) 
+
+Ein Unternehmen darf den Buchwert einer Beteiligung an einem ehemaligen Tochterunternehmen nicht anpassen, wenn es die Beherrschung vor der erstmaligen Anwendung der Änderungen in den Paragraphen 25 und B97–B99 verlor. Auch darf ein Unternehmen einen Gewinn oder Verlust aus einem Verlust der Beherrschung über ein Tochterunternehmen, der vor der erstmaligen Anwendung der Änderungen in den Paragraphen 25 und B97–B99 entstanden ist, nicht neu berechnen.
+
+Verweise auf die „unmittelbar vorangegangene Periode“
+
+C6A Unbeschadet der Verweise auf das Geschäftsjahr unmittelbar vor dem Zeitpunkt der erstmaligen Anwendung (die „unmittelbar vorangegangene Periode“) in den Paragraphen C3B–C5A kann ein Unternehmen auch angepasste Vergleichsinformationen für frühere Perioden darstellen, ist dazu aber nicht verpflichtet. Stellt ein Unternehmen angepasste Vergleichsinformationen für frühere Perioden dar, sind alle in den Paragraphen C3B–C5A enthaltenen Verweise auf die „unmittelbar vorangegangene Periode“ als die „früheste dargestellte angepasste Vergleichsperiode“ zu verstehen.
+
+C6B Stellt ein Unternehmen für frühere Perioden keine angepassten Vergleichsinformationen dar, hat es die nicht angepassten Informationen klar zu kennzeichnen, darauf hinzuweisen, dass sie auf einer anderen Grundlage erstellt wurden, und diese Grundlage zu erläutern.
+
+Verweise auf IFRS 9
+
+C7 Wendet ein Unternehmen diesen IFRS, aber noch nicht IFRS 9 an, sind alle in diesem IFRS enthaltenen Verweise auf IFRS 9 als Verweise auf IAS 39 Finanzinstrumente: Ansatz und Bewertung zu verstehen.
+
+RÜCKNAHME ANDERER IFRS
+
+C8 Dieser IFRS ersetzt die Vorschriften für Konzernabschlüsse in IAS 27 (in der 2008 geänderten Fassung).
+
+C9 Dieser IFRS ersetzt außerdem SIC-12 Konsolidierung – Zweckgesellschaften.

@@ -1,0 +1,102 @@
+﻿ IFRIC INTERPRETATION 20
+
+Abraumbeseitigungskosten im Tagebau
+
+VERWEISE
+— 
+Rahmenkonzept für die Finanzberichterstattung  ( 72 )
+— 
+IAS 1 Darstellung des Abschlusses
+— 
+IAS 2 Vorräte
+— 
+IAS 16 Sachanlagen
+— 
+IAS 38 Immaterielle Vermögenswerte
+
+HINTERGRUND
+
+1 Im Tagebau kann es für Unternehmen erforderlich sein, nicht verwertbares Gesteinsmaterial (Abraum) zu beseitigen, um Zugang zu den Erzvorkommen zu erhalten. Diese Tätigkeit wird als Abraumbeseitigung bezeichnet.
+
+2 In der Erschließungsphase eines Bergwerks (d. h. vor Beginn der Produktion) werden die Abraumbeseitigungskosten in der Regel als Teil der abschreibungsfähigen Kosten für die Anlage, Erschließung und Errichtung des Bergwerks aktiviert. Diese aktivierten Kosten werden ab Beginn der Produktion planmäßig abgeschrieben, und zwar üblicherweise nach der leistungsabhängigen Abschreibungsmethode.
+
+3 Auch während der Produktionsphase kann das Bergbauunternehmen laufend Abraum beseitigen müssen, sodass ihm weitere Abraumbeseitigungskosten entstehen.
+
+4 Der in der Produktionsphase beseitigte Abraum ist nicht immer zu 100 Prozent unverwertbar. Oft handelt es sich um eine Mischung aus Erz und Abfallmaterial. Dabei kann das Verhältnis Erz-zu-Abfall (Abraumverhältnis) von einem unwirtschaftlich niedrigen bis hin zu einem profitabel hohen Prozentsatz reichen. Bei der Beseitigung von Abraum mit niedrigem Abraumverhältnis kann dennoch für die Vorratsproduktion nutzbares Material gefördert werden. Außerdem können dadurch tiefer liegende Gesteinsschichten zugänglich werden, die ein höheres Erz-zu-Abfall-Verhältnis aufweisen. Ein Bergbauunternehmen kann aus der Abraumbeseitigung folglich zwei Arten von Nutzen ziehen: verwertbares Erz, das für die Vorratsproduktion eingesetzt werden kann, und ein besserer Zugang zu weiteren Erzvorkommen für den späteren Abbau.
+
+5 Diese Interpretation betrifft die Frage, zu welchem Zeitpunkt und auf welche Weise diese beiden bei der Abraumbeseitigung entstehenden Arten von Nutzen getrennt zu bilanzieren sind und wie diese Nutzen beim erstmaligen Ansatz und danach zu bewerten sind.
+
+ANWENDUNGSBEREICH
+
+6 Diese Interpretation ist auf Abraumbeseitigungskosten anzuwenden, die im Tagebau während der Produktionsphase anfallen (bei der Produktion anfallende Abraumbeseitigungskosten).
+
+FRAGESTELLUNGEN
+
+7 Diese Interpretation betrifft die folgenden Fragen:
+a) 
+
+Wie sind die bei der Produktion anfallenden Abraumbeseitigungskosten zu aktivieren?
+b) 
+
+Wie ist der Vermögenswert aus der Abraumbeseitigung erstmals zu bewerten? und
+c) 
+
+Wie ist der Vermögenswert aus der Abraumbeseitigung in der Folge zu bewerten?
+
+BESCHLUSS
+
+Aktivierung der bei der Produktion anfallenden Abraumbeseitigungskosten
+
+8 Den Teil der Abraumbeseitigungskosten, der auf den Nutzen entfällt, den das Unternehmen in Form von erzeugten Vorräten aus der Abraumbeseitigung zieht, hat es gemäß IAS 2 Vorräte zu erfassen. Den Teil der Abraumbeseitigungskosten, der auf den Nutzen entfällt, den das Unternehmen aufgrund des besseren Zugangs zu den Erzvorkommen aus der Abraumbeseitigung zieht, hat es als langfristigen Vermögenswert zu erfassen, sofern die Kriterien von Paragraph 9 erfüllt sind. Dieser langfristige Vermögenswert wird in dieser Interpretation als „Vermögenswert aus der Abraumbeseitigung“ bezeichnet.
+
+9 Das Unternehmen darf nur dann einen Vermögenswert aus der Abraumbeseitigung erfassen, wenn alle folgenden Voraussetzungen erfüllt sind:
+a) 
+
+es ist wahrscheinlich, dass der künftige wirtschaftliche Nutzen der Abraumbeseitigung (verbesserter Zugang zum Erzvorkommen) dem Unternehmen zufließen wird,
+b) 
+
+das Unternehmen kann den Teil des Erzkörpers, für den der Zugang verbessert wurde, identifizieren, und
+c) 
+
+die Kosten, die mit der Abraumbeseitigung für diesen Teil einhergehen, können verlässlich bewertet werden.
+
+10 Der Vermögenswert aus der Abraumbeseitigung ist als Erweiterung oder Verbesserung eines bestehenden Vermögenswerts zu bilanzieren. Folglich wird der Vermögenswert aus der Abraumbeseitigung als Teil eines bestehenden Vermögenswerts erfasst.
+
+11 Ob der Vermögenswert aus der Abraumbeseitigung als materieller oder immaterieller Vermögenswert einzustufen ist, hängt von der Art des bestehenden Vermögenswerts ab. Das bedeutet, je nachdem, welcher Art der bestehende Vermögenswert ist, hat das Unternehmen den Vermögenswert aus der Abraumbeseitigung als materiell oder immateriell einzustufen.
+
+Erstmalige Bewertung des Vermögenswerts aus der Abraumbeseitigung
+
+12 Bei der erstmaligen Bewertung des Vermögenswerts aus der Abraumbeseitigung hat das Unternehmen die Anschaffungs- oder Herstellungskosten zugrunde zu legen. Dies sind die Gesamtkosten, die unmittelbar durch die Abraumbeseitigung, die den Zugang zum identifizierten Erzkörperbestandteil verbessert, anfallen, zuzüglich des einzeln zuordenbaren Teils der Gemeinkosten. Zusammen mit der produktionsbegleitenden Abraumbeseitigung können einige Nebentätigkeiten stattfinden, die für die weitere planmäßige Ausführung dieser Abraumbeseitigung nicht erforderlich sind. Die Kosten solcher Nebentätigkeiten dürfen nicht in den Vermögenswert aus der Abraumbeseitigung eingerechnet werden.
+
+13 In Fällen, in denen die als Vermögenswert aus der Abraumbeseitigung zu aktivierenden Kosten und die der Vorratsproduktion zuordenbaren Kosten sich nicht getrennt bestimmen lassen, teilt das Unternehmen die Kosten unter Verwendung einer auf einer relevanten Produktionsmessgröße basierenden Verteilung auf diese beiden Bestandteile auf. Diese Produktionsmessgröße ist für den identifizierten Teil des Erzkörpers zu berechnen und als Referenz zu verwenden, um zu ermitteln, inwieweit die zusätzliche, auf die Schaffung eines zukünftigen Nutzens gerichtete Tätigkeit stattgefunden hat. Beispiele für solche Messgrößen sind:
+a) 
+
+Kosten der erzeugten Vorräte im Vergleich zu den erwarteten Kosten,
+b) 
+
+bezogen auf ein bestimmtes Erzproduktionsvolumen: Verhältnis zwischen dem Volumen des beseitigten Abfalls und dem erwarteten Abfallvolumen, und
+c) 
+
+bezogen auf ein bestimmtes Erzproduktionsvolumen: Mineralgehalt des gewonnenen Erzes im Vergleich zu seinem erwarteten Mineralgehalt.
+
+Folgebewertung des Vermögenswerts aus der Abraumbeseitigung
+
+14 Nach dem erstmaligen Ansatz ist der Vermögenswert aus der Abraumbeseitigung auf die gleiche Art und Weise wie der bestehende Vermögenswert, dessen Bestandteil er ist, entweder zu den fortgeführten Anschaffungs- oder Herstellungskosten oder zum neu bewerteten Betrag abzüglich planmäßiger Abschreibung und Wertminderungsaufwand zu bilanzieren.
+
+15 Der Vermögenswert aus der Abraumbeseitigung ist über die erwartete Nutzungsdauer des identifizierten Teils des Erzkörpers, der durch die Abraumbeseitigung besser zugänglich wird, planmäßig abzuschreiben. Sofern sich keine zweckmäßigere Methode anbietet, ist die leistungsabhängige Abschreibungsmethode anzuwenden.
+
+16 Die erwartete Nutzungsdauer des identifizierten Teils des Erzkörpers, die für die planmäßige Abschreibung des Vermögenswert aus der Abraumbeseitigung zugrunde gelegt wird, ist nicht mit der erwarteten Nutzungsdauer, die für die planmäßige Abschreibung des Bergwerks selbst oder der mit diesem in Verbindung stehenden Vermögenswerte gilt, gleichzusetzen. Dies wäre lediglich der Fall, wenn die Abraumbeseitigung den Zugang zum gesamten verbleibenden Erzkörper verbessert. Dies kann beispielsweise gegen Ende der Nutzungsdauer des Bergwerks eintreten, wenn es sich bei dem identifizierten Teil des Erzkörpers um den gesamten verbleibenden Teil des abzubauenden Erzkörpers handelt.
+
+Anhang A
+
+Zeitpunkt des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil der Interpretation und hat die gleiche bindende Kraft wie die anderen Teile der Interpretation.
+
+A1 Diese Interpretation ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Interpretation auf eine frühere Periode an, hat es dies anzugeben.
+
+A2 Das Unternehmen hat diese Interpretation auf bei der Produktion anfallende Abraumbeseitigungskosten anzuwenden, die seit Beginn der frühesten dargestellten Periode angefallen sind.
+
+A3 In der Eröffnungsbilanz der frühesten dargestellten Periode ist jeder zuvor ausgewiesene Saldo eines Vermögenswerts aus der Abraumbeseitigung während der Produktion („früherer Vermögenswert aus der Abraumbeseitigung“) als Teil des bestehenden Vermögenswerts, dem die Abraumbeseitigung zuzuordnen ist, auszuweisen, sofern ein identifizierbarer Teil des Erzkörpers verbleibt, dem der frühere Vermögenswert aus der Abraumbeseitigung zugeordnet werden kann. Diese Salden werden über die verbleibende erwartete Nutzungsdauer des identifizierten Teils des Erzkörpers, dem der frühere Vermögenswert aus der Abraumbeseitigung zuzuordnen ist, planmäßig abgeschrieben.
+
+A4 Lässt sich kein Teil des Erzkörpers ermitteln, dem der frühere Vermögenswert aus der Abraumbeseitigung zugeordnet werden kann, sind diese Salden in der Eröffnungsbilanz der frühesten dargestellten Periode in den Gewinnrücklagen auszuweisen.

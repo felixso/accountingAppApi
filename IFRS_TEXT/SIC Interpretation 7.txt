@@ -1,0 +1,48 @@
+﻿ SIC INTERPRETATION 7
+
+Einführung des Euro
+
+VERWEISE
+— 
+IAS 1 Darstellung des Abschlusses (überarbeitet 2007)
+— 
+IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+— 
+IAS 10 Ereignisse nach dem Abschlussstichtag
+— 
+IAS 21 Auswirkungen von Wechselkursänderungen (überarbeitet 2003)
+— 
+IAS 27 [Konzern- und] Einzelabschlüsse (geändert 2008)
+
+FRAGESTELLUNG
+
+1 Ab dem 1. Januar 1999, dem Zeitpunkt des Inkrafttretens der Wirtschafts- und Währungsunion (WWU), wird der Euro eine Währung eigenen Rechts werden und die Wechselkurse zwischen dem Euro und den teilnehmenden nationalen Währungen werden unwiderruflich festgelegt, d. h. das Risiko nachfolgender Währungsdifferenzen hinsichtlich dieser Währungen ist ab diesem Tag beseitigt.
+
+2 Diese Interpretation betrifft die Frage, wie IAS 21 auf die Umstellung von nationalen Währungen teilnehmender Mitgliedstaaten der Europäischen Union auf den Euro („die Umstellung“) anzuwenden ist.
+
+BESCHLUSS
+
+3 Die Vorschriften von IAS 21 bezüglich der Umrechnung von Fremdwährungstransaktionen und Abschlüssen ausländischer Geschäftsbetriebe sind streng auf die Umstellung anzuwenden. Der gleiche Grundgedanke gilt für die Festlegung von Wechselkursen, wenn Länder in späteren Phasen der WWU beitreten.
+
+4 Daraus folgt im Besonderen:
+a) 
+
+aus Geschäftsvorfällen resultierende monetäre Vermögenswerte und Schulden in Fremdwährung sind weiterhin zum Stichtagskurs in die funktionale Währung umzurechnen; etwaige Umrechnungsdifferenzen, die sich dabei ergeben, sind sofort als Ertrag oder Aufwand zu erfassen, mit der Ausnahme, dass das Unternehmen für Gewinne und Verluste aus der Währungsumrechnung, die aus der Absicherung des Währungsrisikos einer erwarteten Transaktion entstehen, weiterhin seine bestehenden Rechnungslegungsmethoden anzuwenden hat,
+b) 
+
+kumulierte Umrechnungsdifferenzen im Zusammenhang mit der Umrechnung von Abschlüssen ausländischer Geschäftsbetriebe, die im sonstigen Ergebnis erfasst werden, sind im Eigenkapital zu kumulieren und erst bei der Veräußerung oder teilweisen Veräußerung der Nettoinvestition in den ausländischen Geschäftsbetrieb erfolgswirksam umzugliedern und
+c) 
+
+Umrechnungsdifferenzen aus der Umrechnung von Schulden, die auf Fremdwährungen der Teilnehmerstaaten lauten, sind nicht dem Buchwert des dazugehörenden Vermögenswerts zuzurechnen.
+
+DATUM DES BESCHLUSSES
+
+Oktober 1997
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+Diese Interpretation tritt am 1. Juni 1998 in Kraft. Änderungen der Rechnungslegungsmethoden sind gemäß IAS 8 vorzunehmen.
+
+Infolge (der 2007 überarbeiteten Fassung) von IAS 1 wurde die in allen IFRS verwendete Terminologie geändert. Außerdem wurde dadurch Paragraph 4 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen die 2007 überarbeitete Fassung von IAS 1 auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+Mit dem 2008 geänderten IAS 27 wurde Paragraph 4(b) geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen die 2008 geänderte Fassung von IAS 27 auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderung anzuwenden.

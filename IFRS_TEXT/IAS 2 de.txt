@@ -1,0 +1,196 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 2
+
+Vorräte
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses Standards ist die Regelung der Bilanzierung von Vorräten. Die primäre Fragestellung ist dabei die Höhe der Anschaffungs- oder Herstellungskosten, die als Vermögenswert anzusetzen und fortzuschreiben sind, bis die entsprechenden Erlöse erfasst werden. Dieser Standard enthält Anwendungsleitlinien für die Ermittlung der Anschaffungs- oder Herstellungskosten und deren nachfolgende Erfassung als Aufwand einschließlich etwaiger Abwertungen auf den Nettoveräußerungswert. Er beinhaltet außerdem Anleitungen zu den Verfahren, wie Anschaffungs- oder Herstellungskosten den Vorräten zugeordnet werden.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist auf alle Vorräte anzuwenden mit folgenden Ausnahmen:
+a) 
+
+[gestrichen]
+b) 
+
+Finanzinstrumente (siehe IAS 32 Finanzinstrumente: Darstellung und IFRS 9 Finanzinstrumente) und
+c) 
+
+biologische Vermögenswerte, die mit landwirtschaftlicher Tätigkeit im Zusammenhang stehen, und landwirtschaftliche Erzeugnisse zum Zeitpunkt der Ernte (siehe IAS 41 Landwirtschaft).
+
+3   Dieser Standard ist nicht auf die Bewertung folgender Vorräte anzuwenden:
+a) 
+
+Vorräte von Erzeugern land- und forstwirtschaftlicher Erzeugnisse, landwirtschaftliche Erzeugnisse nach der Ernte sowie Mineralien und mineralische Stoffe jeweils insoweit, als diese Erzeugnisse nach der gut eingeführten Praxis ihrer Branche zum Nettoveräußerungswert bewertet werden. Werden solche Vorräte zum Nettoveräußerungswert bewertet, werden Wertänderungen erfolgswirksam in der Periode der Änderung erfasst.
+b) 
+
+Vorräte von Warenmaklern/-händlern, die ihre Vorräte zum beizulegenden Zeitwert abzüglich der Verkaufskosten bewerten. Werden solche Vorräte zum beizulegenden Zeitwert abzüglich der Verkaufskosten bewertet, werden die Wertänderungen erfolgswirksam in der Periode der Änderung erfasst.
+
+4 Die in Paragraph 3(a) genannten Vorräte werden in bestimmten Stadien der Produktion zum Nettoveräußerungswert bewertet. Dies ist beispielsweise dann der Fall, wenn landwirtschaftliche Erzeugnisse geerntet oder Mineralien gefördert worden sind und ihr Verkauf durch ein Termingeschäft oder eine staatliche Garantie abgesichert ist; des Weiteren, wenn ein aktiver Markt besteht, auf dem das Risiko der Unverkäuflichkeit vernachlässigt werden kann. Diese Vorräte sind nur von den Bewertungsvorschriften dieses Standards ausgeschlossen.
+
+5 Makler/Händler kaufen bzw. verkaufen Waren für andere oder auf eigene Rechnung. Die in Paragraph 3(b) genannten Vorräte werden hauptsächlich mit der Absicht erworben, sie kurzfristig zu verkaufen und einen Gewinn aus den Preisschwankungen oder der Makler-/Händlermarge zu erzielen. Wenn diese Vorräte zum beizulegenden Zeitwert abzüglich der Verkaufskosten bewertet werden, sind sie nur von den Bewertungsvorschriften dieses Standards ausgeschlossen.
+
+DEFINITIONEN
+
+6   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Vorräte sind Vermögenswerte,
+a) 
+
+die zum Verkauf im Rahmen der gewöhnlichen Geschäftstätigkeit gehalten werden,
+b) 
+
+die sich in der Herstellung für einen solchen Verkauf befinden, oder
+c) 
+
+die als Roh-, Hilfs- und Betriebsstoffe dazu bestimmt sind, bei der Herstellung oder der Erbringung von Dienstleistungen verbraucht zu werden.
+Der Nettoveräußerungswert ist der geschätzte, im Rahmen der gewöhnlichen Geschäftstätigkeit erzielbare Verkaufserlös abzüglich der geschätzten Kosten bis zur Fertigstellung und der geschätzten notwendigen Vertriebskosten.
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+
+7 Der Nettoveräußerungswert bezieht sich auf den Nettobetrag, den ein Unternehmen aus dem Verkauf der Vorräte im Rahmen der gewöhnlichen Geschäftstätigkeit zu erzielen erwartet. Der beizulegende Zeitwert spiegelt den Preis wider, für den dieselben Vorräte im Hauptmarkt oder vorteilhaftesten Markt für den betreffenden Vorrat in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag verkauft werden könnten. Ersterer ist ein unternehmensspezifischer Wert; letzterer ist es nicht. Der Nettoveräußerungswert von Vorräten kann von dem beizulegenden Zeitwert abzüglich der Verkaufskosten abweichen.
+
+8 Vorräte umfassen zum Weiterverkauf erworbene Güter, wie beispielsweise von einem Einzelhändler zum Weiterverkauf erworbene Handelsgüter, oder Grundstücke und Gebäude, die zum Weiterverkauf gehalten werden. Des Weiteren umfassen Vorräte vom Unternehmen hergestellte Fertigerzeugnisse und unfertige Erzeugnisse sowie Roh-, Hilfs- und Betriebsstoffe vor Eingang in den Herstellungsprozess. Kosten, die einem Unternehmen im Zusammenhang mit der Erfüllung eines Vertrags mit einem Kunden entstehen und die nicht die Entstehung von Vorräten (oder Vermögenswerten im Sinne anderer Standards) zur Folge haben, werden nach IFRS 15 Erlöse aus Verträgen mit Kunden bilanziert.
+
+BEWERTUNG VON VORRÄTEN
+
+9   Vorräte sind mit dem niedrigeren Wert aus Anschaffungs- oder Herstellungskosten und Nettoveräußerungswert zu bewerten.
+
+Anschaffungs- oder Herstellungskosten von Vorräten
+
+10   In die Anschaffungs- oder Herstellungskosten von Vorräten sind alle Kosten des Erwerbs und der Herstellung sowie sonstige Kosten einzubeziehen, die angefallen sind, um die Vorräte an ihren derzeitigen Ort zu bringen und in ihren derzeitigen Zustand zu versetzen.
+
+Kosten des Erwerbs
+
+11 Die Kosten des Erwerbs von Vorräten umfassen den Erwerbspreis, Einfuhrzölle und andere Steuern (sofern es sich nicht um solche handelt, die das Unternehmen später von den Steuerbehörden zurückerlangen kann), Transport- und Abwicklungskosten sowie sonstige Kosten, die dem Erwerb von Fertigerzeugnissen, Materialien und Leistungen einzeln zugeordnet werden können. Skonti, Rabatte und andere vergleichbare Beträge werden bei der Ermittlung der Kosten des Erwerbs abgezogen.
+
+Herstellungskosten
+
+12 Die Herstellungskosten von Vorräten umfassen die Kosten, die den Produktionseinheiten einzeln zuordenbar sind, wie beispielsweise Fertigungslöhne. Weiterhin umfassen sie systematisch zugeordnete fixe und variable Produktionsgemeinkosten, die bei der Verarbeitung der Ausgangsstoffe zu Fertigerzeugnissen anfallen. Fixe Produktionsgemeinkosten sind solche nicht einzeln der Produktion zuordenbare Kosten, die unabhängig vom Produktionsvolumen relativ konstant anfallen, wie beispielsweise planmäßige Abschreibungen und Instandhaltungskosten von Betriebsgebäuden und -einrichtungen, in die Produktion einfließende Nutzungsrechte sowie die Kosten von Fabrikmanagement und Verwaltung. Variable Produktionsgemeinkosten sind solche nicht einzeln der Produktion zuordenbare Kosten, die unmittelbar oder nahezu unmittelbar mit dem Produktionsvolumen variieren, wie beispielsweise Materialgemeinkosten und Fertigungsgemeinkosten.
+
+13 Die Zuordnung fixer Produktionsgemeinkosten zu den Herstellungskosten basiert auf der normalen Kapazität der Produktionsanlagen. Die normale Kapazität ist das Produktionsvolumen, das im Durchschnitt über eine Anzahl von Perioden oder Saisons unter normalen Umständen und unter Berücksichtigung von Ausfällen aufgrund planmäßiger Instandhaltungen erwartet werden kann. Das tatsächliche Produktionsniveau kann zugrunde gelegt werden, wenn es der Normalkapazität nahekommt. Der auf die einzelne Produktionseinheit entfallende Betrag der fixen Gemeinkosten erhöht sich infolge eines geringen Produktionsvolumens oder eines Betriebsstillstandes nicht. Nicht zugeordnete Gemeinkosten sind in der Periode ihres Anfalls als Aufwand zu erfassen. In Perioden mit außergewöhnlich hohem Produktionsvolumen mindert sich der auf die einzelne Produktionseinheit entfallende Betrag der fixen Gemeinkosten, sodass die Vorräte nicht über den Herstellungskosten bewertet werden. Variable Produktionsgemeinkosten werden den einzelnen Produktionseinheiten auf der Grundlage des tatsächlichen Einsatzes der Produktionsmittel zugeordnet.
+
+14 Ein Produktionsprozess kann dazu führen, dass mehr als ein Produkt gleichzeitig produziert wird. Dies ist beispielsweise bei der Kuppelproduktion von zwei Hauptprodukten oder eines Haupt- und eines Nebenprodukts der Fall. Wenn die Herstellungskosten jedes Produkts nicht einzeln feststellbar sind, werden sie den Produkten auf einer vernünftigen und stetigen Basis zugeordnet. Die Zuordnung kann beispielsweise auf dem relativen Verkaufswert des jeweiligen Produkts basieren, und zwar entweder in der Produktionsphase, in der die Produkte einzeln identifizierbar werden, oder nach Beendigung der Produktion. Die meisten Nebenprodukte sind ihrer Art nach unbedeutend. Wenn dies der Fall ist, werden sie häufig zum Nettoveräußerungswert bewertet, und dieser Wert wird von den Herstellungskosten des Hauptprodukts abgezogen. Damit unterscheidet sich der Buchwert des Hauptprodukts nicht wesentlich von seinen Herstellungskosten.
+
+Sonstige Kosten
+
+15 Sonstige Kosten werden nur insoweit in die Anschaffungs- oder Herstellungskosten der Vorräte einbezogen, als sie angefallen sind, um die Vorräte an ihren derzeitigen Ort zu bringen und in ihren derzeitigen Zustand zu versetzen. Beispielsweise kann es sachgerecht sein, nicht produktionsbezogene Gemeinkosten oder die Kosten der Produktentwicklung für bestimmte Kunden in die Herstellungskosten der Vorräte einzubeziehen.
+
+16 Es folgen einige Beispiele für Kosten, die aus den Anschaffungs- oder Herstellungskosten von Vorräten ausgeschlossen sind und in der Periode ihres Anfalls als Aufwand behandelt werden:
+a) 
+
+außergewöhnliche Beträge für Materialabfälle, Fertigungslöhne oder andere Produktionskosten,
+b) 
+
+Lagerkosten, es sei denn, dass diese im Produktionsprozess vor einer weiteren Produktionsstufe erforderlich sind,
+c) 
+
+Verwaltungsgemeinkosten, die nicht dazu beitragen, die Vorräte an ihren derzeitigen Ort zu bringen und in ihren derzeitigen Zustand zu versetzen, und
+d) 
+
+Vertriebskosten.
+
+17 IAS 23 Fremdkapitalkosten identifiziert die bestimmten Umstände, bei denen Fremdkapitalkosten in die Anschaffungs- oder Herstellungskosten von Vorräten einbezogen werden.
+
+18 Ein Unternehmen kann beim Erwerb von Vorräten Zahlungsziele in Anspruch nehmen. Wenn die Vereinbarung effektiv ein Finanzierungselement enthält, wird dieses Element, beispielsweise eine Differenz zwischen dem Erwerbspreis mit normalem Zahlungsziel und dem bezahlten Betrag, während des Finanzierungszeitraums als Zinsaufwand erfasst.
+
+19 [gestrichen]
+
+Anschaffungs- oder Herstellungskosten landwirtschaftlicher Erzeugnisse in Form von Ernten von biologischen Vermögenswerten
+
+20 Nach IAS 41 Landwirtschaft werden Vorräte, die landwirtschaftliche Erzeugnisse umfassen und die ein Unternehmen von seinen biologischen Vermögenswerten geerntet hat, beim erstmaligen Ansatz zum Zeitpunkt der Ernte zum beizulegenden Zeitwert abzüglich der Verkaufskosten bewertet. Dies sind die Anschaffungs- oder Herstellungskosten der Vorräte zum Zeitpunkt der Anwendung dieses Standards.
+
+Verfahren zur Bemessung der Anschaffungs- oder Herstellungskosten
+
+21 Zur Bemessung der Anschaffungs- und Herstellungskosten von Vorräten können vereinfachende Verfahren, wie beispielsweise die Standardkostenmethode oder die retrograde Methode, angewandt werden, wenn die Ergebnisse den tatsächlichen Anschaffungs- oder Herstellungskosten nahekommen. Standardkosten berücksichtigen die normale Höhe des Materialeinsatzes und der Löhne sowie die normale Leistungsfähigkeit und Kapazitätsauslastung. Sie werden regelmäßig überprüft und, falls notwendig, an die aktuellen Gegebenheiten angepasst.
+
+22 Die retrograde Methode wird häufig im Einzelhandel angewandt, um eine große Anzahl rasch wechselnder Vorratsposten mit ähnlichen Gewinnmargen zu bewerten, für die es nicht praktikabel ist, andere Verfahren zur Bemessung der Anschaffungs- und Herstellungskosten zu verwenden. Die Anschaffungskosten der Vorräte werden durch Abzug einer angemessenen prozentualen Bruttogewinnmarge vom Verkaufspreis der Vorräte ermittelt. Der angewandte Prozentsatz berücksichtigt dabei auch solche Vorräte, deren ursprünglicher Verkaufspreis herabgesetzt worden ist. Häufig wird ein Durchschnittsprozentsatz für jede Einzelhandelsabteilung verwendet.
+
+Kosten-Zuordnungsverfahren
+
+23   Die Anschaffungs- oder Herstellungskosten solcher Vorräte, die normalerweise nicht austauschbar sind, und solcher Güter oder Leistungen, die für spezifische Projekte hergestellt und ausgesondert werden, sind durch Einzelzuordnung ihrer individuellen Anschaffungs- oder Herstellungskosten zu bestimmen.
+
+24 Eine Einzelzuordnung der Anschaffungs- oder Herstellungskosten bedeutet, dass bestimmten Vorräten spezifische Anschaffungs- oder Herstellungskosten zugeordnet werden. Dies ist das geeignete Verfahren für solche Gegenstände, die für ein spezifisches Projekt ausgesondert worden sind, unabhängig davon, ob sie angeschafft oder hergestellt worden sind. Eine Einzelzuordnung ist jedoch ungeeignet, wenn es sich um eine große Anzahl von Vorräten handelt, die normalerweise untereinander austauschbar sind. Unter diesen Umständen könnten die Gegenstände, die in den Vorräten verbleiben, danach ausgewählt werden, dass sie im Voraus festgelegte Auswirkungen auf den Periodengewinn oder -verlust haben.
+
+25   Die Anschaffungs- oder Herstellungskosten von Vorräten, die nicht in Paragraph 23 behandelt werden, sind nach dem First-in-First-out-Verfahren (FIFO) oder nach der Durchschnittsmethode zu bestimmen. Ein Unternehmen hat für alle Vorräte, die von ähnlicher Beschaffenheit und Verwendung für das Unternehmen sind, dasselbe Kosten-Zuordnungsverfahren anzuwenden. Für Vorräte von unterschiedlicher Beschaffenheit oder Verwendung können unterschiedliche Zuordnungsverfahren gerechtfertigt sein.
+
+26 Vorräte, die in einem Geschäftssegment verwendet werden, können beispielsweise für das Unternehmen eine andere Verwendung haben als die gleiche Art von Vorräten, die in einem anderen Geschäftssegment eingesetzt werden. Ein Unterschied im geografischen Standort von Vorräten (oder in den jeweiligen Steuervorschriften) ist jedoch allein nicht ausreichend, um die Anwendung unterschiedlicher Kosten-Zuordnungsverfahren zu rechtfertigen.
+
+27 Das FIFO-Verfahren geht von der Annahme aus, dass die zuerst erworbenen bzw. erzeugten Vorräte zuerst verkauft werden und folglich die am Ende der Periode verbleibenden Vorräte diejenigen sind, die zuletzt gekauft oder hergestellt worden sind. Bei Anwendung der Durchschnittsmethode werden die Anschaffungs- oder Herstellungskosten von Vorräten als durchschnittlich gewichtete Anschaffungs- oder Herstellungskosten ähnlicher Vorräte zu Beginn der Periode und der Anschaffungs- oder Herstellungskosten ähnlicher während der Periode gekaufter oder hergestellter Vorratsgegenstände ermittelt. Der Durchschnitt kann je nach den Gegebenheiten des Unternehmens auf periodischer Basis oder gleitend bei jeder zusätzlich erhaltenen Lieferung berechnet werden.
+
+Nettoveräußerungswert
+
+28 Die Anschaffungs- oder Herstellungskosten von Vorräten sind unter Umständen nicht erzielbar, wenn die Vorräte beschädigt, ganz oder teilweise veraltet sind oder wenn ihr Verkaufspreis zurückgegangen ist. Die Anschaffungs- oder Herstellungskosten von Vorräten können ferner nicht zu erzielen sein, wenn die geschätzten Kosten der Fertigstellung oder die geschätzten bis zum Verkauf anfallenden Kosten gestiegen sind. Die Abwertung der Vorräte auf den niedrigeren Nettoveräußerungswert folgt der Ansicht, dass Vermögenswerte nicht mit höheren Beträgen bilanziert werden dürfen, als bei ihrem Verkauf oder Gebrauch voraussichtlich zu realisieren sind.
+
+29 Abwertungen von Vorräten auf den Nettoveräußerungswert erfolgen im Regelfall in Form von Einzelwertberichtigungen. Unter bestimmten Umständen kann es jedoch sachgerecht sein, ähnliche oder miteinander zusammenhängende Vorräte zusammenzufassen. Dies kann etwa bei Vorräten der Fall sein, die derselben Produktlinie angehören und einen ähnlichen Zweck oder Endgebrauch haben, in demselben geografischen Gebiet produziert und vermarktet werden und nicht auf praktikable Weise unabhängig von anderen Gegenständen aus dieser Produktlinie bewertet werden können. Es ist nicht sachgerecht, Vorräte qua Zugehörigkeit zu einer bestimmten Gruppe, zum Beispiel Fertigerzeugnisse, oder alle Vorräte eines bestimmten Geschäftssegments abzuwerten.
+
+30 Schätzungen des Nettoveräußerungswerts basieren auf den verlässlichsten Anhaltspunkten, die zum Zeitpunkt der Schätzungen im Hinblick auf den für die Vorräte voraussichtlich erzielbaren Betrag verfügbar sind. Diese Schätzungen berücksichtigen Preis- oder Kostenänderungen, die in unmittelbarem Zusammenhang mit Vorgängen nach der Berichtsperiode stehen, insoweit, als diese Vorgänge Verhältnisse aufhellen, die bereits am Ende der Berichtsperiode bestanden haben.
+
+31 Schätzungen des Nettoveräußerungswerts berücksichtigen weiterhin den Zweck, zu dem die Vorräte gehalten werden. Zum Beispiel basiert der Nettoveräußerungswert der Menge der Vorräte, die zur Erfüllung abgeschlossener Liefer- und Leistungsverträge gehalten werden, auf den vertraglich vereinbarten Preisen. Wenn die Verkaufsverträge nur einen Teil der Vorräte betreffen, basiert der Nettoveräußerungswert für den darüber hinausgehenden Teil auf allgemeinen Verkaufspreisen. Rückstellungen können aus abgeschlossenen Verkaufsverträgen über Vorräte, die über die vorhandenen Bestände hinausgehen, oder von abgeschlossenen Einkaufsverträgen entstehen. Diese Rückstellungen werden nach IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen behandelt.
+
+32 Roh-, Hilfs- und Betriebsstoffe, die für die Herstellung von Vorräten bestimmt sind, werden nicht auf einen unter ihren Anschaffungs- oder Herstellungskosten liegenden Wert abgewertet, wenn die Fertigerzeugnisse, in die sie eingehen, voraussichtlich zu den Herstellungskosten oder darüber verkauft werden können. Wenn jedoch ein Preisrückgang für diese Stoffe darauf hindeutet, dass die Herstellungskosten der Fertigerzeugnisse über dem Nettoveräußerungswert liegen, werden die Stoffe auf den Nettoveräußerungswert abgewertet. Unter diesen Umständen können die Wiederbeschaffungskosten der Stoffe die beste verfügbare Bewertungsgrundlage für den Nettoveräußerungswert sein.
+
+33 Der Nettoveräußerungswert wird in jeder Folgeperiode neu ermittelt. Wenn die Umstände, die vorher zu einer Abwertung der Vorräte auf einen Wert unter ihre Anschaffungs- oder Herstellungskosten geführt haben, nicht länger bestehen oder wenn es aufgrund geänderter wirtschaftlicher Gegebenheiten eindeutige Anhaltspunkte für eine Erhöhung des Nettoveräußerungswerts gibt, wird der Betrag der Abwertung insoweit aufgeholt (d. h. die Aufholung beschränkt sich auf den Betrag der ursprünglichen Abwertung), dass der neue Buchwert dem niedrigeren Wert aus Anschaffungs- oder Herstellungskosten und berichtigtem Nettoveräußerungswert entspricht. Dies ist beispielsweise der Fall, wenn sich Vorräte, die aufgrund eines Rückgangs ihres Verkaufspreises zum Nettoveräußerungswert bilanziert wurden, in einer Folgeperiode noch im Bestand befinden und sich ihr Verkaufspreis wieder erhöht hat.
+
+ERFASSUNG ALS AUFWAND
+
+34   Wenn Vorräte verkauft worden sind, ist der Buchwert dieser Vorräte in der Berichtsperiode als Aufwand zu erfassen, in der die zugehörigen Erträge erfasst wurden. Alle Abwertungen von Vorräten auf den Nettoveräußerungswert sowie alle Verluste bei den Vorräten sind in der Periode als Aufwand zu erfassen, in der die Abwertungen vorgenommen wurden oder die Verluste eingetreten sind. Alle Wertaufholungen bei Vorräten, die sich aus einer Erhöhung des Nettoveräußerungswerts ergeben, sind als Verminderung des als Aufwand erfassten Betrags der Vorräte in der Periode zu erfassen, in der die Wertaufholung eintritt.
+
+35 Vorräte können auch anderen Vermögenswerten zugeordnet werden, zum Beispiel dann, wenn Vorräte als Teil selbsterstellter Sachanlagen verwendet werden. Vorräte, die auf diese Weise einem anderen Vermögenswert zugeordnet worden sind, werden über die Nutzungsdauer dieses Vermögenswerts als Aufwand erfasst.
+
+ANGABEN
+
+36   Abschlüsse haben die folgenden Angaben zu enthalten:
+a) 
+
+die für die Bewertung von Vorräten angewandten Rechnungslegungsmethoden einschließlich der Kosten-Zuordnungsverfahren,
+b) 
+
+den Gesamtbuchwert der Vorräte und die Buchwerte in einer unternehmensspezifischen Klassifizierung,
+c) 
+
+den Buchwert der zum beizulegenden Zeitwert abzüglich Verkaufskosten bilanzierten Vorräte,
+d) 
+
+den Betrag der Vorräte, die als Aufwand in der Berichtsperiode erfasst worden sind,
+e) 
+
+den Betrag von Abwertungen von Vorräten, die nach Paragraph 34 in der Berichtsperiode als Aufwand erfasst worden sind,
+f) 
+
+den Betrag von vorgenommenen Wertaufholungen, die nach Paragraph 34 als Verminderung des als Aufwand erfassten Betrags der Vorräte in der Berichtsperiode erfasst worden sind,
+g) 
+
+die Umstände oder Ereignisse, die zu der Wertaufholung der Vorräte nach Paragraph 34 geführt haben, und
+h) 
+
+den Buchwert der Vorräte, die als Sicherheit für Schulden verpfändet sind.
+
+37 Informationen über die Buchwerte von Vorräten nach Klassifizierung und das Ausmaß der Veränderungen dieser Vermögenswerte sind für die Abschlussadressaten nützlich. Verbreitet sind Untergliederungen der Vorräte in Handelsgüter, Roh-, Hilfs- und Betriebsstoffe, unfertige Erzeugnisse und Fertigerzeugnisse.
+
+38 Der Betrag der Vorräte, der während der Periode als Aufwand erfasst worden ist und der oft als Umsatzkosten bezeichnet wird, umfasst die Kosten, die zuvor Teil der Bewertung der verkauften Vorräte waren, sowie die nicht zugeordneten Produktionsgemeinkosten und außergewöhnliche Produktionskosten der Vorräte. Die unternehmensspezifischen Umstände können die Einbeziehung weiterer Kosten, wie beispielsweise Vertriebskosten, rechtfertigen.
+
+39 Einige Unternehmen verwenden eine Gliederung für die Gewinn- und Verlustrechnung, die dazu führt, dass andere Beträge als die während der Berichtsperiode erfassten Anschaffungs- und Herstellungskosten der Vorräte angegeben werden. In diesem Format gliedert ein Unternehmen den Aufwand auf und wendet dabei Gliederungskriterien an, die auf dem Gesamtkostenverfahren beruhen. In diesem Fall gibt das Unternehmen die als Aufwand erfassten Kosten für Rohstoffe und Verbrauchsgüter, Personalkosten und andere Kosten zusammen mit dem Betrag der Nettobestandsveränderungen des Vorratsvermögens in der Periode an.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+40 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen Standard für Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+40A [gestrichen]
+
+40B [gestrichen]
+
+40C Durch IFRS 13, veröffentlicht im Mai 2011, wurde die Definition des beizulegenden Zeitwerts in Paragraph 6 geändert. Außerdem wurde Paragraph 7 geändert. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+40D [gestrichen]
+
+40E Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurden die Paragraphen 2, 8, 29 und 37 geändert und Paragraph 19 gestrichen. Wendet ein Unternehmen IFRS 15 an, sind diese Änderungen ebenfalls anzuwenden.
+
+40F Durch IFRS 9, veröffentlicht im Juli 2014, wurde Paragraph 2 geändert und wurden die Paragraphen 40A, 40B und 40D gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+40G Durch IFRS 16 Leasingverhältnisse, veröffentlicht im Januar 2016, wurde Paragraph 12 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+RÜCKNAHME ANDERER VERLAUTBARUNGEN
+
+41 Der vorliegende Standard ersetzt IAS 2 Vorräte (überarbeitet 1993).
+
+42 Dieser Standard ersetzt SIC-1 Stetigkeit – Unterschiedliche Verfahren zur Zuordnung der Anschaffungs- oder Herstellungskosten von Vorräten.

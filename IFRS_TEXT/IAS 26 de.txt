@@ -1,0 +1,277 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 26
+
+Bilanzierung und Berichterstattung von Altersversorgungsplänen
+
+ANWENDUNGSBEREICH
+
+1   Dieser Standard ist auf Abschlüsse von Altersversorgungsplänen, bei denen die Erstellung solcher Abschlüsse vorgesehen ist, anzuwenden.
+
+2 Altersversorgungspläne werden mitunter auch anders bezeichnet, beispielsweise als „Pensionsordnungen“, „Versorgungswerke“ oder „Betriebsrentenordnungen“. Dieser Standard betrachtet einen Altersversorgungsplan als eine von den Arbeitgebern der Begünstigten des Plans losgelöste Berichtseinheit. Alle anderen Standards sind auf die Abschlüsse von Altersversorgungsplänen anzuwenden, soweit sie nicht durch diesen Standard ersetzt werden.
+
+3 Dieser Standard befasst sich mit der Bilanzierung und Berichterstattung eines Plans für die Gesamtheit aller Begünstigten. Er beschäftigt sich nicht mit Berichten an einzelne Begünstigte im Hinblick auf ihre Altersversorgungsansprüche.
+
+4 IAS 19 Leistungen an Arbeitnehmer behandelt die Bestimmung der Aufwendungen für Versorgungsleistungen in den Abschlüssen von Arbeitgebern, die über solche Pläne verfügen. Der vorliegende Standard ergänzt daher IAS 19.
+
+5 Ein Altersversorgungsplan kann entweder beitrags- oder leistungsorientiert sein. Bei vielen ist die Schaffung getrennter Fonds erforderlich, in die Beiträge einbezahlt und aus denen die Versorgungsleistungen ausbezahlt werden; die Fonds können, müssen aber nicht über folgende Merkmale verfügen: rechtliche Eigenständigkeit und Vorhandensein von Treuhändern. Dieser Standard gilt unabhängig davon, ob ein solcher Fonds geschaffen wurde und ob Treuhänder vorhanden sind.
+
+6 Altersversorgungspläne, deren Vermögenswerte bei Versicherungsunternehmen angelegt werden, unterliegen denselben Rechnungslegungs- und Finanzierungsvorschriften wie selbstverwaltete Anlagen. Demgemäß fallen diese Pläne in den Anwendungsbereich dieses Standards, es sei denn, die Vereinbarung mit dem Versicherungsunternehmen ist im Namen eines bezeichneten Begünstigten oder einer Gruppe von Begünstigten abgeschlossen worden und die Verpflichtung aus der Versorgungszusage obliegt allein dem Versicherungsunternehmen.
+
+7 Dieser Standard befasst sich nicht mit anderen Leistungsformen aus Arbeitsverhältnissen wie Abfindungen bei Beendigung des Arbeitsverhältnisses, Vereinbarungen über später fällige Vergütungsbestandteile, Vergütungen bei Ausscheiden nach langer Dienstzeit, Vorruhestandsregelungen oder Sozialpläne, Gesundheits- und Fürsorgeregelungen oder Erfolgsbeteiligungen. Öffentliche Sozialversicherungssysteme sind von dem Anwendungsbereich dieses Standards ebenfalls ausgeschlossen.
+
+DEFINITIONEN
+
+8   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Altersversorgungspläne sind Vereinbarungen, durch die ein Unternehmen seinen Mitarbeitern Versorgungsleistungen bei oder nach Beendigung des Arbeitsverhältnisses gewährt (entweder in Form einer Jahresrente oder in Form einer einmaligen Zahlung), sofern solche Versorgungsleistungen bzw. die dafür erbrachten Beiträge vor der Pensionierung der Mitarbeiter aufgrund einer vertraglichen Vereinbarung oder aufgrund der betrieblichen Praxis bestimmt oder geschätzt werden können.
+Beitragsorientierte Pläne sind Altersversorgungspläne, bei denen die als Versorgungsleistung zu zahlenden Beträge durch die Beiträge zu einem Fonds und den daraus erzielten Anlageerträgen bestimmt werden.
+Leistungsorientierte Pläne sind Altersversorgungspläne, bei denen die als Versorgungsleistung zu zahlenden Beträge nach Maßgabe einer Formel bestimmt werden, die üblicherweise das Einkommen des Arbeitnehmers und/oder die Jahre seiner Dienstzeit berücksichtigt.
+Fondsfinanzierung ist der Vermögenstransfer vom Arbeitgeber zu einer vom Unternehmen getrennten Einheit (einem Fonds), um die Erfüllung künftiger Verpflichtungen zur Zahlung von Altersversorgungsleistungen sicherzustellen.
+Außerdem werden im Rahmen dieses Standards die folgenden Begriffe verwendet:
+Die Begünstigten sind die Mitglieder eines Altersversorgungsplans und andere Personen, die gemäß dem Plan Ansprüche auf Leistungen haben.
+Das für Leistungen zur Verfügung stehende Nettovermögen umfasst alle Vermögenswerte eines Altersversorgungsplans, abzüglich der Verbindlichkeiten mit Ausnahme des versicherungsmathematischen Barwerts der zugesagten Versorgungsleistungen.
+Der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen ist der Barwert der künftig zu erwartenden Versorgungszahlungen des Altersversorgungsplans an aktive und bereits ausgeschiedene Arbeitnehmer, soweit diese der bereits geleisteten Dienstzeit als erdient zuzurechnen sind.
+Unverfallbare Leistungen sind erworbene Ansprüche auf künftige Leistungen, die nach den Bedingungen eines Altersversorgungsplans nicht von der Fortsetzung des Arbeitsverhältnisses abhängig sind.
+
+9 Einige Altersversorgungspläne haben Geldgeber, die nicht mit den Arbeitgebern identisch sind; dieser Standard bezieht sich auch auf die Abschlüsse solcher Pläne.
+
+10 Die Mehrzahl der Altersversorgungspläne beruht auf formalen Vereinbarungen. Einige Pläne sind ohne formale Grundlage, haben aber durch die bestehende Praxis des Arbeitgebers Verpflichtungscharakter erlangt. Selbst wenn einige Pläne den Arbeitgebern gestatten, ihre Verpflichtungen nach den Plänen einzuschränken, ist es im Allgemeinen für einen Arbeitgeber schwierig, einen Altersversorgungsplan außer Kraft zu setzen, wenn die Arbeitnehmer gehalten werden sollen. Für einen vertraglich geregelten Versorgungsplan gelten dieselben Grundsätze für Bilanzierung und Berichterstattung wie für einen Versorgungsplan ohne formale Grundlage.
+
+11 Viele Altersversorgungspläne sehen die Bildung von separaten Fonds zur Entgegennahme von Beiträgen und für die Auszahlung von Leistungen vor. Solche Fonds können von Personen verwaltet werden, welche das Fondsvermögen in unabhängiger Weise betreuen. Diese Personen werden in einigen Ländern als Treuhänder bezeichnet. Der Begriff Treuhänder wird in diesem Standard verwendet, um solche Personen zu bezeichnen, und zwar unabhängig davon, ob ein Treuhandfonds gebildet worden ist.
+
+12 Altersversorgungspläne werden im Regelfall entweder als beitragsorientierte Pläne oder als leistungsorientierte Pläne bezeichnet. Beide verfügen über ihre eigenen charakteristischen Merkmale. Gelegentlich bestehen Pläne, welche Merkmale von beiden aufweisen. Solche Mischpläne werden im Rahmen dieses Standards wie leistungsorientierte Pläne behandelt.
+
+BEITRAGSORIENTIERTE PLÄNE
+
+13   Der Abschluss eines beitragsorientierten Plans hat eine Aufstellung des für Leistungen zur Verfügung stehenden Nettovermögens sowie eine Beschreibung der Grundsätze der Fondsfinanzierung zu enthalten.
+
+14 Bei einem beitragsorientierten Plan ergibt sich die Höhe der zukünftigen Versorgungsleistungen für einen Begünstigten aus den Beiträgen des Arbeitgebers, des Begünstigten oder beiden sowie aus der Wirtschaftlichkeit und den Anlageerträgen des Fonds. Im Allgemeinen wird der Arbeitgeber durch seine Beiträge an den Fonds von seinen Verpflichtungen befreit. Die Beratung durch einen Versicherungsmathematiker ist im Regelfall nicht vorgeschrieben, obwohl eine solche Beratung manchmal in Anspruch genommen wird, um die künftigen Versorgungsleistungen, die sich unter Zugrundelegung der gegenwärtigen Beiträge und unterschiedlicher Niveaus zukünftiger Beiträge und Anlageerträge ergeben, zu schätzen.
+
+15 Die Begünstigten sind an den Aktivitäten des Plans interessiert, da diese eine direkte Auswirkung auf die Höhe ihrer zukünftigen Versorgungsleistungen haben. Die Begünstigten möchten auch erfahren, ob Beiträge eingegangen sind und eine ordnungsgemäße Kontrolle stattgefunden hat, um ihre Ansprüche zu schützen. Ein Arbeitgeber hat ein Interesse an einer wirtschaftlichen und unparteiischen Durchführung des Plans.
+
+16 Zielsetzung der Berichterstattung von beitragsorientierten Plänen ist die regelmäßige Bereitstellung von Informationen über den Plan und die Ertragskraft der Kapitalanlagen. Dieses Ziel wird im Allgemeinen durch die Bereitstellung eines Abschlusses erfüllt, der Folgendes enthält:
+a) 
+
+eine Beschreibung der maßgeblichen Tätigkeiten in der Periode und der Auswirkung aller Änderungen in Bezug auf den Versorgungsplan sowie seiner Mitglieder und der Vertragsbedingungen,
+b) 
+
+Aufstellungen zu den Geschäftsvorfällen und der Ertragskraft der Kapitalanlagen der Periode sowie zu der Vermögens- und Finanzlage des Versorgungsplans am Ende der Periode und
+c) 
+
+eine Beschreibung der Kapitalanlagepolitik.
+
+LEISTUNGSORIENTIERTE PLÄNE
+
+17   Der Abschluss eines leistungsorientierten Plans hat zu enthalten entweder
+a) 
+
+eine Aufstellung, aus der Folgendes zu ersehen ist:
+i) 
+
+das für Leistungen zur Verfügung stehende Nettovermögen,
+ii) 
+
+der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen, wobei zwischen unverfallbaren und verfallbaren Ansprüchen unterschieden wird, und
+iii) 
+
+eine sich ergebende Vermögensüber- oder –unterdeckung, oder
+b) 
+
+eine Aufstellung des für Leistungen zur Verfügung stehenden Nettovermögens, einschließlich entweder
+i) 
+
+einer Angabe, die den versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen, unterschieden nach unverfallbaren und verfallbaren Ansprüchen, offen legt, oder
+ii) 
+
+eines Verweises auf diese Information in einem beigefügten Gutachten eines Versicherungsmathematikers.
+
+Falls zum Abschlussstichtag keine versicherungsmathematische Bewertung erfolgt ist, ist die aktuellste Bewertung als Grundlage heranzuziehen und ist der Bewertungsstichtag anzugeben.
+
+18   Für die Zwecke des Paragraphen 17 sind dem versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen die gemäß den Regelungen des Plans für die bisher erbrachte Dienstzeit zugesagten Versorgungsleistungen zugrunde zu legen; hierbei dürfen entweder die gegenwärtigen oder die erwarteten künftigen Gehaltsniveaus berücksichtigt werden, wobei die verwendete Rechnungsgrundlage anzugeben ist. Auch jede Änderung der versicherungsmathematischen Annahmen, die sich erheblich auf den versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen ausgewirkt hat, ist anzugeben.
+
+19   Der Abschluss hat die Beziehung zwischen dem versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen und dem für Leistungen zur Verfügung stehenden Nettovermögen sowie die Grundsätze für die über den Fonds erfolgende Finanzierung der zugesagten Versorgungsleistungen zu erläutern.
+
+20 Die Zahlung zugesagter Versorgungsleistungen hängt bei einem leistungsorientierten Plan auch von dessen Vermögens- und Finanzlage und der Fähigkeit der Beitragszahler, auch künftig Beiträge zu leisten, sowie von der Ertragskraft der Kapitalanlagen in dem Fonds und der Wirtschaftlichkeit des Plans ab.
+
+21 Ein leistungsorientierter Plan benötigt regelmäßige Beratung durch einen Versicherungsmathematiker, um seine Vermögens- und Finanzlage zu beurteilen, die Berechnungsannahmen zu überprüfen und um Empfehlungen für zukünftige Beitragsniveaus zu erhalten.
+
+22 Ziel der Berichterstattung eines leistungsorientierten Plans ist es, in regelmäßigen Zeitabständen Informationen über seine Kapitalanlagen und Aktivitäten zu geben; diese müssen geeignet sein, das Verhältnis von angesammelten Ressourcen zu den Versorgungsleistungen im Zeitablauf zu beurteilen. Dieses Ziel wird im Allgemeinen durch die Bereitstellung eines Abschlusses erfüllt, der Folgendes enthält:
+a) 
+
+eine Beschreibung der maßgeblichen Tätigkeiten in der Periode und der Auswirkung aller Änderungen in Bezug auf den Versorgungsplan sowie seiner Mitglieder und der Vertragsbedingungen,
+b) 
+
+Aufstellungen zu den Geschäftsvorfällen und der Ertragskraft der Kapitalanlagen in der Periode sowie zu der Vermögens- und Finanzlage des Versorgungsplans am Ende der Periode,
+c) 
+
+versicherungsmathematische Angaben, entweder als Teil der Aufstellungen oder durch einen separaten Bericht, und
+d) 
+
+eine Beschreibung der Kapitalanlagepolitik.
+
+Versicherungsmathematischer Barwert der zugesagten Versorgungsleistungen
+
+23 Der Barwert der zu erwartenden Zahlungen eines Altersversorgungsplans kann unter Verwendung der gegenwärtigen oder der bis zur Pensionierung der Begünstigten erwarteten künftigen Gehaltsniveaus berechnet und berichtet werden.
+
+24 Die Verwendung eines Ansatzes, der gegenwärtige Gehälter berücksichtigt, wird u. a. damit begründet, dass
+a) 
+
+der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen, definiert als Summe der Beträge, die jedem einzelnen Begünstigten derzeit zuzuordnen sind, auf diese Weise objektiver bestimmt werden kann als bei Zugrundelegung der erwarteten künftigen Gehaltsniveaus, weil weniger Annahmen zu treffen sind,
+b) 
+
+auf eine Gehaltssteigerung zurückgehende Leistungserhöhungen erst zum Zeitpunkt der Gehaltssteigerung zu einer Verpflichtung des Plans werden und
+c) 
+
+der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen unter dem Ansatz des gegenwärtigen Gehaltsniveaus im Falle einer Schließung oder Einstellung eines Versorgungsplans im Allgemeinen in engerer Beziehung zu dem zu zahlenden Betrag steht.
+
+25 Die Verwendung eines Ansatzes, der die erwarteten künftigen Gehaltsniveaus berücksichtigt, wird u. a. damit begründet, dass
+a) 
+
+Finanzinformationen ausgehend von der Prämisse der Unternehmensfortführung erstellt werden sollten, ohne Rücksicht darauf, dass Annahmen zu treffen und Schätzungen vorzunehmen sind;
+b) 
+
+sich bei Plänen, die auf das Entgelt zum Zeitpunkt der Pensionierung abstellen, die Leistungen nach den Gehältern zum Zeitpunkt oder nahe dem Zeitpunkt der Pensionierung bestimmen; daher sind Gehälter, Beitragsniveaus und Verzinsung zu projizieren; und
+c) 
+
+die Außerachtlassung künftiger Gehaltssteigerungen angesichts der Tatsache, dass der Finanzierung von Fonds überwiegend Gehaltsprojektionen zugrunde liegen, möglicherweise dazu führen kann, dass der Fonds eine offensichtliche Überdotierung aufweist, obwohl dies in Wirklichkeit nicht der Fall ist, oder er sich als angemessen dotiert darstellt, obwohl in Wirklichkeit eine Unterdotierung vorliegt.
+
+26 Die Angabe des versicherungsmathematischen Barwerts zugesagter Versorgungsleistungen unter Berücksichtigung des gegenwärtigen Gehaltsniveaus in einem Abschluss des Plans dient als Hinweis auf die zum Zeitpunkt des Abschlusses bestehende Verpflichtung für erworbene Versorgungsleistungen. Die Angabe des versicherungsmathematischen Barwerts zugesagter Versorgungsleistungen unter Berücksichtigung der künftigen Gehälter dient ausgehend von der Prämisse der Unternehmensfortführung als Hinweis auf das Ausmaß der potenziellen Verpflichtung, wobei diese Prämisse im Allgemeinen die Grundlage der Fondsfinanzierung darstellt. Zusätzlich zur Angabe des versicherungsmathematischen Barwerts zugesagter Versorgungsleistungen sind eventuell ausreichende Erläuterungen nötig, um genau anzugeben, in welchem Umfeld dieser Wert zu verstehen ist. Eine derartige Erläuterung kann in Form von Informationen über die Angemessenheit der geplanten zukünftigen Fondsfinanzierung und der Finanzierungspolitik aufgrund der Gehaltsprojektionen erfolgen. Dies kann in den Abschluss oder in das Gutachten des Versicherungsmathematikers einbezogen werden.
+
+Häufigkeit versicherungsmathematischer Bewertungen
+
+27 In vielen Ländern werden versicherungsmathematische Bewertungen nicht häufiger als alle drei Jahre erstellt. Falls zum Abschlussstichtag keine versicherungsmathematische Bewertung erstellt wurde, ist die aktuellste Bewertung als Grundlage heranzuziehen und der Bewertungsstichtag anzugeben.
+
+Inhalt des Abschlusses
+
+28 Bei leistungsorientierten Plänen sind die Angaben in einem der nachfolgend beschriebenen Formate darzustellen, die die unterschiedliche Praxis bei der Angabe und Darstellung versicherungsmathematischer Informationen widerspiegeln:
+a) 
+
+als Abschluss mit einer Aufstellung, die das für Leistungen zur Verfügung stehende Nettovermögen, den versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen und eine sich ergebende Vermögensüber- oder -unterdeckung zeigt. Der Abschluss des Plans beinhaltet auch Veränderungsrechnungen in Bezug auf das für Leistungen zur Verfügung stehende Nettovermögen und den versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen. Dem Abschluss kann auch ein separates versicherungsmathematisches Gutachten beigefügt sein, welches den versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen bestätigt;
+b) 
+
+als Abschluss mit einer Aufstellung des für Leistungen zur Verfügung stehenden Nettovermögens und einer Veränderungsrechnung in Bezug auf das für Leistungen zur Verfügung stehende Nettovermögen; Der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen wird im Anhang angegeben. Dem Abschluss kann auch ein versicherungsmathematisches Gutachten beigefügt sein, welches den versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen bestätigt; oder
+c) 
+
+als Abschluss mit einer Aufstellung des für Leistungen zur Verfügung stehenden Nettovermögens und einer Veränderungsrechnung in Bezug auf das für Leistungen zur Verfügung stehende Nettovermögen, wobei der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen in einem separaten versicherungsmathematischen Gutachten angegeben ist.
+
+In jedem der gezeigten Formate kann dem Abschluss auch ein Bericht des Treuhänders in Form eines Berichtes des Managements sowie ein Kapitalanlagebericht beigefügt werden.
+
+29 Die Befürworter der in den Paragraphen 28(a) und (b) gezeigten Formate vertreten die Auffassung, dass die Quantifizierung der zugesagten Versorgungsleistungen und anderer gemäß diesen Ansätzen gegebener Informationen es den Abschlussadressaten erleichtert, die gegenwärtige Lage des Plans und die Wahrscheinlichkeit, dass dieser seine Verpflichtungen erfüllen kann, zu beurteilen. Sie sind auch der Ansicht, dass die Abschlüsse in sich vollständig sein müssen und nicht auf begleitende Aufstellungen bauen dürfen. Mitunter wird jedoch auch die Auffassung vertreten, dass das unter Paragraph 28(a) beschriebene Format den Eindruck einer bestehenden Verbindlichkeit hervorrufen könnte, wobei der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen nach dieser Auffassung nicht alle Merkmale einer Verbindlichkeit besitzt.
+
+30 Die Befürworter des in Paragraph 28(c) gezeigten Formats vertreten die Auffassung, dass der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen nicht in eine Aufstellung des für Versorgungsleistungen zur Verfügung stehenden Nettovermögens, wie in Paragraph 28(a) gezeigt, einzubeziehen ist oder gemäß Paragraph 28(b) im Anhang anzugeben ist, da dies einen direkten Vergleich mit dem Planvermögen nach sich ziehen würde und ein derartiger Vergleich nicht zulässig sein könnte. Dabei wird vorgebracht, dass Versicherungsmathematiker nicht notwendigerweise die versicherungsmathematischen Barwerte der zugesagten Versorgungsleistungen mit den Marktwerten der Kapitalanlagen vergleichen, sondern hierzu stattdessen möglicherweise den Barwert der aus diesen Kapitalanlagen erwarteten Mittelzuflüsse heranziehen. Daher ist es nach Auffassung derjenigen, die dieses Format bevorzugen, unwahrscheinlich, dass ein solcher Vergleich die generelle Beurteilung des Plans durch den Versicherungsmathematiker wiedergibt und so Missverständnisse entstehen. Zudem wird vorgebracht, dass die Informationen über die zugesagten Versorgungsleistungen, ob quantifiziert oder nicht, nur im gesonderten versicherungsmathematischen Gutachten aufgeführt werden sollten, da dort angemessene Erläuterungen gegeben werden können.
+
+31 In diesem Standard wird die Auffassung akzeptiert, dass es gestattet werden sollte, die Angaben zu zugesagten Versorgungsleistungen in einem gesonderten versicherungsmathematischen Gutachten aufzuführen. Dagegen werden die Argumente gegen eine Quantifizierung des versicherungsmathematischen Barwerts der zugesagten Versorgungsleistungen abgelehnt. Dementsprechend sind die in Paragraph 28(a) und (b) beschriebenen Formate gemäß diesem Standard akzeptabel. Dies gilt auch für das in Paragraph 28(c) beschriebene Format, sofern dem Abschluss das versicherungsmathematische Gutachten, welches den versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen aufzeigt, beigefügt wird und die Angaben einen Verweis auf das Gutachten enthalten.
+
+ALLE PLÄNE
+
+Bewertung des Planvermögens
+
+32   Die Kapitalanlagen des Altersversorgungsplans sind zum beizulegenden Zeitwert zu bilanzieren. Bei marktfähigen Wertpapieren ist der beizulegende Zeitwert gleich dem Marktwert. Enthält ein Plan Kapitalanlagen, für die eine Schätzung des beizulegenden Zeitwerts nicht möglich ist, ist der Grund für die Nichtverwendung des beizulegenden Zeitwerts anzugeben.
+
+33 Bei marktfähigen Wertpapieren ist der beizulegende Zeitwert normalerweise gleich dem Marktwert, da dieser für die Wertpapiere zum Abschlussstichtag und für deren Ertragskraft der Periode den zweckmäßigsten Bewertungsmaßstab darstellt. Für Wertpapiere mit einem festen Rückkaufswert, die erworben wurden, um die Verpflichtungen des Plans oder bestimmte Teile davon abzudecken, können Beträge auf der Grundlage der endgültigen Rückkaufswerte unter Annahme einer bis zur Fälligkeit konstanten Rendite bilanziert werden. Ist eine Schätzung des beizulegenden Zeitwerts von Kapitalanlagen des Plans nicht möglich, wie im Fall einer hundertprozentigen Beteiligung an einem Unternehmen, ist der Grund für die Nichtverwendung des beizulegenden Zeitwerts anzugeben. In dem Maße, wie Kapitalanlagen zu anderen Beträgen als den Marktwerten oder beizulegenden Zeitwerten bilanziert werden, ist der beizulegende Zeitwert im Allgemeinen ebenfalls anzugeben. Die im Rahmen der betrieblichen Tätigkeit des Fonds genutzten Vermögenswerte sind gemäß den entsprechenden Standards zu bilanzieren.
+
+Angaben
+
+34   Im Abschluss eines leistungs- oder beitragsorientierten Altersversorgungsplans sind ergänzend folgende Angaben zu machen:
+a) 
+
+eine Bewegungsbilanz des für Leistungen zur Verfügung stehenden Nettovermögens,
+b) 
+
+wesentliche Angaben zu Rechnungslegungsmethoden und
+c) 
+
+eine Beschreibung des Plans und der Auswirkung aller Änderungen im Plan während der Periode.
+
+35 Falls zutreffend, beinhalten Abschlüsse, die von Altersversorgungsplänen erstellt werden, Folgendes:
+a) 
+
+eine Aufstellung des für Leistungen zur Verfügung stehenden Nettovermögens, mit Angabe:
+i) 
+
+der in geeigneter Weise aufgegliederten Vermögenswerte zum Ende der Periode,
+ii) 
+
+der Grundlage der Bewertung der Vermögenswerte,
+iii) 
+
+der Einzelheiten zu jeder einzelnen Kapitalanlage, die entweder 5 % des für Leistungen zur Verfügung stehenden Nettovermögens oder 5 % einer Wertpapiergattung oder -art übersteigt,
+iv) 
+
+der Einzelheiten jeder Beteiligung am Arbeitgeber und
+v) 
+
+anderer Verbindlichkeiten als dem versicherungsmathematischen Barwert der zugesagten Versorgungsleistungen,
+b) 
+
+eine Bewegungsbilanz des für Leistungen zur Verfügung stehenden Nettovermögens, die die folgenden Posten aufzeigt:
+i) 
+
+Arbeitgeberbeiträge,
+ii) 
+
+Arbeitnehmerbeiträge,
+iii) 
+
+Anlageerträge wie Zinsen und Dividenden,
+iv) 
+
+sonstige Erträge,
+v) 
+
+gezahlte oder zu zahlende Leistungen (beispielsweise aufgegliedert nach Leistungen für Alterspensionen, Todes- und Erwerbsunfähigkeitsfälle sowie einmalige Zahlungen),
+vi) 
+
+Verwaltungsaufwand,
+vii) 
+
+andere Aufwendungen,
+viii) 
+
+Ertragsteuern,
+ix) 
+
+Gewinne und Verluste aus der Veräußerung von Kapitalanlagen und Wertänderungen der Kapitalanlagen und
+x) 
+
+Vermögensübertragungen von und an andere/n Pläne/n,
+c) 
+
+eine Beschreibung der Grundsätze der Fondsfinanzierung,
+d) 
+
+bei leistungsorientierten Plänen der versicherungsmathematische Barwert der zugesagten Versorgungsleistungen (eventuell unterschieden nach unverfallbaren und verfallbaren Ansprüchen) auf der Grundlage der gemäß diesem Plan zugesagten Versorgungsleistungen und der bereits geleisteten Dienstzeit sowie unter Berücksichtigung der gegenwärtigen oder der erwarteten künftigen Gehaltsniveaus; diese Angaben können in einem beigefügten versicherungsmathematischen Gutachten enthalten sein, das in Verbindung mit dem zugehörigen Abschluss zu lesen ist, und
+e) 
+
+bei leistungsorientierten Plänen eine Beschreibung der maßgeblichen versicherungsmathematischen Annahmen und der zur Berechnung des versicherungsmathematischen Barwerts der zugesagten Versorgungsleistungen verwendeten Methode.
+
+36 Der Abschluss eines Altersversorgungsplans enthält eine Beschreibung des Plans, entweder als Teil des Abschlusses oder in einem separaten Bericht. Darin kann Folgendes enthalten sein:
+a) 
+
+die Namen der Arbeitgeber und der vom Plan erfassten Arbeitnehmergruppen,
+b) 
+
+die Anzahl der Begünstigten, welche Leistungen erhalten, und die Anzahl der anderen Begünstigten, in geeigneter Gruppierung,
+c) 
+
+die Art des Plans — beitrags- oder leistungsorientiert,
+d) 
+
+eine Angabe dazu, ob Begünstigte an den Plan Beiträge leisten,
+e) 
+
+eine Beschreibung der den Begünstigten zugesagten Versorgungsleistungen,
+f) 
+
+eine Beschreibung aller Regelungen hinsichtlich einer Schließung des Plans und
+g) 
+
+Veränderungen in den Posten (a) bis (f) während der Periode, die durch den Abschluss behandelt wird.
+
+Es ist nicht unüblich, auf andere den Plan beschreibende Unterlagen, die den Abschlussadressaten in einfacher Weise zugänglich sind, zu verweisen und lediglich Angaben zu nachträglichen Veränderungen aufzuführen.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+37 Dieser Standard ist verbindlich auf Abschlüsse von Altersversorgungsplänen für Berichtsperioden anzuwenden, die am oder nach dem 1. Januar 1988 beginnen.
+
+38 Mit der im Februar 2021 veröffentlichten Verlautbarung Angabe von Bilanzierungs- und Bewertungsmethoden, mit der IAS 1 Darstellung des Abschlusses und das IFRS-Leitliniendokument 2 Fällen von Wesentlichkeitsentscheidungen geändert werden, wurde Paragraph 34 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2023 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+

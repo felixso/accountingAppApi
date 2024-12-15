@@ -1,0 +1,113 @@
+﻿ IFRIC INTERPRETATION 17
+
+Sachdividenden an Eigentümer
+
+VERWEISE
+— 
+IFRS 3 Unternehmenszusammenschlüsse (überarbeitet 2008)
+— 
+IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche
+— 
+IFRS 7 Finanzinstrumente: Angaben
+— 
+IFRS 10 Konzernabschlüsse
+— 
+IFRS 13 Bewertung zum beizulegenden Zeitwert
+— 
+IAS 1 Darstellung des Abschlusses (überarbeitet 2007)
+— 
+IAS 10 Ereignisse nach dem Abschlussstichtag
+
+HINTERGRUND
+
+1 Unternehmen schütten an ihre Eigentümer ( 70 ), die in dieser Eigenschaft handeln, zuweilen andere Vermögenswerte als Zahlungsmittel (Sachwerte) als Dividenden aus. In solchen Fällen kann das Unternehmen seinen Eigentümern auch das Wahlrecht einräumen, entweder Sachwerte oder einen Barausgleich zu erhalten. Das IFRIC wurde ersucht, Leitlinien zur Bilanzierung dieser Art von Dividendenausschüttungen zur Verfügung zu stellen.
+
+2 Die International Financial Reporting Standards (IFRS) enthalten keine Leitlinien dahingehend, wie die Unternehmen Ausschüttungen an seine Eigentümer (üblicherweise als „Dividenden“ bezeichnet) zu bewerten haben. Nach IAS 1 muss das Unternehmen die Einzelheiten zu Dividenden, die als Ausschüttungen an Eigentümer erfasst werden, entweder in der Eigenkapitalveränderungsrechnung oder im Anhang zum Abschluss darstellen.
+
+ANWENDUNGSBEREICH
+
+3 Diese Interpretation gilt für die folgenden Arten von ohne Gegenleistung erfolgenden Ausschüttungen von Vermögenswerten an die Eigentümer eines Unternehmens, die in ihrer Eigenschaft als Eigentümer handeln:
+a) 
+
+Ausschüttungen von Sachwerten (z. B. Sachanlagen, Geschäftsbetriebe laut Definition in IFRS 3, Eigentumsanteile an einem anderen Unternehmen oder einer Veräußerungsgruppe laut Definition in IFRS 5) und
+b) 
+
+Ausschüttungen, die Eigentümer wahlweise als Sachwerte oder als Barausgleich erhalten können.
+
+4 Diese Interpretation gilt nur für Dividendenausschüttungen, bei denen die Eigentümer von Eigenkapitalinstrumenten derselben Gruppe gleich behandelt werden.
+
+5 Diese Interpretation gilt nicht für die Ausschüttung eines Sachwerts, wenn dieser vor und nach der Ausschüttung letztlich der Verfügungsgewalt derselben Partei bzw. Parteien unterliegt. Diese Ausnahme gilt für den Einzel- und den Konzernabschluss des Unternehmens, das die Dividende ausschüttet.
+
+6 Gemäß Paragraph 5 gilt diese Interpretation nicht, wenn der Sachwert vor wie auch nach der Ausschüttung letztlich der Verfügungsgewalt derselben Parteien unterliegt. In Paragraph B2 von IFRS 3 ist festgelegt: „Von einer Gruppe von Personen wird angenommen, dass sie ein Unternehmen beherrscht, wenn sie aufgrund vertraglicher Vereinbarungen gemeinsam die Möglichkeit hat, dessen Finanz- und Geschäftspolitik zu bestimmen, um aus dessen Geschäftstätigkeiten Nutzen zu ziehen.“ Daher gilt diese Interpretation aufgrund der Tatsache, dass der Vermögenswert vor und nach der Ausschüttung der Verfügungsgewalt derselben Parteien unterliegt, nicht für Dividendenausschüttungen, wenn eine Gruppe einzelner Anteilseigner, an die die Dividende ausgeschüttet wird, aufgrund vertraglicher Vereinbarungen die endgültige gemeinsame Verfügungsgewalt über das ausschüttende Unternehmen hat.
+
+7 Gemäß Paragraph 5 gilt diese Interpretation nicht, wenn das Unternehmen einige seiner Eigentumsanteile an einem Tochterunternehmen ausschüttet, dabei aber die Verfügungsgewalt über das Tochterunternehmen behält. Wenn die Dividendenausschüttung dazu führt, dass das Unternehmen lediglich einen nicht beherrschenden Anteil an seinem Tochterunternehmen hält, hat es diese Ausschüttung gemäß IFRS 10 zu bilanzieren.
+
+8 Diese Interpretation betrifft nur die Bilanzierung eines Unternehmens, das Sachdividenden ausschüttet. Sie betrifft nicht die Bilanzierung der Anteilseigner, die eine solche Dividendenausschüttung erhalten.
+
+FRAGESTELLUNGEN
+
+9 Wenn das Unternehmen eine Dividendenausschüttung beschließt und verpflichtet ist, die betreffenden Vermögenswerte an seine Eigentümer auszuschütten, muss es für die Dividendenverbindlichkeit eine Schuld ansetzen. Diese Interpretation betrifft die folgenden Fragen:
+a) 
+
+Wann muss das Unternehmen die Dividendenverbindlichkeit ansetzen?
+b) 
+
+Wie hat das Unternehmen die Dividendenverbindlichkeit zu bewerten?
+c) 
+
+Wie hat das Unternehmen bei der Erfüllung der Dividendenverbindlichkeit eine etwaige Differenz zwischen dem Buchwert der ausgeschütteten Vermögenswerte und dem Buchwert der Dividendenverbindlichkeit zu bilanzieren?
+
+BESCHLUSS
+
+Zeitpunkt des Ansatzes der Dividendenverbindlichkeit
+
+10 Die Verpflichtung, eine Dividende zu zahlen, ist zu dem Zeitpunkt anzusetzen, zu dem die Dividende ordnungsgemäß genehmigt wurde und nicht mehr im Ermessen des Unternehmens liegt, d. h.,
+a) 
+
+wenn die z. B. vom Management oder vom Geschäftsführungs- und/oder Aufsichtsorgan festgelegte Dividende vom zuständigen Organ, z. B. den Anteilseignern, genehmigt wird, sofern eine solche Genehmigung gesetzlich vorgeschrieben ist, oder
+b) 
+
+wenn die Dividende, z. B. vom Management oder vom Geschäftsführungs- und/oder Aufsichtsorgan, festgelegt wird, sofern keine weitere Genehmigung gesetzlich vorgeschrieben ist.
+
+Bewertung der Dividendenverbindlichkeit
+
+11 Die Verpflichtung, Sachwerte als Dividende an die Eigentümer des Unternehmens auszuschütten, ist mit dem beizulegenden Zeitwert der zu übertragenden Vermögenswerte zu bewerten.
+
+12 Wenn das Unternehmen seinen Eigentümern die Möglichkeit gibt, zwischen einem Sachwert oder einem Barausgleich zu wählen, muss es die Dividendenverbindlichkeit unter Berücksichtigung des beizulegenden Zeitwerts jeder Alternative und der Wahrscheinlichkeit, dass sich die Eigentümer für die eine oder andere Alternative entscheiden, schätzen.
+
+13 An jedem Abschlussstichtag und am Erfüllungstag muss das Unternehmen den Buchwert der Dividendenverbindlichkeit überprüfen und anpassen, wobei alle Änderungen des Buchwerts der Dividendenverbindlichkeit im Eigenkapital als Anpassungen des Ausschüttungsbetrags zu erfassen sind.
+
+Bilanzierung von Differenzen zwischen dem Buchwert der ausgeschütteten Vermögenswerte und dem Buchwert der Dividendenverbindlichkeit zum Zeitpunkt der Erfüllung der Dividendenverbindlichkeit
+
+14 Bei der Erfüllung der Dividendenverbindlichkeit hat das Unternehmen jede etwaige Differenz zwischen dem Buchwert der ausgeschütteten Vermögenswerte und dem Buchwert der Dividendenverbindlichkeit erfolgswirksam zu erfassen.
+
+Darstellung und Angaben
+
+15 Differenzen nach Paragraph 14 sind als gesonderte Posten erfolgswirksam zu erfassen.
+
+16 Das Unternehmen hat, soweit anwendbar, die folgenden Informationen anzugeben:
+a) 
+
+Buchwert der Dividendenverbindlichkeit zu Beginn und zum Ende der Berichtsperiode und
+b) 
+
+Erhöhung oder Minderung des Buchwerts, der infolge der Änderung des beizulegenden Zeitwerts der auszuschüttenden Vermögenswerte gemäß Paragraph 13 in der Berichtsperiode erfasst wurde.
+
+17 Wenn das Unternehmen nach dem Abschlussstichtag, jedoch bevor der Abschluss zur Veröffentlichung freigegeben wird, beschließt, einen Sachwert als Dividende auszuschütten, muss es die folgenden Angaben machen:
+a) 
+
+die Art des auszuschüttenden Vermögenswerts,
+b) 
+
+den Buchwert des auszuschüttenden Vermögenswerts am Abschlussstichtag und
+c) 
+
+den beizulegenden Zeitwert des auszuschüttenden Vermögenswerts am Abschlussstichtag, sofern dieser vom Buchwert abweicht, sowie Informationen über die Methode(n), die für die Bewertung zum beizulegenden Zeitwert angewandt wurde(n), wie in den Paragraphen 93(b), (d), (g) und (i) und 99 von IFRS 13 vorgeschrieben.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+18 Diese Interpretation ist vorausschauend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Eine rückwirkende Anwendung ist nicht zulässig. Eine frühere Anwendung ist zulässig. Wendet das Unternehmen diese Interpretation auf ein vor dem 1. Juli 2009 beginnendes Geschäftsjahr an, so hat es dies anzugeben und ebenfalls die Standards IFRS 3 (überarbeitet 2008), IAS 27 (in der im Mai 2008 geänderten Fassung) und IFRS 5 (in der durch diese Interpretation geänderten Fassung) anzuwenden.
+
+19 Mit dem im Mai 2011 veröffentlichten IFRS 10 wurde Paragraph 7 geändert. Wendet das Unternehmen IFRS 10 an, so hat es diese Änderung anzuwenden.
+
+20 Mit dem im Mai 2011 veröffentlichten IFRS 13 wurde Paragraph 17 geändert. Wendet das Unternehmen IFRS 13 an, so hat es diese Änderung anzuwenden.

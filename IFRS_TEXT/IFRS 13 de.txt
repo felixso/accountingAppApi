@@ -1,0 +1,1137 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 13
+
+Bewertung zum beizulegenden Zeitwert
+
+ZIELSETZUNG
+
+1   In diesem IFRS
+a) 
+
+wird der Begriff beizulegender Zeitwert definiert,
+b) 
+
+wird in einem einzigen IFRS ein Rahmen für die Ermittlung des beizulegenden Zeitwerts abgesteckt und
+c) 
+
+werden Angaben zur Bewertung zum beizulegenden Zeitwert verlangt.
+
+2 Der beizulegende Zeitwert ist eine marktbasierte und keine unternehmensspezifische Bewertungsgröße. Für einige Vermögenswerte und Schulden sind unter Umständen beobachtbare Markttransaktionen oder Marktinformationen verfügbar. Für andere Vermögenswerte und Schulden sind jedoch eventuell keine beobachtbaren Markttransaktionen oder Marktinformationen verfügbar. In beiden Fällen wird mit einer Bewertung zum beizulegenden Zeitwert jedoch das gleiche Ziel verfolgt – nämlich die Schätzung des Preises, zu dem unter aktuellen Marktbedingungen am Bewertungsstichtag ein gewöhnlicher Geschäftsvorfall zwischen Marktteilnehmern stattfinden würde, bei dem der Vermögenswert verkauft oder die Schuld übertragen würde (aus Sicht eines Marktteilnehmers, der den Vermögenswert hält oder die Schuld begleichen muss, also der Abgangspreis zum Bewertungsstichtag).
+
+3 Ist ein Preis für einen identischen Vermögenswert oder eine identische Schuld nicht beobachtbar, ermittelt ein Unternehmen den beizulegenden Zeitwert anhand eines anderen Bewertungsverfahrens, bei dem so weit wie möglich relevante beobachtbare und so wenig wie möglich nicht beobachtbare Eingangsparameter verwendet werden. Da der beizulegende Zeitwert eine marktbasierte Bewertungsgröße ist, wird er anhand der Annahmen, einschließlich der Annahmen zum Risiko ermittelt, auf die sich die Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert oder die Schuld stützen würden. Folglich ist die Absicht eines Unternehmens, einen Vermögenswert zu halten oder eine Schuld zu begleichen oder anderweitig zu erfüllen, für die Ermittlung des beizulegenden Zeitwerts nicht relevant.
+
+4 In der Definition des beizulegenden Zeitwerts liegt der Schwerpunkt auf Vermögenswerten und Schulden, weil diese vorrangiger Gegenstand der bilanziellen Bewertung sind. Außerdem ist dieser IFRS auf eigene Eigenkapitalinstrumente eines Unternehmens anzuwenden, die zum beizulegenden Zeitwert bewertet werden.
+
+ANWENDUNGSBEREICH
+
+5   Dieser IFRS ist anzuwenden, wenn ein anderer IFRS Bewertungen zum beizulegenden Zeitwert oder Angaben über Bewertungen zum beizulegenden Zeitwert (und Bewertungen, wie beizulegender Zeitwert abzüglich Veräußerungskosten, die auf dem beizulegenden Zeitwert basieren, oder Angaben zu solchen Bewertungen) vorschreibt oder gestattet. Davon ausgenommen sind die in den Paragraphen 6 und 7 genannten Fälle.
+
+6 Die Bewertungs- und Angabevorschriften dieses IFRS gelten nicht für
+a) 
+
+anteilsbasierte Vergütungen, die in den Anwendungsbereich von IFRS 2 Anteilsbasierte Vergütungen fallen,
+b) 
+
+Leasingtransaktionen, die nach IFRS 16 Leasingverhältnisse bilanziert werden, und
+c) 
+
+Bewertungen, die einige Ähnlichkeiten mit einem beizulegenden Zeitwert haben, aber kein beizulegender Zeitwert sind, wie der Nettoveräußerungswert in IAS 2 Vorräte oder der Nutzungswert in IAS 36 Wertminderung von Vermögenswerten.
+
+7 Die in diesem IFRS verlangten Angaben müssen nicht geliefert werden für
+a) 
+
+Planvermögen, das gemäß IAS 19 Leistungen an Arbeitnehmer zum beizulegenden Zeitwert bewertet wird,
+b) 
+
+Kapitalanlagen eines Altersversorgungsplans, die gemäß IAS 26 Bilanzierung und Berichterstattung von Altersversorgungsplänen zum beizulegenden Zeitwert bewertet werden, und
+c) 
+
+Vermögenswerte, für die der erzielbare Betrag der beizulegende Zeitwert abzüglich Veräußerungskosten gemäß IAS 36 ist.
+
+8 Der im vorliegenden IFRS beschriebene Rahmen für die Bewertung zum beizulegenden Zeitwert gilt sowohl für die Bewertung beim erstmaligen Ansatz als auch für die Folgebewertung, falls der beizulegende Zeitwert nach anderen IFRS vorgeschrieben oder gestattet ist.
+
+BEWERTUNG
+
+Beizulegender Zeitwert - Definition
+
+9   In diesem IFRS wird der beizulegende Zeitwert als der Preis definiert, der bei einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts erzielt oder bei der Übertragung einer Schuld gezahlt würde.
+
+10 Der allgemeine Ansatz der Bewertung zum beizulegenden Zeitwert wird in Paragraph B2 beschrieben.
+
+Der Vermögenswert oder die Schuld
+
+11   Eine Bewertung zum beizulegenden Zeitwert betrifft jeweils einen bestimmten Vermögenswert oder eine bestimmte Schuld. Bei der Ermittlung des beizulegenden Zeitwerts hat ein Unternehmen daher die Merkmale des Vermögenswerts oder der Schuld zu berücksichtigen, falls Marktteilnehmer diese Merkmale bei der Festlegung des Preises für den Vermögenswert oder die Schuld zum Bewertungsstichtag berücksichtigen würden. Solche Merkmale schließen unter anderem Folgendes ein:
+a) 
+
+den Zustand und den Standort des Vermögenswerts und
+b) 
+
+etwaige Beschränkungen hinsichtlich der Veräußerung oder Nutzung des Vermögenswerts.
+
+12 Wie sich ein bestimmtes Merkmal auf die Bewertung auswirkt, ist von Fall zu Fall verschieden und hängt davon ab, in welcher Weise es von Marktteilnehmern berücksichtigt würde.
+
+13 Bei einem Vermögenswert oder einer Schuld, die zum beizulegenden Zeitwert bewertet werden, kann es sich entweder handeln um
+a) 
+
+einen eigenständigen Vermögenswert oder eine eigenständige Schuld (z. B. ein Finanzinstrument oder einen nicht finanziellen Vermögenswert) oder
+b) 
+
+um eine Gruppe von Vermögenswerten, eine Gruppe von Schulden oder eine Gruppe von Vermögenswerten und Schulden (z. B. eine zahlungsmittelgenerierende Einheit oder einen Geschäftsbetrieb).
+
+14 Ob der Vermögenswert oder die Schuld für Ansatz- oder Angabezwecke ein eigenständiger Vermögenswert oder eine eigenständige Schuld, eine Gruppe von Vermögenswerten, eine Gruppe von Schulden oder eine Gruppe von Vermögenswerten und Schulden ist, hängt von seiner/ihrer Bilanzierungseinheit ab. Die Bilanzierungseinheit des Vermögenswerts oder der Schuld ist bis auf die in diesem IFRS vorgesehenen Fälle gemäß dem IFRS zu bestimmen, der eine Bewertung zum beizulegenden Zeitwert verlangt oder gestattet.
+
+Der Geschäftsvorfall
+
+15   Bei einer Bewertung zum beizulegenden Zeitwert wird davon ausgegangen, dass der Vermögenswert oder die Schuld in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern getauscht wird, um am Bewertungsstichtag unter aktuellen Marktbedingungen verkauft bzw. übertragen zu werden.
+
+16   Bei einer Bewertung zum beizulegenden Zeitwert wird davon ausgegangen, dass der Geschäftsvorfall, in dessen Rahmen der Vermögenswert verkauft oder die Schuld übertragen wird, entweder auf dem
+a) 
+
+Hauptmarkt für den Vermögenswert oder die Schuld oder
+b) 
+
+in Ermangelung eines Hauptmarktes auf dem für den Vermögenswert oder die Schuld vorteilhaftesten Markt stattfindet.
+
+17 Zur Ermittlung des Hauptmarktes oder – in Ermangelung eines solchen – des vorteilhaftesten Marktes muss das Unternehmen keine vollständige Suche aller möglichen Märkte vornehmen, hat aber alle Informationen zu berücksichtigen, die angemessenerweise verfügbar sind. Solange kein gegenteiliger Nachweis vorliegt, gilt der Markt, in dem das Unternehmen normalerweise den Verkauf des Vermögenswerts oder die Übertragung der Schuld abschließen würde, als Hauptmarkt oder – in Ermangelung eines solchen – als der vorteilhafteste Markt.
+
+18 Ist für den Vermögenswert oder die Schuld ein Hauptmarkt vorhanden, stellt die Bewertung zum beizulegenden Zeitwert den Preis in diesem Markt dar (dieser Preis ist entweder direkt beobachtbar oder wird anhand eines anderen Bewertungsverfahrens geschätzt), selbst wenn der Preis am Bewertungsstichtag in einem anderen Markt potenziell vorteilhafter ist.
+
+19 Das Unternehmen muss am Bewertungsstichtag Zugang zu dem Hauptmarkt (oder dem vorteilhaftesten Markt) haben. Da verschiedene Unternehmen (und Geschäftsbereiche innerhalb dieser Unternehmen) mit unterschiedlichen Tätigkeiten Zugang zu verschiedenen Märkten haben können, kann der Hauptmarkt (oder der vorteilhafteste Markt) für den gleichen Vermögenswert oder die gleiche Schuld für verschiedene Unternehmen (und Geschäftsbereiche innerhalb dieser Unternehmen) unterschiedlich sein. Aus diesem Grund muss die Betrachtung des Hauptmarktes (oder vorteilhaftesten Marktes und damit der Marktteilnehmer) aus Sicht des Unternehmens erfolgen und somit den Unterschieden zwischen Unternehmen und Unternehmensteilen mit unterschiedlichen Tätigkeiten Rechnung tragen.
+
+20 Ein Unternehmen muss zwar den Zugang zum Markt haben, muss am Bewertungsstichtag aber den betreffenden Vermögenswert oder die betreffende Schuld nicht verkaufen bzw. übertragen können, um den beizulegenden Zeitwert auf Basis des Preises in diesem Markt zu ermitteln.
+
+21 Selbst wenn kein beobachtbarer Markt vorhanden ist, der Informationen über den bei Verkauf des Vermögenswerts oder Übertragung der Schuld am Bewertungsstichtag erzielbaren Preis liefern könnte, ist bei einer Bewertung zum beizulegenden Zeitwert davon auszugehen, dass ein Geschäftsvorfall zu diesem Zeitpunkt unter Berücksichtigung der Sicht des Marktteilnehmers, der den Vermögenswert hält oder die Schuld begleichen muss, stattfindet. Dieser unterstellte Geschäftsvorfall bildet die Grundlage für die Schätzung des Preises, der bei Verkauf des Vermögenswerts oder Übertragung der Schuld erzielt werden kann.
+
+Marktteilnehmer
+
+22   Ein Unternehmen hat den beizulegenden Zeitwert eines Vermögenswerts oder einer Schuld anhand der Annahmen zu ermitteln, die Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert oder die Schuld zugrunde legen würden, wobei unterstellt wird, dass die Marktteilnehmer in ihrem wirtschaftlich besten Interesse handeln.
+
+23 Die Entwicklung dieser Annahmen erfordert nicht, dass ein Unternehmen bestimmte Marktteilnehmer benennt. Stattdessen hat das Unternehmen allgemeine Unterscheidungsmerkmale für Marktteilnehmer zu benennen und dabei Faktoren zu berücksichtigen, die für alle nachstehend genannten Punkte typisch sind:
+a) 
+
+Vermögenswert oder Schuld,
+b) 
+
+Hauptmarkt (oder vorteilhaftester Markt) für den Vermögenswert oder die Schuld und
+c) 
+
+Marktteilnehmer, mit denen das Unternehmen in dem betreffenden Markt eine Transaktion abschließen würde.
+
+Der Preis
+
+24   Der beizulegende Zeitwert ist der Preis, der bei einem gewöhnlichen Geschäftsvorfall in dem Hauptmarkt (oder dem vorteilhaftesten Markt) am Bewertungsstichtag unter aktuellen Marktbedingungen beim Verkauf eines Vermögenswerts erzielt oder bei der Übertragung einer Schuld gezahlt würde (d. h. ein Abgangspreis), unabhängig davon, ob dieser Preis direkt beobachtbar ist oder unter Verwendung eines anderen Bewertungsverfahrens geschätzt wurde.
+
+25 Der Preis im Hauptmarkt oder vorteilhaftesten Markt, der zur Ermittlung des beizulegenden Zeitwerts des Vermögenswerts oder der Schuld verwendet wird, ist nicht um Transaktionskosten zu bereinigen. Transaktionskosten sind nach anderen IFRS zu bilanzieren. Transaktionskosten sind kein Merkmal eines Vermögenswerts oder einer Schuld, sondern sind für einen Geschäftsvorfall charakteristisch und fallen abhängig davon, wie ein Unternehmen eine Transaktion für den Vermögenswert oder die Schuld abschließt, unterschiedlich aus.
+
+26 Transaktionskosten enthalten keine Transportkosten. Stellt der Standort ein Merkmal des Vermögenswerts dar (wie beispielsweise bei einem Rohstoff der Fall sein könnte), ist der Preis im Hauptmarkt (oder vorteilhaftesten Markt) um etwaige Kosten zu bereinigen, die beim Transport des Vermögenswerts von seinem aktuellen Standort zu dem Markt entstehen würden.
+
+Anwendung auf nichtfinanzielle Vermögenswerte
+
+Höchst- und bestmögliche Nutzung für nichtfinanzielle Vermögenswerte
+
+27   Bei der Bewertung eines nichtfinanziellen Vermögenswerts zum beizulegenden Zeitwert wird die Fähigkeit des Marktteilnehmers berücksichtigt, durch höchst- und bestmögliche Nutzung des Vermögenswerts oder durch dessen Verkauf an einen anderen Marktteilnehmer, der den Vermögenswert höchst- und bestmöglich nutzen würde, wirtschaftlichen Nutzen zu generieren.
+
+28 Als höchst- und bestmögliche Nutzung eines nichtfinanziellen Vermögenswerts wird eine Nutzung betrachtet, die physisch möglich, rechtlich zulässig und finanziell durchführbar ist, d. h.:
+a) 
+
+bei einer physisch möglichen Verwendung werden die physischen Merkmale des Vermögenswerts berücksichtigt, die Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert zugrunde legen würden (z. B. Lage oder Größe eines Grundstücks),
+b) 
+
+bei einer rechtlich zulässigen Nutzung werden alle rechtlichen Einschränkungen für die Nutzung des Vermögenswerts berücksichtigt, die Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert zugrunde legen würden (z. B. Bebauungsvorschriften für ein Grundstück),
+c) 
+
+bei einer finanziell durchführbaren Nutzung wird berücksichtigt, ob die physisch mögliche und rechtlich zulässige Nutzung eines Vermögenswerts ausreichende Erträge oder Zahlungsströme generiert (unter Berücksichtigung der Kosten der Umwandlung des Vermögenswerts für die betreffende Nutzung), um einen Kapitalertrag zu erwirtschaften, wie ihn Markteilnehmer für eine Kapitalanlage in einen auf diese Weise genutzten Vermögenswert verlangen würden.
+
+29 Die höchst- und bestmögliche Nutzung wird auch dann aus Sicht der Marktteilnehmer bestimmt, wenn das Unternehmen eine andere Nutzung beabsichtigt. Es wird jedoch unterstellt, dass die aktuelle Nutzung eines nicht finanziellen Vermögenswerts im Unternehmen seiner höchst- und bestmöglichen Nutzung entspricht, es sei denn, dass der Markt oder andere Faktoren Anhaltspunkte dafür liefern, dass eine alternative Nutzung durch Marktteilnehmer den Wert des Vermögenswerts maximieren würde.
+
+30 Zum Schutz seiner Wettbewerbsposition oder aus anderen Gründen kann ein Unternehmen beabsichtigen, von der aktiven Nutzung eines erworbenen nichtfinanziellen Vermögenswerts oder von seiner höchst- und bestmöglichen Nutzung abzusehen. Dies könnte beispielsweise bei einem erworbenen immateriellen Vermögenswert der Fall sein, bei dem das Unternehmen eine defensive Nutzung plant, um andere an seiner Nutzung zu hindern. Das Unternehmen hat jedoch den beizulegenden Zeitwert eines nicht finanziellen Vermögenswerts unter der Annahme seiner höchst- und bestmöglichen Nutzung durch Marktteilnehmer zu ermitteln.
+
+Bewertungsprämisse für nichtfinanzielle Vermögenswerte
+
+31 Die höchst- und bestmögliche Nutzung eines nichtfinanziellen Vermögenswerts bestimmt die Bewertungsprämisse, auf deren Grundlage der beizulegende Zeitwert eines Vermögenswerts ermittelt wird, wie folgt:
+a) 
+
+Die höchst- und bestmögliche Nutzung eines nichtfinanziellen Vermögenswerts könnte Marktteilnehmern durch eine Nutzung in Kombination mit anderen Vermögenswerten als Gruppe (wie eingerichtet oder anderweitig zur Nutzung konfiguriert) oder in Kombination mit anderen Vermögenswerten und Schulden (z. B. ein Geschäftsbetrieb) maximalen Wert verschaffen.
+i) 
+
+Besteht die höchst- und bestmögliche Nutzung des Vermögenswerts in einer Nutzung in Kombination mit anderen Vermögenswerten oder in Kombination mit anderen Vermögenswerten und Schulden, ist der beizulegende Zeitwert des Vermögenswerts der Preis, der in einem aktuellen Geschäftsvorfall beim Verkauf des Vermögenswerts erzielt würde, wobei unterstellt wird, dass der Vermögenswert mit anderen Vermögenswerten oder mit anderen Vermögenswerten und Schulden genutzt würde und dass diese Vermögenswerte und Schulden (d. h. die ergänzenden Vermögenswerte und zugehörigen Schulden) den Marktteilnehmern zur Verfügung stünden.
+ii) 
+
+Mit dem Vermögenswert und den ergänzenden Vermögenswerten verbundene Schulden sind unter anderem Schulden zur Finanzierung des Umlaufvermögens, nicht aber Schulden zur Finanzierung von anderen Vermögenswerten außerhalb der betreffenden Gruppe von Vermögenswerten.
+iii) 
+
+Annahmen zur höchst- und bestmöglichen Nutzung eines nichtfinanziellen Vermögenswerts müssen für alle Vermögenswerte (für die die höchst- und bestmögliche Nutzung relevant ist) der Gruppe von Vermögenswerten oder der Gruppe von Vermögenswerten und Schulden, innerhalb der der Vermögenswert genutzt würde, konsistent sein.
+b) 
+
+Die höchst- und bestmögliche Nutzung eines nichtfinanziellen Vermögenswerts könnte Marktteilnehmern eigenständig maximalen Wert verschaffen. Besteht die höchst- und bestmögliche Nutzung des Vermögenswerts in seiner eigenständigen Nutzung, ist der beizulegende Zeitwert des Vermögenswerts der Preis, der in einem aktuellen Geschäftsvorfall beim Verkauf des Vermögenswerts an Marktteilnehmer, die den Vermögenswert eigenständig nutzen würden, erzielt würde.
+
+32 Bei der Bewertung eines nichtfinanziellen Vermögenswerts zum beizulegenden Zeitwert wird unterstellt, dass der Vermögenswert im Einklang mit der in anderen IFRS beschriebenen Bilanzierungseinheit (die ein einzelner Vermögenswert sein kann) verkauft wird. Dies ist auch dann der Fall, wenn bei dieser Bewertung zum beizulegenden Zeitwert unterstellt wird, dass die höchst- und bestmögliche Nutzung des Vermögenswerts seine Nutzung in Kombination mit anderen Vermögenswerten oder mit anderen Vermögenswerten und Schulden ist, da bei einer Bewertung zum beizulegenden Zeitwert unterstellt wird, dass der Marktteilnehmer die ergänzenden Vermögenswerte und zugehörigen Schulden bereits hält.
+
+33 Paragraph B3 beschreibt die Anwendung der Bewertungsprämisse bei nichtfinanziellen Vermögenswerten.
+
+Anwendung auf Schulden und auf eigene Eigenkapitalinstrumente eines Unternehmens
+
+Allgemeine Grundsätze
+
+34   Bei einer Bewertung zum beizulegenden Zeitwert wird unterstellt, dass eine finanzielle oder nichtfinanzielle Verbindlichkeit oder ein eigenes Eigenkapitalinstrument eines Unternehmens (z. B. bei einem Unternehmenszusammenschluss als Gegenleistung ausgegebene Eigenkapitalanteile) am Bewertungsstichtag auf einen Marktteilnehmer übertragen wird. Bei der Übertragung einer Schuld oder eines eigenen Eigenkapitalinstruments eines Unternehmens wird Folgendes unterstellt:
+a) 
+
+die Schuld bliebe offen und der übernehmende Marktteilnehmer müsste die Verpflichtung erfüllen. Die Schuld würde am Bewertungsstichtag nicht mit der Vertragspartei ausgeglichen oder anderweitig getilgt.
+b) 
+
+ein eigenes Eigenkapitalinstrument eines Unternehmens bliebe offen und der übernehmende Markteilnehmer würde die mit dem Instrument verbundenen Rechte und Verpflichtungen übernehmen. Das Instrument würde am Bewertungsstichtag nicht annulliert oder anderweitig aufgehoben.
+
+35 Selbst wenn kein beobachtbarer Markt vorhanden ist, der Informationen über den bei Übertragung einer Schuld oder eines eigenen Eigenkapitalinstruments eines Unternehmens erzielbaren Preis liefern könnte (z. B. weil vertragliche oder andere rechtliche Einschränkungen die Übertragung eines derartigen Werts verhindern), könnte es für derartige Werte dann einen beobachtbaren Markt geben, wenn diese von anderen Parteien als Vermögenswerte gehalten werden (z.B. als Industrieanleihe oder Kaufoption auf die Anteile eines Unternehmens).
+
+36 Um die Zielsetzung einer Bewertung zum beizulegenden Zeitwert zu erreichen, d. h. den Preis zu schätzen, zu dem die Schuld oder das Eigenkapitalinstrument unter aktuellen Marktbedingungen am Bewertungsstichtag bei einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern übertragen würde, hat ein Unternehmen grundsätzlich so weit wie möglich relevante beobachtbare Eingangsparameter und so wenig wie möglich nicht beobachtbare Eingangsparameter zu verwenden.
+
+Schulden und Eigenkapitalinstrumente, die von anderen Parteien als Vermögenswerte gehalten werden
+
+37   Ist für die Übertragung einer identischen oder ähnlichen Schuld oder eines identischen oder ähnlichen eigenen Eigenkapitalinstruments eines Unternehmens keine Marktpreisnotierung verfügbar und wird der identische Wert von einer anderen Partei als Vermögenswert gehalten, hat das Unternehmen den beizulegenden Zeitwert der Schuld oder des Eigenkapitalinstruments aus der Sicht des Marktteilnehmers zu ermitteln, der den identischen Wert am Bewertungsstichtag als Vermögenswert hält.
+
+38 In derartigen Fällen hat ein Unternehmen den beizulegenden Zeitwert der Schuld oder des Eigenkapitalinstruments wie folgt zu ermitteln:
+a) 
+
+anhand des an einem aktiven Markt notierten Preises des identischen Werts, der von einer anderen Partei als Vermögenswert gehalten wird, falls dieser Preis verfügbar ist,
+b) 
+
+ist dieser Preis nicht verfügbar, anhand anderer beobachtbarer Eingangsparameter wie dem Preis, der an einem Markt notiert ist, der für den von einer anderen Partei als Vermögenswert gehaltenen identischen Wert kein aktiver ist,
+c) 
+
+sind die beobachtbaren Preise aus (a) und (b) nicht verfügbar, anhand eines anderen Bewertungsverfahrens, wie
+i) 
+
+einem kapitalwertbasierten Ansatz (z. B. einem Barwertverfahren, das die künftigen Zahlungsströme berücksichtigt, deren Erhalt ein Marktteilnehmer aus dem Halten der Schuld oder des Eigenkapitalinstruments als Vermögenswert erwarten würde; siehe Paragraphen B10 und B11),
+ii) 
+
+einem marktbasierten Ansatz (z. B. Verwendung notierter Preise für ähnliche Schulden oder Eigenkapitalinstrumente, die von anderen Parteien als Vermögenswerte gehalten werden; siehe Paragraphen B5–B7).
+
+39 Ein Unternehmen hat den notierten Preis einer Schuld oder eines eigenen Eigenkapitalinstruments, die/das von einer anderen Partei als Vermögenswert gehalten wird, nur anzupassen, wenn es für den Vermögenswert kennzeichnende Faktoren gibt, die für die Bewertung der Schuld oder des Eigenkapitalinstruments zum beizulegenden Zeitwert nicht anwendbar sind. Ein Unternehmen hat sicherzustellen, dass die Auswirkungen einer Beschränkung, die den Verkauf des Vermögenswerts verhindert, nicht im Preis des Vermögenswerts widergespiegelt werden. Faktoren, die darauf hindeuten können, dass der notierte Preis des Vermögenswerts angepasst werden sollte, sind u. a.:
+a) 
+
+Der für den Vermögenswert notierte Preis bezieht sich auf eine ähnliche (aber nicht identische) Schuld oder ein ähnliches (aber nicht identisches) Eigenkapitalinstrument, die/das von einer anderen Partei als Vermögenswert gehalten wird. Die Schuld oder das Eigenkapitalinstrument kann beispielsweise ein besonderes Merkmal aufweisen (z. B. die Bonität des Emittenten), das sich von dem unterscheidet, das im beizulegenden Zeitwert der ähnlichen Schuld oder des ähnlichen Eigenkapitalinstruments, die/das als Vermögenswert gehalten wird, zum Ausdruck kommt.
+b) 
+
+Die Bilanzierungseinheit für den Vermögenswert ist nicht die gleiche wie für die Schuld oder das Eigenkapitalinstrument. Bei Schulden beispielsweise spiegelt der Preis für einen Vermögenswert in einigen Fällen einen kombinierten Preis für ein Paket wider, das sowohl die vom Emittenten fälligen Beträge als auch die Kreditsicherheit eines Dritten enthält. Ist die Bilanzierungseinheit für die Schuld nicht das kombinierte Paket, besteht die Zielsetzung darin, den beizulegenden Zeitwert der Schuld des Emittenten, nicht den des kombinierten Pakets zu ermitteln. In derartigen Fällen würde das Unternehmen daher den für den Vermögenswert beobachteten Preis anpassen, um die Auswirkung der Kreditsicherheit des Dritten auszuklammern.
+
+Schulden und Eigenkapitalinstrumente, die nicht von anderen Parteien als Vermögenswerte gehalten werden
+
+40   Ist für die Übertragung einer identischen oder ähnlichen Schuld oder eines identischen oder ähnlichen eigenen Eigenkapitalinstruments eines Unternehmens kein notierter Preis verfügbar und wird der identische Wert von keiner anderen Partei als Vermögenswert gehalten, hat ein Unternehmen den beizulegenden Zeitwert der Schuld oder des Eigenkapitalinstruments mithilfe eines Bewertungsverfahrens aus Sicht eines Marktteilnehmers zu ermitteln, der die Schuld begleichen muss oder den Anspruch auf das Eigenkapital begeben hat.
+
+41 Bei Anwendung eines Barwertverfahrens könnte ein Unternehmen beispielsweise einen der beiden folgenden Gesichtspunkte berücksichtigen:
+a) 
+
+die künftigen Mittelabflüsse, die ein Marktteilnehmer bei der Erfüllung der Verpflichtung erwarten würde, einschließlich der Gegenleistung, die der Marktteilnehmer für die Übernahme der Verpflichtung verlangen würde (siehe Paragraphen B31–B33),
+b) 
+
+den Betrag, den ein Marktteilnehmer für das Eingehen einer identischen Schuld oder das Begeben eines identischen Eigenkapitalinstruments erhalten würde. Dabei sind die Annahmen zugrunde zu legen, die Marktteilnehmer bei der Festlegung des Preises für den identischen Wert (z. B. mit den gleichen Kreditmerkmalen) im Hauptmarkt oder vorteilhaftesten Markt für die Ausgabe einer Schuld oder eines Eigenkapitalinstruments mit den gleichen Vertragsbedingungen verwenden würden.
+
+Risiko der Nichterfüllung
+
+42   Der beizulegende Zeitwert einer Schuld spiegelt die Auswirkung des Risikos der Nichterfüllung wider. Das Risiko der Nichterfüllung beinhaltet das eigene Ausfallrisiko eines Unternehmens (im Sinne von IFRS 7 Finanzinstrumente: Angaben), ist aber nicht darauf beschränkt. Es wird angenommen, dass das Risiko der Nichterfüllung vor und nach der Übertragung der Schuld gleich ist.
+
+43 Bei der Ermittlung des beizulegenden Zeitwerts einer Schuld hat ein Unternehmen die Auswirkung seines Ausfallrisikos (Bonität) und alle anderen Faktoren zu berücksichtigen, die die Wahrscheinlichkeit der Erfüllung oder Nichterfüllung der Verpflichtungen beeinflussen könnten. Diese Auswirkung kann je nach Art der Schuld unterschiedlich sein und beispielsweise davon abhängen,
+a) 
+
+ob die Schuld eine Verpflichtung zur Leistung einer Zahlung (finanzielle Verbindlichkeit) oder eine Verpflichtung zur Lieferung von Gütern oder Dienstleistungen (nicht finanzielle Verbindlichkeit) ist,
+b) 
+
+wie die Bedingungen etwaiger mit der Schuld verbundener Kreditsicherheiten sind.
+
+44 Der beizulegende Zeitwert einer Schuld spiegelt die Auswirkung des Risikos der Nichterfüllung auf der Grundlage ihrer Bilanzierungseinheit wider. Der Emittent einer Schuld, die mit einer untrennbaren Kreditsicherheit eines Dritten, die von der Schuld getrennt bilanziert wird, ausgegeben wurde, darf die Auswirkung der Kreditsicherheit (z. B. die Bürgschaft eines Dritten) bei der Bewertung der Schuld zum beizulegenden Zeitwert nicht berücksichtigen. Wird die Kreditsicherheit getrennt von der Schuld bilanziert, hätte der Emittent bei der Ermittlung des beizulegenden Zeitwerts der Schuld seine eigene Bonität und nicht die des Bürgen zu berücksichtigen.
+
+Einschränkung, die die Übertragung einer Schuld oder eines eigenen Eigenkapitalinstruments eines Unternehmens verhindert
+
+45 Besteht eine Einschränkung, die die Übertragung des betreffenden Werts verhindert, darf das Unternehmen bei der Ermittlung des beizulegenden Zeitwerts einer Schuld oder eines eigenen Eigenkapitalinstruments hierfür keinen separaten Eingangsparameter berücksichtigen oder eine Anpassung an anderen diesbezüglichen Eingangsparametern vornehmen. Die Auswirkung einer Beschränkung, die die Übertragung einer Schuld oder eines eigenen Eigenkapitalinstruments eines Unternehmens verhindert, ist entweder implizit oder explizit in den anderen Eingangsparametern für die Ermittlung des beizulegenden Zeitwerts enthalten.
+
+46 Zum Beispiel haben sowohl der Gläubiger als auch der Schuldner zum Zeitpunkt der Transaktion den Transaktionspreis für die Schuld akzeptiert – in voller Kenntnis des Umstands, dass die Schuld eine Einschränkung enthält, die deren Übertragung verhindert. Da die Einschränkung im Transaktionspreis berücksichtigt wurde, ist zur Abbildung der Auswirkung der Übertragungseinschränkung zum Zeitpunkt der Transaktion weder ein separater Eingangsparameter noch eine Anpassung eines bestehenden Eingangsparameters erforderlich. Ebensowenig ist an späteren Bewertungsstichtagen ein separater Eingangsparameter oder eine Anpassung bestehender Eingangsparameter erforderlich, um die Auswirkung der Übertragungseinschränkung widerzuspiegeln.
+
+Kurzfristig abrufbare finanzielle Verbindlichkeit
+
+47 Der beizulegende Zeitwert einer kurzfristig abrufbaren finanziellen Verbindlichkeit (z. B. einer Sichteinlage) ist nicht niedriger als der auf Sicht zahlbare Betrag, der vom ersten Tag an, an dem die Zahlung des Betrags verlangt werden könnte, abgezinst wird.
+
+Anwendung auf finanzielle Vermögenswerte und finanzielle Verbindlichkeiten mit kompensierenden Positionen hinsichtlich des Markt- oder Kontrahenten-Ausfallrisikos
+
+48 Ein Unternehmen, das eine Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten hält, ist Marktrisiken (im Sinne von IFRS 7) und dem Ausfallrisiko (im Sinne von IFRS 7) der jeweiligen Kontrahenten ausgesetzt. Steuert das Unternehmen die betreffende Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten auf Grundlage ihres durch Marktrisiken oder durch das Ausfallrisiko bedingten Nettorisikos, darf es bei der Ermittlung des beizulegenden Zeitwerts eine Ausnahme vom vorliegenden IFRS anwenden. Diese Ausnahme erlaubt es einem Unternehmen, den beizulegenden Zeitwert einer Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten auf Grundlage des Preises zu ermitteln, der bei einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag unter aktuellen Marktbedingungen beim Verkauf einer Netto-Long-Position (d. h. eines Vermögenswerts) für ein bestimmtes Risiko erzielt würde oder bei der Übertragung einer Netto-Short-Position (d. h. einer Schuld) für ein bestimmtes Risiko zu zahlen wäre. Dementsprechend hat ein Unternehmen den beizulegenden Zeitwert der Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten in gleicher Weise zu ermitteln, wie Marktteilnehmer die Nettorisikoposition am Bewertungsstichtag bepreisen würden.
+
+49 Ein Unternehmen darf die in Paragraph 48 beschriebene Ausnahme nur dann anwenden, wenn es alles Folgende unternimmt:
+a) 
+
+Es steuert die Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten auf Grundlage seines Nettorisikos aus einem bestimmten Marktrisiko (oder bestimmten Marktrisiken) oder aus dem Ausfallrisiko einer bestimmten Vertragspartei gemäß der dokumentierten Risikomanagement- oder Anlagestrategie des Unternehmens,
+b) 
+
+es gibt dem Management in Schlüsselpositionen (im Sinne von IAS 24 Angaben über Beziehungen zu nahestehenden Unternehmen und Personen) auf dieser Grundlage Auskunft über die Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten, und
+c) 
+
+es ist verpflichtet oder hat die Wahl getroffen, diese finanziellen Vermögenswerte und finanziellen Verbindlichkeiten in der Bilanz jedes Abschlussstichtags zum beizulegenden Zeitwert zu bewerten.
+
+50 Die Ausnahme in Paragraph 48 betrifft nicht die Darstellung des Abschlusses. In einigen Fällen unterscheidet sich die Grundlage für die Darstellung von Finanzinstrumenten in der Bilanz von der Grundlage für die Bewertung von Finanzinstrumenten. Dies ist z. B. der Fall, wenn ein IFRS keine saldierte Darstellung von Finanzinstrumenten verlangt oder gestattet. In solchen Fällen müsste ein Unternehmen die auf Portfolioebene vorgenommenen Anpassungen (siehe Paragraphen 53–56) den einzelnen Vermögenswerten oder Schulden zuordnen, die die Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten bilden, die auf Grundlage der Nettorisikoposition des Unternehmens gesteuert wird. Ein Unternehmen hat solche Zuordnungen auf angemessener und stetiger Basis unter Anwendung einer den Umständen angemessenen Methode vorzunehmen.
+
+51 Um die in Paragraph 48 beschriebene Ausnahme zu nutzen, hat ein Unternehmen eine Entscheidung für eine Rechnungslegungsmethode gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler zu treffen. Macht ein Unternehmen von der Ausnahme Gebrauch, hat es diese Rechnungslegungsmethode, einschließlich seiner Methode für die Zuordnung von Geld-/Brief-Anpassungen (siehe Paragraphen 53–55) und Ausfallsrisiko-Anpassungen (siehe Paragraph 56), soweit anwendbar, für ein bestimmtes Portfolio von Periode zu Periode stetig anzuwenden.
+
+52 Die Ausnahme in Paragraph 48 gilt nur für finanzielle Vermögenswerte, finanzielle Verbindlichkeiten und sonstige Verträge im Anwendungsbereich von IFRS 9 Finanzinstrumente (oder IAS 39 Finanzinstrumente: Ansatz und Bewertung, falls IFRS 9 noch nicht übernommen wurde). Die Bezugnahmen auf finanzielle Vermögenswerte und finanzielle Verbindlichkeiten in den Paragraphen 48–51 und 53–56 sollten unabhängig davon, ob sie der Definition von finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten in IAS 32 Finanzinstrumente: Darstellung entsprechen, als Bezugnahmen auf sämtliche Verträge verstanden werden, die in den Anwendungsbereich von IFRS 9 (oder IAS 39, falls IFRS 9 noch nicht übernommen wurde) fallen und nach diesen bilanziert werden.
+
+Marktrisiken
+
+53 Wird für die Ermittlung des beizulegenden Zeitwerts einer Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten, die auf Grundlage des Nettorisikos des Unternehmens aus einem bestimmten Marktrisiko (oder aus bestimmten Marktrisiken) gesteuert werden, die Ausnahme in Paragraph 48 in Anspruch genommen, hat das Unternehmen denjenigen Preis innerhalb der Geld-Brief-Spanne anzuwenden, der unter den gegebenen Umständen im Hinblick auf das Nettorisiko des Unternehmens aus diesen Marktrisiken für den beizulegenden Zeitwert am repräsentativsten ist (siehe Paragraphen 70 und 71).
+
+54 Macht ein Unternehmen von der Ausnahme in Paragraph 48 Gebrauch, hat es sicherzustellen, dass das Marktrisiko (oder die Marktrisiken), dem bzw. denen das Unternehmen innerhalb dieser Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten ausgesetzt ist, so gut wie das Gleiche ist. Ein Unternehmen würde beispielsweise nicht das mit einem finanziellen Vermögenswert verbundene Zinsänderungsrisiko und das mit einer finanziellen Verbindlichkeit verbundene Rohstoffpreisrisiko kombinieren, da dadurch das Zinsänderungsrisiko oder das Rohstoffpreisrisiko des Unternehmens nicht gemindert würde. Wenn von der Ausnahme in Paragraph 48 Gebrauch gemacht wird, ist jedes Basisrisiko, das aus nicht identischen Marktrisikoparametern resultiert, bei der Zeitwertbewertung der finanziellen Vermögenswerte und finanziellen Verbindlichkeiten der Gruppe zu berücksichtigen.
+
+55 Auch die Dauer des mit den finanziellen Vermögenswerten und finanziellen Verbindlichkeiten verbundenen Risikos des Unternehmens aus einem bestimmten Marktrisiko (oder aus bestimmten Marktrisiken), muss so gut wie die Gleiche sein. Ein Unternehmen, das beispielsweise einen 12-Monats-Terminkontrakt gegen die entsprechenden Zahlungsströme eines 12-Monats-Werts des Zinsänderungsrisikos eines Finanzinstruments mit einer Laufzeit von fünf Jahren innerhalb einer nur aus diesen finanziellen Vermögenswerten und finanziellen Verbindlichkeiten bestehenden Gruppe verwendet, ermittelt den beizulegenden Zeitwert des Risikos aus dem Zwölfmonats-Zinsänderungsrisiko auf Nettobasis und des verbleibenden Zinsänderungsrisikos (d. h. die Jahre 2–5) auf Bruttobasis.
+
+Ausfallrisiko einer bestimmten Vertragspartei
+
+56 Wird von der Ausnahme in Paragraph 48 Gebrauch gemacht, um den beizulegenden Zeitwert einer Gruppe finanzieller Vermögenswerte und finanzieller Verbindlichkeiten, die mit einer bestimmten Vertragspartei geschlossen wurden, zu ermitteln, hat das Unternehmen die Auswirkung auf sein Nettorisiko aus dem Ausfallrisiko dieser Vertragspartei oder das Nettorisiko der Vertragspartei aus dem Ausfallrisiko des Unternehmens bei der Bewertung zum beizulegenden Zeitwert zu berücksichtigen, wenn Marktteilnehmer etwaige Vereinbarungen zur Verringerung des Ausfallrisikos bei Zahlungsausfall (z. B. einen Globalverrechnungsvertrag mit dem Vertragspartner oder eine Vereinbarung, die den Tausch von Sicherheiten auf Grundlage des Nettorisikos jeder Partei aus dem Ausfallrisiko der anderen Partei verlangt) berücksichtigen würden. Die Bewertung zum beizulegenden Zeitwert hat die Erwartungen der Marktteilnehmer über die Wahrscheinlichkeit, dass eine solche Vereinbarung bei einem Ausfall rechtlich durchsetzbar wäre, widerzuspiegeln.
+
+Beizulegender Zeitwert beim erstmaligen Ansatz
+
+57 Wird in einem Tauschgeschäft ein Vermögenswert erworben oder eine Schuld übernommen, ist der Transaktionspreis der Preis, zu dem der betreffende Vermögenswert erworben oder die betreffende Schuld übernommen wurde (Zugangspreis). Im Gegensatz dazu ist der beizulegende Zeitwert des Vermögenswerts oder der Schuld der Preis, zu dem der Vermögenswert verkauft oder die Schuld übertragen würde (Abgangspreis). Unternehmen veräußern Vermögenswerte nicht unbedingt zu den Preisen, die sie für deren Erwerb gezahlt haben. Ebenso übertragen Unternehmen Schulden nicht unbedingt zu den Preisen, die sie für deren Übernahme erhalten haben.
+
+58 In vielen Fällen wird der Transaktionspreis dem beizulegenden Zeitwert entsprechen (dies kann z. B. der Fall sein, wenn zum Transaktionszeitpunkt der Kauf eines Vermögenswerts in dem Markt stattfindet, in dem dieser Vermögenswert auch verkauft würde.)
+
+59 Bei der Bestimmung, ob der beizulegende Zeitwert beim erstmaligen Ansatz dem Transaktionspreis entspricht, hat ein Unternehmen die für die Transaktion und die für den Vermögenswert oder die Schuld charakteristischen Faktoren zu berücksichtigen. In Paragraph B4 werden Fälle beschrieben, in denen der Transaktionspreis beim erstmaligen Ansatz nicht den beizulegenden Zeitwert eines Vermögenswerts oder einer Schuld repräsentieren könnte.
+
+60 Wird in einem anderen IFRS die erstmalige Bewertung eines Vermögenswerts oder einer Schuld zum beizulegenden Zeitwert verlangt oder gestattet und weicht der Transaktionspreis vom beizulegenden Zeitwert ab, hat das Unternehmen den resultierenden Gewinn oder Verlust erfolgswirksam zu erfassen, sofern der betreffende IFRS nichts anderes bestimmt.
+
+Bewertungsverfahren
+
+61   Ein Unternehmen hat Bewertungsverfahren zu verwenden, die unter den gegebenen Umständen angemessen sind und für die ausreichend Daten für die Bewertung zum beizulegenden Zeitwert zur Verfügung stehen, wobei so weit wie möglich auf relevante beobachtbare Eingangsparameter und so wenig wie möglich auf nicht beobachtbare Eingangsparameter zurückzugreifen ist.
+
+62 Die Zielsetzung bei der Verwendung eines Bewertungsverfahrens besteht darin, den Preis zu schätzen, zu dem ein gewöhnlicher Geschäftsvorfall zum Verkauf des Vermögenswerts oder zur Übertragung der Schuld zwischen Marktteilnehmern am Bewertungsstichtag unter aktuellen Marktbedingungen stattfinden würde. Drei weitverbreitete Bewertungsverfahren sind der marktbasierte Ansatz, der kostenbasierte Ansatz und der kapitalwertbasierte Ansatz. Die Hauptaspekte dieser Ansätze sind in den Paragraphen B5–B11 zusammengefasst. Für die Ermittlung des beizulegenden Zeitwerts hat ein Unternehmen Bewertungsverfahren anzuwenden, die mit einem oder mehreren der oben genannten Ansätze in Einklang stehen.
+
+63 In einigen Fällen wird ein einziges Bewertungsverfahren angemessen sein (z. B. bei der Bewertung eines Vermögenswerts oder einer Schuld anhand von Preisen, die in einem aktiven Markt für identische Vermögenswerte oder Schulden notiert sind). In anderen Fällen werden mehrere Bewertungsverfahren angemessen sein (dies kann z. B. bei der Bewertung einer zahlungsmittelgenerierenden Einheit der Fall sein). Werden zur Ermittlung des beizulegenden Zeitwerts mehrere Bewertungsverfahren herangezogen, sind die Ergebnisse (d. h. die entsprechenden Anhaltspunkte für den beizulegenden Zeitwert) unter Berücksichtigung der Plausibilität der durch diese Ergebnisse aufgezeigten Bandbreite von Werten zu beurteilen. Eine Bewertung zum beizulegenden Zeitwert ist der Punkt innerhalb der Bandbreite, der den beizulegenden Zeitwert unter den gegebenen Umständen am besten repräsentiert.
+
+64 Entspricht beim erstmaligen Ansatz der Transaktionspreis dem beizulegenden Zeitwert und wird in Folgeperioden ein Bewertungsverfahren angewandt, das nicht beobachtbare Eingangsparameter nutzt, ist das Bewertungsverfahren so zu kalibrieren, dass das Ergebnis des betreffenden Bewertungsverfahrens beim erstmaligen Ansatz dem Transaktionspreis entspricht. Mit der Kalibrierung wird sichergestellt, dass das Bewertungsverfahren aktuelle Marktbedingungen widerspiegelt. Zudem unterstützt sie ein Unternehmen bei der Bestimmung, ob eine Anpassung des Bewertungsverfahrens notwendig ist (z. B. wenn der Vermögenswert oder die Schuld ein von dem Bewertungsverfahren nicht erfasstes Merkmal aufweisen). Wendet ein Unternehmen bei der Bewertung zum beizulegenden Zeitwert ein Bewertungsverfahren an, das nicht beobachtbare Eingangsparameter nutzt, muss es im Anschluss an den erstmaligen Ansatz dafür sorgen, dass die betreffenden Bewertungsverfahren zum Bewertungsstichtag beobachtbare Marktdaten widerspiegeln (d. h. den Preis für ähnliche Vermögenswerte oder Schulden).
+
+65 Die zur Ermittlung des beizulegenden Zeitwerts verwendeten Bewertungsverfahren sind stetig anzuwenden. Eine Änderung an einem Bewertungsverfahren oder an seiner Anwendung (z. B. eine Änderung seiner Gewichtung bei Verwendung mehrerer Bewertungsverfahren oder eine Änderung an einer an einem Bewertungsverfahren vorgenommenen Anpassung) ist jedoch angemessen, wenn die Änderung zu einer Bewertung führt, die unter den gegebenen Umständen den beizulegenden Zeitwert gleich gut oder besser repräsentiert. Dies kann der Fall sein, wenn beispielsweise eines der folgenden Ereignisse eintritt:
+a) 
+
+neue Märkte werden erschlossen,
+b) 
+
+neue Informationen sind verfügbar,
+c) 
+
+bisher verwendete Informationen sind nicht mehr verfügbar,
+d) 
+
+Bewertungsverfahren werden verbessert oder
+e) 
+
+Marktbedingungen ändern sich.
+
+66 Überarbeitungen, die aus einer Änderung bei dem Bewertungsverfahren oder seiner Anwendung resultieren, sind als Änderung einer rechnungslegungsbezogenen Schätzung gemäß IAS 8 zu bilanzieren. Die in IAS 8 verlangten Angaben bei Änderung einer rechnungslegungsbezogenen Schätzung sind jedoch nicht erforderlich für Überarbeitungen, die aus einer Änderung bei dem Bewertungsverfahren oder dessen Anwendung resultieren.
+
+Eingangsparameter für Bewertungsverfahren
+
+Allgemeine Grundsätze
+
+67   Bei den zur Ermittlung des beizulegenden Zeitwerts verwendeten Bewertungsverfahren ist so weit wie möglich auf relevante beobachtbare Eingangsparameter und so wenig wie möglich auf nicht beobachtbare Eingangsparameter zurückzugreifen.
+
+68 Märkte, in denen für bestimmte Vermögenswerte und Schulden (z. B. Finanzinstrumente) Eingangsparameter beobachtbar sein könnten, sind u. a. Börsen, Händlermärkte („dealer markets“), Vermittlermärkte („brokered markets“) und Direktmärkte („principal-to-principal markets“) (siehe Paragraph B34).
+
+69 Ein Unternehmen hat Eingangsparameter zu wählen, die denjenigen Merkmalen des Vermögenswerts oder der Schuld entsprechen, die Marktteilnehmer bei einem Geschäftsvorfall im Zusammenhang mit dem betreffenden Vermögenswert oder der betreffenden Schuld berücksichtigen würden (siehe Paragraphen 11 und 12). Solche Merkmale führen in einigen Fällen dazu, dass eine Anpassung in Form eines Aufschlags oder Abschlags vorgenommen wird, (z. B. ein Aufschlag für die Beherrschung oder ein Abschlag bei nicht beherrschenden Anteilen). In eine Bewertung zum beizulegenden Zeitwert sind jedoch keine Auf- oder Abschläge einzubeziehen, die nicht mit der Bilanzierungseinheit in dem IFRS übereinstimmen, der eine Bewertung zum beizulegenden Zeitwert verlangt oder gestattet (siehe Paragraphen 13 und 14). Auf- oder Abschläge, die Größe als ein Merkmal für einen Bestand des Unternehmens (insbesondere ein Paketabschlag, der den notierten Preis eines Vermögenswerts oder einer Schuld anpasst, weil das normale tägliche Handelsvolumen des Marktes nicht ausreicht, um die von dem Unternehmen gehaltene Menge gemäß Paragraph 80 zu absorbieren), und nicht als ein Merkmal des Vermögenswerts oder der Schuld (z. B. ein Aufschlag für die Beherrschung bei der Ermittlung des beizulegenden Zeitwerts eines beherrschenden Anteils) widerspiegeln, sind bei einer Bewertung zum beizulegenden Zeitwert nicht zulässig. In allen Fällen, in denen es für einen Vermögenswert oder eine Schuld einen notierten Preis an einem aktiven Markt (d. h. einen Eingangsparameter der Stufe 1) gibt, hat ein Unternehmen diesen Preis bei der Ermittlung des beizulegenden Zeitwerts ohne Anpassung zu verwenden, sofern nicht die in Paragraph 79 beschriebenen Umstände vorliegen.
+
+Eingangsparameter auf der Grundlage von Geld- und Briefkursen
+
+70 Besteht für einen zum beizulegenden Zeitwert bewerteten Vermögenswert oder eine zum beizulegenden Zeitwert bewertete Schuld ein Geld- und ein Briefkurs (z. B. ein Eingangsparameter eines Händlermarktes), ist zur Ermittlung des beizulegenden Zeitwerts der Preis innerhalb der Geld-Brief-Spanne zu verwenden, der den beizulegenden Zeitwert unter den gegebenen Umständen am besten repräsentiert. Dabei spielt es keine Rolle, welcher Stufe der Fair-Value-Hierarchie der Eingangsparameter zugeordnet wird (d. h. Stufe 1, 2, oder 3, siehe Paragraphen 72–90). Die Verwendung von Geldkursen für Vermögenspositionen und Briefkursen für Schuldpositionen ist zulässig, aber nicht vorgeschrieben.
+
+71 Der vorliegende IFRS schließt die Nutzung von Mittelkursen oder anderen Bepreisungskonventionen, die von Marktteilnehmern als praktischer Behelf für die Bewertung zum beizulegenden Zeitwert innerhalb der Geld-Brief-Spanne herangezogen werden, nicht aus.
+
+Fair-Value-Hierarchie
+
+72 Um die Stetigkeit und Vergleichbarkeit bei Bewertungen zum beizulegenden Zeitwert und den zugehörigen Angaben zu erhöhen, wird im vorliegenden IFRS eine Hierarchie für den beizulegenden Zeitwert (sog. „Fair-Value-Hierarchie“) festgelegt. Diese Hierarchie teilt die in den Bewertungsverfahren für die Bewertung zum beizulegenden Zeitwert verwendeten Eingangsparameter in drei Stufen ein (siehe Paragraphen 76–90). Bei der Fair-Value-Hierarchie wird den an aktiven Märkten für identische Vermögenswerte oder Schulden notierten (unverändert übernommenen) Preisen (Eingangsparameter der Stufe 1) die höchste Priorität eingeräumt, während nicht beobachtbare Eingangsparameter die niedrigste Priorität erhalten (Eingangsparameter der Stufe 3).
+
+73 In einigen Fällen können die zur Ermittlung des beizulegenden Zeitwerts eines Vermögenswerts oder einer Schuld verwendeten Eingangsparameter verschiedenen Stufen der Fair-Value-Hierarchie zugeordnet werden. In solchen Fällen wird die Bewertung zum beizulegenden Zeitwert insgesamt der gleichen Hierarchiestufe zugeordnet wie der Eingangsparameter der niedrigsten Stufe, der für die Bewertung als Ganzes von Bedeutung ist. Die Beurteilung der Bedeutung eines bestimmten Eingangsparameters für die Bewertung insgesamt erfordert Ermessensausübung. Hierbei sind die für den Vermögenswert oder die Schuld charakteristischen Faktoren zu berücksichtigen. Bei der Bestimmung, welcher Hierarchiestufe eine Bewertung zum beizulegenden Zeitwert zuzuordnen ist, dürfen Anpassungen, die zu zeitwertbasierten Bewertungen führen, nicht berücksichtigt werden, wie Veräußerungskosten, die bei der Ermittlung des beizulegenden Zeitwerts abzüglich der Veräußerungskosten berücksichtigt werden.
+
+74 Die Verfügbarkeit relevanter Eingangsparameter und deren relative Subjektivität könnten die Wahl angemessener Bewertungsverfahren beeinflussen (siehe Paragraph 61). In der Fair-Value-Hierarchie wird jedoch den in die Bewertungsverfahren einfließenden Eingangsparametern und nicht den zur Ermittlung des beizulegenden Zeitwerts verwendeten Bewertungsverfahren Vorrang gegeben. Beispielsweise könnte eine Bewertung zum beizulegenden Zeitwert, bei der ein Barwertverfahren verwendet wird, der Stufe 2 oder der Stufe 3 zugeordnet werden, je nachdem, welche Eingangsparameter für die Bewertung als Ganzes von Bedeutung sind und welcher Hierarchiestufe diese Parameter zugeordnet werden.
+
+75 Wenn ein beobachtbarer Eingangsparameter eine Anpassung erfordert, bei der ein nicht beobachtbarer Eingangsparameter zum Einsatz kommt, und wenn diese Anpassung zu einer wesentlich höheren oder niedrigeren Zeitwertbewertung führt, würde die daraus resultierende Bewertung der Hierarchiestufe 3 zugeordnet. Würde ein Marktteilnehmer beispielsweise bei der Schätzung des Preises für einen Vermögenswert die Auswirkung einer Verkaufsbeschränkung für den Vermögenswert berücksichtigen, dann würde ein Unternehmen den notierten Preis anpassen, um die Auswirkung dieser Beschränkung widerzuspiegeln. Handelt es sich bei diesem notierten Preis um einen Eingangsparameter der Stufe 2 und ist die Anpassung ein nicht beobachtbarer Eingangsparameter, der für die Bewertung als Ganzes von Bedeutung ist, würde die Bewertung der Hierarchiestufe 3 zugeordnet.
+
+Eingangsparameter der Stufe 1
+
+76 Eingangsparameter der Stufe 1 sind die an aktiven Märkten für identische Vermögenswerte oder Schulden notierten (unverändert übernommenen) Preise, auf die das Unternehmen am Bewertungsstichtag zugreifen kann.
+
+77 Ein an einem aktiven Markt notierter Preis liefert den verlässlichsten Anhaltspunkt für den beizulegenden Zeitwert und ist, wann immer verfügbar, ohne Anpassung bei der Ermittlung des beizulegenden Zeitwerts zu verwenden. Ausgenommen sind die in Paragraph 79 beschriebenen Umstände.
+
+78 Ein Eingangsparameter der Stufe 1 wird für viele finanzielle Vermögenswerte und finanzielle Verbindlichkeiten verfügbar sein, von denen einige auf mehreren aktiven Märkten ausgetauscht werden könnten (z. B. an unterschiedlichen Börsen). Aus diesem Grund liegt auf Stufe 1 der Schwerpunkt auf der Bestimmung der beiden folgenden Aspekte:
+a) 
+
+welches der Hauptmarkt für den Vermögenswert oder die Schuld ist oder – in Ermangelung eines Hauptmarkts – welches der vorteilhafteste Markt für den Vermögenswert oder die Schuld ist, und
+b) 
+
+ob das Unternehmen am Bewertungsstichtag zu dem Preis an diesem Markt eine Transaktion mit dem Vermögenswert oder der Schuld abschließen kann.
+
+79 Unternehmen dürfen nur unter folgenden Umständen eine Anpassung an einem Eingangsparameter der Stufe 1 vornehmen:
+a) 
+
+wenn ein Unternehmen eine große Anzahl ähnlicher (aber nicht identischer) Vermögenswerte oder Schulden (z. B. Schuldverschreibungen) hält, die zum beizulegenden Zeitwert bewertet werden und ein an einem aktiven Markt notierter Preis verfügbar, aber nicht für jeden einzelnen dieser Vermögenswerte oder Schulden ohne Weiteres zugänglich ist (d. h. bei der großen Anzahl der vom Unternehmen gehaltenen ähnlichen Vermögenswerte oder Schulden wäre es schwierig, am Bewertungsstichtag Preisinformationen für jeden einzelnen Vermögenswert oder jede einzelne Schuld einzuholen). In diesem Fall kann ein Unternehmen den beizulegenden Zeitwert behelfsweise mit einer alternativen Bepreisungsmethode ermitteln, die sich nicht ausschließlich auf notierte Preise stützt (z. B. Matrix-Preismodelle). Die Anwendung einer alternativen Bepreisungsmethode führt jedoch dazu, dass die Bewertung zum beizulegenden Zeitwert einer niedrigeren Stufe in der Fair-Value-Hierarchie zugeordnet wird.
+b) 
+
+wenn ein an einem aktiven Markt notierter Preis zum Bewertungsstichtag nicht den beizulegenden Zeitwert repräsentiert. Dies kann beispielsweise dann der Fall sein, wenn bedeutende Ereignisse (wie Geschäftsvorfälle in einem Direktmarkt, Handel in einem Vermittlermarkt oder Bekanntgaben) nach Marktschluss, aber vor dem Bewertungsstichtag eintreten. Ein Unternehmen muss zur Ermittlung dieser Ereignisse, die sich auf Bewertungen zum beizulegenden Zeitwert auswirken könnten, eine unternehmenseigene Methode festlegen und stetig anwenden. Wird der notierte Preis jedoch aufgrund neuer Informationen angepasst, führt diese Anpassung dazu, dass die Bewertung zum beizulegenden Zeitwert einer niedrigeren Stufe in der Fair-Value-Hierarchie zugeordnet wird.
+c) 
+
+wenn der beizulegende Zeitwert einer Schuld oder eines eigenen Eigenkapitalinstruments eines Unternehmens anhand des Preises ermittelt wird, der für einen identischen, an einem aktiven Markt als Vermögenswert gehandelten Posten notiert ist, und dieser Preis aufgrund von Faktoren angepasst werden muss, die für den betreffenden Posten bzw. Vermögenswert charakteristisch sind (siehe Paragraph 39). Ist keine Anpassung erforderlich, ergibt sich eine Bewertung zum beizulegenden Zeitwerts auf Stufe 1 der Fair-Value-Hierarchie. Jede Anpassung des notierten Preises des Vermögenswerts führt jedoch dazu, dass die Bewertung zum beizulegenden Zeitwert einer niedrigeren Stufe in der Fair-Value-Hierarchie zugeordnet wird.
+
+80 Wenn ein Unternehmen eine Position an einem einzigen Vermögenswert oder einer einzigen Schuld hält (eingeschlossen sind Positionen, die eine große Zahl identischer Vermögenswerte oder Schulden umfassen, z. B. ein Bestand an Finanzinstrumenten) und dieser Vermögenswert oder diese Schuld an einem aktiven Markt gehandelt wird, ist der beizulegende Zeitwert des Vermögenswerts oder der Schuld auf Stufe 1 als Produkt aus dem für den einzelnen Vermögenswert oder die einzelne Schuld notierten Marktpreis und der vom Unternehmen gehaltenen Menge zu ermitteln. Dies ist auch dann der Fall, wenn das normale tägliche Handelsvolumen eines Markts nicht ausreicht, um die gehaltene Menge zu absorbieren und sich Auftragserteilungen zur Veräußerung der Position in einer einzigen Transaktion auf den notierten Preis auswirken könnten.
+
+Eingangsparameter der Stufe 2
+
+81 Eingangsparameter der Stufe 2 sind andere als die in Stufe 1 enthaltenen notierten Preise, die für den Vermögenswert oder die Schuld entweder direkt oder indirekt beobachtbar sind.
+
+82 Hat der Vermögenswert oder die Schuld eine festgelegte (vertragliche) Laufzeit, muss ein Eingangsparameter der Stufe 2 für so gut wie die gesamte Laufzeit des Vermögenswerts oder der Schuld beobachtbar sein. Eingangsparameter der Stufe 2 beinhalten:
+a) 
+
+an aktiven Märkten für ähnliche Vermögenswerte oder Schulden notierte Preise,
+b) 
+
+an nicht aktiven Märkten für identische oder ähnliche Vermögenswerte oder Schulden notierte Preise,
+c) 
+
+andere Eingangsparameter als notierte Preise, die für den Vermögenswert oder die Schuld beobachtbar sind, z. B.:
+i) 
+
+in üblichen Intervallen beobachtbare Zinssätze und Renditekurven,
+ii) 
+
+implizite Volatilitäten und
+iii) 
+
+Kreditspreads.
+d) 
+
+marktgestützte Eingangsparameter.
+
+83 Anpassungen an Eingangsparametern der Stufe 2 werden je nach den für den Vermögenswert oder die Schuld charakteristischen Faktoren variieren. Diese Faktoren sind unter anderem:
+a) 
+
+Zustand oder Standort des Vermögenswerts,
+b) 
+
+der Umfang, in dem sich Eingangsparameter auf Posten beziehen, die mit dem Vermögenswert oder der Schuld vergleichbar sind (einschließlich der in Paragraph 39 beschriebenen Faktoren), und
+c) 
+
+das Volumen oder das Ausmaß der Aktivität an den Märkten, an denen die Eingangsparameter beobachtet werden.
+
+84 Eine Anpassung an einem Eingangsparameter der Stufe 2, die für die Bewertung als Ganzes von Bedeutung ist, könnte dazu führen, dass eine Bewertung zum beizulegenden Zeitwert der Stufe 3 der Fair-Value-Hierarchie zugeordnet wird, wenn sich die Anpassung auf wesentliche, nicht beobachtbare Eingangsparameter stützt.
+
+85 Paragraph B35 beschreibt die Verwendung von Eingangsparametern der Stufe 2 bei bestimmten Vermögenswerten und Schulden.
+
+Eingangsparameter der Stufe 3
+
+86 Eingangsparameter der Stufe 3 sind Eingangsparameter, die für den Vermögenswert oder die Schuld nicht beobachtbar sind.
+
+87 Nicht beobachtbare Eingangsparameter sind in dem Umfang zur Ermittlung des beizulegenden Zeitwerts heranzuziehen, in dem keine relevanten beobachtbaren Eingangsparameter verfügbar sind. Hierdurch wird auch Situationen Rechnung getragen, in denen für den Vermögenswert oder die Schuld am Bewertungsstichtag wenig oder keine Marktaktivität besteht. Die Zielsetzung der Bewertung zum beizulegenden Zeitwert bleibt jedoch gleich, d. h. am Bewertungsstichtag einen Abgangspreis aus der Sicht eines Marktteilnehmers zu ermitteln, der den Vermögenswert hält oder die Schuld begleichen muss. Nicht beobachtbare Eingangsparameter haben also die Annahmen, einschließlich der Annahmen zum Risiko widerzuspiegeln, die die Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert oder die Schuld zugrunde legen würden.
+
+88 Annahmen zum Risiko umfassen das mit einem bestimmten Bewertungsverfahren zur Ermittlung des beizulegenden Zeitwerts (wie ein Preismodell) verbundene Risiko und das mit den in das Bewertungsverfahren einfließenden Eingangsparametern verbundene Risiko. Eine Bewertung, bei der keine Risikoanpassung vorgenommen wird, obwohl Marktteilnehmer diese bei Festlegung des Preises des Vermögenswerts oder der Schuld berücksichtigen würden, stellt keine Bewertung zum beizulegenden Zeitwert dar. Eine Risikoanpassung könnte z. B. notwendig sein, wenn erhebliche Bewertungsunsicherheiten bestehen (z. B. wenn das Volumen oder Ausmaß an Marktaktivität im Vergleich zur normalen Marktaktivität für die betreffenden oder ähnliche Vermögenswerte oder Schulden erheblich zurückgegangen ist und das Unternehmen bestimmt hat, dass der Transaktionspreis oder der notierte Preis nicht den beizulegenden Zeitwert repräsentiert (wie in den Paragraphen B37–B47 beschrieben).
+
+89 Ein Unternehmen hat unter Verwendung der unter den gegebenen Umständen am besten verfügbaren Informationen, die eigene Daten des Unternehmens umfassen könnten, nicht beobachtbare Eingangsparameter zu entwickeln. Bei der Entwicklung nicht beobachtbarer Eingangsparameter kann ein Unternehmen mit seinen eigenen Daten beginnen, muss diese aber anpassen, wenn bei vertretbarem Aufwand verfügbare Informationen darauf hinweisen, dass andere Marktteilnehmer andere Daten verwenden würden, oder wenn das Unternehmen eine Besonderheit aufweist, die andere Marktteilnehmer nicht haben (wie eine unternehmensspezifische Synergie). Um Informationen über die Annahmen von Marktteilnehmern einzuholen, braucht ein Unternehmen keine allumfassenden Anstrengungen zu unternehmen. Es hat jedoch alle Informationen über Annahmen von Marktteilnehmern zu berücksichtigen, die bei vertretbarem Aufwand verfügbar sind. Nicht beobachtbare Eingangsparameter, die in der oben beschriebenen Weise hergeleitet wurden, gelten als Annahmen von Marktteilnehmern und erfüllen die Zielsetzung einer Bewertung zum beizulegenden Zeitwert.
+
+90 Paragraph B36 beschreibt die Verwendung von Eingangsparametern der Stufe 3 bei bestimmten Vermögenswerten und Schulden.
+
+ANGABEN
+
+91   Ein Unternehmen muss Informationen angeben, die den Abschlussadressaten helfen, die beiden folgenden Punkte zu beurteilen:
+a) 
+
+bei Vermögenswerten und Schulden, die in der Bilanz nach dem erstmaligen Ansatz regelmäßig oder einmalig zum beizulegenden Zeitwert bewertet werden, die Bewertungsverfahren und die zur Entwicklung dieser Bewertungen verwendeten Eingangsparameter,
+b) 
+
+bei regelmäßigen Bewertungen zum beizulegenden Zeitwert, bei denen bedeutende nicht beobachtbare Eingangsparameter verwendet wurden (Stufe 3), die Auswirkung der Bewertungen auf den Gewinn oder Verlust oder auf das sonstige Ergebnis der Periode.
+
+92 Zur Erfüllung der in Paragraph 91 genannten Zielsetzungen hat ein Unternehmen alle folgenden Punkte zu berücksichtigen:
+a) 
+
+den zur Erfüllung der Angabepflichten notwendigen Detaillierungsgrad,
+b) 
+
+wieviel Gewicht auf jede der verschiedenen Vorschriften zu legen ist,
+c) 
+
+in welchem Umfang Zusammenfassungen oder Aufgliederungen vorzunehmen sind und
+d) 
+
+ob die Abschlussadressaten zusätzliche Informationen benötigen, um die angegebenen quantitativen Informationen zu beurteilen.
+
+Reichen die gemäß diesem und anderen IFRS vorgelegten Angaben zur Erfüllung der Zielsetzungen in Paragraph 91 nicht aus, hat ein Unternehmen zusätzliche Informationen anzugeben, um diese Zielsetzungen zu erfüllen.
+
+93 Zur Erfüllung der in Paragraph 91 genannten Zielsetzungen hat ein Unternehmen für jede Klasse von Vermögenswerten und Schulden (siehe Paragraph 94 bezüglich Informationen zur Bestimmung geeigneter Klassen von Vermögenswerten und Schulden), die in der Bilanz nach dem erstmaligen Ansatz zum beizulegenden Zeitwert bewertet werden (einschließlich auf beizulegendem Zeitwert basierende Bewertungen im Anwendungsbereich dieses IFRS), zumindest Folgendes anzugeben:
+a) 
+
+bei regelmäßigen und einmaligen Bewertungen zum beizulegenden Zeitwert die Zeitwertbewertung am Abschlussstichtag und bei einmaligen Bewertungen zum beizulegenden Zeitwert die Gründe für die Bewertung. Regelmäßige Bewertungen von Vermögenswerten oder Schulden zum beizulegenden Zeitwert sind solche, die andere IFRS für die Bilanz zu jedem Abschlussstichtag verlangen oder gestatten. Einmalige Bewertungen von Vermögenswerten oder Schulden zum beizulegenden Zeitwert sind solche, die andere IFRS für die Bilanz unter bestimmten Umständen (z. B. wenn ein Unternehmen gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche einen zur Veräußerung gehaltenen Vermögenswert zum beizulegenden Zeitwert abzüglich Veräußerungskosten bewertet, weil der beizulegende Zeitwert abzüglich Veräußerungskosten des betreffenden Vermögenswerts niedriger als dessen Buchwert ist) verlangen oder gestatten.
+b) 
+
+bei regelmäßigen und einmaligen Bewertungen zum beizulegenden Zeitwert die Stufe der Fair-Value-Hierarchie, der die Bewertungen zum beizulegenden Zeitwert in ihrer Gesamtheit zugeordnet werden (Stufe 1, 2 oder 3).
+c) 
+
+bei am Abschlussstichtag gehaltenen Vermögenswerten und Schulden, die regelmäßig zum beizulegenden Zeitwert bewertet werden, die Beträge aller etwaigen Umgliederungen zwischen Stufe 1 und Stufe 2 der Fair-Value-Hierarchie, die Gründe für diese Umgliederungen und die Methode des Unternehmens zur Bestimmung, wann Umgliederungen zwischen den Stufen als stattgefunden gelten (siehe Paragraph 95). Umgliederungen in die einzelnen Stufen sind gesondert von Umgliederungen aus den einzelnen Stufen anzugeben und zu erläutern.
+d) 
+
+bei regelmäßigen und einmaligen Bewertungen zum beizulegenden Zeitwert, die Stufe 2 und Stufe 3 der Fair-Value-Hierarchie zugeordnet sind, eine Beschreibung des/der Bewertungsverfahren(s) und die bei der Bewertung zum beizulegenden Zeitwert verwendeten Eingangsparameter. Wurde das Bewertungsverfahren geändert (z. B. von einem markbasierten Ansatz zu einem kapitalwertbasierten Ansatz oder ein zusätzliches Bewertungsverfahren verwendet), hat das Unternehmen diese Änderung anzugeben und zu begründen. Bei Bewertungen zum beizulegenden Zeitwert, die Stufe 3 der Fair-Value-Hierarchie zugeordnet sind, hat das Unternehmen quantitative Informationen über bedeutende, nicht beobachtbare Eingangsparameter vorzulegen, die bei der Ermittlung des beizulegenden Zeitwerts verwendet wurden. Ein Unternehmen muss zur Erfüllung seiner Angabepflicht keine quantitativen Informationen erzeugen, falls quantitative nicht beobachtbare Eingangsparameter bei der Ermittlung des beizulegenden Zeitwerts durch das Unternehmen nicht hergeleitet werden (z. B. wenn ein Unternehmen Preise früherer Geschäftsvorfälle oder Preisinformationen eines Dritten ohne Anpassung verwendet). Bei der Bereitstellung dieser Angabe darf ein Unternehmen jedoch quantitative, nicht beobachtbare Eingangsparameter, die für die Ermittlung des beizulegenden Zeitwerts von Bedeutung sind und dem Unternehmen bei vertretbarem Aufwand zur Verfügung stehen, nicht ignorieren.
+e) 
+
+bei regelmäßigen, Stufe 3 der Fair-Value-Hierarchie zugeordneten Bewertungen zum beizulegenden Zeitwert eine Überleitungsrechnung von den Eröffnungs- zu den Schlusssalden mit gesonderter Angabe der in der Periode angefallenen Veränderungen, die zurückzuführen sind auf
+i) 
+
+die gesamten Gewinne oder Verluste der Periode, die erfolgswirksam erfasst wurden und der/die Posten der Gewinn- und Verlustrechnung/Gesamtergebnisrechnung, in dem/denen diese Gewinne oder Verluste erfasst sind,
+ii) 
+
+die gesamten Gewinne oder Verluste der Periode, die im sonstigen Ergebnis erfasst wurden und der/die Posten der Gesamtergebnisrechnung, in dem/denen jene Gewinne oder Verluste erfasst sind,
+iii) 
+
+Käufe, Verkäufe, Emissionen und Rückzahlungen/Rückführungen (wobei jede dieser Arten von Änderungen gesondert anzugeben ist),
+iv) 
+
+die Beträge aller Umgliederungen in oder aus Stufe 3 der Fair-Value-Hierarchie, die Gründe für diese Umgliederungen und die Methode des Unternehmens zur Bestimmung, wann Umgliederungen zwischen den Stufen als stattgefunden gelten (siehe Paragraph 95). Umgliederungen in die Stufe 3 sind gesondert von Umgliederungen aus der Stufe 3 anzugeben und zu erläutern.
+f) 
+
+bei regelmäßigen, Stufe 3 der Fair-Value-Hierarchie zugeordneten Bewertungen zum beizulegenden Zeitwert die unter (e)(i) angegebene Summe der erfolgswirksam erfassten Gewinne oder Verluste der Periode, der auf die Veränderung nicht realisierter Gewinne oder Verluste aus am Abschlussstichtag gehaltenen Vermögenswerten und Schulden entfällt, sowie der/die Posten der Gewinn- und Verlustrechnung/Gesamtergebnisrechnung, in dem/denen diese nicht realisierten Gewinne oder Verluste erfasst sind.
+g) 
+
+bei regelmäßigen und einmaligen, Stufe 3 der Fair-Value-Hierarchie zugeordneten Bewertungen zum beizulegenden Zeitwert eine Beschreibung der vom Unternehmen verwendeten Bewertungsprozesse (darunter wie ein Unternehmen z. B. seine Bewertungsmethoden und Verfahren bestimmt und Veränderungen in der Bewertung zum beizulegenden Zeitwert von Periode zu Periode analysiert).
+h) 
+
+bei regelmäßigen, Stufe 3 der Fair-Value-Hierarchie zugeordneten Bewertungen zum beizulegenden Zeitwert:
+i) 
+
+bei allen Bewertungen dieser Art eine ausführliche Beschreibung der Sensitivität der Bewertungen zum beizulegenden Zeitwert gegenüber Änderungen nicht beobachtbarer Eingangsparameter, falls eine Änderung solcher Eingangsparameter in einen anderen Betrag zu einer signifikant höheren oder niedrigeren Bewertung zum beizulegenden Zeitwert führen könnte. Bestehen zwischen den genannten Eingangsparametern und anderen nicht beobachtbaren Eingangsparametern, die bei der Bewertung zum beizulegenden Zeitwert zum Einsatz kommen, wechselseitige Zusammenhänge, hat ein Unternehmen außerdem diese wechselseitigen Zusammenhänge und wie sie die Auswirkung der Änderungen nicht beobachtbarer Eingangsparameter auf die Bewertung zum beizulegenden Zeitwert vergrößern oder mindern könnten, zu beschreiben. Zur Erfüllung dieser Angabepflicht muss die ausführliche Beschreibung der Sensitivität gegenüber den Änderungen nicht beobachtbarer Eingangsparameter wenigstens die nicht beobachtbaren Eingangsparameter, die zur Erfüllung der Anforderungen in (d) angegeben werden, enthalten.
+ii) 
+
+würde sich bei finanziellen Vermögenswerten und finanziellen Verbindlichkeiten der beizulegende Zeitwert signifikant ändern, wenn ein oder mehrere nicht beobachtbare Eingangsparameter durch angemessenerweise für möglich gehaltene Alternativen ersetzt werden, hat ein Unternehmen diese Tatsache und die Auswirkungen dieser Änderungen anzugeben. Das Unternehmen muss angeben, wie es die Auswirkung einer Änderung auf eine angemessenerweise für möglich gehaltene Alternative berechnet hat. Zu diesem Zweck ist signifikant mit Blick auf den Gewinn oder Verlust und die Summe der Vermögenswerte oder Summe der Schulden bzw. wenn die Änderungen des beizulegenden Zeitwerts im sonstigen Ergebnis erfasst werden, auf die Summe des Eigenkapitals zu beurteilen.
+i) 
+
+falls bei regelmäßigen und einmaligen Bewertungen zum beizulegenden Zeitwert die höchst- und bestmögliche Nutzung eines nichtfinanziellen Vermögenswerts von seiner gegenwärtigen Nutzung abweicht, hat ein Unternehmen dies anzugeben und zu begründen, warum der nichtfinanzielle Vermögenswert in einer Weise genutzt wird, die von der höchst- und bestmöglichen Nutzung abweicht.
+
+94 Ein Unternehmen hat auf folgender Grundlage geeignete Klassen von Vermögenswerten und Schulden zu bestimmen:
+a) 
+
+nach Art, Merkmalen und Risiken des Vermögenswerts oder der Schuld und
+b) 
+
+nach der Hierarchiestufe, der die Bewertung zum beizulegenden Zeitwert zugeordnet ist.
+
+Bei Bewertungen zum beizulegenden Zeitwert auf Stufe 3 der Fair-Value-Hierarchie muss die Anzahl der Klassen eventuell größer sein, weil diesen Bewertungen ein höherer Grad an Unsicherheit und Subjektivität anhaftet. Bei der Bestimmung angemessener Klassen von Vermögenswerten und Schulden, für die Angaben zu Bewertungen zum beizulegenden Zeitwert vorzulegen sind, ist Ermessensausübung erforderlich. Bei einer Klasse von Vermögenswerten und Schulden ist häufig eine stärkere Aufgliederung erforderlich als bei den in der Bilanz dargestellten Posten. Ein Unternehmen hat jedoch genügend Angaben bereitzustellen, um eine Überleitungsrechnung auf die in der Bilanz dargestellten Posten zu ermöglichen. Wird in einem anderen IFRS für einen Vermögenswert oder eine Schuld eine Klasse vorgegeben, kann ein Unternehmen unter der Bedingung, dass die betreffende Klasse die Anforderungen in diesem Paragraphen erfüllt, diese Klasse bei der Bereitstellung der im vorliegenden IFRS verlangten Angaben verwenden.
+
+95 Ein Unternehmen hat seine Methode zur Bestimmung des Zeitpunkts, zu dem Umgliederungen zwischen Hierarchiestufen als stattgefunden gelten, gemäß Paragraph 93(c) und (e)(iv) anzugeben und stetig anzuwenden. Die Methode zur Bestimmung des Zeitpunkts der Erfassung von Umgliederungen muss für Umgliederungen in Stufen und Umgliederungen aus Stufen dieselbe sein. Es folgen Beispiele für Methoden zur Bestimmung des Zeitpunkts von Umgliederungen:
+a) 
+
+das Datum des Ereignisses oder der Veränderung der Umstände, das/die die Umgliederung verursacht hat,
+b) 
+
+der Beginn der Berichtsperiode,
+c) 
+
+das Ende der Berichtsperiode.
+
+96 Trifft ein Unternehmen bezüglich seiner Rechnungslegungsmethode die Entscheidung, die in Paragraph 48 vorgesehene Ausnahme zu nutzen, hat es dies anzugeben.
+
+97 Ein Unternehmen hat für jede Klasse von Vermögenswerten und Schulden, die in der Bilanz nicht zum beizulegenden Zeitwert bewertet werden, für die der beizulegende Zeitwert aber angegeben wird, die in Paragraph 93(b), (d) und (i) verlangten Angaben zu machen. Ein Unternehmen muss jedoch nicht die in Paragraph 93(d) verlangten quantitativen Angaben über bedeutende, nicht beobachtbare Eingangsparameter vorlegen, die bei Bewertungen zum beizulegenden Zeitwert, die der Hierarchiestufe 3 zugeordnet werden, zum Einsatz kommen. Für diese Vermögenswerte und Schulden ist ein Unternehmen von den anderen Angabepflichten dieses IFRS befreit.
+
+98 Bei einer zum beizulegenden Zeitwert bewertete Schuld, die mit einer untrennbaren Kreditsicherheit eines Dritten ausgegeben wurde, hat ein Emittent die Existenz dieser Kreditsicherheit und ob sie bei der Bewertung zum beizulegenden Zeitwert der Schuld berücksichtigt wurde, anzugeben.
+
+99 Ein Unternehmen hat die im vorliegenden IFRS verlangten quantitativen Angaben tabellarisch darzustellen, sofern nicht ein anderes Format angemessener ist.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Aktiver Markt
+	
+
+Ein Markt, an dem Geschäftsvorfälle mit dem Vermögenswert oder der Schuld mit ausreichender Häufigkeit und ausreichendem Volumen stattfinden, um fortlaufend Preisinformationen bereitzustellen.
+
+Kostenbasierter Ansatz
+	
+
+Ein Bewertungsverfahren, das den Betrag widerspiegelt, der gegenwärtig erforderlich wäre, um die Leistungskapazität eines Vermögenswerts zu ersetzen (häufig als aktuelle Wiederbeschaffungskosten bezeichnet).
+
+Zugangspreis
+	
+
+Der Preis, der in einem Tauschgeschäft für den Erwerb eines Vermögenswerts gezahlt oder für die Übernahme einer Schuld entgegengenommen wird.
+
+Abgangspreis
+	
+
+Der Preis, der für den Verkauf eines Vermögenswerts erzielt oder für die Übertragung einer Schuld gezahlt würde.
+
+Erwarteter Zahlungsstrom
+	
+
+Der wahrscheinlichkeitsgewichtete Durchschnitt (d. h. der Mittelwert der Verteilung) möglicher künftiger Zahlungsströme.
+
+Beizulegender Zeitwert
+	
+
+Der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts erzielt oder für die Übertragung einer Schuld gezahlt würde.
+
+Höchst- und bestmögliche Nutzung
+	
+
+Die Nutzung eines nichtfinanziellen Vermögenswerts durch Marktteilnehmer, die den Wert des Vermögenswerts oder der Gruppe von Vermögenswerten und Schulden (z. B. eines Geschäftsbetriebs), innerhalb deren der Vermögenswert genutzt würde, maximieren würde.
+
+Kapitalwertbasierter Ansatz
+	
+
+Bewertungsverfahren, bei denen künftige Beträge (z. B. Zahlungsströme oder Erträge und Aufwendungen) in einen einzigen aktuellen (d. h. abgezinsten) Betrag umgerechnet werden. Die Bewertung zum beizulegenden Zeitwert wird auf der Grundlage des durch aktuelle Markterwartungen über diese künftigen Beträge gekennzeichneten Werts ermittelt.
+
+Eingangsparameter
+	
+
+Die Annahmen, die Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert oder die Schuld zugrunde legen würden. Dies schließt auch Annahmen zum Risiko ein, wie beispielsweise
+a) 
+
+das Risiko, das mit einem bestimmten Bewertungsverfahren zur Ermittlung des beizulegenden Zeitwerts (wie einem Preismodell) verbunden ist, und
+b) 
+
+das Risiko, das mit den in das Bewertungsverfahren einfließenden Eingangsparametern verbunden ist.
+
+Eingangsparameter können beobachtbar oder nicht beobachtbar sein.
+
+Eingangsparameter der Stufe 1
+	
+
+Notierte (unverändert übernommene) Preise an aktiven Märkten für identische Vermögenswerte oder Schulden, auf die das Unternehmen am Bewertungsstichtag zugreifen kann.
+
+Eingangsparameter der Stufe 2
+	
+
+Andere Eingangsparameter als die auf Stufe 1 enthaltenen notierten Preise, die für den Vermögenswert oder die Schuld entweder direkt oder indirekt beobachtbar sind.
+
+Eingangsparameter der Stufe 3
+	
+
+Für den Vermögenswert oder die Schuld nicht beobachtbare Eingangsparameter.
+
+Marktbasierter Ansatz
+	
+
+Ein Bewertungsverfahren, bei dem Preise und andere relevante Informationen verwendet werden, die durch Markttransaktionen mit identischen oder vergleichbaren (d. h. ähnlichen) Vermögenswerten, Schulden oder einer Gruppe von Vermögenswerten und Schulden, wie z. B. einem Geschäftsbetrieb, generiert werden.
+
+Marktgestützte Eingangsparameter
+	
+
+Eingangsparameter, die hauptsächlich aus oder durch beobachtbare(n) Marktdaten durch Korrelation oder sonstige Verfahren abgeleitet oder gestützt werden.
+
+Marktteilnehmer
+	
+
+Käufer und Verkäufer im Hauptmarkt (oder vorteilhaftesten Markt) für den Vermögenswert oder die Schuld, die alle nachstehenden Merkmale aufweisen:
+a) 
+
+Sie sind voneinander unabhängig, d. h. sie sind keine nahestehenden Unternehmen und Personen im Sinne von IAS 24, obwohl der Preis bei einem Geschäftsvorfall zwischen nahestehenden Unternehmen und Personen als Eingangsparameter zur Ermittlung des beizulegenden Zeitwerts verwendet werden kann, sofern dem Unternehmen Nachweise dafür vorliegen, dass der Geschäftsvorfall zu Marktbedingungen erfolgte.
+b) 
+
+Sie sind sachkundig und verfügen über ein angemessenes Verständnis des Vermögenswerts oder der Schuld und des Geschäftsvorfalls. Hierzu nutzen sie alle bei vertretbarem Aufwand verfügbaren Informationen, einschließlich solcher, die durch sorgfältige Anstrengungen, die gängig und üblich sind, erlangt werden könnten.
+c) 
+
+Sie sind in der Lage, eine Transaktion über den Vermögenswert oder die Schuld abzuschließen.
+d) 
+
+Sie sind gewillt, eine Transaktion über den Vermögenswert oder die Schuld abzuschließen, d. h. sie sind motiviert, aber nicht gezwungen oder anderweitig dazu genötigt.
+
+Vorteilhaftester Markt
+	
+
+Der Markt, der den nach Berücksichtigung von Transaktions- und Transportkosten beim Verkauf des Vermögenswerts einzunehmenden Betrag maximieren oder den bei Übertragung der Schuld zu zahlenden Betrag minimieren würde.
+
+Risiko der Nichterfüllung
+	
+
+Das Risiko, dass ein Unternehmen eine Verpflichtung nicht erfüllen wird. Das Risiko der Nichterfüllung schließt das eigene Ausfallrisiko des Unternehmens ein, darf aber nicht darauf beschränkt werden.
+
+Beobachtbare Eingangsparameter
+	
+
+Eingangsparameter, die unter Verwendung von Marktdaten wie öffentlich verfügbaren Informationen über tatsächliche Ereignisse oder Geschäftsvorfälle abgeleitet werden und die Annahmen widerspiegeln, auf die sich die Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert oder die Schuld stützen würden.
+
+Gewöhnlicher Geschäftsvorfall
+	
+
+Ein Geschäftsvorfall, bei dem für einen Zeitraum vor dem Bewertungsstichtag eine Marktpräsenz angenommen wird, um Vermarktungstätigkeiten zu ermöglichen, die für Geschäftsvorfälle mit solchen Vermögenswerten oder Schulden gängig und üblich sind. Es handelt sich nicht um eine erzwungene Transaktion (d. h. eine Zwangsliquidation oder einen Notverkauf).
+
+Hauptmarkt
+	
+
+Der Markt mit dem größten Volumen und Ausmaß an Aktivität für den Vermögenswert oder die Schuld.
+
+Risikoaufschlag
+	
+
+Von risikoscheuen Marktteilnehmern verlangte Gegenleistung für die mit den Zahlungsströmen eines Vermögenswerts oder einer Schuld verbundene Unsicherheit. Auch als „Risikoanpassung“ bezeichnet.
+
+Transaktionskosten
+	
+
+Die Kosten, die für den Verkauf eines Vermögenswerts oder die Übertragung einer Schuld im Hauptmarkt (oder vorteilhaftesten Markt) für den Vermögenswert oder die Schuld anfallen, einzeln der Veräußerung des Vermögenswerts oder der Übertragung der Schuld zuordenbar sind und die beiden folgenden Kriterien erfüllen:
+a) 
+
+Sie ergeben sich unmittelbar aus der Transaktion und sind für diese kennzeichnend.
+b) 
+
+Sie wären dem Unternehmen nicht entstanden, wenn die Entscheidung zum Verkauf des Vermögenswerts oder zur Übertragung der Schuld nicht gefasst worden wäre (vergleichbar mit der Definition von Veräußerungskosten in IFRS 5).
+
+Transportkosten
+	
+
+Die Kosten, die für den Transport eines Vermögenswerts von seinem aktuellen Standort zu seinem Hauptmarkt (oder vorteilhaftesten Markt) entstünden.
+
+Bilanzierungseinheit
+	
+
+Die Ebene, auf der ein Vermögenswert oder eine Schuld in einem IFRS für Ansatzzwecke zusammengefasst oder aufgegliedert ist.
+
+Nicht beobachtbare Eingangsparameter
+	
+
+Eingangsparameter, für die keine Marktdaten verfügbar sind und die anhand der besten verfügbaren Informationen über die Annahmen, auf die sich Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert oder die Schuld stützen würden, hergeleitet werden.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des IFRS. Er beschreibt die Anwendung der Paragraphen 1–99 und hat die gleiche bindende Kraft wie die anderen Teile des IFRS.
+
+B1 In unterschiedlichen Bewertungssituationen kann die Ermessensausübung unterschiedlich sein. Im vorliegenden Anhang werden die Ermessensausübungen beschrieben, die angewendet werden könnten, wenn ein Unternehmen den beizulegenden Zeitwert in verschiedenen Bewertungsfällen ermittelt.
+
+DER ANSATZ ÜR DIE BEWERTUNG ZUM BEIZULEGENDEN ZEITWERT
+
+B2 Die Zielsetzung einer Bewertung zum beizulegenden Zeitwert besteht darin, den Preis zu schätzen, zu dem unter aktuellen Marktbedingungen am Bewertungsstichtag ein gewöhnlicher Geschäftsvorfall zwischen Marktteilnehmern stattfinden würde, bei dem der Vermögenswert verkauft oder die Schuld übertragen würde. Bei einer Bewertung zum beizulegenden Zeitwert muss ein Unternehmen Folgendes bestimmen:
+a) 
+
+den jeweiligen Vermögenswert oder die Schuld, die Gegenstand der Bewertung ist (in Übereinstimmung mit seiner/ihrer Bilanzierungseinheit),
+b) 
+
+die für die Bewertung angemessene Bewertungsprämisse, wenn es sich um einen nichtfinanziellen Vermögenswert handelt (in Übereinstimmung mit dessen höchst- und bestmöglicher Nutzung),
+c) 
+
+den Hauptmarkt oder vorteilhaftesten Markt für den Vermögenswert oder die Schuld und
+d) 
+
+das (die) für die Ermittlung geeignete(n) Bewertungsverfahren unter Berücksichtigung der Verfügbarkeit von Daten, mit denen Eingangsparameter hergeleitet werden, die die Annahmen der Marktteilnehmer bei der Festlegung des Preises des Vermögenswerts oder der Schuld darstellen und die Hierarchiestufe, der die Eingangsparameter zugeordnet werden.
+
+BEWERTUNGSPRÄMISSE FÜR NICHT FINANZIELLE VERMÖGENSWERTE (PARAGRAPHEN 31–33)
+
+B3 Bei der Ermittlung des beizulegenden Zeitwerts eines nicht finanziellen Vermögenswerts, der in Verbindung mit anderen Vermögenswerten als Gruppe (wie eingerichtet oder anderweitig zur Nutzung konfiguriert) oder in Kombination mit anderen Vermögenswerten und Schulden (z. B. einem Geschäftsbetrieb) genutzt wird, hängt die Auswirkung der Bewertungsprämisse von den Umständen ab. Zum Beispiel:
+a) 
+
+Der beizulegende Zeitwert des Vermögenswerts könnte sowohl bei seiner eigenständigen Verwendung als auch bei einer Verwendung in Kombination mit anderen Vermögenswerten oder mit anderen Vermögenswerten und Schulden gleich sein. Dies könnte zutreffen, wenn der Vermögenswert ein Geschäftsbetrieb ist, den Markteilnehmer weiterbetreiben würden. In diesem Fall beinhaltete der Geschäftsvorfall eine Bewertung des Geschäftsbetriebs in seiner Gesamtheit. Die Verwendung des Vermögenswerts als Gruppe in einem laufenden Geschäftsbetrieb würde Synergien schaffen, die Marktteilnehmern zur Verfügung stünden (d. h. Synergien der Marktteilnehmer, bei denen davon auszugehen ist, dass sie den beizulegenden Zeitwert des Vermögenswerts entweder auf eigenständiger Basis oder auf Basis einer Kombination mit anderen Vermögenswerten oder mit anderen Vermögenswerten und Schulden beeinflussen).
+b) 
+
+Die Verwendung eines Vermögenswerts in Kombination mit anderen Vermögenswerten oder anderen Vermögenswerten und Schulden könnte auch mittels Wertberichtigungen des eigenständig verwendeten Vermögenswerts in die Bewertung zum beizulegenden Zeitwert einfließen. Dies könnte der Fall sein, wenn es sich bei dem Vermögenswert um eine Maschine handelt und die Bewertung zum beizulegenden Zeitwert anhand eines beobachteten Preises für eine ähnliche (nicht installierte oder anderweitig für die Nutzung konfigurierte) Maschine erfolgt. Dieser Preis wird dann um Transport- und Installationskosten angepasst, sodass die Zeitwertbewertung den gegenwärtigen Zustand und Standort der Maschine (installiert und für die Nutzung konfiguriert) widerspiegelt.
+c) 
+
+Die Nutzung eines Vermögenswerts in Kombination mit anderen Vermögenswerten oder anderen Vermögenswerten und Schulden könnte auch dahin gehend in die Ermittlung des beizulegenden Zeitwerts einfließen, dass man die Annahmen, auf die sich Marktteilnehmer bei der Ermittlung des beizulegenden Zeitwerts des Vermögenswerts stützen würden, berücksichtigt. Handelt es sich bei dem Vermögenswert beispielsweise um einen Lagerbestand an unfertigen, einzigartigen Erzeugnissen und würden Marktteilnehmer den Lagerbestand in fertige Erzeugnisse umwandeln, würde der beizulegende Zeitwert auf der Annahme beruhen, dass die Marktteilnehmer eventuell notwendige, besondere Maschinen erworben haben oder erwerben würden, um den Lagerbestand in Fertigerzeugnisse umzuwandeln.
+d) 
+
+Die Nutzung eines Vermögenswerts in Kombination mit anderen Vermögenswerten oder anderen Vermögenswerten und Schulden könnte in das zur Ermittlung des beizulegenden Zeitwerts verwendete Bewertungsverfahren einfließen. Dies könnte der Fall sein, wenn zur Ermittlung des beizulegenden Zeitwerts eines immateriellen Vermögenswerts die Residualwertmethode angewandt wird, weil dieses Bewertungsverfahren insbesondere den Beitrag ergänzender Vermögenswerte und zugehöriger Schulden in der Gruppe berücksichtigt, in der ein solcher immaterieller Vermögenswert genutzt würde.
+e) 
+
+In stärker eingegrenzten Situationen könnte ein Unternehmen, das einen Vermögenswert innerhalb einer Gruppe von Vermögenswerten nutzt, diesen Vermögenswert anhand eines Betrags bewerten, der dessen beizulegendem Zeitwert nahe kommt. Dieser Betrag wird errechnet, indem man den beizulegenden Zeitwert der gesamten Gruppe an Vermögenswerten auf die einzelnen, in der Gruppe enthaltenen Vermögenswerte umlegt. Dies könnte zutreffen, wenn die Bewertung Grundeigentum betrifft und der beizulegende Zeitwert eines erschlossenen Grundstücks (d. h. einer Gruppe von Vermögenswerten) auf die Vermögenswerte umgelegt wird, aus denen es besteht (beispielsweise das Grundstück und die Grundstücksbestandteile).
+
+BEIZULEGENDER ZEITWERT BEIM ERSTMALIGEN ANSATZ (PARAGRAPHEN 57–60)
+
+B4 Bei der Bestimmung, ob der beizulegende Zeitwert beim erstmaligen Ansatz dem Transaktionspreis entspricht, hat ein Unternehmen die für die Transaktion und die für den Vermögenswert oder die Schuld charakteristischen Faktoren zu berücksichtigen. Trifft eine der folgenden Bedingungen zu, könnte es sein, dass der Transaktionspreis nicht den beim erstmaligen Ansatz beizulegenden Zeitwert eines Vermögenswerts oder einer Schuld repräsentiert:
+a) 
+
+Der Geschäftsvorfall findet zwischen nahestehenden Unternehmen und Personen statt. Trotzdem kann der Preis in einem Geschäftsvorfall zwischen nahestehenden Unternehmen und Personen als Eingangsparameter für eine Bewertung zum beizulegenden Zeitwert verwendet werden, wenn dem Unternehmen Anhaltspunkte dafür vorliegen, dass der Geschäftsvorfall zu Marktbedingungen erfolgte.
+b) 
+
+Der Geschäftsvorfall findet unter Zwang statt oder der Verkäufer ist gezwungen, den Preis in dem Geschäftsvorfall zu akzeptieren. Dies könnte beispielsweise der Fall sein, wenn der Verkäufer finanzielle Schwierigkeiten hat.
+c) 
+
+Die durch den Geschäftsvorfall dargestellte Bilanzierungseinheit weicht von der Bilanzierungseinheit des Vermögenswerts oder der Schuld ab, die/der zum beizulegenden Zeitwert bewertet wird. Dies könnte beispielsweise der Fall sein, wenn der/die zum beizulegenden Zeitwert bewertete Vermögenswert oder Schuld nur eines der an dem Geschäftsvorfall beteiligten Elemente ist (z. B. bei einem Unternehmenszusammenschluss), wenn der Geschäftsvorfall nicht genannte Rechte und Vorrechte beinhaltet, die gemäß anderen IFRS getrennt bewertet werden, oder der Transaktionspreis Transaktionskosten enthält.
+d) 
+
+Der Markt, auf dem der Geschäftsvorfall stattfindet, ist weder der Hauptmarkt noch der vorteilhafteste Markt. Unterschiedliche Märkte könnten zum Beispiel vorliegen, wenn es sich bei dem Unternehmen um einen Händler handelt, der im Einzelhandelsmarkt Transaktionen mit Kunden schließt, dessen Hauptmarkt (oder vorteilhaftester Markt) für die Abgangstransaktion aber der Händlermarkt ist, auf dem Transaktionen mit anderen Händlern geschlossen werden.
+
+BEWERTUNGSVERFAHREN (PARAGRAPHEN 61–66)
+
+Marktbasierter Ansatz
+
+B5 Beim marktbasierten Ansatz werden Preise und andere relevante Informationen genutzt, die durch Markttransaktionen mit identischen oder vergleichbaren (d. h. ähnlichen) Vermögenswerten, Schulden oder Gruppen von Vermögenswerten und Schulden, z. B. Geschäftsbetrieben, generiert werden.
+
+B6 Zum Beispiel verwenden Bewertungsverfahren, die auf dem marktbasierten Ansatz beruhen, häufig Marktmultiplikatoren, die aus einem Satz von Vergleichswerten abgeleitet werden. Multiplikatoren können in Bandbreiten mit einem unterschiedlichen Multiplikator für jeden Vergleichswert liegen. Die Auswahl des angemessenen Multiplikators innerhalb der Bandbreite erfordert Ermessensausübung. Hier sind für die jeweilige Bewertung kennzeichnende qualitative und quantitative Faktoren zu berücksichtigen.
+
+B7 Zu den Bewertungsverfahren, die mit dem marktbasierten Ansatz vereinbar sind, gehören auch Matrix-Preismodelle. Ein Matrix-Preismodell ist ein mathematisches Verfahren, das hauptsächlich zur Bewertung einiger Arten von Finanzinstrumenten verwendet wird, wie Schuldverschreibungen, ohne sich ausschließlich auf notierte Preise für die speziellen Wertpapiere, sondern sich eher auf die Beziehung der Wertpapiere zu anderen notierten Referenz-Wertpapieren zu stützen.
+
+Kostenbasierter Ansatz
+
+B8 Der kostenbasierte Ansatz spiegelt den Betrag wider, der gegenwärtig erforderlich wäre, um die Leistungskapazität eines Vermögenswerts zu ersetzen (häufig als aktuelle Wiederbeschaffungskosten bezeichnet).
+
+B9 Aus Sicht eines am Markt teilnehmenden Verkäufers basiert der Preis, den man für einen Vermögenswert erzielen würde, auf den Kosten eines am Markt teilnehmenden Käufers, einen Ersatz-Vermögenswert mit vergleichbarer Nutzbarkeit zu erwerben oder zu konstruieren, bereinigt um Veralterung. Dies ist darauf zurückzuführen, dass ein am Markt teilnehmender Käufer für einen Vermögenswert nicht mehr zahlen würde als den Betrag, für den er die Leistungskapazität des betreffenden Vermögenswerts ersetzen könnte. Veralterung umfasst physische Veralterung, funktionale (technologische) Veralterung und wirtschaftliche (externe) Veralterung. Sie ist weiter gefasst als die planmäßige Abschreibung für Rechnungslegungszwecke (eine Verteilung historischer Kosten) oder steuerliche Zwecke (unter Verwendung festgelegter Leistungsdauern). In vielen Fällen wird zur Ermittlung des beizulegenden Zeitwerts materieller Vermögenswerte, die in Kombination mit anderen Vermögenswerten oder anderen Vermögenswerten und Schulden genutzt werden, die Methode der aktuellen Wiederbeschaffungskosten verwendet.
+
+Kapitalwertbasierter Ansatz
+
+B10 Beim kapitalwertbasierten Ansatz werden die künftigen Beträge (z. B. Zahlungsströme oder Erträge und Aufwendungen) in einen einzigen aktuellen (d. h. abgezinsten) Betrag umgerechnet. Wird der kapitalwertbasierte Ansatz angewandt, spiegelt die Bewertung zum beizulegenden Zeitwert gegenwärtige Markterwartungen hinsichtlich dieser künftigen Beträge wider.
+
+B11 Zu derartigen Bewertungsverfahren gehören unter anderem:
+a) 
+
+Barwertverfahren (siehe Paragraphen B12–B30),
+b) 
+
+Optionspreismodelle, wie die Black-Scholes-Merton-Formel oder ein Binomial-Modell (d. h. ein Gitter-Modell), die Barwert-Verfahren einbeziehen und sowohl den Zeitwert als auch den inneren Wert einer Option widerspiegeln, und
+c) 
+
+die Residualwertmethode, die zur Ermittlung des beizulegenden Zeitwerts bestimmter immaterieller Vermögenswerte eingesetzt wird.
+
+Barwertverfahren
+
+B12 In den Paragraphen B13–B30 wird die Verwendung von Barwertverfahren zur Ermittlung des beizulegenden Zeitwerts beschrieben. In diesen Paragraphen liegt der Schwerpunkt auf einem Verfahren zur Anpassung des Abzinsungssatzes und einem Verfahren der erwarteten Zahlungsströme (erwarteter Barwert). In diesen Paragraphen wird weder die Verwendung eines einzelnen, besonderen Barwertverfahrens verlangt, noch wird die Verwendung von Barwertverfahren zur Ermittlung des beizulegenden Zeitwerts auf die dort erörterten Methoden beschränkt. Welches Barwertverfahren zur Ermittlung des beizulegenden Zeitwerts herangezogen wird, hängt von den jeweiligen, für den bewerteten Vermögenswert bzw. die bewertete Schuld spezifischen Sachverhalten und Umständen (z. B. ob im Markt Preise für vergleichbare Vermögenswerte oder Schulden beobachtbar sind) sowie der Verfügbarkeit ausreichender Daten ab.
+
+Die Bestandteile einer Barwertermittlung
+
+B13 Der Barwert (d. h. eine Anwendung des kapitalwertbasierten Ansatzes) ist ein Instrument, das dazu dient, unter Anwendung eines Abzinsungssatzes eine Verbindung zwischen künftigen Beträgen (z. B. Zahlungsströmen oder Werten) und einem gegenwärtigen Wert (Barwert) herzustellen. Bei der Ermittlung des beizulegenden Zeitwerts eines Vermögenswerts oder einer Schuld mithilfe eines Barwertverfahrens werden aus der Sicht von Marktteilnehmern am Bewertungsstichtag alle unten genannten Elemente erfasst:
+a) 
+
+eine Schätzung künftiger Zahlungsströme für den Vermögenswert oder die Schuld, der/die bewertet wird,
+b) 
+
+Erwartungen über mögliche Veränderungen bei Höhe und Zeitpunkt der Zahlungsströme. Sie stellen die mit den Zahlungsströmen verbundene Unsicherheit dar,
+c) 
+
+der Zeitwert des Geldes, repräsentiert durch den Zinssatz risikoloser monetärer Vermögenswerte mit Fälligkeitsterminen oder Laufzeiten, die mit dem durch die Zahlungsströme abgedeckten Zeitraum zusammenfallen. Darüber hinaus stellen sie für den Inhaber weder Unsicherheiten hinsichtlich des Zeitpunkts noch Ausfallrisiken dar (d. h. es handelt sich um einen risikolosen Zinssatz),
+d) 
+
+der Preis für die mit den Zahlungsströmen verbundene Unsicherheit (d. h. ein Risikoaufschlag),
+e) 
+
+andere Faktoren, die Marktteilnehmer unter den gegebenen Umständen berücksichtigen würden,
+f) 
+
+bei einer Schuld das Risiko der Nichterfüllung bezüglich der betreffenden Schuld einschließlich des eigenen Ausfallrisikos des Unternehmens (d. h. des Gläubigers).
+
+Allgemeine Grundsätze
+
+B14 Barwertverfahren unterscheiden sich in der Art der Erfassung der in Paragraph B13 genannten Elemente. Für die Anwendung jedes Barwertverfahrens zur Ermittlung des beizulegenden Zeitwerts gelten jedoch alle unten aufgeführten allgemeinen Grundsätze:
+a) 
+
+Zahlungsströme und Abzinsungssätze müssen die Annahmen widerspiegeln, auf die sich Marktteilnehmer bei der Festlegung des Preises für den Vermögenswert oder die Schuld stützen würden.
+b) 
+
+Zahlungsströme und Abzinsungssätze müssen nur die Faktoren berücksichtigen, die dem zu bewertenden Vermögenswert oder der zu bewertenden Schuld zurechenbar sind.
+c) 
+
+Zur Vermeidung von Doppelzählungen oder Auslassungen bei den Auswirkungen von Risikofaktoren müssen die Abzinsungssätze Annahmen widerspiegeln, die mit den Annahmen im Einklang stehen, die den Zahlungsströmen entsprechen. Ein Abzinsungssatz, der die Unsicherheit bei den Erwartungen hinsichtlich künftiger Ausfälle widerspiegelt, ist beispielsweise dann angemessen, wenn vertraglich festgelegte Zahlungsströme eines Darlehens verwendet werden (d. h. ein Verfahren zur Anpassung von Abzinsungssätzen). Dieser Satz darf jedoch nicht angewandt werden, wenn erwartete (d. h. wahrscheinlichkeitsgewichtete) Zahlungsströme verwendet werden (d. h. ein Verfahren des erwarteten Barwerts), denn in den erwarteten Zahlungsströmen spiegeln sich bereits Annahmen über die Unsicherheit bei künftigen Ausfällen wider. Stattdessen ist ein Abzinsungssatz zu verwenden, der dem mit den erwarteten Zahlungsströmen verbundenen Risiko angemessen ist.
+d) 
+
+Annahmen über Zahlungsströme und Abzinsungssätze müssen in sich konsistent sein. Beispielsweise müssen nominelle Zahlungsströme, in denen die Auswirkung der Inflation enthalten ist, zu einem Satz abgezinst werden, der die Auswirkung der Inflation einbezieht. Im nominalen risikolosen Zinssatz ist die Auswirkung der Inflation enthalten. Reale Zahlungsströme, die die Auswirkung der Inflation ausklammern, müssen zu einem Satz abgezinst werden, der die Auswirkung der Inflation ebenfalls ausklammert. Gleicherweise sind Zahlungsströme nach Steuern mit einem Abzinsungssatz nach Steuern abzuzinsen. Zahlungsströme vor Steuern wiederum sind zu einem Satz abzuzinsen, der diesen Zahlungsströmen entspricht.
+e) 
+
+Abzinsungssätze müssen mit den zugrunde liegenden wirtschaftlichen Faktoren der Währung, auf die die Zahlungsströme lauten, vereinbar sein.
+
+Risiko und Unsicherheit
+
+B15 Eine Bewertung zum beizulegenden Zeitwert, bei der Barwertverfahren zum Einsatz kommen, erfolgt unter unsicheren Bedingungen, weil es sich bei den eingesetzten Zahlungsströmen um Schätzungen und nicht um bekannte Beträge handelt. Häufig sind sowohl die Höhe als auch der Zeitpunkt der Zahlungsströme unsicher. Sogar vertraglich festgelegte Beträge wie die auf ein Darlehen geleisteten Zahlungen sind unsicher, wenn ein Ausfallrisiko besteht.
+
+B16 Im Allgemeinen verlangen Marktteilnehmer eine Gegenleistung (d. h. einen Risikoaufschlag) für die Übernahme der mit den Zahlungsströmen eines Vermögenswerts oder einer Schuld verbundene Unsicherheit. Eine Bewertung zum beizulegenden Zeitwert muss einen Risikoaufschlag enthalten, in dem sich der Betrag widerspiegelt, den Marktteilnehmer als Gegenleistung für die mit den Zahlungsströmen verbundene Unsicherheit verlangen würden. Andernfalls würde die Bewertung den beizulegenden Zeitwert nicht glaubwürdig darstellen. Mitunter kann die Bestimmung des angemessenen Risikoaufschlags schwierig sein. Der Schwierigkeitsgrad allein ist jedoch kein hinreichender Grund, einen Risikoaufschlag unberücksichtigt zu lassen.
+
+B17 Barwertverfahren unterscheiden sich hinsichtlich der Art der Risikoanpassung und der Art der zugrunde gelegten Zahlungsströme. Zum Beispiel:
+a) 
+
+Das Verfahren zur Anpassung von Abzinsungssätzen (siehe Paragraphen B18–B22) arbeitet mit einem risikoangepassten Abzinsungssatz und vertraglichen, zugesagten oder wahrscheinlichsten Zahlungsströmen.
+b) 
+
+Methode 1 des Verfahrens des erwarteten Barwerts (siehe Paragraph B25) arbeitet mit risikoangepassten erwarteten Zahlungsströmen und einem risikolosen Zinssatz.
+c) 
+
+Methode 2 des Verfahrens des erwarteten Barwerts (siehe Paragraph B26) arbeitet mit erwarteten Zahlungsströmen, die nicht risikoangepasst sind, sowie einem Abzinsungssatz, der in der Weise angepasst wird, dass der von Marktteilnehmern verlangte Risikoaufschlag enthalten ist. Dieser Satz ist ein anderer als der, der beim Verfahren zur Anpassung von Abzinsungssätzen zugrunde gelegt wird.
+
+Verfahren zur Anpassung von Abzinsungssätzen
+
+B18 Das Verfahren zur Anpassung von Abzinsungssätzen stützt sich auf einen einzigen Satz an Zahlungsströmen aus der Bandbreite möglicher Beträge, unabhängig davon, ob es sich um vertragliche, zugesagte (wie bei einer Anleihe) oder höchstwahrscheinlich eintretende Zahlungsströme handelt. In jedem dieser Fälle unterliegen diese Zahlungsströme dem Vorbehalt, dass bestimmte festgelegte Ereignisse eintreten (z. B. stehen vertragliche oder zugesagte Zahlungsströme im Zusammenhang mit einer Anleihe unter dem Vorbehalt, dass kein Ausfall seitens des Schuldners eintritt). Der für das Verfahren zur Anpassung von Abzinsungssätzen eingesetzte Abzinsungssatz wird aus den beobachteten Verzinsungen vergleichbarer, im Markt gehandelter Vermögenswerte oder Schulden abgeleitet. Dementsprechend werden die vertraglichen, zugesagten oder wahrscheinlichsten Zahlungsströme in Höhe eines beobachteten oder geschätzten Marktzinssatzes für derartige, unter Vorbehalt stehende Zahlungsströme abgezinst (d. h. einer Marktrendite).
+
+B19 Das Verfahren zur Anpassung von Abzinsungssätzen erfordert eine Analyse der für vergleichbare Vermögenswerte oder Schulden verfügbaren Marktdaten. Vergleichbarkeit wird anhand der Beschaffenheit der Zahlungsströme (z. B. anhand dessen, ob die Zahlungsströme vertraglich oder nicht vertraglich sind und wahrscheinlich ähnlich auf Veränderungen der wirtschaftlichen Rahmenbedingungen reagieren werden) sowie anhand anderer Faktoren festgestellt (z. B. Bonität, Sicherheiten, Laufzeit, restriktive Vertragsklauseln und Liquidität). Wenn ein einzelner vergleichbarer Vermögenswert oder eine einzelne vergleichbare Schuld das mit den Zahlungsströmen aus dem zu bewertenden Vermögenswert oder der zu bewertenden Schuld verbundene Risiko nicht zutreffend widerspiegelt, ist es alternativ möglich, einen Abzinsungssatz unter Verwendung von Daten für mehrere vergleichbare Vermögenswerte oder Schulden in Verbindung mit der risikolosen Renditekurve (d. h. unter Verwendung eines „sukzessiven“ Ansatzes) abzuleiten.
+
+B20 Um einen sukzessiven Ansatz zu veranschaulichen, wird angenommen, dass der Vermögenswert A ein vertragliches Recht auf den Bezug von WE 800 ( 61 ) in einem Jahr ist (d. h. es gibt keine zeitliche Unsicherheit). Es besteht ein etablierter Markt für vergleichbare Vermögenswerte und Informationen über diese Vermögenswerte, einschließlich Informationen über Preise, sind verfügbar. Bei diesen vergleichbaren Vermögenswerten
+a) 
+
+ist Vermögenswert B ein vertragliches Recht auf den Empfang von 1 200 WE im Jahr bei einem Marktpreis von 1 083 WE. Die implizite jährliche Verzinsung (d. h. eine einjährige Marktrendite) beträgt daher 10,8 Prozent [(WE1 200/WE1 083) – 1].
+b) 
+
+ist Vermögenswert C ein vertragliches Recht auf den Empfang von 700 WE in zwei Jahren bei einem Marktpreis von 566 WE. Die implizite jährliche Verzinsung (d. h. eine zweijährige Marktrendite) beträgt daher 11,2 Prozent [(WE700/WE566)^0,5 – 1].
+c) 
+
+sind alle drei Vermögenswerte im Hinblick auf das Risiko vergleichbar (d. h. Streuung möglicher Auszahlungen und Ausfälle).
+
+B21 Auf der Grundlage des Zeitpunktes der für Vermögenswert A zu erhaltenden vertraglichen Zahlungen verglichen mit dem Zeitpunkt für Vermögenswert B und Vermögenswert C (d. h. in einem Jahr für Vermögenswert B gegenüber in zwei Jahren für Vermögenswert C), gilt Vermögenswert B als vergleichbarer mit Vermögenswert A. Legt man die für Vermögenswert A zu erhaltende vertragliche Zahlung (WE 800) und die mit Vermögenswert B erzielte einjährige Marktrendite (10,8 Prozent) zugrunde, beträgt der beizulegende Zeitwert von Vermögenswert A WE 722 (WE 800/1,108). Liegen für Vermögenswert B keine Marktinformationen vor, kann die einjährige Marktrendite alternativ unter Verwendung des sukzessiven Ansatzes aus Vermögenswert C abgeleitet werden. In diesem Fall würde der zweijährige Marktzins von Vermögenswert C (11,2 Prozent) durch Verwendung der Laufzeitstruktur der risikolosen Renditekurve auf einen einjährigen Marktzins angepasst. Um festzustellen, ob die Risikoaufschläge für einjährige und zweijährige Vermögenswerte gleich sind, könnten zusätzliche Informationen und Analysen erforderlich sein. Falls festgestellt wird, dass die Risikoaufschläge für einjährige und zweijährige Vermögenswerte nicht gleich sind, würde die zweijährige Marktrendite um diesen Effekt weiter angepasst.
+
+B22 Wendet man das Verfahren zur Anpassung von Abzinsungssätzen bei festen Einnahmen oder Zahlungen an, wird die Anpassung um das Risiko, das mit den Zahlungsströmen des zu bewertenden Vermögenswerts bzw. der zu bewertenden Schuld verbunden ist, in den Abzinsungssatz aufgenommen. Mitunter kann bei der Anwendung des Verfahrens zur Anpassung von Abzinsungssätzen auf Zahlungsströme, bei denen es sich nicht um feste Einnahmen oder Zahlungen handelt, eine Anpassung an den Zahlungsströmen notwendig sein, um Vergleichbarkeit mit dem beobachteten Vermögenswert oder der beobachteten Schuld, aus dem bzw. der sich der Abzinsungssatz herleitet, herzustellen.
+
+Verfahren des erwarteten Barwerts
+
+B23 Ausgangspunkt des Verfahrens des erwarteten Barwerts bildet ein Satz von Zahlungsströmen, der den wahrscheinlichkeitsgewichteten Durchschnitt aller möglichen künftigen Zahlungsströme (d. h. der erwarteten Zahlungsströme) darstellt. Die daraus resultierende Schätzung ist mit dem erwarteten Wert identisch, der statistisch gesehen der gewichtete Durchschnitt möglicher Werte einer diskreten Zufallsvariablen ist, wobei die jeweiligen Wahrscheinlichkeiten die Gewichte bilden. Da alle möglichen Zahlungsströme wahrscheinlichkeitsgewichtet sind, hängt der resultierende erwartete Zahlungsstrom nicht vom Eintreten eines bestimmten Ereignisses ab (anders als bei den im Verfahren der Anpassung des Abzinsungssatzes verwendeten Zahlungsströmen).
+
+B24 Bei Anlageentscheidungen würden risikoscheue Marktteilnehmer das Risiko berücksichtigen, dass die tatsächlichen Zahlungsströme von den erwarteten Zahlungsströmen abweichen könnten. Die Portfoliotheorie unterscheidet zwischen zwei Risikoarten:
+a) 
+
+nicht systematischen (diversifizierbaren) Risiken. Hierbei handelt es sich um Risiken, die für einen bestimmten Vermögenswert oder eine bestimmte Schuld spezifisch sind;
+b) 
+
+systematischen (nicht diversifizierbaren) Risiken. Hierbei handelt es sich um das gemeinsame Risiko, dem ein Vermögenswert oder eine Schuld in einem diversifizierten Portfolio gemeinsam mit den anderen Positionen unterliegt.
+
+Der Portfoliotheorie zufolge werden die Marktteilnehmer in einem im Gleichgewicht befindlichen Markt nur für das mit den Zahlungsströmen verbundene systematische Risiko entschädigt. (In ineffizienten oder nicht im Gleichgewicht befindlichen Märkten können andere Formen der Rendite oder Gegenleistung verfügbar sein.)
+
+B25 Methode 1 des Verfahrens des erwarteten Barwerts bereinigt die erwarteten Zahlungsströme eines Vermögenswerts um das systematische Risiko (d. h. das Marktrisiko) durch Subtraktion einer Bar-Risikoprämie (d. h. risikoangepasste erwartete Zahlungsströme). Diese risikoangepassten erwarteten Zahlungsströme stellen einen sicherheitsäquivalenten Zahlungsstrom dar, der mit einem risikolosen Zinssatz abgezinst wird. Ein sicherheitsäquivalenter Zahlungsstrom bezieht sich auf einen erwarteten Zahlungsstrom (gemäß Definition), der risikoangepasst ist, sodass ein Markteilnehmer zwischen einem sicheren Zahlungsstrom und einem erwarteten Zahlungsstrom indifferent ist. Wäre ein Marktteilnehmer beispielsweise bereit, einen erwarteten Zahlungsstrom von 1 200 WE gegen einen sicheren Zahlungsstrom von 1 000 WE einzutauschen, sind die 1 000 WE das Sicherheitsäquivalent für die 1 200 WE (d. h. die 200 WE würden den Risikoaufschlag für Barmittel darstellen). In diesem Fall wäre der Marktteilnehmer dem gehaltenen Vermögenswert gegenüber indifferent.
+
+B26 Im Gegensatz dazu wird bei Methode 2 des Verfahrens des erwarteten Barwerts um das systematische Risiko (d. h. das Marktrisiko) bereinigt, indem auf den risikolosen Zinssatz ein Risikoaufschlag angewandt wird. Dementsprechend werden die erwarteten Zahlungsströme mit einem Zinssatz, der einem erwarteten Zinssatz für wahrscheinlichkeitsgewichtete Zahlungsströme entspricht (d. h. einer erwarteten Rendite) abgezinst. Zur Schätzung der erwarteten Verzinsung können Modelle zur Festlegung des Preises riskanter Vermögenswerte eingesetzt werden, beispielsweise das Capital Asset Pricing Model. Da der im Verfahren zur Anpassung des Abzinsungssatzes verwendete Abzinsungssatz eine Rendite im Zusammenhang mit bedingten Zahlungsströmen darstellt, dürfte er höher sein als der Abzinsungssatz, der in Methode 2 des Verfahrens des erwarteten Barwerts verwendet wird und der einer erwarteten Rendite in Zusammenhang mit erwarteten oder wahrscheinlichkeitsgewichteten Zahlungsströmen entspricht.
+
+B27 Zur Veranschaulichung der Methoden 1 und 2 wird unterstellt, dass für einen Vermögenswert in einem Jahr Zahlungsströme von 780 WE erwartet werden, die auf Grundlage der möglichen Zahlungsströme und der unten gezeigten Wahrscheinlichkeiten bestimmt werden. Der anwendbare risikolose Zinssatz für Zahlungsströme mit einem Zeithorizont von einem Jahr beträgt 5 Prozent. Der systematische Risikoaufschlag für einen Vermögenswert mit dem gleichen Risikoprofil beträgt 3 Prozent.
+
+
+
+Mögliche Zahlungsströme
+	
+
+Wahrscheinlichkeit
+	
+
+Wahrscheinlichkeitsgewichtete Zahlungsströme
+
+WE 500
+	
+
+15 %
+	
+
+WE 75
+
+WE 800
+	
+
+60 %
+	
+
+WE 480
+
+WE 900
+	
+
+25 %
+	
+
+WE 225
+
+Erwartete Zahlungsströme
+	
+
+ 
+	
+
+WE 780
+
+B28 In dieser einfachen Darstellung stehen die erwarteten Zahlungsströme (780 WE) für den wahrscheinlichkeitsgewichteten Durchschnitt der drei möglichen Verläufe. In realistischeren Situationen sind zahlreiche Verläufe möglich. Zur Anwendung des Verfahrens des erwarteten Barwerts müssen nicht immer alle Verteilungen aller möglichen Zahlungsströme berücksichtigt werden; auch der Einsatz komplexer Modelle und Verfahren ist hierbei nicht immer erforderlich. Stattdessen könnte es möglich sein, eine begrenze Anzahl eigenständiger Szenarien und Wahrscheinlichkeiten zu entwickeln, mit denen die Palette möglicher Zahlungsströme erfasst wird. Ein Unternehmen könnte beispielsweise in einer maßgeblichen früheren Periode realisierte Zahlungsströme verwenden, die es um anschließend eingetretene Veränderungen in den äußeren Umständen bereinigt (z. B. Änderungen bei äußeren Faktoren wie Konjunktur- oder Marktbedingungen, Branchentrends, Trends im Wettbewerb sowie auch Änderungen bei inneren Faktoren, die spezifischere Auswirkungen auf das Unternehmen haben). Dabei werden auch die Annahmen von Marktteilnehmern berücksichtigt.
+
+B29 Theoretisch ist der Barwert (d. h. der beizulegende Zeitwert) der Zahlungsströme eines Vermögenswerts sowohl bei einer Bestimmung nach Methode 1 als auch bei einer Bestimmung nach Methode 2 der gleiche. Dabei gilt:
+a) 
+
+Bei Anwendung von Methode 1 werden die erwarteten Zahlungsströme um das systematische (d. h. das Markt-) Risiko bereinigt. Liegen keine Marktdaten vor, an denen sich unmittelbar die Höhe der Risikoanpassung ablesen lässt, könnte eine solche Anpassung aus einem Asset Pricing Model unter Verwendung des Konzepts der Sicherheitsäquivalente abgeleitet werden. Die Risikoanpassung (d. h. der Bar-Risikoaufschlag von 22 WE) könnte beispielsweise anhand des Aufschlags für systematische Risiken in Höhe von 3 Prozent bestimmt werden (780 WE - [780 WE × (1,05/1,08)]), aus dem sich die risikobereinigten erwarteten Zahlungsströme von 758 WE (780 WE - 22 WE) ergeben. Die 758 WE sind das Sicherheitsäquivalent für 780 WE und werden zum risikolosen Zinssatz (5 Prozent) abgezinst. Der Barwert (d.h. der beizulegende Zeitwert) des Vermögenswerts beträgt 722 WE (758 WE/1,05).
+b) 
+
+Bei Anwendung von Methode 2 werden die erwarteten Zahlungsströme nicht um systematische Risiken (d. h. Marktrisiken) bereinigt. Die Anpassung an dieses Risiko ist stattdessen im Abzinsungssatz enthalten. Die erwarteten Zahlungsströme werden folglich mit einer erwarteten Verzinsung von 8 Prozent (d. h. 5 Prozent risikoloser Zinssatz zuzüglich 3 Prozent Aufschlag für das systematische Risiko) abgezinst. Der Barwert (d. h. der beizulegende Zeitwert) des Vermögenswerts beträgt 722 WE (780 WE/1,08).
+
+B30 Wird zur Ermittlung des beizulegenden Zeitwerts ein Verfahren des erwarteten Barwerts angewandt, kann dies entweder nach Methode 1 oder nach Methode 2 erfolgen. Ob Methode 1 oder Methode 2 gewählt wird, hängt von den jeweiligen, für den bewerteten Vermögenswert bzw. die bewertete Schuld spezifischen Sachverhalten und Umständen ab. Weitere Auswahlkriterien sind der Umfang, in dem hinreichende Daten verfügbar sind und die jeweilige Ermessensausübung.
+
+ANWENDUNG VON BARWERTVERFAHREN AUF SCHULDEN UND EIGENE EIGENKAPITALINSTRUMENTE EINES UNTERNEHMENS, DIE NICHT VON ANDEREN PARTEIEN ALS VERMÖGENSWERTE GEHALTEN WERDEN (PARAGRAPHEN 40 UND 41)
+
+B31 Wendet ein Unternehmen zur Ermittlung des beizulegenden Zeitwerts einer Schuld, die nicht von einer anderen Partei als Vermögenswert gehalten wird (z. B. einer Entsorgungsverpflichtung) ein Barwertverfahren an, hat es unter anderem die künftigen Mittelabflüsse zu schätzen, von denen Marktteilnehmer erwarten würden, dass sie bei der Erfüllung der Verpflichtung entstehen. Solche künftigen Mittelabflüsse müssen die Erwartungen der Marktteilnehmer hinsichtlich der Kosten für die Erfüllung der Verpflichtung und die Gegenleistung, die ein Marktteilnehmer für die Übernahme der Verpflichtung verlangen würde, abdecken. Eine solche Gegenleistung umfasst auch die Rendite, die ein Marktteilnehmer für Folgendes verlangen würde:
+a) 
+
+die Durchführung der Tätigkeit (d. h. der Wert zur Erfüllung der Verpflichtung; z. B. durch die Verwendung von Ressourcen, die für andere Tätigkeiten verwendet werden könnten), und
+b) 
+
+Übernahme des mit der Verpflichtung einhergehenden Risikos (d.h. ein Risikoaufschlag, der das Risiko widerspiegelt, dass die tatsächlichen Mittelabflüsse von den erwarteten Mittelabflüssen abweichen könnten, siehe Paragraph B33).
+
+B32 Eine nicht finanzielle Verbindlichkeit enthält beispielsweise keine vertragliche Verzinsung und es gibt keine beobachtbare Marktrendite für diese Verbindlichkeit. In einigen Fällen werden sich die Bestandteile der von Marktteilnehmern verlangten Rendite nicht voneinander unterscheiden lassen (z. B. wenn der Preis verwendet wird, den ein dritter Auftragnehmer auf Grundlage eines festen Entgelts in Rechnung stellen würde). In anderen Fällen muss ein Unternehmen diese Bestandteile getrennt schätzen (z. B. wenn es den Preis zugrunde legt, den ein dritter Auftragnehmer auf der Grundlage eines Kostenzuschlags berechnen würde, da der Auftragnehmer in diesem Fall nicht das Risiko künftiger Kostenänderungen trägt).
+
+B33 Ein Unternehmen kann in die Zeitwertbewertung einer Schuld oder eines eigenen Eigenkapitalinstruments, die bzw. das nicht von einer anderen Partei als Vermögenswert gehalten wird, wie folgt einen Risikoaufschlag einbeziehen:
+a) 
+
+durch Anpassung der Zahlungsströme (d. h. durch eine Erhöhung des Betrags der Mittelabflüsse) oder
+b) 
+
+durch Anpassung des Satzes, der für die Abzinsung künftiger Zahlungsströme auf ihre Barwerte verwendet wird (d. h. durch eine Verringerung des Abzinsungssatzes).
+
+Unternehmen müssen sicherstellen, dass sie Risikoanpassungen nicht doppelt zählen oder auslassen. Werden die geschätzten Zahlungsströme z. B. erhöht, damit die Gegenleistung für die Übernahme des mit der Verpflichtung einhergehenden Risikos berücksichtigt wird, sollte der Abzinsungssatz nicht um dieses Risiko bereinigt werden.
+
+EINGANGSPARAMETER FÜR BEWERTUNGSVERFAHREN (PARAGRAPHEN 67–71)
+
+B34 Märkte, in denen für bestimmte Vermögenswerte und Schulden (z. B. Finanzinstrumente) Eingangsparameter beobachtet werden können, sind beispielsweise:
+a) 
+
+Börsen. In einer Börse sind Schlusskurse einerseits leicht verfügbar und andererseits allgemein repräsentativ für den beizulegenden Zeitwert. Ein Beispiel für einen solchen Markt ist die London Stock Exchange.
+b) 
+
+Händlermärkte. In einem Händlermarkt stehen Händler zum Kauf oder Verkauf auf eigene Rechnung bereit. Sie setzen ihr Kapital ein, um einen Bestand der Werte zu halten, für die sie einen Markt bilden, und stellen somit Liquidität zur Verfügung. Üblicherweise sind Geld- und Briefkurse (die den Preis darstellen, zu dem der Händler zum Kauf bzw. Verkauf bereit ist) leichter verfügbar als Schlusskurse. Außerbörsliche Märkte -„Over-the-Counter“ - (für die Preise öffentlich gemeldet werden) sind Händlermärkte. Händlermärkte gibt es auch für eine Reihe anderer Vermögenswerte und Schulden, u. a. bestimmte Finanzinstrumente, Waren und Sachvermögenswerte (z. B. gebrauchte Maschinen).
+c) 
+
+Vermittlermärkte. In einem Vermittlermarkt versuchen Broker, bzw. Makler, Käufer mit Verkäufern zusammenzubringen. Sie stehen aber nicht zum Handel auf eigene Rechnung bereit. Mit anderen Worten, Makler verwenden kein eigenes Kapital, um einen Bestand der Werte zu halten, für die sie einen Markt bilden. Der Makler kennt die von den jeweiligen Parteien angebotenen und verlangten Preise, aber normalerweise kennt keine Partei die Preisforderungen der jeweils anderen Partei. Mitunter sind Preise für abgeschlossene Geschäftsvorfälle verfügbar. Vermittlermärkte sind u. a. elektronische Kommunikationsnetze, in denen Kauf- und Verkaufsaufträge zusammengebracht werden, sowie Märkte für Gewerbe- und Wohnimmobilien.
+d) 
+
+Direktmärkte. In einem Direktmarkt werden sowohl Ausreichungs- als auch Wiederverkaufstransaktionen unabhängig und ohne Mittler ausgehandelt. Über Geschäftsvorfälle dieser Art werden der Öffentlichkeit eventuell nur wenige Informationen zur Verfügung gestellt.
+
+FAIR-VALUE-HIERARCHIE (PARAGRAPHEN 72–90)
+
+Eingangsparameter der Stufe 2 (Paragraphen 81–85)
+
+B35 Beispiele für Eingangsparameter der Stufe 2 für besondere Vermögenswerte und Schulden sind u. a.:
+a) 
+
+Festzinsempfänger-Swap, der auf dem London Interbank Offered Rate (LIBOR) Swapsatz basiert. Ein Eingangsparameter der Stufe 2 wäre der LIBOR Swapsatz, falls dieser in üblich notierten Intervallen für so gut wie die volle Laufzeit des Swap beobachtbar ist.
+b) 
+
+Festzinsempfänger-Swap, der auf einer Renditekurve in einer Fremdwährung basiert. Ein Eingangsparameter der Stufe 2 wäre der Swapsatz, der auf einer Renditekurve in einer Fremdwährung basiert, der in üblich notierten Intervallen für so gut wie die volle Laufzeit des Swap beobachtbar ist. Dies wäre der Fall, wenn die Laufzeit des Swap 10 Jahre betrüge und dieser Swapsatz in allgemein notierten Intervallen für 9 Jahre beobachtbar wäre, vorausgesetzt, dass jede angemessene Extrapolation der Renditekurve für das Jahr 10 für die Bewertung zum beizulegenden Zeitwert des Swap in seiner Gesamtheit nicht von Bedeutung wäre.
+c) 
+
+Festzinsempfänger-Swap, der auf einem bestimmten Leitzins einer Bank basiert. Ein Eingangsparameter der Stufe 2 wäre der Leitzins der Bank, abgeleitet durch Extrapolation, falls die extrapolierten Werte durch beobachtbare Marktdaten gestützt werden, zum Beispiel durch Korrelation mit einem Zinssatz, der für so gut wie die volle Laufzeit des Swap beobachtbar ist.
+d) 
+
+Dreijahresoption auf börsengehandelte Aktien. Ein Eingangsparameter der Stufe 2 wäre die implizite Volatilität der Aktien, abgeleitet durch Extrapolation auf das Jahr 3, wenn die beiden folgenden Bedingungen erfüllt sind:
+i) 
+
+Preise für Ein- und Zweijahresoptionen auf die Aktien sind beobachtbar,
+ii) 
+
+die extrapolierte implizite Volatilität einer Dreijahresoption wird für so gut wie die volle Laufzeit der Option durch beobachtbare Marktdaten gestützt.
+
+In diesem Fall könnte die implizite Volatilität durch Extrapolation der impliziten Volatilität der Einjahres- und Zweijahres-Optionen auf die Aktien abgeleitet werden und durch die implizite Volatilität für Dreijahres-Optionen auf vergleichbare Unternehmensaktien gestützt werden, vorausgesetzt, dass eine Korrelation mit den impliziten Einjahres- und Zweijahres-Volatilitäten begründet ist.
+e) 
+
+Lizenzvereinbarung. Bei einer Lizenzvereinbarung, die in einem Unternehmenszusammenschluss erworben wurde und in jüngster Zeit von dem erworbenen Unternehmen (der Partei zur Lizenzvereinbarung) mit einer fremden Partei ausgehandelt wurde, wäre die Lizenzgebühr, die bei Beginn der Vereinbarung in dem Vertrag mit der fremden Partei festgelegt wurde, ein Eingangsparameter der Stufe 2.
+f) 
+
+Fertigerzeugnisse in einem Einzelhandelsgeschäft. Für Fertigerzeugnisse, die bei einem Unternehmenszusammenschluss erworben werden, wäre ein Eingangsparameter der Stufe 2 entweder ein Preis für Kunden in einem Einzelhandelsmarkt oder ein Preis für Einzelhändler in einem Großhandelsmarkt, angepasst um Unterschiede hinsichtlich Zustand und Ort des Vorratspostens mit denen vergleichbarer (d. h. ähnlicher) Vorratsposten, sodass die Bewertung zum beizulegenden Zeitwert den Preis widerspiegelt, den man beim Verkauf des Bestands an einen anderen Einzelhändler, der die erforderlichen Verkaufsbemühungen durchführt, erhalten würde. Die Bewertung zum beizulegenden Zeitwert wird vom Konzept her gleich sein, unabhängig davon, ob die Anpassungen an den Einzelhandelspreis (nach unten) oder an den Großhandelspreis (nach oben) gemacht werden. Im Allgemeinen ist für die Bewertung zum beizulegenden Zeitwert der Preis zu verwenden, der die geringsten subjektiven Anpassungen erfordert.
+g) 
+
+Zur Nutzung gehaltene Gebäude. Der aus beobachtbaren Marktdaten abgeleitete Quadratmeterpreis für das Gebäude (Bewertungsmultiplikator) wäre ein Eingangsparameter der Stufe 2. Dieser Preis wird beispielsweise aus Multiplikatoren gewonnen, die ihrerseits aus Preisen abgeleitet wurden, die in Geschäftsvorfällen mit vergleichbaren (d. h. ähnlichen) Gebäuden an ähnlichen Standorten beobachtet wurden.
+h) 
+
+Zahlungsmittelgenerierende Einheit. Ein Bewertungsmultiplikator (z.B. ein Vielfaches der Ergebnisse, der Erlöse oder eines ähnlichen Maßstabs für die Ertragskraft), der aus beobachtbaren Marktdaten abgeleitet wird, wäre ein Eingangsparameter der Stufe 2. Dies könnten beispielsweise Bewertungsmultiplikatoren sein, die unter Berücksichtigung betrieblicher, marktbezogener, finanzieller und nicht finanzieller Faktoren aus Preisen abgeleitet werden, die in Geschäftsvorfällen mit vergleichbaren (d. h. ähnlichen) Geschäftsbetrieben beobachtet wurden.
+
+Eingangsparameter der Stufe 3 (Paragraphen 86–90)
+
+B36 Beispiele für Eingangsparameter der Stufe 3 für besondere Vermögenswerte und Schulden sind u. a.:
+a) 
+
+Langfristiger Währungsswap. Ein Eingangsparameter der Stufe 3 wäre ein Zinssatz in einer bestimmten Währung, der nicht beobachtbar ist und nicht durch beobachtbare Marktdaten - in üblich notierten Intervallen oder auf andere Weise - für so gut wie die volle Laufzeit des Swap gestützt werden kann. Bei den Zinssätzen in einem Währungsswap handelt es sich um die Swapsätze, die aus den Renditekurven der betreffenden Länder berechnet werden.
+b) 
+
+Dreijahresoption auf börsengehandelte Aktien. Die historische Volatilität, d. h. die aus den historischen Kursen der Aktien abgeleitete Volatilität wäre ein Eingangsparameter der Stufe 3. Die historische Volatilität stellt normalerweise nicht die gegenwärtigen Erwartungen der Marktteilnehmer über die künftige Volatilität dar, auch wenn sie die einzig verfügbare Information zur Preisbildung für eine Option ist.
+c) 
+
+Zinsswap. Eine Anpassung an einem übereingekommenen (unverbindlichen) mittleren Marktkurs für den Swap, der anhand von Daten entwickelt wurde, die nicht direkt beobachtbar sind und auch nicht anderweitig durch beobachtbare Marktdaten belegt werden können, wäre ein Eingangsparameter der Stufe 3.
+d) 
+
+Bei einem Unternehmenszusammenschluss übernommene Entsorgungsverpflichtung Ein Eingangsparameter der Stufe 3 wäre eine aktuelle Schätzung des Unternehmens über die künftigen Mittelabflüsse, die zur Erfüllung der Verpflichtung zu tragen wären, wenn es keine bei vertretbarem Aufwand verfügbaren Informationen gibt, die darauf hinweisen, dass Marktteilnehmer von anderen Annahmen ausgehen würden. Dabei legt das Unternehmen eigene Daten zugrunde und schließt die Erwartungen der Marktteilnehmer über die Kosten für die Erfüllung der Verpflichtung ein. Ebenfalls berücksichtigt wird die Gegenleistung, die ein Marktteilnehmer für die Übernahme der Verpflichtung zur Demontage des Vermögenswerts verlangen würde. Dieser Eingangsparameter der Stufe 3 würde in einem Barwertverfahren zusammen mit anderen Eingangsparametern verwendet. Dies könnte ein aktueller risikoloser Zinssatz oder ein bonitätsbereinigter risikoloser Zinssatz sein, wenn sich die Auswirkung der Bonität des Unternehmens auf den beizulegenden Zeitwert der Schuld im Abzinsungssatz widerspiegelt und nicht in der Schätzung künftiger Mittelabflüsse.
+e) 
+
+Zahlungsmittelgenerierende Einheit. Eine Finanzprognose (z. B. über Zahlungsströme oder Gewinn bzw. Verlust), die anhand eigener Daten des Unternehmens entwickelt wird, wenn es keine bei vertretbarem Aufwand verfügbaren Informationen gibt, die darauf hinweisen, dass Marktteilnehmer von anderen Annahmen ausgehen würden, wäre ein Eingangsparameter der Stufe 3.
+
+ERMITTLUNG DES BEIZULEGENDEN ZEITWERTS BEI EINEM ERHEBLICHEN RÜCKGANG DES VOLUMENS ODER DES UMFANGS DER AKTIVITÄTEN BEI EINEM VERMÖGENSWERT ODER EINER SCHULD
+
+B37 Der beizulegende Zeitwert eines Vermögenswerts oder einer Schuld kann dadurch beeinflusst werden, dass Volumen oder Umfang der Aktivität im Vergleich zur normalen Markttätigkeit für den Vermögenswert oder die Schuld (bzw. ähnliche Vermögenswerte oder Schulden) erheblich zurückgehen. Um auf der Grundlage vorliegender Nachweise bestimmen zu können, ob ein erheblicher Rückgang im Volumen oder Tätigkeitsniveau für den Vermögenswert oder die Schuld eingetreten ist, wertet ein Unternehmen die Bedeutung und Relevanz von Faktoren wie den unten genannten aus:
+a) 
+
+in jüngster Zeit fanden wenig Geschäftsvorfälle statt,
+b) 
+
+Preisnotierungen werden nicht auf der Grundlage aktueller Informationen entwickelt,
+c) 
+
+Preisnotierungen unterliegen entweder im Zeitablauf oder von einem Marktmacher zum anderen (z. B. zwischen einigen Vermittlermärkten) erheblichen Schwankungen,
+d) 
+
+Indizes, die früher in enger Korrelation zu den beizulegenden Zeitwerten des Vermögenswerts oder der Schuld standen, haben nachweislich keinen Bezug zu neuesten Anhaltspunkten für den beizulegenden Zeitwert des betreffenden Vermögenswerts oder der betreffenden Schuld mehr,
+e) 
+
+im Vergleich zur Schätzung des Unternehmens über erwartete Zahlungsströme unter Berücksichtigung aller verfügbaren Marktdaten über das Kreditrisiko und andere Nichterfüllungsrisiken für den Vermögenswert oder die Schuld ist bei beobachteten Geschäftsvorfällen oder notierten Preisen ein erheblicher Anstieg bei den impliziten Liquiditätsrisikoaufschlägen, Renditen oder Leistungsindikatoren (beispielsweise Säumnisraten oder Schweregrad der Verluste) eingetreten,
+f) 
+
+es besteht eine weite Geld-Brief-Spanne oder die Geld-Brief-Spanne hat erheblich zugenommen,
+g) 
+
+die Aktivitäten im Markt für Neuemission (d. h. einem Hauptmarkt) für den Vermögenswert oder die Schuld bzw. für ähnliche Vermögenswerte oder Schulden sind erheblich zurückgegangen oder ein solcher Markt ist überhaupt nicht vorhanden,
+h) 
+
+es sind nur wenige Informationen öffentlich zugänglich (z. B. über Geschäftsvorfälle, die in einem Direktmarkt stattfinden).
+
+B38 Gelangt ein Unternehmen zu dem Schluss, dass es einen signifikanten Rückgang des Volumens oder des Ausmaßes der Aktivität für den Vermögenswert oder die Schuld im Verhältnis zur normalen Marktaktivität für den Vermögenswert oder die Schuld (oder ähnlicher Vermögenswerte und Schulden) gegeben hat, werden weitere Analysen der Transaktionen oder der notierten Preise benötigt Ein Rückgang des Volumens oder des Ausmaßes der Aktivität muss für sich gesehen nicht darauf hindeuten, dass eine Transaktionspreis oder ein notierter Preis nicht den beizulegenden Zeitwert repräsentiert, oder dass ein Geschäftsvorfall in diesem Markt kein gewöhnlicher ist. Stellt ein Unternehmen jedoch fest, dass ein Transaktionspreis oder notierter Preis den beizulegenden Zeitwert nicht repräsentiert (wenn es beispielsweise Geschäftsvorfälle gegeben hat, die nicht geordnet abgelaufen sind), ist eine Anpassung der Transaktionspreise oder notierten Preise notwendig, wenn das Unternehmen diese Preise als Grundlage für die Ermittlung des beizulegenden Zeitwerts nutzt. Diese Anpassung kann für die gesamte Bewertung zum beizulegenden Zeitwert Bedeutung haben. Anpassungen können auch unter anderen Umständen erforderlich sein (z. B. wenn ein Preis für einen ähnlichen Vermögenswert eine erhebliche Anpassung erfordert, um Vergleichbarkeit mit dem zu bewertenden Vermögenswert herzustellen, oder wenn der Preis überholt ist).
+
+B39 Der vorliegende IFRS schreibt keine Methodik für erhebliche Anpassungen an Transaktionspreisen oder notierten Preisen vor. Eine Erörterung der Anwendung von Bewertungsverfahren bei der Ermittlung des beizulegenden Zeitwerts ist den Paragraphen 61–66 und B5–B11 zu entnehmen. Ungeachtet des jeweils verwendeten Bewertungsverfahrens muss ein Unternehmen angemessene Risikoanpassungen berücksichtigen. Hierzu gehört auch ein Risikoaufschlag, in dem sich der Betrag widerspiegelt, den Marktteilnehmer als Gegenleistung für die Unsicherheit verlangen würden, die den Zahlungsströmen eines Vermögenswerts oder einer Schuld anhaftet (siehe Paragraph B17). Andernfalls gibt die Bewertung den beizulegenden Zeitwert nicht glaubwürdig wieder. Mitunter kann die Bestimmung der angemessenen Risikoanpassung schwierig sein. Der Schwierigkeitsgrad allein bildet jedoch keine hinreichende Grundlage für den Ausschluss einer Risikoanpassung. Die Risikoanpassung muss einen am Bewertungsstichtag unter aktuellen Marktbedingungen zwischen Marktteilnehmern stattfindenden, gewöhnlichen Geschäftsvorfall widerspiegeln.
+
+B40 Sind das Volumen oder der Umfang der Aktivität für den Vermögenswert oder die Schuld erheblich zurückgegangen, kann eine Änderung des Bewertungsverfahrens oder die Verwendung mehrerer Bewertungsverfahren angemessen sein (z. B. der Einsatz eines marktbasierten Ansatzes und eines Barwertverfahrens). Bei der Gewichtung der Anhaltspunkte für den beizulegenden Zeitwert, die aus dem Einsatz mehrerer Bewertungsverfahren gewonnen wurden, muss ein Unternehmen die Plausibilität des Wertebereichs für die Zeitwertbewertungen berücksichtigen. Die Zielsetzung besteht in der Bestimmung des Punktes innerhalb des Wertebereichs, der für den beizulegenden Zeitwert unter gegenwärtigen Marktbedingungen am repräsentativsten ist. Eine große Bandbreite von Zeitwerten kann ein Hinweis darauf sein, dass weitere Analysen notwendig sind.
+
+B41 Auch wenn Volumen oder Aktivitätsumfang für den Vermögenswert oder die Schuld erheblich zurückgegangen sind, ändert sich das Ziel einer Bewertung zum beizulegenden Zeitwert nicht. Der beizulegende Zeitwert ist der Preis, zu dem unter aktuellen Marktbedingungen am Bewertungsstichtag bei einem gewöhnlichen Geschäftsvorfall (d. h. keine Zwangsliquidation und kein Notverkauf) zwischen Marktteilnehmern ein Vermögenswert verkauft oder eine Schuld übertragen würde.
+
+B42 Die Schätzung des Preises, zu dem Marktteilnehmer unter aktuellen Marktbedingungen am Bewertungsstichtag zum Abschluss einer Transaktion bereit wären, wenn ein erheblicher Rückgang im Umfang oder Tätigkeitsniveau für den Vermögenswert oder die Schuld eingetreten ist, hängt von den Sachverhalten und Umständen am Bewertungsstichtag ab. Hier ist Ermessensausübung gefordert. Die Absicht eines Unternehmens, den Vermögenswert zu halten oder die Schuld auszugleichen oder anderweitig zu erfüllen ist bei der Ermittlung des beizulegenden Zeitwerts unerheblich, weil der beizulegende Zeitwert eine marktbasierte, keine unternehmensspezifische Bewertungsgröße darstellt.
+
+Ermittlung von nicht gewöhnlichen Geschäftsvorfällen
+
+B43 Die Feststellung, ob ein Geschäftsvorfall gewöhnlich (oder nicht gewöhnlich) ist, wird erschwert, wenn im Umfang oder Tätigkeitsniveau für den Vermögenswert oder die Schuld im Vergleich zu der normalen Markttätigkeiten für diesen Vermögenswert bzw. diese Schuld (oder ähnliche Vermögenswerte oder Schulden) ein erheblicher Rückgang eingetreten ist. Unter derartigen Umständen den Schluss zu ziehen, dass sämtliche Geschäftsvorfälle in dem betreffenden Markt nicht gewöhnlich (d. h. Zwangsliquidationen oder Notverkäufe) sind, ist nicht angemessen. Umstände, die darauf hinweisen können, dass ein Geschäftsvorfall nicht gewöhnlich ist, sind unter anderem:
+a) 
+
+In einem bestimmten Zeitraum vor dem Bewertungsstichtag bestand keine angemessene Marktpräsenz, um Vermarktungstätigkeiten zu ermöglichen, die für Geschäftsvorfälle unter Beteiligung der betroffenen Vermögenswerte oder Schulden unter aktuellen Marktbedingungen allgemein üblich sind.
+b) 
+
+Es bestand ein allgemein üblicher Vermarktungszeitraum, der Verkäufer setzte den Vermögenswert oder die Schuld aber bei einem einzigen Marktteilnehmer ab.
+c) 
+
+Der Verkäufer ist in oder nahe am Konkurs oder steht unter Konkursverwaltung (d. h. der Verkäufer ist in einer Notlage).
+d) 
+
+Der Verkäufer musste verkaufen, um aufsichtsbehördliche oder gesetzliche Vorschriften zu erfüllen (d. h. der Verkäufer stand unter Zwang).
+e) 
+
+Im Vergleich zu anderen, in jüngster Zeit erfolgten Geschäftsvorfällen mit dem gleichen oder einem ähnlichen Vermögenswert bzw. der gleichen oder einer ähnlichen Schuld stellt der Transaktionspreis einen statistischen Ausreißer dar.
+
+Ein Unternehmen muss die Umstände auswerten, um unter Berücksichtigung des Gewichts der verfügbaren Anhaltspunkte festzustellen zu können, ob der Geschäftsvorfall ein gewöhnlicher Geschäftsvorfall war.
+
+B44 Bei der Ermittlung des beizulegenden Zeitwerts oder der Schätzung von Marktrisikoaufschlägen muss ein Unternehmen Folgendes berücksichtigen:
+a) 
+
+Gibt es Anhaltspunkte dafür, dass ein Geschäftsvorfall nicht gewöhnlich ist, legt ein Unternehmen (im Vergleich zu anderen Anhaltspunkten für den beizulegenden Zeitwert) wenig oder gar kein Gewicht auf den betreffenden Transaktionspreis.
+b) 
+
+Gibt es Anhaltspunkte dafür, dass ein Geschäftsvorfall gewöhnlich ist, berücksichtigt das Unternehmen den betreffenden Transaktionspreis. Wie hoch das Gewicht ist, das dem betreffenden Transaktionspreis im Vergleich zu anderen Anhaltspunkten für den beizulegenden Zeitwert beigemessen wird, hängt von den jeweiligen Fakten und Umständen ab, beispielsweise
+i) 
+
+dem Umfang des Geschäftsvorfalls,
+ii) 
+
+der Vergleichbarkeit des Geschäftsvorfalls mit dem bewerteten Vermögenswert bzw. der bewerteten Schuld,
+iii) 
+
+der zeitlichen Nähe des Geschäftsvorfalls zum Bewertungsstichtag.
+c) 
+
+Verfügt ein Unternehmen nicht über ausreichende Informationen, um daraus schließen zu können, dass ein Geschäftsvorfall gewöhnlich ist, berücksichtigt es den Transaktionspreis. Der Transaktionspreis stellt jedoch unter Umständen nicht den beizulegenden Zeitwert dar (d. h. der Transaktionspreis ist nicht unbedingt die einzige oder vorrangige Grundlage für die Ermittlung des beizulegenden Zeitwerts oder die Schätzung von Marktrisikoaufschlägen). Verfügt ein Unternehmen nicht über ausreichende Informationen, um daraus schließen zu können, ob bestimmte Geschäftsvorfälle gewöhnlich sind, legt das Unternehmen im Vergleich zu anderen Geschäftsvorfällen, deren Ordnungsmäßigkeit bekannt ist, weniger Gewicht auf die betreffenden Geschäftsvorfälle.
+
+Ein Unternehmen muss für die Feststellung, ob ein Geschäftsvorfall gewöhnlich ist, keine umfassenden Anstrengungen unternehmen, darf aber Informationen, die bei vertretbarem Aufwand verfügbar sind, nicht ignorieren. Ist ein Unternehmen in einem Geschäftsvorfall beteiligte Partei, wird davon ausgegangen dass es über ausreichende Informationen für die Schlussfolgerung verfügt, ob der Geschäftsvorfall gewöhnlich ist.
+
+Verwendung notierter Preise, die von Dritten bereitgestellt werden
+
+B45 Der vorliegende IFRS schließt die Verwendung notierter Preise, die von Dritten, wie Kursinformationsdiensten oder Maklern, bereitgestellt werden, nicht aus, sofern das Unternehmen festgestellt hat, dass die von diesen Dritten bereitgestellten notierten Preise gemäß vorliegendem IFRS entwickelt wurden.
+
+B46 Im Fall eines erheblichen Rückgangs beim Umfang oder Tätigkeitsniveau für den Vermögenswert oder die Schuld hat das Unternehmen zu beurteilen, ob die von Dritten bereitgestellten notierten Preise unter Verwendung aktueller Informationen entwickelt wurden, und ob sie gewöhnliche Geschäftsvorfälle oder ein Bewertungsverfahren wiedergeben, in denen sich die Annahmen der Marktteilnehmer widerspiegeln (einschließlich der Risikoannahmen). Bei der Gewichtung eines notierten Preises als Eingangsparameter für eine Bewertung zum beizulegenden Zeitwert legt ein Unternehmen (im Vergleich zu anderen Anhaltspunkten für den beizulegenden Zeitwert, in denen sich das Ergebnis von Geschäftsvorfällen spiegelt) weniger Gewicht auf Notierungen, die nicht das Ergebnis von Geschäftsvorfällen widerspiegeln.
+
+B47 Darüber hinaus ist bei der Gewichtung der verfügbaren Anhaltspunkte die Art der Notierung zu berücksichtigen (beispielsweise, ob die Notierung ein Taxkurs oder ein verbindliches Angebot ist). Dabei werden Notierungen Dritter, die verbindliche Angebote darstellen, stärker gewichtet.
+
+Anhang C
+
+Datum des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil des IFRS und hat die gleiche bindende Kraft wie die anderen Teile des IFRS.
+
+C1 Dieser IFRS ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2013 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen IFRS früher an, hat es dies anzugeben.
+
+C2 Dieser IFRS ist prospektiv ab Beginn des Geschäftsjahrs anzuwenden, in dem er erstmals angewendet wird.
+
+C3 Die Angabepflichten dieses IFRS gelten nicht für Vergleichsinformationen, die für Geschäftsjahre vor der erstmaligen Anwendung dieses IFRS zur Verfügung gestellt werden.
+
+C4 Durch die Jährlichen Verbesserungen, Zyklus 2011–2013, veröffentlicht im Dezember 2013, wurde Paragraph 52 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2014 beginnen. Diese Änderung ist prospektiv ab Beginn des Geschäftsjahrs anzuwenden, in dem IFRS 13 erstmals angewandt wurde. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+C5 Durch IFRS 9, veröffentlicht im Juli 2014, wurde Paragraph 52 geändert. Wendet ein Unternehmen IFRS 9 an, hat es auch diese Änderung anzuwenden.
+
+C6 Durch IFRS 16 Leasingverhältnisse, veröffentlicht im Januar 2016, wurde Paragraph 6 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.

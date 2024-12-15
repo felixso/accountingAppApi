@@ -1,0 +1,157 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 23
+
+Fremdkapitalkosten
+
+GRUNDPRINZIP
+
+1   Fremdkapitalkosten, die einzeln dem Erwerb, dem Bau oder der Herstellung eines qualifizierten Vermögenswerts zugeordnet werden können, gehören zu den Anschaffungs- oder Herstellungskosten dieses Vermögenswerts. Andere Fremdkapitalkosten werden als Aufwand erfasst.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist auf die bilanzielle Behandlung von Fremdkapitalkosten anzuwenden.
+
+3 Der Standard befasst sich nicht mit den tatsächlichen oder kalkulatorischen Kosten des Eigenkapitals, was auch bevorrechtigte Kapitalbestandteile, die nicht als Schuld einzustufen sind, einschließt.
+
+4 Ein Unternehmen ist nicht verpflichtet, den Standard auf Fremdkapitalkosten anzuwenden, die einzeln dem Erwerb, dem Bau oder der Herstellung folgender Vermögenswerte zugeordnet werden können:
+a) 
+
+qualifizierte Vermögenswerte, die zum beizulegenden Zeitwert bewertet werden, wie beispielsweise biologische Vermögenswerte im Anwendungsbereich von IAS 41 Landwirtschaft, oder
+b) 
+
+Vorräte, die in großen Mengen wiederholt gefertigt oder auf andere Weise hergestellt werden.
+
+DEFINITIONEN
+
+5   In diesem Standard werden die folgenden Begriffe mit der angegebenen Bedeutung verwendet:
+Fremdkapitalkosten sind Zinsen und sonstige Kosten, die bei einem Unternehmen im Zusammenhang mit der Aufnahme von Fremdkapital anfallen.
+Ein qualifizierter Vermögenswert ist ein Vermögenswert, für den ein beträchtlicher Zeitraum erforderlich ist, um ihn in seinen beabsichtigten gebrauchs- oder verkaufsfähigen Zustand zu versetzen.
+
+6 Fremdkapitalkosten können Folgendes umfassen:
+a) 
+
+Zinsaufwand, der nach der in IFRS 9 beschriebenen Effektivzinsmethode berechnet wird,
+b) 
+
+[gestrichen]
+c) 
+
+[gestrichen]
+d) 
+
+Finanzierungskosten aus Finanzierungs-Leasingverhältnissen, die gemäß IFRS 16 Leasingverhältnisse erfasst werden, und
+e) 
+
+Währungsdifferenzen aus Fremdwährungskrediten, soweit sie als Zinskorrektur anzusehen sind.
+
+7 Je nach Art der Umstände kommen als qualifizierte Vermögenswerte in Betracht:
+a) 
+
+Vorräte,
+b) 
+
+Fabrikationsanlagen,
+c) 
+
+Energieversorgungseinrichtungen,
+d) 
+
+immaterielle Vermögenswerte,
+e) 
+
+als Finanzinvestitionen gehaltene Immobilien,
+f) 
+
+fruchttragende Pflanzen.
+
+Finanzielle Vermögenswerte und Vorräte, die über einen kurzen Zeitraum gefertigt oder auf andere Weise hergestellt werden, sind keine qualifizierten Vermögenswerte. Gleiches gilt für Vermögenswerte, die bereits bei Erwerb in ihrem beabsichtigten gebrauchs- oder verkaufsfähigen Zustand sind.
+
+ANSATZ
+
+8   Fremdkapitalkosten, die einzeln dem Erwerb, dem Bau oder der Herstellung eines qualifizierten Vermögenswerts zugeordnet werden können, sind als Teil der Anschaffungs- oder Herstellungskosten dieses Vermögenswerts zu aktivieren. Andere Fremdkapitalkosten sind in der Periode ihres Anfalls als Aufwand zu erfassen.
+
+9 Fremdkapitalkosten, die einzeln dem Erwerb, dem Bau oder der Herstellung eines qualifizierten Vermögenswerts zugeordnet werden können, gehören zu den Anschaffungs- oder Herstellungskosten dieses Vermögenswerts. Solche Fremdkapitalkosten werden als Teil der Anschaffungs- oder Herstellungskosten des Vermögenswerts aktiviert, wenn wahrscheinlich ist, dass dem Unternehmen hieraus künftiger wirtschaftlicher Nutzen erwächst und die Kosten verlässlich ermittelt werden können. Wenn ein Unternehmen IAS 29 Rechnungslegung in Hochinflationsländern anwendet, hat es gemäß Paragraph 21 des genannten Standards jenen Teil der Fremdkapitalkosten als Aufwand zu erfassen, der als Ausgleich für die Inflation im entsprechenden Zeitraum dient.
+
+Aktivierbare Fremdkapitalkosten
+
+10 Fremdkapitalkosten, die einzeln dem Erwerb, dem Bau oder der Herstellung eines qualifizierten Vermögenswerts zugeordnet werden können, sind solche Fremdkapitalkosten, die vermieden worden wären, wenn die Ausgaben für den qualifizierten Vermögenswert nicht getätigt worden wären. Wenn ein Unternehmen speziell für die Beschaffung eines bestimmten qualifizierten Vermögenswerts Mittel aufnimmt, können die Fremdkapitalkosten, die diesem qualifizierten Vermögenswert einzeln zugeordnet werden können, ohne Weiteres bestimmt werden.
+
+11 Es kann schwierig sein, einen direkten Zusammenhang zwischen bestimmten Fremdkapitalaufnahmen und einem qualifizierten Vermögenswert festzustellen und die Fremdkapitalaufnahmen zu bestimmen, die andernfalls hätten vermieden werden können. Solche Schwierigkeiten ergeben sich beispielsweise, wenn die Finanzierungstätigkeit eines Unternehmens zentral koordiniert wird. Schwierigkeiten treten auch dann auf, wenn ein Konzern verschiedene Schuldinstrumente mit unterschiedlichen Zinssätzen in Anspruch nimmt und diese Mittel zu unterschiedlichen Bedingungen an andere Unternehmen des Konzerns ausleiht. Andere Komplikationen erwachsen aus der Inanspruchnahme von Fremdwährungskrediten oder von Krediten, die an Fremdwährungen gekoppelt sind, wenn der Konzern in Hochinflationsländern tätig ist, sowie aus Wechselkursschwankungen. Dies führt dazu, dass der Betrag der Fremdkapitalkosten, die einzeln einem qualifizierten Vermögenswert zugeordnet werden können, schwierig zu bestimmen ist und einer Ermessensentscheidung bedarf.
+
+12   Hat ein Unternehmen Fremdmittel speziell für die Beschaffung eines qualifizierten Vermögenswerts aufgenommen, ist der Betrag der für diesen Vermögenswert aktivierbaren Fremdkapitalkosten als die tatsächlich in der Periode aufgrund dieser Fremdkapitalaufnahme angefallenen Fremdkapitalkosten abzüglich etwaiger Anlageerträge aus der vorübergehenden Zwischenanlage dieser Mittel zu bestimmen.
+
+13 Die Finanzierungsvereinbarungen für einen qualifizierten Vermögenswert können dazu führen, dass ein Unternehmen die Mittel erhält und ihm die damit verbundenen Fremdkapitalkosten entstehen, bevor diese Mittel ganz oder teilweise für Zahlungen für den qualifizierten Vermögenswert verwendet werden. In einem solchen Fall werden die Mittel häufig vorübergehend bis zur Verwendung für den qualifizierten Vermögenswert angelegt. Bei der Bestimmung des Betrags der aktivierbaren Fremdkapitalkosten einer Periode werden alle Anlageerträge aus derartigen Finanzinvestitionen von den angefallenen Fremdkapitalkosten abgezogen.
+
+14   Hat ein Unternehmen Fremdmittel allgemein aufgenommen und für die Beschaffung eines qualifizierten Vermögenswerts verwendet hat, ist der Betrag der aktivierbaren Fremdkapitalkosten durch Anwendung eines Finanzierungskostensatzes auf die Ausgaben für diesen Vermögenswert zu bestimmen. Als Finanzierungskostensatz ist der gewogene Durchschnitt der Fremdkapitalkosten für sämtliche Kredite des Unternehmens zugrunde zu legen, die während der Periode bestanden haben. Allerdings hat ein Unternehmen Fremdkapitalkosten, die Fremdkapital betreffen, das speziell für die Beschaffung eines qualifizierten Vermögenswerts aufgenommen wurde, solange aus dieser Berechnung auszunehmen, bis alle Arbeiten, die erforderlich sind, um den Vermögenswert für seinen beabsichtigten Gebrauch oder Verkauf vorzubereiten, im Wesentlichen fertiggestellt sind. Die während einer Periode aktivierten Fremdkapitalkosten dürfen die in der betreffenden Periode angefallenen Fremdkapitalkosten nicht übersteigen.
+
+15 In manchen Fällen ist es angebracht, alle Fremdkapitalaufnahmen des Mutterunternehmens und seiner Tochterunternehmen in die Berechnung des gewogenen Durchschnitts der Fremdkapitalkosten einzubeziehen. In anderen Fällen ist es angebracht, dass jedes Tochterunternehmen den für seine eigenen Fremdkapitalaufnahmen geltenden gewogenen Durchschnitt der Fremdkapitalkosten verwendet.
+
+Buchwert des qualifizierten Vermögenswerts ist höher als der erzielbare Betrag
+
+16 Ist der Buchwert oder sind die letztlich zu erwartenden Anschaffungs- oder Herstellungskosten des qualifizierten Vermögenswerts höher als sein erzielbarer Betrag oder sein Nettoveräußerungswert, so wird der Buchwert gemäß den Vorschriften anderer Standards außerplanmäßig abgeschrieben oder ausgebucht. In bestimmten Fällen wird der Betrag der außerplanmäßigen Abschreibung oder Ausbuchung gemäß diesen anderen Standards später wieder zugeschrieben bzw. eingebucht.
+
+Beginn der Aktivierung
+
+17   Ein Unternehmen hat mit der Aktivierung der Fremdkapitalkosten als Teil der Anschaffungs- oder Herstellungskosten eines qualifizierten Vermögenswerts am Anfangszeitpunkt zu beginnen. Der Anfangszeitpunkt für die Aktivierung ist der Tag, an dem das Unternehmen alle folgenden Bedingungen erfüllt:
+a) 
+
+es fallen Ausgaben für den Vermögenswert an,
+b) 
+
+es fallen Fremdkapitalkosten an, und
+c) 
+
+es werden die erforderlichen Arbeiten durchgeführt, um den Vermögenswert für seinen beabsichtigten Gebrauch oder Verkauf herzurichten.
+
+18 Ausgaben für einen qualifizierten Vermögenswert umfassen nur solche Ausgaben, die durch Barzahlungen, Übertragung anderer Vermögenswerte oder die Übernahme verzinslicher Schulden erfolgt sind. Die Ausgaben werden um alle in Verbindung mit dem Vermögenswert erhaltenen Abschlagszahlungen und Zuwendungen gekürzt (siehe IAS 20 Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand). Der durchschnittliche Buchwert des Vermögenswerts während einer Periode einschließlich der früher aktivierten Fremdkapitalkosten ist in der Regel ein angemessener Näherungswert für die Ausgaben, auf die der Finanzierungskostensatz in der betreffenden Periode angewendet wird.
+
+19 Die Arbeiten, die erforderlich sind, um den Vermögenswert für seinen beabsichtigten Gebrauch oder Verkauf herzurichten, umfassen mehr als die physische Herstellung des Vermögenswerts. Darin eingeschlossen sind auch technische und administrative Arbeiten vor dem Beginn der physischen Herstellung, wie beispielsweise die Tätigkeiten, die mit der Einholung von Genehmigungen vor Beginn der physischen Herstellung verbunden sind. Davon ausgeschlossen ist jedoch das bloße Halten eines Vermögenswerts ohne jedwede Bearbeitung oder Entwicklung, die seinen Zustand verändert. Beispielsweise werden Fremdkapitalkosten, die während der Erschließung unbebauter Grundstücke anfallen, in der Periode aktiviert, in der die mit der Erschließung zusammenhängenden Arbeiten unternommen werden. Werden jedoch für Bebauungszwecke erworbene Grundstücke ohne eine damit verbundene Erschließungstätigkeit gehalten, sind Fremdkapitalkosten, die während dieser Zeit anfallen, nicht aktivierbar.
+
+Unterbrechung der Aktivierung
+
+20   Ein Unternehmen hat die Aktivierung von Fremdkapitalkosten zu unterbrechen, wenn es die aktive Entwicklung eines qualifizierten Vermögenswerts für einen längeren Zeitraum unterbricht.
+
+21 Bei einem Unternehmen können Fremdkapitalkosten während eines längeren Zeitraumes anfallen, in dem das Unternehmen die Arbeiten, die erforderlich sind, um einen Vermögenswert für den beabsichtigten Gebrauch oder Verkauf herzurichten, unterbrochen hat. Bei diesen Kosten handelt es sich um Kosten für das Halten teilweise fertiggestellter Vermögenswerte, die nicht aktivierbar sind. Im Regelfall unterbricht ein Unternehmen die Aktivierung von Fremdkapitalkosten allerdings nicht, wenn das Unternehmen während einer Periode wesentliche technische und administrative Leistungen erbracht hat. Ein Unternehmen unterbricht die Aktivierung von Fremdkapitalkosten ferner nicht, wenn eine vorübergehende Verzögerung notwendiger Prozessbestandteil ist, um den Vermögenswert für seinen beabsichtigten Gebrauch oder Verkauf herzurichten. Beispielsweise läuft die Aktivierung über einen solchen längeren Zeitraum weiter, um den sich Brückenbauarbeiten aufgrund hoher Wasserstände verzögern, sofern mit derartigen Wasserständen innerhalb der Bauzeit in der betreffenden geographischen Region üblicherweise zu rechnen ist.
+
+Beendigung der Aktivierung
+
+22   Ein Unternehmen hat die Aktivierung von Fremdkapitalkosten zu beenden, wenn im Wesentlichen alle Arbeiten abgeschlossen sind, um den qualifizierten Vermögenswert für seinen beabsichtigten Gebrauch oder Verkauf herzurichten.
+
+23 Ein Vermögenswert ist in der Regel dann für seinen beabsichtigten Gebrauch oder Verkauf fertiggestellt, wenn die physische Herstellung des Vermögenswerts abgeschlossen ist, auch wenn routinemäßige Verwaltungsarbeiten noch andauern. Wenn lediglich geringfügige Veränderungen ausstehen, wie die Ausstattung eines Gebäudes nach den Angaben des Käufers oder Benutzers, deutet dies darauf hin, dass im Wesentlichen alle Arbeiten abgeschlossen sind.
+
+24   Wenn ein Unternehmen die Herstellung eines qualifizierten Vermögenswerts in Teilen abgeschlossen hat und die einzelnen Teile nutzbar sind, während der Herstellungsprozess für weitere Teile fortgesetzt wird, hat das Unternehmen die Aktivierung der Fremdkapitalkosten zu beenden, wenn im Wesentlichen alle Arbeiten abgeschlossen sind, um den betreffenden Teil für den beabsichtigten Gebrauch oder Verkauf herzurichten.
+
+25 Ein Gewerbepark mit mehreren Gebäuden, die jeweils einzeln genutzt werden können, ist ein Beispiel für einen qualifizierten Vermögenswert, bei dem einzelne Teile nutzbar sind, während andere Teile noch erstellt werden. Ein Beispiel für einen qualifizierten Vermögenswert, der fertiggestellt sein muss, bevor irgendein Teil genutzt werden kann, ist eine industrielle Anlage mit verschiedenen Prozessen, die nacheinander in verschiedenen Teilen der Anlage am selben Standort ablaufen, wie beispielsweise ein Stahlwerk.
+
+ANGABEN
+
+26   Ein Unternehmen hat Folgendes anzugeben:
+a) 
+
+den Betrag der in der Periode aktivierten Fremdkapitalkosten und
+b) 
+
+den Finanzierungskostensatz, der bei der Bestimmung der aktivierbaren Fremdkapitalkosten zugrunde gelegt worden ist.
+
+ÜBERGANGSVORSCHRIFTEN
+
+27   Sofern die Anwendung dieses Standards zu einer Änderung der Rechnungslegungsmethoden führt, hat ein Unternehmen den Standard auf die Fremdkapitalkosten für qualifizierte Vermögenswerte anzuwenden, deren Anfangszeitpunkt für die Aktivierung am oder nach dem Tag des Inkrafttretens liegt.
+
+28   Ein Unternehmen kann jedoch einen beliebigen Tag vor dem Zeitpunkt des Inkrafttretens bestimmen und den Standard auf die Fremdkapitalkosten für alle qualifizierten Vermögenswerte anwenden, deren Anfangszeitpunkt für die Aktivierung am oder nach diesem Tag liegt.
+
+28A Durch die Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2015–2017, veröffentlicht im Dezember 2017, wurde Paragraph 14 geändert. Diese Änderung ist auf Fremdkapitalkosten anzuwenden, die mit oder nach Beginn des Geschäftsjahrs anfallen, in dem die Änderungen zum ersten Mal angewandt werden.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+29 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diesen Standard auf Berichtsperioden an, die vor dem 1. Januar 2009 beginnen, hat es dies anzugeben.
+
+29A Durch die Verbesserungen der IFRS, veröffentlicht im Mai 2008, wurde Paragraph 6 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderung auf eine frühere Periode an, hat es dies anzugeben.
+
+29B Durch IFRS 9, veröffentlicht im Juli 2014, wurde Paragraph 6 geändert. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderung ebenfalls anzuwenden.
+
+29C Durch IFRS 16, veröffentlicht im Januar 2016, wurde Paragraph 6 geändert. Wendet ein Unternehmen IFRS 16 an, hat es diese Änderung ebenfalls anzuwenden.
+
+29D Durch die Jährlichen Verbesserungen an den IFRS-Standards, Zyklus 2015–2017, veröffentlicht im Dezember 2017, wurde Paragraph 14 geändert und Paragraph 28A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2019 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen zu einem früheren Zeitpunkt an, hat es dies anzugeben.
+
+RÜCKNAHME VON IAS 23 (ÜBERARBEITET 1993)
+
+30 Der vorliegende Standard ersetzt IAS 23 Fremdkapitalkosten (überarbeitet 1993).

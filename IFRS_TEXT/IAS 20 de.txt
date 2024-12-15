@@ -1,0 +1,187 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 20
+
+Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand  ( 11 )
+
+ANWENDUNGSBEREICH
+
+1   Dieser Standard ist auf die Bilanzierung und Darstellung von Zuwendungen der öffentlichen Hand sowie auf die Angaben sonstiger Unterstützungsmaßnahmen der öffentlichen Hand anzuwenden.
+
+2 Folgende Fragestellungen werden in diesem Standard nicht behandelt:
+a) 
+
+die besonderen Probleme, die sich aus der Bilanzierung von Zuwendungen der öffentlichen Hand in Abschlüssen ergeben, die die Auswirkungen von Preisänderungen berücksichtigen, sowie die Frage, wie sich Zuwendungen der öffentlichen Hand auf zusätzliche Informationen ähnlicher Art auswirken;
+b) 
+
+Beihilfen der öffentlichen Hand, die sich für ein Unternehmen als Vorteile bei der Ermittlung des zu versteuernden Gewinns oder steuerlichen Verlusts auswirken oder die auf der Grundlage der Einkommensteuerschuld bestimmt oder begrenzt werden. Beispiele dafür sind Steuerstundungen, investitionsabhängige Steuergutschriften, erhöhte Abschreibungsmöglichkeiten und ermäßigte Einkommensteuersätze;
+c) 
+
+Beteiligungen der öffentlichen Hand an Unternehmen;
+d) 
+
+Zuwendungen der öffentlichen Hand, die von IAS 41 Landwirtschaft abgedeckt werden.
+
+DEFINITIONEN
+
+3   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Öffentliche Hand bezieht sich auf Regierungsbehörden, Institutionen mit hoheitlichen Aufgaben und ähnliche Körperschaften, unabhängig davon, ob diese auf lokaler, nationaler oder internationaler Ebene angesiedelt sind.
+Beihilfen der öffentlichen Hand sind Maßnahmen der öffentlichen Hand, die dazu bestimmt sind, einem Unternehmen oder einer Reihe von Unternehmen, die bestimmte Kriterien erfüllen, einen besonderen wirtschaftlichen Vorteil zu gewähren. Beihilfen der öffentlichen Hand im Sinne dieses Standards umfassen keine indirekt bereitgestellten Vorteile aufgrund von Fördermaßnahmen, die auf die allgemeinen Handelsbedingungen Einfluss nehmen, wie beispielsweise die Bereitstellung von Infrastruktur in Entwicklungsgebieten oder die Auferlegung von Handelsbeschränkungen für Wettbewerber.
+Zuwendungen der öffentlichen Hand sind Beihilfen der öffentlichen Hand, die einem Unternehmen durch Übertragung von Mitteln gewährt werden und die zum Ausgleich für die vergangene oder künftige Erfüllung bestimmter Bedingungen im Zusammenhang mit den betrieblichen Tätigkeiten des Unternehmens dienen. Davon ausgeschlossen sind bestimmte Formen von Beihilfen der öffentlichen Hand, die sich nicht angemessen bewerten lassen, sowie Geschäfte mit der öffentlichen Hand, die von der normalen Tätigkeit des Unternehmens nicht unterschieden werden können.  ( 12 )
+Zuwendungen für Vermögenswerte sind Zuwendungen der öffentlichen Hand, die an die Hauptbedingung geknüpft sind, dass ein Unternehmen, um die Zuwendungsvoraussetzungen zu erfüllen, langfristige Vermögenswerte kauft, herstellt oder auf andere Weise erwirbt. Damit können auch Nebenbedingungen verbunden sein, die die Art oder den Standort der Vermögenswerte oder die Perioden, während derer sie zu erwerben oder zu halten sind, beschränken.
+Erfolgsbezogene Zuwendungen sind Zuwendungen der öffentlichen Hand, die sich nicht auf Vermögenswerte beziehen.
+Erlassbare Darlehen sind Darlehen, die der Darlehensgeber mit der Zusage gewährt, die Rückzahlung unter bestimmten im Voraus festgelegten Bedingungen zu erlassen.
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+
+4 Beihilfen der öffentlichen Hand können vielfache Formen annehmen und variieren sowohl in der Art der gewährten Beihilfe als auch in den Bedingungen, die daran üblicherweise geknüpft sind. Der Zweck einer Beihilfe kann darin bestehen, ein Unternehmen zu ermutigen, eine Tätigkeit aufzunehmen, die es nicht aufgenommen hätte, wenn die Beihilfe nicht gewährt worden wäre.
+
+5 Der Erhalt von Beihilfen der öffentlichen Hand durch ein Unternehmen kann aus zwei Gründen für die Aufstellung des Abschlusses wesentlich sein. Erstens muss bei erfolgter Mittelübertragung eine sachgerechte Behandlung für die Bilanzierung der Übertragung gefunden werden. Zweitens ist die Angabe des Umfangs wünschenswert, in dem das Unternehmen während der Berichtsperiode von derartigen Beihilfen profitiert hat. Dies erleichtert den Vergleich mit Abschlüssen früherer Perioden und mit denen anderer Unternehmen.
+
+6 Zuwendungen der öffentlichen Hand werden mitunter anders bezeichnet, beispielsweise als Zuschüsse, Subventionen oder als Prämien.
+
+ZUWENDUNGEN DER ÖFFENTLICHEN HAND
+
+7   Eine Erfassung von Zuwendungen der öffentlichen Hand, einschließlich nicht monetärer Zuwendungen zum beizulegenden Zeitwert, erfolgt nur dann, wenn eine angemessene Sicherheit darüber besteht, dass
+a) 
+
+das Unternehmen die damit verbundenen Bedingungen erfüllen wird und
+b) 
+
+die Zuwendungen gewährt werden.
+
+8 Zuwendungen der öffentlichen Hand werden nur erfasst, wenn eine angemessene Sicherheit darüber besteht, dass das Unternehmen die damit verbundenen Bedingungen erfüllen wird und dass die Zuwendungen gewährt werden. Der Zufluss einer Zuwendung liefert für sich allein keinen schlüssigen Nachweis dafür, dass die mit der Zuwendung verbundenen Bedingungen erfüllt worden sind oder werden.
+
+9 Die Art, in der eine Zuwendung gewährt wird, berührt die Bilanzierungsmethode, die auf die Zuwendung anzuwenden ist, nicht. Die Zuwendung ist in derselben Weise zu bilanzieren, unabhängig davon, ob sie als Zahlung oder als Verringerung einer Verpflichtung gegenüber der öffentlichen Hand empfangen wurde.
+
+10 Ein erlassbares Darlehen der öffentlichen Hand wird als Zuwendung der öffentlichen Hand behandelt, wenn angemessene Sicherheit darüber besteht, dass das Unternehmen die Bedingungen für den Erlass des Darlehens erfüllen wird.
+
+10A Der Vorteil aus einem öffentlichen Darlehen zu einem unter dem Marktzins liegenden Zinssatz wird wie eine Zuwendung der öffentlichen Hand behandelt. Das Darlehen wird gemäß IFRS 9 Finanzinstrumente angesetzt und bewertet. Der Vorteil aus dem unter dem Marktzins liegenden Zinssatz wird als Differenz zwischen dem nach IFRS 9 ermittelten ursprünglichen Buchwert des Darlehens und den erhaltenen Zahlungen bewertet. Der Vorteil ist gemäß diesem Standard zu bilanzieren. Bei der Bestimmung der Kosten, die der mit dem Darlehen verbundene Vorteil kompensieren soll, hat ein Unternehmen die Bedingungen und Verpflichtungen zu berücksichtigen, die zu erfüllen waren oder in Zukunft noch zu erfüllen sind
+
+11 Ist eine Zuwendung der öffentlichen Hand bereits erfasst worden, so ist jede damit verbundene Eventualverbindlichkeit oder Eventualforderung gemäß IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen zu behandeln.
+
+12   Zuwendungen der öffentlichen Hand sind planmäßig erfolgswirksam zu erfassen, und zwar im Verlauf der Perioden, in denen das Unternehmen die entsprechenden Kosten, die die Zuwendungen der öffentlichen Hand kompensieren sollen, als Aufwendungen ansetzt.
+
+13 Für die Behandlung von Zuwendungen der öffentlichen Hand existieren zwei grundlegende Methoden: die Methode der Behandlung als Eigenkapital, wonach die Zuwendung nicht erfolgswirksam erfasst wird, und die Methode der erfolgswirksamen Behandlung der Zuwendungen, wonach die Zuwendung über eine oder mehrere Perioden erfolgswirksam erfasst wird.
+
+14 Die Verfechter der Behandlung als Eigenkapital argumentieren in folgender Weise:
+a) 
+
+Zuwendungen der öffentlichen Hand sind eine Finanzierungshilfe, die in der Bilanz auch als solche zu behandeln ist und die erfolgswirksam erfasst wird, um mit den Aufwendungen saldiert zu werden, zu deren Finanzierung die Zuwendung gewährt wurde. Da keine Rückzahlung zu erwarten ist, sind sie nicht erfolgswirksam zu erfassen.
+b) 
+
+Es ist unangemessen, die Zuwendungen der öffentlichen Hand erfolgswirksam zu erfassen, da sie nicht verdient worden sind, sondern einen von der öffentlichen Hand gewährten Anreiz darstellen, ohne dass entsprechender Aufwand entsteht.
+
+15 Die Argumente für eine erfolgswirksame Behandlung lauten folgendermaßen:
+a) 
+
+Da Zuwendungen der öffentlichen Hand Mittel sind, die nicht von den Anteilseignern zugeführt werden, dürfen sie nicht unmittelbar dem Eigenkapital zugeordnet werden, sondern sind erfolgswirksam in den entsprechenden Perioden zu erfassen.
+b) 
+
+Zuwendungen der öffentlichen Hand sind selten unentgeltlich. Das Unternehmen verdient sie durch die Beachtung der Bedingungen und mit der Erfüllung der vorgesehenen Verpflichtungen. Sie sollten daher erfolgswirksam erfasst werden, und zwar im Verlauf der Perioden, in denen das Unternehmen die entsprechenden Kosten, die die Zuwendungen der öffentlichen Hand kompensieren sollen, als Aufwendungen ansetzt.
+c) 
+
+Da Einkommensteuern und andere Steuern Aufwendungen sind, ist es logisch, auch Zuwendungen der öffentlichen Hand, die eine Ausdehnung der Steuerpolitik darstellen, erfolgswirksam zu erfassen.
+
+16 Für die Methode der erfolgswirksamen Behandlung von Zuwendungen der öffentlichen Hand ist es von grundlegender Bedeutung, dass die Zuwendungen der öffentlichen Hand planmäßig erfolgswirksam erfasst werden, und zwar im Verlauf der Perioden, in denen das Unternehmen die entsprechenden Kosten, die die Zuwendungen der öffentlichen Hand kompensieren sollen, als Aufwendungen ansetzt. Die erfolgswirksame Erfassung von Zuwendungen der öffentlichen Hand auf der Grundlage ihres Zuflusses steht nicht in Übereinstimmung mit der Grundvoraussetzung der Periodenabgrenzung (siehe IAS 1 Darstellung des Abschlusses), und eine Erfassung bei Zufluss der Zuwendung ist nur zulässig, wenn für die Periodisierung der Zuwendung keine andere Grundlage als die des Zuflusszeitpunkts verfügbar ist.
+
+17 In den meisten Fällen sind die Perioden, über welche die im Zusammenhang mit einer Zuwendung der öffentlichen Hand anfallenden Aufwendungen erfasst werden, leicht feststellbar. Daher werden Zuwendungen, die mit bestimmten Aufwendungen zusammenhängen, in der gleichen Periode wie diese erfolgswirksam erfasst. Entsprechend werden Zuwendungen für abschreibungsfähige Vermögenswerte über die Perioden und in dem Verhältnis erfolgswirksam erfasst, in dem die Abschreibung auf diese Vermögenswerte angesetzt wird.
+
+18 Zuwendungen der öffentlichen Hand, die im Zusammenhang mit nicht abschreibungsfähigen Vermögenswerten gewährt werden, können ebenfalls die Erfüllung bestimmter Verpflichtungen voraussetzen und werden dann erfolgswirksam während der Perioden erfasst, die durch Aufwendungen infolge der Erfüllung der Verpflichtungen belastet werden. Beispielsweise kann eine Zuwendung in Form von Grund und Boden an die Bedingung gebunden sein, auf diesem Grundstück ein Gebäude zu errichten, und es kann angemessen sein, die Zuwendung während der Lebensdauer des Gebäudes erfolgswirksam zu erfassen.
+
+19 Zuwendungen können auch Teil eines Bündels finanzieller oder steuerlicher Fördermaßnahmen sein, die an eine Reihe von Bedingungen geknüpft sind. In solchen Fällen ist die Feststellung der Bedingungen, die die Aufwendungen der Perioden verursachen, in denen die Zuwendung vereinnahmt wird, sorgfältig durchzuführen. So kann es angemessen sein, einen Teil der Zuwendung auf der einen und einen anderen Teil auf einer anderen Grundlage zu verteilen.
+
+20   Eine Zuwendung der öffentlichen Hand, die als Ausgleich für bereits angefallene Aufwendungen oder Verluste oder zur sofortigen finanziellen Unterstützung ohne künftig damit verbundenen Aufwand gezahlt wird, ist erfolgswirksam in der Periode zu erfassen, in der der entsprechende Anspruch entsteht.
+
+21 In einigen Fällen kann eine Zuwendung der öffentlichen Hand gewährt werden, um ein Unternehmen sofort finanziell zu unterstützen, ohne dass mit dieser Zuwendung ein Anreiz verbunden wäre, bestimmte Aufwendungen zu tätigen. Derartige Zuwendungen können auf ein bestimmtes Unternehmen beschränkt sein und stehen unter Umständen nicht einer ganzen Klasse von Begünstigten zur Verfügung. Diese Umstände können eine erfolgswirksame Erfassung einer Zuwendung in der Periode erforderlich machen, in der das Unternehmen für eine Zuwendung in Betracht kommt, mit entsprechender Angabepflicht, um sicherzustellen, dass ihre Auswirkungen klar zu erkennen sind.
+
+22 Eine Zuwendung der öffentlichen Hand kann einem Unternehmen zum Ausgleich von Aufwendungen oder Verlusten, die bereits in einer vorangegangenen Periode entstanden sind, gewährt werden. Solche Zuwendungen sind erfolgswirksam in der Periode zu erfassen, in der der entsprechende Anspruch entsteht, mit entsprechender Angabepflicht, um sicherzustellen, dass ihre Auswirkungen klar zu erkennen sind.
+
+Nicht monetäre Zuwendungen der öffentlichen Hand
+
+23 Eine Zuwendung der öffentlichen Hand kann als ein nicht monetärer Vermögenswert, wie beispielsweise Grund und Boden oder andere Ressourcen, zur Verwertung im Unternehmen übertragen werden. Unter diesen Umständen gilt es als übliches Verfahren, den beizulegenden Zeitwert des nicht monetären Vermögenswerts zu bestimmen und sowohl die Zuwendung als auch den Vermögenswert zu diesem beizulegenden Zeitwert zu bilanzieren. Als Alternative wird mitunter sowohl der Vermögenswert als auch die Zuwendung zu einem Merkposten bzw. zu einem Merkposten angesetzt.
+
+Darstellung von Zuwendungen für Vermögenswerte
+
+24   Zuwendungen der öffentlichen Hand für Vermögenswerte, einschließlich nicht monetärer Zuwendungen zum beizulegenden Zeitwert, sind in der Bilanz entweder als passivischer Abgrenzungsposten darzustellen oder bei der Bestimmung des Buchwerts des Vermögenswerts abzusetzen.
+
+25 Die beiden Methoden der Darstellung von Zuwendungen (oder von entsprechenden Teilen der Zuwendungen) für Vermögenswerte sind im Abschluss als gleichwertig zu betrachten.
+
+26 Der einen Methode zufolge wird die Zuwendung als passivischer Abgrenzungsposten berücksichtigt, die während der Nutzungsdauer des Vermögenswerts auf einer planmäßigen Grundlage erfolgswirksam zu erfassen ist.
+
+27 Nach der anderen Methode wird die Zuwendung bei der Bestimmung des Buchwerts des Vermögenswerts abgezogen. Die Zuwendung wird mittels eines reduzierten Abschreibungsbetrags über die Nutzungsdauer des abschreibungsfähigen Vermögenswerts erfolgswirksam erfasst.
+
+28 Der Erwerb von Vermögenswerten und die damit zusammenhängenden Zuwendungen können in den Zahlungsströmen eines Unternehmens größere Bewegungen verursachen. Aus diesem Grund und zur Darstellung der Bruttoinvestitionen in Vermögenswerte werden diese Bewegungen oft als gesonderte Posten in der Kapitalflussrechnung angegeben, und zwar unabhängig davon, ob die Zuwendung von dem entsprechenden Vermögenswert zum Zweck der Darstellung in der Bilanz abgezogen wird oder nicht.
+
+Darstellung von erfolgsbezogenen Zuwendungen
+
+29 Erfolgsbezogene Zuwendungen werden entweder gesondert oder unter einem Hauptposten, wie beispielsweise „sonstige Erträge“, als Ergebnisbestandteil dargestellt, oder sie werden von den entsprechenden Aufwendungen abgezogen.
+
+29A [gestrichen]
+
+30 Die Befürworter der ersten Methode vertreten die Meinung, dass es unangebracht ist, Ertrags- und Aufwandsposten zu saldieren, und dass die Trennung der Zuwendung von den Aufwendungen den Vergleich mit anderen Aufwendungen, die nicht von einer Zuwendung beeinflusst sind, erleichtert. In Bezug auf die zweite Methode wird der Standpunkt vertreten, dass die Aufwendungen dem Unternehmen nicht entstanden wären, wenn die Zuwendung nicht verfügbar gewesen wäre, und dass die Darstellung der Aufwendungen ohne Saldierung der Zuwendung aus diesem Grund irreführend sein könnte.
+
+31 Beide Vorgehensweisen sind als akzeptable Methoden zur Darstellung von erfolgsbezogenen Zuwendungen zu betrachten. Die Angabe der Zuwendungen kann für das richtige Verständnis von Abschlüssen notwendig sein. Es ist normalerweise angemessen, die Auswirkung von Zuwendungen auf jeden gesondert darzustellenden Ertrags- oder Aufwandsposten anzugeben.
+
+Rückzahlung von Zuwendungen der öffentlichen Hand
+
+32  Eine Zuwendung der öffentlichen Hand, die rückzahlungspflichtig wird, ist als Änderung einer rechnungslegungsbezogenen Schätzung zu behandeln (vgl. IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler). Die Rückzahlung einer erfolgsbezogenen Zuwendung ist zunächst mit dem nicht amortisierten, passivischen Abgrenzungsposten aus der Zuwendung zu verrechnen. Soweit die Rückzahlung diesen passivischen Abgrenzungsposten übersteigt oder für den Fall, dass ein solcher nicht vorhanden ist, ist die Rückzahlung unmittelbar erfolgswirksam zu erfassen. Rückzahlungen von Zuwendungen für Vermögenswerte sind durch Zuschreibung zum Buchwert des Vermögenswerts oder durch Verminderung des passivischen Abgrenzungspostens um den rückzahlungspflichtigen Betrag zu korrigieren. Die kumulative zusätzliche Abschreibung, die ohne die Zuwendung bis zu diesem Zeitpunkt zu erfassen gewesen wäre, ist unmittelbar erfolgswirksam zu erfassen.
+
+33 Umstände, die Anlass für eine Rückzahlung von Zuwendungen für Vermögenswerte sind, können es erforderlich machen, eine mögliche Wertminderung des neuen Buchwerts in Erwägung zu ziehen.
+
+BEIHILFEN DER ÖFFENTLICHEN HAND
+
+34 Die Definition der Zuwendungen der öffentlichen Hand in Paragraph 3 schließt bestimmte Formen von Beihilfen der öffentlichen Hand, die sich nicht angemessen bewerten lassen, aus; dies gilt ebenso für Geschäfte mit der öffentlichen Hand, die von der normalen Tätigkeit des Unternehmens nicht unterschieden werden können.
+
+35 Beispiele für Beihilfen, die sich nicht angemessen bewerten lassen, sind die unentgeltliche technische oder Markterschließungs-Beratung und die Bereitstellung von Garantien. Ein Beispiel für eine Beihilfe, die nicht von der normalen Tätigkeit des Unternehmens unterschieden werden kann, ist die staatliche Beschaffungspolitik, die für einen Teil des Umsatzes verantwortlich ist. Das Vorhandensein des Vorteils mag dabei zwar nicht infrage gestellt sein, doch jeder Versuch, die betriebliche Tätigkeit von der Beihilfe der öffentlichen Hand zu trennen, könnte leicht willkürlich sein.
+
+36 Die Bedeutung des Vorteils mit Bezug auf die vorgenannten Beispiele kann sich so darstellen, dass Art, Umfang und Laufzeit der Beihilfe anzugeben sind, damit der Abschluss nicht irreführend ist.
+
+37 [gestrichen]
+
+38 Dieser Standard behandelt die Bereitstellung von Infrastruktur durch Verbesserung des allgemeinen Verkehrs- und Kommunikationsnetzes und die Bereitstellung verbesserter Versorgungsanlagen, wie Bewässerung oder Wassernetze, die auf dauernder, unbestimmter Basis zum Vorteil eines ganzen Gemeinwesens verfügbar sind, nicht als Beihilfen der öffentlichen Hand.
+
+ANGABEN
+
+39   Folgende Angaben sind erforderlich:
+a) 
+
+die auf Zuwendungen der öffentlichen Hand angewandte Rechnungslegungsmethode, einschließlich der im Abschluss angewandten Darstellungsmethoden,
+b) 
+
+Art und Umfang der im Abschluss erfassten Zuwendungen der öffentlichen Hand und ein Hinweis auf andere Formen von Beihilfen der öffentlichen Hand, von denen das Unternehmen unmittelbar begünstigt wurde, und
+c) 
+
+unerfüllte Bedingungen und andere Erfolgsunsicherheiten im Zusammenhang mit im Abschluss erfassten Beihilfen der öffentlichen Hand.
+
+ÜBERGANGSVORSCHRIFTEN
+
+40   Unternehmen, die den Standard erstmals anwenden, haben
+a) 
+
+die Angabepflichten zu erfüllen, wo dies angemessen ist, und
+b) 
+
+entweder
+i) 
+
+ihren Abschluss wegen des Wechsels der Rechnungslegungsmethoden gemäß IAS 8 anzupassen oder
+ii) 
+
+die Bilanzierungsvorschriften des Standards nur auf solche Zuwendungen oder Teile davon anzuwenden, für die der Anspruch oder die Rückzahlung nach dem Zeitpunkt des Inkrafttretens des Standards entsteht.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+41 Dieser Standard ist verbindlich auf Abschlüsse für Berichtsperioden anzuwenden, die am oder nach dem 1. Januar 1984 beginnen.
+
+42 Durch IAS 1 (überarbeitet 2007) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurde Paragraph 29A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (in der 2007 überarbeiteten Fassung) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+43 Im Rahmen der Verbesserungen der IFRS, veröffentlicht im Mai 2008, wurde Paragraph 37 gestrichen und Paragraph 10A eingefügt. Ein Unternehmen kann diese Änderungen prospektiv auf öffentliche Darlehen anwenden, die es in Berichtsperioden, die am oder nach dem 1. Januar 2009 beginnen, erhalten hat. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+44 [gestrichen]
+
+45 Durch IFRS 13, veröffentlicht im Mai 2011, wurde die Definition des beizulegenden Zeitwerts in Paragraph 3 geändert. Wendet ein Unternehmen IFRS 13 an, hat es diese Änderung ebenfalls anzuwenden.
+
+46 Mit Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurde Paragraph 29 geändert und Paragraph 29A gestrichen. Wendet ein Unternehmen IAS 1 in der im Juni 2011 geänderten Fassung an, hat es diese Änderungen ebenfalls anzuwenden.
+
+47 [gestrichen]
+
+48 Durch IFRS 9 in der im Juli 2014 veröffentlichten Fassung wurde Paragraph 10A geändert und wurden die Paragraphen 44 und 47 gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+

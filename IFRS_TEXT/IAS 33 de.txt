@@ -1,0 +1,456 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 33
+
+Ergebnis je Aktie
+
+ZIELSETZUNG
+
+1 Ziel dieses Standards ist die Festlegung von Leitlinien für die Ermittlung und Darstellung des Ergebnisses je Aktie, um die Ertragskraft unterschiedlicher Unternehmen in einer Berichtsperiode und ein- und desselben Unternehmens in unterschiedlichen Berichtsperioden besser miteinander vergleichen zu können. Auch wenn die Aussagefähigkeit der Daten zum Ergebnis je Aktie aufgrund unterschiedlicher Rechnungslegungsmethoden bei der Ermittlung des „Ergebnisses“ eingeschränkt ist, verbessert ein auf einheitliche Weise festgelegter Nenner die Finanzberichterstattung. Das Hauptaugenmerk dieses Standards liegt auf der Bestimmung des Nenners bei der Berechnung des Ergebnisses je Aktie.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist anwendbar auf:
+a) 
+
+den Einzelabschluss eines Unternehmens,
+i) 
+
+dessen Stammaktien oder potenzielle Stammaktien öffentlich (d. h. an einer in- oder ausländischen Börse oder außerbörslich, einschließlich an lokalen und regionalen Märkten) gehandelt werden, oder
+ii) 
+
+das seinen Abschluss zwecks Emission von Stammaktien auf einem öffentlichen Markt bei einer Wertpapieraufsichts- oder anderen Regulierungsbehörde einreicht, und
+b) 
+
+den Konzernabschluss eines Konzerns mit einem Mutterunternehmen,
+i) 
+
+dessen Stammaktien oder potenzielle Stammaktien öffentlich (d. h. an einer in- oder ausländischen Börse oder außerbörslich, einschließlich an lokalen und regionalen Märkten) gehandelt werden, oder
+ii) 
+
+das seinen Abschluss zwecks Emission von Stammaktien auf einem öffentlichen Markt bei einer Wertpapieraufsichts- oder anderen Regulierungsbehörde einreicht.
+
+3   Ein Unternehmen, das das Ergebnis je Aktie angibt, hat dieses gemäß diesem Standard zu ermitteln und anzugeben.
+
+4   Legt ein Unternehmen sowohl Konzernabschlüsse als auch Einzelabschlüsse nach IFRS 10 Konzernabschlüsse bzw. IAS 27 Einzelabschlüsse vor, so müssen sich die im vorliegenden Standard geforderten Angaben lediglich auf die konsolidierten Informationen stützen. Ein Unternehmen, das sich zur Angabe des Ergebnisses je Aktie auf der Grundlage seines Einzelabschlusses entscheidet, hat diese Ergebnisse ausschließlich in der Gesamtergebnisrechnung des Einzelabschlusses, nicht aber im Konzernabschluss anzugeben.
+
+4A   Stellt ein Unternehmen die Ergebnisbestandteile gemäß Paragraph 10A von IAS 1 Darstellung des Abschlusses (in der 2011 geänderten Fassung) in einer gesonderten Gewinn- und Verlustrechnung dar, so hat es das Ergebnis je Aktie nur dort auszuweisen.
+
+DEFINITIONEN
+
+5   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Unter Verwässerungsschutz versteht man eine Erhöhung des Ergebnisses je Aktie bzw. eine Reduzierung des Verlusts je Aktie aufgrund der Annahme, dass wandelbare Instrumente umgewandelt, Optionen oder Optionsscheine ausgeübt oder Stammaktien unter bestimmten Voraussetzungen ausgegeben werden.
+Eine Vereinbarung zur bedingten Aktienausgabe ist eine Vereinbarung zur Ausgabe von Aktien, die an die Erfüllung bestimmter Bedingungen geknüpft ist.
+Bedingt emissionsfähige Aktien sind Stammaktien, die gegen eine geringe oder gar keine Zahlung oder andere Art von Gegenleistung ausgegeben werden, sofern bestimmte Voraussetzungen einer Vereinbarung zur bedingten Aktienausgabe erfüllt sind.
+Unter Verwässerung versteht man eine Reduzierung des Gewinns je Aktie bzw. eine Erhöhung des Verlusts je Aktie aufgrund der Annahme, dass wandelbare Instrumente umgewandelt, Optionen oder Optionsscheine ausgeübt oder Stammaktien unter bestimmten Voraussetzungen ausgegeben werden.
+Optionen, Optionsscheine und ihre Äquivalente sind Finanzinstrumente, die ihren Inhaber zum Kauf von Stammaktien berechtigen.
+Eine Stammaktie ist ein Eigenkapitalinstrument, das allen anderen Arten von Eigenkapitalinstrumenten nachgeordnet ist.
+Eine potenzielle Stammaktie ist ein Finanzinstrument oder sonstiger Vertrag, das bzw. der dem Inhaber ein Anrecht auf Stammaktien verbriefen kann.
+Verkaufsoptionen auf Stammaktien sind Verträge, die es dem Inhaber ermöglichen, über einen bestimmten Zeitraum Stammaktien zu einem bestimmten Kurs zu verkaufen.
+
+6 Stammaktien erhalten erst einen Anteil am Ergebnis, nachdem andere Aktienarten, wie etwa Vorzugsaktien, bedient wurden. Ein Unternehmen kann unterschiedliche Arten von Stammaktien emittieren. Stammaktien derselben Art verleihen dasselbe Anrecht auf den Bezug von Dividenden.
+
+7 Beispiele für potenzielle Stammaktien sind
+a) 
+
+finanzielle Verbindlichkeiten oder Eigenkapitalinstrumente, einschließlich Vorzugsaktien, die in Stammaktien umgewandelt werden können,
+b) 
+
+Optionen und Optionsscheine,
+c) 
+
+Aktien, die bei Erfüllung vertraglicher Bedingungen, wie dem Erwerb eines Unternehmens oder anderer Vermögenswerte, ausgegeben werden.
+
+8 In IAS 32 Finanzinstrumente: Darstellung definierte Begriffe werden im vorliegenden Standard mit der in Paragraph 11 von IAS 32 angegebenen Bedeutung verwendet, sofern nichts anderes angegeben ist. IAS 32 definiert die Begriffe Finanzinstrument, finanzieller Vermögenswert, finanzielle Verbindlichkeit und Eigenkapitalinstrument und liefert Hinweise zur Anwendung dieser Definitionen. IFRS 13 Bewertung zum beizulegenden Zeitwert definiert den Begriff beizulegender Zeitwert und legt die Vorschriften zur Anwendung dieser Definition fest.
+
+BEWERTUNG
+
+Unverwässertes Ergebnis je Aktie
+
+9   Ein Unternehmen hat für den den Stammaktionären des Mutterunternehmens zurechenbaren Gewinn oder Verlust das unverwässerte Ergebnis je Aktie zu ermitteln; sofern ein entsprechender Ausweis erfolgt, ist auch für den diesen Stammaktionären zurechenbaren Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen ein unverwässertes Ergebnis je Aktie darzustellen.
+
+10   Das unverwässerte Ergebnis je Aktie ist zu ermitteln, indem der den Stammaktionären des Mutterunternehmens zustehende Gewinn oder Verlust (Zähler) durch die gewichtete durchschnittliche Anzahl der innerhalb der Berichtsperiode im Umlauf gewesenen Stammaktien (Nenner) dividiert wird.
+
+11 Die Angabe des unverwässerten Ergebnisses je Aktie dient dem Zweck, einen Maßstab für die Beteiligung jeder Stammaktie eines Mutterunternehmens an der Ertragskraft des Unternehmens während des Berichtszeitraums bereitzustellen.
+
+Ergebnis
+
+12   Zur Ermittlung des unverwässerten Ergebnisses je Aktie sind die Beträge, die den Stammaktionären des Mutterunternehmens zugerechnet werden können im Hinblick auf
+a) 
+
+den Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen, der auf das Mutterunternehmen entfällt, und
+b) 
+
+den dem Mutterunternehmen zuzurechnenden Gewinn oder Verlust
+
+die Beträge in (a) und (b), bereinigt um die Nachsteuerbeträge von Vorzugsdividenden, Differenzen bei Erfüllung von Vorzugsaktien sowie ähnlichen Auswirkungen aus der Einstufung von Vorzugsaktien als Eigenkapital.
+
+13 Alle Ertrags- und Aufwandsposten, die Stammaktionären des Mutterunternehmens zuzurechnen sind und in einer Periode erfasst werden, darunter auch Steueraufwendungen und als Verbindlichkeiten eingestufte Dividenden auf Vorzugsaktien, sind in die Ermittlung des Gewinns oder Verlusts, der den Stammaktionären des Mutterunternehmens zuzurechnen ist, einzubeziehen (siehe IAS 1).
+
+14 Vom Gewinn oder Verlust abgezogen werden
+a) 
+
+der Nachsteuerbetrag jedweder für diese Periode beschlossener Vorzugsdividenden auf nicht kumulative Vorzugsaktien und
+b) 
+
+der Nachsteuerbetrag der in dieser Periode für kumulative Vorzugsaktien benötigten Vorzugsdividenden, unabhängig davon, ob die Dividenden beschlossen wurden oder nicht. Nicht im Betrag der für diese Periode beschlossenen Vorzugsdividenden enthalten sind die während dieser Periode für frühere Perioden gezahlten oder beschlossenen Vorzugsdividenden auf kumulative Vorzugsaktien.
+
+15 Vorzugsaktien, die mit einer niedrigen Ausgangsdividende ausgestattet sind, um einem Unternehmen einen Ausgleich dafür zu schaffen, dass es die Vorzugsaktien mit einem Abschlag verkauft hat, oder in späteren Perioden zu einer höheren Dividende berechtigen, um den Investoren einen Ausgleich dafür zu bieten, dass sie die Vorzugsaktien mit einem Aufschlag erwerben, werden auch als Vorzugsaktien mit steigender Gewinnberechtigung bezeichnet. Jeder Ausgabeabschlag bzw. -aufschlag bei Erstemission von Vorzugsaktien mit steigender Gewinnberechtigung wird unter Anwendung der Effektivzinsmethode den Gewinnrücklagen zugeführt und zur Ermittlung des Ergebnisses je Aktie als Vorzugsdividende behandelt.
+
+16 Vorzugsaktien können durch ein Angebot des Unternehmens an die Inhaber zurückgekauft werden. Übersteigt der beizulegende Zeitwert der Vorzugsaktien dabei ihren Buchwert, so stellt diese Differenz für die Vorzugsaktionäre eine Rendite und für das Unternehmen eine Belastung seiner Gewinnrücklagen dar. Dieser Betrag wird bei der Berechnung des den Stammaktionären des Mutterunternehmens zurechenbaren Gewinns oder Verlusts in Abzug gebracht.
+
+17 Ein Unternehmen kann eine vorgezogene Umwandlung wandelbarer Vorzugsaktien herbeiführen, indem es die ursprünglichen Umwandlungsbedingungen vorteilhaft ändert oder ein zusätzliches Entgelt zahlt. Der Betrag, um den der beizulegende Zeitwert der Stammaktien bzw. des sonstigen gezahlten Entgelts den beizulegenden Zeitwert der unter den ursprünglichen Umwandlungsbedingungen auszugebenden Stammaktien übersteigt, stellt für die Vorzugsaktionäre eine Rendite dar und wird bei der Ermittlung des den Stammaktionären des Mutterunternehmens zuzurechnenden Gewinns oder Verlusts in Abzug gebracht.
+
+18 Sobald der Buchwert der Vorzugsaktien den beizulegenden Zeitwert des für sie gezahlten Entgelts übersteigt, wird der Differenzbetrag bei der Ermittlung des den Stammaktionären des Mutterunternehmens zuzurechnenden Gewinns oder Verlusts hinzugezählt.
+
+Aktien
+
+19   Zur Berechnung des unverwässerten Ergebnisses je Aktie ist die Anzahl der Stammaktien die gewichtete durchschnittliche Anzahl der während der Periode im Umlauf gewesenen Stammaktien.
+
+20 Die Verwendung der gewichteten durchschnittlichen Anzahl der Stammaktien trägt dem Umstand Rechnung, dass während der Periode möglicherweise nicht immer die gleiche Anzahl an Stammaktien in Umlauf war und das gezeichnete Kapital deshalb Schwankungen unterlegen haben kann. Die gewichtete durchschnittliche Anzahl der Stammaktien, die während der Periode in Umlauf sind, ist die Anzahl an Stammaktien, die am Anfang der Periode in Umlauf waren, bereinigt um die Anzahl an Stammaktien, die während der Periode zurückgekauft oder ausgegeben wurden, multipliziert mit einem Zeitgewichtungsfaktor. Der Zeitgewichtungsfaktor ist das Verhältnis zwischen der Anzahl von Tagen, an denen sich die betreffenden Aktien in Umlauf befanden, und der Gesamtzahl von Tagen der Periode. Ein angemessener Näherungswert für den gewichteten Durchschnitt ist in vielen Fällen ausreichend.
+
+21 Normalerweise werden Aktien mit der Fälligkeit des Entgelts (im Allgemeinen dem Tag ihrer Emission) in den gewichteten Durchschnitt einbezogen. So werden
+a) 
+
+Stammaktien, die gegen Barzahlung ausgegeben wurden, dann einbezogen, wenn die Geldzahlung eingefordert werden kann,
+b) 
+
+Stammaktien, die gegen die freiwillige Wiederanlage von Dividenden auf Stamm- oder Vorzugsaktien ausgegeben wurden, einbezogen, sobald die Dividenden wiederangelegt sind,
+c) 
+
+Stammaktien, die infolge einer Umwandlung eines Schuldinstruments in Stammaktien ausgegeben wurden, ab dem Tag einbezogen, an dem keine Zinsen mehr anfallen,
+d) 
+
+Stammaktien, die anstelle von Zinsen oder Kapital auf andere Finanzinstrumente ausgegeben wurden, ab dem Tag einbezogen, an dem keine Zinsen mehr anfallen,
+e) 
+
+Stammaktien, die im Austausch für die Erfüllung einer Schuld des Unternehmens ausgegeben wurden, ab dem Erfüllungstag einbezogen,
+f) 
+
+Stammaktien, die anstelle von liquiden Mitteln als Gegenleistung für den Erwerb eines Vermögenswerts ausgegeben wurden, ab dem Datum der Erfassung des entsprechenden Erwerbs einbezogen, und
+g) 
+
+Stammaktien, die für die Erbringung von Dienstleistungen an das Unternehmen ausgegeben wurden, mit Erbringung der Dienstleistungen einbezogen.
+
+Der Zeitpunkt der Einbeziehung von Stammaktien ergibt sich aus den Bedingungen ihrer Emission. Der wirtschaftliche Gehalt eines jeden im Zusammenhang mit der Emission stehenden Vertrags ist angemessen zu prüfen.
+
+22 Stammaktien, die als Teil der übertragenen Gegenleistung bei einem Unternehmenszusammenschluss ausgegeben wurden, sind in die durchschnittliche gewichtete Anzahl der Aktien ab dem Erwerbszeitpunkt einzubeziehen. Dies ist darauf zurückzuführen, dass der Erwerber die Gewinne und Verluste des erworbenen Unternehmens von diesem Zeitpunkt an in seine Gesamtergebnisrechnung mit einbezieht.
+
+23 Stammaktien, die bei Umwandlung eines wandlungspflichtigen Instruments ausgegeben werden, sind ab dem Zeitpunkt des Vertragsabschlusses in die Ermittlung des unverwässerten Ergebnisses je Aktie einzubeziehen.
+
+24 Bedingt emissionsfähige Aktien werden als in Umlauf befindlich behandelt und erst ab dem Zeitpunkt in die Ermittlung des unverwässerten Ergebnisses je Aktie einbezogen, zu dem alle erforderlichen Voraussetzungen erfüllt (d. h. die Ereignisse eingetreten sind). Aktien, die ausschließlich nach Ablauf einer bestimmten Zeitspanne emissionsfähig sind, gelten nicht als bedingt emissionsfähige Aktien, da der Ablauf der Spanne gewiss ist. In Umlauf befindliche, bedingt rückgabefähige (d. h. unter dem Vorbehalt des Rückrufs stehende) Stammaktien gelten nicht als in Umlauf befindlich und werden solange bei der Ermittlung des unverwässerten Ergebnisses je Aktie unberücksichtigt gelassen, bis der Vorbehalt des Rückrufs nicht mehr gilt.
+
+25 [gestrichen]
+
+26   Die gewichtete durchschnittliche Anzahl der in der Periode und allen übrigen dargestellten Perioden in Umlauf befindlichen Stammaktien ist zu berichtigen, wenn ein Ereignis eintritt, das die Anzahl der in Umlauf befindlichen Stammaktien verändert, ohne dass damit eine entsprechende Änderung der Ressourcen einhergeht; die Umwandlung potenzieller Stammaktien gilt nicht als ein solches Ereignis.
+
+27 Nachstehend eine Reihe von Beispielen dafür, in welchen Fällen Stammaktien emittiert werden können oder die Anzahl der in Umlauf befindlichen Aktien verringert werden kann, ohne dass es zu einer entsprechenden Änderung der Ressourcen kommt:
+a) 
+
+eine Kapitalerhöhung aus Gesellschaftsmitteln oder Ausgabe von Gratisaktien (auch als Dividende in Form von Aktien bezeichnet),
+b) 
+
+ein Gratiselement bei jeder anderen Emission, beispielsweise einer Ausgabe von Bezugsrechten an die bestehenden Aktionäre,
+c) 
+
+ein Aktiensplit und
+d) 
+
+ein umgekehrter Aktiensplit (Aktienzusammenlegung).
+
+28 Bei einer Kapitalerhöhung aus Gesellschaftsmitteln, einer Ausgabe von Gratisaktien oder einem Aktiensplitt werden Stammaktien ohne zusätzliche Gegenleistung an die bestehenden Aktionäre ausgegeben. Damit erhöht sich die Anzahl der in Umlauf befindlichen Stammaktien, ohne dass es zu einer Erhöhung der Ressourcen kommt. Die Anzahl der vor Eintreten des Ereignisses in Umlauf befindlichen Stammaktien wird so um die anteilige Veränderung der Anzahl umlaufender Stammaktien berichtigt, als wäre das Ereignis zu Beginn der ersten dargestellten Periode eingetreten. Beispielsweise wird bei einer zwei-zu-eins-Ausgabe von Gratisaktien die Anzahl der vor der Emission in Umlauf befindlichen Stammaktien mit dem Faktor 3 multipliziert, um die neue Gesamtzahl an Stammaktien zu ermitteln, bzw. mit dem Faktor 2, um die Anzahl der zusätzlichen Stammaktien zu erhalten.
+
+29 In der Regel verringert sich bei einer Zusammenlegung von Stammaktien die Anzahl der in Umlauf befindlichen Stammaktien, ohne dass es zu einer entsprechenden Verringerung der Ressourcen kommt. Findet insgesamt jedoch ein Aktienrückkauf zum beizulegenden Zeitwert statt, so ist die zahlenmäßige Verringerung der in Umlauf befindlichen Stammaktien das Ergebnis einer entsprechenden Abnahme an Ressourcen. Ein Beispiel hierfür wäre eine mit einer Sonderdividende verbundene Aktienzusammenlegung. Die gewichtete durchschnittliche Anzahl der Stammaktien, die sich in der Periode, in der die Zusammenlegung erfolgt, in Umlauf befinden, wird zu dem Zeitpunkt, zu dem die Sonderdividende erfasst wird, an die verringerte Anzahl von Stammaktien angepasst.
+
+Verwässertes Ergebnis je Aktie
+
+30   Ein Unternehmen hat das verwässerte Ergebnis je Aktie für den den Stammaktionären des Mutterunternehmens zurechenbaren Gewinn oder Verlust zu ermitteln; sofern ein entsprechender Ausweis erfolgt, ist auch für den diesen Stammaktionären zurechenbaren Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen ein verwässertes Ergebnis je Aktie darzustellen.
+
+31   Zur Berechnung des verwässerten Ergebnisses je Aktie hat ein Unternehmen den den Stammaktionären des Mutterunternehmens zurechenbaren Gewinn oder Verlust und die gewichtete durchschnittliche Anzahl der in Umlauf befindlichen Aktien um alle Verwässerungseffekte potenzieller Stammaktien zu bereinigen.
+
+32 Mit der Ermittlung des verwässerten Ergebnisses je Aktie wird dasselbe Ziel verfolgt wie mit der Ermittlung des unverwässerten Ergebnisses – nämlich, einen Maßstab für die Beteiligung jeder Stammaktie an der Ertragskraft eines Unternehmens zu schaffen – und gleichzeitig alle während der Periode in Umlauf befindlichen potenziellen Stammaktien mit Verwässerungseffekten zu berücksichtigen. Infolgedessen wird
+a) 
+
+der den Stammaktionären des Mutterunternehmens zurechenbare Gewinn oder Verlust um die Nachsteuerbeträge der Dividenden und Zinsen, die in der Periode für potenzielle Stammaktien mit Verwässerungseffekten erfasst werden, erhöht und um alle sonstigen Änderungen bei Ertrag oder Aufwand, die sich aus der Umwandlung der verwässernden potenziellen Stammaktien ergäben, bereinigt und
+b) 
+
+die gewichtete durchschnittliche Anzahl der in Umlauf befindlichen Stammaktien um die gewichtete durchschnittliche Anzahl der zusätzlichen Stammaktien erhöht, die sich unter der Annahme einer Umwandlung aller verwässernden potenziellen Stammaktien in Umlauf befunden hätten.
+
+Ergebnis
+
+33   Zur Berechnung des verwässerten Ergebnisses je Aktie hat ein Unternehmen den den Stammaktionären des Mutterunternehmens zurechenbaren gemäß Paragraph 12 ermittelten Gewinn oder Verlust um die Nachsteuerwirkungen folgender Posten zu bereinigen:
+a) 
+
+alle Dividenden oder sonstigen Posten im Zusammenhang mit verwässernden potenziellen Stammaktien, die bei Berechnung des den Stammaktionären des Mutterunternehmens zurechenbaren Gewinns oder Verlusts, der gemäß Paragraph 12 ermittelt wurde, abgezogen werden,
+b) 
+
+alle Zinsen, die in der Periode im Zusammenhang mit verwässernden potenziellen Stammaktien erfasst wurden, und
+c) 
+
+alle sonstigen Änderungen im Ertrag oder Aufwand, die sich aus der Umwandlung der verwässernden potenziellen Stammaktien ergäben.
+
+34 Nach der Umwandlung potenzieller Stammaktien in Stammaktien fallen die in Paragraph 33(a)–(c) genannten Posten nicht mehr an. Stattdessen sind die neuen Stammaktien zur Teilnahme am Gewinn oder Verlust berechtigt, der den Stammaktionären des Mutterunternehmens zusteht. Somit wird der nach Paragraph 12 ermittelte Gewinn oder Verlust, der den Stammaktionären des Mutterunternehmens zusteht, um die in Paragraph 33(a)–(c) genannten Sachverhalte sowie die zugehörigen Steuern bereinigt. Die mit potenziellen Stammaktien verbundenen Aufwendungen umfassen die nach der Effektivzinsmethode bilanzierten Transaktionskosten und Disagios (siehe IFRS 9).
+
+35 Aus der Umwandlung potenzieller Stammaktien können sich Änderungen bei den Erträgen oder Aufwendungen ergeben. So kann eine Verringerung der Zinsaufwendungen für potenzielle Stammaktien und die daraus folgende Erhöhung des Gewinns bzw. Reduzierung des Verlusts eine Erhöhung des Aufwands für einen ermessensunabhängigen Gewinnbeteiligungsplan für Arbeitnehmer zur Folge haben. Zur Berechnung des verwässerten Ergebnisses je Aktie wird der den Stammaktionären des Mutterunternehmens zurechenbare Gewinn oder Verlust um alle derartigen Änderungen bei den Erträgen oder Aufwendungen bereinigt.
+
+Aktien
+
+36   Bei der Berechnung des verwässerten Ergebnisses je Aktie entspricht die Anzahl der Stammaktien der gemäß den Paragraphen 19 und 26 berechneten gewichteten durchschnittlichen Anzahl der Stammaktien plus der gewichteten durchschnittlichen Anzahl der Stammaktien, die bei Umwandlung aller verwässernden potenziellen Stammaktien in Stammaktien ausgegeben würden. Die Umwandlung verwässernder potenzieller Stammaktien in Stammaktien gilt mit dem Beginn der Periode als erfolgt oder, falls dieses Datum auf einen späteren Tag fällt, mit dem Tag, an dem die potenziellen Stammaktien emittiert wurden.
+
+37 Verwässernde potenzielle Stammaktien sind gesondert für jede dargestellte Periode zu ermitteln. Bei den in den Zeitraum vom Geschäftsjahresbeginn bis zum Zwischenberichtstermin einbezogenen verwässernden potenziellen Stammaktien handelt es sich nicht um einen gewichteten Durchschnitt der einzelnen Zwischenberechnungen.
+
+38 Potenzielle Stammaktien werden für die Periode gewichtet, in der sie im Umlauf sind. Potenzielle Stammaktien, die während der Periode eingezogen wurden oder verfallen sind, werden bei der Berechnung des verwässerten Ergebnisses je Aktie nur für den Teil der Periode berücksichtigt, in dem sie im Umlauf waren. Potenzielle Stammaktien, die während der Periode in Stammaktien umgewandelt werden, werden vom Periodenbeginn bis zum Datum der Umwandlung in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen. Vom Zeitpunkt der Umwandlung an werden die daraus resultierenden Stammaktien sowohl in das unverwässerte als auch das verwässerte Ergebnis je Aktie einbezogen.
+
+39 Die Bestimmung der Anzahl der bei der Umwandlung verwässernder potenzieller Stammaktien auszugebenden Stammaktien erfolgt zu den für die potenziellen Stammaktien geltenden Bedingungen. Sofern für die Umwandlung mehr als eine Grundlage besteht, wird bei der Berechnung das aus Sicht des Inhabers der potenziellen Stammaktien vorteilhafteste Umwandlungsverhältnis oder der günstigste Ausübungskurs zugrunde gelegt.
+
+40 Ein Tochterunternehmen, Gemeinschaftsunternehmen oder assoziiertes Unternehmen kann an Parteien, mit Ausnahme des Mutterunternehmens oder der Investoren, die an der gemeinschaftlichen Führung beteiligt sind oder maßgeblichem Einfluss auf das Beteiligungsunternehmen haben, potenzielle Stammaktien ausgeben, die entweder in Stammaktien des Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens oder in Stammaktien des Mutterunternehmens oder von Investoren, die an der gemeinschaftlichen Führung des Beteiligungsunternehmens beteiligt sind oder maßgeblichen Einfluss auf das Beteiligungsunternehmen haben (des berichtenden Unternehmens) wandelbar sind. Haben diese potenziellen Stammaktien des Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens einen Verwässerungseffekt auf das unverwässerte Ergebnis je Aktie des berichtenden Unternehmens, sind sie in die Ermittlung des verwässerten Ergebnisses je Aktie einzubeziehen.
+
+Potenzielle Stammaktien mit Verwässerungseffekt
+
+41   Potenzielle Stammaktien sind nur dann als verwässernd zu betrachten, wenn ihre Umwandlung in Stammaktien das Ergebnis je Aktie aus fortzuführenden Geschäftsbereichen kürzen bzw. den Periodenverlust je Aktie aus fortzuführenden Geschäftsbereichen erhöhen würde.
+
+42 Ein Unternehmen verwendet den auf das Mutterunternehmen entfallenden Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen als Kontrollgröße um festzustellen, ob bei potenziellen Stammaktien eine Verwässerung oder ein Verwässerungsschutz vorliegt. Der dem Mutterunternehmen zurechenbare Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen wird gemäß Paragraph 12 bereinigt und schließt dabei Posten aus aufgegebenen Geschäftsbereichen aus.
+
+43 Bei potenziellen Stammaktien liegt ein Verwässerungsschutz vor, wenn ihre Umwandlung in Stammaktien das Ergebnis je Aktie aus fortzuführenden Geschäftsbereichen erhöhen bzw. den Verlust je Aktie aus fortzuführenden Geschäftsbereichen reduzieren würde. Die Berechnung des verwässerten Ergebnisses je Aktie erfolgt nicht unter der Annahme einer Umwandlung, Ausübung oder weiteren Emission von potenziellen Stammaktien, bei denen ein Verwässerungsschutz in Bezug auf das Ergebnis je Aktie vorliegen würde.
+
+44 Bei der Beurteilung der Frage, ob bei potenziellen Stammaktien eine Verwässerung oder ein Verwässerungsschutz vorliegt, sind alle Emissionen oder Emissionsfolgen potenzieller Stammaktien getrennt statt in Summe zu betrachten. Die Reihenfolge, in der potenzielle Stammaktien beurteilt werden, kann einen Einfluss auf die Einschätzung haben, ob sie zu einer Verwässerung beitragen. Um die Verwässerung des unverwässerten Ergebnisses je Aktie zu maximieren, wird daher jede Emission oder Emissionsfolge potenzieller Stammaktien in der Reihenfolge vom höchsten bis zum geringsten Verwässerungseffekt betrachtet, d. h. potenzielle Stammaktien, bei denen ein Verwässerungseffekt vorliegt, mit dem geringsten „Ergebnis je zusätzlicher Aktie“ werden vor denjenigen mit einem höheren Ergebnis je zusätzlicher Aktie in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen. Optionen und Optionsscheine werden in der Regel zuerst berücksichtigt, weil sie den Zähler der Berechnung nicht beeinflussen.
+
+Optionen, Optionsscheine und ihre Äquivalente
+
+45   Bei der Berechnung des verwässerten Ergebnisses je Aktie hat ein Unternehmen von der Ausübung verwässernder Optionen und Optionsscheine des Unternehmens auszugehen. Die angenommenen Erlöse aus diesen Instrumenten werden so behandelt, als wären sie im Zuge der Emission von Stammaktien zum durchschnittlichen Marktpreis der Stammaktien während der Periode angefallen. Die Differenz zwischen der Anzahl der ausgegebenen Stammaktien und der Anzahl der Stammaktien, die zum durchschnittlichen Marktpreis der Stammaktien während der Periode ausgegeben worden wären, ist als Ausgabe von Stammaktien ohne Gegenleistung zu behandeln.
+
+46 Optionen und Optionsscheine sind als verwässernd zu betrachten, wenn sie zur Ausgabe von Stammaktien zu einem geringeren Preis als dem durchschnittlichen Marktpreis der Stammaktien während der Periode führen würden. Der Betrag der Verwässerung ist der durchschnittliche Marktpreis von Stammaktien während der Periode abzüglich des Ausgabepreises. Zur Ermittlung des verwässerten Ergebnisses je Aktie wird daher unterstellt, dass potenzielle Stammaktie die beiden folgenden Elemente umfassen:
+a) 
+
+einen Vertrag zur Ausgabe einer bestimmten Anzahl von Stammaktien zu ihrem durchschnittlichen Marktpreis während der Periode. Bei diesen Stammaktien wird davon ausgegangen, dass sie einen marktgerechten Kurs aufweisen und weder ein Verwässerungseffekt noch ein Verwässerungsschutz vorliegt. Sie bleiben bei der Berechnung des verwässerten Ergebnisses je Aktie unberücksichtigt;
+b) 
+
+einen Vertrag zur entgeltlosen Ausgabe der verbleibenden Stammaktien. Diese Stammaktien erzielen keine Erlöse und wirken sich nicht auf den den in Umlauf befindlichen Stammaktien zuzurechnenden Gewinn oder Verlust aus. Daher liegt bei diesen Aktien ein Verwässerungseffekt vor, und sie sind bei der Berechnung des verwässerten Ergebnisses je Aktie zu den in Umlauf befindlichen Stammaktien hinzuzuzählen.
+
+47 Bei Optionen und Optionsscheinen tritt ein Verwässerungseffekt nur dann ein, wenn der durchschnittliche Marktpreis der Stammaktien während der Periode den Ausübungspreis der Optionen oder Optionsscheine übersteigt (d. h. wenn sie „im Geld“ sind). In Vorjahren angegebene Ergebnisse je Aktie werden nicht rückwirkend um Kursveränderungen bei den Stammaktien berichtigt.
+
+47A Bei Aktienoptionen und anderen anteilsbasierten Vergütungsvereinbarungen, für die IFRS 2 Anteilsbasierte Vergütung gilt, müssen der in Paragraph 46 genannte Ausgabepreis und der in Paragraph 47 genannte Ausübungspreis den (gemäß IFRS 2 bewerteten) beizulegenden Zeitwert aller Güter oder Dienstleistungen enthalten, die dem Unternehmen künftig im Rahmen der Aktienoption oder einer anderen anteilsbasierten Vergütungsvereinbarung zu liefern bzw. zu erbringen sind.
+
+48 Mitarbeiteraktienoptionen mit festen oder bestimmbaren Laufzeiten und verfallbare Stammaktien werden bei der Ermittlung des verwässerten Ergebnisses je Aktie als Optionen behandelt, obgleich sie eventuell von einer Anwartschaft abhängig sind. Sie werden zum Tag der Gewährung als im Umlauf befindlich behandelt. Leistungsabhängige Mitarbeiteraktienoptionen werden als bedingt emissionsfähige Aktien behandelt, weil ihre Ausgabe neben dem Ablauf einer Zeitspanne auch von der Erfüllung bestimmter Bedingungen abhängig ist.
+
+Wandelbare Instrumente
+
+49 Der Verwässerungseffekt wandelbarer Instrumente ist gemäß den Paragraphen 33 und 36 im verwässerten Ergebnis je Aktie darzustellen.
+
+50 Bei wandelbaren Vorzugsaktien liegt ein Verwässerungsschutz immer dann vor, wenn die Dividende, die in der laufenden Periode für diese Aktien beschlossen wurde bzw. aufgelaufen ist, bei einer Umwandlung je erhaltener Stammaktie das unverwässerte Ergebnis je Aktie übersteigt. Bei wandelbaren Schuldtiteln liegt ein Verwässerungsschutz vor, wenn die zu erhaltende Verzinsung (nach Steuern und sonstigen Änderungen bei den Erträgen oder Aufwendungen) je Stammaktie bei einer Umwandlung das unverwässerte Ergebnis je Aktie übersteigt.
+
+51 Die Rückzahlung oder vorgenommene Umwandlung wandelbarer Vorzugsaktien betrifft unter Umständen nur einen Teil der zuvor in Umlauf befindlichen wandelbaren Vorzugsaktien. Um zu ermitteln, ob bei den übrigen in Umlauf befindlichen Vorzugsaktien ein Verwässerungseffekt vorliegt, wird in diesen Fällen ein in Paragraph 17 genanntes zusätzliches Entgelt den Aktien zugerechnet, die zurückgezahlt oder umgewandelt werden. Zurückgezahlte oder umgewandelte und nicht zurückgezahlte oder umgewandelte Aktien werden getrennt voneinander betrachtet.
+
+Bedingt emissionsfähige Aktien
+
+52 Wie bei der Ermittlung des unverwässerten Ergebnisses je Aktie werden auch bedingt emissionsfähige Aktien als in Umlauf befindlich behandelt und in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen, sofern die Bedingungen erfüllt (d. h. die Ereignisse eingetreten sind). Bedingt emissionsfähige Aktien werden mit Beginn der Periode (oder ab dem Tag der Vereinbarung zur bedingten Aktienausgabe, falls dieser Termin später liegt) einbezogen. Falls die Bedingungen nicht erfüllt sind, basiert die Anzahl der bedingt emissionsfähigen Aktien, die in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen werden, auf der Anzahl an Aktien, die auszugeben wären, falls das Ende der Periode mit dem Ende des Zeitraums, innerhalb dessen diese Bedingung eintreten kann, zusammenfiele. Sind die Bedingungen bei Ablauf der Periode, innerhalb der sie eintreten können, nicht erfüllt, sind rückwirkende Anpassungen nicht erlaubt.
+
+53 Besteht die Bedingung einer bedingten Emission in der Erzielung oder Aufrechterhaltung eines bestimmten Ergebnisses für eine Periode und wurde dieser Betrag zum Ende des Berichtszeitraums zwar erzielt, muss darüber hinaus aber für eine weitere Periode gehalten werden, so gelten die zusätzlichen Stammaktien als in Umlauf befindlich, falls bei der Ermittlung des verwässerten Ergebnisses je Aktie ein Verwässerungseffekt eintritt. In diesem Fall basiert die Ermittlung des verwässerten Ergebnisses je Aktie auf der Zahl von Stammaktien, die ausgegeben würden, wenn das Ergebnis am Ende der Berichtsperiode mit dem Ergebnis am Ende der Periode, innerhalb der diese Bedingung eintreten kann, identisch wäre. Da sich das Ergebnis in einer künftigen Periode verändern kann, werden bedingt emissionsfähige Aktien nicht vor Ende der Periode, innerhalb der diese Bedingung eintreten kann, in die Ermittlung des unverwässerten Ergebnisses einbezogen, da nicht alle erforderlichen Voraussetzungen erfüllt sind.
+
+54 Die Zahl der bedingt emissionsfähigen Aktien kann vom künftigen Marktpreis der Stammaktien abhängen. Sollte dies zu einer Verwässerung führen, so basiert die Ermittlung des verwässerten Ergebnisses je Aktie auf der Zahl von Stammaktien, die ausgegeben würden, wenn der Marktpreis am Ende der Berichtsperiode mit dem Marktpreis am Ende der Periode, innerhalb der diese Bedingung eintreten kann, identisch wäre. Basiert die Bedingung auf einem Durchschnitt der Marktpreise über einen über die Berichtsperiode hinausgehenden Zeitraum, so wird der Durchschnitt für den abgelaufenen Zeitraum zugrunde gelegt. Da sich der Marktpreis in einer künftigen Periode verändern kann, werden bedingt emissionsfähige Aktien nicht vor Ende der Periode, innerhalb der diese Bedingung eintreten kann, in die Ermittlung des unverwässerten Ergebnisses je Aktie einbezogen, da nicht alle erforderlichen Voraussetzungen erfüllt sind.
+
+55 Die Zahl der bedingt emissionsfähigen Aktien kann vom künftigen Ergebnis und den künftigen Kursen der Stammaktien abhängen. In solchen Fällen basiert die Zahl der Stammaktien, die in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen werden, auf beiden Bedingungen (also dem bis dahin erzielten Ergebnis und dem aktuellen Marktpreis am Ende des Berichtszeitraums). Bedingt emissionsfähige Aktien werden erst in die Ermittlung des verwässerten Ergebnisses je Aktie einbezogen, wenn beide Bedingungen erfüllt sind.
+
+56 In anderen Fällen hängt die Zahl der bedingt emissionsfähigen Aktien von einer anderen Bedingung als dem Ergebnis oder Marktpreis (beispielsweise der Eröffnung einer bestimmten Zahl an Einzelhandelsgeschäften) ab. In diesen Fällen werden die bedingt emissionsfähigen Aktien unter der Annahme, dass die Bedingung bis zum Ende der Periode, innerhalb der sie eintreten kann, unverändert bleibt, dem Stand am Ende des Berichtszeitraums entsprechend in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen.
+
+57 Bedingt emissionsfähige potenzielle Stammaktien (mit Ausnahme solcher, die einer Vereinbarung zur bedingten Aktienausgabe unterliegen, wie bedingt emissionsfähige wandelbare Instrumente) werden folgendermaßen in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen:
+a) 
+
+Ein Unternehmen stellt fest, ob man bei den potenziellen Stammaktien davon ausgehen kann, dass sie aufgrund der für sie festgelegten Emissionsbedingungen nach Maßgabe der Bestimmungen über bedingt emissionsfähige Stammaktien in den Paragraphen 52–56 emissionsfähig sind, und
+b) 
+
+sollten sich diese potenziellen Stammaktien im verwässerten Ergebnis je Aktie niederschlagen, stellt ein Unternehmen die entsprechenden Auswirkungen auf die Berechnung des verwässerten Ergebnisses je Aktie nach Maßgabe der Bestimmungen über Optionen und Optionsscheine (Paragraphen 45–48), der Bestimmungen über wandelbare Instrumente (Paragraphen 49–51), der Bestimmungen über Verträge, die in Stammaktien oder liquiden Mitteln erfüllt werden (Paragraphen 58–61) bzw. sonstiger Bestimmungen fest.
+
+Bei der Ermittlung des verwässerten Ergebnisses je Aktie wird jedoch nur von einer Ausübung bzw. Umwandlung ausgegangen, wenn bei ähnlichen im Umlauf befindlichen potenziellen und unbedingten Stammaktien die gleiche Annahme zugrunde gelegt wird.
+
+Verträge, die in Stammaktien oder liquiden Mitteln erfüllt werden können
+
+58   Hat ein Unternehmen einen Vertrag geschlossen, bei dem das Unternehmen zwischen einer Erfüllung in Stammaktien oder in liquiden Mitteln wählen kann, so hat das Unternehmen davon auszugehen, dass der Vertrag in Stammaktien erfüllt wird, wobei die daraus resultierenden potenziellen Stammaktien in das verwässerte Ergebnis je Aktie einzubeziehen sind, sofern ein Verwässerungseffekt vorliegt.
+
+59 Wird ein solcher Vertrag zu Bilanzierungszwecken als Vermögenswert oder Schuld dargestellt oder enthält er eine Eigenkapital- und eine Schuldkomponente, so hat das Unternehmen den Zähler um etwaige Änderungen beim Gewinn oder Verlust zu bereinigen, die sich während der Periode ergeben hätten, wäre der Vertrag in vollem Umfang als Eigenkapitalinstrument eingestuft worden. Bei dieser Bereinigung wird ähnlich verfahren wie bei den nach Paragraph 33 erforderlichen Anpassungen.
+
+60   Bei Verträgen, die nach Wahl des Inhabers in Stammaktien oder liquiden Mitteln erfüllt werden können, ist bei der Berechnung des verwässerten Ergebnisses je Aktie die Option mit dem stärkeren Verwässerungseffekt zugrunde zu legen.
+
+61 Ein Beispiel für einen Vertrag, bei dem die Erfüllung in Stammaktien oder liquiden Mitteln erfolgen kann, ist ein Schuldinstrument, das dem Unternehmen bei Fälligkeit das uneingeschränkte Recht einräumt, den Kapitalbetrag in liquiden Mitteln oder in eigenen Stammaktien zu leisten. Ein weiteres Beispiel ist eine geschriebene Verkaufsoption, deren Inhaber die Wahl zwischen Erfüllung in Stammaktien oder in liquiden Mitteln hat.
+
+Gekaufte Optionen
+
+62 Verträge wie gekaufte Verkaufsoptionen und gekaufte Kaufoptionen (also Optionen, die das Unternehmen auf die eigenen Stammaktien hält) werden nicht in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen, weil dies einem Verwässerungsschutz gleichkäme. Die Verkaufsoption würde nur ausgeübt, wenn der Ausübungspreis den Marktpreis überstiege, und die Kaufoption würde nur ausgeübt, wenn der Ausübungspreis unter dem Marktpreis läge.
+
+Geschriebene Verkaufsoptionen
+
+63   Verträge, die das Unternehmen zum Rückkauf seiner eigenen Aktien verpflichten (wie geschriebene Verkaufsoptionen und Terminkäufe), kommen bei der Berechnung des verwässerten Ergebnisses je Aktie zum Tragen, wenn ein Verwässerungseffekt vorliegt. Wenn diese Verträge innerhalb der Periode „im Geld“ sind (d. h. der Ausübungs- oder Erfüllungspreis den durchschnittlichen Marktpreis in der Periode übersteigt), so ist der potenzielle Verwässerungseffekt auf das Ergebnis je Aktie folgendermaßen zu ermitteln:
+a) 
+
+es ist anzunehmen, dass am Anfang der Periode eine ausreichende Menge an Stammaktien (zum durchschnittlichen Marktpreis während der Periode) emittiert wird, um die Mittel zur Vertragserfüllung zu beschaffen,
+b) 
+
+es ist anzunehmen, dass die Erlöse aus der Emission zur Vertragserfüllung (also zum Rückkauf der Stammaktien) verwendet werden, und
+c) 
+
+die zusätzlichen Stammaktien (die Differenz zwischen den als emittiert angenommenen Stammaktien und den aus der Vertragserfüllung vereinnahmten Stammaktien) sind in die Berechnung des verwässerten Ergebnisses je Aktie einzubeziehen.
+
+RÜCKWIRKENDE ANPASSUNGEN
+
+64   Nimmt die Zahl der in Umlauf befindlichen Stammaktien oder potenziellen Stammaktien durch eine Kapitalerhöhung aus Gesellschaftsmitteln, eine Emission von Gratisaktien oder einen Aktiensplitt zu bzw. durch einen umgekehrten Aktiensplitt ab, so ist die Berechnung des unverwässerten und verwässerten Ergebnisses je Aktie für alle dargestellten Perioden rückwirkend anzupassen. Treten diese Änderungen nach dem Abschlussstichtag, aber vor der Genehmigung zur Veröffentlichung des Abschlusses ein, sind die Berechnungen je Aktie für den Abschluss, der für diese Periode vorgelegt wird, sowie für die Abschlüsse aller früheren Perioden auf der Grundlage der neuen Zahl an Aktien vorzunehmen. Dabei ist anzugeben, dass die Berechnungen pro Aktie derartigen Änderungen in der Zahl der Aktien Rechnung tragen. Darüber hinaus sind für alle dargestellten Perioden das unverwässerte und das verwässerte Ergebnis je Aktie auch im Hinblick auf die Auswirkungen von rückwirkend berücksichtigten Fehlern und Anpassungen, die durch Änderungen der Rechnungslegungsmethoden bedingt sind, anzupassen.
+
+65 Ein Unternehmen darf das verwässerte Ergebnis je Aktie, die in früheren Perioden ausgewiesen wurde, nicht aufgrund von Änderungen der Berechnungsannahmen zur Ergebnisermittlung je Aktie oder zwecks Umwandlung potenzieller Stammaktien in Stammaktien rückwirkend anpassen.
+
+DARSTELLUNG
+
+66   Ein Unternehmen hat in seiner Gesamtergebnisrechnung für jede Gattung von Stammaktien mit unterschiedlichem Anrecht auf Teilnahme am Gewinn oder Verlust das unverwässerte und das verwässerte Ergebnis je Aktie aus dem den Stammaktionären des Mutterunternehmens zurechenbaren Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen sowie aus dem den Stammaktionären des Mutterunternehmens zurechenbaren Gewinn oder Verlust auszuweisen. Ein Unternehmen hat das unverwässerte und das verwässerte Ergebnis je Aktie in allen dargestellten Perioden gleichrangig auszuweisen.
+
+67 Das Ergebnis je Aktie ist für jede Periode auszuweisen, für die eine Gesamtergebnisrechnung vorgelegt wird. Wird das verwässerte Ergebnis je Aktie für mindestens eine Periode ausgewiesen, so ist es, selbst wenn es dem unverwässerten Ergebnis je Aktie entspricht, für sämtliche dargestellten Perioden auszuweisen. Stimmen unverwässertes und verwässertes Ergebnis je Aktie überein, so kann der doppelte Ausweis in einer Zeile in der Gesamtergebnisrechnung erfolgen.
+
+67A Stellt ein Unternehmen die Ergebnisbestandteile gemäß Paragraph 10A von IAS 1 (in der 2011 geänderten Fassung) in einer gesonderten Gewinn- und Verlustrechnung dar, so hat es das unverwässerte und verwässerte Ergebnis je Aktie gemäß den Vorschriften der Paragraph 66 und 67 in dieser gesonderten Gewinn- und Verlustrechnung auszuweisen.
+
+68   Ein Unternehmen, das die Aufgabe eines Geschäftsbereichs berichtet, hat die unverwässerten und verwässerten Beträge je Aktie für den aufgegebenen Geschäftsbereich entweder in der Gesamtergebnisrechnung oder im Anhang auszuweisen.
+
+68A Stellt ein Unternehmen die Ergebnisbestandteile gemäß Paragraph 10A von IAS 1 (in der 2011 geänderten Fassung) in einer gesonderten Gewinn- und Verlustrechnung dar, so hat es das unverwässerte und verwässerte Ergebnis je Aktie für den aufgegebenen Geschäftsbereich gemäß den Vorschriften in Paragraph 68 in dieser gesonderten Gewinn- und Verlustrechnung oder im Anhang auszuweisen.
+
+69   Ein Unternehmen hat das unverwässerte und das verwässerte Ergebnis je Aktie auch dann auszuweisen, wenn die Beträge negativ (also als Verlust je Aktie) ausfallen.
+
+ANGABEN
+
+70   Ein Unternehmen hat Folgendes anzugeben:
+a) 
+
+die Beträge, die es bei der Berechnung des unverwässerten und verwässerten Ergebnisses je Aktie als Zähler verwendet, sowie eine Überleitung der entsprechenden Beträge zu dem dem Mutterunternehmen zurechenbaren Gewinn oder Verlust. Der Überleitungsrechnung muss zu entnehmen sein, wie sich die einzelnen Gattungen von Instrumenten auf das Ergebnis je Aktie auswirken.
+b) 
+
+die gewichtete durchschnittliche Anzahl der Stammaktien, der bei der Berechnung des unverwässerten und des verwässerten Ergebnisses je Aktie als Nenner verwendet wurde, sowie eine Überleitungsrechnung dieser Nenner zueinander. Der Überleitungsrechnung muss zu entnehmen sein, wie sich die einzelnen Gattungen von Instrumenten auf das Ergebnis je Aktie auswirken.
+c) 
+
+die Instrumente (einschließlich bedingt emissionsfähiger Aktien), die das unverwässerte Ergebnis je Aktie in Zukunft potenziell verwässern könnten, aber nicht in die Berechnung des verwässerten Ergebnisses je Aktie eingeflossen sind, weil sie für die dargestellte Periode/die dargestellten Perioden einer Verwässerung entgegenwirken.
+d) 
+
+eine Beschreibung der Transaktionen mit Stammaktien oder potenziellen Stammaktien – mit Ausnahme derjenigen, die gemäß Paragraph 64 berücksichtigt werden–, die nach dem Abschlussstichtag zustande kommen und die, wenn sie vor Ende der Berichtsperiode stattgefunden hätten, die Zahl der am Ende der Periode in Umlauf befindlichen Stammaktien oder potenziellen Stammaktien erheblich verändert hätten.
+
+71 Beispiele für die in Paragraph 70(d) genannten Transaktionen sind
+a) 
+
+die Ausgabe von Aktien gegen liquide Mittel,
+b) 
+
+die Ausgabe von Aktien, wenn die Erlöse dazu verwendet werden, zum Abschlussstichtag bestehende Schulden oder in Umlauf befindliche Vorzugsaktien zu tilgen,
+c) 
+
+die Rücknahme von in Umlauf befindlichen Stammaktien,
+d) 
+
+die Umwandlung oder Ausübung des Bezugsrechtes potenzieller, sich zum Abschlussstichtag im Umlauf befindlicher Stammaktien in Stammaktien,
+e) 
+
+die Ausgabe von Optionen, Optionsscheinen oder wandelbaren Instrumenten und
+f) 
+
+die Erfüllung von Bedingungen, die die Ausgabe bedingt emissionsfähiger Aktien zur Folge hätten.
+
+Die Ergebnisse je Aktie werden nicht um Transaktionen bereinigt, die nach dem Abschlussstichtag eintreten, da diese den zur Generierung des Gewinns oder Verlusts verwendeten Kapitalbetrag nicht beeinflussen.
+
+72 Finanzinstrumente und sonstige Verträge, die zu potenziellen Stammaktien führen, können Bedingungen enthalten, die die Bestimmung des unverwässerten und verwässerten Ergebnisses je Aktie beeinflussen. Diese Bedingungen können entscheidend dafür sein, ob bei potenziellen Stammaktien ein Verwässerungseffekt vorliegt und, falls dem so ist, wie sich dies auf die gewichtete durchschnittliche Anzahl der in Umlauf befindlichen Aktien sowie alle daraus resultierenden Bereinigungen des den Stammaktionären zuzurechnenden Gewinns oder Verlusts auswirkt. Die Angabe der Vertragsbedingungen dieser Finanzinstrumente und anderer Verträge wird empfohlen, sofern dies nicht ohnehin vorgeschrieben ist (s. IFRS 7 Finanzinstrumente: Angaben).
+
+73   Falls ein Unternehmen zusätzlich zum unverwässerten und verwässerten Ergebnis je Aktie Beträge je Aktie angibt, die mittels eines in der Gesamtergebnisrechnung enthaltenen Bestandteils ermittelt werden, der von diesem Standard nicht vorgeschrieben ist, so sind derartige Beträge unter Verwendung der gemäß diesem Standard ermittelten gewichteten durchschnittlichen Anzahl von Stammaktien zu bestimmen. Unverwässerte und verwässerte Beträge je Aktie, die sich auf einen derartigen Bestandteil beziehen, sind gleichrangig anzugeben und im Anhang auszuweisen. Ein Unternehmen hat auf die Grundlage zur Ermittlung des Nenners/der Nenner hinzuweisen, einschließlich der Angabe, ob es sich bei den entsprechenden Beträgen je Aktie um Vor- oder Nachsteuerbeträge handelt. Bei Verwendung eines Bestandteils der Gesamtergebnisrechnung, der nicht als eigenständiger Posten in der Gesamtergebnisrechnung ausgewiesen wird, ist eine Überleitung zwischen diesem verwendeten Bestandteil zu einem in der Gesamtergebnisrechnung ausgewiesenen Posten herzustellen.
+
+73A   Paragraph 73 ist auch auf ein Unternehmen anzuwenden, das zusätzlich zum unverwässerten und verwässerten Ergebnis je Aktie Beträge je Aktie angibt, die mittels eines Ergebnisbestandteils, der nicht von diesem Standard vorgeschrieben wird, ermittelt werden.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+74 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen Standard für Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+74A Durch IAS 1 (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 4A, 67A, 68A und 73A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+74B Durch IFRS 10 und IFRS 11 Gemeinschaftliche Vereinbarungen, veröffentlicht im Mai 2011, wurden die Paragraphen 4, 40 und A11 geändert. Wendet ein Unternehmen IFRS 10 und IFRS 11 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+74C Durch IFRS 13, veröffentlicht im Mai 2011, wurden die Paragraphen 8, 47A und A2 geändert. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+74D Durch Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurden die Paragraphen 4A, 67A, 68A und 73A geändert. Wendet ein Unternehmen IAS 1 (in der im Juni 2011 geänderten Fassung) an, sind diese Änderungen ebenfalls anzuwenden.
+
+74E Durch IFRS 9 Finanzinstrumente (in der im Juli 2014 veröffentlichten Fassung) wurde Paragraph 34 geändert. Wendet ein Unternehmen IFRS 9 an, ist diese Änderung ebenfalls anzuwenden.
+
+RÜCKNAHME ANDERER VERLAUTBARUNGEN
+
+75 Dieser Standard ersetzt IAS 33 Ergebnis je Aktie (veröffentlicht 1997).
+
+76 Dieser Standard ersetzt SIC-24 Ergebnis je Aktie — Finanzinstrumente und sonstige Verträge, die in Aktien erfüllt werden können.
+
+Anhang A
+
+ANWENDUNGSLEITLINIEN
+
+Dieser Anhang ist integraler Bestandteil des Standards.
+
+Der dem Mutterunternehmen zuzurechnende Gewinn oder Verlust
+
+A1 Zur Berechnung des Ergebnisses je Aktie auf der Grundlage des Konzernabschlusses bezieht sich der dem Mutterunternehmen zuzurechnende Gewinn oder Verlust auf den Gewinn oder Verlust des konsolidierten Unternehmens nach Berücksichtigung von nicht beherrschenden Anteilen.
+
+Bezugsrechtsausgabe
+
+A2 Durch die Ausgabe von Stammaktien zum Zeitpunkt der Ausübung oder Umwandlung potenzieller Stammaktien entsteht im Regelfall kein Bonuselement, weil die potenziellen Stammaktien normalerweise zum beizulegenden Zeitwert ausgegeben werden, was zu einer proportionalen Änderung der dem Unternehmen zur Verfügung stehenden Ressourcen führt. Bei einer Ausgabe von Bezugsrechten liegt der Ausübungskurs jedoch häufig unter dem beizulegenden Zeitwert der Aktien, sodass hier ein Bonuselement vorliegt (siehe Paragraph 27(b)). Wird allen gegenwärtigen Aktionären eine Bezugsrechtsausgabe angeboten, ist die Zahl der Stammaktien, die zu verwenden ist, um für alle Perioden vor der Bezugsrechtsausgabe das unverwässerte und das verwässerte Ergebnis je Aktie zu berechnen, gleich der Zahl der sich vor der Ausgabe in Umlauf befindlichen Stammaktien, multipliziert mit folgendem Faktor:
+
+image
+
+Der theoretische Zeitwert je Aktie nach dem Bezugsrecht wird berechnet, indem die Summe der beizulegenden Zeitwerte der Aktien unmittelbar vor Ausübung der Bezugsrechte zu den Erlösen aus der Ausübung der Bezugsrechte hinzugezählt und durch die Anzahl der sich nach Ausübung der Bezugsrechte in Umlauf befindlichen Aktien geteilt wird. In Fällen, in denen die Bezugsrechte vor dem Ausübungsdatum getrennt von den Aktien öffentlich gehandelt werden sollen, wird der beizulegende Zeitwert am Schluss des letzten Handelstages, an dem die Aktien gemeinsam mit den Bezugsrechten gehandelt werden, ermittelt.
+
+Kontrollgröße
+
+A3 Um die Anwendung des in den Paragraphen 42 und 43 beschriebenen Begriffs der Kontrollgröße zu veranschaulichen, soll angenommen werden, dass ein Unternehmen aus fortzuführenden Geschäftsbereichen einen dem Mutterunternehmen zurechenbaren Gewinn von 4800 WE ( 20 ), aus aufgegebenen Geschäftsbereichen einen dem Mutterunternehmen zurechenbaren Verlust von (7200 WE), einen dem Mutterunternehmen zurechenbaren Verlust von (2400 WE) und 2000 Stammaktien sowie 400 in Umlauf befindliche potenzielle Stammaktien hat. Das unverwässerte Ergebnis des Unternehmens je Aktie beträgt in diesem Fall 2,40 WE für fortzuführende Geschäftsbereiche, (3,60 WE) für aufgegebene Geschäftsbereiche und (1,20 WE) für den Verlust. Die 400 potenziellen Stammaktien werden in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen, weil das resultierende Ergebnis von 2,00 WE je Aktie für fortzuführende Geschäftsbereiche verwässernd wirkt, wenn keine Auswirkung dieser 400 potenziellen Stammaktien auf den Gewinn oder Verlust angenommen wird. Weil der dem Mutterunternehmen zurechenbare Gewinn aus fortzuführenden Geschäftsbereichen die Kontrollgröße ist, bezieht das Unternehmen auch diese 400 potenziellen Stammaktien in die Berechnung der übrigen Ergebnisse je Aktie ein, obwohl die resultierenden Ergebnisse je Aktie für die ihnen vergleichbaren unverwässerten Ergebnisse je Aktie einen Verwässerungsschutz darstellen; d. h., der Verlust je Aktie geringer ist [(3,00 WE) je Aktie für den Verlust aus aufgegebenen Geschäftsbereichen und (1,00 WE) je Aktie für den Verlust].
+
+Durchschnittlicher Marktpreis der Stammaktien
+
+A4 Zur Berechnung des verwässerten Ergebnisses je Aktie wird der durchschnittliche Marktpreis der Stammaktien, von deren Ausgabe ausgegangen wird, auf der Basis des durchschnittlichen Marktpreises während der Periode errechnet. Theoretisch könnte jede Markttransaktion mit den Stammaktien eines Unternehmens in die Bestimmung des durchschnittlichen Marktpreises einbezogen werden. In der Praxis reicht jedoch für gewöhnlich ein einfacher Durchschnitt aus den wöchentlichen oder monatlichen Kursen aus.
+
+A5 Im Allgemeinen sind die Schlusskurse für die Berechnung des durchschnittlichen Marktpreises ausreichend. Schwanken die Kurse allerdings mit großer Bandbreite, ergibt ein Durchschnitt aus den Höchst- und Tiefstkursen normalerweise einen repräsentativeren Kurs. Der durchschnittliche Marktpreis ist stets nach derselben Methode zu ermitteln, es sei denn, diese ist wegen geänderter Bedingungen nicht mehr repräsentativ. So könnte z. B. ein Unternehmen, das zur Errechnung des durchschnittlichen Marktpreises über mehrere Jahre relativ stabiler Kurse hinweg die Schlusskurse benutzt, zur Durchschnittsbildung aus Höchst- und Tiefstkursen übergehen, wenn starke Kursschwankungen einsetzen und die Schlusskurse keinen repräsentativen Durchschnittskurs mehr ergeben.
+
+Optionen, Optionsscheine und ihre Äquivalente
+
+A6 Es wird davon ausgegangen, dass Optionen oder Optionsscheine für den Kauf wandelbarer Instrumente immer dann für diesen Zweck ausgeübt werden, wenn die Durchschnittskurse sowohl der wandelbaren Instrumente als auch der nach der Umwandlung zu beziehenden Stammaktien über dem Ausübungskurs der Optionen oder Optionsscheine liegen. Von einer Ausübung wird jedoch nur dann ausgegangen, wenn auch bei etwaigen ähnlichen in Umlauf befindlichen wandelbaren Instrumenten von einer Umwandlung ausgegangen wird.
+
+A7 Optionen oder Optionsscheine können die Andienung schuldrechtlicher oder anderer Wertpapiere des Unternehmens (oder seines Mutterunternehmens oder eines Tochterunternehmens) zur Zahlung des gesamten Ausübungspreises oder eines Teiles davon ermöglichen oder erfordern. Bei der Berechnung des verwässerten Ergebnisses je Aktie wirken diese Optionen oder Optionsscheine verwässernd, wenn (a) der durchschnittliche Marktpreis der zugehörigen Stammaktien für die Periode den Ausübungskurs überschreitet oder (b) der Verkaufskurs des anzudienenden Instrumentes unter dem liegt, zu dem das Instrument der Options- oder Optionsscheinsvereinbarung entsprechend angedient werden kann und der sich ergebende Abschlag zu einem effektiven Ausübungskurs unter dem Marktpreis für die Stammaktien führt, die nach der Ausübung bezogen werden können. Bei der Berechnung des verwässerten Ergebnisses je Aktie wird davon ausgegangen, dass diese Optionen oder Optionsscheine ausgeübt und die schuldrechtlichen oder anderen Wertpapiere angedient werden sollen. Ist die Andienung liquider Mittel für den Options- oder Optionsscheininhaber vorteilhafter und lässt der Vertrag dies zu, wird von der Andienung liquider Mittel ausgegangen. Zinsen (abzüglich Steuern) auf schuldrechtliche Wertpapiere, von deren Andienung ausgegangen wird, werden dem Zähler als Berichtigung wieder hinzugerechnet.
+
+A8 Ähnlich behandelt werden Vorzugsaktien mit ähnlichen Bestimmungen oder andere Wertpapiere, deren Umwandlungsoptionen dem Investor eine Barzahlung zu einem günstigeren Umwandlungssatz erlauben.
+
+A9 Bei bestimmten Optionen oder Optionsscheinen sehen die Vertragsbedingungen eventuell vor, dass die durch Ausübung dieser Instrumente erzielten Erlöse für den Rückkauf schuldrechtlicher oder anderer Wertpapiere des Unternehmens (oder seines Mutter- oder eines Tochterunternehmens) verwendet werden. Bei der Berechnung des verwässerten Ergebnisses je Aktie wird davon ausgegangen, dass diese Optionen oder Optionsscheine ausgeübt werden und der Erlös für den Kauf der schuldrechtlichen Wertpapiere zum durchschnittlichen Marktpreis und nicht für den Kauf von Stammaktien verwendet wird. Sollte der durch die angenommene Ausübung erzielte Erlös jedoch über den für den angenommenen Kauf schuldrechtlicher Wertpapiere aufgewandten Betrag hinausgehen, so wird diese Differenz bei der Berechnung des verwässerten Ergebnisses je Aktie berücksichtigt (d. h., es wird davon ausgegangen, dass sie für den Rückkauf von Stammaktien eingesetzt wurde). Zinsen (abzüglich Steuern) auf schuldrechtliche Wertpapiere, von deren Kauf ausgegangen wird, werden dem Zähler als Berichtigung wieder hinzugerechnet.
+
+Geschriebene Verkaufsoptionen
+
+A10 Zur Erläuterung der Anwendung von Paragraph 63 soll angenommen werden, dass sich von einem Unternehmen 120 geschriebene Verkaufsoptionen auf seine Stammaktien mit einem Ausübungskurs von 35 WE in Umlauf befinden. Der durchschnittliche Marktpreis für die Stammaktien des Unternehmens in der Periode beträgt 28 WE. Bei der Berechnung des verwässerten Ergebnisses je Aktie geht das Unternehmen davon aus, dass es zur Erfüllung seiner Verkaufsverpflichtung von 4200 WE zu Periodenbeginn 150 Aktien zu je 28 WE ausgegeben hat. Die Differenz zwischen den 150 ausgegebenen Stammaktien und den 120 Stammaktien aus der Erfüllung der Verkaufsoption (30 zusätzliche Stammaktien) wird bei der Berechnung des verwässerten Ergebnisses je Aktie auf den Nenner aufaddiert.
+
+Instrumente von Tochterunternehmen, Gemeinschaftsunternehmen oder assoziierten Unternehmen
+
+A11 Potenzielle Stammaktien eines Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens, die entweder in Stammaktien des Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens oder in Stammaktien des Mutterunternehmens oder von Investoren, die an der gemeinschaftlichen Führung des Beteiligungsunternehmens beteiligt sind oder einen maßgeblichem Einfluss auf das Beteiligungsunternehmen haben, (des berichtenden Unternehmens) umgewandelt werden können, werden wie folgt in die Berechnung des verwässerten Ergebnisses je Aktie einbezogen:
+a) 
+
+Durch ein Tochterunternehmen, Gemeinschaftsunternehmen oder assoziiertes Unternehmen ausgegebene Instrumente, die ihren Inhabern den Bezug von Stammaktien des Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens ermöglichen, werden in die Berechnung des verwässerten Ergebnisses je Aktie des Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens einbezogen. Dieses Ergebnis je Aktie wird dann vom berichtenden Unternehmen in dessen Berechnungen des Ergebnisses je Aktie einbezogen, und zwar auf der Grundlage, dass das berichtende Unternehmen die Instrumente des Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens hält.
+b) 
+
+Instrumente eines Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens, die in Stammaktien des berichtenden Unternehmens umgewandelt werden können, werden für die Berechnung des verwässerten Ergebnisses je Aktie als zu den potenziellen Stammaktien des berichtenden Unternehmens gehörend betrachtet. Ebenso werden auch von einem Tochterunternehmen, Gemeinschaftsunternehmen oder assoziierten Unternehmen für den Kauf von Stammaktien des berichtenden Unternehmens ausgegebene Optionen oder Optionsscheine bei der Berechnung des konsolidierten verwässerten Ergebnisses je Aktie als zu den potenziellen Stammaktien des berichtenden Unternehmens gehörend betrachtet.
+
+A12 Um zu bestimmen, wie sich Instrumente, die von einem berichtenden Unternehmen ausgegeben wurden und in Stammaktien eines Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens umgewandelt werden können, auf das Ergebnis je Aktie auswirken, wird von der Umwandlung der Instrumente ausgegangen und der Zähler (der den Stammaktionären des Mutterunternehmens zurechenbare Gewinn oder Verlust) gemäß Paragraph 33 dementsprechend angepasst. Zusätzlich dazu wird der Zähler in Bezug auf jede Änderung angepasst, die im Gewinn oder Verlust des berichtenden Unternehmens auftritt (z. B. Erträge nach der Dividenden- oder nach der Equity-Methode) und der erhöhten Stammaktienzahl des Tochterunternehmens, Gemeinschaftsunternehmens oder assoziierten Unternehmens zuzurechnen ist, die sich als Folge der angenommenen Umwandlung in Umlauf befindet. Der Nenner ist bei der Berechnung des verwässerten Ergebnisses je Aktie nicht betroffen, weil die Zahl der in Umlauf befindlichen Stammaktien des berichtenden Unternehmens sich bei Annahme der Umwandlung nicht ändern würde.
+
+Partizipierende Eigenkapitalinstrumente und aus zwei Gattungen bestehende Stammaktien
+
+A13 Zum Eigenkapital einiger Unternehmen gehören
+a) 
+
+Instrumente, die nach einer festgelegten Formel (z. B. zwei zu eins) an Stammaktien-Dividenden beteiligt werden, wobei in einigen Fällen für die Gewinnbeteiligung eine Obergrenze (z. B. bis zu einem bestimmten Höchstbetrag je Aktie) besteht,
+b) 
+
+eine Stammaktien-Gattung, deren Dividendensatz von dem der anderen Stammaktien-Gattung abweicht, ohne jedoch vorrangige oder vorgehende Rechte zu haben.
+
+A14 Zur Berechnung des verwässerten Ergebnisses je Aktie wird bei den in Paragraph A13 bezeichneten Instrumenten, die in Stammaktien umgewandelt werden können, von einer Umwandlung ausgegangen, wenn sie eine verwässernde Wirkung hat. Für die nicht in eine Stammaktien-Gattung umwandelbaren Instrumente wird der Gewinn oder Verlust entsprechend ihren Dividendenrechten oder anderen Rechten auf Beteiligung an nicht ausgeschütteten Gewinnen den unterschiedlichen Aktiengattungen und partizipierenden Eigenkapitalinstrumenten zugewiesen. Zur Berechnung des unverwässerten und verwässerten Ergebnisses je Aktie,
+a) 
+
+wird der den Stammaktieninhabern des Mutterunternehmens zurechenbare Gewinn oder Verlust (durch Gewinnreduzierung und Verlusterhöhung) um den Betrag der Dividenden angepasst, der in der Periode für jede Aktiengattung beschlossen wurde, sowie um den vertraglichen Betrag der Dividenden (oder Zinsen auf Gewinnschuldverschreibungen), der für die Periode zu zahlen ist (z. B. ausgeschüttete, aber noch nicht ausgezahlte kumulative Dividenden).
+b) 
+
+wird der verbleibende Gewinn oder Verlust den Stammaktien und partizipierenden Eigenkapitalinstrumenten in dem Umfang zugeteilt, in dem jedes Instrument am Ergebnis beteiligt ist, so, als sei der gesamte Gewinn oder Verlust ausgeschüttet worden. Der gesamte jeder Gattung von Eigenkapitalinstrumenten zugewiesene Gewinn oder Verlust wird durch Addition des aus Dividenden und aus Gewinnbeteiligung zugeteilten Betrags bestimmt.
+c) 
+
+wird der Gesamtbetrag des jeder Gattung von Eigenkapitalinstrumenten zugewiesenen Gewinns oder Verlusts durch die Zahl der in Umlauf befindlichen Instrumente geteilt, denen das Ergebnis zugewiesen wird, um das Ergebnis je Aktie für das Instrument zu bestimmen.
+
+Zur Berechnung des verwässerten Ergebnisses je Aktie werden alle potenziellen Stammaktien, die als ausgegeben gelten, in die in Umlauf befindlichen Stammaktien einbezogen.
+
+Teilweise bezahlte Aktien
+
+A15 Werden Stammaktien ausgegeben, jedoch nicht voll bezahlt, werden sie bei der Berechnung des unverwässerten Ergebnisses je Aktie in dem Umfang als Bruchteil einer Stammaktie angesehen, in dem sie während der Periode in Relation zu einer voll bezahlten Stammaktie dividendenberechtigt sind.
+
+A16 Soweit teilweise bezahlte Aktien während der Periode nicht dividendenberechtigt sind, werden sie bei der Berechnung des verwässerten Ergebnisses je Aktie analog zu Optionen oder Optionsscheinen behandelt. Der unbezahlte Restbetrag gilt als für den Kauf von Stammaktien verwendeter Erlös. Die Zahl der in das verwässerte Ergebnis je Aktie einbezogenen Aktien ist die Differenz zwischen der Zahl der gezeichneten Aktien und der Zahl der Aktien, die als gekauft gelten.

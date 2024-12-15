@@ -1,0 +1,542 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 40
+
+Als Finanzinvestition gehaltene Immobilien
+
+ZIELSETZUNG
+
+1 Zielsetzung dieses Standards ist die Regelung der Bilanzierung von als Finanzinvestition gehaltenen Immobilien und der damit verbundenen Angabeerfordernisse.
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist auf Ansatz, Bewertung und Angabe von als Finanzinvestition gehaltenen Immobilien anzuwenden.
+
+3 [gestrichen]
+
+4 Dieser Standard ist nicht anwendbar auf
+a) 
+
+biologische Vermögenswerte, die mit landwirtschaftlicher Tätigkeit im Zusammenhang stehen (siehe IAS 41 Landwirtschaft und IAS 16 Sachanlagen), und
+b) 
+
+Abbau- und Schürfrechte sowie Bodenschätze wie Öl, Erdgas und ähnliche nicht-regenerative Ressourcen.
+
+DEFINITIONEN
+
+5   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Der Buchwert ist der Betrag, mit dem ein Vermögenswert in der Bilanz angesetzt wird.
+Anschaffungs- oder Herstellungskosten sind der zum Erwerb oder zur Herstellung eines Vermögenswerts aufgewendete Betrag an Zahlungsmitteln oder Zahlungsmitteläquivalenten oder der beizulegende Zeitwert einer anderen Gegenleistung zum Zeitpunkt des Erwerbs oder der Herstellung oder, falls zutreffend, der Betrag, der diesem Vermögenswert beim erstmaligen Ansatz gemäß den besonderen Bestimmungen anderer IFRS, wie IFRS 2 Anteilsbasierte Vergütung, beigelegt wird.
+Der beizulegende Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde. (Siehe IFRS 13 Bewertung zum beizulegenden Zeitwert.)
+Als Finanzinvestition gehaltene Immobilien sind Immobilien (Grundstücke oder Gebäude – oder Teile von Gebäuden – oder beides), die (vom Eigentümer oder vom Leasingnehmer als Nutzungsrecht) zur Erzielung von Mieteinnahmen und/oder zum Zweck der Wertsteigerung gehalten werden und nicht
+a) 
+
+zur Herstellung oder Lieferung von Gütern bzw. zur Erbringung von Dienstleistungen oder für Verwaltungszwecke eingesetzt werden oder
+b) 
+
+im Rahmen der gewöhnlichen Geschäftstätigkeit des Unternehmens verkauft werden.
+Vom Eigentümer selbst genutzte Immobilien sind Immobilien, die (vom Eigentümer oder vom Leasingnehmer als Nutzungsrecht) zum Zweck der Herstellung oder der Lieferung von Gütern bzw. der Erbringung von Dienstleistungen oder für Verwaltungszwecke gehalten werden.
+
+EINSTUFUNG EINER IMMOBILIE ALS EINE ALS FINANZINVESTITION GEHALTENE ODER VOM EIGENTÜMER SELBST GENUTZTE IMMOBILIE
+
+6 [gestrichen]
+
+7 Als Finanzinvestition gehaltene Immobilien werden zur Erzielung von Mieteinnahmen und/oder zum Zweck der Wertsteigerung gehalten. Daher erzeugen als Finanzinvestition gehaltene Immobilien Zahlungsströme, die weitgehend unabhängig von den anderen vom Unternehmen gehaltenen Vermögenswerten anfallen. Darin unterscheiden sich als Finanzinvestition gehaltene Immobilien von vom Eigentümer selbst genutzten Immobilien. Die Herstellung oder die Lieferung von Gütern bzw. die Erbringung von Dienstleistungen (oder die Nutzung der Immobilien für Verwaltungszwecke) führt zu Zahlungsströmen, die nicht nur den als Finanzinvestition gehaltenen Immobilien, sondern auch anderen Vermögenswerten, die im Herstellungs- oder Lieferprozess genutzt werden, zuzuordnen sind. IAS 16 ist auf eigene, vom Eigentümer selbst genutzte Immobilien anzuwenden und IFRS 16 Leasingverhältnisse auf von einem Leasingnehmer in Form von Nutzungsrechten gehaltene, vom Eigentümer selbst genutzte Immobilien.
+
+8 Beispiele für als Finanzinvestition gehaltene Immobilien sind
+a) 
+
+Grundstücke, die langfristig zum Zweck der Wertsteigerung und nicht kurzfristig zum Verkauf im Rahmen der gewöhnlichen Geschäftstätigkeit gehalten werden,
+b) 
+
+Grundstücke, die für eine noch unbestimmte künftige Nutzung gehalten werden. (Legt ein Unternehmen nicht fest, ob das Grundstück zur Selbstnutzung oder kurzfristig zum Verkauf im Rahmen der gewöhnlichen Geschäftstätigkeit gehalten wird, gilt das Grundstück als zum Zweck der Wertsteigerung gehalten),
+c) 
+
+ein Gebäude, welches sich im Eigentum des Unternehmens befindet (oder ein vom Unternehmen gehaltenes Nutzungsrecht für ein Gebäude) und im Rahmen eines oder mehrerer Operating-Leasingverhältnisse vermietet wird,
+d) 
+
+ein leer stehendes Gebäude, welches zur Vermietung im Rahmen eines oder mehrerer Operating-Leasingverhältnisse gehalten wird,
+e) 
+
+Immobilien, die für die zukünftige Nutzung als Finanzinvestition erstellt oder entwickelt werden.
+
+9 Beispiele, die keine als Finanzinvestition gehaltenen Immobilien darstellen und daher nicht in den Anwendungsbereich dieses Standards fallen, sind
+a) 
+
+Immobilien, die zum Verkauf im Rahmen der gewöhnlichen Geschäftstätigkeit vorgesehen sind oder die sich im Erstellungs- oder Entwicklungsprozess für einen solchen Verkauf befinden (siehe IAS 2 Vorräte), beispielsweise Immobilien, die ausschließlich zum Zweck der Weiterveräußerung in naher Zukunft oder zum Zweck der Entwicklung und des Weiterverkaufs erworben wurden,
+b) 
+
+[gestrichen]
+c) 
+
+vom Eigentümer selbst genutzte Immobilien (siehe IAS 16 und IFRS 16), darunter (unter anderem) Immobilien, die künftig vom Eigentümer selbst genutzt werden sollen, Immobilien, die für die zukünftige Entwicklung und anschließende Selbstnutzung gehalten werden, von Arbeitnehmern genutzte Immobilien (unabhängig davon, ob die Arbeitnehmer einen marktgerechten Mietzins zahlen oder nicht) und vom Eigentümer selbst genutzte Immobilien, die zur Weiterveräußerung bestimmt sind,
+d) 
+
+[gestrichen]
+e) 
+
+Immobilien, die im Rahmen eines Finanzierungsleasingverhältnisses an ein anderes Unternehmen vermietet wurden.
+
+10 Einige Immobilien werden teilweise zur Erzielung von Mieteinnahmen oder zum Zweck der Wertsteigerung und teilweise zum Zweck der Herstellung oder Lieferung von Gütern bzw. der Erbringung von Dienstleistungen oder für Verwaltungszwecke gehalten. Wenn diese Teile gesondert verkauft (oder im Rahmen eines Finanzierungsleasingverhältnisses gesondert vermietet) werden können, bilanziert das Unternehmen diese Teile getrennt. Können die Teile nicht gesondert verkauft werden, stellen die gehaltenen Immobilien nur dann eine Finanzinvestition dar, wenn der Anteil, der für Zwecke der Herstellung oder Lieferung von Gütern bzw. Erbringung von Dienstleistungen oder für Verwaltungszwecke gehalten wird, unbedeutend ist.
+
+11 In einigen Fällen bietet ein Unternehmen den Mietern von ihm gehaltener Immobilien Nebenleistungen an. Ein Unternehmen behandelt solche Immobilien dann als Finanzinvestition, wenn die Leistungen für die Vereinbarung insgesamt unbedeutend sind. Ein Beispiel hierfür sind Sicherheits- und Instandhaltungsleistungen seitens des Eigentümers eines Verwaltungsgebäudes für die das Gebäude nutzenden Mieter.
+
+12 In anderen Fällen sind die erbrachten Leistungen wesentlich. Besitzt und führt ein Unternehmen beispielsweise ein Hotel, ist der den Gästen angebotene Service von wesentlicher Bedeutung für die Vereinbarung insgesamt. Daher ist ein vom Eigentümer geführtes Hotel eine vom Eigentümer selbst genutzte und keine als Finanzinvestition gehaltene Immobilie.
+
+13 Ob die Nebenleistungen so bedeutend sind, dass Immobilien nicht die Kriterien einer Finanzinvestition erfüllen, kann schwierig zu bestimmen sein. Beispielsweise überträgt der Hoteleigentümer manchmal einige Verantwortlichkeiten im Rahmen eines Geschäftsführungsvertrags auf Dritte. Die Regelungen solcher Verträge variieren beträchtlich. Auf der einen Seite kann die Position des Eigentümers de facto der eines passiven Investors entsprechen. Auf der anderen Seite kann der Eigentümer einfach alltägliche Funktionen ausgelagert haben, während er weiterhin die wesentlichen Risiken aus Schwankungen der Zahlungsströme, die aus dem Betrieb des Hotels herrühren, trägt.
+
+14 Die Feststellung, ob eine Immobilie die Kriterien einer Finanzinvestition erfüllt, erfordert eine Ermessensausübung. Damit ein Unternehmen diese Ermessensausübung einheitlich in Übereinstimmung mit der Definition für als Finanzinvestition gehaltene Immobilien und den damit verbundenen Anwendungsleitlinien in den Paragraphen 7–13 vornehmen kann, legt es hierfür Kriterien fest. Gemäß Paragraph 75(c) ist ein Unternehmen zur Angabe dieser Kriterien verpflichtet, falls die Zuordnung Schwierigkeiten bereitet.
+
+14A Eine Ermessensausübung ist auch erforderlich, um zu bestimmen, ob es sich beim Erwerb einer als Finanzinvestition gehaltenen Immobilie um den Erwerb eines Vermögenswerts oder einer Gruppe von Vermögenswerten oder um einen Unternehmenszusammenschluss im Anwendungsbereich von IFRS 3 Unternehmenszusammenschlüsse handelt. Bei der Bestimmung, ob es sich um einen Unternehmenszusammenschluss handelt, sollte IFRS 3 zugrunde gelegt werden. Die Erörterung in den Paragraphen 7–14 des vorliegenden Standards bezieht sich auf die Frage, ob eine Immobilie vom Eigentümer selbst genutzt wird oder als Finanzinvestition gehalten wird, und nicht darauf, ob der Erwerb der Immobilie einen Unternehmenszusammenschluss im Sinne von IFRS 3 darstellt oder nicht. Um zu bestimmen, ob ein bestimmtes Geschäft der Definition eines Unternehmenszusammenschlusses in IFRS 3 entspricht und eine als Finanzinvestition gehaltene Immobilie im Sinne des vorliegenden Standards umfasst, müssen beide Standards unabhängig voneinander angewandt werden.
+
+15 In einigen Fällen besitzt ein Unternehmen Immobilien, die an sein Mutterunternehmen oder ein anderes Tochterunternehmen vermietet und von diesen genutzt werden. Die Immobilien stellen im Konzernabschluss keine als Finanzinvestition gehaltenen Immobilien dar, da sie aus der Sicht des Konzerns selbstgenutzt sind. Aus der Sicht des Unternehmens, welches Eigentümer der Immobilie ist, handelt es sich jedoch um eine als Finanzinvestition gehaltene Immobilie, sofern die Definition nach Paragraph 5 erfüllt ist. Daher behandelt der Leasinggeber die Immobilie in seinem Einzelabschluss als Finanzinvestition.
+
+ANSATZ
+
+16   Eigene als Finanzinvestition gehaltene Immobilien sind nur dann als Vermögenswert anzusetzen, wenn
+a) 
+
+es wahrscheinlich ist, dass dem Unternehmen der künftige wirtschaftliche Nutzen, der mit den als Finanzinvestition gehaltenen Immobilien verbunden ist, zufließen wird und
+b) 
+
+die Anschaffungs- oder Herstellungskosten der als Finanzinvestition gehaltenen Immobilien verlässlich ermittelt werden können.
+
+17 Nach diesem Ansatz bewertet ein Unternehmen alle Anschaffungs- oder Herstellungskosten der als Finanzinvestition gehaltenen Immobilien zu dem Zeitpunkt, zu dem sie anfallen. Hierzu zählen die anfänglich anfallenden Kosten für den Erwerb von als Finanzinvestition gehaltenen Immobilien sowie die späteren Kosten für ihren Ausbau, ihre teilweise Ersetzung oder ihre Instandhaltung.
+
+18 Gemäß dem Ansatz in Paragraph 16 beinhaltet der Buchwert von als Finanzinvestition gehaltenen Immobilien nicht die Kosten der täglichen Instandhaltung dieser Immobilien. Diese Kosten werden sofort erfolgswirksam erfasst. Bei den Kosten der täglichen Instandhaltung handelt es sich in erster Linie um Personalkosten und Kosten für Verbrauchsgüter, die auch Kosten für kleinere Teile umfassen können. Als Zweck dieser Aufwendungen wird häufig „Reparaturen und Instandhaltung“ der Immobilie angegeben.
+
+19 Ein Teil der als Finanzinvestition gehaltenen Immobilien kann durch Ersetzung erworben worden sein. Beispielsweise können die ursprünglichen Innenwände durch neue Wände ersetzt worden sein. Gemäß dem Ansatz berücksichtigt ein Unternehmen, sofern die Ansatzkriterien erfüllt sind, im Buchwert von als Finanzinvestition gehaltenen Immobilien die Kosten für die Ersetzung eines Teils bestehender als Finanzinvestition gehaltener Immobilien zu dem Zeitpunkt, zu dem sie anfallen. Der Buchwert der ersetzten Teile wird gemäß den in diesem Standard enthaltenen Ausbuchungsvorschriften ausgebucht.
+
+19A Eine von einem Leasingnehmer als Finanzinvestition in Form eines Nutzungsrechts gehaltene Immobilie ist nach IFRS 16 zu bilanzieren.
+
+BEWERTUNG BEI ERSTMALIGEM ANSATZ
+
+20   Eigene als Finanzinvestition gehaltene Immobilien sind bei Zugang mit ihren Anschaffungs- oder Herstellungskosten zu bewerten. Die Transaktionskosten sind in die erstmalige Bewertung mit einzubeziehen.
+
+21 Die Anschaffungs- oder Herstellungskosten der erworbenen als Finanzinvestition gehaltenen Immobilien umfassen den Kaufpreis und alle etwaigen Ausgaben, die einzeln zugeordnet werden können. Zu den Ausgaben, die einzeln zugeordnet werden können, zählen beispielsweise Honorare und Gebühren für Rechtsberatung, auf die Übertragung der Immobilien anfallende Steuern und andere Transaktionskosten.
+
+22 [gestrichen]
+
+23 Die Anschaffungs- oder Herstellungskosten der als Finanzinvestition gehaltenen Immobilien erhöhen sich nicht durch
+a) 
+
+Anlaufkosten (es sei denn, diese sind notwendig, um die als Finanzinvestition gehaltenen Immobilien in den Zustand zu versetzen, der erforderlich ist, damit sie in der vom Management beabsichtigten Weise genutzt werden können),
+b) 
+
+anfängliche Betriebsverluste, die anfallen, bevor die als Finanzinvestition gehaltenen Immobilien die geplante Belegungsquote erreichen, oder
+c) 
+
+außergewöhnlich hohe Materialabfälle, Personalkosten oder andere Ressourcen, die bei der Erstellung oder Entwicklung der als Finanzinvestition gehaltenen Immobilien anfallen.
+
+24 Erfolgt die Bezahlung einer als Finanzinvestition gehaltenen Immobilie auf Ziel, entsprechen die Anschaffungs- oder Herstellungskosten dem Gegenwert des Barpreises. Die Differenz zwischen diesem Betrag und der zu leistenden Gesamtzahlung wird über den Zeitraum des Zahlungsziels als Zinsaufwand erfasst.
+
+25 [gestrichen]
+
+26 [gestrichen]
+
+27 Eine oder mehrere als Finanzinvestition gehaltene Immobilien können im Tausch gegen einen oder mehrere nichtmonetäre Vermögenswerte oder eine Kombination aus monetären und nichtmonetären Vermögenswerten erworben werden. Die folgenden Ausführungen beziehen sich auf einen Tausch von einem nichtmonetären Vermögenswert gegen einen anderen, finden aber auch auf alle anderen im vorstehenden Satz genannten Tauschvorgänge Anwendung. Die Anschaffungs- oder Herstellungskosten solcher als Finanzinvestition gehaltenen Immobilien werden mit dem beizulegenden Zeitwert bewertet, es sei denn, (a) dem Tauschgeschäft fehlt es an wirtschaftlicher Substanz oder (b) weder der beizulegende Zeitwert des erhaltenen noch der des hingegebenen Vermögenswerts ist verlässlich ermittelbar. Der erworbene Vermögenswert wird in dieser Art bewertet, auch wenn ein Unternehmen den hingegebenen Vermögenswert nicht sofort ausbuchen kann. Wenn der erworbene Vermögenswert nicht zum beizulegenden Zeitwert bewertet wird, werden die Anschaffungs- oder Herstellungskosten zum Buchwert des hingegebenen Vermögenswerts bewertet.
+
+28 Ein Unternehmen beurteilt, ob ein Tauschgeschäft wirtschaftliche Substanz hat, indem es prüft, in welchem Umfang sich die künftigen Zahlungsströme infolge der Transaktion voraussichtlich ändern. Ein Tauschgeschäft hat wirtschaftliche Substanz, wenn
+a) 
+
+die Zusammensetzung (Risiko, Zeitpunkt und Betrag) der Zahlungsströme des erhaltenen Vermögenswerts sich von der Zusammensetzung der Zahlungsströme des übertragenen Vermögenswerts unterscheidet oder
+b) 
+
+der unternehmensspezifische Wert jenes Teils der Geschäftstätigkeit des Unternehmens, der von der Transaktion betroffen ist, sich durch das Tauschgeschäft ändert und
+c) 
+
+die Differenz in (a) oder (b) im Verhältnis zum beizulegenden Zeitwert der getauschten Vermögenswerte signifikant ist.
+
+Für den Zweck der Beurteilung, ob ein Tauschgeschäft wirtschaftliche Substanz hat, spiegelt der unternehmensspezifische Wert des Teils der Geschäftstätigkeit des Unternehmens, der von der Transaktion betroffen ist, Zahlungsströme nach Steuern wider. Das Ergebnis dieser Analysen kann eindeutig sein, ohne dass ein Unternehmen detaillierte Kalkulationen erbringen muss.
+
+29 Der beizulegende Zeitwert eines Vermögenswerts gilt als verlässlich ermittelbar, wenn (a) die Schwankungsbandbreite angemessener Ermittlungen des beizulegenden Zeitwerts für diesen Vermögenswert nicht signifikant ist oder (b) die Eintrittswahrscheinlichkeiten der verschiedenen Schätzungen innerhalb dieser Bandbreite angemessen beurteilt und bei der Ermittlung des beizulegenden Zeitwerts verwendet werden können. Wenn ein Unternehmen den beizulegenden Zeitwert entweder des erhaltenen Vermögenswerts oder des hingegebenen Vermögenswerts verlässlich ermitteln kann, wird der beizulegende Zeitwert des hingegebenen Vermögenswerts benutzt, um die Anschaffungs- oder Herstellungskosten zu ermitteln, es sei denn, der beizulegende Zeitwert des erhaltenen Vermögenswerts ist der offensichtlichere.
+
+29A Eine von einem Leasingnehmer als Finanzinvestition in Form eines Nutzungsrechts gehaltene Immobilie wird bei Zugang gemäß IFRS 16 mit ihren Anschaffungs- oder Herstellungskosten bewertet.
+
+FOLGEBEWERTUNG
+
+Rechnungslegungsmethode
+
+30   Mit der in Paragraph 32A dargelegten Ausnahme hat ein Unternehmen als seine Rechnungslegungsmethode entweder das Modell des beizulegenden Zeitwerts gemäß den Paragraphen 33–55 oder das Anschaffungskostenmodell gemäß Paragraph 56 zu wählen und diese Methode auf alle als Finanzinvestition gehaltenen Immobilien anzuwenden.
+
+31 IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler schreibt vor, dass eine freiwillige Änderung einer Rechnungslegungsmethode nur dann vorgenommen werden darf, wenn die Änderung zu einem Abschluss führt, der verlässliche und relevantere Informationen über die Auswirkungen der Geschäftsvorfälle, sonstiger Ereignisse oder Bedingungen auf die Vermögens-, Finanz- und Ertragslage oder die Zahlungsströme des Unternehmens gibt. Es ist höchst unwahrscheinlich, dass ein Wechsel vom Modell des beizulegenden Zeitwerts zum Anschaffungskostenmodell eine relevantere Darstellung zur Folge haben wird.
+
+32 Der vorliegende Standard verlangt von allen Unternehmen die Ermittlung des beizulegenden Zeitwerts der als Finanzinvestition gehaltenen Immobilien, sei es zum Zweck der Bewertung (wenn das Unternehmen das Modell des beizulegenden Zeitwerts verwendet) oder der Angabe (wenn es sich für das Anschaffungskostenmodell entschieden hat). Obwohl ein Unternehmen nicht dazu verpflichtet ist, wird ihm empfohlen, den beizulegenden Zeitwert der als Finanzinvestition gehaltenen Immobilien auf der Grundlage einer Bewertung durch einen unabhängigen Gutachter, der eine anerkannte, sachgerechte berufliche Qualifikation und aktuelle Erfahrungen mit der Lage und der Art der zu bewertenden Immobilien hat, zu bestimmen.
+
+32A   Ein Unternehmen kann
+a) 
+
+für alle als Finanzinvestition gehaltenen Immobilien, die Schulden bedecken, deren Erträge direkt von dem beizulegenden Zeitwert von spezifizierten Vermögenswerten einschließlich von diesen als Finanzinvestition gehaltenen Immobilien bzw. den Erträgen aus diesen als Finanzinvestition gehaltenen Immobilien bestimmt werden, entweder das Modell des beizulegenden Zeitwerts oder das Anschaffungskostenmodell wählen und
+b) 
+
+ungeachtet der in (a) getroffenen Wahl für alle anderen als Finanzinvestition gehaltenen Immobilien entweder das Modell des beizulegenden Zeitwerts oder das Anschaffungskostenmodell wählen.
+
+32B Einige Unternehmen betreiben intern oder extern einen Investmentfonds, der für die Anleger Leistungen erbringt, die sich nach der Anzahl der Fondsanteile richten. Ebenso zeichnen einige Unternehmen Versicherungsverträge mit direkter Überschussbeteiligung, unter deren zugrunde liegenden Referenzwerten sich auch als Finanzinvestition gehaltene Immobilien befinden. Nur für die Zwecke der Paragraphen 32A–32B umfassen Versicherungsverträge auch Kapitalanlageverträge mit ermessensabhängiger Überschussbeteiligung. Paragraph 32A untersagt einem Unternehmen, die im Fonds gehaltenen Immobilien (bzw. Immobilien, bei denen es sich um zugrunde liegende Referenzwerte handelt) teilweise zu Anschaffungskosten und teilweise zum beizulegenden Zeitwert zu bewerten. (Siehe IFRS 17 Versicherungsverträge in Bezug auf die in diesem Paragraphen verwendeten Begriffe, die in IFRS 17 definiert sind.)
+
+32C Wenn ein Unternehmen für die beiden in Paragraph 32A beschriebenen Kategorien verschiedene Modelle wählt, sind Verkäufe von als Finanzinvestition gehaltenen Immobilien zwischen Beständen von Vermögenswerten, die nach verschiedenen Modellen bewertet werden, zum beizulegenden Zeitwert anzusetzen und die kumulierten Veränderungen des beizulegenden Zeitwerts sind erfolgswirksam zu erfassen. Wenn eine als Finanzinvestition gehaltene Immobilie von einem Bestand, für den das Modell des beizulegenden Zeitwerts verwendet wird, an einen Bestand, für den das Anschaffungskostenmodell verwendet wird, verkauft wird, wird demzufolge der beizulegende Zeitwert der Immobilie zum Zeitpunkt des Verkaufs als deren Anschaffungskosten angesehen.
+
+Modell des beizulegenden Zeitwerts
+
+33   Nach dem erstmaligen Ansatz hat ein Unternehmen, welches das Modell des beizulegenden Zeitwerts gewählt hat, alle als Finanzinvestition gehaltenen Immobilien mit Ausnahme der in Paragraph 53 beschriebenen Fälle mit dem beizulegenden Zeitwert zu bewerten.
+
+34 [gestrichen]
+
+35   Ein Gewinn oder Verlust, der durch die Veränderung des beizulegenden Zeitwerts der als Finanzinvestition gehaltenen Immobilien entsteht, ist in der Periode, in der er entstanden ist, erfolgswirksam zu erfassen.
+
+36–39 [gestrichen]
+
+40 Bei der Ermittlung des beizulegenden Zeitwerts der als Finanzinvestition gehaltenen Immobilien gemäß IFRS 13 hat ein Unternehmen zu gewährleisten, dass sich im beizulegenden Zeitwert neben anderen Dingen die Mieterträge aus den gegenwärtigen Mietverhältnissen sowie andere Annahmen widerspiegeln, auf die sich Marktteilnehmer bei der Preisbildung für die als Finanzinvestition gehaltene Immobilie unter den aktuellen Marktbedingungen stützen würden.
+
+40A Verwendet ein Leasingnehmer für die Bewertung einer als Finanzinvestition gehaltenen Immobilie, für die er ein Nutzungsrecht hat, das Modell des beizulegenden Zeitwerts, so bewertet er das Nutzungsrecht — und nicht den zugrunde liegenden Vermögenswert — zum beizulegenden Zeitwert.
+
+41 IFRS 16 nennt die Grundlage für den erstmaligen Ansatz der Anschaffungskosten für eine von einem Leasingnehmer als Finanzinvestition in Form eines Nutzungsrechts gehaltene Immobilie. Gemäß Paragraph 33 ist für eine von einem Leasingnehmer als Finanzinvestition in Form eines Nutzungsrechts gehaltene Immobilie gegebenenfalls eine Neubewertung mit dem beizulegenden Zeitwert erforderlich, wenn das Unternehmen das Modell des beizulegenden Zeitwerts wählt. Erfolgen die Leasingzahlungen zu Marktpreisen, sollte der beizulegende Zeitwert einer von einem Leasingnehmer als Finanzinvestition in Form eines Nutzungsrechts gehaltenen Immobilie zum Erwerbszeitpunkt abzüglich aller erwarteten Leasingzahlungen (einschließlich der Leasingzahlungen im Zusammenhang mit den erfassten Leasingverbindlichkeiten) null sein. Die Neubewertung eines Nutzungsrechts von den Anschaffungskosten gemäß IFRS 16 zum beizulegenden Zeitwert gemäß Paragraph 33 (unter Berücksichtigung der Vorschriften in Paragraph 50) darf daher zu keinem anfänglichen Gewinn oder Verlust führen, sofern der beizulegende Zeitwert nicht zu verschiedenen Zeitpunkten ermittelt wird. Dies könnte dann der Fall sein, wenn nach dem ersten Ansatz das Modell des beizulegenden Zeitwerts gewählt wird.
+
+42–47 [gestrichen]
+
+48 Wenn ein Unternehmen eine als Finanzinvestition gehaltene Immobilie erstmals erwirbt (oder wenn eine bereits vorhandene Immobilie nach einer Nutzungsänderung erstmals als Finanzinvestition gehalten wird), können in Ausnahmefällen eindeutige Anhaltspunkte dafür vorliegen, dass die Bandbreite angemessener Ermittlungen für den beizulegenden Zeitwert so groß und die Eintrittswahrscheinlichkeiten der verschiedenen Ergebnisse so schwierig zu ermitteln sind, dass die Verwendung eines einzelnen Messwerts für den beizulegenden Zeitwert nicht zweckmäßig ist. Dies kann darauf hindeuten, dass der beizulegende Zeitwert der als Finanzinvestition gehaltenen Immobilie nicht fortlaufend verlässlich ermittelbar ist (siehe Paragraph 53).
+
+49 [gestrichen]
+
+50 Bei der Bestimmung des Buchwerts von als Finanzinvestition gehaltenen Immobilien nach dem Modell des beizulegenden Zeitwerts hat das Unternehmen Vermögenswerte und Schulden, die bereits als solche einzeln erfasst wurden, nicht erneut anzusetzen. Es folgen einige Beispiele:
+a) 
+
+Ausstattungsgegenstände wie Aufzug oder Klimaanlage sind häufig ein integraler Bestandteil des Gebäudes und im Allgemeinen in den beizulegenden Zeitwert der als Finanzinvestition gehaltenen Immobilie mit einzubeziehen und nicht gesondert als Sachanlage zu erfassen.
+b) 
+
+Der beizulegende Zeitwert eines im möblierten Zustand vermieteten Bürogebäudes schließt im Allgemeinen den beizulegenden Zeitwert der Möbel mit ein, da die Mieteinnahmen sich auf das möblierte Bürogebäude beziehen. Sind Möbel im beizulegenden Zeitwert der als Finanzinvestition gehaltenen Immobilie enthalten, erfasst das Unternehmen die Möbel nicht als gesonderten Vermögenswert.
+c) 
+
+Der beizulegende Zeitwert der als Finanzinvestition gehaltenen Immobilie beinhaltet nicht im Voraus bezahlte oder abgegrenzte Mieten aus Operating-Leasingverhältnissen, da das Unternehmen diese als gesonderte Schuld oder gesonderten Vermögenswert erfasst.
+d) 
+
+Der beizulegende Zeitwert einer von einem Leasingnehmer als Finanzinvestition in Form eines Nutzungsrechts gehaltenen Immobilie spiegelt die zu erwartenden Zahlungsströme (einschließlich der zu erwartenden variablen Leasingzahlungen) wider. Wurden bei der Bewertung einer Immobilie die erwarteten Zahlungen nicht berücksichtigt, müssen daher zur Bestimmung des Buchwerts von als Finanzinvestition gehaltenen Immobilien nach dem Modell des beizulegenden Zeitwerts alle erfassten Schulden aus dem Leasingverhältnis wieder hinzugefügt werden.
+
+51 [gestrichen]
+
+52 In einigen Fällen erwartet ein Unternehmen, dass der Barwert der mit einer als Finanzinvestition gehaltenen Immobilie verbundenen Auszahlungen (ausgenommen Auszahlungen, die sich auf erfasste Schulden beziehen) den Barwert der damit zusammenhängenden Einzahlungen übersteigt. Zur Beurteilung, ob eine Schuld anzusetzen und, wenn ja, wie diese zu bewerten ist, zieht ein Unternehmen IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen heran.
+
+Fehlende Möglichkeit, den beizulegenden Zeitwert verlässlich zu ermitteln
+
+53   Es besteht die widerlegbare Vermutung, dass ein Unternehmen in der Lage ist, den beizulegenden Zeitwert einer als Finanzinvestition gehaltenen Immobilie fortlaufend verlässlich zu ermitteln. In Ausnahmefällen liegen jedoch in Situationen, in denen ein Unternehmen eine als Finanzinvestition gehaltene Immobilie erstmals erwirbt (oder wenn eine bereits vorhandene Immobilie nach einer Nutzungsänderung erstmals als Finanzinvestition gehalten wird), eindeutige Anhaltspunkte dafür vor, dass eine fortlaufende verlässliche Ermittlung des beizulegenden Zeitwerts der als Finanzinvestition gehaltenen Immobilie nicht möglich ist. Dies wird nur dann der Fall sein, wenn der Markt für vergleichbare Immobilien inaktiv ist (wenn es z. B. kaum aktuelle Geschäftsvorfälle gibt, Preisnotierungen nicht aktuell sind oder beobachtete Transaktionspreise darauf hindeuten, dass der Verkäufer zum Verkauf gezwungen war) und anderweitige verlässliche Ermittlungen für den beizulegenden Zeitwert (beispielsweise basierend auf diskontierten Zahlungsstrom-Prognosen) nicht verfügbar sind. Kommt ein Unternehmen zu dem Schluss, dass der beizulegende Zeitwert einer als Finanzinvestition gehaltenen, in der Erstellung befindlichen Immobilie nicht verlässlich zu ermitteln ist, geht aber davon aus, dass der beizulegende Zeitwert der Immobilie nach Fertigstellung verlässlich ermittelbar sein wird, so bewertet es die als Finanzinvestition gehaltene, in der Erstellung befindliche Immobilie solange zu den Herstellungskosten, bis entweder der beizulegende Zeitwert verlässlich ermittelt werden kann oder die Erstellung abgeschlossen ist (je nachdem, welcher Zeitpunkt früher liegt). Lässt sich der beizulegende Zeitwert einer als Finanzinvestition gehaltenen Immobilie (bei der es sich nicht um eine in der Erstellung befindliche Immobilie handelt) nach Auffassung des Unternehmens nicht fortlaufend verlässlich ermittelt, so hat das Unternehmen die als Finanzinvestition gehaltene Immobilie im Falle eigener als Finanzinvestition gehaltener Immobilien gemäß IAS 16 und im Falle von von einem Leasingnehmer als Finanzinvestition gehaltenen Immobilien in Form von Nutzungsrechten gemäß IFRS 16 nach dem Anschaffungskostenmodell zu bewerten. Der Restwert der als Finanzinvestition gehaltenen Immobilie ist mit null anzunehmen. Das Unternehmen hat bis zum Abgang der als Finanzinvestition gehaltenen Immobilie weiterhin IAS 16 bzw. IFRS 16 anzuwenden
+
+53A Sobald ein Unternehmen in der Lage ist, den beizulegenden Zeitwert der als Finanzinvestition gehaltenen, in der Erstellung befindlichen Immobilie, die zuvor zu den Herstellungskosten bewertet wurde, verlässlich zu ermitteln, hat es diese Immobilie zum beizulegenden Zeitwert anzusetzen. Nach Abschluss der Erstellung dieser Immobilie wird davon ausgegangen, dass der beizulegende Zeitwert verlässlich ermittelbar ist. Sollte dies nicht der Fall sein, ist die Immobilie gemäß Paragraph 53 im Falle eigener als Finanzinvestition gehaltener Immobilien gemäß IAS 16 und im Falle von von einem Leasingnehmer als Finanzinvestition gehaltenen Immobilien in Form von Nutzungsrechten gemäß IFRS 16 nach dem Anschaffungskostenmodell zu bewerten.
+
+53B Die Vermutung, dass der beizulegende Zeitwert einer in der Erstellung befindlichen, als Finanzinvestition gehaltenen Immobilie verlässlich ermittelbar ist, kann lediglich beim erstmaligen Ansatz widerlegt werden. Ein Unternehmen, das eine in der Erstellung befindliche, als Finanzinvestition gehaltene Immobilie zum beizulegenden Zeitwert bewertet hat, kann nicht den Schluss ziehen, dass der beizulegende Zeitwert einer als Finanzinvestition gehaltenen Immobilie, deren Erstellung abgeschlossen ist, nicht verlässlich ermittelbar ist.
+
+54 In den Ausnahmefällen, in denen ein Unternehmen aus den in Paragraph 53 genannten Gründen gezwungen ist, eine als Finanzinvestition gehaltene Immobilie nach dem Anschaffungskostenmodell gemäß IAS 16 oder IFRS 16 zu bewerten, bewertet es seine gesamten sonstigen als Finanzinvestition gehaltenen Immobilien, einschließlich der in der Erstellung befindlichen, zum beizulegenden Zeitwert. In diesen Fällen kann ein Unternehmen zwar für eine einzelne als Finanzinvestition gehaltene Immobilie das Anschaffungskostenmodell anwenden, hat jedoch alle anderen Immobilien nach dem Modell des beizulegenden Zeitwerts zu bilanzieren.
+
+55   Hat ein Unternehmen eine als Finanzinvestition gehaltene Immobilie bisher zum beizulegenden Zeitwert bewertet, hat es die Immobilie bis zu deren Abgang (oder bis zu dem Zeitpunkt, ab dem die Immobilie selbst genutzt oder für einen späteren Verkauf im Rahmen der gewöhnlichen Geschäftstätigkeit entwickelt wird) weiterhin zum beizulegenden Zeitwert zu bewerten, auch wenn vergleichbare Markttransaktionen seltener auftreten oder Marktpreise seltener verfügbar sind.
+
+Anschaffungskostenmodell
+
+56   Sofern sich ein Unternehmen nach dem erstmaligen Ansatz für das Anschaffungskostenmodell entscheidet, hat es seine als Finanzinvestition gehaltenen Immobilien wie folgt zu bewerten:
+a) 
+
+gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche, sofern sie als zur Veräußerung gehalten eingestuft werden können (oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehören),
+b) 
+
+gemäß IFRS 16, sofern sie von einem Leasingnehmer in Form eines Nutzungsrechts und nicht gemäß IFRS 5 zur Veräußerung gehalten werden, und
+c) 
+
+in allen anderen Fällen nach den Vorschriften für das Anschaffungskostenmodell gemäß IAS 16.
+
+ÜBERTRAGUNGEN
+
+57   Ein Unternehmen hat eine Immobilie nur dann in den oder aus dem Bestand der als Finanzinvestition gehaltenen Immobilien zu übertragen, wenn eine Nutzungsänderung vorliegt. Eine Nutzungsänderung liegt vor, wenn eine Immobilie die Definition für eine als Finanzinvestition gehaltene Immobilie neu erfüllt oder nicht mehr erfüllt und Anhaltspunkte für eine Nutzungsänderung vorliegen. Die alleinige Absicht des Managements, eine Immobilie einer anderen Nutzung zuzuführen, stellt keinen solchen Anhaltspunkt dar. Zu den Beispielen für Anhaltspunkte für Nutzungsänderungen gehören die folgenden:
+a) 
+
+Beginn der Selbstnutzung oder der Entwicklung mit der Absicht der Selbstnutzung für eine Übertragung aus dem Bestand der als Finanzinvestition gehaltenen Immobilien in den Bestand der selbst genutzten Immobilien,
+b) 
+
+Beginn der Entwicklung mit der Absicht des Verkaufs, d. h. Übertragung aus dem Bestand der als Finanzinvestition gehaltenen Immobilien in das Vorratsvermögen,
+c) 
+
+Ende der Selbstnutzung, d. h. Übertragung aus dem Bestand der vom Eigentümer selbst genutzten Immobilien in den Bestand der als Finanzinvestition gehaltenen Immobilien, und
+d) 
+
+Beginn eines Operating-Leasingverhältnisses mit einem Dritten für eine Übertragung aus dem Vorratsvermögen in den Bestand der als Finanzinvestition gehaltenen Immobilien.
+e) 
+
+[gestrichen]
+
+58 Trifft ein Unternehmen die Entscheidung, eine als Finanzinvestition gehaltene Immobilie ohne Entwicklung zu veräußern, behandelt es die Immobilie solange weiter als Finanzinvestition und stuft sie nicht als Vorratsvermögen ein, bis sie ausgebucht (und damit aus der Bilanz entfernt) wird. Ebenso wird eine als Finanzinvestition gehaltene bestehende Immobilie, die ein Unternehmen zu entwickeln beginnt, um sie weiter als Finanzinvestition zu halten, während der Entwicklung nicht in den Bestand der vom Eigentümer selbst genutzten Immobilien übertragen, sondern weiter als Finanzinvestition eingestuft.
+
+59 Die Paragraphen 60–65 behandeln Fragen des Ansatzes und der Bewertung, die das Unternehmen bei der Anwendung des Modells des beizulegenden Zeitwerts für als Finanzinvestition gehaltene Immobilien zu berücksichtigen hat. Wenn ein Unternehmen das Anschaffungskostenmodell anwendet, führen Übertragungen zwischen dem Bestand der als Finanzinvestition gehaltenen, dem Bestand der vom Eigentümer selbst genutzten Immobilien und dem Vorratsvermögen für Bewertungs- oder Angabezwecke weder zu einer Buchwertänderung der übertragenen Immobilien noch zu einer Veränderung ihrer Anschaffungs- oder Herstellungskosten.
+
+60   Bei einer Übertragung aus dem Bestand der als Finanzinvestition gehaltenen und zum beizulegenden Zeitwert bewerteten Immobilien in den Bestand der vom Eigentümer selbst genutzten Immobilien oder in das Vorratsvermögen entsprechen die Anschaffungs- oder Herstellungskosten der Immobilien für die Folgebewertung gemäß IAS 16, IFRS 16 oder IAS 2 deren beizulegendem Zeitwert zum Zeitpunkt der Nutzungsänderung.
+
+61   Wird eine vom Eigentümer selbst genutzte zu einer als Finanzinvestition gehaltenen Immobilie, die zum beizulegenden Zeitwert bewertet wird, hat ein Unternehmen bis zum Zeitpunkt der Nutzungsänderung für Immobilien in seinem Eigentum IAS 16 und für Immobilien, die von einem Leasingnehmer als Finanzinvestition in Form eines Nutzungsrechts gehalten werden, IFRS 16 anzuwenden. Das Unternehmen hat eine zu diesem Zeitpunkt bestehende Differenz zwischen dem nach IAS 16 bzw. IFRS 16 ermittelten Buchwert der Immobilien und dem beizulegenden Zeitwert in derselben Weise zu behandeln wie eine Neubewertung gemäß IAS 16.
+
+62 Bis zu dem Zeitpunkt, an dem eine vom Eigentümer selbstgenutzte Immobilie zu einer als Finanzinvestition gehaltenen und zum beizulegenden Zeitwert bewerteten Immobilie wird, hat ein Unternehmen die Immobilie (bzw. das Nutzungsrecht) planmäßig abzuschreiben und jegliche eingetretene Wertminderungsaufwendung zu erfassen. Das Unternehmen behandelt eine zu diesem Zeitpunkt bestehende Differenz zwischen dem nach IAS 16 bzw. IFRS 16 ermittelten Buchwert der Immobilien und dem beizulegenden Zeitwert in derselben Weise wie eine Neubewertung gemäß IAS 16. Mit anderen Worten:
+a) 
+
+Jede auftretende Minderung des Buchwerts der Immobilie ist erfolgswirksam zu erfassen. In dem Umfang, in dem jedoch ein der Immobilie zuzurechnender Betrag in der Neubewertungsrücklage eingestellt ist, ist die Minderung im sonstigen Ergebnis zu erfassen und die Neubewertungsrücklage innerhalb des Eigenkapitals entsprechend zu kürzen.
+b) 
+
+Eine sich ergebende Erhöhung des Buchwerts ist folgendermaßen zu behandeln:
+i) 
+
+Soweit die Erhöhung einem früheren Wertminderungsaufwand für diese Immobilie entspricht, ist die Erhöhung erfolgswirksam zu erfassen. Der erfolgswirksam erfasste Betrag darf nicht höher sein als der Betrag, der zur Aufstockung auf den Buchwert benötigt wird, der sich ohne die Erfassung des Wertminderungsaufwands (abzüglich mittlerweile vorgenommener planmäßiger Abschreibungen) ergeben hätte.
+ii) 
+
+Ein noch verbleibender Teil der Erhöhung wird im sonstigen Ergebnis erfasst und führt zu einer Erhöhung der Neubewertungsrücklage innerhalb des Eigenkapitals. Bei einem anschließenden Abgang der als Finanzinvestition gehaltenen Immobilie kann die Neubewertungsrücklage unmittelbar in die Gewinnrücklagen umgebucht werden. Die Übertragung aus der Neubewertungsrücklage in die Gewinnrücklagen erfolgt nicht erfolgswirksam.
+
+63   Bei einer Übertragung aus dem Vorratsvermögen in die als Finanzinvestition gehaltenen Immobilien, die dann zum beizulegenden Zeitwert bewertet werden, ist eine zu diesem Zeitpunkt bestehende Differenz zwischen dem beizulegenden Zeitwert der Immobilie und dem vorherigen Buchwert erfolgswirksam zu erfassen.
+
+64 Die bilanzielle Behandlung von Übertragungen aus dem Vorratsvermögen in die als Finanzinvestition gehaltenen Immobilien, die dann zum beizulegenden Zeitwert bewertet werden, entspricht der Behandlung einer Veräußerung von Vorräten.
+
+65   Wenn ein Unternehmen die Erstellung oder Entwicklung einer selbst erstellten und als Finanzinvestition gehaltenen Immobilie abschließt, die dann zum beizulegenden Zeitwert bewertet wird, ist eine zu diesem Zeitpunkt bestehende Differenz zwischen dem beizulegenden Zeitwert der Immobilie und dem vorherigen Buchwert erfolgswirksam zu erfassen.
+
+ABGÄNGE
+
+66   Eine als Finanzinvestition gehaltene Immobilie ist bei ihrem Abgang oder dann, wenn sie dauerhaft nicht mehr genutzt werden soll und ein zukünftiger wirtschaftlicher Nutzen aus ihrem Abgang nicht mehr erwartet wird, auszubuchen (und damit aus der Bilanz zu entfernen).
+
+67 Der Abgang einer als Finanzinvestition gehaltenen Immobilie kann durch den Verkauf oder den Abschluss eines Finanzierungsleasingverhältnisses erfolgen. Als Abgangsdatum einer veräußerten als Finanzinvestition gehaltenen Immobilie gilt das Datum, an dem der Empfänger — gemäß den Vorschriften über die Erfüllung der Leistungsverpflichtung in IFRS 15 — die Verfügungsmacht darüber erlangt. IFRS 16 ist beim Abgang infolge des Abschlusses eines Finanzierungsleasings oder einer Sale-and-Leaseback-Transaktion anzuwenden.
+
+68 Wenn ein Unternehmen gemäß dem Ansatzgrundsatz in Paragraph 16 die Kosten für die Ersetzung eines Teils einer als Finanzinvestition gehaltenen Immobilie im Buchwert berücksichtigt, hat es den Buchwert des ersetzten Teils auszubuchen. Bei als Finanzinvestition gehaltenen Immobilien, die nach dem Anschaffungskostenmodell bilanziert werden, kann es vorkommen, dass ein ersetztes Teil nicht gesondert planmäßig abgeschrieben wurde. Sollte die Ermittlung des Buchwerts des ersetzten Teils für ein Unternehmen praktisch nicht durchführbar sein, kann es die Kosten für die Ersetzung als Anhaltspunkt für die Anschaffungs- oder Herstellungskosten des ersetzten Teils zum Zeitpunkt seines Kaufs oder seiner Erstellung verwenden. Beim Modell des beizulegenden Zeitwerts spiegelt der beizulegende Zeitwert der als Finanzinvestition gehaltenen Immobilien unter Umständen bereits die Wertminderung des zu ersetzenden Teils wider. In anderen Fällen kann es schwierig sein zu erkennen, um wie viel der beizulegende Zeitwert für das ersetzte Teil gemindert werden sollte. Sollte eine Minderung des beizulegenden Zeitwerts für das ersetzte Teil praktisch nicht durchführbar sein, können alternativ die Kosten für die Ersetzung in den Buchwert des Vermögenswerts einbezogen werden. Anschließend erfolgt eine Neubewertung des beizulegenden Zeitwerts, wie sie bei Zugängen ohne eine Ersetzung erforderlich wäre.
+
+69   Gewinne oder Verluste, die bei Stilllegung oder Abgang von als Finanzinvestition gehaltenen Immobilien entstehen, sind als Differenz zwischen dem Nettoveräußerungserlös und dem Buchwert des Vermögenswerts zu bestimmen und in der Periode der Stilllegung bzw. des Abgangs erfolgswirksam zu erfassen (sofern IFRS 16 bei Sale-and-Leaseback-Transaktionen nichts anderes verlangt).
+
+70 Die Höhe der Gegenleistung, die bei der Ausbuchung einer als Finanzinvestition gehaltenen Immobilie im Gewinn oder Verlust auszuweisen ist, wird gemäß den Vorschriften zur Bestimmung des Transaktionspreises in den Paragraphen 47–72 von IFRS 15 bestimmt. Spätere Änderungen an der geschätzten Höhe der im Gewinn oder Verlust auszuweisenden Gegenleistung werden gemäß den in IFRS 15 festgelegten Vorschriften für Änderungen des Transaktionspreises bilanziert.
+
+71 Ein Unternehmen wendet IAS 37 oder — soweit sachgerecht — andere Standards auf etwaige Schulden an, die nach dem Abgang einer als Finanzinvestition gehaltenen Immobilie verbleiben.
+
+72   Entschädigungen von Dritten für die Wertminderung, den Verlust oder die Aufgabe von als Finanzinvestition gehaltenen Immobilien sind bei Erhalt der Entschädigung erfolgswirksam zu erfassen.
+
+73 Wertminderungen oder der Verlust von als Finanzinvestition gehaltenen Immobilien, damit verbundene Ansprüche auf oder Zahlungen von Entschädigung von Dritten und jeglicher nachfolgende Kauf bzw. jegliche nachfolgende Erstellung von Ersatzvermögenswerten stellen einzelne wirtschaftliche Ereignisse dar und sind gesondert wie folgt zu bilanzieren:
+a) 
+
+Wertminderungen von als Finanzinvestition gehaltenen Immobilien werden gemäß IAS 36 erfasst,
+b) 
+
+Stilllegungen oder Abgänge von als Finanzinvestition gehaltenen Immobilien werden gemäß den Paragraphen 66–71 des vorliegenden Standards erfasst,
+c) 
+
+Entschädigungen von Dritten für die Wertminderung, den Verlust oder die Aufgabe von als Finanzinvestition gehaltenen Immobilien werden bei Erhalt der Entschädigung erfolgswirksam erfasst und
+d) 
+
+die Anschaffungs- oder Herstellungskosten von Vermögenswerten, die instand gesetzt oder als Ersatz gekauft oder erstellt wurden, werden gemäß den Paragraphen 20–29 des vorliegenden Standards ermittelt.
+
+ANGABEN
+
+Modell des beizulegenden Zeitwerts und Anschaffungskostenmodell
+
+74 Die unten aufgeführten Angaben sind zusätzlich zu denen nach IFRS 16 zu machen. Gemäß IFRS 16 gelten für den Eigentümer einer als Finanzinvestition gehaltenen Immobilie die Angabepflichten für einen Leasinggeber zu den von ihm abgeschlossenen Leasingverhältnissen. Ein Leasingnehmer, welcher eine als Finanzinvestition in Form eines Nutzungsrechts gehaltene Immobilie hält, macht die von einem Leasingnehmer gemäß IFRS 16 zu machenden Angaben sowie für alle Operating-Leasingverhältnisse, die er abgeschlossen hat, die von einem Leasinggeber gemäß IFRS 16 zu machenden Angaben.
+
+75   Ein Unternehmen hat Folgendes anzugeben:
+a) 
+
+ob es das Modell des beizulegenden Zeitwerts oder das Anschaffungskostenmodell anwendet.
+b) 
+
+[gestrichen]
+c) 
+
+sofern eine Zuordnung Schwierigkeiten bereitet (siehe Paragraph 14), die vom Unternehmen verwendeten Kriterien, nach denen zwischen als Finanzinvestition gehaltenen, vom Eigentümer selbst genutzten und Immobilien, die zum Verkauf im Rahmen der gewöhnlichen Geschäftstätigkeit gehalten werden, unterschieden wird.
+d) 
+
+[gestrichen]
+e) 
+
+das Ausmaß, in dem der beizulegende Zeitwert der als Finanzinvestition gehaltenen Immobilien (wie in den Abschlüssen bewertet oder angegeben) auf der Grundlage einer Bewertung durch einen unabhängigen Gutachter basiert, der eine anerkannte, sachgerechte berufliche Qualifikation und aktuelle Erfahrungen mit der Lage und der Art der zu bewertenden, als Finanzinvestition gehaltenen Immobilien hat. Hat eine solche Bewertung nicht stattgefunden, ist dies anzugeben.
+f) 
+
+die erfolgswirksam erfassten Beträge für
+i) 
+
+Mieteinnahmen aus als Finanzinvestition gehaltenen Immobilien
+ii) 
+
+direkte betriebliche Aufwendungen (einschließlich Reparaturen und Instandhaltung), die denjenigen als Finanzinvestition gehaltenen Immobilien einzeln zurechenbar sind, mit denen während der Periode Mieteinnahmen erzielt wurden,
+iii) 
+
+direkte betriebliche Aufwendungen (einschließlich Reparaturen und Instandhaltung), die denjenigen als Finanzinvestition gehaltenen Immobilien einzeln zurechenbar sind, mit denen während der Periode keine Mieteinnahmen erzielt wurden, und
+iv) 
+
+die kumulierte Veränderung des beizulegenden Zeitwerts, die beim Verkauf einer als Finanzinvestition gehaltenen Immobilie von einem Bestand von Vermögenswerten, in dem das Anschaffungskostenmodell verwendet wird, an einen Bestand, in dem das Modell des beizulegenden Zeitwerts verwendet wird, erfolgswirksam erfasst wird (siehe Paragraph 32C).
+g) 
+
+die Existenz und die Höhe von Beschränkungen hinsichtlich der Veräußerbarkeit von als Finanzinvestition gehaltenen Immobilien oder der Überweisung von Erträgen und Veräußerungserlösen.
+h) 
+
+vertragliche Verpflichtungen, als Finanzinvestitionen gehaltene Immobilien zu kaufen, zu erstellen oder zu entwickeln, oder solche für Reparaturen, Instandhaltung oder Verbesserungen.
+
+Modell des beizulegenden Zeitwerts
+
+76   Zusätzlich zu den nach Paragraph 75 vorgeschriebenen Angaben hat ein Unternehmen, welches das Modell des beizulegenden Zeitwerts gemäß den Paragraphen 33–55 anwendet, eine Überleitungsrechnung zu erstellen, die die Entwicklung des Buchwerts der als Finanzinvestition gehaltenen Immobilien zu Beginn und zum Ende der Periode zeigt und dabei Folgendes darstellt:
+a) 
+
+Zugänge, wobei diejenigen Zugänge gesondert anzugeben sind, die auf einen Erwerb entfallen, und diejenigen, die auf im Buchwert eines Vermögenswerts erfasste nachträgliche Ausgaben entfallen,
+b) 
+
+Zugänge, die aus einem Erwerb im Rahmen von Unternehmenszusammenschlüssen resultieren,
+c) 
+
+Vermögenswerte, die gemäß IFRS 5 als zur Veräußerung gehalten eingestuft werden oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehören, und andere Abgänge,
+d) 
+
+Nettogewinne oder -verluste aus der Berichtigung des beizulegenden Zeitwerts,
+e) 
+
+Nettoumrechnungsdifferenzen aus der Umrechnung von Abschlüssen in eine andere Darstellungswährung und aus der Umrechnung eines ausländischen Geschäftsbetriebs in die Darstellungswährung des berichtenden Unternehmens,
+f) 
+
+Übertragungen in das bzw. aus dem Vorratsvermögen und in bzw. aus der Kategorie der vom Eigentümer selbst genutzten Immobilien und
+g) 
+
+sonstige Änderungen.
+
+77   Wird die Bewertung einer als Finanzinvestition gehaltenen Immobilie für Abschlusszwecke erheblich angepasst, beispielsweise um wie in Paragraph 50 beschrieben einen erneuten Ansatz von Vermögenswerten oder Schulden zu vermeiden, die bereits als gesonderte Vermögenswerte und Schulden erfasst wurden, hat das Unternehmen eine Überleitungsrechnung zwischen der ursprünglichen Bewertung und der in den Abschlüssen enthaltenen angepassten Bewertung zu erstellen, in der der Gesamtbetrag aller erfassten wieder hinzugefügten Leasingverbindlichkeiten und alle anderen wesentlichen Anpassungen gesondert dargestellt sind.
+
+78   In den in Paragraph 53 beschriebenen Ausnahmefällen, in denen ein Unternehmen als Finanzinvestition gehaltene Immobilien nach dem Anschaffungskostenmodell gemäß IAS 16 oder gemäß IFRS 16 bewertet, hat die in Paragraph 76 vorgeschriebene Überleitungsrechnung die Beträge dieser als Finanzinvestition gehaltenen Immobilien getrennt von den Beträgen der anderen als Finanzinvestition gehaltenen Immobilien auszuweisen. Zusätzlich hat ein Unternehmen Folgendes anzugeben:
+a) 
+
+eine Beschreibung der als Finanzinvestition gehaltenen Immobilien,
+b) 
+
+eine Erklärung, warum der beizulegende Zeitwert nicht verlässlich ermittelt werden kann,
+c) 
+
+wenn möglich, die Schätzungsbandbreite, in der der beizulegende Zeitwert höchstwahrscheinlich liegt, und
+d) 
+
+bei Abgang von als Finanzinvestition gehaltenen Immobilien, die nicht zum beizulegenden Zeitwert bewertet wurden,
+i) 
+
+den Umstand, dass das Unternehmen als Finanzinvestition gehaltene Immobilien veräußert hat, die nicht zum beizulegenden Zeitwert bewertet wurden,
+ii) 
+
+den Buchwert dieser als Finanzinvestition gehaltenen Immobilien zum Zeitpunkt des Verkaufs und
+iii) 
+
+den als Gewinn oder Verlust erfassten Betrag.
+
+Anschaffungskostenmodell
+
+79   Zusätzlich zu den nach Paragraph 75 vorgeschriebenen Angaben hat ein Unternehmen, das das Anschaffungskostenmodell gemäß Paragraph 56 anwendet, Folgendes anzugeben:
+a) 
+
+die verwendeten Abschreibungsmethoden,
+b) 
+
+die zugrunde gelegten Nutzungsdauern oder Abschreibungssätze,
+c) 
+
+den Bruttobuchwert und die kumulierten panmäßigen Abschreibungen (zusammengefasst mit den kumulierten Wertminderungsaufwendungen) zu Beginn und zum Ende der Periode,
+d) 
+
+eine Überleitungsrechnung, welche die Entwicklung des Buchwerts der als Finanzinvestition gehaltenen Immobilien zu Beginn und zum Ende der gesamten Periode zeigt und dabei Folgendes darstellt:
+i) 
+
+Zugänge, wobei diejenigen Zugänge gesondert anzugeben sind, die auf einen Erwerb entfallen, und diejenigen, die auf als Vermögenswert erfasste nachträgliche Ausgaben entfallen,
+ii) 
+
+Zugänge, die aus einem Erwerb im Rahmen von Unternehmenszusammenschlüssen resultieren,
+iii) 
+
+Vermögenswerte, die gemäß IFRS 5 als zur Veräußerung gehalten eingestuft werden oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehören, und andere Abgänge,
+iv) 
+
+planmäßige Abschreibungen,
+v) 
+
+den Betrag der Wertminderungsaufwendungen, der während der Periode gemäß IAS 36 erfasst wurde, und den Betrag an wieder aufgeholten Wertminderungsaufwendungen,
+vi) 
+
+Nettoumrechnungsdifferenzen aus der Umrechnung von Abschlüssen in eine andere Darstellungswährung und aus der Umrechnung eines ausländischen Geschäftsbetriebs in die Darstellungswährung des berichtenden Unternehmens,
+vii) 
+
+Übertragungen in das bzw. aus dem Vorratsvermögen in die bzw. aus der Kategorie der vom Eigentümer selbst genutzten Immobilien und
+viii) 
+
+sonstige Änderungen,
+e) 
+
+den beizulegenden Zeitwert der als Finanzinvestition gehaltenen Immobilien. In den in Paragraph 53 beschriebenen Ausnahmefällen, in denen ein Unternehmen den beizulegenden Zeitwert der als Finanzinvestition gehaltenen Immobilien nicht verlässlich ermitteln kann, hat es Folgendes anzugeben:
+i) 
+
+eine Beschreibung der als Finanzinvestition gehaltenen Immobilien,
+ii) 
+
+eine Erklärung, warum der beizulegende Zeitwert nicht verlässlich ermittelt werden kann, und
+iii) 
+
+wenn möglich, die Schätzungsbandbreite, innerhalb der der beizulegende Zeitwert höchstwahrscheinlich liegt.
+
+ÜBERGANGSVORSCHRIFTEN
+
+Modell des beizulegenden Zeitwerts
+
+80   Ein Unternehmen, das bisher IAS 40 (2000) angewandt hat und sich erstmals dafür entscheidet, einige oder alle im Rahmen von Operating-Leasingverhältnissen geleasten Immobilien als Finanzinvestition einzustufen und zu bilanzieren, hat die Auswirkung dieser Entscheidung als eine Anpassung des Eröffnungsbilanzwerts der Gewinnrücklagen in der Periode zu erfassen, in der die Entscheidung erstmals getroffen wurde. Ferner gilt Folgendes:
+a) 
+
+Hat das Unternehmen früher (im Abschluss oder anderweitig) den beizulegenden Zeitwert dieser Immobilien in vorhergehenden Perioden angegeben und wurde der beizulegende Zeitwert auf einer Grundlage ermittelt, die der Definition des beizulegenden Zeitwerts in IFRS 13 genügt, wird dem Unternehmen empfohlen, aber nicht vorgeschrieben,
+i) 
+
+den Eröffnungsbilanzwert der Gewinnrücklagen für die früheste ausgewiesene Periode, für die der beizulegende Zeitwert veröffentlicht wurde, anzupassen und
+ii) 
+
+die Vergleichsinformationen für diese Perioden anzupassen.
+b) 
+
+Hat das Unternehmen früher keine der unter a) beschriebenen Informationen veröffentlicht, sind die Vergleichsinformationen nicht anzupassen und ist diese Tatsache anzugeben.
+
+81 Dieser Standard schreibt eine andere Behandlung vor als IAS 8. Nach IAS 8 sind Vergleichsinformationen anzupassen, es sei denn, dies ist in der Praxis nicht durchführbar.
+
+82 Wenn ein Unternehmen zum ersten Mal diesen Standard anwendet, umfasst die Anpassung des Eröffnungsbilanzwerts der Gewinnrücklagen die Umgliederung aller Beträge, die für als Finanzinvestition gehaltene Immobilien in der Neubewertungsrücklage erfasst wurden.
+
+Anschaffungskostenmodell
+
+83 IAS 8 ist auf alle Änderungen der Rechnungslegungsmethoden anzuwenden, die vorgenommen werden, wenn ein Unternehmen diesen Standard zum ersten Mal anwendet und sich für das Anschaffungskostenmodell entscheidet. Zu den Auswirkungen einer Änderung der Rechnungslegungsmethoden gehört auch die Umgliederung aller Beträge, die für als Finanzinvestition gehaltene Immobilien in der Neubewertungsrücklage erfasst wurden.
+
+84   Die Vorschriften der Paragraphen 27–29 bezüglich der erstmaligen Bewertung von als Finanzinvestition gehaltenen Immobilien, die durch einen Tausch von Vermögenswerten erworben werden, sind nur prospektiv auf künftige Transaktionen anzuwenden.
+
+Unternehmenszusammenschlüsse
+
+84A   Durch die Jährlichen Verbesserungen, Zyklus 2011–2013, veröffentlicht im Dezember 2013, wurden Paragraph 14A und eine Überschrift vor Paragraph 6 eingefügt. Ein Unternehmen hat diese Änderung ab Beginn der ersten Berichtsperiode, in der diese Änderung angewandt wird, prospektiv auf jeden Erwerb einer als Finanzinvestition gehaltenen Immobilie anzuwenden. Die Bilanzierung für in früheren Perioden erworbene, als Finanzinvestition gehaltene Immobilien ist somit nicht anzupassen. Ein Unternehmen kann allerdings beschließen, die Änderung auf einzelne Erwerbungen von als Finanzinvestition gehaltenen Immobilien anzuwenden, die vor Beginn des ersten Geschäftsjahrs, das am oder nach dem Datum des Inkrafttretens der Änderung beginnt, getätigt wurden, wenn das Unternehmen über die zur Anwendung der Änderung auf frühere Erwerbungen erforderlichen Informationen verfügt.
+
+IFRS 16
+
+84B   Bei der erstmaligen Anwendung von IFRS 16 und der damit in Verbindung stehenden Änderungen dieses Standards hat das Unternehmen für seine in Form von Nutzungsrechten als Finanzinvestition gehaltenen Immobilien die in Anhang C von IFRS 16 festgelegten Übergangsvorschriften anzuwenden.
+
+Übertragungen in den und aus dem Bestand der als Finanzinvestition gehaltenen Immobilien
+
+84C Mit der im Dezember 2016 veröffentlichten Verlautbarung Übertragungen in den und aus dem Bestand der als Finanzinvestition gehaltenen Immobilien (Änderungen an IAS 40) wurden die Paragraphen 57–58 geändert. Diese Änderungen sind auf Nutzungsänderungen anzuwenden, die zu oder nach Beginn des Geschäftsjahrs eintreten, in dem die Änderungen zum ersten Mal angewendet werden (Zeitpunkt der erstmaligen Anwendung). Zum Zeitpunkt der erstmaligen Anwendung hat ein Unternehmen die Einstufung seiner zu diesem Zeitpunkt gehaltenen Immobilien zu überprüfen und diese gegebenenfalls gemäß den Paragraphen 7–14 neu einzustufen, um sicherzustellen, dass ihre Einstufung den Gegebenheiten zu diesem Zeitpunkt entspricht.
+
+84D Unbeschadet der Vorschriften in Paragraph 84C darf ein Unternehmen die Änderungen der Paragraphen 57–58 gemäß IAS 8 nur dann rückwirkend anwenden, wenn dabei keine nachträglichen Erkenntnisse verwendet werden.
+
+84E Stuft ein Unternehmen Immobilien in Anwendung des Paragraphen 84C zum Zeitpunkt der erstmaligen Anwendung neu ein, so hat es
+a) 
+
+die Umgliederung unter Beachtung der Vorschriften der Paragraphen 59–64 zu bilanzieren. Bei der Anwendung der Paragraphen 59–64 hat ein Unternehmen
+i) 
+
+den Zeitpunkt der Nutzungsänderung als Zeitpunkt der ersten Anwendung zugrunde zu legen und
+ii) 
+
+sämtliche Beträge, die gemäß den Paragraphen 59–64 erfolgswirksam erfasst worden wären, als Anpassung der Eröffnungsbilanz der Gewinnrücklagen zum Zeitpunkt der ersten Anwendung zu erfassen.
+b) 
+
+sämtliche gemäß Paragraph 84C in den oder aus dem Bestand der als Finanzinvestition gehaltenen Immobilien umgegliederten Beträge anzugeben. Das Unternehmen hat die umgegliederten Beträge in einer Überleitungsrechnung gemäß den Paragraphen 76 und 79 auszuweisen, welche die Entwicklung des Buchwerts der als Finanzinvestition gehaltenen Immobilien zu Beginn und zum Ende der Periode zeigt.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+85 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen Standard auf Geschäftsjahre an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+85A Infolge von IAS 1 Darstellung des Abschlusses (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurde Paragraph 62 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+85B Durch die Verbesserungen der IFRS, veröffentlicht im Mai 2008, wurden die Paragraphen 8, 9, 48, 53, 54 und 57 geändert, Paragraph 22 wurde gestrichen und die Paragraphen 53A und 53B wurden eingefügt. Diese Änderungen sind prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Ein Unternehmen kann die Änderungen auf in der Erstellung befindliche, als Finanzinvestition gehaltene Immobilien ab jedem beliebigen Stichtag vor dem 1. Januar 2009 anwenden, sofern die jeweils beizulegenden Zeitwerte der sich noch in der Erstellung befindlichen, als Finanzinvestition gehaltenen Immobilien zu den jeweiligen Stichtagen ermittelt wurden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben und gleichzeitig die Änderungen an Paragraph 5 und Paragraph 81E von IAS 16 Sachanlagen anzuwenden.
+
+85C Durch IFRS 13, veröffentlicht im Mai 2011, wurde die Definition des beizulegenden Zeitwerts in Paragraph 5 geändert. Außerdem wurden die Paragraphen 26, 29, 32, 40, 48, 53, 53B, 78–80 und 85B geändert sowie die Paragraphen 36–39, 42–47, 49, 51 und 75(d) gestrichen. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+85D Durch die Jährlichen Verbesserungen, Zyklus 2011–2013, veröffentlicht im Dezember 2013, wurden vor Paragraph 6 und nach Paragraph 84 Überschriften eingefügt und die Paragraphen 14A und 84A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+85E Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurden die Paragraphen 3(b), 9, 67 und 70 geändert. Wendet ein Unternehmen IFRS 15 an, sind diese Änderungen ebenfalls anzuwenden.
+
+85F Durch IFRS 16, veröffentlicht im Januar 2016, wurde der Anwendungsbereich von IAS 40 dahin gehend geändert, dass eine als Finanzinvestition gehaltene Immobilie einerseits eine eigene als Finanzinvestition gehaltene Immobilie und andererseits eine Immobilie, für die der Leasingnehmer ein Nutzungsrecht hat, sein kann. Durch IFRS 16 wurden die Paragraphen 5, 7, 8, 9, 16, 20, 30, 41, 50, 53, 53A, 54, 56, 60, 61, 62, 67, 69, 74, 75, 77 und 78 geändert. Außerdem wurden die Paragraphen 19A, 29A, 40A und 84B samt zugehöriger Überschriften eingefügt sowie die Paragraphen 3, 6, 25, 26 und 34 gestrichen. Wendet ein Unternehmen IFRS 16 an, sind diese Änderungen ebenfalls anzuwenden.
+
+85G Mit der im Dezember 2016 veröffentlichten Verlautbarung Übertragungen in den und aus dem Bestand der als Finanzinvestition gehaltenen Immobilien (Änderungen an IAS 40) wurden die Paragraphen 57–58 geändert und die Paragraphen 84C–84E eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2018 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben.
+
+85H Durch IFRS 17, veröffentlicht im Mai 2017, wurde Paragraph 32B geändert. Wendet ein Unternehmen IFRS 17 an, ist diese Änderung ebenfalls anzuwenden.
+
+RÜCKNAHME VON IAS 40 (2000)
+
+86 Der vorliegende Standard ersetzt IAS 40 Als Finanzinvestition gehaltene Immobilien (veröffentlicht 2000).

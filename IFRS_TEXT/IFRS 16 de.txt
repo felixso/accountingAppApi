@@ -1,0 +1,1447 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 16
+
+Leasingverhältnisse
+
+ZIELSETZUNG
+
+1   In diesem Standard werden die Grundsätze für den Ansatz, die Bewertung, die Darstellung und die Angabe von Leasingverhältnissen dargelegt. Ziel ist es sicherzustellen, dass die von Leasingnehmern und Leasinggebern zur Verfügung gestellten Informationen die Transaktionen glaubwürdig darstellen. Diese Informationen sollen den Abschlussadressaten die Beurteilung ermöglichen, wie sich Leasingverhältnisse auf die Vermögens-, Finanz- und Ertragslage und die Zahlungsströme eines Unternehmens auswirken.
+
+2 Bei der Anwendung dieses Standards hat das Unternehmen die Bedingungen der Verträge sowie alle maßgeblichen Fakten und Umstände zu berücksichtigen. Ferner hat es diesen Standard auf ähnlich ausgestaltete Verträge und unter ähnlichen Umständen konsistent anzuwenden.
+
+ANWENDUNGSBEREICH
+
+3 Dieser Standard gilt für Leasingverhältnisse jeder Art, einschließlich solcher, bei denen Nutzungsrechte im Rahmen eines Unterleasingverhältnisses weitervermietet werden. Davon ausgenommen sind
+a) 
+
+Leasingverhältnisse zur Exploration oder Nutzung von Mineralen, Öl, Erdgas und ähnlichen nicht regenerativen Ressourcen,
+b) 
+
+Leasingverhältnisse bei biologischen Vermögenswerten im Anwendungsbereich von IAS 41 Landwirtschaft, die von einem Leasingnehmer gehalten werden,
+c) 
+
+Dienstleistungskonzessionsvereinbarungen im Anwendungsbereich von IFRIC 12 Dienstleistungskonzessionsvereinbarungen,
+d) 
+
+Lizenzen zur Nutzung geistigen Eigentums, die ein Leasinggeber im Anwendungsbereich von IFRS 15 Erlöse aus Verträgen mit Kunden vergibt, und
+e) 
+
+Rechte, die ein Leasingnehmer im Rahmen von Lizenzvereinbarungen im Anwendungsbereich von IAS 38 Immaterielle Vermögenswerte hält, beispielsweise für Filme, Videoaufnahmen, Theaterstücke, Manuskripte, Patente und Urheberrechte.
+
+4 Dem Leasingnehmer steht es frei, diesen Standard auf Leasingverhältnisse anzuwenden, die andere immaterielle Vermögenswerte als die in Paragraph 3(e) genannten zum Gegenstand haben.
+
+FREISTELLUNGEN VOM ANSATZ (PARAGRAPHEN B3–B8)
+
+5 Der Leasingnehmer kann beschließen, die Vorschriften der Paragraphen 22–49 nicht anzuwenden auf
+a) 
+
+kurzfristige Leasingverhältnisse und
+b) 
+
+Leasingverhältnisse, bei denen der zugrunde liegende Vermögenswert von geringem Wert ist (Beschreibung siehe Paragraphen B3–B8).
+
+6 Beschließt der Leasingnehmer, die Vorschriften der Paragraphen 22–49 nicht auf kurzfristige Leasingverhältnisse oder auf Leasingverhältnisse, denen ein Vermögenswert von geringem Wert zugrunde liegt, anzuwenden, so hat er die mit diesen Leasingverhältnissen verbundenen Leasingzahlungen entweder linear über die Laufzeit des Leasingverhältnisses oder auf einer anderen systematischen Basis als Aufwand zu erfassen. Sollte eine andere systematische Basis für das Muster, nach dem der Leasingnehmer Nutzen aus dem Leasingverhältnis zieht, repräsentativer sein, so ist diese heranzuziehen.
+
+7 Bilanziert ein Leasingnehmer kurzfristige Leasingverhältnisse gemäß Paragraph 6, so hat er das Leasingverhältnis für die Zwecke dieses Standards als neues Leasingverhältnis zu betrachten, wenn
+a) 
+
+eine Änderung des Leasingverhältnisses vorliegt oder
+b) 
+
+die Laufzeit des Leasingverhältnisses geändert wird (der Leasingnehmer beispielsweise eine Option ausübt, die bei der Festlegung der Laufzeit nicht berücksichtigt wurde).
+
+8 Die Entscheidung, ein Leasingverhältnis als kurzfristig zu betrachten, richtet sich nach der Gruppe der zugrunde liegenden Vermögenswerte, für die das Nutzungsrecht besteht. Unter einer Gruppe zugrunde liegender Vermögenswerte ist eine Gruppe ähnlich gearteter Vermögenswerte zu verstehen, die im Rahmen der Geschäftstätigkeit eines Unternehmens ähnlich genutzt werden. Die Entscheidung, den Wert eines zugrunde liegenden Vermögenswerts als gering einzustufen, kann auf Einzelfallbasis erfolgen.
+
+IDENTIFIZIERUNG EINES LEASINGVERHÄLTNISSES (PARAGRAPHEN B9–B33)
+
+9   Das Unternehmen muss bei Vertragsabschluss beurteilen, ob der Vertrag ein Leasingverhältnis begründet oder beinhaltet. Dies ist der Fall, wenn mit dem Vertrag gegen Zahlung einer Gegenleistung für einen bestimmten Zeitraum die Verfügungsgewalt über einen identifizierten Vermögenswert übertragen wird. Die Paragraphen B9–B31 enthalten Leitlinien für die Beurteilung, ob ein Vertrag ein Leasingverhältnis begründet oder beinhaltet.
+
+10 Ein Zeitraum lässt sich auch als Nutzungsumfang eines identifizierten Vermögenswerts beschreiben (z. B. als Anzahl der Einheiten, die mit dem Ausrüstungsgegenstand produziert werden sollen).
+
+11 Das Unternehmen hat nur bei Änderung der Vertragsbedingungen erneut zu beurteilen, ob ein Vertrag ein Leasingverhältnis begründet oder beinhaltet.
+
+Separierung von Leasing- und Nichtleasingkomponenten eines Vertrags
+
+12 Bei Verträgen, die ein Leasingverhältnis begründen oder beinhalten, hat das Unternehmen jede Leasingkomponente des Vertrags getrennt von den Nichtleasingkomponenten des Vertrags als Leasingverhältnis zu bilanzieren, es sei denn, es wendet den in Paragraph 15 beschriebenen praktischen Behelf an. Die Paragraphen B32–B33 enthalten Leitlinien für die Separierung von Leasing- und Nichtleasingkomponenten eines Vertrags.
+
+Leasingnehmer
+
+13 Bei Verträgen, die eine Leasingkomponente und eine oder mehrere zusätzliche Leasing- oder Nichtleasingkomponenten beinhalten, hat der Leasingnehmer die vertraglich vereinbarte Gegenleistung auf Basis des relativen Einzelpreises der Leasingkomponente und des aggregierten Einzelpreises der Nichtleasingkomponenten auf die einzelnen Leasingkomponenten aufzuteilen.
+
+14 Der relative Einzelpreis von Leasing- und Nichtleasingkomponenten ist anhand des Preises zu bestimmen, den der Leasinggeber oder ein ähnlicher Lieferant dem Unternehmen für diese oder eine ähnliche Komponente gesondert berechnen würde. Ist ein beobachtbarer Einzelpreis nicht ohne Weiteres verfügbar, muss der Leasingnehmer den Einzelpreis schätzen und dabei so viele beobachtbare Daten wie möglich heranziehen.
+
+15 Behelfsweise kann ein Leasingnehmer für einzelne Gruppen zugrunde liegender Vermögenswerte beschließen, von einer Separierung von Leasing- und Nichtleasingkomponenten abzusehen, und stattdessen jede Leasingkomponente und alle damit verbundenen Nichtleasingkomponenten als eine einzige Leasingkomponente bilanzieren. Bei eingebetteten Derivaten, die die in Paragraph 4.3.3 von IFRS 9 Finanzinstrumente genannten Kriterien erfüllen, darf nicht auf diesen praktischen Behelf zurückgegriffen werden.
+
+16 Nichtleasingkomponenten sind vom Leasingnehmer nach anderen geltenden Standards zu bilanzieren, es sei denn, er wendet den in Paragraph 15 beschriebenen praktischen Behelf an.
+
+Leasinggeber
+
+17 Bei Verträgen, die eine Leasingkomponente und eine oder mehrere zusätzliche Leasing- oder Nichtleasingkomponenten beinhalten, hat der Leasinggeber die vertraglich vereinbarte Gegenleistung gemäß den Paragraphen 73–90 von IFRS 15 aufzuteilen.
+
+LAUFZEIT DES LEASINGVERHÄLTNISSES (PARAGRAPHEN B34–B41)
+
+18 Die Laufzeit des Leasingverhältnisses ist vom Unternehmen unter Zugrundelegung der unkündbaren Grundlaufzeit dieses Leasingverhältnisses sowie unter Einbeziehung der beiden folgenden Zeiträume zu bestimmen:
+a) 
+
+die Zeiträume, die sich aus einer Option zur Verlängerung des Leasingverhältnisses ergeben, sofern der Leasingnehmer hinreichend sicher ist, dass er diese Option ausüben wird, und
+b) 
+
+die Zeiträume, die sich aus einer Option zur Kündigung des Leasingverhältnisses ergeben, sofern der Leasingnehmer hinreichend sicher ist, dass er diese Option nicht ausüben wird.
+
+19 Bei der Beurteilung, ob ein Leasingnehmer hinreichend sicher ist, dass er eine Verlängerungsoption ausüben oder eine Kündigungsoption nicht ausüben wird, hat das Unternehmen allen in den Paragraphen B37–B40 beschriebenen maßgeblichen Fakten und Umständen Rechnung zu tragen, die dem Leasingnehmer einen wirtschaftlichen Anreiz zur Ausübung bzw. Nichtausübung der Verlängerungs- bzw. der Kündigungsoption geben.
+
+20 Der Leasingnehmer hat erneut zu beurteilen, ob er hinreichend sicher ist, dass er eine Verlängerungsoption ausüben oder eine Kündigungsoption nicht ausüben wird, wenn ein erhebliches Ereignis oder eine erhebliche Änderung von Umständen eintritt, das bzw. die
+a) 
+
+sich seinem Einfluss nicht entzieht und
+b) 
+
+sich darauf auswirkt, ob er hinreichend sicher ist, dass er eine bei der Festlegung der Laufzeit ursprünglich nicht berücksichtigte Option ausüben oder eine bei der Festlegung der Laufzeit ursprünglich berücksichtigte Option nicht ausüben wird (siehe Paragraph B41).
+
+21 Ändert sich die unkündbare Grundlaufzeit eines Leasingverhältnisses, hat das Unternehmen auch die Laufzeit des Leasingverhältnisses zu überprüfen. Die unkündbare Grundlaufzeit eines Leasingverhältnisses ändert sich beispielsweise dann, wenn
+a) 
+
+der Leasingnehmer eine Option, die das Unternehmen bei der Festlegung der Laufzeit ursprünglich nicht berücksichtigt hatte, ausübt,
+b) 
+
+der Leasingnehmer eine Option, die das Unternehmen bei der Festlegung der Laufzeit ursprünglich berücksichtigt hatte, nicht ausübt,
+c) 
+
+ein Ereignis eintritt, das den Leasingnehmer vertraglich zur Ausübung einer Option verpflichtet, die das Unternehmen bei der Festlegung der Laufzeit ursprünglich nicht berücksichtigt hatte, oder
+d) 
+
+ein Ereignis eintritt, das dem Leasingnehmer vertraglich die Ausübung einer Option untersagt, die das Unternehmen bei der Festlegung der Laufzeit ursprünglich berücksichtigt hatte.
+
+LEASINGNEHMER
+
+Ansatz
+
+22   Am Bereitstellungsdatum muss der Leasingnehmer ein Nutzungsrecht aktivieren und eine Leasingverbindlichkeit erfassen.
+
+Bewertung
+
+Erstmalige Bewertung
+
+Erstmalige Bewertung des Nutzungsrechts
+
+23   Am Bereitstellungsdatum muss der Leasingnehmer das Nutzungsrecht zu Anschaffungskosten bewerten.
+
+24 Die Kosten des Nutzungsrechts umfassen
+a) 
+
+den Betrag, der sich aus der in Paragraph 26 beschriebenen erstmaligen Bewertung der Leasingverbindlichkeit ergibt,
+b) 
+
+alle bei oder vor der Bereitstellung geleisteten Leasingzahlungen abzüglich aller etwaigen erhaltenen Leasinganreize,
+c) 
+
+alle dem Leasingnehmer entstandenen anfänglichen direkten Kosten und
+d) 
+
+die geschätzten Kosten, die dem Leasingnehmer bei Demontage und Beseitigung des zugrunde liegenden Vermögenswerts, bei Wiederherstellung des Standorts, an dem dieser sich befindet, oder bei Rückversetzung des zugrunde liegenden Vermögenswert in den in der Leasingvereinbarung verlangten Zustand entstehen werden, es sei denn, diese Kosten werden durch die Herstellung von Vorräten verursacht. Die Pflicht zur Übernahme dieser Kosten entsteht dem Leasingnehmer entweder am Bereitstellungsdatum oder infolge der Nutzung des zugrunde liegenden Vermögenswerts während eines bestimmten Zeitraums.
+
+25 Der Leasingnehmer hat die in Paragraph 24(d) beschriebenen Kosten als Teil der Kosten des Nutzungsrechts zu erfassen, wenn für ihn die Verpflichtung zur Kostenübernahme entsteht. Kosten, die während eines bestimmten Zeitraums entstehen, weil in diesem Zeitraum unter Inanspruchnahme des Nutzungsrechts Vorräte produziert wurden, hat der Leasingnehmer gemäß IAS 2 Vorräte zu bilanzieren. Die Verpflichtungen im Zusammenhang mit den gemäß diesem Standard oder gemäß IAS 2 bilanzierten Kosten werden gemäß IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen erfasst und bewertet.
+
+Erstmalige Bewertung der Leasingverbindlichkeit
+
+26   Am Bereitstellungsdatum muss der Leasingnehmer die Leasingverbindlichkeit zum Barwert der zu diesem Zeitpunkt noch nicht geleisteten Leasingzahlungen bewerten. Die Leasingzahlungen werden zum dem Leasingverhältnis zugrunde liegenden Zinssatz abgezinst, sofern sich dieser ohne Weiteres bestimmen lässt. Lässt sich dieser Satz nicht ohne Weiteres bestimmen, ist der Grenzfremdkapitalzinssatz des Leasingnehmers heranzuziehen.
+
+27 Am Bereitstellungsdatum umfassen die bei der Bewertung der Leasingverbindlichkeit zu berücksichtigenden Leasingzahlungen die nachstehend genannten, am Bereitstellungsdatum noch nicht geleisteten Zahlungen für das Recht auf Nutzung des zugrunde liegenden Vermögenswerts während der Laufzeit des Leasingverhältnisses:
+a) 
+
+feste Zahlungen (einschließlich der in Paragraph B42 beschriebenen de facto festen Zahlungen) abzüglich etwaiger zu erhaltender Leasinganreize,
+b) 
+
+variable Leasingzahlungen, die an einen Index oder (Zins-)Satz gekoppelt sind und deren erstmalige Bewertung anhand des am Bereitstellungsdatum gültigen Indexes oder (Zins-)Satzes vorgenommen wird (siehe Paragraph 28),
+c) 
+
+Beträge, die der Leasingnehmer im Rahmen von Restwertgarantien voraussichtlich wird entrichten müssen,
+d) 
+
+der Ausübungspreis einer Kaufoption, wenn der Leasingnehmer hinreichend sicher ist, dass er diese wahrnehmen wird (was anhand der in den Paragraphen B37–B40 beschriebenen Faktoren beurteilt wird), und
+e) 
+
+Strafzahlungen für die Kündigung des Leasingverhältnisses, wenn in der Laufzeit berücksichtigt ist, dass der Leasingnehmer eine Kündigungsoption wahrnehmen wird.
+
+28 Zu den in Paragraph 27(b) beschriebenen, an einen Index oder (Zins-)Satz gekoppelten variablen Leasingzahlungen zählen unter anderem Zahlungen, die an einen Verbraucherpreisindex gekoppelt sind, Zahlungen, die an einen Referenzzinssatz (wie den LIBOR) gekoppelt sind, oder Zahlungen, die der Entwicklung bei den marktüblichen Mietpreisen folgen.
+
+Folgebewertung
+
+Folgebewertung des Nutzungsrechts
+
+29   Nach dem Bereitstellungsdatum hat der Leasingnehmer — sofern er keines der in den Paragraphen 34 und 35 beschriebenen Bewertungsmodelle verwendet — das Nutzungsrecht nach dem Anschaffungskostenmodell zu bewerten.
+
+Anschaffungskostenmodell
+
+30 Will der Leasingnehmer nach dem Anschaffungskostenmodell verfahren, muss er das Nutzungsrecht zu Anschaffungskosten wie folgt bewerten:
+a) 
+
+abzüglich aller kumulierten planmäßigen Abschreibungen und aller kumulierten Wertminderungsaufwendungen und
+b) 
+
+angepasst um jede in Paragraph 36(c) aufgeführte Neubewertung der Leasingverbindlichkeit.
+
+31 Bei der planmäßigen Abschreibung des Nutzungsrechts muss der Leasingnehmer vorbehaltlich der Vorschriften in Paragraph 32 nach den Abschreibungsvorschriften von IAS 16 Sachanlagen verfahren.
+
+32 Geht das Eigentum an dem zugrunde liegenden Vermögenswert zum Ende der Laufzeit des Leasingverhältnisses auf den Leasingnehmer über oder ist in den Kosten des Nutzungsrechts berücksichtigt, dass der Leasingnehmer eine Kaufoption wahrnehmen wird, so hat er das Nutzungsrecht vom Bereitstellungsdatum bis zum Ende der Nutzungsdauer des zugrunde liegenden Vermögenswerts abzuschreiben. Anderenfalls ist das Nutzungsrecht vom Bereitstellungsdatum bis zum Ende seiner Nutzungsdauer oder — sollte dies früher eintreten — bis zum Ende der Laufzeit des Leasingverhältnisses abzuschreiben.
+
+33 Der Leasingnehmer hat nach IAS 36 Wertminderung von Vermögenswerten zu bestimmen, ob das Nutzungsrecht wertgemindert ist, und jeden festgestellten Wertminderungsaufwand zu bilanzieren.
+
+Andere Bewertungsmodelle
+
+34 Wendet der Leasingnehmer auf seine als Finanzinvestitionen gehaltenen Immobilien das in IAS 40 Als Finanzinvestition gehaltene Immobilien enthaltene Zeitwertmodell an, so hat er dieses Modell auch auf Nutzungsrechte anzuwenden, die der in IAS 40 enthaltenen Definition von als Finanzinvestition gehaltenen Immobilien entsprechen.
+
+35 Beziehen sich Nutzungsrechte auf eine Gruppe von Sachanlagen, auf die der Leasingnehmer das in IAS 16 enthaltene Neubewertungsmodell anwendet, so kann er beschließen, dieses Modell auf alle Nutzungsrechte anzuwenden, die sich auf diese Gruppe von Sachanlagen beziehen.
+
+Folgebewertung der Leasingverbindlichkeit
+
+36   Nach dem Bereitstellungsdatum bewertet der Leasingnehmer die Leasingverbindlichkeit wie folgt:
+a) 
+
+er erhöht den Buchwert, um dem Zinsaufwand für die Leasingverbindlichkeit Rechnung zu tragen,
+b) 
+
+er verringert den Buchwert, um den geleisteten Leasingzahlungen Rechnung zu tragen, und
+c) 
+
+er bewertet den Buchwert neu, um jeder in den Paragraphen 39–46 dargelegten Neubewertung oder Änderung des Leasingverhältnisses oder aber geänderten de facto festen Leasingzahlungen Rechnung zu tragen (siehe Paragraph B42).
+
+37 Die während der Laufzeit des Leasingverhältnisses in jeder Periode für die Leasingverbindlichkeit anfallenden Zinsaufwendungen sind so zu bemessen, dass über die Perioden ein konstanter Zinssatz auf die verbleibende Leasingverbindlichkeit entsteht. Der Periodenzinssatz ist der in Paragraph 26 beschriebene Abzinsungssatz oder — falls anwendbar — der in den Paragraphen 41, 43 oder 45(c) beschriebene geänderte Abzinsungssatz.
+
+38 Nach dem Bereitstellungsdatum sind sowohl
+a) 
+
+die Zinsaufwendungen für die Leasingverbindlichkeit als auch
+b) 
+
+variable Leasingzahlungen, die nicht in die Bewertung der Leasingverbindlichkeit in der Periode eingeflossen sind, in der das Ereignis oder die Bedingung, das bzw. die diese Zahlungen auslöst, eintrat, vom Leasingnehmer erfolgswirksam zu erfassen, es sei denn, die Kosten sind gemäß anderer anwendbarer Standards im Buchwert eines anderen Vermögenswerts enthalten.
+
+Neubewertung der Leasingverbindlichkeit
+
+39 Nach dem Bereitstellungsdatum muss der Leasingnehmer die Leasingverbindlichkeit nach den Paragraphen 40–43 neu bewerten, um Änderungen bei den Leasingzahlungen Rechnung zu tragen. Das Nutzungsrecht ist vom Leasingnehmer um den aus der Neubewertung der Leasingverbindlichkeit resultierenden Betrag anzupassen. Verringert sich der Buchwert des Nutzungsrechts allerdings auf null und geht die Bewertung der Leasingverbindlichkeit weiter zurück, hat der Leasingnehmer jeden aus der Neubewertung resultierenden Restbetrag erfolgswirksam zu erfassen.
+
+40 Der Leasingnehmer hat die Leasingverbindlichkeit neu zu bewerten und zu diesem Zweck die geänderten Leasingzahlungen zu einem geänderten Satz abzuzinsen, wenn entweder
+a) 
+
+bei der Laufzeit des Leasingverhältnisses eine in den Paragraphen 20–21 beschriebene Änderung eintritt; in diesem Fall hat der Leasingnehmer die geänderten Leasingzahlungen ausgehend von der geänderten Laufzeit des Leasingverhältnisses zu bestimmen oder
+b) 
+
+bei der Beurteilung einer Kaufoption für den zugrunde liegenden Vermögenswert eine Änderung eintritt, wobei bei der Beurteilung den in den Paragraphen 20–21 beschriebenen Ereignissen und Umständen im Kontext einer Kaufoption Rechnung zu tragen ist; in diesem Fall hat der Leasingnehmer die geänderten Leasingzahlungen so zu bestimmen, dass sie der Veränderung bei den im Rahmen der Kaufoption zahlbaren Beträgen Rechnung tragen.
+
+41 Bei der Anwendung von Paragraph 40 hat der Leasingnehmer den geänderten Abzinsungssatz als den für die Restlaufzeit des Leasingverhältnisses dem Leasingverhältnis zugrunde liegenden Zinssatz zu bestimmen, falls sich dieser aber nicht ohne Weiteres bestimmen lässt, als den Grenzfremdkapitalzinssatz des Leasingnehmers zum Zeitpunkt der Neubeurteilung.
+
+42 Der Leasingnehmer hat die Leasingverbindlichkeit neu zu bewerten und zu diesem Zweck die geänderten Leasingzahlungen abzuzinsen, wenn entweder
+a) 
+
+bei den Beträgen, die im Rahmen einer Restwertgarantie voraussichtlich zu entrichten sind, eine Änderung eintritt; in diesem Fall hat der Leasingnehmer die geänderten Leasingzahlungen so zu bestimmen, dass sie der Veränderung bei den im Rahmen der Restwertgarantie voraussichtlich zu entrichtenden Beträgen Rechnung tragen, oder
+b) 
+
+bei den künftigen Leasingzahlungen bedingt durch eine Veränderung bei einem zur Bestimmung dieser Zahlungen verwendeten Index oder (Zins-)Satz, wozu auch Veränderungen zählen, die im Anschluss an eine Mietpreis-Erhebung bei den marktüblichen Mietpreisen festgestellt wurden, eine Veränderung eintritt; diesen geänderten Leasingzahlungen muss der Leasingnehmer nur dann durch Neubewertung der Leasingverbindlichkeit Rechnung tragen, wenn bei den Zahlungsströmen eine Veränderung eintritt (d. h. wenn die Anpassung der Leasingzahlungen wirksam wird); in diesem Fall hat der Leasingnehmer die geänderten Leasingzahlungen für die Restlaufzeit des Leasingverhältnisses ausgehend von den geänderten vertraglichen Zahlungen zu bestimmen.
+
+43 Bei der Anwendung von Paragraph 42 hat der Leasingnehmer einen unveränderten Abzinsungssatz zu verwenden, es sei denn, die Veränderung bei den Leasingzahlungen ist auf eine Veränderung bei variablen Zinssätzen zurückzuführen. In diesem Fall ist ein geänderter Abzinsungssatz zu verwenden, der dem veränderten Zinssatz Rechnung trägt.
+
+Änderung von Leasingverhältnissen
+
+44 Die Änderung eines Leasingverhältnisses ist vom Leasingnehmer als gesondertes Leasingverhältnis zu bilanzieren, wenn beide folgenden Voraussetzungen erfüllt sind:
+a) 
+
+durch die Änderung wird ein zusätzliches Recht auf Nutzung eines oder mehrerer zugrunde liegender Vermögenswerte eingeräumt, wodurch sich der Umfang des Leasingverhältnisses erhöht, und
+b) 
+
+die zu zahlende Gegenleistung erhöht sich um einen Betrag, der dem Einzelpreis der Umfangserhöhung sowie allen angezeigten Anpassungen dieses Einzelpreises aufgrund der Umstände des betreffenden Vertrags entspricht.
+
+45 Bei Änderungen von Leasingverhältnissen, die nicht als gesondertes Leasingverhältnis bilanziert werden, hat der Leasingnehmer zum effektiven Zeitpunkt der Änderung
+a) 
+
+die Gegenleistung für den geänderten Vertrag gemäß den Paragraphen 13–16 aufzuteilen,
+b) 
+
+die Laufzeit des geänderten Leasingverhältnisses gemäß den Paragraphen 18–19 zu bestimmen und
+c) 
+
+die Leasingverbindlichkeit neu zu bewerten und zu diesem Zweck die geänderten Leasingzahlungen zu einem geänderten Satz abzuzinsen; bestimmt wird der geänderte Abzinsungssatz als der für die Restlaufzeit des Leasingverhältnisses dem Leasingverhältnis zugrunde liegende Zinssatz, falls sich dieser aber nicht ohne Weiteres bestimmen lässt, als den Grenzfremdkapitalzinssatz des Leasingnehmers zum effektiven Zeitpunkt der Änderung.
+
+46 Wird die Änderung des Leasingverhältnisses nicht als gesondertes Leasingverhältnis bilanziert, so hat der Leasingnehmer die Neubewertung der Leasingverbindlichkeit zu bilanzieren, indem er
+a) 
+
+den Buchwert des Nutzungsrechts herabsetzt, um der durch Änderungen, die den Umfang des Leasingverhältnisses verringern, bedingten teilweisen oder vollständigen Beendigung des Leasingverhältnisses Rechnung zu tragen; etwaige Gewinne oder Verluste, die sich aus der teilweisen oder vollständigen Beendigung des Leasingverhältnisses ergeben, hat der Leasingnehmer erfolgswirksam zu erfassen,
+b) 
+
+bei allen anderen Änderungen von Leasingverhältnissen eine entsprechende Anpassung des Nutzungsrechts vornimmt.
+
+46A Behelfsweise kann der Leasingnehmer auf die Beurteilung, ob eine Mietkonzession, die die Voraussetzungen von Paragraph 46B erfüllt, als Änderung eines Leasingverhältnisses einzustufen ist, verzichten. In diesem Fall hat der Leasingnehmer jede auf die Mietkonzession zurückzuführende Veränderung bei den Leasingzahlungen in derselben Weise zu bilanzieren, wie er es in Anwendung dieses Standards tun würde, wenn die Veränderung nicht als Änderung eines Leasingverhältnisses einzustufen wäre.
+
+46B Der praktische Behelf in Paragraph 46A gilt nur für Mietkonzessionen, die eine unmittelbare Folge der COVID-19-Pandemie sind, und auch nur, wenn alle folgenden Voraussetzungen erfüllt sind:
+a) 
+
+die Veränderung bei den Leasingzahlungen führt dazu, dass die geänderte Gegenleistung für das Leasingverhältnis im Wesentlichen gleich hoch bleibt wie die Gegenleistung für das Leasingverhältnis unmittelbar vor der Veränderung oder sich verringert,
+b) 
+
+eine etwaige Verringerung der Leasingzahlungen betrifft nur Zahlungen, die ursprünglich zum oder vor dem 30. Juni 2022 fällig sind (eine Mietkonzession, die zu verringerten Leasingzahlungen bis zum 30. Juni 2022 und erhöhten Leasingzahlungen nach dem 30. Juni 2022 führt, würde diese Voraussetzung beispielsweise erfüllen), und
+c) 
+
+die übrigen Vertragsbedingungen des Leasingverhältnisses erfahren keine wesentliche Veränderung.
+
+Darstellung
+
+47 Der Leasingnehmer hat
+a) 
+
+Nutzungsrechte entweder in der Bilanz oder im Anhang getrennt von anderen Vermögenswerten darzustellen; stellt er die Nutzungsrechte in der Bilanz nicht gesondert dar, so hat er
+i) 
+
+diese Nutzungsrechte in den gleichen Bilanzposten aufzunehmen, in dem auch die entsprechenden zugrunde liegenden Vermögenswerte dargestellt würden, wenn sie sein Eigentum wären, und
+ii) 
+
+anzugeben, in welchen Bilanzposten diese Nutzungsrechte geführt werden,
+b) 
+
+Leasingverbindlichkeiten entweder in der Bilanz oder im Anhang getrennt von anderen Verbindlichkeiten darzustellen; stellt er die Leasingverbindlichkeiten in der Bilanz nicht gesondert dar, hat er anzugeben, in welchen Bilanzposten diese Verbindlichkeiten geführt werden.
+
+48 Die in Paragraph 47(a) festgelegte Vorschrift gilt nicht für Nutzungsrechte, die der Definition einer als Finanzinvestition gehaltenen Immobilie entsprechen, da diese in der Bilanz auch als solche auszuweisen sind.
+
+49 In der Darstellung von Gewinn oder Verlust und sonstigem Ergebnis hat der Leasingnehmer Zinsaufwendungen für die Leasingverbindlichkeit getrennt vom Abschreibungsbetrag für das Nutzungsrecht auszuweisen. Zinsaufwendungen für die Leasingverbindlichkeit sind eine Komponente der Finanzierungsaufwendungen, die nach Paragraph 82(b) von IAS 1 Darstellung des Abschlusses in der Darstellung von Gewinn oder Verlust und sonstigem Ergebnis getrennt darzustellen sind.
+
+50 In der Kapitalflussrechnung hat der Leasingnehmer
+a) 
+
+Auszahlungen für den Tilgungsanteil der Leasingverbindlichkeit als Finanzierungstätigkeiten einzustufen,
+b) 
+
+Auszahlungen für den Zinsanteil der Leasingverbindlichkeit gemäß den Vorschriften für gezahlte Zinsen von IAS 7 Kapitalflussrechnung einzustufen und
+c) 
+
+Zahlungen im Rahmen kurzfristiger Leasingverhältnisse, Zahlungen bei Leasingverhältnissen, die Vermögenswerte von geringem Wert betreffen, und variable Leasingzahlungen, die bei der Bewertung der Leasingverbindlichkeit unberücksichtigt geblieben sind, als betriebliche Tätigkeiten einzustufen.
+
+Angaben
+
+51   Die Angaben, die der Leasingnehmer im Anhang bereitstellt, sollen zusammen mit den in der Bilanz, in der Gewinn- und Verlustrechnung und in der Kapitalflussrechnung enthaltenen Angaben den Abschlussadressaten die Beurteilung ermöglichen, wie Leasingverhältnisse sich auf die Vermögens-, Finanz- und Ertragslage und die Zahlungsströme des Leasingnehmers auswirken. Die Vorschriften, mit denen dieses Ziel erreicht werden soll, sind in den Paragraphen 52–60 enthalten.
+
+52 Der Leasingnehmer hat in einer einzelnen Anhangangabe oder in einem separaten Abschnitt seines Abschlusses Angaben zu den Leasingverhältnissen zu machen, bei denen er Leasingnehmer ist. Angaben, die bereits an anderer Stelle im Abschluss gemacht wurden, müssen allerdings nicht wiederholt werden, sofern sie durch Querverweise auf diese Anhangangabe oder den separaten Abschnitt über Leasingverhältnisse auffindbar sind.
+
+53 Der Leasingnehmer hat für die Berichtsperiode die folgenden Beträge anzugeben:
+a) 
+
+Abschreibungen für das Nutzungsrecht nach Gruppen zugrunde liegender Vermögenswerte,
+b) 
+
+Zinsaufwendungen für Leasingverbindlichkeiten,
+c) 
+
+Aufwand für kurzfristige Leasingverhältnisse, die nach Paragraph 6 bilanziert werden; der Aufwand für Leasingverhältnisse mit maximal einmonatiger Laufzeit muss darin nicht enthalten sein,
+d) 
+
+Aufwand für Leasingverhältnisse, die Vermögenswerte von geringem Wert betreffen und die nach Paragraph 6 bilanziert werden; Aufwand für kurzfristige Leasingverhältnisse nach Buchstabe c, die einen Vermögenswert von geringem Wert betreffen, darf darin nicht enthalten sein,
+e) 
+
+Aufwand für variable Leasingzahlungen, die in die Bewertung dieser Leasingverbindlichkeiten nicht einbezogen wurden,
+f) 
+
+Ertrag aus dem Unterleasing von Nutzungsrechten,
+g) 
+
+die gesamten Zahlungsmittelabflüsse für Leasingverhältnisse,
+h) 
+
+Zugänge bei den Nutzungsrechten,
+i) 
+
+Gewinne und Verluste aus Sale-and-Leaseback-Transaktionen und
+j) 
+
+Buchwerte der Nutzungsrechte am Ende der Berichtsperiode nach Gruppe zugrunde liegender Vermögenswerte.
+
+54 Die in Paragraph 53 genannten Angaben sind in Tabellenform vorzulegen, es sei denn, ein anderes Format ist besser geeignet. Die angegebenen Beträge müssen auch die Kosten einschließen, die der Leasingnehmer im Berichtszeitraum in den Buchwert eines anderen Vermögenswerts integriert hat.
+
+55 Der Leasingnehmer hat die Höhe seiner Leasingverpflichtungen aus kurzfristigen Leasingverhältnissen, die nach Paragraph 6 bilanziert werden, anzugeben, wenn der Bestand an kurzfristigen Leasingverhältnissen, bei denen am Ende des Berichtszeitraums Verpflichtungen bestehen, sich nicht mit dem Bestand an kurzfristigen Leasingverhältnissen deckt, auf die sich der nach Paragraph 53(c) angegebene Aufwand bezieht.
+
+56 Entsprechen die Nutzungsrechte an Leasinggegenständen der Definition von als Finanzinvestition gehaltenen Immobilien, so hat der Leasingnehmer nach den Angabevorschriften von IAS 40 zu verfahren. Für derartige Nutzungsrechte sind die in Paragraph 53 unter den Buchstaben a, f, h und j genannten Angaben nicht erforderlich.
+
+57 Führt der Leasingnehmer für Nutzungsrechte eine Neubewertung gemäß IAS 16 durch, muss er für diese Nutzungsrechte die in Paragraph 77 von IAS 16 verlangten Angaben machen.
+
+58 Eine gemäß den Paragraphen 39 und B11 von IFRS 7 Finanzinstrumente: Angaben erstellte Fälligkeitsanalyse für Leasingverbindlichkeiten hat der Leasingnehmer getrennt von den Fälligkeitsanalysen für andere finanzielle Verbindlichkeiten vorzulegen.
+
+59 Neben den in den Paragraphen 53–58 verlangten Angaben hat der Leasingnehmer zur Erreichung des in Paragraph 51 genannten (und in Paragraph B48 beschriebenen) Angabeziels zusätzliche qualitative und quantitative Angaben zu seinen Leasingaktivitäten vorzulegen. Diese zusätzlichen Angaben können unter anderem Informationen umfassen, die den Abschlussadressaten die Beurteilung der folgenden Elemente erleichtern:
+a) 
+
+Art der Leasingaktivitäten des Leasingnehmers,
+b) 
+
+künftige Zahlungsmittelabflüsse, zu denen es beim Leasingnehmer kommen könnte und die bei der Bewertung der Leasingverbindlichkeit nicht berücksichtigt wurden; diese können sich ergeben aus
+i) 
+
+variablen Leasingzahlungen (siehe Paragraph B49),
+ii) 
+
+Verlängerungs- und Kündigungsoptionen (siehe Paragraph B50),
+iii) 
+
+Restwertgarantien (siehe Paragraph B51) und
+iv) 
+
+Leasingverhältnissen, die der Leasingnehmer eingegangen ist, die aber noch nicht begonnen haben,
+c) 
+
+mit Leasingverhältnissen verbundene Beschränkungen oder Zusagen und
+d) 
+
+Sale-and-Leaseback-Transaktionen (siehe Paragraph B52).
+
+60 Bilanziert der Leasingnehmer kurzfristige Leasingverhältnisse oder Leasingverhältnisse, die Vermögenswerte von geringem Wert betreffen, nach Paragraph 6, so hat er dies anzugeben.
+
+60A Wenn der Leasingnehmer den in Paragraph 46A beschriebenen praktischen Behelf anwendet, hat er im Abschluss
+a) 
+
+anzugeben, dass er den praktischen Behelf auf alle Mietkonzessionen, die die Voraussetzungen nach Paragraph 46B erfüllen, angewendet hat oder, sollte dies nicht der Fall sein, auszuführen, auf welche Art von Verträgen er den praktischen Behelf angewendet hat (siehe Paragraph 2), und
+b) 
+
+anzugeben, welche Beträge für die Berichtsperiode erfolgswirksam erfasst wurden, um Veränderungen bei den Leasingzahlungen Rechnung zu tragen, die sich aus Mietkonzessionen ergeben, auf die der Leasingnehmer den in Paragraph 46A beschriebenen praktischen Behelf angewendet hat.
+
+LEASINGGEBER
+
+Einstufung von Leasingverhältnissen (Paragraphen B53–B58)
+
+61   Der Leasinggeber hat jedes Leasingverhältnis entweder als Operating-Leasingverhältnis oder als Finanzierungsleasingverhältnis einzustufen.
+
+62   Ein Leasingverhältnis wird als Finanzierungsleasingverhältnis eingestuft, wenn dabei im Wesentlichen alle mit dem Eigentum verbundenen Risiken und Chancen übertragen werden. Ist dies nicht der Fall, wird ein Leasingverhältnis als Operating-Leasingverhältnis eingestuft.
+
+63 Ob es sich bei einem Leasingverhältnis um ein Finanzierungsleasingverhältnis oder um ein Operating-Leasingverhältnis handelt, hängt vom wirtschaftlichen Gehalt der Transaktion und nicht von der Vertragsform ab. Beispiele für Fälle, die für sich genommen oder in Kombination normalerweise zur Einstufung eines Leasingverhältnisses als Finanzierungsleasingverhältnis führen, sind:
+a) 
+
+am Ende der Laufzeit des Leasingverhältnisses wird dem Leasingnehmer das Eigentum am zugrunde liegenden Vermögenswert übertragen,
+b) 
+
+der Leasingnehmer hat die Option, den zugrunde liegenden Vermögenswert zu einem Preis zu erwerben, der den beizulegenden Zeitwert zum Optionsausübungszeitpunkt voraussichtlich so stark unterschreitet, dass die Ausübung der Option bei Beginn des Leasingverhältnisses hinreichend sicher ist,
+c) 
+
+die Laufzeit des Leasingverhältnisses erstreckt sich auf den größten Teil der wirtschaftlichen Nutzungsdauer des zugrunde liegenden Vermögenswerts, auch wenn das Eigentumsrecht nicht übertragen wird,
+d) 
+
+zu Beginn des Leasingverhältnisses entspricht der Barwert der Leasingzahlungen mindestens dem nahezu gesamten beizulegenden Zeitwert des zugrunde liegenden Vermögenswerts und
+e) 
+
+der zugrunde liegende Vermögenswert ist so speziell, dass nur der Leasingnehmer ihn ohne wesentliche Veränderungen nutzen kann.
+
+64 Indikatoren für Fälle die für sich genommen oder in Kombination ebenfalls zur Einstufung eines Leasingverhältnisses als Finanzierungsleasingverhältnis führen können, sind:
+a) 
+
+wenn der Leasingnehmer das Leasingverhältnis auflösen kann, hat dieser die Verluste, die dem Leasinggeber durch die Auflösung des Leasingverhältnisses entstehen, zu tragen
+b) 
+
+Gewinne oder Verluste, die auf Schwankungen des beizulegenden Zeitwerts des Restwerts zurückzuführen sind, fallen dem Leasingnehmer zu (beispielsweise in Form einer Mietrückerstattung, die einem Großteil des Verkaufserlöses am Ende des Leasingverhältnisses entspricht) und
+c) 
+
+der Leasingnehmer hat die Möglichkeit, das Leasingverhältnis für eine zweite Mietperiode zu einer Miete fortzuführen, die erheblich unter dem marktüblichen Mietpreis liegt.
+
+65 Die in den Paragraphen 63–64 aufgeführten Beispiele und Indikatoren lassen nicht immer einen endgültigen Schluss zu. Wenn aus anderen Merkmalen eindeutig hervorgeht, dass bei einem Leasingverhältnis nicht im Wesentlichen alle mit dem Eigentum an dem zugrunde liegenden Vermögenswert verbundenen Risiken und Chancen übertragen werden, wird es als Operating-Leasingverhältnis eingestuft. Dies kann beispielsweise dann der Fall sein, wenn das Eigentum am zugrunde liegenden Vermögenswert am Ende des Leasingverhältnisses gegen eine variable Zahlung in Höhe des jeweiligen beizulegenden Zeitwerts übertragen wird oder wenn variable Leasingzahlungen dazu führen, dass der Leasinggeber nicht im Wesentlichen alle derartigen Risiken und Chancen überträgt.
+
+66 Die Einstufung erfolgt zu Beginn des Leasingverhältnisses und wird nur bei einer Änderung des Leasingverhältnisses neu beurteilt. Änderungen von Schätzungen (wie Änderungen einer Schätzung der wirtschaftlichen Nutzungsdauer oder des Restwerts des zugrunde liegenden Vermögenswerts) oder geänderte Umstände (wie ein Zahlungsausfall des Leasingnehmers) führen jedoch nicht zu einer Neueinstufung des Leasingverhältnisses für Rechnungslegungszwecke.
+
+Finanzierungsleasingverhältnisse
+
+Ansatz und Bewertung
+
+67   Am Bereitstellungsdatum hat der Leasinggeber die im Rahmen eines Finanzierungsleasingverhältnisses gehaltenen Vermögenswerte in seiner Bilanz anzusetzen und sie als Forderung in Höhe der Nettoinvestition in das Leasingverhältnis darzustellen.
+
+Erstmalige Bewertung
+
+68 Zur Bewertung der Nettoinvestition in das Leasingverhältnis zieht der Leasinggeber den dem Leasingverhältnis zugrunde liegenden Zinssatz heran. Lässt sich bei einem Unterleasingverhältnis der zugrunde liegende Zinssatz nicht ohne Weiteres bestimmen, kann der Unterleasinggeber zur Bewertung der Nettoinvestition in das Unterleasingverhältnis den für das Hauptleasingverhältnis verwendeten Abzinsungssatz verwenden, den er um alle etwaigen mit dem Unterleasingverhältnis verbundenen anfänglichen direkten Kosten anpasst.
+
+69 Anfängliche direkte Kosten fließen in die erstmalige Bewertung der Nettoinvestition in das Leasingverhältnis ein und vermindern die über die Laufzeit des Leasingverhältnisses erfassten Erträge; davon ausgenommen sind anfängliche direkte Kosten, die bei Leasinggebern anfallen, die Hersteller oder Händler sind. Zur Festlegung des dem Leasingverhältnis zugrunde liegenden Zinssatzes werden die anfänglichen direkten Kosten immer in die Nettoinvestition in das Leasingverhältnis einbezogen, sodass sie nicht gesondert hinzugerechnet werden müssen.
+
+Erstmalige Bewertung der Leasingzahlungen, die in die Nettoinvestition in das Leasingverhältnis einbezogen werden
+
+70 Am Bereitstellungsdatum umfassen die bei der Bewertung der Nettoinvestition in das Leasingverhältnis berücksichtigten Leasingzahlungen die nachstehend genannten, am Bereitstellungsdatum noch nicht vereinnahmten Zahlungen für das Recht auf Nutzung des zugrunde liegenden Vermögenswerts während der Laufzeit des Leasingverhältnisses:
+a) 
+
+feste Zahlungen (einschließlich der in Paragraph B42 beschriebenen de facto festen Zahlungen) abzüglich etwaiger zu zahlender Leasinganreize,
+b) 
+
+variable Leasingzahlungen, die an einen Index oder (Zins-)Satz gekoppelt sind und deren erstmalige Bewertung anhand des am Bereitstellungsdatum gültigen Indexes oder (Zins-)Satzes vorgenommen wird,
+c) 
+
+alle etwaigen Restwertgarantien, die der Leasinggeber vom Leasingnehmer, einer mit dem Leasingnehmer verbundenen Partei oder einem nicht mit dem Leasinggeber verbundenen Dritten, der bzw. die finanziell zur Erfüllung der mit der Garantie verbundenen Verpflichtungen in der Lage ist, erhält,
+d) 
+
+den Ausübungspreis einer Kaufoption, wenn der Leasingnehmer hinreichend sicher ist, dass er diese ausüben wird (was anhand der in Paragraph B37 beschriebenen Faktoren beurteilt wird), und
+e) 
+
+Strafzahlungen für die Kündigung des Leasingverhältnisses, wenn in der Laufzeit berücksichtigt ist, dass der Leasingnehmer eine Kündigungsoption wahrnehmen wird.
+
+Leasinggeber, die Hersteller oder Händler sind
+
+71 Leasinggeber, die Hersteller oder Händler sind, haben am Bereitstellungsdatum für jedes ihrer Finanzierungsleasingverhältnisse Folgendes zu erfassen:
+a) 
+
+den Umsatzerlös, d. h. den beizulegenden Zeitwert des zugrunde liegenden Vermögenswerts oder, wenn dieser niedriger ist, den dem Leasinggeber zufallenden Barwert der Leasingzahlungen, zu einem marktüblichen Satz abgezinst,
+b) 
+
+die Umsatzkosten, d. h. die Anschaffungs- oder Herstellungskosten bzw., falls abweichend, den Buchwert des zugrunde liegenden Vermögenswerts abzüglich des Barwerts des nicht garantierten Restwerts und
+c) 
+
+Veräußerungsgewinne oder -verluste (d. h. die Differenz zwischen dem Umsatzerlös und den Umsatzkosten) gemäß ihrer Methode zur Erfassung direkter Verkaufsgeschäfte, für die IFRS 15 gilt. Leasinggeber, bei denen es sich um Hersteller oder Händler handelt, müssen Veräußerungsgewinne oder -verluste aus Finanzierungsleasingverhältnissen am Bereitstellungsdatum erfassen, unabhängig davon, ob der zugrunde liegende Vermögenswert gemäß IFRS 15 übertragen wird oder nicht.
+
+72 Hersteller oder Händler lassen ihren Kunden häufig die Wahl zwischen Erwerb oder Leasing eines Vermögenswerts. Ist der Leasinggeber bei einem Finanzierungsleasingverhältnis ein Hersteller oder Händler, entsteht ein Gewinn oder Verlust, der dem Gewinn oder Verlust aus dem direkten Verkauf des zugrunde liegenden Vermögenswerts zu normalen Verkaufspreisen entspricht und in dem alle anwendbaren Mengen- oder Handelsrabatte berücksichtigt sind.
+
+73 Leasinggeber, die Hersteller oder Händler sind, bieten zuweilen künstlich niedrige Zinssätze an, um das Interesse von Kunden zu wecken. Die Anwendung eines solchen Zinssatzes hätte zur Folge, dass der Leasinggeber am Bereitstellungsdatum einen übermäßig hohen Anteil des Gesamtertrags aus der Transaktion erfasst. Bietet ein Hersteller oder Händler als Leasinggeber künstlich niedrige Zinsen an, hat er den Veräußerungsgewinn auf den Betrag zu beschränken, der bei einem marktüblichen Zinssatz erzielt würde.
+
+74 Kosten, die dem Hersteller oder Händler als Leasinggeber bei der Erlangung eines Finanzierungsleasingverhältnisses am Bereitstellungsdatum entstehen, sind als Aufwand zu erfassen, da sie in erster Linie durch Bemühungen zur Erzielung seines Veräußerungsgewinns verursacht werden. Kosten, die Herstellern oder Händlern als Leasinggebern bei der Erlangung eines Finanzierungsleasingverhältnisses entstehen, fallen nicht unter die Definition anfänglicher direkter Kosten und bleiben somit bei der Nettoinvestition in das Leasingverhältnis unberücksichtigt.
+
+Folgebewertung
+
+75   Der Leasinggeber hat seine Finanzerträge über die Laufzeit des Leasingverhältnisses nach einem Muster zu erfassen, dem eine konstante periodische Verzinsung seiner Nettoinvestition in das Leasingverhältnis zugrunde liegt.
+
+76 Ziel des Leasinggebers ist es, die Finanzerträge auf einer planmäßigen und rationalen Grundlage über die Laufzeit des Leasingverhältnisses zu verteilen. Dabei hat er die auf die Berichtsperiode bezogenen Leasingzahlungen mit der Bruttoinvestition in das Leasingverhältnis zu verrechnen, um sowohl den Kapitalbetrag als auch den nicht realisierten Finanzertrag zu reduzieren.
+
+77 Auf die Nettoinvestition in das Leasingverhältnis hat der Leasinggeber die Ausbuchungs- und Wertminderungsvorschriften von IFRS 9 anzuwenden. Die bei der Berechnung der Bruttoinvestition in das Leasingverhältnis angesetzten geschätzten nicht garantierten Restwerte hat der Leasinggeber in regelmäßigen Abständen zu überprüfen. Bei einer Minderung des geschätzten nicht garantierten Restwerts hat der Leasinggeber die Ertragsverteilung über die Laufzeit des Leasingverhältnisses anzupassen und jede Minderung bereits abgegrenzter Beträge umgehend zu erfassen.
+
+78 Stuft der Leasinggeber einen Vermögenswert im Rahmen eines Finanzierungsleasingverhältnisses gemäß IFRS 5 Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche als zur Veräußerung gehalten ein (oder nimmt ihn in eine als zur Veräußerung gehaltene Veräußerungsgruppe auf), so hat er diesen Vermögenswert auch nach IFRS 5 zu bilanzieren.
+
+Änderung von Leasingverhältnissen
+
+79 Die Änderung eines Finanzierungsleasingverhältnisses ist vom Leasinggeber als gesondertes Leasingverhältnis zu bilanzieren, wenn beide folgenden Voraussetzungen erfüllt sind:
+a) 
+
+durch die Änderung wird ein zusätzliches Recht auf Nutzung eines oder mehrerer zugrunde liegender Vermögenswerte eingeräumt, wodurch sich der Umfang des Leasingverhältnisses erhöht, und
+b) 
+
+die zu zahlende Gegenleistung erhöht sich um einen Betrag, der dem Einzelpreis der Umfangserhöhung sowie allen angezeigten Anpassungen dieses Einzelpreises aufgrund der Umstände des betreffenden Vertrags entspricht.
+
+80 Bilanziert der Leasinggeber eine Änderung eines Finanzierungsleasingverhältnisses nicht als gesondertes Leasingverhältnis, so hat er
+a) 
+
+in Fällen, in denen das Leasingverhältnis, wenn die Änderung schon zu Beginn des Leasingverhältnisses wirksam gewesen wäre, als Operating-Leasingverhältnis eingestuft worden wäre
+i) 
+
+die Änderung des Leasingverhältnisses ab dem effektiven Zeitpunkt der Änderung als neues Leasingverhältnis zu bilanzieren und
+ii) 
+
+den Buchwert des zugrunde liegenden Vermögenswerts unmittelbar vor dem effektiven Zeitpunkt der Änderung als Nettoinvestition in das Leasingverhältnis anzusetzen,
+b) 
+
+in allen anderen Fällen die Vorschriften von IFRS 9 anzuwenden.
+
+Operating-Leasingverhältnisse
+
+Ansatz und Bewertung
+
+81   Leasingzahlungen aus Operating-Leasingverhältnissen hat der Leasinggeber entweder linear oder auf einer anderen systematischen Basis als Ertrag zu erfassen. Eine andere systematische Basis ist dann heranzuziehen, wenn sie das Muster, nach dem der aus der Verwendung des zugrunde liegenden Vermögenswerts gezogene Nutzen abnimmt, besser abbildet.
+
+82 Kosten, einschließlich planmäßige Abschreibungen, die bei der Erzielung der Leasingerträge anfallen, hat der Leasinggeber als Aufwand zu erfassen.
+
+83 Anfängliche direkte Kosten, die bei der Erlangung eines Operating-Leasingverhältnisses entstehen, hat der Leasinggeber dem Buchwert des zugrunde liegenden Vermögenswerts hinzuzurechnen und über die Laufzeit des Leasingverhältnisses auf der gleichen Basis als Aufwand zu erfassen wie die Leasingerträge.
+
+84 Bei einem Operating-Leasingverhältnis müssen die Abschreibungsgrundsätze für abschreibungsfähige zugrunde liegende Vermögenswerte mit den normalen Abschreibungsgrundsätzen des Leasinggebers für ähnliche Vermögenswerte im Einklang stehen. Der Leasinggeber hat die Abschreibung nach IAS 16 und IAS 38 zu berechnen.
+
+85 Zur Bestimmung, ob ein einem Operating-Leasingverhältnis zugrunde liegender Vermögenswert wertgemindert ist, und zur Bilanzierung jedes festgestellten Wertminderungsaufwands hat der Leasinggeber IAS 36 anzuwenden.
+
+86 Ein Leasinggeber, der Hersteller oder Händler ist, setzt beim Abschluss eines Operating-Leasingverhältnisses keinen Veräußerungsgewinn an, weil ein solches Leasingverhältnis nicht mit einem Verkauf gleichzusetzen ist.
+
+Änderung von Leasingverhältnissen
+
+87 Die Änderung eines Operating-Leasingverhältnisses bilanziert der Leasinggeber ab dem effektiven Zeitpunkt der Änderung als neues Leasingverhältnis und betrachtet dabei alle im Rahmen des ursprünglichen Leasingverhältnisses im Voraus geleisteten oder abgegrenzten Leasingzahlungen als Teil der Leasingzahlungen des neuen Leasingverhältnisses.
+
+Darstellung
+
+88 Die einem Operating-Leasingverhältnis zugrunde liegenden Vermögenswerte hat der Leasinggeber in seiner Bilanz ihrer Art entsprechend darzustellen.
+
+Angaben
+
+89   Die Angaben, die der Leasinggeber im Anhang bereitstellt, sollen zusammen mit den in der Bilanz, in der Gewinn- und Verlustrechnung und in der Kapitalflussrechnung enthaltenen Angaben den Abschlussadressaten die Beurteilung ermöglichen, wie Leasingverhältnisse sich auf die Vermögens-, Finanz- und Ertragslage und die Zahlungsströme des Leasinggebers auswirken. Die Vorschriften, mit denen dieses Ziel erreicht werden soll, sind in den Paragraphen 90–97 enthalten.
+
+90 Der Leasinggeber hat für die Berichtsperiode die folgenden Beträge anzugeben:
+a) 
+
+bei Finanzierungsleasingverhältnissen:
+i) 
+
+Veräußerungsgewinn oder -verlust,
+ii) 
+
+Finanzertrag auf die Nettoinvestition in das Leasingverhältnis und
+iii) 
+
+die nicht in die Bewertung der Nettoinvestition in das Leasingverhältnis einbezogenen Erträge aus variablen Leasingzahlungen,
+b) 
+
+bei Operating-Leasingverhältnissen die Leasingerträge, wobei die Erträge aus variablen Leasingzahlungen, die nicht von einem Index oder (Zins-)Satz abhängen, gesondert anzugeben sind.
+
+91 Die in Paragraph 90 genannten Angaben sind in Tabellenform vorzulegen, es sei denn, ein anderes Format ist besser geeignet.
+
+92 Daneben hat der Leasinggeber zur Erreichung des in Paragraph 89 genannten Angabeziels zusätzliche qualitative und quantitative Angaben zu seinen Leasingaktivitäten vorzulegen. Diese zusätzlichen Angaben können unter anderem Informationen umfassen, die den Abschlussadressaten die Beurteilung der folgenden Elemente erleichtern:
+a) 
+
+Art der Leasingaktivitäten des Leasinggebers und
+b) 
+
+Umgang des Leasinggebers mit den Risiken aus allen etwaigen Rechten, die er an den zugrunde liegenden Vermögenswerten behält; insbesondere hat der Leasinggeber seine Risikomanagementstrategie für seine verbleibenden Rechte an zugrunde liegenden Vermögenswerten darzulegen einschließlich aller Maßnahmen, mit denen er diese Risiken mindert; hierzu zählen beispielsweise Rückkaufvereinbarungen, Restwertgarantien oder variable Leasingzahlungen in Fällen, in denen vereinbarte Obergrenzen überschritten werden.
+
+Finanzierungsleasingverhältnisse
+
+93 Der Leasinggeber hat zu erheblichen Änderungen des Buchwerts der Nettoinvestition in das Finanzierungsleasingverhältnis qualitative und quantitative Angaben zu machen.
+
+94 Für die Leasingforderungen hat der Leasinggeber eine Fälligkeitsanalyse vorzulegen, aus der mindestens für jedes der ersten fünf Jahre die nicht diskontierten jährlich fälligen Leasingzahlungen und für die verbleibenden Jahre die Summe der Beträge hervorgehen. Die nicht abgezinsten Leasingzahlungen sind auf die Nettoinvestition in das Leasingverhältnis überzuleiten. Diese Überleitung soll den nicht realisierten Finanzertrag in Bezug auf die Leasingforderungen sowie jegliche Reduktion des nicht garantierten Restwerts sichtbar machen.
+
+Operating-Leasingverhältnisse
+
+95 Bei Operating-Leasingverhältnissen für Sachanlagen gelten für den Leasinggeber die Angabevorschriften von IAS 16. Bei der Anwendung der Angabevorschriften von IAS 16 hat der Leasinggeber die Angaben für die einzelnen Gruppen von Sachanlagen danach aufzuschlüsseln, ob im jeweiligen Fall ein Operating-Leasingverhältnis besteht oder nicht. Folglich hat der Leasinggeber die in IAS 16 verlangten Angaben getrennt vorzulegen, d. h. einerseits für Vermögenswerte, für die ein Operating-Leasingverhältnis besteht (nach Gruppen zugrunde liegender Vermögenswerte), und andererseits für Vermögenswerte, die der Leasinggeber selbst hält und nutzt.
+
+96 Auf Vermögenswerte, für die ein Operating-Leasingverhältnis besteht, hat der Leasinggeber die Angabevorschriften von IAS 36, IAS 38, IAS 40 und IAS 41 anzuwenden.
+
+97 Für die Leasingzahlungen hat der Leasinggeber eine Fälligkeitsanalyse vorzulegen, aus der mindestens für jedes der ersten fünf Jahre die nicht diskontierten jährlich fälligen Leasingzahlungen und für die verbleibenden Jahre die Summe der Beträge hervorgehen.
+
+SALE-AND-LEASEBACK-TRANSAKTIONEN
+
+98 Überträgt ein Unternehmen (Verkäufer/Leasingnehmer) einen Vermögenswert auf ein anderes Unternehmen (Käufer/Leasinggeber) und least diesen Vermögenswert dann vom Käufer/Leasinggeber zurück, haben sowohl der Verkäufer/Leasingnehmer als auch der Käufer/Leasinggeber den Übertragungsvertrag und das Leasingverhältnis nach den Paragraphen 99–103 zu bilanzieren.
+
+Bestimmung, ob die Übertragung des Vermögenswerts einen Verkauf darstellt
+
+99 Um zu bestimmen, ob die Übertragung eines Vermögenswerts als Verkauf zu bilanzieren ist, hat das Unternehmen die Vorschriften von IFRS 15 anzuwenden, anhand deren bestimmt wird, wann eine Leistungsverpflichtung als erfüllt gilt.
+
+Die Übertragung des Vermögenswerts stellt einen Verkauf dar
+
+100 Wenn die Übertragung eines Vermögenswerts durch den Verkäufer/Leasingnehmer die in IFRS 15 festgelegten Vorschriften für die Bilanzierung eines Vermögenswerts als Verkauf erfüllt,
+a) 
+
+hat der Verkäufer/Leasingnehmer das mit dem Rückleasing verbundene Nutzungsrecht mit dem Teil des früheren Buchwerts anzusetzen, der sich auf das vom Verkäufer/Leasingnehmer zurückbehaltene Nutzungsrecht bezieht; dementsprechend hat der Verkäufer/Leasingnehmer etwaige Gewinne oder Verluste nur insoweit zu erfassen, als sie sich auf die auf den Käufer/Leasinggeber übertragenen Rechte beziehen,
+b) 
+
+hat der Käufer/Leasinggeber den Erwerb des Vermögenswerts nach den geltenden Standards und das Leasingverhältnis nach den im vorliegenden Standard festgelegten Bilanzierungsvorschriften für Leasinggeber zu bilanzieren.
+
+101 Stimmen der beizulegende Zeitwert der beim Verkauf eines Vermögenswerts vereinnahmten Gegenleistung und der beizulegende Zeitwert des Vermögenswerts nicht überein oder entsprechen die Leasingzahlungen nicht den marktüblichen Sätzen, hat das Unternehmen zur Bewertung der Verkaufserlöse zum beizulegenden Zeitwert die folgenden Anpassungen vorzunehmen:
+a) 
+
+bei schlechteren Konditionen als den marktüblichen ist die Differenz als Vorauszahlung auf die Leasingzahlungen zu bilanzieren und
+b) 
+
+bei besseren Konditionen als den marktüblichen ist die Differenz als zusätzliche Finanzierung des Käufers/Leasinggebers an den Verkäufer/Leasingnehmer zu bilanzieren.
+
+102 Für jede potenzielle Anpassung gemäß Paragraph 101 hat das Unternehmen einen der beiden folgenden Werte heranzuziehen, je nachdem welcher von beiden sich leichter bestimmen lässt:
+a) 
+
+die Differenz zwischen dem beizulegenden Zeitwert der beim Verkauf vereinnahmten Gegenleistung und dem beizulegenden Zeitwert des Vermögenswerts oder
+b) 
+
+die Differenz zwischen dem Barwert der vertraglichen Leasingzahlungen und dem Barwert marktüblicher Leasingzahlungen.
+
+▼M2
+
+102A Nach dem Bereitstellungsdatum hat der Verkäufer/Leasingnehmer die Paragraphen 29–35 auf das Nutzungsrecht aus dem Rückleasing und die Paragraphen 36–46 auf die Leasingverbindlichkeit aus dem Rückleasing anzuwenden. Bei der Anwendung der Paragraphen 36–46 hat der Verkäufer/Leasingnehmer „Leasingzahlungen“ oder „geänderte Leasingzahlungen“ so zu bestimmen, dass der Verkäufer/Leasingnehmer keinen Gewinn oder Verlust erfasst, der sich aus dem vom Verkäufer/Leasingnehmer zurückbehaltenen Nutzungsrecht ergibt. Die Anwendung der Vorschriften dieses Paragraphen hindert den Verkäufer/Leasingnehmer nicht daran, Gewinne oder Verluste, die sich aus der teilweisen oder vollständigen Beendigung eines Leasingverhältnisses ergeben, wie in Paragraph 46(a) verlangt, erfolgswirksam zu erfassen.
+
+▼B
+
+Die Übertragung des Vermögenswerts stellt keinen Verkauf dar
+
+103 Wenn die Übertragung eines Vermögenswerts durch den Verkäufer/Leasingnehmer nicht die in IFRS 15 festgelegten Vorschriften für die Bilanzierung eines Vermögenswerts als Verkauf erfüllt,
+a) 
+
+hat der Verkäufer/Leasingnehmer den übertragenen Vermögenswert weiterhin zu erfassen und eine finanzielle Verbindlichkeit in Höhe der Erlöse aus der Übertragung zu erfassen; die finanzielle Verbindlichkeit ist gemäß IFRS 9 zu bilanzieren,
+b) 
+
+darf der Käufer/Leasinggeber den übertragenen Vermögenswert nicht erfassen und muss einen finanziellen Vermögenswert in Höhe der Erlöse aus der Übertragung erfassen; der finanzielle Vermögenswert ist gemäß IFRS 9 zu bilanzieren.
+
+DURCH DIE REFORM DER REFERENZZINSÄTZE BEDINGTE VORÜBERGEHENDE AUSNAHME
+
+104 Auf alle Änderungen eines Leasingverhältnisses, die infolge der Reform der Referenzzinssätze eine Änderung der Basis für die Ermittlung künftiger Leasingzahlungen bewirken (siehe die Paragraphen 5.4.6 und 5.4.8 von IFRS 9), hat der Leasingnehmer die Paragraphen 105–106 anzuwenden. Diese Paragraphen gelten ausschließlich für derartige Änderungen eines Leasingverhältnisses. In diesem Zusammenhang bezeichnet der Begriff „Reform der Referenzzinssätze“ die marktweite Reform von Referenzzinssätzen wie in Paragraph 6.8.2 von IFRS 9 beschrieben.
+
+105 Um eine infolge der Reform der Referenzzinssätze erforderliche Änderung eines Leasingverhältnisses zu bilanzieren, hat der Leasingnehmer behelfsweise Paragraph 42 anzuwenden. Dieser praktische Behelf gilt nur für derartige Änderungen. In diesem Zusammenhang wird eine Änderung des Leasingverhältnisses nur dann als infolge der Reform der Referenzzinssätze erforderlich betrachtet, wenn die beiden folgenden Bedingungen erfüllt sind:
+a) 
+
+die Notwendigkeit der Änderung ergibt sich unmittelbar aus der Reform der Referenzzinssätze und
+b) 
+
+die neue Basis für die Ermittlung der Leasingzahlungen ist mit der vorherigen (d. h. der Änderung unmittelbar vorausgehenden) Basis wirtschaftlich gleichwertig.
+
+106 Werden neben den infolge der Reform der Referenzzinssätze erforderlichen Änderungen von Leasingverhältnissen zusätzliche Änderungen an den Leasingverhältnissen vorgenommen, so hat der Leasingnehmer die anwendbaren Vorschriften dieses Standards anzuwenden, um alle Änderungen von Leasingverhältnissen, einschließlich der infolge der Reform der Referenzzinssätze erforderlichen, gleichzeitig zu bilanzieren.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des Standards.
+
+Bereitstellungsdatum
+	
+
+Datum, zu dem ein Leasinggeber einem Leasingnehmer einen zugrunde liegenden Vermögenswert zur Nutzung bereitstellt.
+
+Wirtschaftliche Nutzungsdauer
+	
+
+Entweder der Zeitraum, über den ein Vermögenswert voraussichtlich für einen oder mehrere Nutzer wirtschaftlich nutzbar ist, oder die Anzahl an Produktions- oder ähnlichen Einheiten, die ein oder mehrere Nutzer voraussichtlich mit einem Vermögenswert erzielen können.
+
+Effektiver Zeitpunkt der Änderung
+	
+
+Datum, zu dem beide Seiten eine Änderung des Leasingverhältnisses vereinbaren.
+
+Beizulegender Zeitwert
+	
+
+Zwecks Anwendung der in diesem Standard enthaltenen Bilanzierungsvorschriften für Leasinggeber der Betrag, zu dem zwischen sachverständigen, vertragswilligen und voneinander unabhängigen Geschäftspartnern ein Vermögenswert getauscht oder eine Schuld beglichen werden könnte.
+
+Finanzierungsleasingsverhältnis
+	
+
+Ein Leasingverhältnis, bei dem im Wesentlichen alle mit dem Eigentum an einem zugrunde liegenden Vermögenswert verbundenen Risiken und Chancen übertragen werden.
+
+Feste Zahlungen
+	
+
+Zahlungen, die ein Leasingnehmer an einen Leasinggeber leistet, um über die Laufzeit des Leasingverhältnisses zur Nutzung eines zugrunde liegenden Vermögenswerts berechtigt zu sein, ohne variable Leasingzahlungen.
+
+Bruttoinvestition in das Leasingverhältnis
+	
+
+Die Summe aus
+a) 
+
+den Leasingzahlungen, die dem Leasinggeber im Rahmen eines Finanzierungsleasingverhältnisses zustehen, und
+b) 
+
+etwaigen nicht garantierten Restwerten, die dem Leasinggeber zufallen.
+
+Beginn des Leasingverhältnisses
+	
+
+Das Datum der Leasingvereinbarung oder das Datum, an dem sich die Vertragsparteien zur Einhaltung der wesentlichen Bedingungen der Leasingvereinbarung verpflichten, je nachdem, welches von beiden das frühere ist.
+
+Anfängliche direkte Kosten
+	
+
+Zusätzliche Kosten, die bei der Erlangung eines Leasingverhältnisses entstehen und ohne dessen Abschluss nicht angefallen wären, mit Ausnahme der Kosten, die einem Leasinggeber, der Hersteller oder Händler ist, in Verbindung mit einem Finanzierungsleasingsverhältnis entstehen.
+
+Dem Leasingverhältnis zugrunde liegender Zinssatz
+	
+
+Der Zinssatz, bei dem der Barwert a) der Leasingzahlungen und b) des nicht garantierten Restwerts der Summe aus i) dem beizulegenden Zeitwert des zugrunde liegenden Vermögenswerts und ii) allen etwaigen anfänglichen direkten Kosten des Leasinggebers entspricht.
+
+Leasingverhältnis
+	
+
+Ein Vertrag oder Teil eines Vertrags, der im Austausch für eine Gegenleistung für einen bestimmten Zeitraum zur Nutzung eines Vermögenswerts (des zugrunde liegenden Vermögenswerts) berechtigt.
+
+Leasinganreize
+	
+
+Zahlungen, die ein Leasinggeber im Zusammenhang mit einem Leasingverhältnis an einen Leasingnehmer leistet, oder die Rückerstattung oder Übernahme von Kosten des Leasingnehmers durch den Leasinggeber.
+
+Änderung eines Leasingverhältnisses
+	
+
+Eine in den ursprünglichen Bedingungen nicht vorgesehene Änderung des Umfangs eines Leasingverhältnisses oder seiner Gegenleistung (wenn beispielsweise ein zusätzliches Recht auf Nutzung eines oder mehrerer zugrunde liegender Vermögenswerte eingeräumt oder ein bestehendes Recht gekündigt oder die vertragliche Laufzeit des Leasingverhältnisses verlängert oder verkürzt wird).
+
+Leasingzahlungen
+	
+
+Zahlungen, die ein Leasingnehmer an einen Leasinggeber leistet, um das Recht zu erhalten, einen zugrunde liegenden Vermögenswert über die Laufzeit des Leasingverhältnisses zu nutzen; hierzu zählen:
+a) 
+
+feste Zahlungen (einschließlich de facto fester Zahlungen) ohne Leasinganreize,
+b) 
+
+variable Leasingzahlungen, die an einen Index oder (Zins-)Satz gekoppelt sind,
+c) 
+
+der Ausübungspreis einer Kaufoption, wenn der Leasingnehmer hinreichend sicher ist, dass er diese wahrnehmen wird, und
+d) 
+
+Strafzahlungen für die Kündigung des Leasingverhältnisses, wenn in der Laufzeit berücksichtigt ist, dass der Leasingnehmer eine Kündigungsoption wahrnehmen wird.
+
+Für den Leasingnehmer schließen Leasingzahlungen auch Beträge ein, die er im Rahmen von Restwertgarantien voraussichtlich wird entrichten müssen; nicht als Leasingzahlungen zu betrachten sind Zahlungen für Nichtleasingkomponenten eines Vertrags, es sei denn, der Leasingnehmer entscheidet sich dafür, diese mit einer Leasingkomponente zu kombinieren und beide als eine einzige Leasingkomponente zu bilanzieren.
+
+Für den Leasinggeber schließen Leasingzahlungen auch alle etwaigen Restwertgarantien ein, die er vom Leasingnehmer, einer mit dem Leasingnehmer verbundenen Partei oder einem nicht mit dem Leasinggeber verbundenen Dritten, der bzw. die finanziell zur Erfüllung der mit der Garantie verbundenen Verpflichtungen in der Lage ist, erhält; nicht als Leasingzahlungen zu betrachten sind Zahlungen für Nichtleasingkomponenten.
+
+Laufzeit des Leasingverhältnisses
+	
+
+Die unkündbare Grundlaufzeit, in der ein Leasingnehmer zur Nutzung eines zugrunde liegenden Vermögenswerts berechtigt ist, sowie
+a) 
+
+die Zeiträume, die sich aus einer Option zur Verlängerung des Leasingverhältnisses ergeben, sofern der Leasingnehmer hinreichend sicher ist, dass er diese Option ausüben wird, und
+b) 
+
+die Zeiträume, die sich aus einer Option zur Kündigung des Leasingverhältnisses ergeben, sofern der Leasingnehmer hinreichend sicher ist, dass er diese Option nicht ausüben wird.
+
+Leasingnehmer
+	
+
+Ein Unternehmen, das im Austausch für eine Gegenleistung das Recht erhält, einen zugrunde liegenden Vermögenswert für einen bestimmten Zeitraum zu nutzen.
+
+Grenzfremdkapitalzinssatz des Leasingnehmers
+	
+
+Der Zinssatz, den ein Leasingnehmer zahlen müsste, um für eine ähnliche Laufzeit und mit einer ähnlichen Sicherheit das nötige Fremdkapital aufzunehmen, um in einem ähnlichen wirtschaftlichen Umfeld einen Vermögenswert zu erwerben, der ihm ein vergleichbares Nutzungsrecht bietet.
+
+Leasinggeber
+	
+
+Ein Unternehmen, das im Austausch für eine Gegenleistung Recht einräumt, einen zugrunde liegenden Vermögenswert für einen bestimmten Zeitraum zu nutzen.
+
+Nettoinvestition in das Leasingverhältnis
+	
+
+Die Bruttoinvestition in ein Leasingverhältnis, abgezinst zu dem dem Leasingverhältnis zugrunde liegenden Zinssatz.
+
+Operating-Leasingverhältnis
+	
+
+Ein Leasingverhältnis, bei dem nicht im Wesentlichen alle mit dem Eigentum an einem zugrunde liegenden Vermögenswert verbundenen Risiken und Chancen übertragen werden.
+
+Leasingzahlungen für optionale Zeiträume
+	
+
+Zahlungen, die ein Leasingnehmer an einen Leasinggeber leisten muss, um in den unter eine Verlängerungs- oder Kündigungsoption fallenden, nicht in die Laufzeit des Leasingverhältnisses eingeschlossenen Zeiten zur Nutzung eines zugrunde liegenden Vermögenswerts berechtigt zu sein.
+
+Verwendungszeitraum
+	
+
+Der gesamte Zeitraum, in dem ein Vermögenswert zur Erfüllung eines Vertrags mit einem Kunden genutzt wird (einschließlich etwaiger nicht aufeinanderfolgender Zeiträume).
+
+Restwertgarantie
+	
+
+Eine Garantie, die eine nicht mit dem Leasinggeber verbundene Partei gegenüber dem Leasinggeber abgibt, wonach der Wert (oder ein Teil des Werts) des zugrunde liegenden Vermögenswerts am Ende des Leasingverhältnisses eine bestimmte Mindesthöhe erreichen wird.
+
+Nutzungsrecht
+	
+
+Ein Vermögenswert, der das Recht eines Leasingnehmers auf Nutzung eines zugrunde liegenden Vermögenswerts während der Laufzeit des Leasingverhältnisses darstellt.
+
+Kurzfristiges Leasingverhältnis
+	
+
+Ein Leasingverhältnis, dessen Laufzeit am Bereitstellungsdatum maximal zwölf Monate beträgt; ein Leasingverhältnis mit einer Kaufoption ist kein kurzfristiges Leasingverhältnis.
+
+Unterleasingverhältnis
+	
+
+Eine Transaktion, bei der ein zugrunde liegender Vermögenswert von einem Leasingnehmer („Unterleasinggeber“) an einen Dritten weitervermietet wird, das Leasingverhältnis („Hauptleasingverhältnis“) zwischen Hauptleasinggeber und Hauptleasingnehmer aber weiter wirksam bleibt.
+
+Zugrunde liegender Vermögenswert
+	
+
+Ein Vermögenswert, der Gegenstand eines Leasingverhältnisses ist, bei dem ein Leasinggeber einem Leasingnehmer das Recht auf Nutzung dieses Vermögenswerts eingeräumt hat.
+
+Nicht realisierter Finanzertrag
+	
+
+Die Differenz zwischen
+a) 
+
+der Bruttoinvestition in das Leasingverhältnis und
+b) 
+
+der Nettoinvestition in das Leasingverhältnis.
+
+Nicht garantierter Restwert
+	
+
+Der Teil des Restwerts des zugrunde liegenden Vermögenswerts, dessen Realisierung durch den Leasinggeber nicht gesichert ist oder nur durch eine mit dem Leasinggeber verbundene Partei garantiert wird.
+
+Variable Leasingzahlungen
+	
+
+Der Teil der Zahlungen, die ein Leasingnehmer an einen Leasinggeber leistet, um einen zugrunde liegenden Vermögenswert über die Laufzeit des Leasingverhältnisses nutzen zu dürfen, der variiert, weil sich nach dem Bereitstellungsdatum Fakten und Umstände geändert haben, die nicht allein an den Zeitablauf geknüpft sind.
+
+In anderen Standards definierte und im vorliegenden Standard mit derselben Bedeutung verwendete Begriffe
+
+Vertrag
+	
+
+Eine Vereinbarung zwischen zwei oder mehr Parteien, die durchsetzbare Rechte und Pflichten begründet.
+
+Nutzungsdauer
+	
+
+Der Zeitraum, über den ein Vermögenswert voraussichtlich von einem Unternehmen nutzbar ist, oder die voraussichtlich mit dem Vermögenswert im Unternehmen zu erzielende Anzahl an Produktionseinheiten oder ähnlichen Messgrößen.
+
+Anhang B
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des Standards. Er beschreibt die Anwendung der Paragraphen 1–103 und hat die gleiche bindende Kraft wie die anderen Teile des Standards.
+
+Anwendung auf Portfolios
+
+B1 Dieser Standard regelt die Bilanzierung einzelner Leasingverhältnisse. Behelfsweise kann ein Unternehmen diesen Standard jedoch auch auf ein Portfolio ähnlich ausgestalteter Leasingverhältnisse anwenden, wenn es nach vernünftigem Ermessen davon ausgehen kann, dass es keine wesentlichen Auswirkungen auf den Abschluss hat, ob es diesen Standard auf das Portfolio oder die einzelnen Leasingverhältnisse innerhalb dieses Portfolios anwendet. Bei der Bilanzierung eines Portfolios hat ein Unternehmen Schätzungen und Annahmen zugrunde zu legen, die die Größe und die Zusammensetzung des Portfolios widerspiegeln.
+
+Zusammenfassung von Verträgen
+
+B2 Bei der Anwendung dieses Standards hat ein Unternehmen zwei oder mehr Verträge, die gleichzeitig oder in geringem Zeitabstand mit ein und derselben Gegenpartei (oder dieser nahestehenden Unternehmen und Personen) geschlossen werden, zusammenzufassen und als einen einzigen Vertrag zu bilanzieren, wenn mindestens eines der folgenden Kriterien erfüllt ist:
+a) 
+
+die Verträge werden als Paket mit einem wirtschaftlichen Zweck ausgehandelt, dessen Sinn an die Gesamtheit der Verträge geknüpft ist,
+b) 
+
+die Höhe der in einem der Verträge zugesagten Gegenleistung hängt vom Preis oder von der Erfüllung des anderen Vertrags ab oder
+c) 
+
+die mit den Verträgen übertragenen Rechte auf Nutzung der zugrunde liegenden Vermögenswerte (oder einige der mit den Verträgen jeweils übertragenen Rechte auf Nutzung der zugrunde liegenden Vermögenswerte) stellen gemäß Paragraph B32 eine einzige Leasingkomponente dar.
+
+Freistellungen vom Ansatz: Leasingverhältnisse, bei denen der zugrunde liegende Vermögenswert von geringem Wert ist (Paragraphen 5–8)
+
+B3 Sofern nicht die in Paragraph B7 beschriebenen Umstände vorliegen, kann der Leasingnehmer nach diesem Standard Leasingverhältnisse, bei denen der zugrunde liegende Vermögenswert von geringem Wert ist, nach Paragraph 6 bilanzieren. Bei der Beurteilung des Werts eines zugrunde liegenden Vermögenswerts legt der Leasingnehmer ungeachtet des tatsächlichen Alters des geleasten Vermögenswerts dessen Neuwert zugrunde.
+
+B4 Ob ein zugrunde liegender Vermögenswert von geringem Wert ist, wird losgelöst von den jeweiligen Umständen beurteilt. Leasingverhältnisse über Vermögenswerte von geringem Wert können unabhängig davon, ob sie für den Leasingnehmer wesentlich sind, nach Paragraph 6 bilanziert werden. Die Größe und Art des Leasingnehmers sowie dessen Umstände sind für die Beurteilung nicht von Belang. Demzufolge müssen unterschiedliche Leasingnehmer bei der Beurteilung der Frage, ob ein bestimmter zugrunde liegender Vermögenswert von geringem Wert ist, zum selben Ergebnis gelangen.
+
+B5 Ein zugrunde liegender Vermögenswert kann nur als von geringem Wert eingestuft werden, wenn
+a) 
+
+der Leasingnehmer aus der Nutzung des zugrunde liegenden Vermögenswerts entweder gesondert oder zusammen mit anderen, für ihn jederzeit verfügbaren Ressourcen einen Nutzen ziehen kann und
+b) 
+
+der zugrunde liegende Vermögenswert weder in hohem Maße von anderen Vermögenswerten abhängig, noch mit diesen eng verbunden ist.
+
+B6 Ein Leasingverhältnis kann nicht als Leasingverhältnis über einen Vermögenswert von geringem Wert eingestuft werden, wenn der zugrunde liegende Vermögenswert von seiner Art her im Neuzustand gewöhnlich nicht von geringem Wert ist. So kommt beispielsweise ein geleastes Kraftfahrzeug nicht als zugrunde liegender Vermögenswert von geringem Wert in Frage, da ein Neuwagen gewöhnlich nicht von geringem Wert ist.
+
+B7 Wird ein Vermögenswert vom Leasingnehmer untervermietet oder beabsichtigt der Leasingnehmer diesen Vermögenswert unterzuvermieten, so kann das Hauptleasingverhältnis nicht als Leasingverhältnis über einen Vermögenswert von geringem Wert gelten.
+
+B8 Vermögenswerte von geringem Wert können beispielsweise Tablets, Computer, Telefone und kleinere Gegenstände der Büroausstattung sein.
+
+Identifizierung eines Leasingverhältnisses (Paragraphen 9–11)
+
+B9 Um zu beurteilen, ob mit einem Vertrag für einen bestimmten Zeitraum die Verfügungsgewalt über einen identifizierten Vermögenswert (siehe Paragraphen B13–B20) übertragen wird, beurteilt das Unternehmen, ob der Kunde während des gesamten Verwendungszeitraums sowohl
+a) 
+
+berechtigt ist, im Wesentlichen den gesamten wirtschaftlichen Nutzen aus der Verwendung des identifizierten Vermögenswerts zu ziehen (siehe Beschreibung in den Paragraphen B21–B23), als auch
+b) 
+
+berechtigt ist, über die Nutzung des identifizierten Vermögenswert zu entscheiden (siehe Beschreibung in den Paragraphen B24–B30).
+
+B10 Erlangt der Kunde die Verfügungsgewalt über einen identifizierten Vermögenswert nur während eines Teils der Vertragslaufzeit, so enthält der Vertrag nur für diesen Teil der Vertragslaufzeit ein Leasingverhältnis.
+
+B11 Ein Vertrag über den Erhalt von Gütern oder Dienstleistungen kann von einer gemeinschaftlichen Vereinbarung im Sinne von IFRS 11 Gemeinschaftliche Vereinbarungen oder in deren Namen geschlossen werden. In diesem Fall gilt die gemeinschaftliche Vereinbarung für diesen Vertrag als Kunde. Um zu beurteilen, ob ein solcher Vertrag ein Leasingverhältnis enthält, beurteilt das Unternehmen demnach, ob die gemeinschaftliche Vereinbarung während des gesamten Verwendungszeitraums die Verfügungsgewalt über den identifizierten Vermögenswert erlangt.
+
+B12 Ob ein Vertrag ein Leasingverhältnis enthält, hat das Unternehmen für jede einzelne potenzielle Leasingkomponente zu beurteilen. Paragraph B32 enthält Leitlinien zu einzelnen Leasingkomponenten.
+
+Identifizierter Vermögenswert
+
+B13 Gewöhnlich wird ein Vermögenswert dadurch identifiziert, dass er in einem Vertrag ausdrücklich spezifiziert wird. Ein Vermögenswert kann aber auch allein dadurch als identifiziert gelten, dass er dem Kunden zu einem bestimmten Zeitpunkt zur Nutzung zur Verfügung gestellt (und somit stillschweigend spezifiziert) wird.
+
+Substanzielle Substitutionsrechte
+
+B14 Selbst wenn ein Vermögenswert spezifiziert ist, ist ein Kunde nicht zur Nutzung eines identifizierten Vermögenswerts berechtigt, wenn der während des gesamten Verwendungszeitraums Lieferant das substanzielle Recht besitzt, den Vermögenswert zu ersetzen. Das Recht eines Lieferanten auf Substituierung eines Vermögenswerts gilt nur dann als substanziell, wenn die beiden folgenden Bedingungen erfüllt sind:
+a) 
+
+es ist dem Lieferanten während des gesamten Verwendungszeitraums ohne Weiteres möglich, einen Vermögenswert durch alternative Vermögenswerte zu ersetzen (das ist der Fall, wenn sich der Kunde einer Substituierung des Vermögenswerts seitens des Lieferanten nicht widersetzen kann und dem Lieferanten alternative Vermögenswerte jederzeit zur Verfügung stehen oder er sich diese innerhalb eines angemessenen Zeitraums beschaffen kann), und
+b) 
+
+dem Lieferanten entsteht aus der Ausübung seines Rechts auf Substituierung des Vermögenswerts ein wirtschaftlicher Nutzen (der wirtschaftliche Nutzen, der ihm durch die Substituierung des Vermögenswerts erwächst, überwiegt voraussichtlich die dadurch verursachten Kosten).
+
+B15 Hat der Lieferant nur zu oder nach einem bestimmten Zeitpunkt oder bei oder nach Eintreten eines bestimmten Ereignisses das Recht oder die Verpflichtung, den Vermögenswert zu ersetzen, gilt sein Substitutionsrecht nicht als substanziell, weil es ihm in diesem Fall nicht während des gesamten Verwendungszeitraums ohne Weiteres möglich ist, einen Vermögenswert durch alternative Vermögenswerte zu ersetzen.
+
+B16 Bei der Beurteilung der Frage, ob der Lieferant über ein substanzielles Substitutionsrecht verfügt, legt das Unternehmen die bei Vertragsbeginn bestehenden Fakten und Umstände zugrunde und berücksichtigt keine späteren Ereignisse, deren Eintreten bei Beginn des Vertragsverhältnisses unwahrscheinlich erscheinen. Beispiele für spätere Ereignisse, deren Eintreten bei Vertragsbeginn unwahrscheinlich erscheinen und die daher nicht in die Beurteilung einfließen dürfen, sind:
+a) 
+
+Einverständniserklärung eines künftigen Kunden, für die Nutzung des Vermögenswerts einen über dem Marktpreis liegenden Preis zu zahlen,
+b) 
+
+Einführung neuer Technologien, die bei Beginn des Vertrags noch unzureichend entwickelt waren,
+c) 
+
+wesentliche Differenz zwischen der Nutzung des Vermögenswerts durch den Kunden bzw. der Leistung des Vermögenswerts und der bei Vertragsbeginn erwarteten Nutzung bzw. Leistung und
+d) 
+
+wesentliche Differenz zwischen dem Marktpreis des Vermögenswerts während des Verwendungszeitraums und dem bei Vertragsbeginn erwarteten Marktpreis.
+
+B17 Befindet sich der Vermögenswert beim Kunden oder bei Dritten, sind die mit der Substituierung verbundenen Kosten gewöhnlich höher als wenn er sich beim Lieferanten befindet. Daher ist es in diesen Fällen wahrscheinlicher, dass sie den mit der Substituierung des Vermögenswerts verbundenen Nutzen übersteigen.
+
+B18 Hat der Lieferant das Recht oder die Verpflichtung, den Vermögenswert im Rahmen der Reparatur und Instandhaltung zu ersetzen, wenn dieser nicht ordnungsgemäß funktioniert oder eine technische Nachrüstung verfügbar wird, so schränkt dies nicht das Recht des Kunden auf Nutzung eines identifizierten Vermögenswerts ein.
+
+B19 Ist für den Kunden nicht unmittelbar erkennbar, ob der Lieferant über ein substanzielles Substitutionsrecht verfügt, hat er davon auszugehen, dass das Substitutionsrecht nicht substanziell ist.
+
+Teile von Vermögenswerten
+
+B20 Ein Kapazitätsanteil eines Vermögenswerts gilt als identifizierter Vermögenswert, wenn er physisch abgrenzbar ist (beispielsweise ein Geschoss eines Gebäudes). Ein Kapazitätsanteil oder ein anderer Bestandteil eines Vermögenswerts, der nicht physisch abgrenzbar ist, (beispielsweise ein Kapazitätsanteil eines Glasfaserkabels) gilt nicht als identifizierter Vermögenswert, sofern er nicht den wesentlichen Kapazitätsanteil des Vermögenswerts darstellt und somit dem Kunden das Recht verleiht, im Wesentlichen den gesamten wirtschaftlichen Nutzen aus der Verwendung des Vermögenswerts zu ziehen.
+
+Das Recht, den wirtschaftlichen Nutzen aus einer Verwendung zu ziehen
+
+B21 Ein Kunde hat die Verfügungsgewalt über einen identifizierten Vermögenswert, wenn er berechtigt ist, während des gesamten Verwendungszeitraums im Wesentlichen den gesamten wirtschaftlichen Nutzen aus der Verwendung des Vermögenswerts zu ziehen (beispielsweise muss er während dieses Zeitraums den Vermögenswert exklusiv nutzen dürfen). Ein Kunde kann auf vielfältige Weise, direkt sowie indirekt wirtschaftlichen Nutzen aus der Verwendung eines Vermögenswerts ziehen, beispielsweise indem er diesen selbst nutzt, besitzt oder untervermietet. Zum wirtschaftlichen Nutzen aus der Verwendung eines Vermögenswerts zählen dessen Produktionsergebnis und Nebenprodukte (einschließlich der möglicherweise damit erzielten Zahlungsströme) sowie anderer wirtschaftlicher Nutzen, der bei einem Geschäft mit einem Dritten aus der Verwendung des Vermögenswerts gezogen werden könnte.
+
+B22 Bei der Beurteilung des Rechts, im Wesentlichen den gesamten wirtschaftlichen Nutzen aus der Verwendung eines Vermögenswerts zu ziehen, beurteilt das Unternehmen den wirtschaftlichen Nutzen, der sich aus der Verwendung des Vermögenswerts innerhalb des für den Kunden festgelegten Nutzungsumfangs des Vermögenswerts ergibt (siehe Paragraph B30). Beispiele:
+a) 
+
+Ist die Nutzung eines Kraftfahrzeugs laut Vertrag innerhalb des Verwendungszeitraums auf ein bestimmtes geografisches Gebiet beschränkt, berücksichtigt das Unternehmen lediglich den wirtschaftlichen Nutzen aus der Verwendung des Kraftfahrzeugs innerhalb dieses Gebiets und nicht darüber hinaus.
+b) 
+
+Ist die Nutzung eines Kraftfahrzeugs laut Vertrag innerhalb des Verwendungszeitraums auf eine bestimmte Kilometerzahl beschränkt, berücksichtigt das Unternehmen lediglich den wirtschaftlichen Nutzen aus der Verwendung des Kraftfahrzeugs bis zur zulässigen Kilometerzahl und nicht darüber hinaus.
+
+B23 Sieht der Vertrag vor, dass der Kunde dem Lieferanten oder einem Dritten einen Teil der mit der Verwendung des Vermögenswerts erzielten Zahlungsströme als Gegenleistung zahlt, so sind diese Zahlungen als Teil des wirtschaftlichen Nutzens zu betrachten, der dem Kunden aus der Verwendung des Vermögenswerts erwächst. Muss der Kunde beispielsweise dem Lieferanten für die Nutzung einer Verkaufsfläche einen Anteil seines Umsatzes als Gegenleistung zahlen, so schränkt diese Verpflichtung nicht das Recht des Kunden ein, im Wesentlichen den gesamten wirtschaftlichen Nutzen aus der Verwendung der Verkaufsfläche zu ziehen. Der Grund dafür ist, dass Zahlungsströme aus diesen Umsätzen als wirtschaftlicher Nutzen gelten, den der Kunde aus der Verwendung der Verkaufsfläche zieht, und dass der Anteil dieser Zahlungsströme, den er dann dem Lieferanten zahlt, als Gegenleistung für das Recht auf Nutzung dieser Fläche zu betrachten ist.
+
+Recht, über die Nutzung zu entscheiden
+
+B24 Der Kunde ist nur dann in der Lage, während des gesamten Verwendungszeitraums über die Nutzung eines identifizierten Vermögenswerts zu entscheiden, wenn entweder
+a) 
+
+er während des gesamten Verwendungszeitraums das Recht hat, zu bestimmen, wie und für welchen Zweck der Vermögenswert eingesetzt wird (siehe Beschreibung in den Paragraphen B25–B30), oder
+b) 
+
+die maßgeblichen Entscheidungen darüber, wie und für welchen Zweck der Vermögenswert eingesetzt wird, bereits im Vorfeld getroffen wurden und
+i) 
+
+der Kunde während des gesamten Verwendungszeitraums das Recht hat, den Vermögenswert einzusetzen (oder Dritte anzuweisen, den Vermögenswert in einer von ihm bestimmten Weise einzusetzen), und der Lieferant nicht berechtigt ist, diese Anweisungen zu ändern, oder
+ii) 
+
+der Kunde den Vermögenswert (oder bestimmte Teile des Vermögenswerts) in einer Weise gestaltet hat, die bereits vorgibt, wie und für welchen Zweck der Vermögenswert während des gesamten Verwendungszeitraums eingesetzt wird.
+
+Wie und für welchen Zweck wird der Vermögenswert eingesetzt?
+
+B25 Der Kunde hat das Recht, zu bestimmen, wie und für welchen Zweck der Vermögenswert eingesetzt wird, wenn der Vertrag ihm die Möglichkeit gibt, innerhalb des festgelegten Nutzungsumfangs die Art und den Zweck der Verwendung des Vermögenswerts während des gesamten Verwendungszeitraums zu ändern. Bei der Beurteilung dieser Frage bewertet das Unternehmen die für die Änderung der Art und des Zwecks der Verwendung des Vermögenswerts während des gesamten Verwendungszeitraums maßgeblichen Entscheidungsrechte. Entscheidungsrechte sind maßgeblich, wenn sie sich auf den mit der Verwendung zu erzielenden wirtschaftlichen Nutzen auswirken können. Die maßgeblichen Entscheidungsrechte unterscheiden sich in der Regel von Vertrag zu Vertrag, da sie von der Art des Vermögenswerts und den Vertragsbedingungen abhängig sind.
+
+B26 Entscheidungsrechte, die je nach Rahmenbedingungen das Recht verleihen, zu bestimmen, wie und für welchen Zweck der Vermögenswert innerhalb des für den Kunden festgelegten Nutzungsumfangs eingesetzt wird, sind beispielsweise:
+a) 
+
+Rechte, die es ermöglichen, die Art des mit dem Vermögenswert erzielten Ergebnisses zu ändern (beispielsweise einen Container wahlweise für Transport oder Lagerung einzusetzen oder den Produktmix festzulegen, der auf einer Verkaufsfläche angeboten wird),
+b) 
+
+Rechte, die es ermöglichen zu bestimmen, wann ein Ergebnis erzielt wird (beispielsweise zu entscheiden, wann ein Anlagenteil oder ein Kraftwerk in Betrieb genommen oder abgeschaltet wird),
+c) 
+
+Rechte, die es ermöglichen zu bestimmen, wo ein Ergebnis erzielt wird (beispielsweise zu entscheiden, wohin ein Lastkraftwagen oder ein Schiff fahren wird oder wo ein Ausrüstungsgegenstand eingesetzt wird), und
+d) 
+
+Rechte, die es ermöglichen zu bestimmen, ob und in welchen Mengen ein Ergebnis erzielt wird (beispielsweise zu entscheiden, ob und wie viel Energie mit einem Kraftwerk erzeugt wird).
+
+B27 Entscheidungsrechte, die nicht dazu berechtigen, zu bestimmen, wie und für welchen Zweck der Vermögenswert eingesetzt wird, sind beispielsweise solche, die sich auf den Betrieb und die Instandhaltung des Vermögenswerts beschränken. Solche Rechte kann der Kunde oder der Lieferant haben. Betriebs- und Instandhaltungsrechte sind zwar für die effiziente Nutzung des Vermögenswerts meist von wesentlicher Bedeutung, sie berechtigen aber nicht dazu, zu bestimmen, wie und für welchen Zweck der Vermögenswert eingesetzt wird, sondern sind meist von diesen Entscheidungen abhängig. Betriebsrechte für den Vermögenswert können dem Kunden dagegen das Recht verleihen, über die Nutzung des Vermögenswerts zu entscheiden, sofern die maßgeblichen Entscheidungen darüber, wie und für welchen Zweck der Vermögenswert eingesetzt wird, bereits im Vorfeld festgelegt wurden (siehe Paragraph B24(b)(i)).
+
+Während und vor dem Verwendungszeitraum getroffene Festlegungen
+
+B28 Die maßgeblichen Entscheidungen darüber, wie und für welchen Zweck der Vermögenswert eingesetzt wird, können in vielfältiger Weise im Vorfeld getroffen werden. Beispielsweise können die maßgeblichen Entscheidungen durch die Bauart des Vermögenswerts vorgegeben sein oder durch im Vertrag festgelegte Nutzungsbeschränkungen.
+
+B29 Um zu beurteilen, ob der Kunde das Recht hat, über die Nutzung eines Vermögenswerts zu entscheiden, darf das Unternehmen lediglich die Entscheidungsrechte über die Verwendung des Vermögenswerts während des Verwendungszeitraums berücksichtigen, es sei denn, der Kunde hat den Vermögenswert (oder bestimmte Teile des Vermögenswerts) wie in Paragraph B24(b)(ii) selbst gestaltet. Daher darf das Unternehmen, wenn die Bedingungen nach Paragraph B24(b)(ii) nicht erfüllt sind, Entscheidungen, die vor dem Verwendungszeitraum vorgegeben sind, nicht berücksichtigen. Kann der Kunde beispielsweise das mit einem Vermögenswert erzielte Ergebnis lediglich vor Beginn des Verwendungszeitraums festlegen, verfügt er nicht über das Recht, über die Nutzung des Vermögenswerts zu entscheiden. Die Möglichkeit, das zu erzielende Ergebnis vor Beginn des Verwendungszeitraums vertraglich festzulegen, verleiht dem Kunden, wenn er keine weitergehenden Entscheidungsrechte über die Nutzung des Vermögenswerts hat, dieselben Rechte wie sie jeder Kunde beim Erwerb von Gütern oder Dienstleistungen genießt.
+
+Schutzrechte
+
+B30 In einem Vertrag können Bedingungen festgelegt werden, die die Interessen des Lieferanten am Vermögenswert oder an anderen Vermögenswerten schützen sollen, die seine Mitarbeiter schützen sollen oder die gewährleisten sollen, dass seine rechtlichen Verpflichtungen erfüllt sind. Solche Bedingungen sind Schutzrechte. In einem Vertrag kann beispielsweise i) der maximal zulässige Nutzungsumfang des Vermögenswerts festgelegt werden oder eingegrenzt werden, wo oder wann der Kunde den Vermögenswert nutzen darf, ii) der Kunde verpflichtet werden, bestimmte Betriebsverfahren einzuhalten, oder iii) der Kunde verpflichtet werden, dem Lieferanten Änderungen der Einsatzart des Vermögenswerts vorab anzuzeigen. Schutzrechte geben in der Regel den für den Kunden zulässigen Nutzungsumfang vor, sprechen aber für sich allein genommen dem Kunden nicht das Recht ab, über die Nutzung des Vermögenswerts zu entscheiden.
+
+B31 Anhand des folgenden Ablaufdiagramms können Unternehmen beurteilen, ob ein Vertrag ein Leasingverhältnis begründet oder beinhaltet.
+image
+
+Trennung von Leasing- und Nichtleasingkomponenten eines Vertrags (Paragraphen 12–17)
+
+B32 Das Recht, einen zugrunde liegenden Vermögenswert zu nutzen, ist als selbstständige Leasingkomponente zu betrachten, wenn sowohl
+a) 
+
+der Leasingnehmer aus der Nutzung des zugrunde liegenden Vermögenswerts entweder gesondert oder zusammen mit anderen, für ihn jederzeit verfügbaren Ressourcen einen Nutzen ziehen kann; eine jederzeit verfügbare Ressource ist ein Gut oder eine Dienstleistung, die (vom Leasinggeber oder von anderen Lieferanten) separat veräußert oder vermietet wird, oder eine Ressource, die der Leasingnehmer bereits (vom Leasinggeber oder aus anderen Transaktionen oder Ereignissen) erhalten hat, als auch
+b) 
+
+der zugrunde liegende Vermögenswert weder in hohem Maße von den anderen diesem Vertrag zugrunde liegenden Vermögenswerten abhängig, noch mit diesen eng verbunden ist; so kann beispielsweise der Umstand, dass ein Leasingnehmer sich dafür entscheiden kann, den zugrunde liegenden Vermögenswert nicht zu leasen, ohne dass dies seine Rechte, andere dem Vertrag zugrunde liegende Vermögenswerte zu nutzen, wesentlich beeinflusst, darauf hindeuten, dass der zugrunde liegende Vermögenswert weder in hohem Maße von diesen zugrunde liegenden Vermögenswerten abhängig noch eng mit ihnen verbunden ist.
+
+B33 In einem Vertrag können Zahlungen des Leasingnehmers für Tätigkeiten und Kosten vorgesehen sein, mit denen diesem kein Gut und keine Dienstleistung übertragen wird. Beispielsweise kann ein Leasinggeber in den zu zahlenden Gesamtbetrag Verwaltungsgebühren oder andere im Zusammenhang mit dem Leasingverhältnis von ihm verauslagte Kosten einbeziehen, mit denen dem Leasingnehmer weder ein Gut noch eine Dienstleistung übertragen wird. Die für solche Kostenelemente zu zahlenden Beträge begründen keine selbstständige Vertragskomponente, sondern gelten als Teil der Gegenleistung, die den einzelnen Komponenten des Vertrags zuzuweisen ist.
+
+Laufzeit des Leasingverhältnisses (Paragraphen 18–21)
+
+B34 Bei der Bestimmung der Laufzeit und der unkündbaren Grundlaufzeit des Leasingverhältnisses legt das Unternehmen die für Verträge anwendbare Definition zugrunde und bestimmt den Zeitraum, währenddessen der Vertrag durchsetzbar ist. Ein Leasingverhältnis ist nicht mehr durchsetzbar, wenn sowohl der Leasingnehmer als auch der Leasinggeber das Leasingverhältnis ohne Zustimmung der anderen Vertragspartei beenden kann und in diesem Fall allenfalls eine geringe Strafzahlung entrichten muss.
+
+B35 Hat nur der Leasingnehmer das Recht, das Leasingverhältnis zu beenden, so ist diese dem Leasingnehmer zustehende Kündigungsoption vom Unternehmen bei der Bestimmung der Laufzeit des Leasingverhältnisses zu berücksichtigen. Hat nur der Leasinggeber das Recht, das Leasingverhältnis zu beenden, so erstreckt sich die unkündbare Grundlaufzeit des Leasingverhältnisses auch auf den Zeitraum, währenddessen diese Kündigungsoption besteht.
+
+B36 Die Laufzeit des Leasingverhältnisses beginnt am Bereitstellungsdatum und umfasst auch etwaige mietfreie Zeiträume, die der Leasinggeber dem Leasingnehmer gewährt.
+
+B37 Am Bereitstellungsdatum beurteilt das Unternehmen, ob der Leasingnehmer hinreichend sicher ist, dass er eine Verlängerungsoption oder eine Kaufoption für den zugrunde liegenden Vermögenswert ausüben oder eine Kündigungsoption nicht ausüben wird. Das Unternehmen trägt dabei allen maßgeblichen Fakten und Umständen Rechnung, die dem Leasingnehmer einen wirtschaftlichen Anreiz zur Ausübung bzw. Nichtausübung der Optionen geben, einschließlich aller Änderungen dieser Fakten und Umstände, die vom Bereitstellungsdatum bis zum Zeitpunkt der Optionsausübung zu erwarten sind. Beispiele für zu berücksichtigende Faktoren sind:
+a) 
+
+die vertraglich festgelegten Bedingungen für die Zeiträume, während derer eine Option besteht, im Vergleich zu den Marktpreisen, wie
+i) 
+
+die Höhe der während eines Optionszeitraums für das Leasingverhältnis zu leistenden Zahlungen,
+ii) 
+
+die Höhe etwaiger variabler Leasingzahlungen oder sonstiger eventualer Zahlungen, wie Strafzahlungen bei Kündigung des Leasingverhältnisses oder Zahlungen aus Restwertgarantien, und
+iii) 
+
+die Bedingungen etwaiger Optionen, die nach Ablauf der ersten Optionszeiträume ausgeübt werden können (beispielsweise eine Kaufoption, die am Ende einer Verlängerung zu einem Preis unter dem Marktpreis ausgeübt werden kann),
+b) 
+
+wesentliche, während der Laufzeit des Vertrags fertiggestellte (oder zu erwartende) Mietereinbauten, die für den Leasingnehmer zu einem wesentlichen wirtschaftlichen Nutzen führen werden, sobald die Verlängerungsoption, die Kündigungsoption oder die Kaufoption für den zugrunde liegenden Vermögenswert ausgeübt werden kann,
+c) 
+
+Kosten in Bezug auf die Kündigung des Leasingverhältnisses, wie Verhandlungskosten, Verlegungskosten, Kosten im Hinblick auf die Bestimmung eines anderen zugrunde liegenden Vermögenswerts, der dem Bedarf des Leasingnehmers gerecht wird, Kosten für die Aufnahme eines neuen Vermögenswerts in die Geschäftstätigkeit des Leasingnehmers oder Kündigungsstrafen und ähnliche Kosten, darunter Kosten, um den zugrunde liegenden Vermögenswert wieder in den im Vertrag vorgesehenen Zustand oder an den im Vertrag vorgesehenen Ort zu bringen,
+d) 
+
+die Bedeutung des zugrunde liegenden Vermögenswerts für die Geschäftstätigkeit des Leasingnehmers, beispielsweise die Frage, ob es sich um einen speziellen Vermögenswert handelt, wo er sich befindet und ob es Alternativlösungen gibt, und
+e) 
+
+die mit der Ausübung einer Option verbundenen Bedingungen (wenn die Option nur unter bestimmten Voraussetzungen ausgeübt werden kann) und die Wahrscheinlichkeit, dass diese Bedingungen erfüllt sein werden.
+
+B38 Verlängerungs- und Kündigungsoptionen können mit anderen Vertragsbedingungen kombiniert werden (beispielsweise mit einer Restwertgarantie), sodass der Leasingnehmer dem Leasinggeber eine Mindestrendite oder eine feste Rendite garantiert, die im Wesentlichen nicht davon abhängt, ob die Option ausgeübt wird oder nicht. In solchen Fällen geht das Unternehmen ungeachtet der in Paragraph B42 enthaltenen Leitlinien zu de facto festen Zahlungen davon aus, dass der Leasingnehmer hinreichend sicher ist, dass er die Verlängerungsoption ausüben bzw. die Kündigungsoption nicht ausüben wird,
+
+B39 Je kürzer die unkündbare Grundlaufzeit eines Leasingverhältnisses ist, desto wahrscheinlicher ist es, dass der Leasingnehmer die Verlängerungsoption ausübt bzw. die Kündigungsoption nicht ausübt. Der Grund dafür ist, dass die mit dem Ersatz eines Vermögenswerts verbundenen Kosten bei einer kürzeren unkündbaren Grundlaufzeit aller Voraussicht nach im Verhältnis höher sind.
+
+B40 Bei der Beurteilung der Frage, ob der Leasingnehmer hinreichend sicher ist, dass er eine Option ausüben oder nicht ausüben wird, können seine vergangenen Entscheidungen hinsichtlich der Zeiträume, während derer er gewöhnlich bestimmte Arten von (geleasten oder eigenen) Vermögenswerten eingesetzt hat, und die wirtschaftlichen Gründe für diese Entscheidungen aufschlussreich sein. Hat der Leasingnehmer beispielsweise in der Vergangenheit gewöhnlich bestimmte Arten von Vermögenswerten für einen bestimmten Zeitraum eingesetzt oder übt er üblicherweise bei Leasingverhältnissen mit bestimmten Arten zugrunde liegender Vermögenswerte häufig Optionen aus, so berücksichtigt er die wirtschaftlichen Gründe für diese vergangenen Entscheidungen bei der Beurteilung der Frage, ob er bei diesen Vermögenswerten eine Option mit hinreichender Sicherheit ausüben wird.
+
+B41 In Paragraph 20 ist vorgesehen, dass ein Leasingnehmer nach dem Bereitstellungsdatum, wenn ein wesentliches Ereignis oder eine wesentliche Änderung von Umständen eintritt, das bzw. die sich seinem Einfluss nicht entzieht und sich darauf auswirkt, ob er hinreichend sicher ist, dass er eine bei der Bestimmung der Laufzeit zuvor nicht berücksichtigte Option ausüben oder eine bei der Bestimmung der Laufzeit zuvor berücksichtigte Option nicht ausüben wird, die Laufzeit des Leasingverhältnisses erneut bestimmt. Wesentliche Ereignisse oder wesentliche Änderungen von Umständen sind beispielsweise
+a) 
+
+wesentliche, am Bereitstellungsdatum nicht ins Auge gefasste Mietereinbauten, die für den Leasingnehmer zu einem wesentlichen wirtschaftlichen Nutzen führen werden, sobald die Verlängerungsoption, die Kündigungsoption oder die Kaufoption für den zugrunde liegenden Vermögenswert ausgeübt werden kann,
+b) 
+
+eine wesentliche, am Bereitstellungsdatum nicht ins Auge gefasste Änderung oder Anpassung des zugrunde liegenden Vermögenswerts,
+c) 
+
+der Beginn eines Unterleasingverhältnisses in Bezug auf den zugrunde liegenden Vermögenswert mit einer längeren Laufzeit als die zuvor bestimmte Laufzeit des Leasingverhältnisses und
+d) 
+
+eine Geschäftsentscheidung des Leasingnehmers, die sich unmittelbar auf die Ausübung oder Nichtausübung einer Option auswirkt (beispielsweise die Entscheidung, das Leasingverhältnis bei einem ergänzenden Vermögenswert zu verlängern, einen alternativen Vermögenswert zu veräußern oder eine Geschäftseinheit zu veräußern, in der das Nutzungsrecht zur Anwendung kommt).
+
+De facto feste Leasingzahlungen (Paragraphen 27(a), 36(c) und 70(a))
+
+B42 Zu den Leasingzahlungen gehören auch etwaige de facto feste Leasingzahlungen. De facto feste Leasingzahlungen sind Zahlungen, die formal variabel sein können, ihrem Wesen nach aber unvermeidlich sind. De facto feste Leasingzahlungen ergeben sich beispielsweise, wenn
+a) 
+
+Leasingzahlungen variabel angelegt sind, die Variabilität dieser Zahlungen aber unbegründet ist; solche Zahlungen enthalten variable Komponenten, die in Wahrheit keinen wirtschaftlichen Gehalt haben, beispielsweise
+i) 
+
+Zahlungen, die nur geleistet werden müssen, wenn ein Vermögenswert nachweislich während der Dauer des Leasingverhältnisses betrieben werden kann oder wenn ein Ereignis eintritt, das zwangsläufig eintreten wird, oder
+ii) 
+
+Zahlungen, die ursprünglich in Abhängigkeit von der Nutzung des zugrunde liegenden Vermögenswerts als variable Leasingzahlungen angelegt wurden, deren Variabilität aber nach dem Bereitstellungsdatum ab einem bestimmten Zeitpunkt enden wird, sodass sie für den Rest der Laufzeit des Leasingverhältnisses zu festen Zahlungen werden; solche Zahlungen werden zu de facto festen Zahlungen, sobald die Variabilität endet,
+b) 
+
+es mehrere Zahlungsschemata gibt, die für den Leasingnehmer infrage kommen, davon aber nur ein Schema realistisch ist; in diesem Fall hat das Unternehmen das realistische Zahlungsschema als Leasingzahlungen zu betrachten,
+c) 
+
+es mehrere realistische Zahlungsschemata gibt, die für den Leasingnehmer infrage kommen, er aber gezwungen ist, mindestens eines davon zu wählen; in diesem Fall hat das Unternehmen dasjenige Zahlungsschema als Leasingzahlungen zu betrachten, für das sich (abgezinst) der geringste Gesamtbetrag ergibt.
+
+Einbeziehung des Leasingnehmers vor dem Bereitstellungsdatum
+
+Dem Leasingnehmer entstehende Kosten im Zusammenhang mit dem Bau oder der Gestaltung eines zugrunde liegenden Vermögenswerts
+
+B43 Das Unternehmen kann ein Leasingverhältnis aushandeln, bevor der zugrunde liegende Vermögenswert zur Nutzung durch den Leasingnehmer bereitsteht. Bei bestimmten Leasingverhältnissen muss der zugrunde liegende Vermögenswert gegebenenfalls für eine Nutzung durch den Leasingnehmer speziell gebaut oder umgestaltet werden. In den Vertragsbedingungen kann vorgesehen sein, dass der Leasingnehmer Zahlungen für den Bau oder die Umgestaltung des Vermögenswerts leistet.
+
+B44 Übernimmt der Leasingnehmer Kosten im Zusammenhang mit dem Bau oder der Gestaltung des zugrunde liegenden Vermögenswerts, so hat er diese nach anderen geltenden Standards, beispielsweise IAS 16, zu bilanzieren. Kosten im Zusammenhang mit dem Bau oder der Gestaltung eines zugrunde liegenden Vermögenswerts umfassen keine Zahlungen des Leasingnehmers in Bezug auf das Recht, den zugrunde liegenden Vermögenswert zu nutzen. Zahlungen in Bezug auf das Recht, einen zugrunde liegenden Vermögenswert zu nutzen, sind Leasingzahlungen, unabhängig vom Zeitpunkt, zu dem sie geleistet werden.
+
+Eigentumsrecht am zugrunde liegenden Vermögenswert
+
+B45 Es ist möglich, dass der Leasingnehmer das Eigentumsrecht an einem zugrunde liegenden Vermögenswert erhält, bevor das Eigentumsrecht an den Leasinggeber übergeht und der Vermögenswert an den Leasingnehmer vermietet wird. Der Erhalt des Eigentumsrechts ist nicht ausschlaggebend für die Art und Weise, wie die Transaktion zu bilanzieren ist.
+
+B46 Besitzt (oder erlangt) der Leasingnehmer die Verfügungsgewalt über den zugrunde liegenden Vermögenswert, bevor dieser dem Leasinggeber übertragen wird, so handelt es sich um eine Sale-and-Leaseback-Transaktion, die nach den Paragraphen 98–103 zu bilanzieren ist.
+
+B47 Erlangt der Leasingnehmer dagegen nicht die Verfügungsgewalt über den zugrunde liegenden Vermögenswert, bevor dieser dem Leasinggeber übertragen wird, so handelt es sich nicht um eine Sale-and-Leaseback-Transaktion. Dies kann beispielsweise der Fall sein, wenn ein Hersteller, ein Leasinggeber und ein Leasingnehmer ein Kaufgeschäft aushandeln, wobei der Leasinggeber vom Hersteller einen Vermögenswert erwirbt, der dann vom Leasingnehmer geleast wird. In diesem Fall erhält der Leasingnehmer möglicherweise das Eigentumsrecht an dem zugrunde liegenden Vermögenswert, bevor dieses an den Leasinggeber übergeht. Erhält der Leasingnehmer also das Eigentumsrecht an dem zugrunde liegenden Vermögenswert, die Verfügungsgewalt darüber aber erst, wenn das Eigentumsrecht an den Leasinggeber übergeht, so ist die Transaktion nicht als Sale-and-Leaseback-Transaktion sondern als Leasingverhältnis zu bilanzieren.
+
+Angaben des Leasingnehmers (Paragraph 59)
+
+B48 Um zu bestimmen, ob zur Erreichung des in Paragraph 51 für die Angabepflichten festgelegten Ziels zusätzliche Informationen zur Leasingaktivität erforderlich sind, prüft der Leasingnehmer,
+a) 
+
+ob diese Informationen für die Abschlussadressaten relevant sind; der Leasingnehmer hat zusätzliche Informationen gemäß Paragraph 59 nur anzugeben, wenn diese Informationen für die Abschlussadressaten voraussichtlich relevant sind; dies ist wahrscheinlich der Fall, wenn diese Informationen die Adressaten in die Lage versetzen,
+i) 
+
+zu verstehen, welche Flexibilitätsvorteile mit den Leasingverhältnissen verbunden sind; Leasingverhältnisse können Flexibilitätsvorteile bieten, wenn ein Leasingnehmer seine Risiken verringern kann, indem er beispielsweise eine Kündigungsoption ausübt oder das Leasingverhältnis mit günstigen Bedingungen verlängert,
+ii) 
+
+die mit Leasingverhältnissen verbundenen Beschränkungen zu verstehen; mit Leasingverhältnissen können Beschränkungen verbunden sein, beispielsweise die Verpflichtung für den Leasingnehmer, bestimmte Finanzkennzahlen einzuhalten,
+iii) 
+
+zu verstehen, in welchem Maße die Angaben von variablen Einflussgrößen abhängen; so können sich beispielsweise künftige variable Leasingzahlungen auf die Angaben auswirken,
+iv) 
+
+zu verstehen, welche sonstigen Risiken mit Leasingverhältnissen verbunden sind,
+v) 
+
+etwaige Abweichungen von branchenüblichen Praktiken zu verstehen; beispielsweise unübliche oder Sonderbestimmungen in der Leasingvereinbarung, die sich auf das Leasingportfolio des Leasingnehmers auswirken,
+b) 
+
+ob diese Informationen bereits aus in der Bilanz oder im Anhang dargestellten Informationen hervorgehen; Informationen, die bereits an anderer Stelle in der Bilanz dargestellt sind, braucht der Leasingnehmer nicht erneut darzustellen.
+
+B49 Zusätzliche Informationen zu variablen Leasingzahlungen, die unter gewissen Umständen zur Erreichung des in Paragraph 51 für die Angabepflichten festgelegten Ziels erforderlich sein können, sind beispielsweise Informationen, die es den Abschlussadressaten ermöglichen,
+a) 
+
+zu verstehen, weshalb und in welchem Umfang der Leasingnehmer variable Leasingzahlungen verwendet,
+b) 
+
+das Verhältnis zwischen variablen Leasingzahlungen und festen Zahlungen einzuschätzen,
+c) 
+
+Kenntnis von den Einflussgrößen, die sich auf die variablen Leasingzahlungen auswirken, zu erlangen und einzuschätzen, in welcher Größenordnung diese Zahlungen variieren werden, wenn sich diese Einflussgrößen ändern, und
+d) 
+
+sonstige operative und finanzielle Auswirkungen der variablen Leasingzahlungen einzuschätzen.
+
+B50 Zusätzliche Informationen zu Verlängerungsoptionen und Kündigungsoptionen, die unter gewissen Umständen zur Erreichung des in Paragraph 51 für die Angabepflichten festgelegten Ziels erforderlich sein können, sind beispielsweise Informationen, die es den Abschlussadressaten ermöglichen,
+a) 
+
+zu verstehen, weshalb und in welchem Umfang der Leasingnehmer Verlängerungsoptionen bzw. Kündigungsoptionen vorsieht,
+b) 
+
+das Verhältnis zwischen Leasingzahlungen für optionale Zeiträume und Leasingzahlungen einzuschätzen,
+c) 
+
+den Umfang der nicht in die Bewertung von Leasingverbindlichkeiten einbezogenen Optionen zu beurteilen und
+d) 
+
+sonstige operative und finanzielle Auswirkungen dieser Optionen einzuschätzen.
+
+B51 Zusätzliche Informationen zu Restwertgarantien, die unter gewissen Umständen zur Erreichung des in Paragraph 51 für die Angabepflichten festgelegten Ziels erforderlich sein können, sind beispielsweise Informationen, die es den Abschlussadressaten ermöglichen,
+a) 
+
+zu verstehen, weshalb und in welchem Umfang der Leasingnehmer Restwertgarantien gibt,
+b) 
+
+den Umfang des Restwertrisikos für den Leasingnehmer einzuschätzen,
+c) 
+
+zu erfahren, für welche Art von zugrunde liegenden Vermögenswerten diese Garantien gegeben werden, und
+d) 
+
+sonstige operative und finanzielle Auswirkungen dieser Garantien einzuschätzen.
+
+B52 Zusätzliche Informationen zu Sale-and-Leaseback-Transaktionen, die unter gewissen Umständen zur Erreichung des in Paragraph 51 für die Angabepflichten festgelegten Ziels erforderlich sein können, sind beispielsweise Informationen, die es den Abschlussadressaten ermöglichen,
+a) 
+
+zu verstehen, weshalb und in welchem Umfang der Leasingnehmer Sale-and-Leaseback-Transaktionen eingeht,
+b) 
+
+zu erfahren, welche Bedingungen für einzelne Sale-and-Leaseback-Transaktionen gelten,
+c) 
+
+die nicht in die Bewertung von Leasingverbindlichkeiten einbezogenen Zahlungen zu beurteilen und
+d) 
+
+einzuschätzen, inwieweit sich die Sale-and-Leaseback-Transaktionen in der Berichtsperiode auf die Zahlungsströme auswirken.
+
+Einstufung von Leasingverhältnissen beim Leasinggeber (Paragraphen 61–66)
+
+B53 Grundlage für die Einstufung von Leasingverhältnissen beim Leasinggeber ist gemäß diesem Standard der Umfang, in welchem die mit dem Eigentum an einem zugrunde liegenden Vermögenswert verbundenen Risiken und Chancen übertragen werden. Zu den Risiken gehören Verlustmöglichkeiten aufgrund von ungenutzten Kapazitäten oder technischer Überholung und Renditeabweichungen aufgrund geänderter wirtschaftlicher Rahmenbedingungen. Chancen können Erwartungen hinsichtlich des gewinnbringenden Einsatzes im Geschäftsbetrieb während der wirtschaftlichen Nutzungsdauer des zugrunde liegenden Vermögenswerts und hinsichtlich eines Gewinns aus einem Wertzuwachs oder aus der Realisierung eines Restwerts sein.
+
+B54 Eine Leasingvereinbarung kann Bestimmungen enthalten, nach denen die Leasingzahlungen angepasst werden, wenn zwischen dem Beginn des Leasingverhältnisses und dem Bereitstellungsdatum bestimmte Änderungen (wie eine Änderung der Kosten des Leasinggebers in Bezug auf den zugrunde liegenden Vermögenswert oder in Bezug auf die Finanzierung des Leasingverhältnisses) eintreten. In diesem Fall sind für die Zwecke der Einstufung des Leasingverhältnisses die Auswirkungen solcher Änderungen so zu behandeln, als hätten sie zu Beginn des Leasingverhältnisses stattgefunden.
+
+B55 Umfasst ein Leasingverhältnis sowohl Grundstücks- als auch Gebäudekomponenten, stuft der Leasinggeber jede Komponente unter Anwendung der Paragraphen 62–66 und B53–B54 entweder als Finanzierungsleasingverhältnis oder als Operating-Leasingverhältnis ein. Bei der Einstufung der Grundstückskomponente als Operating-Leasingverhältnis oder als Finanzierungsleasingverhältnis muss unbedingt berücksichtigt werden, dass Grundstücke in der Regel eine unbegrenzte wirtschaftliche Nutzungsdauer haben.
+
+B56 Wann immer es zur Einstufung und Bilanzierung eines Leasingverhältnisses bei Grundstücken und Gebäuden notwendig ist, teilt der Leasinggeber die Leasingzahlungen (einschließlich einmaliger Vorauszahlungen) nach dem Verhältnis der bei Beginn des Leasingverhältnisses bestehenden jeweiligen beizulegenden Zeitwerte der Leistungen für die Mietrechte für die Grundstückskomponente und die Gebäudekomponente des Leasingverhältnisses zwischen den Grundstücks- und Gebäudekomponenten auf. Sollten die Leasingzahlungen zwischen diesen beiden Komponenten nicht zweifelsfrei aufgeteilt werden können, wird das gesamte Leasingverhältnis als Finanzierungsleasingverhältnis eingestuft. Nur wenn beide Komponenten unzweifelhaft Operating-Leasingverhältnisse sind, wird das gesamte Leasingverhältnis als Operating-Leasingverhältnis eingestuft.
+
+B57 Bei einem Leasing von Grundstücken und Gebäuden, bei dem der für die Grundstückskomponente anzusetzende Wert unwesentlich ist, kann der Leasinggeber die Grundstücke und Gebäude als eine Einheit betrachten und diese unter Anwendung der Paragraphen 62–66 und B53–B54 als Finanzierungsleasingverhältnis oder Operating-Leasingverhältnis einstufen. In diesem Fall betrachtet der Leasinggeber die wirtschaftliche Nutzungsdauer der Gebäude als wirtschaftliche Nutzungsdauer des gesamten zugrunde liegenden Vermögenswerts.
+
+Einstufung von Unterleasingverhältnissen
+
+B58 Der Unterleasinggeber stuft das Unterleasingverhältnis nach folgenden Kriterien entweder als Finanzierungsleasingverhältnis oder als Operating-Leasingverhältnis ein:
+a) 
+
+Handelt es sich bei dem Hauptleasingverhältnis um ein kurzfristiges Leasingverhältnis, das das Unternehmen in seiner Eigenschaft als Leasingnehmer unter Anwendung von Paragraph 6 bilanziert, stuft er das Unterleasingverhältnis als Operating-Leasingverhältnis ein.
+b) 
+
+Anderenfalls stuft er das Unterleasingverhältnis auf der Grundlage seines Nutzungsrechts aus dem Hauptleasingverhältnis und nicht auf der Grundlage des zugrunde liegenden Vermögenswerts (z. B. der geleasten Sachanlage) ein.
+
+Anhang C
+
+Zeitpunkt des Inkrafttretens und Übergangsvorschriften
+
+Dieser Anhang ist integraler Bestandteil des Standards und hat die gleiche bindende Kraft wie die anderen Teile des Standards.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+C1 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2019 beginnen. Eine frühere Anwendung ist zulässig, sofern das Unternehmen zum oder vor dem Zeitpunkt der erstmaligen Anwendung dieses Standards auch IFRS 15 Erlöse aus Verträgen mit Kunden anwendet. Wendet ein Unternehmen diesen Standard früher an, hat es dies anzugeben.
+
+C1A Mit der im Mai 2020 veröffentlichten Verlautbarung COVID-19-bezogene Mietkonzessionen wurden die Paragraphen 46A, 46B, 60A, C20A und C20B eingefügt. Diese Änderungen sind von Leasingnehmern auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juni 2020 beginnen. Eine frühere Anwendung ist zulässig, und zwar auch für Abschlüsse, die am 28. Mai 2020 noch nicht zur Veröffentlichung freigegeben waren.
+
+C1B Mit der im August 2020 veröffentlichten Verlautbarung Reform der Referenzzinssätze – Phase 2 wurden die Standards IFRS 9, IAS 39, IFRS 7, IFRS 4 sowie IFRS 16 geändert und in IFRS 16 die Paragraphen 104–106 und C20C–C20D eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2021 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+C1C Mit der im März 2021 veröffentlichten Verlautbarung COVID-19-bezogene Mietkonzessionen nach dem 30. Juni 2021 wurden der Paragraph 46B geändert und die Paragraphen C20BA–C20BC eingefügt. Diese Änderungen sind von Leasingnehmern auf Geschäftsjahre anzuwenden, die am oder nach dem 1. April 2021 beginnen. Eine frühere Anwendung ist zulässig, und zwar auch für Abschlüsse, die am 31. März 2021 noch nicht zur Veröffentlichung freigegeben waren.
+
+▼M2
+
+C1D Mit der im September 2022 veröffentlichten Verlautbarung Leasingverbindlichkeit in einer Sale-and-Leaseback-Transaktion wurden der Paragraph C2 geändert und die Paragraphen 102A und C20E eingefügt. Verkäufer/Leasingnehmer haben diese Änderungen auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2024 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Verkäufer/Leasingnehmer diese Änderungen auf ein früheres Geschäftsjahr an, hat er dies anzugeben.
+
+▼B
+
+ÜBERGANGSVORSCHRIFTEN
+
+▼M2
+
+C2 Für die Zwecke der Vorschriften der Paragraphen C1–C20E ist der Zeitpunkt der erstmaligen Anwendung der Beginn des Geschäftsjahres, in dem das Unternehmen diesen Standard erstmals anwendet.
+
+▼B
+
+Definition eines Leasingverhältnisses
+
+C3 Behelfsweise muss das Unternehmen zum Zeitpunkt der erstmaligen Anwendung nicht erneut beurteilen, ob ein Vertrag ein Leasingverhältnis begründet oder beinhaltet. Stattdessen kann es
+a) 
+
+diesen Standard auf Verträge anwenden, die zuvor unter Anwendung von IAS 17 Leasingverhältnisse und IFRIC 4 Feststellung, ob eine Vereinbarung ein Leasingverhältnis enthält als Leasingverhältnisse eingestuft wurden; auf diese Leasingverhältnisse wendet das Unternehmen die Übergangsvorschriften der Paragraphen C5–C18 an,
+b) 
+
+diesen Standard auf Verträge, die zuvor unter Anwendung von IAS 17 und IFRIC 4 als Vereinbarungen ohne Leasingverhältnisse eingestuft wurden, nicht anwenden.
+
+C4 Entscheidet sich das Unternehmen für den praktischen Behelf in Paragraph C3, hat es dies anzugeben und diesen Behelf für alle seine Verträge anzuwenden. Demnach wendet das Unternehmen die Vorschriften der Paragraphen 9–11 lediglich auf Verträge an, die zum oder nach dem Zeitpunkt der erstmaligen Anwendung geschlossen (oder geändert) werden.
+
+Leasingnehmer
+
+C5 Der Leasingnehmer wendet diesen Standard auf seine Leasingverhältnisse entweder
+a) 
+
+rückwirkend auf jede vergangene Berichtsperiode an, in der nach IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler verfahren wurde; oder
+b) 
+
+rückwirkend an, indem er zum Zeitpunkt der erstmaligen Anwendung die kumulierte Auswirkung der erstmaligen Anwendung des Standards gemäß den Paragraphen C7–C13 bilanziert.
+
+C6 Der Leasingnehmer wendet die gemäß Paragraph C5 gewählte Methode durchgängig für alle Leasingverhältnisse an, bei denen er Leasingnehmer ist.
+
+C7 Entscheidet der Leasingnehmer, diesen Standard gemäß Paragraph C5(b) anzuwenden, so nimmt er keine Anpassung von Vergleichsinformationen vor. Stattdessen bilanziert er zum Zeitpunkt der erstmaligen Anwendung die kumulierte Auswirkung der erstmaligen Anwendung des Standards als Anpassung des Eröffnungssaldos der Gewinnrücklagen (oder ggf. einer sonstigen Eigenkapitalkomponente).
+
+Leasingverhältnisse, die zuvor als Operating-Leasingverhältnisse eingestuft waren
+
+C8 Entscheidet der Leasingnehmer, diesen Standard gemäß Paragraph C5(b) anzuwenden, so
+a) 
+
+erfasst er für Leasingverhältnisse, die zuvor gemäß IAS 17 als Operating-Leasingverhältnisse eingestuft waren, zum Zeitpunkt der erstmaligen Anwendung eine Leasingverbindlichkeit, die er zum Barwert der verbleibenden Leasingzahlungen, abgezinst unter Anwendung seines Grenzfremdkapitalzinssatzes zum Zeitpunkt der erstmaligen Anwendung, bewertet,
+b) 
+
+erfasst er für Leasingverhältnisse, die zuvor gemäß IAS 17 als Operating-Leasingverhältnisse eingestuft waren, zum Zeitpunkt der erstmaligen Anwendung ein Nutzungsrecht; er entscheidet für jedes Leasingverhältnis, ob er zur Bewertung des Nutzungsrechts entweder
+i) 
+
+den Buchwert ansetzt, als ob der Standard bereits seit dem Bereitstellungsdatum angewendet worden wäre, und diesen unter Anwendung seines Grenzfremdkapitalzinssatzes zum Zeitpunkt der erstmaligen Anwendung abzinst oder
+ii) 
+
+einen Wert in Höhe der Leasingverbindlichkeit ansetzt, den er um den Betrag der für dieses Leasingverhältnis im Voraus geleisteten oder abgegrenzten Leasingzahlungen anpasst, die in der dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgehenden Bilanz ausgewiesen waren,
+c) 
+
+wendet er, sofern er nicht den praktischen Behelf in Paragraph C10(b) wählt, zum Zeitpunkt der erstmaligen Anwendung auf die Nutzungsrechte IAS 36 Wertminderung von Vermögenswerten an.
+
+C9 Für Leasingverhältnisse, die zuvor gemäß IAS 17 als Operating-Leasingverhältnisse eingestuft waren, und ungeachtet der Vorschriften in Paragraph C8
+a) 
+
+ist der Leasingnehmer bei Leasingverhältnissen, denen ein Vermögenswert von geringem Wert zugrunde liegt (siehe Beschreibung in den Paragraphen B3–B8) und die gemäß Paragraph 6 bilanziert werden, nicht verpflichtet, beim Übergang Anpassungen vorzunehmen; er bilanziert diese Leasingverhältnisse ab dem Zeitpunkt der erstmaligen Anwendung gemäß diesem Standard,
+b) 
+
+ist der Leasingnehmer bei Leasingverhältnissen, die zuvor gemäß IAS 40 Als Finanzinvestition gehaltene Immobilien nach dem Modell des beizulegenden Zeitwerts als als Finanzinvestition gehaltene Immobilien bilanziert wurden, nicht verpflichtet, beim Übergang Anpassungen vorzunehmen; er bilanziert die Nutzungsrechte und die Leasingverbindlichkeiten aus diesen Leasingverhältnissen ab dem Zeitpunkt der erstmaligen Anwendung gemäß IAS 40 und diesem Standard,
+c) 
+
+bewertet der Leasingnehmer bei Leasingverhältnissen, die zuvor gemäß IAS 17 als Operating-Leasingverhältnisse bilanziert wurden und ab dem Zeitpunkt der erstmaligen Anwendung gemäß IAS 40 nach dem Modell des beizulegenden Zeitwerts als als Finanzinvestition gehaltene Immobilien bilanziert werden sollen, die Nutzungsrechte zum Zeitpunkt der erstmaligen Anwendung nach dem beizulegenden Zeitwert; er bilanziert die Nutzungsrechte und die Leasingverbindlichkeiten aus diesen Leasingverhältnissen ab dem Zeitpunkt der erstmaligen Anwendung gemäß IAS 40 und diesem Standard.
+
+C10 Wendet der Leasingnehmer diesen Standard gemäß Paragraph C5(b) rückwirkend auf Leasingverhältnisse an, die zuvor gemäß IAS 17 als Operating-Leasingverhältnisse eingestuft waren, so kann er einen oder mehrere der folgenden praktischen Behelfe anwenden. Er kann diese praktischen Behelfe für jedes seiner Leasingverhältnisse einzeln anwenden.
+a) 
+
+Der Leasingnehmer kann auf ein Portfolio ähnlich ausgestalteter Leasingverhältnisse (beispielsweise Leasingverhältnisse mit ähnlichen Vermögenswerten, mit ähnlicher Restlaufzeit und in einem ähnlichen Wirtschaftsumfeld) den gleichen Abzinsungssatz anwenden.
+b) 
+
+Der Leasingnehmer kann auf einen Werthaltigkeitstest verzichten und stattdessen unmittelbar vor dem Zeitpunkt der erstmaligen Anwendung gemäß IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen bewerten, ob es sich bei seinen Leasingverhältnissen um belastende Verträge handelt. Wählt er diesen praktischen Behelf, so passt er das Nutzungsrecht zum Zeitpunkt der erstmaligen Anwendung um den Betrag an, der in der dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgehenden Bilanz als Rückstellung für belastende Leasingverhältnisse ausgewiesen war.
+c) 
+
+Bei Leasingverhältnissen, deren Laufzeit innerhalb von 12 Monaten nach dem Zeitpunkt der erstmaligen Anwendung endet, kann der Leasingnehmer auf die Anwendung von Paragraph C8 verzichten. In diesen Fällen kann er
+i) 
+
+diese Leasingverhältnisse so bilanzieren, als handele es sich um kurzfristige Leasingverhältnisse gemäß Paragraph 6, und
+ii) 
+
+die mit diesen Leasingverhältnissen verbundenen Kosten in dem Geschäftsjahr, in das der Zeitpunkt der erstmaligen Anwendung fällt, in den Angaben als Aufwendungen für kurzfristige Leasingverhältnisse ausweisen.
+d) 
+
+Bei der Bewertung des Nutzungsrechts zum Zeitpunkt der erstmaligen Anwendung kann der Leasingnehmer die anfänglichen direkten Kosten unberücksichtigt lassen.
+e) 
+
+Sieht ein Vertrag Verlängerungs- oder Kündigungsoptionen vor, kann der Leasingnehmer die Laufzeit des Leasingverhältnisses rückwirkend bestimmen.
+
+Leasingverhältnisse, die zuvor als Finanzierungsleasingverhältnisse eingestuft waren
+
+C11 Wendet der Leasingnehmer diesen Standard gemäß Paragraph C5(b) auf Leasingverhältnisse an, die zuvor gemäß IAS 17 als Finanzierungsleasingverhältnisse eingestuft waren, so entspricht der Buchwert des Nutzungsrechts und der Leasingverbindlichkeit zum Zeitpunkt der erstmaligen Anwendung demjenigen Buchwert, der sich bei Bewertung des geleasten Vermögenswerts und der Leasingverbindlichkeit gemäß IAS 17 unmittelbar vor diesem Zeitpunkt ergibt. Ab dem Zeitpunkt der erstmaligen Anwendung bilanziert der Leasingnehmer die Nutzungsrechte und die Leasingverbindlichkeiten dieser Leasingverhältnisse gemäß diesem Standard.
+
+Angaben
+
+C12 Wendet der Leasingnehmer diesen Standard gemäß Paragraph C5(b) an, veröffentlicht er die in Paragraph 28 von IAS 8 verlangten Angaben über die erstmalige Anwendung mit Ausnahme der Angaben nach Paragraph 28(f) von IAS 8. Anstelle der Angaben nach Paragraph 28(f) von IAS 8 gibt der Leasingnehmer Folgendes an:
+a) 
+
+den gewichteten Durchschnittswert des Grenzfremdkapitalzinssatzes, den er für die zum Zeitpunkt der erstmaligen Anwendung in der Bilanz ausgewiesenen Leasingverbindlichkeiten anwendet, und
+b) 
+
+eine Erläuterung eines etwaigen Unterschiedsbetrags zwischen
+i) 
+
+den Verbindlichkeiten aus Operating-Leasingverhältnissen, die zum Ende des dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgehenden Geschäftsjahres gemäß IAS 17 ausgewiesen wurden und die anhand des Grenzfremdkapitalzinssatzes zum Zeitpunkt der erstmaligen Anwendung wie in Paragraph C8(a) beschrieben abgezinst wurden, und
+ii) 
+
+den zum Zeitpunkt der erstmaligen Anwendung in der Bilanz ausgewiesenen Leasingverbindlichkeiten.
+
+C13 Wendet der Leasingnehmer einen oder mehrere der in Paragraph C10 aufgeführten praktischen Behelfe an, hat er dies anzugeben.
+
+Leasinggeber
+
+C14 Außer in den in Paragraph C15 beschriebenen Fällen ist der Leasinggeber in Bezug auf Leasingverhältnisse, bei denen er der Leasinggeber ist, nicht verpflichtet, beim Übergang Anpassungen vorzunehmen. Er bilanziert diese Leasingverhältnisse ab dem Zeitpunkt der erstmaligen Anwendung gemäß diesem Standard.
+
+C15 Der Unterleasinggeber
+a) 
+
+bewertet Unterleasingverhältnisse, die gemäß IAS 17 als Operating-Leasingverhältnisse eingestuft waren und zum Zeitpunkt der erstmaligen Anwendung noch bestehen, jeweils neu, um festzustellen, ob sie unter Anwendung dieses Standards als Operating-Leasingverhältnisse oder als Finanzierungsleasingverhältnisse einzustufen sind; er nimmt diese Bewertung zum Zeitpunkt der erstmaligen Anwendung auf der Grundlage der zu diesem Zeitpunkt gültigen Restlaufzeit und Bedingungen des Hauptleasingverhältnisses und des Unterleasingverhältnisses vor,
+b) 
+
+bilanziert Unterleasingverhältnisse, die gemäß IAS 17 als Operating-Leasingverhältnisse eingestuft waren, gemäß diesem Standard aber als Finanzierungsleasingverhältnisse einzustufen sind, wie zum Zeitpunkt der erstmaligen Anwendung neu eingegangene Finanzierungsleasingverhältnisse.
+
+Vor dem Zeitpunkt der erstmaligen Anwendung geschlossene Sale-and-Leaseback-Transaktionen
+
+C16 Bei vor dem Zeitpunkt der erstmaligen Anwendung geschlossenen Sale-and-Leaseback-Transaktionen bewertet das Unternehmen nicht neu, ob die Übertragung des zugrunde liegenden Vermögenswerts die Vorschriften von IFRS 15 für eine Bilanzierung als Veräußerung erfüllt.
+
+C17 Wurde eine Sale-and-Leaseback-Transaktion gemäß IAS 17 als Veräußerung und Finanzierungsleasingsverhältnis bilanziert,
+a) 
+
+bilanziert der Verkäufer/Leasingnehmer das Rückleasing wie jedes andere zum Zeitpunkt der erstmaligen Anwendung bestehende Finanzierungsleasingverhältnis und
+b) 
+
+schreibt jeglichen Ertrag aus der Veräußerung weiterhin über die Laufzeit des Leasingverhältnisses ab.
+
+C18 Wurde eine Sale-and-Leaseback-Transaktion gemäß IAS 17 als Veräußerung und Operating-Leasingverhältnis bilanziert,
+a) 
+
+bilanziert der Verkäufer/Leasingnehmer das Rückleasing wie jedes andere zum Zeitpunkt der erstmaligen Anwendung bestehende Operating-Leasingverhältnis und
+b) 
+
+passt das Nutzungsrecht aus dem Rückleasing um etwaige marktunübliche abgegrenzte Gewinne oder Verluste, die in der dem Zeitpunkt der erstmaligen Anwendung unmittelbar vorausgehenden Bilanz ausgewiesen waren, an.
+
+Zuvor für Unternehmenszusammenschlüsse erfasste Beträge
+
+C19 Hat der Leasingnehmer im Rahmen eines Unternehmenszusammenschlusses günstige oder ungünstige Bedingungen eines Operating-Leasingverhältnisses übernommen und für diese zuvor einen Vermögenswert oder eine Verbindlichkeit gemäß IFRS 3 Unternehmenszusammenschlüsse erfasst, hat er diesen Vermögenswert oder diese Verbindlichkeit auszubuchen und den Buchwert des Nutzungsrechts zum Zeitpunkt der erstmaligen Anwendung um den entsprechenden Betrag anzupassen.
+
+Verweise auf IFRS 9
+
+C20 Wendet das Unternehmen diesen Standard an, bevor es IFRS 9 Finanzinstrumente anwendet, ist jeder Verweis auf IFRS 9 in diesem Standard als Verweis auf IAS 39 Finanzinstrumente: Ansatz und Bewertung zu verstehen.
+
+COVID-19-bezogene Mietkonzessionen für Leasingnehmer
+
+C20A Der Leasingnehmer hat die Verlautbarung COVID-19-bezogene Mietkonzessionen (siehe Paragraph C1A) rückwirkend anzuwenden und die kumulierten Auswirkungen der erstmaligen Anwendung dieser Änderung zu Beginn des Geschäftsjahres, in dem er die Änderung erstmals anwendet, als Anpassung des Eröffnungssaldos der Gewinnrücklagen (oder ggf. einer sonstigen Eigenkapitalkomponente) zu erfassen.
+
+C20B Für die Berichtsperiode, in der der Leasingnehmer die Verlautbarung COVID-19-bezogene Mietkonzessionen erstmals anwendet, ist er nicht verpflichtet, die in Paragraph 28(f) von IAS 8 verlangten Angaben zu machen.
+
+C20BA Der Leasingnehmer hat die Verlautbarung COVID-19-bezogene Mietkonzessionen nach dem 30. Juni 2021 (siehe Paragraph C1C) rückwirkend anzuwenden und die kumulierten Auswirkungen der erstmaligen Anwendung dieser Änderung zu Beginn des Geschäftsjahres, in dem er die Änderung erstmals anwendet, als Anpassung des Eröffnungssaldos der Gewinnrücklagen (oder ggf. einer sonstigen Eigenkapitalkomponente) zu erfassen.
+
+C20BB Für die Berichtsperiode, in der der Leasingnehmer die Verlautbarung COVID-19-bezogene Mietkonzessionen nach dem 30. Juni 2021 erstmals anwendet, ist er nicht verpflichtet, die in Paragraph 28(f) von IAS 8 verlangten Angaben zu machen.
+
+C20BC Nach Paragraph 2 dieses Standards hat der Leasingnehmer den praktischen Behelf in Paragraph 46A auf ähnlich ausgestaltete Verträge und unter ähnlichen Umständen konsistent anzuwenden, unabhängig davon, ob der Vertrag deshalb für den praktischen Behelf in Frage kam, weil der Leasingnehmer die Verlautbarung COVID-19-bezogene Mietkonzessionen (siehe Paragraph C1A) oder die Verlautbarung COVID-19-bezogene Mietkonzessionen nach dem 30. Juni 2021 (siehe Paragraph C1C) angewandt hat.
+
+Reform der Referenzzinssätze — Phase 2
+
+C20C Soweit in Paragraph C20D nicht anders festgelegt, sind diese Änderungen gemäß IAS 8 rückwirkend anzuwenden.
+
+C20D Das Unternehmen braucht frühere Perioden nicht an diese Änderungen anzupassen. Es darf frühere Perioden nur anpassen, wenn es dabei keine nachträglichen Erkenntnisse verwendet. Passt das Unternehmen frühere Perioden nicht an, hat es etwaige Differenzen zwischen dem bisherigen Buchwert und dem Buchwert zu Beginn des Geschäftsjahres, in das der Zeitpunkt der erstmaligen Anwendung der Änderungen fällt, im Eröffnungssaldo der Gewinnrücklagen (oder ggf. einer sonstigen Eigenkapitalkomponente) des Geschäftsjahres zu erfassen, in das der Zeitpunkt der erstmaligen Anwendung dieser Änderungen fällt.
+
+▼M2
+
+Leasingverbindlichkeit in einer Sale-and-Leaseback-Transaktion
+
+C20E Ein Verkäufer/Leasingnehmer hat die Verlautbarung Leasing-Verbindlichkeit in einer Sale-and-Leaseback-Transaktion (siehe Paragraph C1D) gemäß IAS 8 rückwirkend auf nach dem Zeitpunkt der erstmaligen Anwendung geschlossene Sale-and-Leaseback-Transaktionen anzuwenden.
+
+▼B
+
+RÜCKNAHME ANDERER STANDARDS
+
+C21 Dieser Standard ersetzt die folgenden Standards und Interpretationen:
+a) 
+
+IAS 17 Leasingverhältnisse,
+b) 
+
+IFRIC 4 Feststellung, ob eine Vereinbarung ein Leasingverhältnis enthält,
+c) 
+
+SIC-15 Operating-Leasingverhältnisse — Anreize und
+d) 
+
+SIC-27 Beurteilung des wirtschaftlichen Gehalts von Transaktionen in der rechtlichen Form von Leasingverhältnissen.
+
+Anhang D
+
+Änderungen anderer Standards
+
+In diesem Anhang sind die Änderungen zusammengefasst, die infolge dieses vom IASB veröffentlichten Standards an anderen Standards erforderlich werden. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2019 beginnen. Wendet ein Unternehmen diesen Standard auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+Das Unternehmen darf IFRS 16 nicht früher anwenden als IFRS 15 Erlöse aus Verträgen mit Kunden (siehe Paragraph C1).
+
+Aus diesem Grund werden die Änderungen in Bezug auf Standards, die am 1. Januar 2016 bereits in Kraft waren, in diesem Anhang auf der Grundlage der am 1. Januar 2016 gültigen Fassungen dieser Standards, d. h. auf der Grundlage der durch den IFRS 15 geänderten Fassungen dargestellt. Änderungen, die am 1. Januar 2016 noch nicht in Kraft waren, wurden bei der Zusammenstellung in diesem Anhang außer Acht gelassen.
+
+In Bezug auf Standards, die am 1. Januar 2016 noch nicht in Kraft waren, basieren die in diesem Anhang enthaltenen Änderungen auf der – durch den IFRS 15 geänderten – ursprünglich veröffentlichten Fassung dieser Standards. Änderungen, die am 1. Januar 2016 noch nicht in Kraft waren, wurden bei der Zusammenstellung in diesem Anhang außer Acht gelassen. 

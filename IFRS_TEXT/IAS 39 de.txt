@@ -1,0 +1,724 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 39
+
+Finanzinstrumente: Ansatz und Bewertung
+
+ANWENDUNGSBEREICH
+
+2   Dieser Standard ist von allen Unternehmen auf sämtliche Finanzinstrumente anzuwenden, die in den Anwendungsbereich von IFRS 9 Finanzinstrumente fallen, sofern und soweit
+a) 
+
+IFRS 9 die Anwendung der in diesem Standard enthaltenen Vorschriften zur Bilanzierung von Sicherungsbeziehungen zulässt und
+b) 
+
+das Finanzinstrument Teil einer Sicherungsbeziehung ist, die für die Bilanzierung von Sicherungsbeziehungen gemäß dem vorliegenden Standard infrage kommt.
+
+2A–7  [gestrichen]
+
+DEFINITIONEN
+
+8 Die in IFRS 13, IFRS 9 und IAS 32 definierten Begriffe werden im vorliegenden Standard mit der in Anhang A von IFRS 13, Anhang A von IFRS 9 und Paragraph 11 von IAS 32 angegebenen Bedeutung verwendet. IFRS 13, IFRS 9 und IAS 32 definieren die folgenden Begriffe:
+— 
+Fortgeführte Anschaffungskosten eines finanziellen Vermögenswerts oder einer finanziellen Verbindlichkeit,
+— 
+Ausbuchung,
+— 
+Derivat,
+— 
+Effektivzinsmethode,
+— 
+Effektivzinssatz,
+— 
+Eigenkapitalinstrument,
+— 
+Beizulegender Zeitwert,
+— 
+Finanzieller Vermögenswert,
+— 
+Finanzinstrument,
+— 
+Finanzielle Verbindlichkeit
+
+und geben Leitlinien zur Anwendung dieser Definitionen.
+
+9   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Definitionen zur Bilanzierung von Sicherungsbeziehungen
+Eine feste Verpflichtung ist eine rechtlich bindende Vereinbarung zum Austausch einer bestimmten Menge an Ressourcen zu einem festgesetzten Preis und einem festgesetzten Zeitpunkt oder Zeitpunkten.
+Eine erwartete Transaktion ist eine noch nicht fest zugesagte, aber voraussichtlich eintretende künftige Transaktion.
+Ein Sicherungsinstrument ist ein designierter derivativer oder (im Falle einer Absicherung von Währungsrisiken) nicht derivativer finanzieller Vermögenswert bzw. eine nicht derivative finanzielle Verbindlichkeit, von deren beizulegendem Zeitwert oder Zahlungsströmen erwartet wird, dass sie Veränderungen des beizulegenden Zeitwerts oder der Zahlungsströme eines designierten Grundgeschäfts kompensieren (in den Paragraphen 72–77 und Anhang A Paragraphen AL94–AL97 wird die Definition des Begriffs „Sicherungsinstrument“ weiter ausgeführt).
+Ein Grundgeschäft ist ein Vermögenswert, eine Schuld, eine feste Verpflichtung, eine mit hoher Wahrscheinlichkeit eintretende erwartete Transaktion oder eine Nettoinvestition in einen ausländischen Geschäftsbetrieb, der/die (a) das Unternehmen dem Risiko einer Veränderung des beizulegenden Zeitwerts oder der künftigen Zahlungsströme aussetzt und (b) als abgesichert designiert wird (in den Paragraphen 78–84 und Anhang A Paragraphen AL98–AL101 wird die Definition des Begriffs „Grundgeschäft“ weiter ausgeführt).
+Unter Wirksamkeit der Absicherung versteht man das Ausmaß, in dem Veränderungen beim beizulegenden Zeitwert oder den Zahlungsströmen des Grundgeschäfts, die einem abgesicherten Risiko zugerechnet werden können, durch Veränderungen beim beizulegenden Zeitwert oder den Zahlungsströmen des Sicherungsinstruments ausgeglichen werden (siehe Anhang A Paragraphen AL105–AL113A).
+
+10–70 [gestrichen]
+
+SICHERUNGSBEZIEHUNGEN
+
+71   Wenn ein Unternehmen IFRS 9 anwendet und seine Rechnungslegungsmethoden nicht so gewählt hat, dass weiterhin die Vorschriften zur Bilanzierung von Sicherungsbeziehungen des vorliegenden Standards angewandt werden (siehe Paragraph 7.2.21 von IFRS 9), hat es die Vorschriften zur Bilanzierung von Sicherungsbeziehungen in Kapitel 6 von IFRS 9 anzuwenden. Bei der Absicherung des beizulegenden Zeitwerts eines prozentualen Anteils eines Portfolios von finanziellen Vermögenswerten oder Verbindlichkeiten gegen das Zinsänderungsrisiko kann ein Unternehmen allerdings gemäß Paragraph 6.1.3 von IFRS 9 anstatt der Vorschriften in IFRS 9 die Vorschriften zur Bilanzierung von Sicherungsbeziehungen gemäß dem vorliegenden Standard anwenden. In diesem Fall muss das Unternehmen auch die besonderen Vorschriften zur Bilanzierung der Absicherung des beizulegenden Zeitwerts bei der Absicherung eines Portfolios gegen das Zinsänderungsrisiko anwenden (siehe Paragraphen 81A, 89A und A114–A132).
+
+Sicherungsinstrumente
+
+Qualifizierende Instrumente
+
+72 Sofern die in Paragraph 88 genannten Bedingungen erfüllt sind, werden in diesem Standard die Umstände, unter denen ein Derivat als Sicherungsinstrument designiert werden kann, nicht beschränkt; davon ausgenommen sind nur bestimmte geschriebene Optionen (siehe Anhang A Paragraph A94). Nichtderivative finanzielle Vermögenswerte oder Verbindlichkeiten können jedoch nur als Sicherungsinstrumente designiert werden, wenn sie der Absicherung eines Währungsrisikos dienen sollen.
+
+73 Für die Bilanzierung von Sicherungsbeziehungen können als Sicherungsinstrumente nur Finanzinstrumente designiert werden, an denen eine nicht zum berichtenden Unternehmen gehörende externe Partei (d. h. außerhalb des Konzerns oder des einzelnen Unternehmens, über den/das berichtet wird) beteiligt ist. Zwar können einzelne Unternehmen innerhalb eines Konzerns oder einzelne Abteilungen innerhalb eines Unternehmens mit anderen Unternehmen desselben Konzerns oder anderen Abteilungen desselben Unternehmens Sicherungsbeziehungen eingehen, doch werden solche konzerninternen Transaktionen bei der Konsolidierung eliminiert und kommen somit für eine Bilanzierung von Sicherungsbeziehungen im Konzernabschluss nicht infrage. Sie können jedoch die Bedingungen für eine Bilanzierung von Sicherungsbeziehungen in den Einzelabschlüssen einzelner Unternehmen des Konzerns erfüllen, sofern sie nicht zu dem Einzelunternehmen gehören, über das berichtet wird.
+
+Designation von Sicherungsinstrumenten
+
+74 In der Regel existiert für ein Sicherungsinstrument in seiner Gesamtheit nur ein einziger beizulegender Zeitwert, und die Faktoren, die bei diesem zu Veränderungen führen, bedingen sich gegenseitig. Daher wird eine Sicherungsbeziehung von einem Unternehmen stets für ein Sicherungsinstrument in seiner Gesamtheit designiert. Die einzigen zulässigen Ausnahmen sind
+a) 
+
+die Trennung eines Optionskontrakts in inneren Wert und Zeitwert, wobei nur die Veränderung des inneren Werts einer Option als Sicherungsinstrument designiert und die Veränderung des Zeitwerts ausgeklammert wird, sowie
+b) 
+
+die Trennung von Zinskomponente und Kassakurs eines Terminkontrakts.
+
+Diese Ausnahmen werden zugelassen, da der innere Wert der Option und die Prämie eines Terminkontrakts in der Regel getrennt bewertet werden können. Eine dynamische Sicherungsstrategie, bei der sowohl der innere Wert als auch der Zeitwert eines Optionskontrakts bewertet werden, kann die Bedingungen für die Bilanzierung von Sicherungsbeziehungen erfüllen.
+
+75 In einer Sicherungsbeziehung kann ein Teil des gesamten Sicherungsinstruments, beispielsweise 50 Prozent des Nominalvolumens, als Sicherungsinstrument designiert werden. Jedoch kann eine Sicherungsbeziehung nicht nur für einen Teil der Zeit, über die das Sicherungsinstrument noch läuft, designiert werden.
+
+76 Ein einzelnes Sicherungsinstrument kann zur Absicherung verschiedener Risiken eingesetzt werden, wenn (a) die abzusichernden Risiken eindeutig ermittelt werden können, (b) die Wirksamkeit der Absicherung nachgewiesen werden kann und (c) es möglich ist, eine exakte Zuordnung des Sicherungsinstruments zu den verschiedenen Risikopositionen zu gewährleisten.
+
+77 Zwei oder mehr Derivate oder Anteile davon (oder im Falle der Absicherung eines Währungsrisikos zwei oder mehr nichtderivative Instrumente oder Anteile davon bzw. eine Kombination aus derivativen und nicht derivativen Instrumenten oder Anteilen davon) können auch dann in Verbindung berücksichtigt und zusammen als Sicherungsinstrument designiert werden, wenn das aus einigen Derivaten resultierende Risiko/die aus einigen Derivaten resultierenden Risiken das aus anderen resultierende Risiko/die aus anderen resultierenden Risiken ausgleicht/ausgleichen. Ein Collar oder ein anderes derivatives Finanzinstrument, bei dem eine geschriebene Option mit einer erworbenen Option kombiniert wird, erfüllt jedoch nicht die Anforderungen an ein Sicherungsinstrument, wenn es sich netto um eine geschriebene Option handelt (für die eine Nettoprämie vereinnahmt wird). Ebenso können zwei oder mehr Finanzinstrumente (oder Anteile davon) als Sicherungsinstrumente designiert werden, jedoch nur, wenn keines von ihnen eine geschriebene Option bzw. netto eine geschriebene Option ist.
+
+Grundgeschäfte
+
+Qualifizierende Grundgeschäfte
+
+78 Ein Grundgeschäft kann ein bilanzierter Vermögenswert oder eine bilanzierte Schuld, eine bilanzunwirksame feste Verpflichtung, eine mit hoher Wahrscheinlichkeit eintretende erwartete Transaktion oder eine Nettoinvestition in einen ausländischen Geschäftsbetrieb sein. Dabei kann es sich (a) um einen einzelnen Vermögenswert, eine einzelne Schuld, eine einzelne feste Verpflichtung, eine mit hoher Wahrscheinlichkeit eintretende erwartete Einzeltransaktion oder eine einzelne Nettoinvestition in einen ausländischen Geschäftsbetrieb oder (b) um eine Gruppe von Vermögenswerten, Schulden, festen Verpflichtungen, erwarteten und mit hoher Wahrscheinlichkeit eintretenden künftigen Transaktionen oder Nettoinvestitionen in ausländische Geschäftsbetriebe mit vergleichbarem Risikoprofil oder (c) bei der Absicherung eines Portfolios gegen Zinsänderungsrisiken um einen Teil eines Portfolios an finanziellen Vermögenswerten oder Verbindlichkeiten, die demselben Risiko unterliegen, handeln.
+
+79 [gestrichen]
+
+80 Für die Bilanzierung von Sicherungsbeziehungen können als Grundgeschäfte nur Vermögenswerte, Schulden, feste Verpflichtungen oder mit hoher Wahrscheinlichkeit eintretende erwartete Transaktionen designiert werden, an denen eine nicht zum Unternehmen gehörende externe Partei beteiligt ist. Daraus folgt, dass Transaktionen zwischen Unternehmen desselben Konzerns nur in den Einzelabschlüssen dieser Unternehmen, nicht aber im Konzernabschluss als Sicherungsbeziehungen bilanziert werden können; davon ausgenommen ist der Konzernabschluss einer Investmentgesellschaft im Sinne von IFRS 10, in dem Transaktionen zwischen einer Investmentgesellschaft und ihren erfolgswirksam zum beizulegenden Zeitwert bewerteten Tochterunternehmen im Konzernabschluss nicht eliminiert werden. Eine Ausnahme stellt das Währungsrisiko aus einem konzerninternen monetären Posten (z. B. einer Verbindlichkeit/Forderung zwischen zwei Tochtergesellschaften) dar, das die Voraussetzung für ein Grundgeschäft im Konzernabschluss erfüllt, wenn es zu Gewinnen oder Verlusten aus einer Wechselkursrisikoposition führt, die gemäß IAS 21 Auswirkungen von Wechselkursänderungen bei der Konsolidierung nicht vollständig eliminiert werden. Gemäß IAS 21 werden Wechselkursgewinne und -verluste von konzerninternen monetären Posten bei der Konsolidierung nicht vollständig eliminiert, wenn der konzerninterne monetäre Posten zwischen zwei Unternehmen des Konzerns mit unterschiedlichen funktionalen Währungen abgewickelt wird. Des Weiteren können Währungsrisiken einer mit hoher Wahrscheinlichkeit eintretenden künftigen konzerninternen Transaktion die Kriterien eines Grundgeschäfts für den Konzernabschluss erfüllen, sofern die Transaktion in einer anderen Währung als der funktionalen Währung des Unternehmens, das diese Transaktion abschließt, abgewickelt wird und sich das Währungsrisiko im Konzerngewinn oder -verlust niederschlägt.
+
+Designation finanzieller Posten als Grundgeschäfte
+
+81 Ist das Grundgeschäft ein finanzieller Vermögenswert oder eine finanzielle Verbindlichkeit, so kann sich die Absicherung — sofern deren Wirksamkeit ermittelt werden kann — auf Risiken beschränken, denen lediglich ein Teil seiner Zahlungsströme oder seines beizulegenden Zeitwerts ausgesetzt ist (wie ein oder mehrere ausgewählte vertragliche Zahlungsströme oder Teile derer oder ein Anteil am beizulegenden Zeitwert). So kann beispielsweise ein identifizierbarer und gesondert bewertbarer Teil des Zinsrisikos eines zinstragenden Vermögenswerts oder einer zinstragenden Verbindlichkeit als ein abgesichertes Risiko designiert werden (wie z. B. ein risikoloser Zinssatz oder ein Referenzzinsteil des gesamten Zinsrisikos eines abgesicherten Finanzinstruments).
+
+81A Bei der Absicherung des beizulegenden Zeitwerts gegen das Zinsänderungsrisiko eines Portfolios finanzieller Vermögenswerte oder Verbindlichkeiten (und nur im Falle einer solchen Absicherung) kann der abgesicherte Teil anstatt als einzelner Vermögenswert (oder einzelne Verbindlichkeit) in Form eines Währungsbetrags (z. B. eines Dollar-, Euro-, Pfund- oder Rand-Betrags) designiert werden. Auch wenn das Portfolio für Zwecke des Risikomanagements Vermögenswerte und Verbindlichkeiten beinhalten kann, ist der designierte Betrag ein Betrag von Vermögenswerten oder ein Betrag von Verbindlichkeiten. Die Festlegung eines Nettobetrags aus Vermögenswerten und Verbindlichkeiten ist nicht zulässig. Das Unternehmen kann einen Teil des mit diesem designierten Betrag verbundenen Zinsänderungsrisikos absichern. So kann es beispielsweise bei der Absicherung eines Portfolios aus vorzeitig rückzahlbaren Vermögenswerten etwaige Veränderungen des beizulegenden Zeitwerts, die auf Änderungen beim abgesicherten Zinssatz zurückzuführen sind, auf Grundlage der erwarteten statt der vertraglichen Zinsanpassungstermine absichern. […].
+
+Designation nichtfinanzieller Posten als Grundgeschäfte
+
+82   Handelt es sich bei dem Grundgeschäft nicht um einen finanziellen Vermögenswert oder eine finanzielle Verbindlichkeit, so ist es entweder als ein gegen Währungsrisiken oder als ein insgesamt gegen alle Risiken abgesichertes Geschäft zu designieren, denn zu ermitteln, in welchem Verhältnis die Veränderungen bei Zahlungsströmen und beizulegendem Zeitwert den einzelnen Risiken zuzuordnen sind, wäre mit Ausnahme des Währungsrisikos äußerst schwierig.
+
+Designation von Gruppen von Posten als Grundgeschäfte
+
+83 Ähnliche Vermögenswerte oder Verbindlichkeiten sind nur dann zusammenzufassen und als Gruppe gegen Risiken abzusichern, wenn die einzelnen Vermögenswerte oder Verbindlichkeiten in der Gruppe demselben, als abgesichert designierten Risikofaktor unterliegen. Des Weiteren muss zu erwarten sein, dass die dem abgesicherten Risiko der einzelnen Posten der Gruppe zuzuordnende Veränderung des beizulegenden Zeitwerts zu der dem abgesicherten Risiko der gesamten Gruppe zuzuordnenden Veränderung des beizulegenden Zeitwerts in etwa in einem proportionalen Verhältnis steht.
+
+84 Da ein Unternehmen die Wirksamkeit einer Absicherung beurteilt, indem es die Veränderung des beizulegenden Zeitwerts oder der Zahlungsströme eines Sicherungsinstruments (oder einer Gruppe ähnlicher Sicherungsinstrumente) mit den entsprechenden Änderungen beim Grundgeschäft (oder einer Gruppe ähnlicher Grundgeschäfte) vergleicht, kommt ein Vergleich, bei dem ein Sicherungsinstrument nicht einem bestimmten Grundgeschäft, sondern einer gesamten Nettoposition (z. B. dem Saldo aller festverzinslichen Vermögenswerte und festverzinslichen Verbindlichkeiten mit ähnlichen Laufzeiten) gegenübergestellt wird, nicht für eine Bilanzierung von Sicherungsbeziehungen infrage.
+
+Bilanzierung von Sicherungsbeziehungen
+
+85 Bei der Bilanzierung von Sicherungsbeziehungen wird berücksichtigt, dass Veränderungen des beizulegenden Zeitwerts des Sicherungsinstruments und des Grundgeschäfts gegenläufige Auswirkungen auf den Gewinn und Verlust haben.
+
+86   Es gibt drei Arten von Sicherungsbeziehungen:
+a) 
+
+Absicherung des beizulegenden Zeitwerts: Eine Absicherung des Risikos, dass sich der beizulegende Zeitwert eines bilanzierten Vermögenswerts oder einer bilanzierten Schuld oder einer bilanzunwirksamen festen Verpflichtung oder eines genau bezeichneten Teils eines solchen Vermögenswerts, einer solchen Schuld oder festen Verpflichtung verändert, sofern diese mögliche Veränderung auf ein bestimmtes Risiko zurückzuführen ist und sich auf den Gewinn oder Verlust auswirken könnte.
+b) 
+
+Absicherung von Zahlungsströmen: Eine Absicherung gegen das Risiko schwankender Zahlungsströme, das (i) auf ein bestimmtes mit dem bilanzierten Vermögenswert oder der bilanzierten Schuld (wie beispielsweise ein Teil oder alle künftigen Zinszahlungen einer variabel verzinslichen Verbindlichkeit) oder dem mit einer mit hoher Wahrscheinlichkeit eintretenden erwarteten Transaktion verbundenen Risiko zurückzuführen ist und (ii) sich auf den Gewinn oder Verlust auswirken könnte.
+c) 
+
+Absicherung einer Nettoinvestition in einen ausländischen Geschäftsbetrieb im Sinne von IAS 21.
+
+87 Eine Absicherung des Währungsrisikos einer festen Verpflichtung kann als eine Absicherung des beizulegenden Zeitwerts oder als eine Absicherung von Zahlungsströmen bilanziert werden.
+
+88   Eine Sicherungsbeziehung erfüllt nur dann die Voraussetzungen für die Bilanzierung von Sicherungsbeziehungen gemäß den Paragraphen 89–102, wenn alle folgenden Bedingungen erfüllt sind:
+a) 
+
+Zu Beginn der Absicherung sind sowohl die Sicherungsbeziehung als auch die Risikomanagementzielsetzungen und -strategien, die das Unternehmen im Hinblick auf die Absicherung verfolgt, formal zu designieren und zu dokumentieren. Diese Dokumentation hat die Festlegung des Sicherungsinstruments, des Grundgeschäfts oder der abgesicherten Transaktion und die Art des abzusichernden Risikos zu beinhalten sowie eine Beschreibung, wie das Unternehmen die Wirksamkeit des Sicherungsinstruments bei der Kompensation der Risiken aus Veränderungen des beizulegenden Zeitwerts oder der Zahlungsströme des Grundgeschäfts bestimmen wird.
+b) 
+
+Es wird davon ausgegangen, dass das Ziel, Veränderungen bei beizulegendem Zeitwert oder Zahlungsströmen, die dem abgesicherten Risiko zuzuordnen sind, der für diese spezielle Sicherungsbeziehung ursprünglich dokumentierten Risikomanagementstrategie entsprechend zu kompensieren, mit der betreffenden Absicherung mit hoher Wahrscheinlichkeit erreicht wird (siehe Anhang A Paragraphen AL105–AL113A).
+c) 
+
+Bei Absicherungen von Zahlungsströmen muss eine der Absicherung zugrunde liegende erwartete Transaktion eine hohe Eintrittswahrscheinlichkeit haben und Risiken im Hinblick auf Schwankungen der Zahlungsströme ausgesetzt sein, die sich letztlich im Gewinn oder Verlust niederschlagen könnten.
+d) 
+
+Die Wirksamkeit der Absicherung ist verlässlich bestimmbar, d. h. der beizulegende Zeitwert oder die Zahlungsströme des Grundgeschäfts, die auf das abgesicherte Risiko zurückzuführen sind, und der beizulegende Zeitwert des Sicherungsinstruments können verlässlich ermittelt werden.
+e) 
+
+Die Sicherungsbeziehung wird fortlaufend bewertet und für sämtliche Rechnungslegungsperioden, für die sie designiert wurde, als faktisch hoch wirksam beurteilt.
+
+Absicherung des beizulegenden Zeitwerts
+
+89   Erfüllt eine Absicherung des beizulegenden Zeitwerts im Verlauf der Periode die in Paragraph 88 genannten Voraussetzungen, so ist sie wie folgt zu bilanzieren:
+a) 
+
+der Gewinn oder Verlust aus der Neubewertung des Sicherungsinstruments zum beizulegenden Zeitwert (für ein derivatives Sicherungsinstrument) oder die Währungskomponente seines gemäß IAS 21 bewerteten Buchwerts (für ein nichtderivatives Sicherungsinstrument) ist erfolgswirksam zu erfassen, und
+b) 
+
+der dem abgesicherten Risiko zuzuordnende Gewinn oder Verlust aus dem Grundgeschäft führt zu einer Anpassung des Buchwerts des Grundgeschäfts und ist erfolgswirksam zu erfassen. Dies gilt für den Fall, dass das Grundgeschäft ansonsten zu den Anschaffungskosten bewertet wird. Der dem abgesicherten Risiko zuzuordnende Gewinn oder Verlust ist erfolgswirksam zu erfassen, wenn es sich bei dem Grundgeschäft um einen finanziellen Vermögenswert handelt, der gemäß Paragraph 4.1.2A von IFRS 9 zum beizulegenden Zeitwert erfolgsneutral im sonstigen Ergebnis bewertet wird.
+
+89A Bei einer Absicherung des beizulegenden Zeitwerts gegen das Zinsänderungsrisiko eines Teils eines Portfolios finanzieller Vermögenswerte oder finanzieller Verbindlichkeiten (und nur im Falle einer solchen Absicherung) kann die Vorschrift von Paragraph 89(b) erfüllt werden, indem der dem Grundgeschäft zuzuordnende Gewinn oder Verlust entweder durch
+a) 
+
+einen einzelnen gesonderten Posten innerhalb der Vermögenswerte für jene Zinsanpassungsperioden, in denen das Grundgeschäft ein Vermögenswert ist, oder
+b) 
+
+einen einzelnen gesonderten Posten innerhalb der Verbindlichkeiten für jene Zinsanpassungsperioden, in denen das Grundgeschäft eine Verbindlichkeit ist, ausgewiesen wird.
+
+Die unter (a) und (b) genannten gesonderten Posten sind in unmittelbarer Nähe der finanziellen Vermögenswerte bzw. Verbindlichkeiten darzustellen. Die in diesen gesonderten Posten ausgewiesenen Beträge sind bei der Ausbuchung der dazugehörigen Vermögenswerte oder Verbindlichkeiten aus der Bilanz zu entfernen.
+
+90 Werden nur bestimmte mit dem Grundgeschäft verbundene Risiken abgesichert, sind erfasste Veränderungen des beizulegenden Zeitwerts eines Grundgeschäfts, die nicht dem abgesicherten Risiko zuzuordnen sind, gemäß Paragraph 5.7.1 von IFRS 9 zu erfassen.
+
+91   Ein Unternehmen hat die in Paragraph 89 dargelegte Bilanzierung von Sicherungsbeziehungen künftig einzustellen, wenn
+a) 
+
+das Sicherungsinstrument ausläuft oder veräußert, beendet oder ausgeübt wird. In diesem Sinne gilt die Ersetzung oder Fortsetzung eines Sicherungsinstruments durch ein anderes nicht als Auslaufen oder Beendigung, wenn eine derartige Ersetzung oder Fortsetzung Teil der dokumentierten Sicherungsstrategie des Unternehmens ist. In diesem Sinne liegt ebenfalls kein Auslaufen oder keine Beendigung eines Sicherungsinstruments vor, wenn
+i) 
+
+die Parteien des Sicherungsinstruments infolge bestehender oder neu erlassener Rechts- oder Regulierungsvorschriften vereinbaren, dass eine oder mehrere Clearing-Partei oder -Parteien ihre ursprüngliche Gegenpartei ersetzt oder ersetzen und zur neuen Gegenpartei aller Parteien wird oder werden. Eine Clearing-Gegenpartei in diesem Sinne ist eine zentrale Gegenpartei (mitunter „Clearingstelle“ oder „Clearinghaus“ genannt) oder ein bzw. mehrere Unternehmen, wie ein Mitglied einer Clearingstelle oder ein Kunde eines Mitglieds einer Clearingstelle, die als Gegenpartei auftreten, damit das Clearing durch eine zentrale Gegenpartei erfolgt. Ersetzen die Parteien des Sicherungsinstruments ihre ursprünglichen Gegenparteien allerdings durch unterschiedliche Gegenparteien, so gilt dieser Paragraph nur dann, wenn jede dieser Parteien ihr Clearing bei derselben zentralen Gegenpartei durchführt;
+ii) 
+
+etwaige andere Änderungen beim Sicherungsinstrument nicht über den für eine solche Ersetzung der Gegenpartei notwendigen Umfang hinausgehen. Auch müssen derartige Änderungen auf solche beschränkt sein, die den Bedingungen entsprechen, die zu erwarten wären, wenn das Sicherungsinstrument von Anfang an bei der Clearing-Gegenpartei gecleart worden wäre. Hierzu zählen auch Änderungen bei den Anforderungen an Sicherheiten, den Rechten auf Aufrechnung von Forderungen und Verbindlichkeiten und den erhobenen Entgelten;
+b) 
+
+die Sicherungsbeziehung nicht mehr die in Paragraph 88 genannten Kriterien für die Bilanzierung von Sicherungsbeziehungen erfüllt, oder
+c) 
+
+das Unternehmen die Designation zurückzieht.
+
+92   Jede auf Paragraph 89(b) beruhende Anpassung des Buchwerts eines abgesicherten Finanzinstruments, das zu fortgeführten Anschaffungskosten bewertet wird (oder im Falle einer Absicherung eines Portfolios gegen Zinsänderungsrisiken des gesonderten Bilanzpostens, wie in Paragraph 89A beschrieben) ist erfolgswirksam abzuschreiben. Sobald es eine Anpassung gibt, kann die Abschreibung beginnen, sie muss aber spätestens zu dem Zeitpunkt beginnen, an dem das Grundgeschäft nicht mehr um Veränderungen des beizulegenden Zeitwerts, die auf das abzusichernde Risiko zurückzuführen sind, angepasst wird. Die Anpassung basiert auf einem zum Zeitpunkt des Abschreibungsbeginns neu berechneten Effektivzinssatz. Wenn jedoch im Falle einer Absicherung des beizulegenden Zeitwerts gegen Zinsänderungsrisiken eines Portfolios finanzieller Vermögenswerte oder finanzieller Verbindlichkeiten (und nur bei einer solchen Absicherung) eine Abschreibung unter Einsatz eines neu berechneten Effektivzinssatzes nicht durchführbar ist, so ist der Anpassungsbetrag linear abzuschreiben. Der Anpassungsbetrag ist bis zur Fälligkeit des Finanzinstruments oder im Falle der Absicherung eines Portfolios gegen Zinsänderungsrisiken bei Ablauf des entsprechenden Zinsanpassungstermins vollständig abzuschreiben.
+
+93 Wird eine bilanzunwirksame feste Verpflichtung als Grundgeschäft designiert, so wird die nachfolgende kumulierte Veränderung des beizulegenden Zeitwerts der festen Verpflichtung, die dem abgesicherten Risiko zuzuordnen ist, als Vermögenswert oder Verbindlichkeit mit einem entsprechenden Gewinn oder Verlust erfolgswirksam erfasst (siehe Paragraph 89(b)). Die Veränderungen des beizulegenden Zeitwerts des Sicherungsinstruments sind ebenfalls erfolgswirksam zu erfassen.
+
+94 Geht ein Unternehmen eine feste Verpflichtung ein, einen Vermögenswert zu erwerben oder eine Schuld zu übernehmen, der/die im Rahmen einer Absicherung eines beizulegenden Zeitwerts ein Grundgeschäft darstellt, wird der Buchwert des Vermögenswerts oder der Schuld, der aus der Erfüllung der festen Verpflichtung des Unternehmens hervorgeht, im Zugangszeitpunkt um die kumulierte Veränderung des beizulegenden Zeitwerts der festen Verpflichtung, der auf das in der Bilanz erfasste abgesicherte Risiko zurückzuführen ist, angepasst.
+
+Absicherung von Zahlungsströmen
+
+95   Erfüllt die Absicherung von Zahlungsströmen im Verlauf der Periode die in Paragraph 88 genannten Voraussetzungen, so hat die Bilanzierung folgendermaßen zu erfolgen:
+a) 
+
+der Teil des Gewinns oder Verlusts aus einem Sicherungsinstrument, der als wirksame Absicherung ermittelt wird (siehe Paragraph 88), ist im sonstigen Ergebnis zu erfassen, und
+b) 
+
+der unwirksame Teil des Gewinns oder Verlusts aus dem Sicherungsinstruments ist erfolgswirksam zu erfassen.
+
+96 Ausführlicher dargestellt wird eine Absicherung von Zahlungsströmen folgendermaßen bilanziert:
+a) 
+
+die eigenständige, mit dem Grundgeschäft verbundene Eigenkapitalkomponente wird um den niedrigeren der folgenden Beträge (in absoluten Zahlen) angepasst:
+i) 
+
+den kumulierten Gewinn oder Verlust aus dem Sicherungsinstrument seit Beginn der Sicherungsbeziehung, und
+ii) 
+
+die kumulierte Veränderung des beizulegenden Zeitwerts (Barwerts) der erwarteten künftigen Zahlungsströme aus dem Grundgeschäft seit Beginn der Sicherungsbeziehung,
+b) 
+
+ein verbleibender Gewinn oder Verlust aus einem Sicherungsinstrument oder einer designierten Komponente davon (das keine wirksame Absicherung darstellt) wird erfolgswirksam erfasst, und
+c) 
+
+sofern die dokumentierte Risikomanagementstrategie eines Unternehmens für eine bestimmte Sicherungsbeziehung einen bestimmten Teil des Gewinns oder Verlusts oder damit verbundener Zahlungsströme aus einem Sicherungsinstrument von der Beurteilung der Wirksamkeit der Absicherung ausschließt (siehe Paragraphen 74, 75 und 88(a)), so ist dieser ausgeschlossene Gewinn- oder Verlustteil gemäß Paragraph 5.7.1 von IFRS 9 zu erfassen.
+
+97   Resultiert eine Absicherung einer erwarteten Transaktion später im Ansatz eines finanziellen Vermögenswerts oder einer finanziellen Verbindlichkeit, sind die damit verbundenen Gewinne oder Verluste, die gemäß Paragraph 95 im sonstigen Ergebnis erfasst wurden, in derselben Periode oder denselben Perioden, in der/denen die abgesicherten erwarteten Zahlungsströme erfolgswirksam werden (z. B. in den Perioden, in denen Zinserträge oder Zinsaufwendungen erfasst werden), erfolgswirksam umzugliedern und als Umgliederungsbetrag auszuweisen (siehe IAS 1 (in der 2007 überarbeiteten Fassung)). Erwartet ein Unternehmen jedoch, dass der gesamte oder ein Teil des im sonstigen Ergebnis erfassten Verlusts in einer oder mehreren der folgenden Perioden nicht wieder hereingeholt wird, hat es den voraussichtlich nicht wieder hereingeholten Betrag als Umgliederungsbetrag erfolgswirksam umzubuchen.
+
+98   Resultiert eine Absicherung einer erwarteten Transaktion später im Ansatz eines nichtfinanziellen Vermögenswerts oder einer nichtfinanziellen Verbindlichkeit oder wird eine erwartete Transaktion für einen nichtfinanziellen Vermögenswert oder eine nichtfinanzielle Verbindlichkeit zu einer festen Verpflichtung, für die die Bilanzierung für die Absicherung des beizulegenden Zeitwerts angewendet wird, hat das Unternehmen den nachfolgenden Punkt (a) oder (b) anzuwenden:
+a) 
+
+Die entsprechenden Gewinne und Verluste, die gemäß Paragraph 95 im sonstigen Ergebnis erfasst wurden, sind in derselben Periode oder denselben Perioden, in der/denen der erworbene Vermögenswert oder die übernommene Schuld erfolgswirksam wird (wie z. B. in den Perioden, in denen Abschreibungsaufwendungen oder Umsatzkosten erfasst werden), erfolgswirksam umzugliedern und als Umgliederungsbetrag auszuweisen (siehe IAS 1 (überarbeitet 2007)). Erwartet ein Unternehmen jedoch, dass der gesamte oder ein Teil des im sonstigen Ergebnis erfassten Verlusts in einer oder mehreren der folgenden Perioden nicht wieder hereingeholt wird, hat es den voraussichtlich nicht wieder hereingeholten Betrag erfolgswirksam umzugliedern und als Umgliederungsbetrag auszuweisen.
+b) 
+
+Die entsprechenden Gewinne und Verluste, die gemäß Paragraph 95 im sonstigen Ergebnis erfasst wurden, werden entfernt und Teil der Anschaffungskosten im Zugangszeitpunkt oder eines anderweitigen Buchwerts des Vermögenswerts oder der Schuld.
+
+99   Ein Unternehmen hat sich bei seiner Rechnungslegungsmethode entweder für Punkt (a) oder für (b) des Paragraphen 98 zu entscheiden und diese Methode konsequent auf alle Sicherungsbeziehungen anzuwenden, auf die sich Paragraph 98 bezieht.
+
+100   Bei anderen als den in Paragraph 97 und 98 angeführten Absicherungen von Zahlungsströmen sind die Beträge, die im sonstigen Ergebnis erfasst wurden, in derselben Periode oder denselben Perioden, in der/denen die abgesicherten erwarteten Zahlungsströme erfolgswirksam werden (z. B. wenn ein erwarteter Verkauf stattfindet), erfolgswirksam umzugliedern und als Umgliederungsbetrag auszuweisen (siehe IAS 1 (überarbeitet 2007)).
+
+101   In allen nachstehend genannten Fällen hat ein Unternehmen die in den Paragraphen 95–100 beschriebene Bilanzierung von Sicherungsbeziehungen einzustellen:
+a) 
+
+Das Sicherungsinstrument läuft aus oder wird veräußert, beendet oder ausgeübt. In diesem Fall verbleibt der kumulierte Gewinn oder Verlust aus dem Sicherungsinstrument, der seit der Periode, als die Absicherung als wirksam eingestuft wurde, im sonstigen Ergebnis erfasst wurde (siehe Paragraph 95(a)), als gesonderter Posten im Eigenkapital, bis die erwartete Transaktion eingetreten ist. Tritt die Transaktion ein, kommen die Paragraphen 97, 98 und 100 zur Anwendung. Für die Zwecke dieses Unterabsatzes gilt die Ersetzung oder Fortsetzung eines Sicherungsinstruments durch ein anderes Sicherungsinstrument nicht als Auslaufen oder Beendigung, wenn eine solche Ersetzung oder Fortsetzung Teil der dokumentierten Sicherungsstrategie des Unternehmens ist. Für die Zwecke dieses Unterabsatzes liegt ebenfalls kein Auslaufen oder keine Beendigung des Sicherungsinstruments vor, wenn
+i) 
+
+die Parteien des Sicherungsinstruments infolge bestehender oder neu erlassener Rechts- oder Regulierungsvorschriften vereinbaren, dass eine oder mehrere Clearing-Parteien ihre ursprüngliche Gegenpartei ersetzen und diese die neue Gegenpartei aller Parteien wird. Eine Clearing-Gegenpartei in diesem Sinne ist eine zentrale Gegenpartei (mitunter „Clearingstelle“ oder „Clearinghaus“ genannt) oder ein bzw. mehrere Unternehmen, wie ein Mitglied einer Clearingstelle oder ein Kunde eines Mitglieds einer Clearingstelle, die als Gegenpartei auftreten, damit das Clearing durch eine zentrale Gegenpartei erfolgt. Ersetzen die Parteien des Sicherungsinstruments ihre ursprünglichen Gegenparteien allerdings durch unterschiedliche Gegenparteien, so gilt dieser Paragraph nur dann, wenn jede dieser Parteien ihr Clearing bei derselben zentralen Gegenpartei durchführt.
+ii) 
+
+etwaige andere Änderungen beim Sicherungsinstrument nicht über den für eine solche Ersetzung der Gegenpartei notwendigen Umfang hinausgehen. Auch müssen derartige Änderungen auf solche beschränkt sein, die den Bedingungen entsprechen, die zu erwarten wären, wenn das Sicherungsinstrument von Anfang an bei der Clearing-Gegenpartei gecleart worden wäre. Hierzu zählen auch Änderungen bei den Anforderungen an Sicherheiten, den Rechten auf Aufrechnung von Forderungen und Verbindlichkeiten und den erhobenen Entgelten.
+b) 
+
+Die Sicherungsbeziehung erfüllt nicht mehr die in Paragraph 88 genannten Kriterien für die Bilanzierung von Sicherungsbeziehungen. In diesem Fall verbleibt der kumulierte Gewinn oder Verlust aus dem Sicherungsinstrument, der seit der Periode, als die Absicherung als wirksam eingestuft wurde, im sonstigen Ergebnis erfasst wird (siehe Paragraph 95(a)), als gesonderter Posten im Eigenkapital, bis die erwartete Transaktion eingetreten ist. Tritt die Transaktion ein, kommen die Paragraphen 97, 98 und 100 zur Anwendung.
+c) 
+
+Mit dem Eintreten der erwarteten Transaktion wird nicht mehr gerechnet, sodass in diesem Fall alle entsprechenden kumulierten Gewinne oder Verluste aus dem Sicherungsinstrument, die seit der Periode, als die Absicherung als wirksam eingestuft wurde, im sonstigen Ergebnis erfasst wurden (siehe Paragraph 95(a)), erfolgswirksam umzugliedern und als Umgliederungsbetrag auszuweisen sind. Auch wenn das Eintreten einer erwarteten Transaktion nicht mehr hoch wahrscheinlich ist (siehe Paragraph 88(c)), kann damit jedoch immer noch gerechnet werden.
+d) 
+
+Das Unternehmen zieht die Designation zurück. Für Absicherungen einer erwarteten Transaktion wird der kumulierte Gewinn oder Verlust aus dem Sicherungsinstrument, der seit der Periode, als die Sicherungsbeziehung als wirksam eingestuft wurde, im sonstigen Ergebnis erfasst wird (siehe Paragraph 95(a)), weiterhin gesondert im Eigenkapital ausgewiesen, bis die erwartete Transaktion eingetreten ist oder deren Eintreten nicht mehr erwartet wird. Tritt die Transaktion ein, kommen die Paragraphen 97, 98 und 100 zur Anwendung. Wenn das Eintreten der Transaktion nicht mehr erwartet wird, ist der im sonstigen Ergebnis erfasste kumulierte Gewinn oder Verlust erfolgswirksam umzugliedern und als Umgliederungsbetrag auszuweisen.
+
+Absicherungen einer Nettoinvestition
+
+102   Absicherungen einer Nettoinvestition in einen ausländischen Geschäftsbetrieb, einschließlich einer Absicherung eines monetären Postens, der als Teil der Nettoinvestition behandelt wird (siehe IAS 21), sind in gleicher Weise zu bilanzieren wie die Absicherung von Zahlungsströmen:
+a) 
+
+der Teil des Gewinns oder Verlusts aus einem Sicherungsinstrument, der als wirksame Absicherung ermittelt wird (siehe Paragraph 88) ist im sonstigen Ergebnis zu erfassen, und
+b) 
+
+der nicht wirksame Teil ist erfolgswirksam zu erfassen.
+
+Der Gewinn oder Verlust aus einem Sicherungsinstrument, der dem wirksamen Teil der Sicherungsbeziehung zuzurechnen ist und im sonstigen Ergebnis erfasst wurde, ist bei der Veräußerung oder teilweisen Veräußerung des ausländischen Geschäftsbetriebs gemäß IAS 21 Paragraph 48–49 erfolgswirksam umzugliedern und als Umgliederungsbetrag (siehe IAS 1 (überarbeitet 2007)) auszuweisen.
+
+Befristete Ausnahmen von der Anwendung spezieller Vorschriften für die Bilanzierung von Sicherungsbeziehungen
+
+102A Ein Unternehmen hat die Paragraphen 102D–102N und 108G auf alle Sicherungsbeziehungen anzuwenden, die von der Reform der Referenzzinssätze unmittelbar betroffen sind. Diese Paragraphen gelten ausschließlich für Sicherungsbeziehungen der genannten Art. Eine Sicherungsbeziehung ist nur dann unmittelbar von der Reform der Referenzzinssätze betroffen, wenn die Reform Unsicherheiten in Bezug auf Folgendes aufwirft:
+a) 
+
+den als abgesichertes Risiko designierten (vertraglich oder nicht vertraglich spezifizierten) Referenzzinssatz und/oder
+b) 
+
+den Zeitpunkt oder die Höhe referenzzinssatzbasierter Zahlungsströme des Grundgeschäfts oder des Sicherungsinstruments.
+
+102B Für die Zwecke der Anwendung der Paragraphen 102D–102N bezeichnet der Begriff „Reform der Referenzzinssätze“ die marktweite Reform von Referenzzinssätzen, einschließlich ihrer Ablösung durch einen alternativen Referenzsatz, wie sie sich aus den Empfehlungen im Bericht des Finanzstabilitätsrates „Reforming Major Interest Rate Benchmarks“ ( 30 ) vom Juli 2014 ergibt.
+
+102C Die in den Paragraphen 102D–102N vorgesehenen Ausnahmen gelten nur für die dort genannten Vorschriften. Ein Unternehmen hat alle anderen Vorschriften für die Bilanzierung von Sicherungsbeziehungen auch weiterhin auf die von der Reform der Referenzzinssätze unmittelbar betroffenen Sicherungsbeziehungen anzuwenden.
+
+Anforderung einer „hohen Wahrscheinlichkeit“ bei der Absicherung von Zahlungsströmen
+
+102D Für die Zwecke der Anwendung der Anforderung nach Paragraph 88(c), wonach eine erwartete Transaktion eine hohe Eintrittswahrscheinlichkeit haben muss, hat ein Unternehmen anzunehmen, dass sich der (vertraglich oder nichtvertraglich spezifizierte) Referenzzinssatz, auf dem die abgesicherten Zahlungsströme beruhen, durch die Reform der Referenzzinssätze nicht verändert.
+
+Umgliederung des im sonstigen Ergebnis erfassten kumulierten Gewinns oder Verlusts
+
+102E Für die Zwecke der Anwendung der Anforderung nach Paragraph 101(c) hat ein Unternehmen bei der Beurteilung der Frage, ob mit dem Eintreten der erwarteten Transaktion nicht mehr zu rechnen ist, anzunehmen, dass sich der (vertraglich oder nichtvertraglich spezifizierte) Referenzzinssatz, auf dem die abgesicherten Zahlungsströme beruhen, durch die Reform der Referenzzinssätze nicht verändert.
+
+Beurteilung der Wirksamkeit
+
+102F Für die Zwecke der Anwendung der Anforderung der Paragraphen 88(b) und AL105(a) hat ein Unternehmen anzunehmen, dass sich der (vertraglich oder nichtvertraglich spezifizierte) Referenzzinssatz, auf dem die abgesicherten Zahlungsströme und/oder das abgesicherte Risiko beruhen, oder der Referenzzinssatz, auf dem die Zahlungsströme des Sicherungsinstruments beruhen, durch die Reform der Referenzzinssätze nicht verändert.
+
+102G Für die Zwecke der Anwendung der Anforderung des Paragraphen 88(e) muss ein Unternehmen eine Sicherungsbeziehung nicht beenden, wenn die tatsächlichen Ergebnisse der Absicherung nicht den Anforderungen des Paragraphen AL105(b) entsprechen. Um sämtliche Zweifel auszuschließen, hat ein Unternehmen für die Beurteilung der Frage, ob die Sicherungsbeziehung beendet werden muss, die anderen Bedingungen des Paragraphen 88 anzuwenden, einschließlich der in Paragraph 88(b) vorgesehenen prospektiven Beurteilung.
+
+Designation finanzieller Posten als Grundgeschäfte
+
+102H Sofern nicht Paragraph 102I anwendbar ist, muss ein Unternehmen bei der Absicherung eines nichtvertraglich spezifizierten Referenzteils des Zinsänderungsrisikos die Anforderungen der Paragraphen 81 und AL99F (wonach der designierte Teil gesondert identifizierbar sein muss) nur zu Beginn der Sicherungsbeziehung erfüllen.
+
+102I Wenn ein Unternehmen entsprechend seiner Sicherungsdokumentation eine Sicherungsbeziehung häufig erneuert (d. h. beendet und neu beginnt), da sich sowohl das Sicherungsinstrument als auch das Grundgeschäft häufig ändern (d. h. das Unternehmen einen dynamischen Prozess anwendet, bei dem sowohl die Grundgeschäfte als auch die zur Steuerung dieses Risikos eingesetzten Sicherungsinstrumente nicht lange dieselben bleiben), muss es die Anforderungen der Paragraphen 81 und AL99F (wonach der designierte Teil gesondert identifizierbar sein muss) nur bei der erstmaligen Designation eines Grundgeschäfts in dieser Sicherungsbeziehung erfüllen. Wurde ein Grundgeschäft bei seiner erstmaligen Designation in einer Sicherungsbeziehung einer Beurteilung unterzogen, so muss es unabhängig davon, ob diese Beurteilung zu Beginn der Sicherungsbeziehung oder danach erfolgte, bei einer neuerlichen Designation innerhalb derselben Sicherungsbeziehung nicht erneut beurteilt werden.
+
+Ende der Anwendung
+
+102J Ein Unternehmen hat die Anwendung des Paragraphen 102D auf ein Grundgeschäft prospektiv zum früheren der nachstehend genannten Zeitpunkte einzustellen:
+a) 
+
+wenn die durch die Reform der Referenzzinssätze bedingte Unsicherheit, was den Zeitpunkt und die Höhe der referenzzinssatzbasierten Zahlungsströme aus dem Grundgeschäft angeht, nicht mehr besteht und
+b) 
+
+wenn die Sicherungsbeziehung, zu der das Grundgeschäft gehört, beendet wird.
+
+102K Ein Unternehmen hat die Anwendung des Paragraphen 102E prospektiv zum früheren der nachstehend genannten Zeitpunkte einzustellen:
+a) 
+
+wenn die durch die Reform der Referenzzinssätze bedingte Unsicherheit, was den Zeitpunkt und die Höhe der referenzzinssatzbasierten künftigen Zahlungsströme aus dem Grundgeschäft angeht, nicht mehr besteht und
+b) 
+
+wenn der im sonstigen Ergebnis erfasste kumulierte Gewinn oder Verlust aus dieser beendeten Sicherungsbeziehung in voller Höhe erfolgswirksam umgegliedert wurde.
+
+102L Ein Unternehmen hat die Anwendung des Paragraphen 102F in folgenden Fällen prospektiv einzustellen:
+a) 
+
+bei einem Grundgeschäft, wenn die durch die Reform der Referenzzinssätze bedingte Unsicherheit, was das abgesicherte Risiko oder den Zeitpunkt und die Höhe der referenzzinssatzbasierten Zahlungsströme aus dem Grundgeschäft angeht, nicht mehr besteht und
+b) 
+
+bei einem Sicherungsinstrument, wenn die durch die Reform der Referenzzinssätze bedingte Unsicherheit, was den Zeitpunkt und die Höhe der referenzzinssatzbasierten Zahlungsströme aus dem Sicherungsinstrument angeht, nicht mehr besteht.
+
+Wenn die Sicherungsbeziehung, zu der das Grundgeschäft und das Sicherungsinstrument gehören, vor dem in Paragraph 102L(a) oder dem in Paragraph 102L(b) genannten Datum beendet wird, hat das Unternehmen die Anwendung des Paragraphen 102F auf diese Sicherungsbeziehung zum Zeitpunkt der Beendigung prospektiv einzustellen.
+
+102M Ein Unternehmen hat die Anwendung des Paragraphen 102G auf eine Sicherungsbeziehung prospektiv zum früheren der nachstehend genannten Zeitpunkte einzustellen:
+a) 
+
+wenn die durch die Reform der Referenzzinssätze bedingte Unsicherheit, was das abgesicherte Risiko sowie den Zeitpunkt und die Höhe der referenzzinssatzbasierten Zahlungsströme aus dem Grundgeschäft und dem Sicherungsinstrument angeht, nicht mehr besteht und
+b) 
+
+wenn die Sicherungsbeziehung, auf die die Ausnahme angewandt wird, beendet wird.
+
+102N Wenn ein Unternehmen eine Gruppe von Geschäften als Grundgeschäft oder eine Kombination von Finanzinstrumenten als Sicherungsinstrument designiert, hat es die Anwendung der Paragraphen 102D–102G auf ein einzelnes Grundgeschäft oder Finanzinstrument gemäß den Paragraphen 102J, 102K, 102L oder 102M – je nachdem, welcher im Einzelfall einschlägig ist – einzustellen, wenn die durch die Reform der Referenzzinssätze bedingte Unsicherheit, was das abgesicherte Risiko und/oder den Zeitpunkt und die Höhe der referenzzinssatzbasierten Zahlungsströme aus diesem Grundgeschäft oder Finanzinstrument angeht, nicht mehr besteht.
+
+102O Ein Unternehmen hat die Anwendung der Paragraphen 102H und 102I prospektiv zum früheren der nachstehend genannten Zeitpunkte einzustellen:
+a) 
+
+wenn an dem nicht vertraglich spezifizierten Risikoanteil unter Anwendung des Paragraphen 102P Änderungen vorgenommen werden, die aufgrund der Reform der Referenzzinssätze erforderlich sind, oder
+b) 
+
+wenn die Sicherungsbeziehung, in der der nicht vertraglich spezifizierte Risikoanteil designiert ist, beendet wird.
+
+Weitere durch die Reform der Referenzzinsätze bedingte vorübergehende Ausnahmen
+
+Bilanzierung von Sicherungsbeziehungen
+
+102P Sobald die Bestimmungen der Paragraphen 102D–102I auf eine Sicherungsbeziehung nicht mehr anwendbar sind (siehe die Paragraphen 102J–102O), hat ein Unternehmen die formale Designation der jeweiligen Sicherungsbeziehung in der zuvor dokumentierten Weise anzupassen, um den aufgrund der Reform der Referenzzinssätze erforderlichen Änderungen Rechnung zu tragen, d. h. die Änderungen stehen im Einklang mit den Bestimmungen der Paragraphen 5.4.6–5.4.8 von IFRS 9. In diesem Zusammenhang ist die Designation der Sicherungsbeziehung nur anzupassen, wenn eine oder mehrere der folgenden Änderungen vorgenommen werden:
+a) 
+
+eine Designation eines alternativen (vertraglich oder nichtvertraglich spezifizierten) Referenzzinssatzes als abgesichertes Risiko,
+b) 
+
+eine Anpassung der Beschreibung des Grundgeschäfts, einschließlich der Beschreibung des designierten Teils der abgesicherten Zahlungsströme oder des abgesicherten beizulegenden Zeitwerts,
+c) 
+
+eine Anpassung der Beschreibung des Sicherungsinstruments oder
+d) 
+
+eine Anpassung der Beschreibung der Art und Weise, wie das Unternehmen die Wirksamkeit der Absicherung beurteilen wird.
+
+102Q Die Bestimmungen des Paragraphen 102P(c) sind auch anzuwenden, wenn die folgenden drei Bedingungen erfüllt sind:
+a) 
+
+das Unternehmen nimmt eine aufgrund der Reform der Referenzzinssätze erforderliche Änderung auf andere Weise vor als durch eine Änderung der Basis für die Ermittlung der vertraglichen Zahlungsströme des Sicherungsinstruments (wie in Paragraph 5.4.6 von IFRS 9 beschrieben),
+b) 
+
+das ursprüngliche Sicherungsinstrument wird nicht ausgebucht, und
+c) 
+
+die gewählte Vorgehensweise ist wirtschaftlich gleichwertig mit einer Änderung der Basis für die Ermittlung der vertraglichen Zahlungsströme des ursprünglichen Sicherungsinstruments (wie in den Paragraphen 5.4.7 und 5.4.8 von IFRS 9 beschrieben).
+
+102R Die Bestimmungen der Paragraphen 102D–102I können zu unterschiedlichen Zeitpunkten ihre Anwendbarkeit verlieren. Daher kann ein Unternehmen in Anwendung des Paragraphen 102P dazu verpflichtet sein, die formale Designation seiner Sicherungsbeziehungen zu unterschiedlichen Zeitpunkten anzupassen oder die formale Designation einer Sicherungsbeziehung mehr als einmal anzupassen. Nur dann, wenn eine solche Änderung an der Designation der Sicherungsbeziehung vorgenommen wird, hat ein Unternehmen je nach Fall die Paragraphen 102V–102Z2 anzuwenden. Ein Unternehmen hat zudem Paragraph 89 (bei einer Absicherung des beizulegenden Zeitwerts) oder Paragraph 96 (bei einer Absicherung von Zahlungsströmen) anzuwenden, um etwaige Veränderungen des beizulegenden Zeitwerts des Grundgeschäfts oder des Sicherungsinstruments zu bilanzieren.
+
+102S Eine Sicherungsbeziehung ist gemäß Paragraph 102P spätestens bis zum Ende jener Berichtsperiode anzupassen, in der eine aufgrund der Reform der Referenzzinssätze erforderliche Änderung des abgesicherten Risikos, des Grundgeschäfts oder des Sicherungsinstruments vorgenommen wird. Der Klarheit halber sei darauf hingewiesen, dass eine solche Anpassung der formalen Designation einer Sicherungsbeziehung weder die Beendigung der Sicherungsbeziehung noch die Designation einer neuen Sicherungsbeziehung darstellt.
+
+102T Werden zusätzlich zu den aufgrund der Reform der Referenzzinssätze erforderlichen Änderungen weitere Änderungen an dem/der in einer Sicherungsbeziehung designierten finanziellen Vermögenswert oder finanziellen Verbindlichkeit (wie in den Paragraphen 5.4.6–5.4.8 von IFRS 9 beschrieben) oder an der Designation der Sicherungsbeziehung (gemäß Paragraph 102P) vorgenommen, so hat ein Unternehmen zunächst die geltenden Anforderungen dieses Standards anzuwenden, um zu ermitteln, ob diese zusätzlichen Änderungen die Beendigung der Bilanzierung von Sicherungsbeziehungen bewirken. Führen die zusätzlichen Änderungen nicht zur Beendigung der Bilanzierung von Sicherungsbeziehungen, hat ein Unternehmen die formale Designation der Sicherungsbeziehung gemäß Paragraph 102P anzupassen.
+
+102U Die in den Paragraphen 102V–102Z3 vorgesehenen Ausnahmen gelten nur für die dort genannten Anforderungen. Auf Sicherungsbeziehungen, die von der Reform der Referenzzinssätze unmittelbar betroffen sind, sind alle anderen in diesem Standard enthaltenen Vorschriften zur Bilanzierung von Sicherungsbeziehungen anzuwenden, einschließlich der in Paragraph 88 genannten Kriterien.
+
+Bilanzierung qualifizierender Sicherungsbeziehungen
+
+Rückwirkende Beurteilung der Wirksamkeit
+
+102V Für die Zwecke der Beurteilung der rückwirkenden Wirksamkeit einer Sicherungsbeziehung auf kumulativer Basis in Anwendung des Paragraphen 88(e) – und nur zu für diese Zwecke – darf sich ein Unternehmen dafür entscheiden, die kumulierten Veränderungen des beizulegenden Zeitwerts des Grundgeschäfts und des Sicherungsinstruments zu dem Zeitpunkt auf null zurückzusetzen, ab dem es Paragraph 102G gemäß der Anforderung des Paragraphen 102M nicht mehr anwendet. Diese Entscheidung kann für jede Sicherungsbeziehung gesondert getroffen werden (d. h. auf Grundlage jeder einzelnen Sicherungsbeziehung).
+
+Absicherung von Zahlungsströmen
+
+102W Für die Zwecke der Anwendung des Paragraphen 97 wird zu dem Zeitpunkt, zu dem ein Unternehmen die Beschreibung eines Grundgeschäfts gemäß Paragraph 102P(b) anpasst, unterstellt, dass der im sonstigen Ergebnis erfasste kumulierte Ertrag oder Aufwand auf dem alternativen Referenzzinssatz basiert, anhand dessen die abgesicherten künftigen Zahlungsströme ermittelt werden.
+
+102X Wird bei einer beendeten Sicherungsbeziehung der Referenzzinssatz, auf dem die abgesicherten künftigen Zahlungsströme basierten, entsprechend den Anforderungen der Reform der Referenzzinssätze geändert, so wird für die Zwecke der Anwendung des Paragraphen 101(c) hinsichtlich der Feststellung, ob mit dem Eintreten der abgesicherten künftigen Zahlungsströme zu rechnen ist, unterstellt, dass der im sonstigen Ergebnis für die jeweilige Sicherungsbeziehung erfasste kumulierte Betrag auf dem alternativen Referenzzinssatz basiert, auf dem die abgesicherten künftigen Zahlungsströme beruhen werden.
+
+Gruppen von Grundgeschäften
+
+102Y Wenn ein Unternehmen Paragraph 102P auf Gruppen von Geschäften anwendet, die bei einer Absicherung des beizulegenden Zeitwerts oder bei einer Absicherung von Zahlungsströmen als Grundgeschäfte designiert werden, hat es die Grundgeschäfte auf Basis des abgesicherten Referenzzinssatzes Untergruppen zuzuordnen und für jede Untergruppe den Referenzzinssatz als abgesichertes Risiko zu designieren. Bei einer Sicherungsbeziehung, bei der eine Gruppe von Grundgeschäften gegen Änderungen eines von der Reform der Referenzzinssätze betroffenen Referenzzinssatzes abgesichert wird, könnten zum Beispiel die abgesicherten Zahlungsströme oder der abgesicherte beizulegende Zeitwert einiger Grundgeschäfte der Gruppe auf einen alternativen Referenzzinssatz umgestellt werden, bevor dies bei anderen Grundgeschäften der Gruppe der Fall ist. In diesem Beispiel würde das Unternehmen in Anwendung des Paragraphen 102P den alternativen Referenzzinssatz als abgesichertes Risiko für diese relevante Untergruppe von Grundgeschäften designieren. Für die andere Untergruppe von Grundgeschäften würde das Unternehmen weiterhin den geltenden Referenzzinssatz als abgesichertes Risiko designieren, bis die abgesicherten Zahlungsströme oder der abgesicherte beizulegende Zeitwert dieser Grundgeschäfte auf den alternativen Referenzzinssatz umgestellt werden, oder die Grundgeschäfte auslaufen und durch Grundgeschäfte ersetzt werden, denen der alternative Referenzzinssatz zugrunde liegt.
+
+102Z Ein Unternehmen hat für jede Untergruppe separat zu beurteilen, ob sie die in den Paragraphen 78 und 83 genannten Anforderungen an ein geeignetes Grundgeschäft erfüllt. Erfüllt eine Untergruppe die Anforderungen der Paragraphen 78 und 83 nicht, hat das Unternehmen die Bilanzierung von Sicherungsbeziehungen prospektiv für die Sicherungsbeziehung in ihrer Gesamtheit einzustellen. Ein Unternehmen hat auch die Vorschriften der Paragraphen 89 oder 96 anzuwenden, um eine Unwirksamkeit hinsichtlich der Sicherungsbeziehung in ihrer Gesamtheit zu bilanzieren.
+
+Designation finanzieller Posten als Grundgeschäfte
+
+102Z1 Ein alternativer Referenzzinssatz, der als nichtvertraglich spezifizierter Risikoanteil designiert und zum Zeitpunkt der Designation nicht separat identifizierbar ist (siehe die Paragraphen 81 und AL99F), wird nur dann als separat identifizierbar zu diesem Zeitpunkt unterstellt, wenn das Unternehmen vernünftigerweise davon ausgehen kann, dass der alternative Referenzzinssatz innerhalb eines Zeitraums von 24 Monaten ab dem Zeitpunkt der Designation als Risikokomponente separat identifizierbar sein wird. Der Zeitraum von 24 Monaten gilt gesondert für jeden alternativen Referenzzinssatz und beginnt ab dem Zeitpunkt, an dem das Unternehmen den jeweiligen alternativen Referenzzinssatz erstmals als nichtvertraglich spezifizierten Risikoanteil designiert hat (d. h. der Zeitraum von 24 Monaten gilt eigenständig für jeden Zinssatz).
+
+102Z2 Wenn ein Unternehmen zu einem späteren Zeitpunkt vernünftigerweise davon ausgehen muss, dass der alternative Referenzzinssatz innerhalb von 24 Monaten ab dem Zeitpunkt, zu dem das Unternehmen ihn erstmals als nichtvertraglich spezifizierten Risikoanteil designiert hat, nicht separat identifizierbar sein wird, hat es die Anwendung der in Paragraph 102Z1 genannten Anforderung auf diesen alternativen Referenzzinssatz zu beenden und die Bilanzierung von Sicherungsbeziehungen ab dem Zeitpunkt dieser Neubeurteilung prospektiv für alle Sicherungsbeziehungen, bei denen der alternative Referenzzinssatz als nicht vertraglich spezifizierter Risikoanteil designiert wurde, einzustellen.
+
+102Z3 Zusätzlich zu den in Paragraph 102P genannten Sicherungsbeziehungen hat ein Unternehmen die Bestimmungen der Paragraphen 102Z1 und 102Z2 auf neue Sicherungsbeziehungen anzuwenden, bei denen ein alternativer Referenzzinssatz als nicht vertraglich spezifizierter Risikoanteil designiert wird (siehe die Paragraphen 81 und AL99F), wenn der jeweilige Risikoanteil aufgrund der Reform der Referenzzinssätze zum Zeitpunkt seiner Designation nicht separat identifizierbar ist.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+103 Dieser Standard (einschließlich der im März 2004 veröffentlichten Änderungen) ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung ist zulässig. Dieser Standard (einschließlich der im März 2004 veröffentlichten Änderungen) darf nicht auf vor dem 1. Januar 2005 beginnende Geschäftsjahre angewandt werden, es sei denn, das Unternehmen wendet IAS 32 (veröffentlicht im Dezember 2003) ebenfalls an. Wendet ein Unternehmen diesen Standard auf Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+103A [gestrichen]
+
+103B [gestrichen]
+
+103C Durch IAS 1 (überarbeitet 2007) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 95(a), 97, 98, 100, 102, 108 und AL99B geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (überarbeitet 2007) auf eine frühere Periode an, so hat es auf diese Periode auch diese Änderungen anzuwenden.
+
+103D [gestrichen]
+
+103E Durch IFRS 27 (in der 2008 geänderten Fassung) wurde Paragraph 102 geändert. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IAS 27 (geändert 2008) auf eine frühere Periode an, so hat es auf diese Periode auch die genannte Änderung anzuwenden.
+
+103F [gestrichen]
+
+103G Die Paragraphen AL99BA, AL99E, AL99F, AL110A und AL110B sind gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen Geeignete Grundgeschäfte (Änderung an IAS 39) auf Berichtsperioden an, die vor dem 1. Juli 2009 beginnen, hat es dies anzugeben.
+
+103H–103J [gestrichen]
+
+103K Durch die Verbesserungen an den IFRS, veröffentlicht im April 2009, wurden die Paragraphen 2(g), 97 und 100 geändert. Die Änderungen dieser Paragraphen sind für Geschäftsjahre, die am oder nach dem 1. Januar 2010 beginnen, prospektiv auf alle noch nicht abgelaufenen Verträge anzuwenden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderungen auf eine frühere Berichtsperiode an, hat es dies anzugeben.
+
+103L–103P [gestrichen]
+
+103Q Durch IFRS 13, veröffentlicht im Mai 2011, wurde(n) die Paragraphen 9, 13, 28, 47, 88, AL46, AL52, AL64, AL76, AL76A, AL80, AL81 und AL96 geändert, der Paragraph 43A eingefügt und die Paragraphen 48–49, AL69–AL75, AL77–AL79 und AL82 gestrichen. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+103R Durch die im Oktober 2012 veröffentlichte Verlautbarung Investmentgesellschaften (Investment Entities) (Änderungen an IFRS 10, IFRS 12 und IAS 27) wurden die Paragraphen 2 und 80 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es alle in der Verlautbarung enthaltenen Änderungen gleichzeitig anzuwenden.
+
+103S [gestrichen]
+
+103T Durch IFRS 15 Erlöse aus Verträgen mit Kunden, veröffentlicht im Mai 2014, wurden die Paragraphen 2, 9, 43, 47, 55, AL2, AL4 und AL48 geändert und die Paragraphen 2A, 44A, 55A sowie AL8A–AL8C eingefügt. Wendet ein Unternehmen IFRS 15 an, sind diese Änderungen ebenfalls anzuwenden.
+
+103U Durch IFRS 9 (in der im Juli 2014 veröffentlichten Fassung) wurden die Paragraphen 2, 8, 9, 71, 88–90, 96, AL95, AL114, AL118 und die Überschriften vor A133 geändert und die Paragraphen 1, 4–7, 10–70, 103B, 103D, 103F, 103H–103J, 103L–103P, 103S, 105–107A, 108E–108F, AL1–AL93 und AL96 gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+103V [Dieser Paragraph wurde für Unternehmen eingefügt, die IFRS 9 nicht angewendet hatten.].
+
+104 Soweit in Paragraph 108 nicht anders festgelegt, ist dieser Standard rückwirkend anzuwenden. Der Eröffnungsbilanzwert der Gewinnrücklagen für die früheste vorangegangene dargestellte Periode sowie alle anderen Vergleichsbeträge sind so anzupassen, als wäre dieser Standard immer angewandt worden, es sei denn, eine solche Anpassung wäre undurchführbar. Ist dies der Fall, hat das Unternehmen dies anzugeben und aufzuführen, inwieweit die Informationen angepasst wurden.
+
+105–107A [gestrichen]
+
+108 Ein Unternehmen darf den Buchwert nichtfinanzieller Vermögenswerte und nichtfinanzieller Verbindlichkeiten nicht anpassen, um Gewinne und Verluste aus Absicherungen von Zahlungsströmen, die vor dem Beginn des Geschäftsjahrs, in dem der vorliegende Standard zuerst angewendet wurde, in den Buchwert eingeschlossen waren, auszuschließen. Zu Beginn der Berichtsperiode, in der der vorliegende Standard erstmalig angewendet wird, ist jeder nicht erfolgswirksam (im sonstigen Ergebnis oder direkt im Eigenkapital) erfasste Betrag für eine Absicherung einer festen Verpflichtung, die gemäß diesem Standard als eine Absicherung eines beizulegenden Zeitwerts behandelt wird, in einen Vermögenswert oder eine Verbindlichkeit umzugliedern, mit Ausnahme einer Absicherung des Währungsrisikos, die weiterhin als Absicherung von Zahlungsströmen behandelt wird.
+
+108A Der letzte Satz des Paragraphen 80 sowie die Paragraphen AL99A und AL99B sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2006 beginnen. Eine frühere Anwendung wird empfohlen. Wenn ein Unternehmen eine erwartete externe Transaktion, die
+a) 
+
+auf die funktionale Währung des Unternehmens lautet, das die Transaktion abschließt,
+b) 
+
+zu einem Risiko führt, das sich auf den Konzerngewinn oder -verlust auswirkt (d. h. auf eine andere Währung als die Darstellungswährung des Konzerns lautet), und
+c) 
+
+die Kriterien für die Bilanzierung von Sicherungsbeziehungen erfüllen würde, wenn sie nicht auf die funktionale Währung des abschließenden Unternehmens lautete,
+
+als Grundgeschäft designiert hat, kann es auf die Periode/die Perioden vor dem Zeitpunkt der Anwendung des letzten Satzes des Paragraphen 80 und der Paragraphen AL99A und AL99B im Konzernabschluss die Bilanzierung für Sicherungsbeziehungen anwenden.
+
+108B Ein Unternehmen muss den Paragraphen AL99B nicht auf Vergleichsinformationen anwenden, die sich auf Perioden vor dem Zeitpunkt der Anwendung des letzten Satzes des Paragraphen 80 und des Paragraphen AL99A beziehen.
+
+108C Durch die Verbesserungen der IFRS, veröffentlicht im Mai 2008, wurden die Paragraphen 73 und AL8 geändert. Durch die Verbesserungen der IFRS, veröffentlicht im April 2009, wurde Paragraph 80 geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen für eine frühere Berichtsperiode an, hat es dies anzugeben.
+
+108D Durch die im Juni 2013 unter dem Titel Novation von Derivaten und Fortsetzung der Bilanzierung von Sicherungsgeschäften veröffentlichten Änderungen an IAS 39 wurden die Paragraphen 91 und 101 geändert und der Paragraph AL113A eingefügt. Diese Paragraphen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2014 beginnen. Diese Änderungen sind gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler rückwirkend anzuwenden. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben.
+
+108E–108F [gestrichen]
+
+108G Durch die im September 2019 veröffentlichte Verlautbarung Reform der Referenzzinssätze, mit der IFRS 9, IAS 39 und IFRS 7 geändert wurden, wurden die Paragraphen 102A–102N eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben. Diese Änderungen sind rückwirkend nur auf Sicherungsbeziehungen anzuwenden, die zu Beginn des Berichtszeitraums, in dem das Unternehmen diese Änderungen erstmals anwendet, bereits bestanden oder danach designiert wurden, und auf den im sonstigen Ergebnis erfassten Gewinn oder Verlust, der zu Beginn der Berichtsperiode, in der das Unternehmen diese Änderungen erstmals anwendet, bereits angefallen war.
+
+108H Durch die im August 2020 veröffentlichte Verlautbarung Reform der Referenzzinsätze – Phase 2, mit der IFRS 9, IAS 39, IFRS 7, IFRS 4 und IFRS 16 geändert wurden, wurde(n) die Paragraphen 102O–102Z3 und 108I–108K eingefügt und Paragraph 102M geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2021 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf eine frühere Periode an, hat es dies anzugeben. Soweit in den Paragraphen 108I–108K nicht anders festgelegt, sind diese Änderungen gemäß IAS 8 rückwirkend anzuwenden.
+
+108I Ein Unternehmen darf eine neue Sicherungsbeziehung (z. B. wie in Paragraph 102Z3 beschrieben) nur prospektiv designieren (d. h. in Vorperioden darf ein Unternehmen keine neue Sicherungsbeziehung designieren). Ein Unternehmen hat eine beendete Sicherungsbeziehung nur dann wieder herzustellen, wenn die folgenden Bedingungen erfüllt sind:
+a) 
+
+Das Unternehmen hatte die jeweilige Sicherungsbeziehung nur aufgrund von Veränderungen beendet, die die Reform der Referenzzinssätze notwendig gemacht hatte, und das Unternehmen hätte die Sicherungsbeziehung nicht beenden müssen, wenn diese Änderungen zu diesem Zeitpunkt bereits angewandt worden wären, und
+b) 
+
+zu Beginn der Berichtsperiode, in der ein Unternehmen diese Änderungen erstmals anwendet (Datum der erstmaligen Anwendung der Änderungen), erfüllt die beendete Sicherungsbeziehung die Voraussetzungen für die Bilanzierung von Sicherungsbeziehungen (nach Berücksichtigung der Änderungen).
+
+108J Falls ein Unternehmen eine beendete Sicherungsbeziehung in Anwendung des Paragraphen 108I wieder herstellt, hat es die in den Paragraphen 102Z1 und 102Z2 enthaltenen Bezugnahmen auf den Zeitpunkt der erstmaligen Designation des alternativen Referenzzinssatzes als nichtvertraglich spezifizierten Risikoanteil als Bezugnahmen auf den Zeitpunkt der erstmaligen Anwendung der Änderungen auszulegen (d. h. der Zeitraum von 24 Monaten für den jeweiligen alternativen Referenzzinssatz, der als nichtvertraglich spezifizierter Risikoanteil designiert ist, beginnt mit dem Zeitpunkt der erstmaligen Anwendung dieser Änderungen).
+
+108K Ein Unternehmen ist nicht verpflichtet, Vorperioden anzupassen, um der Anwendung dieser Änderungen Rechnung zu tragen. Ein Unternehmen darf Vorperioden nur dann anpassen, wenn dabei keine nachträglichen Erkenntnisse verwendet werden. Passt ein Unternehmen Vorperioden nicht an, hat es etwaige Differenzen zwischen dem bisherigen Buchwert und dem Buchwert zu Beginn des Geschäftsjahrs, in das der Zeitpunkt der erstmaligen Anwendung der Änderungen fällt, im Eröffnungsbilanzwert der Gewinnrücklagen (oder einer anderen als sachgerecht angesehenen Eigenkapitalkomponente) des Geschäftsjahrs zu erfassen, in das der Zeitpunkt der erstmaligen Anwendung der Änderungen fällt.
+
+RÜCKNAHME ANDERER VERLAUTBARUNGEN
+
+109 Dieser Standard ersetzt IAS 39 Finanzinstrumente: Ansatz und Bewertung in der im Oktober 2000 überarbeiteten Fassung.
+
+110 Dieser Standard und die dazugehörigen Anwendungsleitlinien ersetzen die vom IAS 39 Implementation Guidance Committee herausgegebenen Anwendungsleitlinien, die vom früheren IASC festgelegt wurden.
+
+Anhang A
+
+Anwendungsleitlinien
+
+Dieser Anhang ist integraler Bestandteil des Standards.
+
+AL1–AL93 [gestrichen]
+
+SICHERUNGSBEZIEHUNGEN (Paragraphen 71–102)
+
+Sicherungsinstrumente (Paragraphen 72–77)
+
+Qualifizierende Instrumente (Paragraphen 72 und 73)
+
+AL94 Der mögliche Verlust aus einer von einem Unternehmen geschriebenen Option kann erheblich höher ausfallen als der mögliche Wertzuwachs des dazugehörigen Grundgeschäfts. Mit anderen Worten: Eine geschriebene Option ist kein wirksames Mittel zur Reduzierung des Gewinn- oder Verlustrisikos eines Grundgeschäfts. Eine geschriebene Option erfüllt daher nicht die Kriterien eines Sicherungsinstruments, es sei denn, sie wird zur Glattstellung einer erworbenen Option eingesetzt; hierzu gehören auch Optionen, die in ein anderes Finanzinstrument eingebettet sind (beispielsweise eine geschriebene Kaufoption, mit der das Risiko aus einer kündbaren Verbindlichkeit abgesichert werden soll). Eine erworbene Option hingegen führt zu potenziellen Gewinnen, die entweder den Verlusten entsprechen oder diese übersteigen; sie beinhaltet daher die Möglichkeit, das Gewinn- oder Verlustrisiko aus Veränderungen des beizulegenden Zeitwerts oder der Zahlungsströme zu reduzieren. Sie kann folglich die Kriterien eines Sicherungsinstruments erfüllen.
+
+AL95 Ein zu fortgeführten Anschaffungskosten bewerteter finanzieller Vermögenswert kann zur Absicherung eines Währungsrisikos als Sicherungsinstrument designiert werden.
+
+AL96 [gestrichen]
+
+AL97 Die eigenen Eigenkapitalinstrumente eines Unternehmens sind keine finanziellen Vermögenswerte oder Verbindlichkeiten des Unternehmens und können daher nicht als Sicherungsinstrumente designiert werden.
+
+Grundgeschäfte (Paragraphen 78–84)
+
+Qualifizierende Grundgeschäfte (Paragraphen 78–80)
+
+AL98 Eine feste Verpflichtung zum Erwerb eines Unternehmens im Rahmen eines Unternehmenszusammenschlusses kann – mit Ausnahme der damit verbundenen Währungsrisiken – nicht als Grundgeschäft gelten, da die anderen abzusichernden Risiken nicht gesondert ermittelt und bewertet werden können. Bei diesen anderen Risiken handelt es sich um allgemeine Geschäftsrisiken.
+
+AL99 Eine nach der Equity-Methode bilanzierte Finanzinvestition kann kein Grundgeschäft zur Absicherung des beizulegenden Zeitwerts sein, da bei der Equity-Methode der Anteil des Investors am Gewinn oder Verlust des assoziierten Unternehmens und nicht die Veränderung des beizulegenden Zeitwerts der Finanzinvestition erfolgswirksam erfasst wird. Aus einem ähnlichen Grund kann eine Finanzinvestition in ein konsolidiertes Tochterunternehmen kein Grundgeschäft zur Absicherung des beizulegenden Zeitwerts sein, da bei einer Konsolidierung der Gewinn oder Verlust einer Tochtergesellschaft und nicht etwaige Veränderungen des beizulegenden Zeitwerts der Finanzinvestition erfolgswirksam erfasst werden. Anders verhält es sich bei der Absicherung einer Nettoinvestition in einen ausländischen Geschäftsbetrieb, da es sich hierbei um die Absicherung eines Währungsrisikos handelt und nicht um die Absicherung des beizulegenden Zeitwerts hinsichtlich etwaiger Änderungen des Investitionswerts.
+
+AL99A In Paragraph 80 heißt es, dass das Währungsrisiko einer mit hoher Wahrscheinlichkeit eintretenden künftigen konzerninternen Transaktion die Kriterien eines Grundgeschäfts bei einer Absicherung von Zahlungsströmen für den Konzernabschluss erfüllen kann, sofern die Transaktion in einer anderen Währung als der funktionalen Währung des Unternehmens, das diese Transaktion abschließt, abgewickelt wird und sich das Währungsrisiko im Konzerngewinn oder -verlust niederschlägt. Diesbezüglich kann es sich bei einem Unternehmen um ein Mutterunternehmen, Tochterunternehmen, assoziiertes Unternehmen, ein Gemeinschaftsunternehmen oder eine Niederlassung handeln. Wenn das Währungsrisiko einer erwarteten künftigen konzerninternen Transaktion sich nicht im Konzerngewinn oder -verlust niederschlägt, kann die konzerninterne Transaktion nicht die Definition eines Grundgeschäfts erfüllen. Dies ist in der Regel der Fall bei Zahlungen von Nutzungsentgelten, Zinsen oder Verwaltungsgebühren zwischen Mitgliedern desselben Konzerns, sofern es sich nicht um eine entsprechende externe Transaktion handelt. Wenn das Währungsrisiko einer erwarteten künftigen konzerninternen Transaktion sich jedoch im Konzerngewinn oder -verlust niederschlägt, kann die konzerninterne Transaktion die Definition eines Grundgeschäfts erfüllen. Ein Beispiel hierfür sind erwartete Verkäufe oder Käufe von Vorräten zwischen Mitgliedern desselben Konzerns, wenn die Vorräte an eine Partei außerhalb des Konzerns weiterverkauft werden. Ebenso kann ein erwarteter künftiger Verkauf von Sachanlagen des Konzernunternehmens, welches diese gefertigt hat, an ein anderes Konzernunternehmen, welches diese Sachanlagen in seinem Betrieb benutzen wird, den Konzerngewinn oder -verlust beeinflussen. Dies könnte beispielsweise der Fall sein, weil die Sachanlage von dem erwerbenden Unternehmen abgeschrieben wird, und der erstmalig für diese Sachanlage angesetzte Betrag sich ändern könnte, wenn die erwartete künftige konzerninterne Transaktion in einer anderen Währung als der funktionalen Währung des erwerbenden Unternehmens abgewickelt wird.
+
+AL99B Wenn eine Absicherung einer erwarteten konzerninternen Transaktion die Kriterien für eine Bilanzierung als Sicherungsbeziehung erfüllt, sind alle gemäß Paragraph 95(a) im sonstigen Ergebnis erfassten Gewinne oder Verluste in derselben Periode oder denselben Perioden, in der/denen das Währungsrisiko der abgesicherten Transaktion das Konzernergebnis beeinflusst, erfolgswirksam umzugliedern und als Umgliederungsbeträge auszuweisen.
+
+AL99BA Ein Unternehmen kann in einer Sicherungsbeziehung alle Veränderungen der Zahlungsströme oder des beizulegenden Zeitwerts eines Grundgeschäfts designieren. Es können auch nur die oberhalb oder unterhalb eines festgelegten Preises oder einer anderen Variablen liegenden Veränderungen der Zahlungsströme oder des beizulegenden Zeitwerts eines Grundgeschäfts designiert werden (einseitiges Risiko). Bei einem Grundgeschäft spiegelt der innere Wert einer Option, die (in der Annahme, dass ihre wesentlichen Bedingungen denen des designierten Risikos entsprechen) als Sicherungsinstrument erworben wurde, ein einseitiges Risiko wider, ihr Zeitwert dagegen nicht. Ein Unternehmen kann beispielsweise die Schwankung künftiger Zahlungsstrom-Ergebnisse designieren, die aus einer Preiserhöhung bei einem erwarteten Warenkauf resultieren. In einem solchen Fall werden nur Zahlungsstrom-Verluste designiert, die aus der Erhöhung des Preises oberhalb des festgelegten Grenzwerts resultieren. Das abgesicherte Risiko umfasst nicht den Zeitwert einer erworbenen Option, da der Zeitwert kein Bestandteil der erwarteten Transaktion ist, der den Gewinn oder Verlust beeinflusst (Paragraph 86(b)).
+
+Designation finanzieller Posten als Grundgeschäfte (Paragraphen 81 und 81A)
+
+AL99C Ein Unternehmen kann […] alle Zahlungsströme des gesamten finanziellen Vermögenswerts oder der gesamten finanziellen Verbindlichkeit als Grundgeschäft designieren und sie gegen nur ein bestimmtes Risiko absichern (z. B. gegen Änderungen, die den Veränderungen des LIBOR zuzuordnen sind). Beispielsweise kann ein Unternehmen im Falle einer finanziellen Verbindlichkeit, deren Effektivzinssatz 100 Basispunkte unter dem LIBOR liegt, die gesamte Verbindlichkeit (d. h den Kapitalbetrag zuzüglich der Zinsen zum LIBOR abzüglich 100 Basispunkte) als Grundgeschäft designieren und die gesamte Verbindlichkeit gegen auf Veränderungen des LIBORs zurückzuführende Veränderungen des beizulegenden Zeitwerts oder der Zahlungsströme absichern. Das Unternehmen kann auch eine andere Sicherungsquote als eins zu eins wählen, um die Wirksamkeit der Absicherung, wie in Paragraph AL100 beschrieben, zu verbessern.
+
+AL99D Wenn ein festverzinsliches Finanzinstrument einige Zeit nach seiner Emission abgesichert wird und sich die Zinssätze zwischenzeitlich geändert haben, kann das Unternehmen einen Teil designieren, der einem Referenzzinssatz entspricht […]. Als Beispiel wird angenommen, dass ein Unternehmen einen festverzinslichen finanziellen Vermögenswert über 100 WE mit einem Effektivzinssatz von 6 Prozent zu einem Zeitpunkt emittiert, zu dem der LIBOR 4 Prozent beträgt. Die Absicherung dieses Vermögenswerts beginnt zu einem späteren Zeitpunkt, zu dem der LIBOR auf 8 Prozent gestiegen ist und der beizulegende Zeitwert des Vermögenswerts auf 90 WE gefallen ist. Das Unternehmen berechnet, dass der Effektivzinssatz 9,5 Prozent betragen würde, wenn es den Vermögenswert zu dem Zeitpunkt erworben hätte, als es ihn erstmalig als Grundgeschäft zu seinem zu diesem Zeitpunkt geltenden beizulegenden Zeitwert von 90 WE designiert hätte. […]. Das Unternehmen kann einen Anteil des LIBOR von 8 Prozent bestimmen, der zum einen Teil aus den vertraglichen Zinszahlungen und zum anderen Teil aus der Differenz zwischen dem aktuellen beizulegenden Zeitwert (d. h 90 WE) und dem bei Fälligkeit zu zahlenden Betrag (d. h. 100 WE) besteht.
+
+AL99E Nach Paragraph 81 kann ein Unternehmen auch einen Teil der Veränderung des beizulegenden Zeitwerts oder der Zahlungsstrom-Schwankungen eines Finanzinstruments designieren. So können beispielsweise
+a) 
+
+alle Zahlungsströme eines Finanzinstruments für Veränderungen der Zahlungsströme oder des beizulegenden Zeitwerts, die einigen (aber nicht allen) Risiken zuzuordnen sind, designiert werden, oder
+b) 
+
+einige (aber nicht alle) Zahlungsströme eines Finanzinstruments für Veränderungen der Zahlungsströme oder des beizulegenden Zeitwerts, die allen bzw. nur einigen Risiken zuzuordnen sind, designiert werden (d. h. ein „Teil“ der Zahlungsströme des Finanzinstruments kann für Änderungen, die allen bzw. nur einigen Risiken zuzuordnen sind, designiert werden).
+
+AL99F Die designierten Risiken und Teilrisiken sind dann für eine Bilanzierung als Sicherungsbeziehung geeignet, wenn sie einzeln identifizierbare Bestandteile des Finanzinstruments sind, und Veränderungen der Zahlungsströme oder des beizulegenden Zeitwerts des gesamten Finanzinstruments, die auf Veränderungen der designierten Risiken und Teilrisiken beruhen, verlässlich ermittelt werden können. Es folgen einige Beispiele:
+a) 
+
+Bei festverzinslichen Finanzinstrumenten, die für den Fall, dass sich ihr beizulegender Zeitwert durch Änderung eines risikolosen Zinssatzes oder Referenzzinssatzes ändert, abgesichert sind, wird der risikolose Zinssatz oder Referenzzinssatz in der Regel sowohl als einzeln identifizierbarer Bestandteil des Finanzinstruments als auch als verlässlich ermittelbar betrachtet.
+b) 
+
+Die Inflation ist weder einzeln identifizierbar noch verlässlich ermittelbar und kann nicht als Risiko oder Teil eines Finanzinstruments designiert werden, es sei denn, die unter (c) genannten Anforderungen sind erfüllt.
+c) 
+
+Ein vertraglich genau designierter Inflationsanteil der Zahlungsströme einer anerkannten inflationsgebundenen Anleihe ist (unter der Voraussetzung, dass keine separate Bilanzierung als eingebettetes Derivat erforderlich ist) so lange einzeln identifizierbar und verlässlich ermittelbar, wie andere Zahlungsströme des Instruments von dem Inflationsanteil nicht betroffen sind.
+
+Designation nichtfinanzieller Posten als Grundgeschäfte (Paragraph 82)
+
+AL100 Preisänderungen eines Bestandteils oder einer Komponente eines nichtfinanziellen Vermögenswerts oder einer nichtfinanziellen Verbindlichkeit haben in der Regel keine vorhersehbaren, getrennt bestimmbaren Auswirkungen auf den Preis des Postens, die mit den Auswirkungen z. B. einer Änderung des Marktzinses auf den Kurs einer Anleihe vergleichbar wären. Daher kann ein nichtfinanzieller Vermögenswert oder eine nichtfinanzielle Verbindlichkeit nur insgesamt oder für Währungsrisiken als Grundgeschäft bestimmt werden. Gibt es einen Unterschied zwischen den Bedingungen des Sicherungsinstruments und des Grundgeschäfts (wie für die Absicherung eines geplanten Kaufs von brasilianischem Kaffee durch ein Forwardgeschäft auf den Kauf von kolumbianischem Kaffee zu ansonsten vergleichbaren Bedingungen), kann die Sicherungsbeziehung dennoch als solche gelten, sofern alle Voraussetzungen aus Paragraph 88, einschließlich derjenigen, dass die Absicherung als faktisch hoch wirksam beurteilt wird, erfüllt sind. Für diesen Zweck kann der Wert des Sicherungsinstruments größer oder kleiner als der des Grundgeschäfts sein, wenn dadurch die Wirksamkeit der Sicherungsbeziehung verbessert wird. Eine Regressionsanalyse könnte beispielsweise durchgeführt werden, um einen statistischen Zusammenhang zwischen dem Grundgeschäft (z. B. einer Transaktion mit brasilianischem Kaffee) und dem Sicherungsinstrument (z. B. einer Transaktion mit kolumbianischem Kaffee) aufzustellen. Gibt es einen validen statistischen Zusammenhang zwischen den beiden Variablen (d. h zwischen dem Preis je Einheit von brasilianischem Kaffee und kolumbianischem Kaffee), kann die Steigung der Regressionskurve zur Feststellung der Sicherungsquote, die die erwartete Wirksamkeit maximiert, verwendet werden. Liegt beispielsweise die Steigung der Regressionskurve bei 1,02, maximiert eine Sicherungsquote, die auf 0,98 Mengeneinheiten der Grundgeschäfte zu 1,00 Mengeneinheiten des Sicherungsinstruments basiert, die erwartete Wirksamkeit. Die Sicherungsbeziehung kann jedoch zu einer Unwirksamkeit führen, die im Zeitraum der Sicherungsbeziehung erfolgswirksam erfasst wird.
+
+Designation von Gruppen von Posten als Grundgeschäfte (Paragraphen 83 und 84)
+
+AL101 Eine Absicherung einer gesamten Nettoposition (z. B. des Saldos aller festverzinslichen Vermögenswerte und festverzinslichen Verbindlichkeiten mit ähnlichen Laufzeiten) im Gegensatz zu einer Absicherung eines einzelnen Postens erfüllt nicht die Kriterien für eine Bilanzierung als Sicherungsgeschäft. Allerdings können bei einem solchen Sicherungszusammenhang annähernd die gleichen Auswirkungen auf den Gewinn oder Verlust erzielt werden wie bei einer Bilanzierung von Sicherungsbeziehungen, wenn nur ein Teil der zugrunde liegenden Posten als Grundgeschäft bestimmt wird. Wenn beispielsweise eine Bank über Vermögenswerte von 100 WE und Verbindlichkeiten in Höhe von 90 WE verfügt, deren Risiken und Laufzeiten ähnlich sind, und die Bank das verbleibende Nettorisiko von 10 WE absichert, so kann sie 10 WE dieser Vermögenswerte als Grundgeschäft bestimmen. Eine solche Bestimmung kann erfolgen, wenn es sich bei den besagten Vermögenswerten und Verbindlichkeiten um festverzinsliche Instrumente handelt, was in diesem Fall einer Absicherung des beizulegenden Zeitwerts entspricht, oder wenn es sich um variabel verzinsliche Instrumente handelt, wobei es sich dann um eine Absicherung von Zahlungsströmen handelt. Ähnlich wäre dies im Falle eines Unternehmens, das eine feste Verpflichtung zum Kauf in einer Fremdwährung in Höhe von 100 WE sowie eine feste Verpflichtung zum Verkauf in dieser Währung in Höhe von 90 WE eingegangen ist; in diesem Fall kann es den Nettobetrag von 10 WE durch den Kauf eines Derivats absichern, das als Sicherungsinstrument zum Erwerb von 10 WE als Teil der festen Verpflichtung zum Kauf von 100 WE bestimmt wird.
+
+Bilanzierung von Sicherungsbeziehungen (Paragraphen 85–102)
+
+AL102 Ein Beispiel für die Absicherung des beizulegenden Zeitwerts ist die Absicherung des Risikos aus einer Veränderung des beizulegenden Zeitwerts eines festverzinslichen Schuldinstruments aufgrund einer Zinsänderung. Eine solche Sicherungsbeziehung kann vonseiten des Emittenten oder des Inhabers des Schuldinstruments eingegangen werden.
+
+AL103 Ein Beispiel für eine Absicherung von Zahlungsströmen ist der Einsatz eines Swap-Kontrakts, mit dem variabel verzinsliche Verbindlichkeiten gegen festverzinsliche Verbindlichkeiten getauscht werden (d. h eine Absicherung gegen Risiken aus einer künftigen Transaktion, wobei die abgesicherten künftigen Zahlungsströme hierbei die künftigen Zinszahlungen darstellen).
+
+AL104 Die Absicherung einer festen Verpflichtung (z. B. eine Absicherung gegen Risiken einer Änderung des Kraftstoffpreises im Rahmen einer nicht bilanzierten vertraglichen Verpflichtung eines Energieversorgers zum Kauf von Kraftstoff zu einem festgesetzten Preis) ist eine Absicherung des Risikos einer Veränderung des beizulegenden Zeitwerts. Demzufolge stellt solch eine Sicherungsbeziehung eine Absicherung des beizulegenden Zeitwerts dar. Nach Paragraph 87 könnte jedoch eine Absicherung des Währungsrisikos einer festen Verpflichtung alternativ als eine Absicherung von Zahlungsströmen bilanziert werden.
+
+Beurteilung der Wirksamkeit der Absicherung
+
+AL105 Eine Sicherungsbeziehung wird nur dann als hoch wirksam angesehen, wenn die beiden folgenden Voraussetzungen erfüllt sind:
+a) 
+
+Zu Beginn der Sicherungsbeziehung und in den Folgeperioden wird erwartet, dass die Absicherung in Bezug auf die Erreichung eines Ausgleichs der auf das abgesicherte Risiko zurückzuführenden Veränderungen des beizulegenden Zeitwerts oder der Zahlungsströme innerhalb der für die Absicherung relevanten Periode hochwirksam ist. Eine solche Einschätzung kann auf verschiedene Weise nachgewiesen werden, u. a. durch einen Vergleich bisheriger Veränderungen des beizulegenden Zeitwerts oder der Zahlungsströme des Grundgeschäfts, die auf das abgesicherte Risiko zurückzuführen sind, mit bisherigen Veränderungen des beizulegenden Zeitwerts oder der Zahlungsströme des Sicherungsinstruments oder durch den Nachweis einer hohen statistischen Korrelation zwischen dem beizulegenden Zeitwert oder den Zahlungsströmen des Grundgeschäfts und denen des Sicherungsinstruments. Das Unternehmen kann eine andere Sicherungsquote als eins zu eins wählen, um die Wirksamkeit der Absicherung, wie in Paragraph AL100 beschrieben, zu verbessern.
+b) 
+
+Die aktuellen Ergebnisse der Sicherungsbeziehung liegen innerhalb einer Bandbreite von 80–125 Prozent. Sehen die aktuellen Ergebnisse so aus, dass beispielsweise der Verlust aus einem Sicherungsinstrument 120 WE und der Gewinn aus dem monetären Instrument 100 WE beträgt, so kann die Kompensation anhand der Berechnung 120/100 bewertet werden, was einem Ergebnis von 120 Prozent entspricht, oder anhand der Berechnung 100/120, was einem Ergebnis von 83 Prozent entspricht. Angenommen, dass in diesem Beispiel die Sicherungsbeziehung die Voraussetzungen unter (a) erfüllt, würde das Unternehmen daraus schließen, dass die Sicherungsbeziehung in hohem Maße wirksam gewesen ist.
+
+AL106 Eine Beurteilung der Wirksamkeit von Sicherungsbeziehungen hat mindestens zum Zeitpunkt der Aufstellung des Jahresabschlusses oder des Zwischenabschlusses zu erfolgen.
+
+AL107 Dieser Standard schreibt keine bestimmte Methode zur Beurteilung der Wirksamkeit der Absicherung vor. Die von einem Unternehmen gewählte Methode zur Beurteilung der Wirksamkeit der Absicherung richtet sich nach seiner Risikomanagementstrategie. Wenn beispielsweise die Risikomanagementstrategie eines Unternehmens vorsieht, die Höhe des Sicherungsinstruments periodisch anzupassen, um Änderungen der abgesicherten Position widerzuspiegeln, braucht das Unternehmen nur für die Periode bis zur nächsten Anpassung des Sicherungsinstruments den Nachweis zu erbringen, dass die Sicherungsbeziehung als in hohem Maße wirksam eingeschätzt wird. In manchen Fällen werden für verschiedene Arten von Sicherungsbeziehungen unterschiedliche Methoden verwendet. In der Dokumentation seiner Sicherungsstrategie macht ein Unternehmen Angaben über die zur Beurteilung der Wirksamkeit eingesetzten Methoden und Verfahren. Diese sollten auch angeben, ob bei der Beurteilung sämtliche Gewinne oder Verluste aus einem Sicherungsinstrument berücksichtigt werden oder ob der Zeitwert des Instruments unberücksichtigt bleibt.
+
+AL107A […]
+
+AL108 Sind die wesentlichen Bedingungen des Sicherungsinstruments und des abgesicherten Vermögenswerts, der abgesicherten Schuld, der festen Verpflichtung oder der mit hoher Wahrscheinlichkeit eintretenden erwarteten Transaktion gleich, so ist wahrscheinlich, dass sich die Veränderungen des beizulegenden Zeitwerts und der Zahlungsströme, die auf das abgesicherte Risiko zurückzuführen sind, gegenseitig vollständig ausgleichen, und zwar sowohl zu Beginn der Sicherungsbeziehung als auch danach. So ist beispielsweise ein Zinsswap voraussichtlich eine wirksame Absicherung, wenn Nominal- und Kapitalbetrag, Laufzeiten, Zinsanpassungstermine, die Zeitpunkte der Zins- und Tilgungsein- und -auszahlungen sowie die Bemessungsgrundlage zur Festsetzung der Zinsen für das Sicherungsinstrument und das Grundgeschäft gleich sind. Außerdem ist die Absicherung eines erwarteten Warenkaufs, dessen Eintreten hoch wahrscheinlich ist, durch ein Forwardgeschäft voraussichtlich hoch wirksam, sofern
+a) 
+
+das Forwardgeschäft den Erwerb einer Ware derselben Art und Menge, zu demselben Zeitpunkt und Ort wie das erwartete Grundgeschäft zum Gegenstand hat,
+b) 
+
+der beizulegende Zeitwert des Forwardgeschäfts zu Beginn null ist und
+c) 
+
+entweder die Änderung des Disagios oder des Agios des Forwardgeschäfts aus der Beurteilung der Wirksamkeit herausgenommen und direkt erfolgswirksam erfasst wird oder die Veränderung der erwarteten Zahlungsströme aus der mit hoher Wahrscheinlichkeit eintretenden erwarteten Transaktion auf dem Forwardkurs der zugrunde liegenden Ware basiert.
+
+AL109 Manchmal kompensiert das Sicherungsinstrument nur einen Teil des abgesicherten Risikos. So dürfte eine Sicherungsbeziehung nur zum Teil wirksam sein, wenn das Sicherungsinstrument und das Grundgeschäft auf verschiedene Währungen lauten und beide sich nicht parallel entwickeln. Desgleichen dürfte die Absicherung eines Zinsrisikos mithilfe eines derivativen Finanzinstruments nur bedingt wirksam sein, wenn ein Teil der Veränderung des beizulegenden Zeitwerts des derivativen Finanzinstruments auf das Ausfallrisiko der Gegenseite zurückzuführen ist.
+
+AL110 Um die Kriterien für eine Bilanzierung als Sicherungsbeziehung zu erfüllen, muss sich die Sicherungsbeziehung nicht nur auf allgemeine Geschäftsrisiken des Unternehmens, sondern auf ein bestimmtes, identifizier- und bestimmbares Risiko beziehen und sich letztlich auf den Gewinn oder Verlust des Unternehmens auswirken. Die Absicherung gegen Veralterung von materiellen Vermögenswerten oder gegen das Risiko einer staatlichen Enteignung von Gegenständen kann nicht als Sicherungsbeziehung bilanziert werden, denn die Wirksamkeit lässt sich nicht bewerten, da die hiermit verbundenen Risiken nicht verlässlich ermittelt werden können.
+
+AL110A Nach Paragraph 74(a) kann ein Unternehmen inneren Wert und Zeitwert eines Optionskontrakts voneinander trennen und nur die Änderung des inneren Werts des Optionskontrakts als Sicherungsinstrument designieren. Eine solche Designation kann zu einer Sicherungsbeziehung führen, mit der sich Veränderungen der Zahlungsströme, die durch ein abgesichertes einseitiges Risiko einer erwarteten Transaktion bedingt sind, äußerst wirksam kompensieren lassen, wenn die wesentlichen Bedingungen der erwarteten Transaktion und des Sicherungsinstruments gleich sind.
+
+AL110B Designiert ein Unternehmen eine erworbene Option zur Gänze als Sicherungsinstrument eines einseitigen Risikos einer erwarteten Transaktion, wird die Sicherungsbeziehung nicht gänzlich wirksam sein, da die gezahlte Optionsprämie den Zeitwert einschließt, ein designiertes einseitiges Risiko Paragraph AL99BA zufolge den Zeitwert einer Option aber nicht einschließt. In diesem Fall wird es folglich keinen vollständigen Ausgleich zwischen den Zahlungsströmen aus dem Zeitwert der gezahlten Optionsprämie und dem designierten abgesicherten Risiko geben.
+
+AL111 Im Falle eines Zinsänderungsrisikos kann die Wirksamkeit der Absicherung durch die Erstellung eines Fälligkeitsplans für finanzielle Vermögenswerte und Verbindlichkeiten beurteilt werden, aus dem das Nettozinsänderungsrisiko für jede Periode hervorgeht, vorausgesetzt, das Nettorisiko ist mit einem besonderen Vermögenswert oder einer besonderen Verbindlichkeit verbunden (oder einer besonderen Gruppe von Vermögenswerten oder Verbindlichkeiten bzw. einem bestimmten Teil davon), auf den/die das Nettorisiko zurückzuführen ist, und die Wirksamkeit der Absicherung wird in Bezug auf diesen Vermögenswert oder diese Verbindlichkeit beurteilt.
+
+AL112 Bei der Beurteilung der Wirksamkeit einer Absicherung berücksichtigt ein Unternehmen in der Regel den Zeitwert des Geldes. Der feste Zinssatz eines Grundgeschäfts muss dabei nicht exakt mit dem festen Zinssatz eines zur Absicherung des beizulegenden Zeitwerts designierten Swaps übereinstimmen. Auch muss der variable Zinssatz eines zinstragenden Vermögenswerts oder einer zinstragenden Verbindlichkeit nicht mit dem variablen Zinssatz eines zur Absicherung von Zahlungsströmen designierten Swaps übereinstimmen. Der beizulegende Zeitwert eines Swaps ergibt sich aus seinem Nettoausgleich. So können die festen und variablen Zinssätze eines Swaps ausgetauscht werden, ohne dass dies Auswirkungen auf den Nettoausgleich hat, wenn beide in gleicher Höhe getauscht werden.
+
+AL113 Wenn die Kriterien für die Wirksamkeit der Absicherung nicht erfüllt werden, stellt das Unternehmen die Bilanzierung der jeweiligen Sicherungsbeziehung ab dem Zeitpunkt ein, an dem die Wirksamkeit der Sicherungsbeziehung letztmals nachgewiesen wurde. Wenn jedoch ein Unternehmen das Ereignis oder die Änderung des Umstands, wodurch die Sicherungsbeziehung die Wirksamkeitskriterien nicht mehr erfüllte, identifiziert und nachweist, dass die Sicherungsbeziehung vor Eintreten des Ereignisses oder des geänderten Umstands wirksam war, stellt das Unternehmen die Bilanzierung der Sicherungsbeziehung ab dem Zeitpunkt des Ereignisses oder der Änderung des Umstands ein.
+
+AL113A Der Klarheit halber sind die Auswirkungen der Ersetzung der ursprünglichen Gegenpartei durch eine Clearing-Gegenpartei und der in Paragraph 91(a) (ii) und Paragraph 101(a) (ii) dargelegten dazugehörigen Änderungen bei der Bewertung des Sicherungsinstruments und damit auch bei der Beurteilung und Bewertung der Wirksamkeit der Absicherung zu berücksichtigen.
+
+Bilanzierung der Absicherung des beizulegenden Zeitwerts zur Absicherung eines Portfolios gegen Zinsänderungsrisiken
+
+AL114 Für die Absicherung eines beizulegenden Zeitwerts gegen das mit einem Portfolio von finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten verbundene Zinsänderungsrisiko wären die Anforderungen dieses Standards erfüllt, wenn das Unternehmen die unter den nachstehenden Punkten (a)–(i) und den Paragraphen AL115–AL132 dargelegten Verfahren einhält.
+a) 
+
+Das Unternehmen identifiziert als Teil seines Risikomanagementprozesses ein Portfolio von Posten, deren Zinsänderungsrisiken abgesichert werden sollen. Das Portfolio kann nur Vermögenswerte, nur Verbindlichkeiten oder auch beides, Vermögenswerte und Verbindlichkeiten umfassen. Das Unternehmen kann zwei oder mehr Portfolios bestimmen, wobei es die nachstehenden Anleitungen für jedes Portfolio gesondert anwendet.
+b) 
+
+Das Unternehmen teilt das Portfolio nach Zinsanpassungsperioden auf, die nicht auf vertraglich fixierten, sondern vielmehr auf erwarteten Zinsanpassungsterminen basieren. Diese Aufteilung in Zinsanpassungsperioden kann auf verschiedene Weise durchgeführt werden, einschließlich in Form einer Aufstellung von Zahlungsströmen in den Perioden, in denen sie den Erwartungen zufolge anfallen, oder einer Aufstellung von nominalen Kapitalbeträgen in allen Perioden, bis zum erwarteten Zeitpunkt der Zinsanpassung.
+c) 
+
+Auf Grundlage dieser Aufteilung legt das Unternehmen den Betrag fest, den es absichern möchte. Als Grundgeschäft designiert das Unternehmen aus dem identifizierten Portfolio einen Betrag von Vermögenswerten oder Verbindlichkeiten (jedoch keinen Nettobetrag), der dem abzusichernden Betrag entspricht. […]
+d) 
+
+Das Unternehmen designiert das abzusichernde Zinsänderungsrisiko. Dieses Risiko könnte einen Teil des Zinsänderungsrisikos jedes Postens innerhalb der abgesicherten Position darstellen, wie beispielsweise ein Referenzzinssatz (z. B. LIBOR).
+e) 
+
+Das Unternehmen designiert ein oder mehrere Sicherungsinstrumente für jede Zinsanpassungsperiode.
+f) 
+
+Gemäß den zuvor erwähnten Designationen aus (c)–(e) beurteilt das Unternehmen zu Beginn und in den Folgeperioden, ob es die Sicherungsbeziehung innerhalb der für die Absicherung relevanten Periode als in hohem Maße wirksam einschätzt.
+g) 
+
+Das Unternehmen bewertet regelmäßig die Veränderung des beizulegenden Zeitwerts des Grundgeschäfts (wie unter (c) designiert), die auf das abgesicherte Risiko zurückzuführen ist (wie unter (d) designiert) […]. Sofern bestimmt wird, dass die Sicherungsbeziehung zum Zeitpunkt ihrer Beurteilung gemäß der vom Unternehmen dokumentierten Methode zur Beurteilung der Wirksamkeit tatsächlich in hohem Maße wirksam war, erfasst das Unternehmen die Veränderung des beizulegenden Zeitwerts des Grundgeschäfts erfolgswirksam im Gewinn oder Verlust und in einem der beiden Posten der Bilanz, wie in Paragraph 89A beschrieben. Die Veränderung des beizulegenden Zeitwerts braucht nicht einzelnen Vermögenswerten oder Verbindlichkeiten zugeordnet zu werden.
+h) 
+
+Das Unternehmen bestimmt die Veränderung des beizulegenden Zeitwerts des Sicherungsinstruments/der Sicherungsinstrumente (wie unter (e) designiert) und erfasst sie erfolgswirksam als Gewinn oder Verlust. Der beizulegende Zeitwert des Sicherungsinstruments/der Sicherungsinstrumente wird in der Bilanz als Vermögenswert oder Verbindlichkeit angesetzt.
+i) 
+
+Jede Unwirksamkeit ( 31 ) wird als Differenz zwischen der unter (g) genannten Veränderung des beizulegenden Zeitwerts und der unter (h) genannten Änderung des beizulegenden Zeitwerts erfolgswirksam erfasst.
+
+AL115 Nachstehend wird dieser Ansatz detaillierter beschrieben. Der Ansatz ist nur auf eine Absicherung des beizulegenden Zeitwerts gegen ein Zinsänderungsrisiko in Bezug auf ein Portfolio von finanziellen Vermögenswerten oder finanziellen Verbindlichkeiten anzuwenden.
+
+AL116 Das in Paragraph AL114(a) identifizierte Portfolio könnte Vermögenswerte und Verbindlichkeiten beinhalten. Alternativ könnte es sich auch um ein Portfolio handeln, das nur Vermögenswerte oder nur Verbindlichkeiten umfasst. Das Portfolio wird verwendet, um die Höhe der abzusichernden Vermögenswerte oder Verbindlichkeiten zu bestimmen. Das Portfolio als solches wird jedoch nicht als Grundgeschäft designiert.
+
+AL117 Bei der Anwendung von Paragraph AL114(b) legt das Unternehmen den erwarteten Zinsanpassungstermin eines Postens auf den früheren der folgenden Zeitpunkte fest: den Zeitpunkt, zu dem dieser Posten den Erwartungen zufolge fällig wird oder den Zeitpunkt, zu dem er an die Marktzinsen angepasst wird. Die erwarteten Zinsanpassungstermine werden zu Beginn der Sicherungsbeziehung und während ihrer Laufzeit geschätzt, sie basieren auf historischen Erfahrungen und anderen verfügbaren Informationen, einschließlich Informationen und Erwartungen über Vorfälligkeitsquoten, Zinssätzen und der Wechselwirkung zwischen diesen. Ohne unternehmensspezifische Erfahrungswerte oder bei unzureichenden Erfahrungswerten verwenden Unternehmen die Erfahrungen vergleichbarer Unternehmen für vergleichbare Finanzinstrumente. Diese Schätzwerte werden regelmäßig überprüft und im Hinblick auf Erfahrungswerte angepasst. Im Falle eines festverzinslichen, vorzeitig rückzahlbaren Postens ist der erwartete Zinsanpassungstermin der Zeitpunkt, zu dem die Rückzahlung erwartet wird, es sei denn, es findet zu einem früheren Zeitpunkt eine Zinsanpassung an Marktzinsen statt. Bei einer Gruppe von vergleichbaren Posten kann die Aufteilung in Perioden aufgrund von erwarteten Zinsanpassungsterminen in der Form durchgeführt werden, dass ein Prozentsatz der Gruppe und nicht einzelne Posten jeder Periode zugewiesen werden. Für solche Zuordnungszwecke können auch andere Methoden verwendet werden. Für die Zuordnung von Tilgungsdarlehen auf Perioden, die auf erwarteten Zinsanpassungsterminen basieren, kann beispielsweise ein Multiplikator für Vorfälligkeitsquoten verwendet werden. Die Methode für eine solche Zuordnung hat jedoch in Übereinstimmung mit den Risikomanagementverfahren und -zielsetzungen des Unternehmens zu erfolgen.
+
+AL118 Ein Beispiel für die in Paragraph AL114(c) beschriebene Designation: Wenn ein Unternehmen in einer bestimmten Zinsanpassungsperiode schätzt, dass es festverzinsliche Vermögenswerte von 100 WE und festverzinsliche Verbindlichkeiten von 80 WE hat, und beschließt, die gesamte Nettoposition von 20 WE abzusichern, so designiert es Vermögenswerte in Höhe von 20 WE (einen Teil der Vermögenswerte) als Grundgeschäft. Die Designation wird als „Betrag einer Währung“ (z. B. ein Betrag in Dollar, Euro, Pfund oder Rand) und nicht als einzelne Vermögenswerte ausgedrückt. Daraus folgt, dass alle Vermögenswerte (oder Verbindlichkeiten), aus denen der abgesicherte Betrag resultiert, d. h. im vorstehenden Beispiel alle Vermögenswerte von 100 WE, Posten sein müssen, deren beizulegender Zeitwert sich bei Änderung des abgesicherten Zinssatzes ändern […].
+
+AL119 Das Unternehmen hat auch die anderen in Paragraph 88(a) aufgeführten Anforderungen zur Bestimmung und Dokumentation zu erfüllen. Die Unternehmenspolitik bezüglich aller Faktoren, die zur Identifizierung des abzusichernden Betrags und zur Beurteilung der Wirksamkeit verwendet werden, wird bei einer Absicherung eines Portfolios gegen Zinsänderungsrisiken durch die Designation und Dokumentation festgelegt; dies beinhaltet Folgendes:
+a) 
+
+welche Vermögenswerte und Verbindlichkeiten in eine Absicherung des Portfolios einzubeziehen sind und auf welcher Basis sie aus dem Portfolio entfernt werden können;
+b) 
+
+wie Zinsanpassungstermine geschätzt werden, welche Annahmen von Zinssätzen den Schätzungen von Vorfälligkeitsquoten unterliegen und welches die Basis für die Änderung dieser Schätzungen ist. Für die erstmaligen Schätzungen, die zu dem Zeitpunkt erfolgen, zu dem ein Vermögenswert oder eine Verbindlichkeit in das abgesicherte Portfolio eingebracht wird, und für alle späteren Korrekturen dieser Schätzwerte wird dieselbe Methode verwendet;
+c) 
+
+Anzahl und Dauer der Zinsanpassungsperioden;
+d) 
+
+wie häufig das Unternehmen die Wirksamkeit überprüfen wird […];
+e) 
+
+die verwendete Methode, um den Betrag der Vermögenswerte oder Verbindlichkeiten, die als Grundgeschäft designiert werden, zu bestimmen […];
+f) 
+
+[…]. ob das Unternehmen die Wirksamkeit für jede Zinsanpassungsperiode einzeln oder für alle Perioden gemeinsam prüfen wird oder eine Kombination von beidem durchführen wird.
+
+Die für die Bestimmung und Dokumentation der Sicherungsbeziehung festgelegten Methoden haben den Risikomanagementverfahren und -zielsetzungen des Unternehmens zu entsprechen. Die Methoden dürfen nicht willkürlich geändert werden. Sie müssen auf Grundlage der Änderungen der Bedingungen am Markt und anderer Faktoren gerechtfertigt sein und auf den Risikomanagementverfahren und -zielsetzungen des Unternehmens beruhen und mit diesen in Einklang stehen.
+
+AL120 Das Sicherungsinstrument, auf das in Paragraph AL114(e) verwiesen wird, kann ein einzelnes Derivat oder ein Portfolio von Derivaten sein, die alle dem nach Paragraph AL114(d) designierten abgesicherten Zinsänderungsrisiko ausgesetzt sind (z. B. ein Portfolio von Zinsswaps die alle an den LIBOR gebunden sind). Ein solches Portfolio von Derivaten kann gegenläufige Risikopositionen enthalten. Es darf jedoch keine geschriebenen Optionen oder geschriebenen Nettooptionen enthalten, weil der Standard ( 32 ) nicht zulässt, dass solche Optionen als Sicherungsinstrumente designiert werden (außer wenn eine geschriebene Option zum Ausgleich einer Kaufoption eingesetzt wird). Wenn das Sicherungsinstrument den nach Paragraph AL114(c) designierten Betrag für mehr als eine Zinsanpassungsperiode absichert, wird er allen abzusichernden Perioden zugeordnet. Das gesamte Sicherungsinstrument muss jedoch diesen Zinsanpassungsperioden zugeordnet werden, da der Standard ( 33 ) untersagt, eine Sicherungsbeziehung nur für einen Teil der Zeit, über die das Sicherungsinstrument noch läuft, zu designieren.
+
+AL121 Bewertet ein Unternehmen die Veränderung des beizulegenden Zeitwerts eines vorzeitig rückzahlbaren Postens gemäß Paragraph AL114(g), wird der beizulegende Zeitwert des vorzeitig rückzahlbaren Postens auf zwei Arten durch die Änderung des Zinssatzes beeinflusst: Die Änderung des Zinssatzes beeinflusst den beizulegenden Zeitwert der vertraglichen Zahlungsströme und den beizulegenden Zeitwert der Vorfälligkeitsoption, die in dem vorzeitig rückzahlbaren Posten enthalten ist. Paragraph 81 des Standards gestattet einem Unternehmen, einen Teil eines finanziellen Vermögenswerts oder einer finanziellen Verbindlichkeit, der einem gemeinsamen Risiko ausgesetzt ist, als Grundgeschäft zu designieren, sofern die Wirksamkeit bewertet werden kann. […].
+
+AL122 Der Standard gibt nicht die Methoden vor, die zur Bestimmung des in Paragraph AL114(g) genannten Betrags, das heißt der Veränderung des beizulegenden Zeitwerts des Grundgeschäfts, die auf das abgesicherte Risiko zurückzuführen ist, zu verwenden sind. […]. Es ist unangebracht zu vermuten, dass Veränderungen des beizulegenden Zeitwerts des Grundgeschäfts den Änderungen des Sicherungsinstruments wertmäßig gleichen.
+
+AL123 Wenn das Grundgeschäft für eine bestimmte Zinsanpassungsperiode ein Vermögenswert ist, verlangt Paragraph 89A, dass die Veränderung seines Werts in einem gesonderten Posten innerhalb der Vermögenswerte dargestellt wird. Wenn dagegen das Grundgeschäft für eine bestimmte Zinsanpassungsperiode eine Verbindlichkeit ist, wird die Veränderung ihres Werts in einem gesonderten Posten innerhalb der Verbindlichkeiten dargestellt. Hierbei handelt es sich um die gesonderten Posten, auf die sich Paragraph AL114(g) bezieht. Eine detaillierte Zuordnung zu einzelnen Vermögenswerten (oder Verbindlichkeiten) wird nicht verlangt.
+
+AL124 Aus Paragraph AL114(i) geht hervor, dass Unwirksamkeit in dem Umfang auftritt, in dem die Veränderung des beizulegenden Zeitwerts des dem abgesicherten Risiko zuzuordnenden Grundgeschäfts sich von der Änderung des beizulegenden Zeitwerts des Sicherungsderivats unterscheidet. Eine solche Differenz kann aus verschiedenen Gründen auftreten, u. a.:
+a) 
+
+[…]
+b) 
+
+Posten aus dem abgesicherten Portfolio wurden wertgemindert oder ausgebucht,
+c) 
+
+die Zahlungstermine des Sicherungsinstruments und des Grundgeschäfts sind verschieden und
+d) 
+
+andere Gründe […].
+
+Eine solche Unwirksamkeit ( 34 ) ist zu identifizieren und erfolgswirksam zu erfassen.
+
+AL125 Die Wirksamkeit der Absicherung wird im Allgemeinen verbessert,
+a) 
+
+wenn das Unternehmen Posten mit verschiedenen Rückzahlungsmöglichkeiten auf eine Art aufteilt, die den unterschiedlichen Verhaltensweisen bei der vorzeitigen Rückzahlung Rechnung trägt.
+b) 
+
+wenn die Anzahl der Posten im Portfolio größer ist. Wenn nur wenige Posten zu dem Portfolio gehören, ist eine relativ hohe Unwirksamkeit wahrscheinlich, wenn bei einem der Posten eine vorzeitige Rückzahlung früher oder später als erwartet erfolgt. Umfasst das Portfolio dagegen viele Posten, kann das Verhalten in Bezug auf vorzeitige Rückzahlungen genauer vorausgesagt werden.
+c) 
+
+wenn die verwendeten Zinsanpassungsperioden kürzer sind (z. B. Zinsanpassungsperioden von 1 Monat anstelle von 3 Monaten). Kürzere Zinsanpassungsperioden verringern den Effekt von Inkongruenz zwischen dem Zinsanpassungs- und dem Zahlungstermin (innerhalb der Zinsanpassungsperioden) des Grundgeschäfts und des Sicherungsinstruments.
+d) 
+
+je größer die Häufigkeit ist, mit der der Betrag des Sicherungsinstruments angepasst wird, um Änderungen des Grundgeschäfts widerzuspiegeln (z. B. aufgrund veränderter Erwartungen in Bezug auf vorzeitige Rückzahlungen).
+
+AL126 Ein Unternehmen überprüft regelmäßig die Wirksamkeit. […]
+
+AL127 Bei der Bewertung der Wirksamkeit unterscheidet das Unternehmen zwischen Überarbeitungen der geschätzten Zinsanpassungstermine der bestehenden Vermögenswerte (oder Verbindlichkeiten) und der Emission neuer Vermögenswerte (oder Verbindlichkeiten), wobei nur erstere Unwirksamkeit auslösen. […]. Sobald eine Unwirksamkeit, wie zuvor erwähnt, erfasst wurde, erstellt das Unternehmen für jede Zinsanpassungsperiode eine neue Schätzung der gesamten Vermögenswerte (oder Verbindlichkeiten), wobei neue Vermögenswerte (oder Verbindlichkeiten), die seit der letzten Überprüfung der Wirksamkeit emittiert wurden, einbezogen werden, und bestimmt einen neuen Betrag für das Grundgeschäft und einen neuen Prozentsatz für die Absicherung. […]
+
+AL128 Posten, die ursprünglich in eine Zinsanpassungsperiode aufgeteilt wurden, können ausgebucht sein, da vorzeitige Rückzahlungen oder Abschreibungen aufgrund von Wertminderung oder Verkauf früher als erwartet stattfanden. In diesem Falle ist der Änderungsbetrag des beizulegenden Zeitwerts des gesonderten Postens (siehe Paragraph AL114(g)), der sich auf den ausgebuchten Posten bezieht, aus der Bilanz zu entfernen und in den Gewinn oder Verlust, der bei der Ausbuchung des Postens entsteht, einzubeziehen. Zu diesem Zweck ist es notwendig, die Zinsanpassungsperiode/die Zinsanpassungsperioden zu kennen, der/denen der ausgebuchte Posten zugeteilt war, um ihn aus dieser/diesen zu entfernen und um folglich den Betrag aus dem gesonderten Posten (siehe Paragraph AL114(g)) zu entfernen. Wenn bei der Ausbuchung eines Postens die Zinsanpassungsperiode bestimmt werden kann, zu der er gehörte, wird er aus dieser Periode entfernt. Ist dies nicht möglich, wird er aus der frühesten Periode entfernt, wenn die Ausbuchung aufgrund höher als erwarteter vorzeitiger Rückzahlungen stattfand, oder in einer systematischen und vernünftigen Weise allen Perioden zugeordnet, die den ausgebuchten Posten enthalten, sofern der Posten verkauft oder wertgemindert wurde.
+
+AL129 Jeder sich auf eine bestimmte Periode beziehende Betrag, der bei Ablauf der Periode nicht ausgebucht wurde, wird zu diesem Zeitpunkt erfolgswirksam erfasst (siehe Paragraph 89A). […]
+
+AL130 […].
+
+AL131 Wenn der abgesicherte Betrag für die Zinsanpassungsperiode verringert wird, ohne dass die zugehörigen Vermögenswerte (oder Verbindlichkeiten) ausgebucht werden, ist der zu der Wertminderung gehörende Betrag, der in dem gesonderten Posten, wie in Paragraph AL114(g) beschrieben, enthalten ist, gemäß Paragraph 92 abzuschreiben.
+
+AL132 Möglicherweise möchte ein Unternehmen den in den Paragraphen AL114–AL131 dargelegten Ansatz auf die Absicherung eines Portfolios, das zuvor als Absicherung von Zahlungsströmen gemäß IAS 39 bilanziert wurde, anwenden. Ein solches Unternehmen würde den vorherigen Einsatz der Absicherung von Zahlungsströmen gemäß Paragraph 101(d) rückgängig machen und die Anforderungen des genannten Paragraphen anwenden. Es würde gleichzeitig das Sicherungsgeschäft als Absicherung des beizulegenden Zeitwerts neu designieren und den in den Paragraphen AL114–AL131 beschriebenen Ansatz prospektiv auf die nachfolgenden Bilanzierungsperioden anwenden.
+
+ÜBERGANGSVORSCHRIFTEN (PARAGRAPHEN 103–108C)
+
+AL133 Ein Unternehmen kann eine künftige konzerninterne Transaktion als ein Grundgeschäft zu Beginn eines Geschäftsjahrs, das am oder nach dem 1. Januar 2005 beginnt (oder im Sinne einer Anpassung der Vergleichsinformationen zu Beginn einer früheren Vergleichsperiode), im Rahmen einer Sicherungsbeziehung designiert haben, die die Voraussetzungen für eine Bilanzierung als Sicherungsbeziehung gemäß diesem Standard erfüllt (in der durch den letzten Satz von Paragraph 80 geänderten Fassung). Ein solches Unternehmen kann diese Designation dazu nutzen, die Bilanzierung von Sicherungsbeziehungen auf den Konzernabschluss ab Beginn des Geschäftsjahrs anzuwenden, das am oder nach dem 1. Januar 2005 beginnt (oder zu Beginn einer früheren Vergleichsperiode). Ein solches Unternehmen hat ebenso die Paragraphen AL99A und AL99B ab Beginn des Geschäftsjahrs anzuwenden, das am oder nach dem 1. Januar 2005 beginnt. Gemäß Paragraph 108B muss es jedoch Paragraph AL99B nicht auf Vergleichsinformationen für frühere Perioden anwenden.

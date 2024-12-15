@@ -1,0 +1,418 @@
+﻿ INTERNATIONAL FINANCIAL REPORTING STANDARD 5
+
+Zur Veräußerung gehaltene langfristige Vermögenswerte und aufgegebene Geschäftsbereiche
+
+ZIELSETZUNG
+
+1 Die Zielsetzung dieses IFRS ist es, die Bilanzierung von zur Veräußerung gehaltenen Vermögenswerten sowie die Darstellung von und die Angaben zu aufgegebenen Geschäftsbereichen festzulegen. Dieser IFRS schreibt insbesondere Folgendes vor:
+a) 
+
+Vermögenswerte, die die Kriterien für eine Einstufung als „zur Veräußerung gehalten“ erfüllen, sind mit dem niedrigeren Wert aus Buchwert und beizulegendem Zeitwert abzüglich Veräußerungskosten zu bewerten, und die planmäßige Abschreibung dieser Vermögenswerte ist auszusetzen und
+b) 
+
+Vermögenswerte, die die Kriterien für eine Einstufung als „zur Veräußerung gehalten“ erfüllen, sind als gesonderte Posten in der Bilanz und die Ergebnisse aufgegebener Geschäftsbereiche sind als gesonderte Posten in der Gesamtergebnisrechnung auszuweisen.
+
+ANWENDUNGSBEREICH
+
+2 Die Einstufungs- und Darstellungspflichten dieses IFRS gelten für alle angesetzten langfristigen Vermögenswerte ( 45 ) und alle Veräußerungsgruppen eines Unternehmens. Die Bewertungsvorschriften dieses IFRS gelten für alle angesetzten langfristigen Vermögenswerte und Veräußerungsgruppen (wie in Paragraph 4 beschrieben), mit Ausnahme der in Paragraph 5 aufgeführten Vermögenswerte, die weiterhin nach dem jeweils angegebenen Standard zu bewerten sind.
+
+3 Vermögenswerte, die gemäß IAS 1 Darstellung des Abschlusses als langfristige Vermögenswerte eingestuft wurden, dürfen nur dann als kurzfristige Vermögenswerte umgegliedert werden, wenn sie die Kriterien dieses IFRS für eine Einstufung als „zur Veräußerung gehalten“ erfüllen. Vermögenswerte einer Gruppe, die ein Unternehmen normalerweise als langfristige Vermögenswerte betrachten würde und die ausschließlich mit der Absicht einer Weiterveräußerung erworben wurden, dürfen nur dann als kurzfristige Vermögenswerte eingestuft werden, wenn sie die Kriterien dieses IFRS für eine Einstufung als „zur Veräußerung gehalten“ erfüllen.
+
+4 Manchmal veräußert ein Unternehmen eine Gruppe von Vermögenswerten und möglicherweise auch einige direkt mit diesen in Verbindung stehende Schulden gemeinsam in einer einzigen Transaktion. Bei einer solchen Veräußerungsgruppe kann es sich um eine Gruppe von zahlungsmittelgenerierenden Einheiten, eine einzelne zahlungsmittelgenerierende Einheit oder einen Teil einer zahlungsmittelgenerierenden Einheit handeln ( 46 ). Die Gruppe kann alle Arten von Vermögenswerten und Schulden des Unternehmens umfassen, einschließlich kurzfristiger Vermögenswerte, kurzfristiger Schulden und Vermögenswerte, die gemäß Paragraph 5 von den Bewertungsvorschriften dieses IFRS ausgenommen sind. Enthält die Veräußerungsgruppe einen langfristigen Vermögenswert, der unter die Bewertungsvorschriften dieses IFRS fällt, sind diese Bewertungsvorschriften auf die Gruppe als Ganzes anzuwenden, d. h. die Gruppe ist zum niedrigeren Wert aus Buchwert oder beizulegendem Zeitwert abzüglich Veräußerungskosten anzusetzen. Die Vorschriften für die Bewertung der einzelnen Vermögenswerte und Schulden innerhalb einer Veräußerungsgruppe sind in den Paragraphen 18, 19 und 23 enthalten.
+
+5 Die Bewertungsvorschriften dieses IFRS ( 47 ) gelten nicht für die folgenden Vermögenswerte, die als einzelne Vermögenswerte oder als Teil einer Veräußerungsgruppe durch die nachfolgend angegebenen IFRS abgedeckt werden:
+a) 
+
+latente Steueransprüche (IAS 12 Ertragsteuern),
+b) 
+
+Vermögenswerte, die aus Leistungen an Arbeitnehmer resultieren (IAS 19 Leistungen an Arbeitnehmer),
+c) 
+
+finanzielle Vermögenswerte im Anwendungsbereich von IFRS 9 Finanzinstrumente,
+d) 
+
+langfristige Vermögenswerte, die nach dem Modell des beizulegenden Zeitwerts in IAS 40 Als Finanzinvestition gehaltene Immobilien bilanziert werden,
+e) 
+
+langfristige Vermögenswerte, die zum beizulegenden Zeitwert abzüglich der Veräußerungskosten gemäß IAS 41 Landwirtschaft angesetzt werden,
+f) 
+
+vertragliche Rechte im Rahmen von Versicherungsverträgen im Sinne von IFRS 4 Versicherungsverträge.
+
+5A Die in diesem IFRS enthaltenen Einstufungs-, Darstellungs- und Bewertungsvorschriften für langfristige Vermögenswerte (oder Veräußerungsgruppen), die als zur Veräußerung gehalten eingestuft sind, gelten ebenfalls für langfristige Vermögenswerte (oder Veräußerungsgruppen), die als zur Ausschüttung an Eigentümer (in ihrer Eigenschaft als Eigentümer) gehalten eingestuft sind (zur Ausschüttung an Eigentümer gehalten).
+
+5B Dieser IFRS legt fest, welche Angaben für langfristige Vermögenswerte (oder Veräußerungsgruppen), die als zur Veräußerung gehalten eingestuft sind, oder für aufgegebene Geschäftsbereiche gemacht werden müssen. In anderen IFRS verlangte Angaben müssen für diese Vermögenswerte (oder Veräußerungsgruppen) nicht gemacht werden, es sei denn, jene IFRS schreiben Folgendes vor:
+a) 
+
+spezifische Angaben zu langfristigen Vermögenswerten (oder Veräußerungsgruppen), die als zur Veräußerung gehalten eingestuft sind, oder zu aufgegebenen Geschäftsbereichen oder
+b) 
+
+Angaben zur Bewertung der Vermögenswerte und Schulden innerhalb einer Veräußerungsgruppe, die nicht unter die Bewertungsvorschriften von IFRS 5 fallen, und sofern diese Angaben nicht bereits in anderen Anhangangaben des Abschlusses enthalten sind.
+
+Zusätzliche Angaben zu langfristigen Vermögenswerten (oder Veräußerungsgruppen), die als zur Veräußerung gehalten eingestuft sind, oder zu aufgegebenen Geschäftsbereichen können erforderlich sein, um die allgemeinen Vorschriften von IAS 1, insbesondere die Paragraphen 15 und 125, zu erfüllen.
+
+EINSTUFUNG VON LANGFRISTIGEN VERMÖGENSWERTEN (ODER VERÄUSSERUNGSGRUPPEN) ALS ZUR VERÄUSSERUNG GEHALTEN ODER ALS ZUR AUSSCHÜTTUNG AN EIGENTÜMER GEHALTEN
+
+6   Ein langfristiger Vermögenswert (oder eine Veräußerungsgruppe) ist als zur Veräußerung gehalten einzustufen, wenn der zugehörige Buchwert überwiegend durch ein Veräußerungsgeschäft und nicht durch fortgesetzte Nutzung realisiert wird.
+
+7 Damit dies der Fall ist, muss der Vermögenswert (oder die Veräußerungsgruppe) im gegenwärtigen Zustand zu Bedingungen, die für den Verkauf derartiger Vermögenswerte (oder Veräußerungsgruppen) gängig und üblich sind, sofort zur Veräußerung verfügbar sein, und eine solche Veräußerung muss hochwahrscheinlich sein.
+
+8 Eine Veräußerung ist dann hochwahrscheinlich, wenn die zuständige Managementebene einen Plan für den Verkauf des Vermögenswerts (oder der Veräußerungsgruppe) beschlossen hat und aktiv mit der Suche nach einem Käufer und der Durchführung des Plans begonnen wurde. Des Weiteren muss der Vermögenswert (oder die Veräußerungsgruppe) tatsächlich zum Erwerb zu einem Preis angeboten werden, der zum gegenwärtigen beizulegenden Zeitwert in einem angemessenen Verhältnis steht. Außerdem muss die Veräußerung erwartungsgemäß innerhalb eines Jahres ab dem Zeitpunkt der Einstufung für eine Erfassung als abgeschlossener Verkauf in Betracht kommen, soweit gemäß Paragraph 9 nicht etwas anderes gestattet ist, und die zur Umsetzung des Plans erforderlichen Maßnahmen müssen den Schluss zulassen, dass wesentliche Änderungen am Plan oder eine Aufhebung des Plans unwahrscheinlich erscheinen. Die Wahrscheinlichkeit der Genehmigung der Anteilseigner (sofern gesetzlich vorgeschrieben) ist im Rahmen der Beurteilung, ob der Verkauf eine hochwahrscheinlich ist, zu berücksichtigen.
+
+8A Ein Unternehmen, das an einen Verkaufsplan gebunden ist, der den Verlust der Beherrschung eines Tochterunternehmens zur Folge hat, hat alle Vermögenswerte und Schulden dieses Tochterunternehmens als zur Veräußerung gehalten einzustufen, sofern die Kriterien in den Paragraphen 6–8 erfüllt sind, und zwar unabhängig davon, ob das Unternehmen nach dem Verkauf einen nicht beherrschenden Anteil am ehemaligen Tochterunternehmen behalten wird.
+
+9 Ereignisse oder Umstände können dazu führen, dass der Verkauf erst nach einem Jahr stattfindet. Eine Verlängerung des für den Verkaufsabschluss benötigten Zeitraums schließt nicht die Einstufung eines Vermögenswerts (oder einer Veräußerungsgruppe) als zur Veräußerung gehalten aus, wenn die Verzögerung auf Ereignisse oder Umstände zurückzuführen ist, die sich der Kontrolle des Unternehmens entziehen, und ausreichende Anhaltspunkte vorliegen, dass das Unternehmen weiterhin an seinem Plan zum Verkauf des Vermögenswerts (oder der Veräußerungsgruppe) festhält. Dies ist der Fall, wenn die in Anhang B genannten Kriterien erfüllt sind.
+
+10 Veräußerungsgeschäfte umfassen auch den Tausch von langfristigen Vermögenswerten gegen andere langfristige Vermögenswerte, wenn der Tauschvorgang gemäß IAS 16 Sachanlagen wirtschaftliche Substanz hat.
+
+11 Wird ein langfristiger Vermögenswert (oder eine Veräußerungsgruppe) ausschließlich mit der Absicht einer späteren Veräußerung erworben, darf der langfristige Vermögenswert (oder die Veräußerungsgruppe) nur dann zum Erwerbszeitpunkt als zur Veräußerung gehalten eingestuft werden, wenn das Ein-Jahres-Kriterium in Paragraph 8 erfüllt ist (mit Ausnahme der in Paragraph 9 gestatteten Fälle) und es hochwahrscheinlich ist, dass andere in den Paragraphen 7 und 8 genannte Kriterien, die zum Erwerbszeitpunkt nicht erfüllt waren, innerhalb kurzer Zeit nach dem Erwerb (in der Regel innerhalb von drei Monaten) erfüllt werden.
+
+12 Werden die in den Paragraphen 7 und 8 genannten Kriterien nach dem Abschlussstichtag erfüllt, darf der langfristige Vermögenswert (oder die Veräußerungsgruppe) im betreffenden veröffentlichten Abschluss nicht als zur Veräußerung gehalten eingestuft werden. Werden diese Kriterien dagegen nach dem Abschlussstichtag, aber vor der Freigabe des Abschlusses zur Veröffentlichung erfüllt, sind die in Paragraph 41(a), (b) und (d) genannten Angaben im Anhang zu machen.
+
+12A Langfristige Vermögenswerte (oder Veräußerungsgruppen) werden als zur Ausschüttung an Eigentümer gehalten eingestuft, wenn das Unternehmen verpflichtet ist, die Vermögenswerte (oder die Veräußerungsgruppe) an die Eigentümer auszuschütten. Dies ist dann der Fall, wenn die Vermögenswerte in ihrem gegenwärtigen Zustand zur sofortigen Ausschüttung verfügbar sind und die Ausschüttung hochwahrscheinlich ist. Eine Ausschüttung ist dann hochwahrscheinlich, wenn Maßnahmen zu ihrer Durchführung eingeleitet wurden und davon ausgegangen werden kann, dass die Ausschüttung innerhalb eines Jahres nach dem Zeitpunkt der Einstufung vollendet ist. Aus den für die Durchführung der Ausschüttung erforderlichen Maßnahmen sollte hervorgehen, dass es unwahrscheinlich ist, dass wesentliche Änderungen an der Ausschüttung vorgenommen werden oder dass die Ausschüttung rückgängig gemacht wird. Die Wahrscheinlichkeit der Genehmigung der Anteilseigner (sofern gesetzlich vorgeschrieben) ist im Rahmen der Beurteilung, ob die Ausschüttung hochwahrscheinlich ist, zu berücksichtigen.
+
+Zur Stilllegung bestimmte langfristige Vermögenswerte
+
+13 Zur Stilllegung bestimmte langfristige Vermögenswerte (oder Veräußerungsgruppen) dürfen nicht als zur Veräußerung gehalten eingestuft werden. Dies ist darauf zurückzuführen, dass der zugehörige Buchwert überwiegend durch fortgesetzte Nutzung realisiert wird. Erfüllt die stillzulegende Veräußerungsgruppe jedoch die in Paragraph 32(a)–(c) genannten Kriterien, sind die Ergebnisse und Zahlungsströme der Veräußerungsgruppe zu dem Zeitpunkt, zu dem sie nicht mehr genutzt wird, als aufgegebener Geschäftsbereich gemäß den Paragraphen 33 und 34 darzustellen. Stillzulegende langfristige Vermögenswerte (oder Veräußerungsgruppen) beinhalten auch langfristige Vermögenswerte (oder Veräußerungsgruppen), die bis zum Ende ihrer wirtschaftlichen Nutzungsdauer genutzt werden sollen, und langfristige Vermögenswerte (oder Veräußerungsgruppen), die zur Stilllegung und nicht zur Veräußerung vorgesehen sind.
+
+14 Ein langfristiger Vermögenswert, der vorübergehend außer Betrieb genommen wurde, darf nicht wie ein stillgelegter langfristiger Vermögenswert behandelt werden.
+
+BEWERTUNG VON LANGFRISTIGEN VERMÖGENSWERTEN (ODER VERÄUSSERUNGSGRUPPEN), DIE ALS ZUR VERÄUSSERUNG GEHALTEN EINGESTUFT WERDEN
+
+Bewertung eines langfristigen Vermögenswerts (oder einer Veräußerungsgruppe)
+
+15   Langfristige Vermögenswerte (oder Veräußerungsgruppen), die als zur Veräußerung gehalten eingestuft werden, sind zum niedrigeren Wert aus Buchwert und beizulegendem Zeitwert abzüglich Veräußerungskosten anzusetzen.
+
+15A   Langfristige Vermögenswerte (oder Veräußerungsgruppen), die als zur Ausschüttung an Eigentümer gehalten eingestuft werden, sind zum niedrigeren Wert aus Buchwert und beizulegendem Zeitwert abzüglich Ausschüttungskosten ( 48 )anzusetzen.
+
+16 Wenn neu erworbene Vermögenswerte (oder Veräußerungsgruppen) die Kriterien für eine Einstufung als zur Veräußerung gehalten erfüllen (siehe Paragraph 11), führt die Anwendung von Paragraph 15 dazu, dass diese Vermögenswerte (oder Veräußerungsgruppen) beim erstmaligen Ansatz mit dem niedrigeren Wert aus dem Buchwert, wenn eine solche Einstufung nicht erfolgt wäre (beispielsweise den Anschaffungs- oder Herstellungskosten), und dem beizulegenden Zeitwert abzüglich Veräußerungskosten bewertet werden. Dementsprechend sind Vermögenswerte (oder Veräußerungsgruppen), die im Rahmen eines Unternehmenszusammenschlusses erworben werden, mit dem beizulegenden Zeitwert abzüglich Veräußerungskosten anzusetzen.
+
+17 Wird der Verkauf erst nach einem Jahr erwartet, sind die Veräußerungskosten mit ihrem Barwert zu bewerten. Ein Anstieg des Barwerts der Veräußerungskosten aufgrund des Zeitablaufs ist erfolgswirksam unter Finanzierungskosten auszuweisen.
+
+18 Unmittelbar vor der erstmaligen Einstufung eines Vermögenswerts (oder einer Veräußerungsgruppe) als zur Veräußerung gehalten sind die Buchwerte des Vermögenswerts (bzw. aller Vermögenswerte und Schulden der Gruppe) nach den einschlägigen IFRS zu bewerten.
+
+19 Bei einer späteren Neubewertung einer Veräußerungsgruppe sind die Buchwerte der Vermögenswerte und Schulden, die nicht unter die Bewertungsvorschriften dieses IFRS fallen, jedoch zu einer Veräußerungsgruppe gehören, die als zur Veräußerung gehalten eingestuft ist, zuerst gemäß den einschlägigen IFRS neu zu bewerten und anschließend mit dem beizulegenden Zeitwert abzüglich der Veräußerungskosten für die Veräußerungsgruppe anzusetzen.
+
+Erfassung von Wertminderungsaufwendungen und Wertaufholungen
+
+20 Ein Unternehmen hat bei einer erstmaligen oder späteren außerplanmäßigen Abschreibung des Vermögenswerts (oder der Veräußerungsgruppe) auf den beizulegenden Zeitwert abzüglich Veräußerungskosten einen Wertminderungsaufwand zu erfassen, soweit dieser nicht gemäß Paragraph 19 berücksichtigt wurde.
+
+21 Ein späterer Anstieg des beizulegenden Zeitwerts abzüglich Veräußerungskosten für einen Vermögenswert ist als Ertrag zu erfassen, jedoch nur bis zur Höhe des kumulierten Wertminderungsaufwands, der gemäß diesem IFRS oder davor gemäß IAS 36 Wertminderung von Vermögenswerten erfasst wurde.
+
+22 Ein späterer Anstieg des beizulegenden Zeitwerts abzüglich Veräußerungskosten für eine Veräußerungsgruppe ist als Ertrag zu erfassen,
+a) 
+
+soweit dieser Anstieg nicht gemäß Paragraph 19 erfasst wurde; jedoch
+b) 
+
+nur bis zur Höhe des kumulativen Wertminderungsaufwands, der für die unter die Bewertungsvorschriften dieses IFRS fallenden langfristigen Vermögenswerte gemäß diesem IFRS oder davor gemäß IAS 36 erfasst wurde.
+
+23 Der für eine Veräußerungsgruppe erfasste Wertminderungsaufwand (oder spätere Ertrag) verringert (bzw. erhöht) den Buchwert der unter die Bewertungsvorschriften dieses IFRS fallenden langfristigen Vermögenswerte in der Gruppe in der in den Paragraphen 104(a) und (b) und 122 von IAS 36 (in der 2004 überarbeiteten Fassung) angegebenen Verteilungsreihenfolge.
+
+24 Ein Gewinn oder Verlust, der bis zum Zeitpunkt der Veräußerung eines langfristigen Vermögenswerts (oder einer Veräußerungsgruppe) bisher nicht erfasst wurde, ist zum Zeitpunkt der Ausbuchung zu erfassen. Die Vorschriften zur Ausbuchung sind dargelegt in
+a) 
+
+den Paragraphen 67–72 von IAS 16 (in der 2003 überarbeiteten Fassung) für Sachanlagen und
+b) 
+
+den Paragraphen 112–117 von IAS 38 Immaterielle Vermögenswerte (in der 2004 überarbeiteten Fassung) für immaterielle Vermögenswerte.
+
+25 Solange ein langfristiger Vermögenswert als zur Veräußerung gehalten eingestuft wird oder zu einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe gehört, darf er nicht planmäßig abgeschrieben werden. Zinsen und andere Aufwendungen, die den Schulden einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe zugeordnet werden können, sind weiterhin zu erfassen.
+
+Änderungen eines Veräußerungsplans oder eines Ausschüttungsplans an Eigentümer
+
+26 Vermögenswerte (oder Veräußerungsgruppen), die als zur Veräußerung gehalten oder als zur Ausschüttung an Eigentümer gehalten eingestuft wurden, die Kriterien in den Paragraphen 7–9 (für zur Veräußerung gehalten) bzw. in Paragraph 12A (für zur Ausschüttung an Eigentümer gehalten) aber nicht mehr erfüllen, dürfen nicht mehr als zur Veräußerung bzw. Ausschüttung an Eigentümer gehalten eingestuft werden. Für die entsprechende Änderung der Einstufung sind die Leitlinien in den Paragraphen 27–29 zu beachten, es sei denn, es gilt Paragraph 26A.
+
+26A Werden Vermögenswerte (oder Veräußerungsgruppen), die als zur Veräußerung gehalten eingestuft waren, direkt als zur Ausschüttung an Eigentümer gehalten umgegliedert oder werden Vermögenswerte (oder Veräußerungsgruppen), die als zur Ausschüttung an Eigentümer gehalten eingestuft waren, direkt als zur Veräußerung gehalten umgegliedert, gilt die Änderung der Einstufung als Weiterführung des ursprünglichen Veräußerungsplans. Das Unternehmen
+a) 
+
+folgt für diese Änderung nicht den Leitlinien in den Paragraphen 27–29. Das Unternehmen wendet die für die neue Veräußerungsart geltenden Einstufungs-, Darstellungs- und Bewertungsvorschriften dieses IFRS an,
+b) 
+
+bewertet den langfristigen Vermögenswert (oder die Veräußerungsgruppe) gemäß den Vorschriften in Paragraph 15 (im Falle der Umgliederung als zur Veräußerung gehalten) bzw. Paragraph 15A (im Falle der Umgliederung als zur Ausschüttung an Eigentümer gehalten) und erfasst jegliche Änderung des beizulegenden Zeitwerts abzüglich Veräußerungs-/Ausschüttungskosten des langfristigen Vermögenswerts (oder der Veräußerungsgruppe) gemäß den Vorschriften in den Paragraphen 20–25,
+c) 
+
+darf das Datum der Einstufung gemäß den Paragraphen 8 und 12A nicht ändern. Dies schließt eine Verlängerung des für den Verkaufsabschluss oder die Ausschüttung an die Eigentümer benötigten Zeitraums nicht aus, sofern die Bedingungen in Paragraph 9 erfüllt sind.
+
+27 Ein langfristiger Vermögenswert (oder eine Veräußerungsgruppe), der (die) nicht mehr als zur Veräußerung gehalten oder als zur Ausschüttung an die Eigentümer gehalten eingestuft wird (oder nicht mehr zu einer als zur Veräußerung gehalten oder als zur Ausschüttung an die Eigentümer gehalten eingestuften Veräußerungsgruppe gehört) ist anzusetzen mit dem niedrigeren Wert aus:
+a) 
+
+dem Buchwert, bevor der Vermögenswert (oder die Veräußerungsgruppe) als zur Veräußerung gehalten oder als zur Ausschüttung an die Eigentümer gehalten eingestuft wurde, bereinigt um alle planmäßigen Abschreibungen oder Neubewertungen, die ohne eine Einstufung des Vermögenswerts (oder der Veräußerungsgruppe) als zur Veräußerung gehalten oder als zur Ausschüttung an die Eigentümer gehalten erfasst worden wären, und
+b) 
+
+dem erzielbaren Betrag zum Zeitpunkt der späteren Entscheidung, nicht zu verkaufen oder auszuschütten ( 49 ).
+
+28 Notwendige Anpassungen des Buchwerts langfristiger Vermögenswerte, die nicht mehr als zur Veräußerung gehalten oder als zur Ausschüttung an die Eigentümer gehalten eingestuft werden, sind in der Berichtsperiode, in der die Kriterien der Paragraphen 7–9 bzw. des Paragraphen 12A nicht mehr erfüllt sind, im Gewinn oder Verlust ( 50 ) aus fortzuführenden Geschäftsbereichen zu berücksichtigen. Die Abschlüsse für die Berichtsperioden seit der Einstufung als zur Veräußerung gehalten oder als zur Ausschüttung an die Eigentümer gehalten sind entsprechend zu ändern, wenn die Veräußerungsgruppe oder der langfristige Vermögenswert, der nicht mehr als zur Veräußerung gehalten oder als zur Ausschüttung an die Eigentümer gehalten eingestuft wird, eine Tochtergesellschaft, eine gemeinschaftliche Tätigkeit, ein Gemeinschaftsunternehmen, ein assoziiertes Unternehmen oder ein Teil eines Anteils an einem Gemeinschaftsunternehmen oder assoziierten Unternehmen ist. Diese Anpassung ist in der Gesamtergebnisrechnung unter den gleichen Posten wie die gegebenenfalls gemäß Paragraph 37 erfassten Gewinne oder Verluste auszuweisen.
+
+29 Bei der Herausnahme einzelner Vermögenswerte oder Schulden aus einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe sind die verbleibenden Vermögenswerte und Schulden der zum Verkauf stehenden Veräußerungsgruppe nur dann als Gruppe zu bewerten, wenn die Gruppe die Kriterien der Paragraphen 7–9 erfüllt. Bei der Herausnahme einzelner Vermögenswerte oder Schulden aus einer als zur Ausschüttung an die Eigentümer gehalten eingestuften Veräußerungsgruppe sind die verbleibenden Vermögenswerte und Schulden der auszuschüttenden Veräußerungsgruppe nur dann als Gruppe zu bewerten, wenn die Gruppe die Kriterien des Paragraphen 12A erfüllt. Andernfalls sind die verbleibenden langfristigen Vermögenswerte der Gruppe, die für sich genommen die Kriterien für eine Einstufung als zur Veräußerung gehalten (oder als zur Ausschüttung an die Eigentümer gehalten) erfüllen, einzeln mit dem niedrigeren Wert aus Buchwert und dem zu diesem Zeitpunkt beizulegenden Zeitwert abzüglich Veräußerungskosten (oder Ausschüttungskosten) anzusetzen. Alle langfristigen Vermögenswerte, die den Kriterien für als zur Veräußerung gehalten nicht entsprechen, dürfen nicht mehr als zur Veräußerung gehaltene langfristige Vermögenswerte gemäß Paragraph 26 eingestuft werden. Alle langfristigen Vermögenswerte, die den Kriterien für als zur Ausschüttung an die Eigentümer gehalten nicht entsprechen, dürfen nicht mehr als zur Ausschüttung an die Eigentümer gehaltene langfristige Vermögenswerte gemäß Paragraph 26 eingestuft werden.
+
+DARSTELLUNG UND ANGABEN
+
+30   Ein Unternehmen hat Informationen darzustellen und anzugeben, die es den Abschlussadressaten ermöglichen, die finanziellen Auswirkungen von aufgegebenen Geschäftsbereichen und Veräußerungen langfristiger Vermögenswerte (oder Veräußerungsgruppen) zu beurteilen.
+
+Darstellung aufgegebener Geschäftsbereiche
+
+31 Ein Unternehmensbestandteil bezeichnet einen Geschäftsbereich und die zugehörigen Zahlungsströme, die betrieblich und für die Zwecke der Rechnungslegung klar vom restlichen Unternehmen abgegrenzt werden können. Mit anderen Worten: ein Unternehmensbestandteil ist während seiner Nutzung eine zahlungsmittelgenerierende Einheit oder eine Gruppe von zahlungsmittelgenerierenden Einheiten gewesen.
+
+32 Ein aufgegebener Geschäftsbereich ist ein Unternehmensbestandteil, der veräußert wurde oder als zur Veräußerung gehalten eingestuft wird und der
+a) 
+
+einen gesonderten, wesentlichen Geschäftszweig oder geografischen Geschäftsbereich darstellt,
+b) 
+
+Teil eines einzelnen, abgestimmten Plans zur Veräußerung eines gesonderten wesentlichen Geschäftszweigs oder geografischen Geschäftsbereichs ist oder
+c) 
+
+ein Tochterunternehmen darstellt, das ausschließlich mit der Absicht einer Weiterveräußerung erworben wurde.
+
+33 Anzugeben ist:
+a) 
+
+ein gesonderter Betrag in der Gesamtergebnisrechnung, welcher der Summe entspricht aus:
+i) 
+
+dem Ergebnis des aufgegebenen Geschäftsbereichs nach Steuern und
+ii) 
+
+dem Ergebnis nach Steuern, das bei der Bewertung zum beizulegenden Zeitwert abzüglich Veräußerungskosten oder bei der Veräußerung der Vermögenswerte oder Veräußerungsgruppe(n), die den aufgegebenen Geschäftsbereich darstellen, erfasst wurde.
+b) 
+
+eine Untergliederung des gesonderten Betrags unter (a) in:
+i) 
+
+Erlöse, Aufwendungen und Ergebnis des aufgegebenen Geschäftsbereichs vor Steuern,
+ii) 
+
+den zugehörigen Ertragsteueraufwand gemäß Paragraph 81(h) von IAS 12, und
+iii) 
+
+den Gewinn oder Verlust, der bei der Bewertung zum beizulegenden Zeitwert abzüglich Veräußerungskosten oder bei der Veräußerung der Vermögenswerte oder Veräußerungsgruppe(n), die den aufgegebenen Geschäftsbereich darstellen, erfasst wurde, und
+iv) 
+
+den zugehörigen Ertragsteueraufwand gemäß Paragraph 81(h) von IAS 12.
+
+Diese Untergliederung kann im Anhang oder in der Gesamtergebnisrechnung dargestellt werden. Die Darstellung in der Gesamtergebnisrechnung hat in einem eigenen Abschnitt für aufgegebene Geschäftsbereiche, also getrennt von den fortzuführenden Geschäftsbereichen, zu erfolgen. Bei Veräußerungsgruppen, bei denen es sich um neu erworbene Tochterunternehmen handelt, die zum Erwerbszeitpunkt die Kriterien für eine Einstufung als zur Veräußerung gehalten erfüllen (siehe Paragraph 11), ist eine solche Untergliederung nicht erforderlich.
+c) 
+
+die Netto-Zahlungsströme, die der laufenden Geschäftstätigkeit sowie der Investitions- und Finanzierungstätigkeit des aufgegebenen Geschäftsbereiches zuzuordnen sind. Diese Angaben können entweder im Anhang oder im Abschluss dargestellt werden. Nicht erforderlich sind sie bei Veräußerungsgruppen, bei denen es sich um neu erworbene Tochterunternehmen handelt, die zum Erwerbszeitpunkt die Kriterien für eine Einstufung als zur Veräußerung gehalten erfüllen (siehe Paragraph 11).
+d) 
+
+die Erträge aus fortzuführenden Geschäftsbereichen und aus aufgegebenen Geschäftsbereichen, die den Eigentümern des Mutterunternehmens zuzuordnen sind. Diese Angaben können entweder im Anhang oder in der Gesamtergebnisrechnung dargestellt werden.
+
+33A Stellt ein Unternehmen die einzelnen Gewinn- oder Verlustposten wie in Paragraph 10A von IAS 1 (in der 2011 geänderten Fassung) beschrieben in einer gesonderten Gewinn- und Verlustrechnung dar, muss diese einen eigenen Abschnitt für aufgegebene Geschäftsbereiche enthalten.
+
+34 Die Angaben gemäß Paragraph 33 sind für frühere im Abschluss dargestellte Berichtsperioden so anzupassen, dass sich die Angaben auf alle Geschäftsbereiche beziehen, die bis zum Abschlussstichtag der zuletzt dargestellten Berichtsperiode aufgegeben wurden.
+
+35 Alle in der Berichtsperiode vorgenommenen Änderungen an Beträgen, die früher im Abschnitt für aufgegebene Geschäftsbereiche dargestellt wurden und in direktem Zusammenhang mit der Veräußerung eines aufgegebenen Geschäftsbereichs in einer vorangegangenen Periode stehen, sind unter diesem Abschnitt in einer gesonderten Kategorie auszuweisen. Es sind die Art und Höhe solcher Berichtigungen anzugeben. Im Folgenden werden einige Beispiele für Umstände genannt, unter denen es zu derartigen Änderungen kommen kann:
+a) 
+
+Klärung von Unsicherheiten, die auf die Bedingungen des Veräußerungsgeschäfts zurückzuführen sind, wie beispielsweise die Klärung von Kaufpreisanpassungen oder Klärung von Entschädigungsfragen mit dem Käufer,
+b) 
+
+Klärung von Unsicherheiten, die auf die Geschäftstätigkeit des Unternehmensbestandteils vor seiner Veräußerung zurückzuführen sind und in direktem Zusammenhang damit stehen, wie beispielsweise beim Verkäufer verbliebene Verpflichtungen aus der Umwelt- und Produkthaftung,
+c) 
+
+Abgeltung von Verpflichtungen im Rahmen eines Versorgungsplans für Arbeitnehmer, sofern diese Abgeltung in direktem Zusammenhang mit dem Veräußerungsgeschäft steht.
+
+36 Wird ein Unternehmensbestandteil nicht mehr als zur Veräußerung gehalten eingestuft, ist das Ergebnis dieses Unternehmensbestandteils, das zuvor gemäß den Paragraphen 33–35 im Abschnitt für aufgegebene Geschäftsbereiche ausgewiesen wurde, umzugliedern und für alle dargestellten Berichtsperioden in die Erträge aus fortzuführenden Geschäftsbereichen einzubeziehen. Die Beträge für vorangegangene Berichtsperioden sind mit dem Hinweis zu versehen, dass es sich um angepasste Angaben handelt.
+
+36A Ein Unternehmen, das an einen Veräußerungsplan gebunden ist, der den Verlust der Beherrschung eines Tochterunternehmens zur Folge hat, muss alle in den Paragraphen 33–36 verlangten Angaben machen, wenn es sich bei dem Tochterunternehmen um eine Veräußerungsgruppe handelt, die die Definition eines aufgegebenen Geschäftsbereichs im Sinne von Paragraph 32 erfüllt.
+
+Ergebnis aus fortzuführenden Geschäftsbereichen
+
+37 Alle Gewinne oder Verluste aus der Neubewertung von langfristigen Vermögenswerten (oder Veräußerungsgruppen), die als zur Veräußerung gehalten eingestuft werden und nicht die Definition eines aufgegebenen Geschäftsbereichs erfüllen, sind im Gewinn oder Verlust aus fortzuführenden Geschäftsbereichen zu erfassen.
+
+Darstellung von langfristigen Vermögenswerten oder Veräußerungsgruppen, die als zur Veräußerung gehalten eingestuft werden
+
+38 Langfristige Vermögenswerte, die als zur Veräußerung gehalten eingestuft werden, sowie die Vermögenswerte einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe sind in der Bilanz getrennt von anderen Vermögenswerten darzustellen. Die Schulden einer als zur Veräußerung gehalten eingestuften Veräußerungsgruppe sind getrennt von anderen Schulden in der Bilanz auszuweisen. Diese Vermögenswerte und Schulden dürfen nicht miteinander saldiert und müssen als gesonderter Betrag abgebildet werden. Die Hauptgruppen der Vermögenswerte und Schulden, die als zur Veräußerung gehalten eingestuft werden, sind außer in dem gemäß Paragraph 39 gestatteten Fall entweder in der Bilanz oder im Anhang gesondert anzugeben. Alle im sonstigen Ergebnis erfassten kumulativen Erträge oder Aufwendungen, die in Verbindung mit langfristigen Vermögenswerten (oder Veräußerungsgruppen) stehen, die als zur Veräußerung gehalten eingestuft werden, sind gesondert auszuweisen.
+
+39 Handelt es sich bei der Veräußerungsgruppe um ein neu erworbenes Tochterunternehmen, das zum Erwerbszeitpunkt die Kriterien für eine Einstufung als zur Veräußerung gehalten erfüllt (siehe Paragraph 11), ist eine Angabe der Hauptgruppen der Vermögenswerte und Schulden nicht erforderlich.
+
+40 Die Beträge, die für langfristige Vermögenswerte oder Vermögenswerte und Schulden von Veräußerungsgruppen, die als zur Veräußerung gehalten eingestuft werden, in den Bilanzen vorangegangener Berichtsperioden ausgewiesen wurden, müssen nicht umgegliedert oder erneut dargestellt werden, um die bilanzielle Gliederung für die zuletzt dargestellte Berichtsperiode widerzuspiegeln.
+
+Zusätzliche Angaben
+
+41 Ein Unternehmen hat in der Berichtsperiode, in der ein langfristiger Vermögenswert (oder eine Veräußerungsgruppe) entweder als zur Veräußerung gehalten eingestuft oder veräußert wurde, im Anhang Folgendes anzugeben:
+a) 
+
+eine Beschreibung des langfristigen Vermögenswerts (oder der Veräußerungsgruppe),
+b) 
+
+eine Beschreibung der Sachverhalte und Umstände der Veräußerung oder der Sachverhalte und Umstände, die zu der erwarteten Veräußerung führen, sowie die voraussichtliche Art und Weise und der voraussichtliche Zeitpunkt dieser Veräußerung,
+c) 
+
+den gemäß den Paragraphen 20–22 erfassten Gewinn oder Verlust und, falls dieser nicht gesondert in der Gesamtergebnisrechnung ausgewiesen wird, unter welchem Posten der Gesamtergebnisrechnung dieser Gewinn oder Verlust berücksichtigt wurde,
+d) 
+
+gegebenenfalls das berichtspflichtige Segment, in dem der langfristige Vermögenswert (oder die Veräußerungsgruppe) gemäß IFRS 8 Geschäftssegmente ausgewiesen wird.
+
+42 Wenn Paragraph 26 oder Paragraph 29 Anwendung findet, sind in der Berichtsperiode, in der eine Änderung des Plans zur Veräußerung des langfristigen Vermögenswerts (oder der Veräußerungsgruppe) beschlossen wurde, die Sachverhalte und Umstände zu beschreiben, die zu dieser Entscheidung geführt haben. Die Auswirkungen der Entscheidung auf das Ergebnis für die dargestellte Berichtsperiode und die dargestellten vorangegangenen Berichtsperioden sind anzugeben.
+
+ÜBERGANGSVORSCHRIFTEN
+
+43 Der IFRS ist prospektiv auf langfristige Vermögenswerte (oder Veräußerungsgruppen) anzuwenden, die nach dem Zeitpunkt seines Inkrafttretens die Kriterien für eine Einstufung als zur Veräußerung gehalten erfüllen, sowie auf Geschäftsbereiche, die nach dem Zeitpunkt seines Inkrafttretens die Kriterien für eine Einstufung als aufgegebene Geschäftsbereiche erfüllen. Die Vorschriften des IFRS können auf alle langfristigen Vermögenswerte (oder Veräußerungsgruppen) angewendet werden, die vor dem Zeitpunkt seines Inkrafttretens die Kriterien für eine Einstufung als zur Veräußerung gehalten erfüllen, sowie auf Geschäftsbereiche, die die Kriterien für eine Einstufung als aufgegebene Geschäftsbereiche erfüllen, sofern die Bewertungen und anderen notwendigen Informationen zur Anwendung des IFRS zu dem Zeitpunkt durchgeführt bzw. eingeholt wurden, zu dem diese Kriterien ursprünglich erfüllt wurden.
+
+ZEITPUNKT DES INKRAFTTRETENS
+
+44 Dieser IFRS ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen den IFRS auf vor dem 1. Januar 2005 beginnende Geschäftsjahre an, hat es dies anzugeben.
+
+44A Durch IAS 1 (in der 2007 überarbeiteten Fassung) wurde die in den IAS/IFRS verwendete Terminologie geändert. Außerdem wurden die Paragraphen 3 und 38 geändert, und Paragraph 33A wurde eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2009 beginnen. Wendet ein Unternehmen IAS 1 (in der 2007 überarbeiteten Fassung) auf ein früheres Geschäftsjahr an, so hat es auf dieses Geschäftsjahr auch diese Änderungen anzuwenden.
+
+44B Durch IAS 27 Konzern- und Einzelabschlüsse (in der 2008 geänderten Fassung) wurde Paragraph 33(d) eingefügt. Diese Änderung ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Wendet ein Unternehmen IAS 27 (in der 2008 geänderten Fassung) auf ein früheres Geschäftsjahr an, so hat es auf dieses Geschäftsjahr auch die genannte Änderung anzuwenden. Diese Änderung ist rückwirkend anzuwenden.
+
+44C Durch Verbesserungen an den IFRS, veröffentlicht im Mai 2008, wurden die Paragraphen 8A und 36A eingefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Juli 2009 beginnen. Eine frühere Anwendung ist zulässig. Allerdings darf ein Unternehmen die Änderungen nur dann auf vor dem 1. Juli 2009 beginnende Geschäftsjahre anwenden, wenn es gleichzeitig auch IAS 27 (in der im Januar 2008 geänderten Fassung) anwendet. Wendet ein Unternehmen diese Änderungen vor dem 1. Juli 2009 an, hat es dies anzugeben. Die Änderungen sind vorbehaltlich der Übergangsbestimmungen in Paragraph 45 von IAS 27 (in der im Januar 2008 geänderten Fassung) prospektiv ab dem Zeitpunkt anzuwenden, zu dem das Unternehmen erstmals IFRS 5 angewendet hat.
+
+44D Durch IFRIC 17 Sachdividenden an Eigentümer wurden im November 2008 die Paragraphen 5A, 12A und 15A eingefügt, und Paragraph 8 wurde geändert. Diese Änderungen sind in Geschäftsjahren, die am oder nach dem 1. Juli 2009 beginnen, prospektiv auf langfristige Vermögenswerte (oder Veräußerungsgruppen) anzuwenden, die als zur Ausschüttung an Eigentümer gehalten eingestuft sind. Eine rückwirkende Anwendung ist nicht zulässig. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf ein vor dem 1. Juli 2009 beginnendes Geschäftsjahr an, hat es dies anzugeben und ebenfalls IFRS 3 Unternehmenszusammenschlüsse (in der 2008 überarbeiteten Fassung), IAS 27 (in der im Januar 2008 geänderten Fassung) und IFRIC 17 anzuwenden.
+
+44E Durch Verbesserungen an den IFRS, veröffentlicht im April 2009, wurde Paragraph 5B eingefügt. Diese Änderung ist prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2010 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen die Änderung auf ein früheres Geschäftsjahr an, hat es dies anzugeben.
+
+44F [gestrichen]
+
+44G Durch IFRS 11 Gemeinschaftliche Vereinbarungen, veröffentlicht im Mai 2011, wurde Paragraph 28 geändert. Wendet ein Unternehmen IFRS 11 an, ist diese Änderung ebenfalls anzuwenden.
+
+44H Durch IFRS 13 Bewertung zum beizulegenden Zeitwert, veröffentlicht im Mai 2011, wurde die Definition des beizulegenden Zeitwerts und die Definition des erzielbaren Betrags in Anhang A geändert. Wendet ein Unternehmen IFRS 13 an, sind diese Änderungen ebenfalls anzuwenden.
+
+44I Durch Darstellung von Posten des sonstigen Ergebnisses (Änderungen an IAS 1), veröffentlicht im Juni 2011, wurde Paragraph 33A geändert. Wendet ein Unternehmen IAS 1 in der im Juni 2011 geänderten Fassung an, ist diese Änderung ebenfalls anzuwenden.
+
+44K Durch IFRS 9, veröffentlicht im Juli 2014, wurde Paragraph 5 geändert, und die Paragraphen 44F und 44J wurden gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+44L Durch die Jährlichen Verbesserungen an den IFRS, Zyklus 2012–2014, veröffentlicht im September 2014, wurden die Paragraphen 26–29 geändert und Paragraph 26A eingefügt. Diese Änderungen sind prospektiv gemäß IAS 8 Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler auf Änderungen an einer Veräußerungsmethode anzuwenden, die in Geschäftsjahren vorgenommen werden, die am oder nach dem 1. Januar 2016 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen auf ein früheres Geschäftsjahr an, hat es dies anzugeben.
+
+44M Durch IFRS 17, veröffentlicht im Mai 2017, wurde Paragraph 5 geändert. Wendet ein Unternehmen IFRS 17 an, ist diese Änderung ebenfalls anzuwenden.
+
+RÜCKNAHME VON IAS 35
+
+45 Dieser IFRS ersetzt IAS 35 Aufgabe von Geschäftsbereichen.
+
+Anhang A
+
+Definitionen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+Zahlungsmittelgenerierende Einheit
+	
+
+Die kleinste identifizierbare Gruppe von Vermögenswerten, die Mittelzuflüsse erzeugt, die weitgehend unabhängig von den Mittelzuflüssen anderer Vermögenswerte oder anderer Gruppen von Vermögenswerten sind.
+
+Unternehmensbestandteil
+	
+
+Ein Geschäftsbereich und die zugehörigen Zahlungsströme, die betrieblich und für die Zwecke der Rechnungslegung klar vom restlichen Unternehmen abgegrenzt werden können.
+
+Veräußerungskosten
+	
+
+Zusätzliche Kosten, die der Veräußerung eines Vermögenswerts (oder einer Veräußerungsgruppe) einzeln zugeordnet werden können, mit Ausnahme der Finanzierungskosten und des Ertragsteueraufwands.
+
+Kurzfristiger Vermögenswert
+	
+
+Ein Unternehmen hat einen Vermögenswert in folgenden Fällen als kurzfristig einzustufen:
+a) 
+
+die Realisierung des Vermögenswerts wird innerhalb des normalen Geschäftszyklus erwartet, oder der Vermögenswert wird zum Verkauf oder Verbrauch innerhalb dieses Zeitraums gehalten,
+b) 
+
+der Vermögenswert wird primär zu Handelszwecken gehalten,
+c) 
+
+die Realisierung des Vermögenswerts wird innerhalb von zwölf Monaten nach dem Abschlussstichtag erwartet oder
+d) 
+
+es handelt sich um Zahlungsmittel oder Zahlungsmitteläquivalente (gemäß der Definition in IAS 7), es sei denn, der Tausch oder die Nutzung des Vermögenswerts zur Erfüllung einer Verpflichtung sind für einen Zeitraum von mindestens zwölf Monaten nach dem Abschlussstichtag eingeschränkt.
+
+Aufgegebener Geschäftsbereich
+	
+
+Ein Unternehmensbestandteil, der veräußert wurde oder als zur Veräußerung gehalten eingestuft wird und
+a) 
+
+einen gesonderten, wesentlichen Geschäftszweig oder geografischen Geschäftsbereich darstellt,
+b) 
+
+Teil eines einzelnen, abgestimmten Plans zur Veräußerung eines gesonderten wesentlichen Geschäftszweigs oder geografischen Geschäftsbereichs ist oder
+c) 
+
+ein Tochterunternehmen darstellt, das ausschließlich mit der Absicht einer Weiterveräußerung erworben wurde.
+
+Veräußerungsgruppe
+	
+
+Eine Gruppe von Vermögenswerten, die gemeinsam in einer einzigen Transaktion durch Verkauf oder auf andere Weise veräußert werden sollen, sowie die mit diesen Vermögenswerten direkt in Verbindung stehenden Schulden, die bei der Transaktion übertragen werden. Die Gruppe beinhaltet den bei einem Unternehmenszusammenschluss erworbenen Geschäfts- oder Firmenwert, wenn sie eine zahlungsmittelgenerierende Einheit darstellt, welcher der Geschäfts- oder Firmenwert gemäß den Vorschriften der Paragraphen 80–87 von IAS 36 Wertminderung von Vermögenswerten (in der 2004 überarbeiteten Fassung) zugeordnet wurde, oder es sich um einen Geschäftsbereich innerhalb einer solchen zahlungsmittelgenerierenden Einheit handelt.
+
+Beizulegender Zeitwert
+	
+
+Der beilzulegende Zeitwert ist der Preis, der bei einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts eingenommen bzw. für die Übertragung einer Schuld gezahlt würde (siehe IFRS 13).
+
+Feste Kaufverpflichtung
+	
+
+Ein für beide Parteien verbindlicher und in der Regel einklagbarer Vertrag mit einer nicht nahe stehenden Partei, der (a) alle wesentlichen Bestimmungen, einschließlich Preis und Zeitpunkt der Transaktion, enthält und (b) so schwerwiegende Konsequenzen für den Fall der Nichterfüllung festlegt, dass eine Erfüllung hochwahrscheinlich ist.
+
+Hochwahrscheinlich
+	
+
+Erheblich wahrscheinlicher als wahrscheinlich.
+
+Langfristiger Vermögenswert
+	
+
+Ein Vermögenswert, der nicht der Definition eines kurzfristigen Vermögenswerts entspricht.
+
+Wahrscheinlich
+	
+
+Es spricht mehr dafür als dagegen.
+
+Erzielbarer Betrag
+	
+
+Der höhere Betrag aus dem beizulegenden Zeitwert eines Vermögenswerts abzüglich Veräußerungskosten und seinem Nutzungswert.
+
+Nutzungswert
+	
+
+Der Barwert der geschätzten künftigen Zahlungsströme, die aus der fortgesetzten Nutzung eines Vermögenswerts und seinem Abgang am Ende seiner Nutzungsdauer erwartet werden.
+
+Anhang B
+
+Ergänzungen zu Anwendungen
+
+Dieser Anhang ist integraler Bestandteil des IFRS.
+
+VERLÄNGERUNG DES FÜR DEN VERKAUFSABSCHLUSS BENÖTIGTEN ZEITRAUMS
+
+B1 Wie in Paragraph 9 ausgeführt, schließt eine Verlängerung des für den Verkaufsabschluss benötigten Zeitraums nicht die Einstufung eines Vermögenswerts (oder einer Veräußerungsgruppe) als zur Veräußerung gehalten aus, wenn die Verzögerung auf Ereignisse oder Umstände zurückzuführen ist, die außerhalb der Kontrolle des Unternehmens liegen, und ausreichende Anhaltspunkte vorliegen, dass das Unternehmen weiterhin an seinem Plan zum Verkauf des Vermögenswerts (oder der Veräußerungsgruppe) festhält. Ein Abweichen von der in Paragraph 8 vorgeschriebenen Ein-Jahres-Frist ist daher in den folgenden Fällen zulässig, in denen solche Ereignisse oder Umstände eintreten:
+a) 
+
+Zu dem Zeitpunkt, zu dem das Unternehmen einen Plan zur Veräußerung eines langfristigen Vermögenswerts (oder einer Veräußerungsgruppe) beschließt, erwartet es bei vernünftiger Betrachtungsweise, dass andere Parteien (mit Ausnahme des Käufers) die Übertragung des Vermögenswerts (oder der Veräußerungsgruppe) von Bedingungen abhängig machen werden, durch die sich der für den Verkaufsabschluss benötigte Zeitraum verlängern wird, und
+i) 
+
+die zur Erfüllung dieser Bedingungen erforderlichen Maßnahmen erst nach Erlangen einer festen Kaufverpflichtung ergriffen werden können und
+ii) 
+
+es hochwahrscheinlich ist, dass eine feste Kaufverpflichtung innerhalb eines Jahres erlangt wird.
+b) 
+
+Ein Unternehmen erlangt eine feste Kaufverpflichtung, in deren Folge ein Käufer oder eine andere Parteien die Übertragung eines Vermögenswerts (oder einer Veräußerungsgruppe), die vorher als zur Veräußerung gehalten eingestuft wurden, unerwartet von Bedingungen abhängig machen, durch die sich der für den Verkaufsabschluss benötigte Zeitraum verlängern wird, und
+i) 
+
+rechtzeitig Maßnahmen zur Erfüllung der Bedingungen ergriffen wurden und
+ii) 
+
+ein günstiger Ausgang der den Verkauf verzögernden Faktoren erwartet wird.
+c) 
+
+Während der ursprünglichen Ein-Jahres-Frist treten Umstände ein, die zuvor für unwahrscheinlich erachtet wurden und dazu führen, dass langfristige Vermögenswerte (oder Veräußerungsgruppen), die zuvor als zur Veräußerung gehalten eingestuft wurden, nicht bis zum Ablauf dieser Frist veräußert werden, und
+i) 
+
+das Unternehmen während der ursprünglichen Ein-Jahres-Frist die erforderlichen Maßnahmen zur Berücksichtigung der geänderten Umstände ergriffen hat,
+ii) 
+
+der langfristige Vermögenswert (oder die Veräußerungsgruppe) tatsächlich zu einem Preis vermarktet wird, der angesichts der geänderten Umstände angemessen ist, und
+iii) 
+
+die in den Paragraphen 7 und 8 genannten Kriterien erfüllt werden.

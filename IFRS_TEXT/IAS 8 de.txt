@@ -1,0 +1,420 @@
+﻿ INTERNATIONAL ACCOUNTING STANDARD 8
+
+Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Fehler
+
+ZIELSETZUNG
+
+1 Dieser Standard schreibt die Kriterien zur Auswahl und Änderung der Rechnungslegungsmethoden sowie die bilanzielle Behandlung und Angabe von Änderungen der Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen sowie Fehlerkorrekturen vor. Der Standard soll die Relevanz und Zuverlässigkeit des Abschlusses eines Unternehmens sowie die Vergleichbarkeit dieser Abschlüsse im Zeitablauf sowie mit den Abschlüssen anderer Unternehmen verbessern.
+
+2 Die Bestimmungen zur Angabe von Rechnungslegungsmethoden — davon ausgenommen: Änderungen von Rechnungslegungsmethoden — sind in IAS 1 Darstellung des Abschlusses aufgeführt.
+
+ANWENDUNGSBEREICH
+
+3  Dieser Standard ist bei der Auswahl und Anwendung von Rechnungslegungsmethoden sowie zur Bilanzierung von Änderungen der Rechnungslegungsmethoden, Änderungen von rechnungslegungsbezogenen Schätzungen und Korrekturen von Fehlern aus früheren Perioden anzuwenden.
+
+4 Die steuerlichen Auswirkungen der Korrekturen von Fehlern aus früheren Perioden und von rückwirkenden Anpassungen zur Umsetzung der Änderungen von Rechnungslegungsmethoden werden nach IAS 12 Ertragsteuern bilanziert und angegeben.
+
+DEFINITIONEN
+
+5   Die folgenden Begriffe werden in diesem Standard mit der angegebenen Bedeutung verwendet:
+Rechnungslegungsmethoden sind die besonderen Prinzipien, grundlegende Überlegungen, Konventionen, Regeln und Praktiken, die ein Unternehmen bei der Aufstellung und Darstellung eines Abschlusses anwendet.
+Rechnungslegungsbezogene Schätzungen sind in Abschlüssen angegebene Geldbeträge, die mit Bewertungsunsicherheit behaftet sind.
+International Financial Reporting Standards (IFRS) sind die vom International Accounting Standards Board (IASB) herausgegebenen Standards und Interpretationen. Sie umfassen
+a) 
+
+International Financial Reporting Standards,
+b) 
+
+International Accounting Standards,
+c) 
+
+IFRIC-Interpretationen und
+d) 
+
+SIC-Interpretationen ( 3 ).
+Der Begriff „ wesentlich “ ist in Paragraph 7 von IAS 1 definiert und wird im vorliegenden Standard mit derselben Bedeutung verwendet.
+Fehler aus früheren Perioden sind Auslassungen oder fehlerhafte Darstellungen in den Abschlüssen eines Unternehmens für eine oder mehrere Perioden, die sich aus einer Nicht- oder Fehlanwendung von zuverlässigen Informationen ergeben haben, die
+a) 
+
+zu dem Zeitpunkt, zu dem die Abschlüsse für die entsprechenden Perioden zur Veröffentlichung freigegeben wurden, zur Verfügung standen, und
+b) 
+
+den Erwartungen zufolge hätten eingeholt und bei der Aufstellung und Darstellung der entsprechenden Abschlüsse berücksichtigt werden müssen.
+Diese Fehler umfassen die Auswirkungen von Rechenfehlern, Fehlern bei der Anwendung von Rechnungslegungsmethoden, Flüchtigkeitsfehlern oder Fehlinterpretationen von Sachverhalten sowie die Auswirkungen von Betrugsfällen.
+Die rückwirkende Anwendung besteht darin, eine neue Rechnungslegungsmethode auf Geschäftsvorfälle, sonstige Ereignisse und Bedingungen so anzuwenden, als wäre die Rechnungslegungsmethode stets angewandt worden.
+Die rückwirkende Berichtigung ist die Korrektur einer Erfassung, Bewertung und Angabe von Beträgen aus Bestandteilen eines Abschlusses, als ob ein Fehler in einer früheren Periode nie aufgetreten wäre.
+Undurchführbar: Die Anwendung einer Vorschrift gilt dann als undurchführbar, wenn sie trotz aller angemessenen Anstrengungen des Unternehmens nicht angewandt werden kann. Für eine bestimmte frühere Periode ist die rückwirkende Anwendung einer Änderung einer Rechnungslegungsmethode bzw. eine rückwirkende Berichtigung zur Fehlerkorrektur dann undurchführbar, wenn
+a) 
+
+die Auswirkungen der rückwirkenden Anwendung bzw. rückwirkenden Berichtigung nicht zu ermitteln sind,
+b) 
+
+die rückwirkende Anwendung bzw. rückwirkende Berichtigung Annahmen über die mögliche Absicht des Managements in der entsprechenden Periode erfordert oder
+c) 
+
+die rückwirkende Anwendung bzw. rückwirkende Berichtigung umfangreiche Schätzungen der Beträge erforderlich macht und es unmöglich ist, objektiv die Informationen aus diesen Schätzungen, die
+i) 
+
+einen Anhaltspunkt für die Umstände vermitteln, die zu dem Zeitpunkt/den Zeitpunkten bestanden, zu dem/denen die entsprechenden Beträge zu erfassen, zu bewerten oder anzugeben sind, und
+ii) 
+
+zur Verfügung gestanden hätten, als der Abschluss für jene frühere Periode zur Veröffentlichung freigegeben wurde,
+
+von sonstigen Informationen zu unterscheiden.
+Die prospektive Anwendung der Änderung einer Rechnungslegungsmethode bzw. der Erfassung der Auswirkung der Änderung einer rechnungslegungsbezogenen Schätzung besteht darin,
+a) 
+
+die neue Rechnungslegungsmethode auf Geschäftsvorfälle, sonstige Ereignisse und Bedingungen anzuwenden, die nach dem Zeitpunkt der Änderung der Rechnungslegungsmethode eintreten, und
+b) 
+
+die Auswirkung der Änderung einer rechnungslegungsbezogenen Schätzung in der aktuellen Berichtsperiode und in zukünftigen Perioden anzusetzen, die von der Änderung betroffen sind.
+
+6 [gestrichen]
+
+RECHNUNGSLEGUNGSMETHODEN
+
+Auswahl und Anwendung der Rechnungslegungsmethoden
+
+7   Bezieht sich ein IFRS ausdrücklich auf einen Geschäftsvorfall oder auf sonstige Ereignisse oder Bedingungen, so ist bzw. sind die Rechnungslegungsmethode(n) für den entsprechenden Posten zu ermitteln, indem der IFRS angewandt wird.
+
+8 Die IFRS legen Rechnungslegungsmethoden fest, die aufgrund einer Schlussfolgerung des IASB zu einem Abschluss führen, der relevante und zuverlässige Informationen über die Geschäftsvorfälle, sonstigen Ereignisse und Bedingungen enthält, für die sie gelten. Diese Methoden müssen nicht angewandt werden, wenn die Auswirkung ihrer Anwendung unwesentlich ist. Es ist jedoch nicht angemessen, unwesentliche Abweichungen von den IFRS vorzunehmen oder unberichtigt zu lassen, um eine bestimmte Darstellung der Vermögens-, Finanz- und Ertragslage oder der Zahlungsströme eines Unternehmens zu erzielen.
+
+9 Die IFRS gehen mit Anwendungsleitlinien einher, um Unternehmen bei der Umsetzung der Vorschriften zu helfen. In den Anwendungsleitlinien wird klar festgelegt, ob sie ein integraler Bestandteil der IFRS sind. Ist letzteres der Fall, sind die Anwendungsleitlinien verbindlich. Anwendungsleitlinien, die kein integraler Bestandteil der IFRS sind, enthalten keine Vorschriften zu den Abschlüssen.
+
+10  Bei Geschäftsvorfällen, sonstigen Ereignissen oder Bedingungen, für die kein IFRS ausdrücklich gilt, hat das Management nach eigenem Ermessen darüber zu entscheiden, welche Rechnungslegungsmethode zu entwickeln und anzuwenden ist, um Informationen bereitstellen zu können, die
+a) 
+
+für die wirtschaftliche Entscheidungsfindung der Adressaten von Bedeutung sind, und
+b) 
+
+zuverlässig sind, in dem Sinne, dass der Abschluss
+i) 
+
+die Vermögens-, Finanz- und Ertragslage sowie die Zahlungsströme des Unternehmens den tatsächlichen Verhältnissen entsprechend darstellt,
+ii) 
+
+den wirtschaftlichen Gehalt von Geschäftsvorfällen und sonstigen Ereignissen und Bedingungen widerspiegelt und nicht nur deren rechtliche Form,
+iii) 
+
+neutral ist, das heißt frei von verzerrenden Einflüssen,
+iv) 
+
+vorsichtig ist und
+v) 
+
+in allen wesentlichen Gesichtspunkten vollständig ist.
+
+11   Bei seiner Ermessensentscheidung nach Paragraph 10 hat das Management sich auf folgende Quellen – in absteigender Reihenfolge – zu beziehen und deren Anwendbarkeit zu berücksichtigen:
+a) 
+
+die Vorschriften der IFRS, die ähnliche und verwandte Fragen behandeln, und
+b) 
+
+die im Rahmenkonzept für die Finanzberichterstattung (Rahmenkonzept) enthaltenen Definitionen, Erfassungskriterien und Bewertungskonzepte für Vermögenswerte, Schulden, Erträge und Aufwendungen ( 4 ).
+
+12   Bei seiner Ermessensentscheidung nach Paragraph 10 kann das Management außerdem die jüngsten Verlautbarungen anderer Standardisierungsgremien, die ein ähnliches konzeptionelles Rahmenkonzept zur Entwicklung von Rechnungslegungsstandards einsetzen, sowie sonstige Rechnungslegungs-Verlautbarungen und anerkannte Branchenpraktiken berücksichtigen, sofern sie nicht mit den in Paragraph 11 enthaltenen Quellen in Konflikt stehen.
+
+Stetigkeit der Rechnungslegungsmethoden
+
+13   Ein Unternehmen hat seine Rechnungslegungsmethoden für ähnliche Geschäftsvorfälle, sonstige Ereignisse und Bedingungen stetig auszuwählen und anzuwenden, es sei denn, ein IFRS erlaubt bzw. schreibt die Kategorisierung von Sachverhalten vor, für die andere Rechnungslegungsmethoden zutreffend sind. Sofern ein IFRS eine derartige Kategorisierung vorschreibt oder erlaubt, ist eine geeignete Rechnungslegungsmethode auszuwählen und stetig für jede Kategorie anzuwenden.
+
+Änderungen von Rechnungslegungsmethoden
+
+14   Ein Unternehmen darf eine Rechnungslegungsmethode nur dann ändern, wenn die Änderung
+a) 
+
+aufgrund eines IFRS erforderlich ist oder
+b) 
+
+dazu führt, dass der Abschluss zuverlässige und relevantere Informationen über die Auswirkungen von Geschäftsvorfällen, sonstigen Ereignissen oder Bedingungen auf die Vermögens-, Finanz- oder Ertragslage oder die Zahlungsströme des Unternehmens vermittelt.
+
+15 Die Adressaten der Abschlüsse müssen in der Lage sein, die Abschlüsse eines Unternehmens im Zeitablauf vergleichen zu können, um Tendenzen in der Vermögens-, Finanz- und Ertragslage sowie der Zahlungsströme zu erkennen. Daher sind in jeder Periode und von einer Periode auf die nächste stets dieselben Rechnungslegungsmethoden anzuwenden, es sei denn, die Änderung einer Rechnungslegungsmethode entspricht einem der in Paragraph 14 aufgeführten Kriterien.
+
+16   Die folgenden Fälle sind keine Änderung der Rechnungslegungsmethoden:
+a) 
+
+die Anwendung einer Rechnungslegungsmethode auf Geschäftsvorfälle, sonstige Ereignisse oder Bedingungen, die sich grundsätzlich von früheren Geschäftsvorfällen oder sonstigen Ereignissen oder Bedingungen unterscheiden, und
+b) 
+
+die Anwendung einer neuen Rechnungslegungsmethode auf Geschäftsvorfälle oder sonstige Ereignisse oder Bedingungen, die früher nicht vorgekommen sind oder unwesentlich waren.
+
+17   Die erstmalige Anwendung einer Methode zur Neubewertung von Vermögenswerten nach IAS 16 Sachanlagen oder IAS 38 Immaterielle Vermögenswerte ist eine Änderung einer Rechnungslegungsmethode, die als Neubewertung im Rahmen des IAS 16 bzw. IAS 38 und nicht nach Maßgabe dieses Standards zu behandeln ist.
+
+18 Die Paragraphen 19–31 finden auf die im Paragraphen 17 beschriebene Änderung der Rechnungslegungsmethode keine Anwendung.
+
+Anwendung von Änderungen der Rechnungslegungsmethoden
+
+19   Vorbehaltlich Paragraph 23 gilt Folgendes:
+a) 
+
+Ein Unternehmen hat eine Änderung der Rechnungslegungsmethode aus der erstmaligen Anwendung eines IFRS nach den ggf. bestehenden spezifischen Übergangsvorschriften für den IFRS zu bilanzieren und
+b) 
+
+sofern ein Unternehmen eine Rechnungslegungsmethode nach erstmaliger Anwendung eines IFRS ändert, der keine spezifischen Übergangsvorschriften zur entsprechenden Änderung enthält, oder aber die Rechnungslegungsmethode freiwillig ändert, so hat es die Änderung rückwirkend anzuwenden.
+
+20 Im Sinne dieses Standards handelt es sich bei einer frühzeitigen Anwendung eines IFRS nicht um eine freiwillige Änderung der Rechnungslegungsmethode.
+
+21 Bei Fehlen eines IFRS, der sich ausdrücklich auf einen Geschäftsvorfall, ein sonstiges Ereignis oder eine Bedingung bezieht, kann das Management nach Paragraph 12 eine Rechnungslegungsmethode nach den jüngsten Verlautbarungen anderer Standardisierungsgremien anwenden, die ein ähnliches konzeptionelles Rahmenkonzept zur Entwicklung von Rechnungslegungsstandards einsetzen. Falls das Unternehmen sich nach einer Änderung einer derartigen Verlautbarung dafür entscheidet, eine Rechnungslegungsmethode zu ändern, so ist diese Änderung als freiwillige Änderung der Rechnungslegungsmethode zu bilanzieren und anzugeben.
+
+Rückwirkende Anwendung
+
+22   Wenn eine Änderung einer Rechnungslegungsmethode nach Paragraph 19(a) oder (b) rückwirkend angewendet wird, hat das Unternehmen vorbehaltlich Paragraph 23 den Eröffnungsbilanzwert eines jeden Bestandteils des Eigenkapitals für die früheste dargestellte Periode sowie die sonstigen Vergleichsbeträge für jede frühere dargestellte Periode so anzupassen, als ob die neue Rechnungslegungsmethode stets angewandt worden wäre.
+
+Einschränkungenim Hinblick auf rückwirkende Anwendung
+
+23   Ist eine rückwirkende Anwendung nach Paragraph 19(a) oder (b) vorgeschrieben, so ist eine Änderung der Rechnungslegungsmethode rückwirkend anzuwenden, es sei denn, dass die Ermittlung der periodenspezifischen Effekte oder der kumulierten Auswirkung der Änderung undurchführbar ist.
+
+24   Wenn die Ermittlung der periodenspezifischen Effekte einer Änderung der Rechnungslegungsmethode bei Vergleichsinformationen für eine oder mehrere ausgewiesene Perioden undurchführbar ist, so hat das Unternehmen die neue Rechnungslegungsmethode auf die Buchwerte der Vermögenswerte und Schulden zu Beginn der frühesten Periode, für die die rückwirkende Anwendung durchführbar ist — dies kann auch die aktuelle Berichtsperiode sein — anzuwenden und die Eröffnungsbilanzwerte eines jeden betroffenen Eigenkapitalbestandteils für die entsprechende Periode entsprechend anzupassen.
+
+25   Wenn die Ermittlung des kumulierten Effekts der Anwendung einer neuen Rechnungslegungsmethode auf alle früheren Perioden zu Beginn der aktuellen Berichtsperiode undurchführbar ist, so hat das Unternehmen die Vergleichsinformationen dahin gehend anzupassen, dass die neue Rechnungslegungsmethode prospektiv vom frühestmöglichen Zeitpunkt an angewandt wird.
+
+26 Wenn ein Unternehmen eine neue Rechnungslegungsmethode rückwirkend anwendet, so hat es die neue Rechnungslegungsmethode auf Vergleichsinformationen für frühere Perioden, so weit zurück, wie dies durchführbar ist, anzuwenden. Die rückwirkende Anwendung auf eine frühere Periode ist nur durchführbar, wenn die kumulierte Auswirkung auf die Beträge in sowohl der Eröffnungs- als auch der Abschlussbilanz für die entsprechende Periode ermittelt werden kann. Der Anpassungsbetrag für frühere Perioden, die nicht im Abschluss dargestellt sind, wird im Eröffnungsbilanzwert jedes betroffenen Eigenkapitalbestandteils der frühesten dargestellten Periode verrechnet. Normalerweise werden die Gewinnrücklagen angepasst. Allerdings kann auch jeder andere Eigenkapitalbestandteil (beispielsweise, um einem IFRS zu entsprechen) angepasst werden. Jede andere Information, die sich auf frühere Perioden bezieht, beispielsweise Zeitreihen von Finanzkennzahlen, wird ebenfalls so weit zurück, wie dies durchführbar ist, rückwirkend angepasst.
+
+27 Ist die rückwirkende Anwendung einer neuen Rechnungslegungsmethode für ein Unternehmen undurchführbar, weil es die kumulierte Auswirkung der Anwendung auf alle früheren Perioden nicht ermitteln kann, so hat das Unternehmen die neue Rechnungslegungsmethode gemäß Paragraph 25 prospektiv ab Beginn der frühestmöglichen Periode anzuwenden. Daher lässt das Unternehmen den Anteil der kumulierten Anpassung von Vermögenswerten, Schulden und Eigenkapital vor dem entsprechenden Zeitpunkt außer Acht. Die Änderung einer Rechnungslegungsmethode ist selbst dann zulässig, wenn die prospektive Anwendung der entsprechenden Methode für frühere Perioden undurchführbar ist. Die Paragraphen 50–53 enthalten Leitlinien dafür, wann die Anwendung einer neuen Rechnungslegungsmethode auf eine oder mehrere frühere Perioden undurchführbar ist.
+
+Angaben
+
+28   Wenn die erstmalige Anwendung eines IFRS Auswirkungen auf die aktuelle Berichtsperiode oder eine frühere Periode hat oder derartige Auswirkungen haben würde, die Ermittlung des Anpassungsbetrags aber undurchführbar ist, oder wenn die Anwendung Auswirkungen auf zukünftige Perioden haben könnte, hat das Unternehmen Folgendes anzugeben:
+a) 
+
+den Titel des IFRS,
+b) 
+
+falls zutreffend, dass die Rechnungslegungsmethode gemäß den Übergangsvorschriften geändert wird,
+c) 
+
+die Art der Änderung der Rechnungslegungsmethode,
+d) 
+
+falls zutreffend, eine Beschreibung der Übergangsvorschriften,
+e) 
+
+falls zutreffend, die Übergangsvorschriften, die eine Auswirkung auf zukünftige Perioden haben könnten,
+f) 
+
+den Anpassungsbetrag für die aktuelle Berichtsperiode sowie, soweit durchführbar, für jede frühere dargestellte Periode
+i) 
+
+für jeden einzelnen betroffenen Posten des Abschlusses und
+ii) 
+
+sofern IAS 33 Ergebnis je Aktie auf das Unternehmen anwendbar ist, für das unverwässerte und das verwässerte Ergebnis je Aktie
+g) 
+
+den Anpassungsbetrag, sofern durchführbar, im Hinblick auf Perioden vor denjenigen, die ausgewiesen werden, und
+h) 
+
+sofern eine rückwirkende Anwendung nach Paragraph 19(a) oder (b) für eine bestimmte frühere Periode, oder aber für Perioden, die vor den ausgewiesenen Perioden liegen, undurchführbar ist, so sind die Umstände darzustellen, die zu jenem Zustand geführt haben und es ist anzugeben, wie und ab wann die Änderung der Rechnungslegungsmethode angewandt wurde.
+
+In den Abschlüssen späterer Perioden müssen diese Angaben nicht wiederholt werden.
+
+29  Sofern eine freiwillige Änderung der Rechnungslegungsmethode Auswirkungen auf die aktuelle Berichtsperiode oder eine frühere Periode hat oder derartige Auswirkungen haben würde, die Ermittlung des Anpassungsbetrags aber undurchführbar ist, oder wenn die Änderung Auswirkungen auf zukünftige Perioden haben könnte, hat das Unternehmen Folgendes anzugeben:
+a) 
+
+die Art der Änderung der Rechnungslegungsmethode,
+b) 
+
+die Gründe, aus denen die Anwendung der neuen Rechnungslegungsmethode zuverlässige und relevantere Informationen vermittelt,
+c) 
+
+den Anpassungsbetrag für die aktuelle Berichtsperiode sowie, soweit durchführbar, für jede frühere dargestellte Periode
+i) 
+
+für jeden einzelnen betroffenen Posten des Abschlusses und
+ii) 
+
+sofern IAS 33 auf das Unternehmen anwendbar ist, für das unverwässerte und das verwässerte Ergebnis je Aktie,
+d) 
+
+den Anpassungsbetrag, sofern durchführbar, im Hinblick auf Perioden vor denjenigen, die ausgewiesen werden, und
+e) 
+
+sofern eine rückwirkende Anwendung für eine bestimmte frühere Periode, oder aber für Perioden, die vor den ausgewiesenen Perioden liegen, undurchführbar ist, so sind die Umstände darzustellen, die zu jenem Zustand geführt haben und es ist anzugeben, wie und ab wann die Änderung der Rechnungslegungsmethode angewandt wurde.
+
+In den Abschlüssen späterer Perioden müssen diese Angaben nicht wiederholt werden.
+
+30   Wenn ein Unternehmen einen neuen IFRS nicht angewandt hat, der herausgegeben wurde, aber noch nicht in Kraft getreten ist, so hat das Unternehmen Folgendes anzugeben:
+a) 
+
+diese Tatsache und
+b) 
+
+bekannte bzw. angemessen einschätzbare Informationen, die zur Beurteilung der möglichen Auswirkungen einer Anwendung des neuen IFRS auf den Abschluss des Unternehmens in der Periode der erstmaligen Anwendung relevant sind.
+
+31 Unter Berücksichtigung des Paragraphen 30 erwägt ein Unternehmen die Angabe
+a) 
+
+des Titels des neuen IFRS,
+b) 
+
+der Art der bevorstehenden Änderung/en der Rechnungslegungsmethode,
+c) 
+
+des Zeitpunkts, ab welchem die Anwendung des IFRS vorgeschrieben ist,
+d) 
+
+des Zeitpunkts, ab welchem es die erstmalige Anwendung des IFRS beabsichtigt, und
+e) 
+
+entweder
+i) 
+
+einer Erörterung der erwarteten Auswirkungen der erstmaligen Anwendung des IFRS auf den Abschluss des Unternehmens oder
+ii) 
+
+wenn diese Auswirkungen unbekannt oder nicht angemessen einschätzbar sind, einer Erklärung mit diesem Inhalt.
+
+RECHNUNGSLEGUNGSBEZOGENE SCHÄTZUNGEN
+
+32 Eine Rechnungslegungsmethode kann vorschreiben, dass Posten in Abschlüssen unter Berücksichtigung von Bewertungsunsicherheiten bewertet werden, d. h. die Rechnungslegungsmethode kann vorschreiben, solche Posten in Geldbeträgen zu bewerten, die nicht direkt feststellbar sind und deshalb geschätzt werden müssen. In einem solchen Fall entwickelt ein Unternehmen eine rechnungslegungsbezogene Schätzung, um das in der Rechnungslegungsmethode festgelegte Ziel zu erreichen. Die Entwicklung von rechnungslegungsbezogenen Schätzungen erfolgt auf der Grundlage von Ermessensentscheidungen oder Annahmen, die auf den zuletzt verfügbaren verlässlichen Informationen beruhen. Beispiele für rechnungslegungsbezogene Schätzungen sind
+a) 
+
+eine Wertberichtigung für erwartete Kreditverluste unter Anwendung von IFRS 9 Finanzinstrumente,
+b) 
+
+der Nettoveräußerungswert von Vorräten unter Anwendung von IAS 2 Vorräte,
+c) 
+
+der beizulegende Zeitwert eines Vermögenswerts oder einer Schuld unter Anwendung von IFRS 13 Bewertung zum beizulegenden Zeitwert,
+d) 
+
+der Abschreibungsaufwand bei einer Sachanlage unter Anwendung von IAS 16 und
+e) 
+
+eine Rückstellung für die Verpflichtungen aus Gewährleistungen unter Anwendung von IAS 37 Rückstellungen, Eventualverbindlichkeiten und Eventualforderungen.
+
+32A Bei der Entwicklung einer rechnungslegungsbezogenen Schätzung legt ein Unternehmen Wertermittlungsverfahren und Eingangsparameter zugrunde. Zu den Wertermittlungsverfahren gehören Schätzverfahren (z. B. Verfahren zur Bemessung einer Wertberichtigung für erwartete Kreditverluste unter Anwendung von IFRS 9) und Bewertungsverfahren (z. B. Verfahren zur Bewertung eines Vermögenswerts oder einer Schuld zum beizulegenden Zeitwert unter Anwendung von IFRS 13).
+
+32B In den IFRS wird der Begriff „Schätzung“ in bestimmten Fällen für eine Schätzung verwendet, bei der es sich nicht um eine rechnungslegungsbezogene Schätzung im Sinne dieses Standards handelt. So bezieht sich der Begriff in einigen Fällen beispielsweise auf Eingangsparameter, die bei der Entwicklung von rechnungslegungsbezogenen Schätzungen zugrunde gelegt werden.
+
+33 Die Verwendung angemessener Schätzungen ist bei der Aufstellung von Abschlüssen unumgänglich und beeinträchtigt deren Verlässlichkeit nicht.
+
+Änderungen von rechnungslegungsbezogenen Schätzungen
+
+34 Eine rechnungslegungsbezogene Schätzung muss unter Umständen geändert werden, wenn sich die Umstände, auf deren Grundlage sie erfolgt ist, ändern oder neue Informationen, neue Entwicklungen oder mehr Erfahrung vorliegen. Naturgemäß kann sich die Änderung einer rechnungslegungsbezogenen Schätzung nicht auf frühere Perioden beziehen und gilt auch nicht als Fehlerkorrektur.
+
+34A Die Auswirkungen der Änderung eines Eingangsparameters oder eines Wertermittlungsverfahrens auf eine rechnungslegungsbezogene Schätzung sind Änderungen von rechnungslegungsbezogenen Schätzungen, es sei denn, sie ergeben sich aus der Berichtigung von Fehlern aus früheren Perioden.
+
+35 Eine Änderung der verwendeten Bewertungsgrundlage ist eine Änderung einer Rechnungslegungsmethode und keine Änderung einer rechnungslegungsbezogenen Schätzung. Wenn es schwierig ist, eine Änderung einer Rechnungslegungsmethode von einer Änderung einer rechnungslegungsbezogenen Schätzung zu unterscheiden, gilt die entsprechende Änderung als eine Änderung einer rechnungslegungsbezogenen Schätzung.
+
+Anwendung von Änderungen von rechnungslegungsbezogenen Schätzungen
+
+36   Die Auswirkung der Änderung einer rechnungslegungsbezogenen Schätzung, bei der es sich nicht um eine Änderung im Sinne des Paragraphen 37 handelt, ist prospektiv erfolgswirksam zu erfassen in
+a) 
+
+der Periode der Änderung, wenn die Änderung nur diese Periode betrifft, oder
+b) 
+
+der Periode der Änderung und in zukünftigen Perioden, sofern die Änderung sowohl die Berichtsperiode als auch zukünftige Perioden betrifft.
+
+37   Soweit eine Änderung einer rechnungslegungsbezogenen Schätzung zu Änderungen der Vermögenswerte oder Schulden führt oder sich auf einen Eigenkapitalposten bezieht, hat die Erfassung dadurch zu erfolgen, dass der Buchwert des entsprechenden Vermögenswerts oder der entsprechenden Schuld oder des entsprechenden Eigenkapitalpostens in der Periode der Änderung angepasst wird.
+
+38 Die prospektive Erfassung der Auswirkung der Änderung einer rechnungslegungsbezogenen Schätzung bedeutet, dass die Änderung ab dem Zeitpunkt, zu dem sie vorgenommen wurde, auf Geschäftsvorfälle, sonstige Ereignisse und Bedingungen angewandt wird. Die Änderung einer rechnungslegungsbezogenen Schätzung kann nur den Gewinn oder Verlust der aktuellen Berichtsperiode, oder aber den Gewinn oder Verlust sowohl der aktuellen Berichtsperiode als auch zukünftiger Perioden betreffen. So betrifft beispielsweise die Änderung einer Wertberichtigung für erwartete Kreditverluste nur den Gewinn oder Verlust der Berichtsperiode und wird daher in dieser erfasst. Dagegen betrifft die Änderung einer Schätzung der Nutzungsdauer oder des erwarteten Abschreibungsverlaufs des künftigen wirtschaftlichen Nutzens eines abschreibungsfähigen Vermögenswerts den Abschreibungsaufwand der aktuellen Berichtsperiode und jeder folgenden Periode der verbleibenden Restnutzungsdauer des Vermögenswerts. In beiden Fällen wird die Auswirkung der Änderung, die sich auf die aktuelle Periode bezieht, als Ertrag oder Aufwand in der Berichtsperiode erfasst, soweit sie diese betreffen. Die mögliche Auswirkung auf zukünftige Perioden wird in diesen als Ertrag oder Aufwand erfasst.
+
+Angaben
+
+39   Ein Unternehmen hat die Art und den Betrag einer Änderung einer rechnungslegungsbezogenen Schätzung anzugeben, die eine Auswirkung in der aktuellen Berichtsperiode hat oder von der erwartet wird, dass sie Auswirkungen in zukünftigen Perioden hat, es sei denn, dass die Angabe der Schätzung dieser Auswirkung auf zukünftige Perioden undurchführbar ist.
+
+40 Erfolgt die Angabe des Betrags der Auswirkung auf zukünftige Perioden nicht, weil die Schätzung dieser Auswirkung undurchführbar ist, so hat das Unternehmen auf diesen Umstand hinzuweisen.
+
+FEHLER
+
+41 Fehler können im Hinblick auf die Erfassung, Bewertung, Darstellung oder auf Angaben zu Bestandteilen eines Abschlusses entstehen. Ein Abschluss steht nicht im Einklang mit den IFRS, wenn er entweder wesentliche Fehler oder aber absichtlich herbeigeführte unwesentliche Fehler enthält, um eine bestimmte Darstellung der Vermögens-, Finanz- oder Ertragslage oder der Zahlungsströme des Unternehmens zu erreichen. Potenzielle Fehler in der aktuellen Berichtsperiode, die in dieser Periode entdeckt werden, sind zu korrigieren, bevor der Abschluss zur Veröffentlichung freigegeben wird. Jedoch werden wesentliche Fehler mitunter erst in einer nachfolgenden Periode entdeckt, und diese Fehler aus früheren Perioden werden in den Vergleichsinformationen im Abschluss für diese nachfolgende Periode korrigiert (siehe Paragraphen 42–47).
+
+42   Vorbehaltlich Paragraph 43 hat ein Unternehmen wesentliche Fehler aus früheren Perioden im ersten vollständigen Abschluss, der nach der Entdeckung der Fehler zur Veröffentlichung freigegeben wurde, rückwirkend zu korrigieren, indem
+a) 
+
+die Vergleichsbeträge für die dargestellten früheren Perioden, in denen der Fehler auftrat, berichtigt werden, oder
+b) 
+
+wenn der Fehler vor der frühesten dargestellten Periode aufgetreten ist, die Eröffnungssalden von Vermögenswerten, Schulden und Eigenkapital für die früheste dargestellte Periode berichtigt werden.
+
+Einschränkungen bei rückwirkender Berichtigung
+
+43   Ein Fehler aus einer früheren Periode ist durch rückwirkende Berichtigung zu korrigieren, es sei denn, die Ermittlung der periodenspezifischen Effekte oder der kumulierten Auswirkung des Fehlers ist undurchführbar.
+
+44   Wenn die Ermittlung der periodenspezifischen Effekte eines Fehlers auf die Vergleichsinformationen für eine oder mehrere frühere dargestellte Perioden undurchführbar ist, so hat das Unternehmen die Eröffnungssalden von Vermögenswerten, Schulden und Eigenkapital für die früheste Periode zu berichtigen, für die eine rückwirkende Berichtigung durchführbar ist (es kann sich dabei um die aktuelle Berichtsperiode handeln).
+
+45   Wenn die Ermittlung der kumulierten Auswirkung eines Fehlers auf alle früheren Perioden am Anfang der aktuellen Berichtsperiode undurchführbar ist, so hat das Unternehmen die Vergleichsinformationen dahin gehend zu berichtigen, dass der Fehler prospektiv ab dem frühestmöglichen Zeitpunkt korrigiert wird.
+
+46 Die Korrektur eines Fehlers aus einer früheren Periode ist für die Periode, in der er entdeckt wurde, erfolgsneutral zu erfassen. Jede Information, die sich auf frühere Perioden bezieht, wie beispielsweise Zeitreihen von Finanzkennzahlen, wird so weit zurück berichtigt, wie dies durchführbar ist.
+
+47 Ist die betragsmäßige Ermittlung eines Fehlers (beispielsweise bei der Fehlanwendung einer Rechnungslegungsmethode) für alle früheren Perioden undurchführbar, so hat das Unternehmen die Vergleichsinformationen nach Paragraph 45 ab dem frühestmöglichen Zeitpunkt prospektiv zu berichtigen. Daher lässt das Unternehmen den Anteil der kumulierten Berichtigung von Vermögenswerten, Schulden und Eigenkapital vor dem entsprechenden Zeitpunkt außer Acht. Die Paragraphen 50–53 enthalten Leitlinien dafür, wann die Korrektur eines Fehlers für eine oder mehrere frühere Perioden undurchführbar ist.
+
+48 Korrekturen von Fehlern werden getrennt von Änderungen der rechnungslegungsbezogenen Schätzungen behandelt. Rechnungslegungsbezogene Schätzungen sind ihrer Natur nach Annäherungen, die unter Umständen geändert werden müssen, sobald zusätzliche Informationen bekannt werden. Beispielsweise handelt es sich bei einem Gewinn oder Verlust als Ergebnis eines Haftungsverhältnisses nicht um die Korrektur eines Fehlers.
+
+Angaben von Fehlern aus früheren Perioden
+
+49   Wenn Paragraph 42 angewandt wird, hat ein Unternehmen Folgendes anzugeben:
+a) 
+
+die Art des Fehlers aus einer früheren Periode,
+b) 
+
+die betragsmäßige Korrektur, soweit durchführbar, für jede frühere dargestellte Periode
+i) 
+
+für jeden einzelnen betroffenen Posten des Abschlusses und
+ii) 
+
+sofern IAS 33 auf das Unternehmen anwendbar ist, für das unverwässerte und das verwässerte Ergebnis je Aktie,
+c) 
+
+die betragsmäßige Korrektur am Anfang der frühesten dargestellten Periode und
+d) 
+
+wenn eine rückwirkende Berichtigung für eine bestimmte frühere Periode undurchführbar ist, so sind die Umstände darzustellen, die zu diesem Zustand geführt haben, und es ist anzugeben, wie und ab wann der Fehler korrigiert wurde.
+
+In den Abschlüssen späterer Perioden müssen diese Angaben nicht wiederholt werden.
+
+UNDURCHFÜHRBARKEIT HINSICHTLICH RÜCKWIRKENDER ANWENDUNG UND RÜCKWIRKENDER BERICHTIGUNG
+
+50 Die Anpassung von Vergleichsinformationen für eine oder mehrere frühere Perioden zur Erzielung der Vergleichbarkeit mit der aktuellen Berichtsperiode kann unter bestimmten Umständen undurchführbar sein. Beispielsweise wurden die Daten in der früheren Periode/den früheren Perioden eventuell nicht auf eine Art und Weise erfasst, die entweder die rückwirkende Anwendung einer neuen Rechnungslegungsmethode (darunter auch, im Sinne der Paragraphen 51–53, die prospektive Anwendung auf frühere Perioden) oder eine rückwirkende Berichtigung ermöglicht, um einen Fehler aus einer früheren Periode zu korrigieren; auch kann die Wiederherstellung von Informationen undurchführbar sein.
+
+51 Oftmals ist es bei der Anwendung einer Rechnungslegungsmethode auf Bestandteile eines Abschlusses, die im Zusammenhang mit Geschäftsvorfällen und sonstigen Ereignissen oder Bedingungen erfasst bzw. anzugeben sind, erforderlich, Schätzungen zu machen. Der Schätzungsprozess ist von Natur aus subjektiv, und Schätzungen können nach dem Abschlussstichtag entwickelt werden. Die Entwicklung von Schätzungen ist potenziell schwieriger, wenn eine Rechnungslegungsmethode rückwirkend angewandt wird oder eine Berichtigung rückwirkend vorgenommen wird, um einen Fehler aus einer früheren Periode zu korrigieren, weil ein eventuell längerer Zeitraum zurückliegt, seitdem der betreffende Geschäftsvorfall bzw. ein sonstiges Ereignis oder eine Bedingung eingetreten sind. Die Zielsetzung von Schätzungen im Zusammenhang mit früheren Perioden bleibt jedoch die gleiche wie für Schätzungen in der aktuellen Berichtsperiode, nämlich, dass die Schätzung die Umstände widerspiegeln soll, die zur Zeit des Geschäftsvorfalls oder des sonstigen Ereignisses oder der Bedingung existierten.
+
+52 Daher verlangt die rückwirkende Anwendung einer neuen Rechnungslegungsmethode oder die Korrektur eines Fehlers aus einer früheren Periode Informationen, die
+a) 
+
+einen Anhaltspunkt für die Umstände erbringen, die zu dem Zeitpunkt/den Zeitpunkten existierten, als der Geschäftsvorfall oder das sonstige Ereignis oder die Bedingung eintraten, und
+b) 
+
+zur Verfügung gestanden hätten, als die Abschlüsse für jene frühere Periode zur Veröffentlichung freigegeben wurden,
+
+von sonstigen Informationen zu unterscheiden. Für manche Arten von Schätzungen (z. B. eine Ermittlung des beizulegenden Zeitwerts, die auf wesentlichen, nicht beobachtbaren Eingangsparametern basiert) ist die Unterscheidung dieser Informationsarten undurchführbar. Erfordert eine rückwirkende Anwendung oder eine rückwirkende Berichtigung eine umfangreiche Schätzung, für die es unmöglich ist, diese beiden Informationsarten voneinander zu unterscheiden, so ist die rückwirkende Anwendung der neuen Rechnungslegungsmethode bzw. die rückwirkende Korrektur des Fehlers aus einer früheren Periode undurchführbar.
+
+53 Wird in einer früheren Periode eine neue Rechnungslegungsmethode angewandt oder eine Betragskorrektur vorgenommen, so sind keine nachträglichen Erkenntnisse zu verwenden; dies bezieht sich auf Annahmen hinsichtlich der Absichten des Managements in einer früheren Periode sowie auf Schätzungen der in einer früheren Periode erfassten, bewerteten oder angegebenen Beträge. Berichtigt ein Unternehmen beispielsweise einen Fehler, der in einer früheren Periode bei der Ermittlung seiner Rückstellung für den kumulierten Krankengeldanspruch nach IAS 19 Leistungen an Arbeitnehmer unterlaufen ist, lässt es Informationen über eine ungewöhnlich heftige Grippesaison während der nächsten Periode außer Acht, die erst zur Verfügung standen, nachdem der Abschluss für die frühere Periode zur Veröffentlichung freigegeben wurde. Die Tatsache, dass zur Änderung von Vergleichsinformationen für frühere Perioden oftmals umfangreiche Schätzungen erforderlich sind, verhindert keine zuverlässige Anpassung bzw. Korrektur der Vergleichsinformationen.
+
+ZEITPUNKT DES INKRAFTTRETENS UND ÜBERGANGSVORSCHRIFTEN
+
+54 Dieser Standard ist auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2005 beginnen. Eine frühere Anwendung wird empfohlen. Wendet ein Unternehmen diesen Standard für Berichtsperioden an, die vor dem 1. Januar 2005 beginnen, hat es dies anzugeben.
+
+54A [gestrichen]
+
+54B [gestrichen]
+
+54C Durch IFRS 13 Bewertung zum beizulegenden Zeitwert, veröffentlicht im Mai 2011, wurde Paragraph 52 geändert. Wendet ein Unternehmen IFRS 13 an, ist diese Änderung ebenfalls anzuwenden.
+
+54D [gestrichen]
+
+54E Durch IFRS 9 Finanzinstrumente, veröffentlicht im Juli 2014, wurde Paragraph 53 geändert und wurden die Paragraphen 54A, 54B und 54D gestrichen. Wendet ein Unternehmen IFRS 9 an, hat es diese Änderungen ebenfalls anzuwenden.
+
+54F Durch die 2018 veröffentlichte Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards wurden die Paragraphen 6 und 11(b) geändert. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig, wenn das Unternehmen gleichzeitig alle anderen mit der Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards einhergehenden Änderungen anwendet. Gemäß dem vorliegenden Standard sind die Änderungen an den Paragraphen 6 und 11(b) rückwirkend anzuwenden. Sollte das Unternehmen jedoch feststellen, dass eine rückwirkende Anwendung undurchführbar oder mit unangemessenem Kosten- oder Zeitaufwand verbunden wäre, hat es die Änderungen an den Paragraphen 6 und 11(b) mit Verweis auf die Paragraphen 23–28 dieses Standards anzuwenden. Wenn die rückwirkende Anwendung einer der in der Verlautbarung Änderungen der Verweise auf das Rahmenkonzept in IFRS-Standards enthaltenen Änderungen mit unangemessenem Kosten- oder Zeitaufwand verbunden wäre, so ist bei der Anwendung der Paragraphen 23–28 des vorliegenden Standards jeder Verweis (außer dem im letzten Satz des Paragraphen 27) auf „undurchführbar“ als „mit unangemessenem Kosten- oder Zeitaufwand verbunden“ und jeder Verweis auf „durchführbar“ als „ohne unangemessenen Kosten- oder Zeitaufwand möglich“ zu verstehen.
+
+54G Wendet ein Unternehmen IFRS 14 Regulatorische Abgrenzungsposten nicht an, so hat es bei der Anwendung des Paragraphen 11(b) auf die Salden regulatorischer Posten weiterhin auf die im Rahmenkonzept für die Aufstellung und Darstellung von Abschlüssen ( 5 ) und nicht auf die im Rahmenkonzept für die Finanzberichterstattung enthaltenen Definitionen, Erfassungskriterien und Bewertungskonzepte Bezug zu nehmen und deren Anwendbarkeit zu erwägen. Der Saldo eines regulatorischen Postens ist der Saldo eines jeden Aufwands- (oder Ertrags-)postens, der nicht nach einem anderen anwendbaren IFRS-Standard als Vermögenswert oder Schuld erfasst wird, sondern vom Preisregulierer in die Festlegung des Preises/der Preise, der/die den Kunden in Rechnung gestellt werden kann/können, einbezogen oder voraussichtlich einbezogen wird. Ein Preisregulierer ist ein autorisiertes Organ, das aufgrund seiner Satzung oder kraft Rechtsvorschriften dazu ermächtigt ist, einen für ein Unternehmen verbindlichen Preis oder ein für ein Unternehmen verbindliches Preisspektrum festzulegen. Der Preisregulierer kann eine vom Unternehmen unabhängige Institution oder ein verbundenes Unternehmen, einschließlich des Leitungsorgans des Unternehmens, sein, wenn diese/s satzungsbedingt oder aufgrund von Rechtsvorschriften dazu verpflichtet ist, Preise sowohl im Interesse der Kunden als auch zur Sicherstellung der finanziellen Tragfähigkeit des Unternehmens festzusetzen.
+
+54H Mit der im Oktober 2018 veröffentlichten Verlautbarung Definition von „wesentlich“ (Änderungen an IAS 1 und IAS 8) wurden Paragraph 7 von IAS 1 und Paragraph 5 von IAS 8 geändert und Paragraph 6 von IAS 8 gestrichen. Diese Änderungen sind prospektiv auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2020 beginnen. Eine frühere Anwendung ist zulässig. Wendet ein Unternehmen diese Änderungen früher an, hat es dies anzugeben.
+
+54I Mit der im Februar 2021 veröffentlichten Verlautbarung Definition von rechnungslegungsbezogenen Schätzungen wurden die Paragraphen 5, 32, 34, 38 und 48 geändert und die Paragraphen 32A, 32B und 34A angefügt. Diese Änderungen sind auf Geschäftsjahre anzuwenden, die am oder nach dem 1. Januar 2023 beginnen. Eine frühere Anwendung ist zulässig. Ein Unternehmen hat diese Änderungen auf Änderungen von rechnungslegungsbezogenen Schätzungen und Änderungen von Rechnungslegungsmethoden anzuwenden, die zum oder nach dem Beginn des ersten Geschäftsjahres, in dem es diese Änderungen anwendet, eintreten.
+
+RÜCKNAHME ANDERER VERLAUTBARUNGEN
+
+55 Dieser Standard ersetzt IAS 8 Periodenergebnis, grundlegende Fehler und Änderungen der Rechnungslegungsmethoden (überarbeitet 1993).
+
+56 Dieser Standard ersetzt die folgenden Interpretationen:
+a) 
+
+SIC-2 Stetigkeit — Aktivierung von Fremdkapitalkosten und
+b) 
+
+SIC-18 Stetigkeit — Alternative Verfahren.
